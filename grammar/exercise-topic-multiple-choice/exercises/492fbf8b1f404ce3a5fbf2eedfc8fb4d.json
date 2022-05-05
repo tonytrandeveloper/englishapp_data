@@ -1,0 +1,110 @@
+{
+    "id": "492fbf8b1f404ce3a5fbf2eedfc8fb4d",
+    "title": "Should and Would | Grammar Exercise",
+    "questions": [
+        {
+            "question": "Everyone …………….. wear a helmet.",
+            "description": "We use should to show obligation. ",
+            "answers": [
+                "should",
+                "would"
+            ],
+            "correct": 0,
+            "id": "bca71aece1d042c1826fdb6959792b6e"
+        },
+        {
+            "question": "When we were kids we ……………… spend hours playing caroms.",
+            "description": "We use would to talk about past habits. ",
+            "answers": [
+                "should",
+                "would"
+            ],
+            "correct": 1,
+            "id": "24ca010b700946da8de85bbbcec6a6b8"
+        },
+        {
+            "question": "I told him that I ……………… probably be late.",
+            "description": "In American English, should is not normally possible here. ",
+            "answers": [
+                "would",
+                "should",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "bb5cd57927d14fae946d677c7a73d5cf"
+        },
+        {
+            "question": "We ……………….. be grateful for an early reply.",
+            "description": "Note that in American English, should is not normally used in this situation.",
+            "answers": [
+                "would",
+                "should",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "0a95705e958a41b4958638c8354c2945"
+        },
+        {
+            "question": "……………… I open the door?",
+            "description": "",
+            "answers": [
+                "Should",
+                "Would",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "b1744b2789fb4be28ffc555764c789f0"
+        },
+        {
+            "question": "If we all sang in tune, it ………………. be so bad.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would / could / might + infinitive in the main clause. ",
+            "answers": [
+                "wouldn't",
+                "shouldn't"
+            ],
+            "correct": 0,
+            "id": "e2e5cca510614fad83e08e2f314f05f0"
+        },
+        {
+            "question": "……………….. I turn the heating on?",
+            "description": "Should is used in polite inquiries. Would is used in polite requests. ",
+            "answers": [
+                "Should",
+                "Would"
+            ],
+            "correct": 0,
+            "id": "726cbb8f18964ac685a5eaa764af5ab0"
+        },
+        {
+            "question": "………………. we invite Judy?",
+            "description": "",
+            "answers": [
+                "Should",
+                "Would"
+            ],
+            "correct": 0,
+            "id": "5a150e8a8e3642af9786958347ac3677"
+        },
+        {
+            "question": "………………… you mind moving a bit?",
+            "description": "The expression 'would you mind' is a polite way of requesting someone to do something. ",
+            "answers": [
+                "Would",
+                "Should"
+            ],
+            "correct": 0,
+            "id": "6495117f983a4f6586b844c7c14210e5"
+        },
+        {
+            "question": "She ……………… be informed.",
+            "description": "Should shows necessity. ",
+            "answers": [
+                "should",
+                "would",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "4c091501df6049d9bc2e025abccf8873"
+        }
+    ]
+}

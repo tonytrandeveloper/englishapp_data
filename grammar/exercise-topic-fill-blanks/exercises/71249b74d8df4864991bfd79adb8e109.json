@@ -1,0 +1,595 @@
+{
+    "id": "71249b74d8df4864991bfd79adb8e109",
+    "title": "Make the zero conditional",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wake up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(wake up) late, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'m",
+                        "am"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) late for work."
+                }
+            ],
+            "id": "ed67a76a07bd4df49a1340ea964ca754"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If my husband"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "cooks"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(cook) , he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "burns"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(burn) the food."
+                }
+            ],
+            "id": "260ac0b5d283400e87c0736b77078aff"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If Julie"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "doesn't wear",
+                        "does not wear"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/wear) a hat, she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "gets"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get) sunstroke."
+                }
+            ],
+            "id": "5e0a8a6bd5ae422399d568fc536b9ede"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If children"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "don't eat",
+                        "do not eat"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/eat) well, they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "aren't",
+                        "are not"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) healthy."
+                }
+            ],
+            "id": "f0c759560447428cb781b6745c15fcf5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "mix"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(mix) water and electricity, you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "get"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get) a shock."
+                }
+            ],
+            "id": "a4fc017755bb4c40bfe3fea82c92bbf8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If people"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "eat"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) too many sweets, they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "get"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get) fat."
+                }
+            ],
+            "id": "4655ba22c5dd47ce8d8f1990eebdf64b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "smoke"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(smoke) , you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "get"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get) yellow fingers."
+                }
+            ],
+            "id": "75bbb775a4f24b8284f64bdf6426ac54"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If children"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "play"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(play) outside, they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "don't get",
+                        "do not get"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/get) overweight."
+                }
+            ],
+            "id": "5c67f2cb363649ada84d6ac46980c7bf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "heat"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(heat) ice, it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "melts"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(melt)."
+                }
+            ],
+            "id": "2f2d8637c5f94651bb7de3c456acb793"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "speak"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(speak) to John, he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "gets"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get) annoyed."
+                }
+            ],
+            "id": "688500f0fe634e2694b63b27e19fb851"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "feel"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(feel) good the next day if I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to bed early."
+                }
+            ],
+            "id": "b4b9beb56eee4d0c83acebe5ecb88d48"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lots of people"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "come"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(come) if Jenny"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a party."
+                }
+            ],
+            "id": "acbb8a4aa3854752be8e01f21849d8fc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "buys"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) expensive clothes if she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "goes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) shopping."
+                }
+            ],
+            "id": "ba717d653d07495ba79903de058a2c23"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My daughter"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "passes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(pass) her exams if she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "works"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(work) hard."
+                }
+            ],
+            "id": "7cde457f2b3d42f59308481da7a143c5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "is"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) sick if he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "drinks"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(drink) milk."
+                }
+            ],
+            "id": "08cbe4c7e6c34099adfd3a34d65a022e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The river"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "freezes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(freeze) if it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s",
+                        "is"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) very cold."
+                }
+            ],
+            "id": "554e1f5f5f3140379861115cd0dc5884"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "like"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(like) to visit the museums if I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'m",
+                        "am"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in a new city."
+                }
+            ],
+            "id": "bd7fc7bc6e414f8bb81398c52664f23a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "cycle"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(cycle) to work if the weather"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s",
+                        "is"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) fine."
+                }
+            ],
+            "id": "36befd9b26d1471bb8230de8f285d336"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My flatmate"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "cleans"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(clean) really well if she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "cleans"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(clean) the house."
+                }
+            ],
+            "id": "94cea4f56ab64380b51163517b118f1d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Everybody"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "is",
+                        "'s"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) grumpy if it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "rains"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(rain) a lot."
+                }
+            ],
+            "id": "ee3d686ddc1644e2a41d7d089abc3fb6"
+        }
+    ]
+}

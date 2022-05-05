@@ -1,0 +1,138 @@
+{
+    "id": "b079d5b1f81346b6b32365ba6b438f9f",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "He …………………………… before I reached his house.",
+            "description": "We use the past perfect tense for the earlier of two past actions. ",
+            "answers": [
+                "left",
+                "has left",
+                "had left"
+            ],
+            "correct": 2,
+            "id": "837638458b4e43989e86239a6c54fe30"
+        },
+        {
+            "question": "She always ……………………………… neat clothes.",
+            "description": "We use the simple present to talk about the habits of people. ",
+            "answers": [
+                "is wearing",
+                "wears",
+                "has worn"
+            ],
+            "correct": 1,
+            "id": "192e3e02275a4b4a82c7a21a19886709"
+        },
+        {
+            "question": "I ………………………… never forget what you just told me.",
+            "description": "",
+            "answers": [
+                "will",
+                "would",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "f6448c8e2f0b44abb99a072560feb1e3"
+        },
+        {
+            "question": "I ………………………….. her and she ………………………. at once.",
+            "description": "We use the simple past to talk about two past events that took place almost simultaneously. ",
+            "answers": [
+                "phoned, came",
+                "have phoned, has come",
+                "phoned, had come"
+            ],
+            "correct": 0,
+            "id": "f1ba3830de2d486c81afe63c47cd3d29"
+        },
+        {
+            "question": "The boy …………………………….. for cheating on the exam.",
+            "description": "We need a passive verb form here because the subject is not the doer of the action.",
+            "answers": [
+                "punished",
+                "was punished",
+                "has punished"
+            ],
+            "correct": 1,
+            "id": "3de705457f224f2bb7d8d0f8871d41f2"
+        },
+        {
+            "question": "I …………………………….. the letter in the morning.",
+            "description": "The simple past is the most common tense for talking about finished actions or situations. ",
+            "answers": [
+                "received",
+                "have received",
+                "was receiving"
+            ],
+            "correct": 0,
+            "id": "fa2edea3e9754d66acfa503ee538ca6d"
+        },
+        {
+            "question": "The winners ………………………………… by the chief guest.",
+            "description": "",
+            "answers": [
+                "felicitated",
+                "were felicitated",
+                "were felicitating"
+            ],
+            "correct": 1,
+            "id": "a6036088165446a88bba9461968afee6"
+        },
+        {
+            "question": "I am not worried about the test. I ……………………………… well.",
+            "description": "If you have prepared well for the test, you are prepared for the test. We use the present perfect to talk about finished events whose effect is still felt in the present.",
+            "answers": [
+                "am prepared",
+                "have prepared",
+                "prepared"
+            ],
+            "correct": 1,
+            "id": "1d864a87ce7442f8a3526e90a2122143"
+        },
+        {
+            "question": "Hundreds of people ………………………… in the riots.",
+            "description": "",
+            "answers": [
+                "died",
+                "were died",
+                "had died"
+            ],
+            "correct": 0,
+            "id": "ef05ae6e53e246a8b40195e058cb1093"
+        },
+        {
+            "question": "Four members of the family ……………………………. in the accident.",
+            "description": "We need a passive form here because they didn’t kill anyone. They were killed.",
+            "answers": [
+                "killed",
+                "were killed",
+                "have killed"
+            ],
+            "correct": 1,
+            "id": "80eb1f3d54a24524a5e4627687cdc457"
+        },
+        {
+            "question": "The athlete …………………………. the distance in a record time.",
+            "description": "",
+            "answers": [
+                "ran",
+                "has run",
+                "had run"
+            ],
+            "correct": 0,
+            "id": "bc7bd8b58de54bcdb6e2292c7133178e"
+        },
+        {
+            "question": "After the visitor ………………………….. I went to bed.",
+            "description": "",
+            "answers": [
+                "left",
+                "had left",
+                "was leaving"
+            ],
+            "correct": 1,
+            "id": "11bac9a7c5254aa09b5a2baccbc738ac"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "id": "864ca4ac52f14deb8ca54b223970650d",
+    "title": "If Clauses Exercise",
+    "questions": [
+        {
+            "question": "I will come if I ………………. time.",
+            "description": "",
+            "answers": [
+                "will have",
+                "had",
+                "have"
+            ],
+            "correct": 2,
+            "id": "365548e8b85041e5af24a32c0287908c"
+        },
+        {
+            "question": "If you ……………… into Peter, tell him that he owes me a letter.",
+            "description": "",
+            "answers": [
+                "ran",
+                "run",
+                "had run"
+            ],
+            "correct": 1,
+            "id": "6f76fb95dc914723aabdfc9e46513ced"
+        },
+        {
+            "question": "If he is late, we …………………. without him.",
+            "description": "",
+            "answers": [
+                "will start",
+                "would start",
+                "would have started"
+            ],
+            "correct": 0,
+            "id": "03b1e3aa9aed4f5b80991ff8da349c76"
+        },
+        {
+            "question": "If you ………………. me, I would have told you.",
+            "description": "",
+            "answers": [
+                "asked",
+                "will ask",
+                "had asked"
+            ],
+            "correct": 2,
+            "id": "430013bebf1f43f0b07ea88969eb0bf8"
+        },
+        {
+            "question": "Will it be all right if I ………… a friend tonight?",
+            "description": "",
+            "answers": [
+                "bring",
+                "brought",
+                "had brought"
+            ],
+            "correct": 0,
+            "id": "a2f40af3a022441d928201b7e8b2a17f"
+        },
+        {
+            "question": "If he ………….. a bit faster, he could have won.",
+            "description": "",
+            "answers": [
+                "has run",
+                "had run",
+                "ran"
+            ],
+            "correct": 1,
+            "id": "5d6c4f84b67d4dc1b68efcda05220c18"
+        },
+        {
+            "question": "If I hadn’t been so tired, I ……………… up.",
+            "description": "",
+            "answers": [
+                "would not give",
+                "would not have given",
+                "will not give"
+            ],
+            "correct": 1,
+            "id": "4626c2e2de0042fca855902bd6bb1df9"
+        },
+        {
+            "question": "If you ………………… to learn a musical instrument, you have to practice.",
+            "description": "",
+            "answers": [
+                "want",
+                "wants",
+                "wanted"
+            ],
+            "correct": 0,
+            "id": "eaaaaaafbd43431db4200c1f40b45eab"
+        }
+    ]
+}

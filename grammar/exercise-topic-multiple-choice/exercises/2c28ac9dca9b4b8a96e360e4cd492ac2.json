@@ -1,0 +1,140 @@
+{
+    "id": "2c28ac9dca9b4b8a96e360e4cd492ac2",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "A bevy of ……………………",
+            "description": "",
+            "answers": [
+                "kittens",
+                "cars",
+                "girls"
+            ],
+            "correct": 2,
+            "id": "d8121bf4832a4408a0d00f92e102d8fb"
+        },
+        {
+            "question": "A litter of ……………………..",
+            "description": "",
+            "answers": [
+                "calves",
+                "puppies",
+                "parrots"
+            ],
+            "correct": 1,
+            "id": "57473840a8aa4e10ac91ddd8a795d426"
+        },
+        {
+            "question": "Each of the girls ……………………. given a present.",
+            "description": "Use a singular verb after each and every.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "f1772fbe40b046b3a69a1d3d9c8412f8"
+        },
+        {
+            "question": "She accompanied her children ……………………….. the bus stand.",
+            "description": "Till and until shows time up to shows distance.",
+            "answers": [
+                "till",
+                "until",
+                "up to"
+            ],
+            "correct": 2,
+            "id": "01a4969c57c14e18883607a4897b32b6"
+        },
+        {
+            "question": "The father unlike his sons ……………… hard working.",
+            "description": "Here the subject is the singular noun father.",
+            "answers": [
+                "is",
+                "are",
+                "were"
+            ],
+            "correct": 0,
+            "id": "f9b318f61251490ab8599727859bfd6e"
+        },
+        {
+            "question": "He as well as I ……………………. interested in music.",
+            "description": "When you connect two subjects with as well as, the verb agrees with the former subject. ",
+            "answers": [
+                "am",
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "3cbb5980a0a847a58457aa08cc0a8595"
+        },
+        {
+            "question": "I had hardly reached the station ……………………… the train left.",
+            "description": "",
+            "answers": [
+                "when",
+                "soon",
+                "before"
+            ],
+            "correct": 0,
+            "id": "33bff0c0197844678b6b4da40f6c0c51"
+        },
+        {
+            "question": "Don’t open the packet. Change into passive",
+            "description": "We use let to change imperatives into passive.",
+            "answers": [
+                "Open not the packet",
+                "Packet not be opened",
+                "Let the packet not be opened"
+            ],
+            "correct": 2,
+            "id": "124d0a5770ab4d2f809c19e888471b7c"
+        },
+        {
+            "question": "Either the teacher or the students ………………………. clean the class room.",
+            "description": "When we connect two subjects with either/or, the verb agrees with the second subject. ",
+            "answers": [
+                "has to",
+                "have to",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "5f0e557019824ddaa7e99994274f74fd"
+        },
+        {
+            "question": "…………………… begins at home.",
+            "description": "",
+            "answers": [
+                "Happiness",
+                "Peace",
+                "Character",
+                "Charity"
+            ],
+            "correct": 3,
+            "id": "2892f07adba348de9798d1cbc7596713"
+        },
+        {
+            "question": "To meet one’s Waterloo is to ……………………",
+            "description": "",
+            "answers": [
+                "fight hard",
+                "surrender",
+                "meet one's final defeat",
+                "win"
+            ],
+            "correct": 2,
+            "id": "de4745a119b941e9b5283d0fbdea56f3"
+        },
+        {
+            "question": "The plural of ox is …………………..",
+            "description": "",
+            "answers": [
+                "oxes",
+                "oxs",
+                "oxen",
+                "oxens"
+            ],
+            "correct": 2,
+            "id": "fdc9ef0ef29c4cba9411bfcc786630f1"
+        }
+    ]
+}

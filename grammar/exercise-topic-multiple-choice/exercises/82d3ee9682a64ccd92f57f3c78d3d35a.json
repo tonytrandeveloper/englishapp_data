@@ -1,0 +1,138 @@
+{
+    "id": "82d3ee9682a64ccd92f57f3c78d3d35a",
+    "title": "Though, However, Despite, But",
+    "questions": [
+        {
+            "question": "………………………….. his best efforts, he could not pass the test.",
+            "description": "Despite is a preposition. It is used before a noun or noun phrase. ",
+            "answers": [
+                "Despite",
+                "However",
+                "Though"
+            ],
+            "correct": 0,
+            "id": "28100343544f484aa2d889b77e934e40"
+        },
+        {
+            "question": "She is not very beautiful …………………………, you cannot help liking her.",
+            "description": "However is a transitional adverb. In meaning it is similar to but, but it is not a conjunction. ",
+            "answers": [
+                "however",
+                "though",
+                "but"
+            ],
+            "correct": 0,
+            "id": "9f77ae8d82d24e90aed0796fee851fde"
+        },
+        {
+            "question": "…………………………….. she was there, she refused to talk to me.",
+            "description": "Though is used to connect two contrasting ideas. ",
+            "answers": [
+                "Though",
+                "However",
+                "But"
+            ],
+            "correct": 0,
+            "id": "e098977e4b264721a3b7cd6b3f4b86b3"
+        },
+        {
+            "question": "I went to his home …………………………. I could not meet him.",
+            "description": "Use a full stop or a semicolon before however. ",
+            "answers": [
+                "however",
+                "but",
+                "though"
+            ],
+            "correct": 1,
+            "id": "bd459f55e38d4f65b5fd140e2baa2c74"
+        },
+        {
+            "question": "……………………………. she was the most deserving candidate, she didn’t get the job.",
+            "description": "Though is a conjunction it is followed by a clause.",
+            "answers": [
+                "Though",
+                "However",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "a63cd13fa0c141af976722cab1f754e3"
+        },
+        {
+            "question": "…………………………….. her strange accent, I could understand her.",
+            "description": "",
+            "answers": [
+                "Though",
+                "Despite",
+                "However"
+            ],
+            "correct": 1,
+            "id": "5e281c236f5e461398477d8e99a7fe7a"
+        },
+        {
+            "question": "She works three jobs …………………………….., she does not earn enough to make a living.",
+            "description": "",
+            "answers": [
+                "however",
+                "but",
+                "despite"
+            ],
+            "correct": 0,
+            "id": "1fd52d2832164ec4a968874bcfdab269"
+        },
+        {
+            "question": "………………………………. she is younger than me, she is the wiser of us two.",
+            "description": "",
+            "answers": [
+                "Though",
+                "Despite",
+                "However"
+            ],
+            "correct": 0,
+            "id": "3f84e33a31a54d08ba7dbd8e40347a27"
+        },
+        {
+            "question": "………………………………. their best efforts, they could not save her.",
+            "description": "Despite and in spite of mean the same. ",
+            "answers": [
+                "In spite of",
+                "Despite",
+                "Either could be used here."
+            ],
+            "correct": 2,
+            "id": "0f218421131f4199958a7fdece913826"
+        },
+        {
+            "question": "……………………………. hard you try, you will not be able to win.",
+            "description": "However hard means not matter how hard. ",
+            "answers": [
+                "Though",
+                "However",
+                "Despite"
+            ],
+            "correct": 1,
+            "id": "3bb098fe8b1a4d36999e57a967ddca58"
+        },
+        {
+            "question": "……………………………. they played to the best of their abilities, they could not win the match.",
+            "description": "",
+            "answers": [
+                "Though",
+                "Despite",
+                "However"
+            ],
+            "correct": 0,
+            "id": "0a4ab5e3540b43a7ba6e27e25decb72b"
+        },
+        {
+            "question": "Strange …………………………… it might sound, I don’t enjoy music.",
+            "description": "Strange through it might sound means the same as though it might sound strange. ",
+            "answers": [
+                "however",
+                "though",
+                "but"
+            ],
+            "correct": 1,
+            "id": "dbe75a76e66e45178b9629cb0a008432"
+        }
+    ]
+}

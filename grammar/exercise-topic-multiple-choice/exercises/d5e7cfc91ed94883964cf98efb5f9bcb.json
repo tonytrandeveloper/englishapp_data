@@ -1,0 +1,127 @@
+{
+    "id": "d5e7cfc91ed94883964cf98efb5f9bcb",
+    "title": "Subject Verb Agreement",
+    "questions": [
+        {
+            "question": "The performance of the students ………………………….. excellent.",
+            "description": "Here the subject is the singular noun performance. ",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "70dab02877b64f11988a72b51bff53ba"
+        },
+        {
+            "question": "More than 10,000 kilometers ………………………. India from Europe.",
+            "description": "When we talk about distance expressions like 10,000 kilometers are treated as singular. ",
+            "answers": [
+                "separate",
+                "separates"
+            ],
+            "correct": 1,
+            "id": "6be93a830f0d4e1abf0a250d8073a8c1"
+        },
+        {
+            "question": "One of my sisters ……………………….. abroad.",
+            "description": "Here the subject is the singular expression one. ",
+            "answers": [
+                "live",
+                "lives"
+            ],
+            "correct": 1,
+            "id": "6fbf72e8fc414bfe9874f19e50220d38"
+        },
+        {
+            "question": "Neither of them ……………………….. here.",
+            "description": "Use a singular verb after either and neither. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "77ef3599402c4cd0932a00d2b32304bb"
+        },
+        {
+            "question": "Everybody ………………………. come.",
+            "description": "Use a singular verb after every, everybody, everyone etc. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "c8dd5cb6b9f8403c99a5d44c17a0ec4d"
+        },
+        {
+            "question": "Each of the students …………………………. punished.",
+            "description": "Use a singular verb after each, every.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "084831b4da2b441e8c36cdea28712568"
+        },
+        {
+            "question": "One of the students ……………………….. missing.",
+            "description": "Use a singular verb after one of.",
+            "answers": [
+                "is",
+                "are",
+                "were"
+            ],
+            "correct": 0,
+            "id": "9aca81fb1f7c4121b45e4416bf3cf238"
+        },
+        {
+            "question": "The officer as well as the subordinates ………………………… present.",
+            "description": "When we connect two nouns with as well as, the verb agrees with the first. ",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "caeb4e14c8b244b783b456f60ccf9cde"
+        },
+        {
+            "question": "Neither of the statements ………………………….. true.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "b3f2b6ced0fd457da3eda840469ea1ec"
+        },
+        {
+            "question": "Many parents ………………………… present at the meeting.",
+            "description": "",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "b7ef270bd984458e8d6dd24ab864288c"
+        },
+        {
+            "question": "She always ……………………….. fault with others.",
+            "description": "The subject is the singular pronoun she.",
+            "answers": [
+                "finds",
+                "find"
+            ],
+            "correct": 0,
+            "id": "80cf31390d6149b69a165d576799fdae"
+        },
+        {
+            "question": "The moon as well as the stars ………………………. us light.",
+            "description": "",
+            "answers": [
+                "give",
+                "gives"
+            ],
+            "correct": 1,
+            "id": "bd3a0847b8a14eb7964f757bf2c0a41a"
+        }
+    ]
+}

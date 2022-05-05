@@ -1,0 +1,110 @@
+{
+    "id": "69c2b1b5c26c4578b9bca64b487dfc17",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "We have lived here ........................................ 10 years.",
+            "description": "",
+            "answers": [
+                "for",
+                "since"
+            ],
+            "correct": 0,
+            "id": "1a66a0d6c94042c29d831c9ba639a596"
+        },
+        {
+            "question": "He was accused ............................................. stealing.",
+            "description": "",
+            "answers": [
+                "with",
+                "of"
+            ],
+            "correct": 1,
+            "id": "70592ccd88cf46698f5ee45b7e7ae254"
+        },
+        {
+            "question": "We .......................................... the work yesterday.",
+            "description": "",
+            "answers": [
+                "finished",
+                "have finished"
+            ],
+            "correct": 0,
+            "id": "c5d271d315cf4d67af4703abe36c86b8"
+        },
+        {
+            "question": "You won’t get well unless you ......................................... your medicine.",
+            "description": "",
+            "answers": [
+                "take",
+                "are taking"
+            ],
+            "correct": 0,
+            "id": "e008ebbf3bb9454d97f365f52c30a662"
+        },
+        {
+            "question": "He has been living in this house ...................................... five years.",
+            "description": "",
+            "answers": [
+                "since",
+                "for"
+            ],
+            "correct": 1,
+            "id": "ea9568155a08408f97bca9091ff3a381"
+        },
+        {
+            "question": "We .............................................. English for the last seven years.",
+            "description": "",
+            "answers": [
+                "are learning",
+                "learns",
+                "have been learning"
+            ],
+            "correct": 2,
+            "id": "13c13516960d48588a331bca9d2d3879"
+        },
+        {
+            "question": "Yesterday ........................................... a holiday, he went to see a film.",
+            "description": "",
+            "answers": [
+                "was",
+                "being"
+            ],
+            "correct": 1,
+            "id": "7f448721d44d47338a6d58a90fef8120"
+        },
+        {
+            "question": "The new headmaster wants a house to ..........................................",
+            "description": "",
+            "answers": [
+                "live",
+                "live in",
+                "live at"
+            ],
+            "correct": 1,
+            "id": "81c6314cb9b9410d87e63e4948d66678"
+        },
+        {
+            "question": "I ................................................ for you since 9 o’clock in the morning.",
+            "description": "",
+            "answers": [
+                "am waiting",
+                "waited",
+                "have been waiting"
+            ],
+            "correct": 2,
+            "id": "62b804c3785c43cea64918855dafd8c5"
+        },
+        {
+            "question": "I ........................................ all the books to the library yesterday.",
+            "description": "",
+            "answers": [
+                "returned",
+                "have returned",
+                "has returned"
+            ],
+            "correct": 0,
+            "id": "bd545098531845b4b82c59caa13edc0e"
+        }
+    ]
+}

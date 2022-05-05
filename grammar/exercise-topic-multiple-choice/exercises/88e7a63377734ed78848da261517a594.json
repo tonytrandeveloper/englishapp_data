@@ -1,0 +1,138 @@
+{
+    "id": "88e7a63377734ed78848da261517a594",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "You won't get the job ............................. you pass the test.",
+            "description": "Unless means if not. It is used to express a condition. ",
+            "answers": [
+                "if",
+                "unless",
+                "whether"
+            ],
+            "correct": 1,
+            "id": "2a577e6acf2d4774b10773555eab6513"
+        },
+        {
+            "question": "I have always wished I .............................",
+            "description": "",
+            "answers": [
+                "would sing",
+                "could sing",
+                "should sing"
+            ],
+            "correct": 1,
+            "id": "c4bdfb1b129d4c2fa7fa0a8844771f99"
+        },
+        {
+            "question": "You must learn to stand up .............................. yourself.",
+            "description": "To stand up for yourself is to defend yourself. ",
+            "answers": [
+                "of",
+                "for",
+                "with"
+            ],
+            "correct": 1,
+            "id": "7043518a212f451fa7c2851a1a863b02"
+        },
+        {
+            "question": "Nobody thought she would be brave enough to stand up ............................... him.",
+            "description": "To stand up to somebody is to not allow them to treat you badly.",
+            "answers": [
+                "with",
+                "against",
+                "to"
+            ],
+            "correct": 2,
+            "id": "145af30b0b2149ca8aeca7b77c9bd804"
+        },
+        {
+            "question": "Please tell ................................. to leave.",
+            "description": "There is no preposition before tell and its object.",
+            "answers": [
+                "him",
+                "to him",
+                "of him"
+            ],
+            "correct": 0,
+            "id": "f00c6798333943b29b221a431493bb70"
+        },
+        {
+            "question": ".................................. they worked overtime, they could not finish the project on time.",
+            "description": "Although is a conjunction. It is used to connect two contrasting ideas.",
+            "answers": [
+                "Although",
+                "However",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "6c8ba3754af8489e829918f4e9e8b901"
+        },
+        {
+            "question": "I would be grateful if you ............................... help me with this.",
+            "description": "",
+            "answers": [
+                "would",
+                "could",
+                "can"
+            ],
+            "correct": 1,
+            "id": "e4c3a5b299b540eca6634c905de666a2"
+        },
+        {
+            "question": "When plants die, they give ............................... gases such as carbon dioxide.",
+            "description": "To give something off is to produce it.",
+            "answers": [
+                "out",
+                "off",
+                "up"
+            ],
+            "correct": 1,
+            "id": "6d12e7f406cf46eca790706cea8a5ed6"
+        },
+        {
+            "question": "It is time you ..............................",
+            "description": "We use a past tense with a present meaning after It is time.",
+            "answers": [
+                "leave",
+                "have left",
+                "left"
+            ],
+            "correct": 2,
+            "id": "cc783c2af4044079b0b778198b780ccb"
+        },
+        {
+            "question": "He is ………………………… older than his wife.",
+            "description": "We cannot use very with comparative adjectives.",
+            "answers": [
+                "much",
+                "very",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "cd1fd7c59a4f4ed985b6b3028ea0ecf8"
+        },
+        {
+            "question": "What are you wearing ………………………… your sweater?",
+            "description": "",
+            "answers": [
+                "under",
+                "below",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "c2e6eb421f424ea681fb7f9defd6ce96"
+        },
+        {
+            "question": "Have you got ………………………… razor blades?",
+            "description": "We use any in questions and some in affirmative sentences. ",
+            "answers": [
+                "any",
+                "some",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "5e53608a128e438dacdac2eef9edea53"
+        }
+    ]
+}

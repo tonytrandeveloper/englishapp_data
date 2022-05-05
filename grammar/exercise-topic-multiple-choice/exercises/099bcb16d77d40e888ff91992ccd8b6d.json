@@ -1,0 +1,136 @@
+{
+    "id": "099bcb16d77d40e888ff91992ccd8b6d",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "This is the first time I ……………………… them.",
+            "description": "The present perfect is used after this is the first/second etc. ",
+            "answers": [
+                "meet",
+                "met",
+                "have met"
+            ],
+            "correct": 2,
+            "id": "672fa016ea194117ad5fdb3536684aa3"
+        },
+        {
+            "question": "Fossil fuels ……………………….. oil and natural gas are not renewable.",
+            "description": "Such as is used to give examples. You have to start a new sentence with for example or for instance. ",
+            "answers": [
+                "for example",
+                "such as",
+                "such that"
+            ],
+            "correct": 1,
+            "id": "a74be6075bf44c679483f01c92557114"
+        },
+        {
+            "question": "The boy ....................... walked in right now is my neighbor’s son.",
+            "description": "When the relative pronoun is the subject of the relative clause, we use who to refer to people. ",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "2d00f89161354de791839d5af8c1fe50"
+        },
+        {
+            "question": "You …………………………….. not disturb him.",
+            "description": "Had better is used to give strong advice. ",
+            "answers": [
+                "have better",
+                "had better",
+                "had better to"
+            ],
+            "correct": 1,
+            "id": "6a8fe893c05543be9ad38ba08221cf0c"
+        },
+        {
+            "question": "You ......................... go now.",
+            "description": "Must is a modal auxiliary. Questions and negatives are made without do.",
+            "answers": [
+                "don't must",
+                "not must",
+                "must not"
+            ],
+            "correct": 2,
+            "id": "dcb86909a6cf42b6b57753b1455215e3"
+        },
+        {
+            "question": "I looked around but I didn’t find …………………………..",
+            "description": "Not anybody means the same as nobody.",
+            "answers": [
+                "somebody",
+                "anybody",
+                "nobody"
+            ],
+            "correct": 1,
+            "id": "955531bf4372413fb67fc4647107812d"
+        },
+        {
+            "question": "None of us ………………………………. English.",
+            "description": "A singular verb is more common after none.",
+            "answers": [
+                "speak",
+                "speaks"
+            ],
+            "correct": 1,
+            "id": "43e1f43a6fac40828cf1a1dbc5135c7d"
+        },
+        {
+            "question": "I would ………………………. you went home now.",
+            "description": "Would rather shows preference. ",
+            "answers": [
+                "prefer",
+                "like",
+                "rather"
+            ],
+            "correct": 2,
+            "id": "9f3e197bdd514d259aaf39688974705c"
+        },
+        {
+            "question": "We should do something before the situation gets …………………………",
+            "description": "Worse is the comparative form of bad. ",
+            "answers": [
+                "bad",
+                "worse",
+                "worst"
+            ],
+            "correct": 1,
+            "id": "e4f27791e6364be3a56f29c5d3674948"
+        },
+        {
+            "question": "She passed the test …………………………….. her teacher.",
+            "description": "Because of is a preposition. It is used before a noun.",
+            "answers": [
+                "because",
+                "because of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "897c8dc70eee44c6bb1d4b77ff5b1fdd"
+        },
+        {
+            "question": "She cried …………………………… she was in pain.",
+            "description": "Because is a conjunction it is used to introduce a clause.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "d8de1bae4e5141069012b14e4206afa5"
+        },
+        {
+            "question": "He was praised ……………………………. his honesty.",
+            "description": "",
+            "answers": [
+                "to",
+                "for",
+                "on"
+            ],
+            "correct": 1,
+            "id": "8e59ced5aa204ed49028be7ef4c68387"
+        }
+    ]
+}

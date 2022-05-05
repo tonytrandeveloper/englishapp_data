@@ -1,0 +1,136 @@
+{
+    "id": "f5b6749b8968402798536525f45da7d0",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "I .......................... to go many days ago.",
+            "description": "We use the simple past tense with past time expressions like ago. ",
+            "answers": [
+                "decided",
+                "have decided",
+                "am deciding"
+            ],
+            "correct": 0,
+            "id": "d43697c818f54c7ea5a5743cb966cb28"
+        },
+        {
+            "question": "Only ............................... people attended the meeting.",
+            "description": "We use 'a few' to mean 'some'. Few means almost none. ",
+            "answers": [
+                "few",
+                "a few",
+                "the few"
+            ],
+            "correct": 1,
+            "id": "e6f3d9bc05434a8ea8e1760c3a9137be"
+        },
+        {
+            "question": "I was late but ........................... were on time.",
+            "description": "Either 'others' or 'other people' is possible here. ",
+            "answers": [
+                "others",
+                "others people",
+                "other people"
+            ],
+            "correct": 2,
+            "id": "1804b39b91b74cd78da0c6c97651e1b8"
+        },
+        {
+            "question": "I asked his opinion ............................... not to offend him.",
+            "description": "",
+            "answers": [
+                "so that",
+                "so as",
+                "so as that"
+            ],
+            "correct": 1,
+            "id": "9573e49d4c5c4160af4c7133b7da8cb5"
+        },
+        {
+            "question": "Maria, ......................... is on holiday at the moment, is my neighbor.",
+            "description": "We cannot use 'that' in non-identifying relative clauses. ",
+            "answers": [
+                "who",
+                "that",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "0b678c70ea8b4f93b1f733b43b912d3d"
+        },
+        {
+            "question": "I worked ........................... long.",
+            "description": "We do not use articles in the expression 'all day'. ",
+            "answers": [
+                "the all day",
+                "all day",
+                "all the day"
+            ],
+            "correct": 2,
+            "id": "da12e097aca94989af6d5916fc25eea4"
+        },
+        {
+            "question": "They ................................ the station before I arrived.",
+            "description": "We do not use prepositions after reach. ",
+            "answers": [
+                "reached",
+                "reached to",
+                "reached at"
+            ],
+            "correct": 0,
+            "id": "0b02b62b44924f98812a752333f985f0"
+        },
+        {
+            "question": "I had an enjoyable day ........................ I was one of the winners.",
+            "description": "Because is a conjunction. Because of is a preposition. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "0127cf3e209d4ad9a1780af824c1a67f"
+        },
+        {
+            "question": "........................... children like chocolates.",
+            "description": "No article is used before most when we generalize things. ",
+            "answers": [
+                "Most",
+                "The most"
+            ],
+            "correct": 0,
+            "id": "aca7b6c09f1c4710b932c508cbe7df9b"
+        },
+        {
+            "question": "I visited them ...........................",
+            "description": "No article or preposition are used before expressions like next week, last month, next day etc. ",
+            "answers": [
+                "last month",
+                "the last month",
+                "in last month"
+            ],
+            "correct": 0,
+            "id": "40543b657f224c7c93289d436e52f610"
+        },
+        {
+            "question": "I don't know ......................... I will be able to come.",
+            "description": "We can use if or whether to introduce indirect questions. ",
+            "answers": [
+                "if",
+                "whether",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "b64f0ed5214447ecb7896ea9bfad2826"
+        },
+        {
+            "question": "It is time she .................................. to bed.",
+            "description": "We use past tenses after 'it's time' with present or future reference. ",
+            "answers": [
+                "has gone",
+                "goes",
+                "went"
+            ],
+            "correct": 2,
+            "id": "9b362e33055348b3a7adeac8e19902eb"
+        }
+    ]
+}

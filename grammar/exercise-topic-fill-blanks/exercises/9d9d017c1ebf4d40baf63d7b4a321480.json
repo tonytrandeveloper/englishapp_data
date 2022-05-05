@@ -1,0 +1,386 @@
+{
+    "id": "9d9d017c1ebf4d40baf63d7b4a321480",
+    "title": "Make or Do Exercise 3",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You should eat more fruit and vegetables. It would"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "you good."
+                }
+            ],
+            "id": "4403d80b9eb84bddac11b868b49f094e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Traditionally, three people"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "speeches at weddings in the UK. The groom, the father of the bride, and the best man."
+                }
+            ],
+            "id": "c303503673344993b73f553603f08e9b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "did"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "all the ironing, washed the floor and made dinner."
+                }
+            ],
+            "id": "72dcb4535e6e4030aac5629fb95e9d66"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John decided that he needed to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "more research before he could write his essay."
+                }
+            ],
+            "id": "f0a66d91528241d398db82dac0674a01"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a suggestion? Maybe we should give up work for today and go and have a drink."
+                }
+            ],
+            "id": "2381f08a5b0b4e59b076e945a66c61b7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm too busy to see you now. Please call my secretary and"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "an appointment."
+                }
+            ],
+            "id": "e37c6b56d72e494aa0028683e287df84"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I spent a long time"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "doing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "my hair, but when I went outside the wind ruined it in one minute!"
+                }
+            ],
+            "id": "d26620ebf2814fdc97a7b0cc10c8b32f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "an attempt to tidy up before she arrived, but the room was still very messy."
+                }
+            ],
+            "id": "26d849f20c9e4b6194874a0287afeece"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How do you like our new kitchen? I think the workmen have"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "done"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a good job."
+                }
+            ],
+            "id": "62d29705ca054711ac3fcec97886ce68"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They have"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "too many errors in this article. We can't publish it."
+                }
+            ],
+            "id": "077b37dc42464e9ba50e91a645abdad7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I know the shop usually closes at six but could you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "an exception today? I have a busload of tourists who'd like to visit."
+                }
+            ],
+            "id": "8ce9a3a71db84da79a7c0643555edf55"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She tried to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "her homework early in the evening, so she could relax afterwards."
+                }
+            ],
+            "id": "3ac2eda16e09483989c525ba7e189bc0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a great effort to study hard for that exam, but I still didn't pass!"
+                }
+            ],
+            "id": "dbc9a4d7f59041169b8bb9278449d5db"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I travelled to Paris when I was a child, and it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a great impression on me. I've always loved France and French things ever since.."
+                }
+            ],
+            "id": "520a7c81bdf84cb7b18c47647f960400"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "One tiny piece of chocolate cake won't"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "you any harm! Eat up!"
+                }
+            ],
+            "id": "2412ba8a163745768052f735119967fb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He didn't"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a sound when he got home late, so as not to wake up his wife."
+                }
+            ],
+            "id": "376a80a3b8844bc5a56a6bac4b5032f1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Right, could you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "arrangements for next week? We need to book a restaurant for lunch at 1pm on Saturday, and we need to think of something to do on Sunday too."
+                }
+            ],
+            "id": "ead18bbb49fd4ab48b52fec9971ae970"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I spend far too much time"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "doing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "housework! I wish I had a cleaner!"
+                }
+            ],
+            "id": "701ce78418ee4407aeaa1cacc4fe38a5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "certain that she had turned the iron off before she left the house."
+                }
+            ],
+            "id": "146f5ab782a842aca3fe253b91f3e40b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I enjoy going to new places and"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "making"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "new friends."
+                }
+            ],
+            "id": "51e3bce358a2434d8492b4c3a0e2b3f9"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "5a1f7ddd17764bafa0e30ff2e80b95ef",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "I ………………………….. to the manager about my holiday in the morning.",
+            "description": "The simple past is used to say that something happened at some point in the past.",
+            "answers": [
+                "spoke",
+                "had spoken",
+                "have spoken"
+            ],
+            "correct": 0,
+            "id": "ee2d377f549f4c9295905850b1837dc5"
+        },
+        {
+            "question": "We ……………………………. to the theatre last night.",
+            "description": "",
+            "answers": [
+                "went",
+                "have gone",
+                "had gone"
+            ],
+            "correct": 0,
+            "id": "d6f3d270e9ca457184cbfee10991fb4f"
+        },
+        {
+            "question": "He ……………………………. the pictures on the wall.",
+            "description": "",
+            "answers": [
+                "hung",
+                "hanged",
+                "hunged"
+            ],
+            "correct": 0,
+            "id": "7b679474e3324f1584cb9c95a2cef44c"
+        },
+        {
+            "question": "The ship has ……………………………….",
+            "description": "People drown ships and boats sink.",
+            "answers": [
+                "sank",
+                "sunk",
+                "drowned"
+            ],
+            "correct": 1,
+            "id": "7d361d1ccf4140f48b1f72db86298fc0"
+        },
+        {
+            "question": "When I went there I found that he ……………………………..",
+            "description": "",
+            "answers": [
+                "was left",
+                "has left",
+                "had left"
+            ],
+            "correct": 2,
+            "id": "382fb6e55bcb483391192898e0234a42"
+        },
+        {
+            "question": "He ……………………………… to me since our last meeting.",
+            "description": "",
+            "answers": [
+                "didn't speak",
+                "hasn't spoken",
+                "hadn't spoken"
+            ],
+            "correct": 1,
+            "id": "89f96ce0a6fc43058328b42833ee10a9"
+        },
+        {
+            "question": "We ……………………………. tennis every day.",
+            "description": "The simple present is used to talk about facts. ",
+            "answers": [
+                "play",
+                "are playing",
+                "have played"
+            ],
+            "correct": 0,
+            "id": "6bfa2d36ce4a415bbe9cae441ca64e2e"
+        },
+        {
+            "question": "Neither of the messengers ……………………………… returned.",
+            "description": "Use a singular verb after either and neither. ",
+            "answers": [
+                "are",
+                "have",
+                "has"
+            ],
+            "correct": 2,
+            "id": "17cca0640b8d4cb7b65c83c6cd8e3638"
+        },
+        {
+            "question": "The quality of these apples ……………………………… not good.",
+            "description": "Here the subject is the singular noun quality hence, a singular verb should be used.",
+            "answers": [
+                "is",
+                "are",
+                "were"
+            ],
+            "correct": 0,
+            "id": "5657ad9c9bb4418dbe58c4e2f1ee3452"
+        },
+        {
+            "question": "Death ……………………………… his icy hand on all.",
+            "description": "",
+            "answers": [
+                "lies",
+                "lay",
+                "lays"
+            ],
+            "correct": 2,
+            "id": "497457ac7f9847649824d511194a75b5"
+        },
+        {
+            "question": "I ……………………………… it a moment ago.",
+            "description": "",
+            "answers": [
+                "hears",
+                "heard",
+                "have heard"
+            ],
+            "correct": 1,
+            "id": "93c4e7a0f06e4cb2a6d283c3fd189c8d"
+        },
+        {
+            "question": "He ……………………………… there for the last two hours.",
+            "description": "To talk about an action or situation that started in the past and has continued up to the present, use the present perfect or present perfect continuous. ",
+            "answers": [
+                "is waiting",
+                "has been waiting",
+                "was waiting"
+            ],
+            "correct": 1,
+            "id": "45d5b2597458405db8af5aab06320dd2"
+        }
+    ]
+}

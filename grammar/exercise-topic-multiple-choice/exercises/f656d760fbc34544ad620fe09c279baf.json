@@ -1,0 +1,136 @@
+{
+    "id": "f656d760fbc34544ad620fe09c279baf",
+    "title": "Intermediate Level Grammar Exercise",
+    "questions": [
+        {
+            "question": "Come again tomorrow, ………………….?",
+            "description": "",
+            "answers": [
+                "will you",
+                "should you",
+                "may you"
+            ],
+            "correct": 0,
+            "id": "3e71136c29e342eca511649b7fd01182"
+        },
+        {
+            "question": "Measles ……………………….. contagious.",
+            "description": "The names of illnesses are usually uncountable in English and hence they take singular verbs.",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "a94f63f7e5dd4b738d209353412b2e31"
+        },
+        {
+            "question": "Mathematics ……………………….. my favorite subject.",
+            "description": "The nouns science, mathematics and physics are singular.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "42a32280d16b42e88a3f5c636b49def5"
+        },
+        {
+            "question": "I …………………………. my professor yesterday.",
+            "description": "To call on is to visit.",
+            "answers": [
+                "called on",
+                "called out",
+                "called in"
+            ],
+            "correct": 0,
+            "id": "6e8becb56c684904a538c806157a7ebd"
+        },
+        {
+            "question": "Either of these roads …………………………. to the railway station.",
+            "description": "Use a singular verb after either and neither. ",
+            "answers": [
+                "lead",
+                "leads"
+            ],
+            "correct": 1,
+            "id": "816b630720864bb2badc0080c33ed3a2"
+        },
+        {
+            "question": "I ……………………….. in Mumbai from 2001 to",
+            "description": "Use the simple past to talk about finished events. ",
+            "answers": [
+                "lived",
+                "have lived",
+                "have been living"
+            ],
+            "correct": 0,
+            "id": "126f94cbe6674bb6be9c5679550d12cf"
+        },
+        {
+            "question": "Five applications …………………………. by the management.",
+            "description": "In the simple past, the passive form is made with was/were + past participle form of the verb.",
+            "answers": [
+                "accepted",
+                "were accepted",
+                "have accepted"
+            ],
+            "correct": 1,
+            "id": "f12c988bbb9544bd91a48aea970aa0d1"
+        },
+        {
+            "question": "They are decorating the hall for the party. The hall ……………………………….. by them for the party.",
+            "description": "The passive form of the present continuous is made with is/am/are + being + past participle.",
+            "answers": [
+                "is decorated",
+                "is being decorated",
+                "is decorating"
+            ],
+            "correct": 1,
+            "id": "7b07f3a1e10642abbbc6ea695fe2e260"
+        },
+        {
+            "question": "I discussed this ……………………….. them.",
+            "description": "",
+            "answers": [
+                "with",
+                "for",
+                "to"
+            ],
+            "correct": 0,
+            "id": "a282c8c6e1564fafb7ceda29e45873a5"
+        },
+        {
+            "question": "They waited with ………………………… breath.",
+            "description": "Bated breath means to hold one’s breath.",
+            "answers": [
+                "bated",
+                "baited",
+                "abated"
+            ],
+            "correct": 0,
+            "id": "44c1de4805784aaca43cf9d1405365f2"
+        },
+        {
+            "question": "She ……………………………. on that project for six months.",
+            "description": "The present perfect continuous is used to talk about an action or situation that started in the past and has continued up to the present.",
+            "answers": [
+                "has been working",
+                "is working",
+                "was working"
+            ],
+            "correct": 0,
+            "id": "7be9a6fa62554728847206435fd48ffd"
+        },
+        {
+            "question": "It …………………………… raining since yesterday.",
+            "description": "It hasn’t stopped raining means the same as it has been raining.",
+            "answers": [
+                "hasn't stopped",
+                "hasn't been stopping",
+                "didn't stop"
+            ],
+            "correct": 0,
+            "id": "d341bb47a1074b1e98658ef35b218224"
+        }
+    ]
+}

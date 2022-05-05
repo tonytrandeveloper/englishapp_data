@@ -1,0 +1,126 @@
+{
+    "id": "365d48ab97a145f4849bfa3c0b785e60",
+    "title": "Simple Present Tense Exercise",
+    "questions": [
+        {
+            "question": "My mother ……………………………… up early in the morning.",
+            "description": "In the simple present tense, the verb takes the marker -s when the subject is a singular noun or pronoun. ",
+            "answers": [
+                "wake",
+                "wakes"
+            ],
+            "correct": 1,
+            "id": "ed199a0a5239468b8edb8a47cd43aaa9"
+        },
+        {
+            "question": "She ……………………………… three jobs.",
+            "description": "In the simple present tense, the verb takes the marker -s when the subject is a singular noun or pronoun. ",
+            "answers": [
+                "work",
+                "works"
+            ],
+            "correct": 1,
+            "id": "715a66bdf9774da8b9745c80df3498b1"
+        },
+        {
+            "question": "She ………………………… not earn enough to live a comfortable life.",
+            "description": "Use does with singular subjects and do with plural subjects. ",
+            "answers": [
+                "do",
+                "does"
+            ],
+            "correct": 1,
+            "id": "187c20ab3a0f4a05af9dc904c98f16f6"
+        },
+        {
+            "question": "We …………………………… in a global village.",
+            "description": "In the simple present tense, the verb does not take -s when the subject is a plural noun or pronoun. ",
+            "answers": [
+                "live",
+                "lives"
+            ],
+            "correct": 0,
+            "id": "9ba95d0b92c24f2eb98b856fa02d0ae8"
+        },
+        {
+            "question": "She ……………………………. by her own rules.",
+            "description": "In the simple present tense, the verb takes the marker -s when the subject is a singular noun or pronoun. ",
+            "answers": [
+                "live",
+                "lives"
+            ],
+            "correct": 1,
+            "id": "39dd7043a8a24653bb1de93c5aa89704"
+        },
+        {
+            "question": "She ……………………………. to be an actress.",
+            "description": "In the simple present tense, the verb takes the marker -s when the subject is a singular noun or pronoun. ",
+            "answers": [
+                "aspire",
+                "aspires"
+            ],
+            "correct": 1,
+            "id": "f46eefb7ca564502b12310105fd20c6b"
+        },
+        {
+            "question": "I still ……………………………. those good old days.",
+            "description": "The verb does not take -s when the subject is I.",
+            "answers": [
+                "remember",
+                "remembers"
+            ],
+            "correct": 0,
+            "id": "cc7a33bff53c415ab9497ebf593f00d3"
+        },
+        {
+            "question": "She …………………………… someone to help her.",
+            "description": "In the simple present tense, the verb takes the marker -s when the subject is a singular noun or pronoun. ",
+            "answers": [
+                "need",
+                "needs"
+            ],
+            "correct": 1,
+            "id": "2daa2d944db64e8294f2a912463f4f09"
+        },
+        {
+            "question": "Plants ………………………….. carbon dioxide and release oxygen.",
+            "description": "In the simple present tense, the verb does not take -s when the subject is a plural noun or pronoun. ",
+            "answers": [
+                "absorb",
+                "absorbs"
+            ],
+            "correct": 0,
+            "id": "cc2da3a37fe64191929e8c7eb0a3aa53"
+        },
+        {
+            "question": "The cow ………………………… us milk.",
+            "description": "",
+            "answers": [
+                "give",
+                "gives"
+            ],
+            "correct": 1,
+            "id": "111ab0ca72a74a00b06cd7d0f7917807"
+        },
+        {
+            "question": "She …………………………… to go.",
+            "description": "",
+            "answers": [
+                "want",
+                "wants"
+            ],
+            "correct": 1,
+            "id": "c495ffce37834f64a08987cc9ed51285"
+        },
+        {
+            "question": "Suman …………………………… younger than her age.",
+            "description": "",
+            "answers": [
+                "look",
+                "looks"
+            ],
+            "correct": 1,
+            "id": "95fcbe84cc6e4e46a3d1e2eee538a821"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "id": "d6f14c1288bc495ab25bd2ec316716f1",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "Look! We ...................... to crash.",
+            "description": "We use the present continuous to talk about actions and situations that are going on at the moment of speaking. ",
+            "answers": [
+                "go",
+                "are going",
+                "were going",
+                "have gone"
+            ],
+            "correct": 1,
+            "id": "c6e67ea282cd4978990bb81f6804ecae"
+        },
+        {
+            "question": "I wish I .................... a better memory.",
+            "description": "After I wish, we use past verbs with a present or future meaning. ",
+            "answers": [
+                "have",
+                "had",
+                "had had"
+            ],
+            "correct": 1,
+            "id": "e8e3ab9e2ec34656aa0856ae490d0029"
+        },
+        {
+            "question": "After he ......................... his homework, he went out to play.",
+            "description": "We can use time conjunctions to talk about two actions or events that happen one after the other. ",
+            "answers": [
+                "completed",
+                "had completed",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "3566eaa85a834867bec3daed76bc9895"
+        },
+        {
+            "question": "I .............................. him for very long when we got married.",
+            "description": "We use continuous forms to emphasize the continuation of an action. However, the verb know is not normally used in the continuous form. ",
+            "answers": [
+                "knew",
+                "have known",
+                "had known",
+                "had been knowing"
+            ],
+            "correct": 2,
+            "id": "093dff150db84dd8b2956aa2d49d6047"
+        },
+        {
+            "question": "I .......................... a lot of movies recently.",
+            "description": "We use the present perfect continuous to talk about repeated actions and events. ",
+            "answers": [
+                "am watching",
+                "have been watching",
+                "was watching"
+            ],
+            "correct": 1,
+            "id": "05042c88cf0241e4ab1a0a78659d4973"
+        },
+        {
+            "question": "I .............................. her for two weeks.",
+            "description": "The verb know is not normally used in the continuous form. ",
+            "answers": [
+                "only knew",
+                "have only known",
+                "have only been knowing"
+            ],
+            "correct": 1,
+            "id": "2fb8d8be5c7544a1b3d89a46d2050e1a"
+        },
+        {
+            "question": "When I woke up, Mummy .............................. breakfast.",
+            "description": "We use the past perfect to suggest that an action had finished before another action commenced. ",
+            "answers": [
+                "already prepared",
+                "had already prepared",
+                "have already prepared",
+                "was already preparing"
+            ],
+            "correct": 1,
+            "id": "9daf73c8e4034ba3af6e9f474c9b64f6"
+        },
+        {
+            "question": "I ............................. in the same job for ten years.",
+            "description": "The present perfect and the present perfect continuous tenses are both possible with similar meanings. ",
+            "answers": [
+                "have worked",
+                "have been working",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ac96152530ad44ffb191e33d23a2185b"
+        },
+        {
+            "question": "I told him that I .........................",
+            "description": "The past perfect is common after past verbs of saying and thinking. ",
+            "answers": [
+                "finished",
+                "have finished",
+                "had finished"
+            ],
+            "correct": 2,
+            "id": "6fa3db6046b2407d8de2847e1be08bb9"
+        },
+        {
+            "question": "I thought I ........................ the money a week before.",
+            "description": "The past perfect is common after past verbs of saying and thinking. ",
+            "answers": [
+                "have sent",
+                "had sent",
+                "sent"
+            ],
+            "correct": 1,
+            "id": "fcab0f64f8a0405c99ce5a06807056c2"
+        },
+        {
+            "question": "I was tired because I ............................... for a long time.",
+            "description": "With the time expressions for and since, we use the perfect and perfect continuous tenses. ",
+            "answers": [
+                "was working",
+                "have been working",
+                "had been working"
+            ],
+            "correct": 2,
+            "id": "b13570863afe4823af08a0b8d260574b"
+        },
+        {
+            "question": "We .......................... by tomorrow afternoon.",
+            "description": "",
+            "answers": [
+                "will finish",
+                "will have finished",
+                "would finish"
+            ],
+            "correct": 1,
+            "id": "3f78a698d2b84f94b397329d7ac8295c"
+        }
+    ]
+}

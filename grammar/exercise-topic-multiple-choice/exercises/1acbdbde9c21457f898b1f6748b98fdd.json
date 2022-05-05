@@ -1,0 +1,134 @@
+{
+    "id": "1acbdbde9c21457f898b1f6748b98fdd",
+    "title": "Degrees Of Comparison",
+    "questions": [
+        {
+            "question": "You should do things ……………………. carefully.",
+            "description": "",
+            "answers": [
+                "more",
+                "most"
+            ],
+            "correct": 0,
+            "id": "e29061e0bc8945f68a90bc61fbd3e6c8"
+        },
+        {
+            "question": "That was the ……………………… sensible thing to do.",
+            "description": "The superlative adjective is usually used with the.",
+            "answers": [
+                "more",
+                "most"
+            ],
+            "correct": 1,
+            "id": "345b5aad1a774825a3f6b4ec57dac6c7"
+        },
+        {
+            "question": "Who is the …………………………. boy in the class?",
+            "description": "The superlative adjective is usually used with the.",
+            "answers": [
+                "taller",
+                "tallest"
+            ],
+            "correct": 1,
+            "id": "55aef5f2be154c699497bc0394d1af26"
+        },
+        {
+            "question": "I was not at all …………………………",
+            "description": "When there is no idea of comparison we use the positive adjective.",
+            "answers": [
+                "amused",
+                "more amused",
+                "most amused"
+            ],
+            "correct": 0,
+            "id": "a0e23442f5fa4fcab1ddf544fc98a048"
+        },
+        {
+            "question": "The bride smiled ……………………….. at the guests.",
+            "description": "When there is no idea of comparison we use the positive adjective or adverb.",
+            "answers": [
+                "warmly",
+                "more warmly",
+                "most warmly"
+            ],
+            "correct": 0,
+            "id": "e389d2455cbf41a49c09b5a826234d46"
+        },
+        {
+            "question": "When I met her yesterday she looked ………………………….. than before.",
+            "description": "Use a comparative expression before than.",
+            "answers": [
+                "healthy",
+                "healthier",
+                "healthiest"
+            ],
+            "correct": 1,
+            "id": "f910db37f19d4a8b8161f73f4faa9bac"
+        },
+        {
+            "question": "Write ………………………… legibly.",
+            "description": "",
+            "answers": [
+                "more",
+                "most"
+            ],
+            "correct": 0,
+            "id": "e5271253512d47fcad3632496095510f"
+        },
+        {
+            "question": "That was the …………………………… day of my life.",
+            "description": "Superlatives are used with the.",
+            "answers": [
+                "happy",
+                "happier",
+                "happiest"
+            ],
+            "correct": 2,
+            "id": "c9d3a97102df4faa8866de018e076e39"
+        },
+        {
+            "question": "I earned much …………………….. today than yesterday.",
+            "description": "Less is the comparative form of little.",
+            "answers": [
+                "little",
+                "less",
+                "lesser"
+            ],
+            "correct": 1,
+            "id": "17fd40f736e8426f8777b66c9127b1e2"
+        },
+        {
+            "question": "I have ………………………… respect for dishonest people.",
+            "description": "When there is no idea of comparison use the positive adjective. ",
+            "answers": [
+                "little",
+                "less",
+                "least"
+            ],
+            "correct": 0,
+            "id": "c9f9da55fd8a445db9de2c5c087da943"
+        },
+        {
+            "question": "She works ………………………… than anybody I know.",
+            "description": "Use the comparative form before than.",
+            "answers": [
+                "hard",
+                "harder",
+                "hardest"
+            ],
+            "correct": 1,
+            "id": "f20a91fec27b4073a0bba88ce1f73a1f"
+        },
+        {
+            "question": "I am the ……………………….. singer in my family.",
+            "description": "Use the superlative form after the.",
+            "answers": [
+                "worse",
+                "worser",
+                "worst"
+            ],
+            "correct": 2,
+            "id": "f9a030474c184eca80cfd35bc110111f"
+        }
+    ]
+}

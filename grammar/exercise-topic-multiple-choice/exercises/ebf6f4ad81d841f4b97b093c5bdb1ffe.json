@@ -1,0 +1,138 @@
+{
+    "id": "ebf6f4ad81d841f4b97b093c5bdb1ffe",
+    "title": "Phrasal Verbs Exercise",
+    "questions": [
+        {
+            "question": "I was late because my car ……………… on the way to work.",
+            "description": "When something breaks down, it stops functioning.",
+            "answers": [
+                "broke up",
+                "broke down",
+                "broke off"
+            ],
+            "correct": 1,
+            "id": "20cff4e9354440c1b61961e8722bb360"
+        },
+        {
+            "question": "She ………………………. with her best friend when he lied to her.",
+            "description": "To break up with somebody is to end your relationship with them.",
+            "answers": [
+                "broke up",
+                "broke off",
+                "broke down"
+            ],
+            "correct": 0,
+            "id": "845e498cf46142cf80e7d8812ea6fb71"
+        },
+        {
+            "question": "The girl ………………………. when she heard that she had failed.",
+            "description": "To break down is to lose control of your emotions.",
+            "answers": [
+                "broke off",
+                "broke down",
+                "broke out"
+            ],
+            "correct": 1,
+            "id": "a13b2a17abaa49f391de88d89f6a560e"
+        },
+        {
+            "question": "The warden …………………….. our conversation.",
+            "description": "To break in on is to interrupt.",
+            "answers": [
+                "broke in on",
+                "broke up on",
+                "broke out on"
+            ],
+            "correct": 0,
+            "id": "e76fe8d47aa141ceb2b084d204e86737"
+        },
+        {
+            "question": "Cholera …………………… after the floods.",
+            "description": "When a disease breaks out, it appears and spreads suddenly.",
+            "answers": [
+                "broke up",
+                "broke out",
+                "broke off"
+            ],
+            "correct": 1,
+            "id": "5b1abfb7d74d42f4bf8015d159c55b91"
+        },
+        {
+            "question": "A dangerous prisoner ………………………. the high security prison yesterday.",
+            "description": "To break out of jail is to escape from captivity.",
+            "answers": [
+                "broke out of",
+                "broke up of",
+                "broke off"
+            ],
+            "correct": 0,
+            "id": "f8dbbb00a8b848209a9af4469c3d5ad0"
+        },
+        {
+            "question": "Please …………………….. your coat. It is very cold.",
+            "description": "To put on coat is to wear it.",
+            "answers": [
+                "put on",
+                "put off",
+                "try on"
+            ],
+            "correct": 0,
+            "id": "4d05f76d28dc4a05997c555af6174843"
+        },
+        {
+            "question": "Would you mind if I ……………………. TV? I would like to watch the match.",
+            "description": "",
+            "answers": [
+                "turned up",
+                "turned on",
+                "turned in"
+            ],
+            "correct": 1,
+            "id": "08fbf02bb7f048a28543b9bfccbedf47"
+        },
+        {
+            "question": "Excuse me. Where can I …………………….. the shirt?",
+            "description": "To try on a shirt is to try wearing it to see if it fits you.",
+            "answers": [
+                "try in",
+                "try out",
+                "try on"
+            ],
+            "correct": 2,
+            "id": "edbf26c3f7d44038b0264790257182db"
+        },
+        {
+            "question": "If you don’t …………………….. the train now, it will leave without you.",
+            "description": "To get on the train is to board it.",
+            "answers": [
+                "get in",
+                "get on",
+                "get up"
+            ],
+            "correct": 1,
+            "id": "afa03f7ca4ea4b2d9501f0f2b68f53fa"
+        },
+        {
+            "question": "Can I ……………………… working now?",
+            "description": "To carry on something is to continue doing it.",
+            "answers": [
+                "carry out",
+                "carry on",
+                "carry in"
+            ],
+            "correct": 1,
+            "id": "d8f66f8120574ea3b2738d57bab62bbd"
+        },
+        {
+            "question": "You must …………………….. smoking.",
+            "description": "To give up smoking is to quit it.",
+            "answers": [
+                "give up",
+                "give in",
+                "give out"
+            ],
+            "correct": 0,
+            "id": "f4fe9cc9d60f43cea5cf6d951706fc9c"
+        }
+    ]
+}

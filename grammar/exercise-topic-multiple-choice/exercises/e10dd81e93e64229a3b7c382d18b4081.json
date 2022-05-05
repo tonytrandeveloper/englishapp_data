@@ -1,0 +1,136 @@
+{
+    "id": "e10dd81e93e64229a3b7c382d18b4081",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "A grandparent's job is easier than  ..............................",
+            "description": "",
+            "answers": [
+                "a parent",
+                "a parent's",
+                "that of a parent"
+            ],
+            "correct": 2,
+            "id": "c7a13d41c55e41e28555e4159d820641"
+        },
+        {
+            "question": "Are the banks ........................... on Saturdays?",
+            "description": "We use open as an adjective.",
+            "answers": [
+                "open",
+                "opened",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "db53ebe9fb6445f78ab00495b4050639"
+        },
+        {
+            "question": "Who left the faucets ....................................?",
+            "description": "We do not open faucets. We turn them on.",
+            "answers": [
+                "open",
+                "turned on",
+                "on"
+            ],
+            "correct": 1,
+            "id": "5283de93820c45c68e2d78cdc1edfa9d"
+        },
+        {
+            "question": "Can you ..................................... this shoelace?",
+            "description": "We do not open shoelaces.",
+            "answers": [
+                "undo",
+                "untie",
+                "open"
+            ],
+            "correct": 1,
+            "id": "ee18861ba55642c791596139887b505e"
+        },
+        {
+            "question": "He ought to be here soon, ....................................?",
+            "description": "Contracted negative forms of ought are rare in American English.",
+            "answers": [
+                "oughtn't he",
+                "ought he",
+                "shouldn't he"
+            ],
+            "correct": 2,
+            "id": "310493829ac441c4b4f142a44b5e3369"
+        },
+        {
+            "question": "You ought ............................. go.",
+            "description": "In negative clauses not comes before to.",
+            "answers": [
+                "not to",
+                "to not",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "83581c4dbae24090a2e9ed6cc148a67a"
+        },
+        {
+            "question": "He ran ................................ the room.",
+            "description": "The opposite of into is out of.",
+            "answers": [
+                "out",
+                "out of",
+                "out from"
+            ],
+            "correct": 1,
+            "id": "391c6fc6818146b79d15f7cad2d35779"
+        },
+        {
+            "question": "I will do it in ................................ way.",
+            "description": "Myself does not have a possessive form.",
+            "answers": [
+                "myself's",
+                "myself",
+                "my own"
+            ],
+            "correct": 2,
+            "id": "0623b6342b6b422cb93c5774eb6dffa5"
+        },
+        {
+            "question": "She lives ..................................",
+            "description": "When people live on their own, they live without company.",
+            "answers": [
+                "herself",
+                "on her",
+                "on her own"
+            ],
+            "correct": 2,
+            "id": "91ec6b692e954c3cb338364baf85dac9"
+        },
+        {
+            "question": "I did it ...................................",
+            "description": "",
+            "answers": [
+                "myself",
+                "on my own",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "9e3203ced9ae4917b89bc186eb561ce1"
+        },
+        {
+            "question": "I was very ................................... in the discussion.",
+            "description": "The past participle is used to say how people feel.\r\n",
+            "answers": [
+                "interesting",
+                "interested"
+            ],
+            "correct": 1,
+            "id": "8083931ad2984cfb9972f4bd9b5212d0"
+        },
+        {
+            "question": "I didn't enjoy the party because I was ...................................",
+            "description": "The past participle is used to say how people feel.",
+            "answers": [
+                "tiring",
+                "tired"
+            ],
+            "correct": 1,
+            "id": "398e6448affe4e4c9e086e0be7836014"
+        }
+    ]
+}

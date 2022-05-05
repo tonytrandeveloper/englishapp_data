@@ -1,0 +1,133 @@
+{
+    "id": "51b5033b325640d29009f322d8cf3aff",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "Granny …………………………. in the afternoon.",
+            "description": "We use the present continuous to talk about a future event that is already planned.",
+            "answers": [
+                "arrives",
+                "is arriving",
+                "has been arriving"
+            ],
+            "correct": 1,
+            "id": "f5dbb196c81a4174a27f0bad6df3efa2"
+        },
+        {
+            "question": "I ………………………… this color.",
+            "description": "The verb like is hardly ever used in the continuous form.",
+            "answers": [
+                "like",
+                "am liking"
+            ],
+            "correct": 0,
+            "id": "bc2c995d815a407ebb2d2b0bc2d9bc6f"
+        },
+        {
+            "question": "I helped him because I …………………………. him.",
+            "description": "",
+            "answers": [
+                "loved",
+                "am loving",
+                "have loved"
+            ],
+            "correct": 0,
+            "id": "861a84b7311a4a689eb2b04e0106847c"
+        },
+        {
+            "question": "She ………………………. married in May.",
+            "description": "We use the present continuous to talk about a future event that is already planned.",
+            "answers": [
+                "gets",
+                "is getting",
+                "will be getting"
+            ],
+            "correct": 1,
+            "id": "129bbfdc9107429db4f19098ee0895be"
+        },
+        {
+            "question": "I ………………………….. that education can liberate all.",
+            "description": "Believe is not normally used in the continuous form.",
+            "answers": [
+                "believe",
+                "am believing",
+                "have believed"
+            ],
+            "correct": 0,
+            "id": "779431a98a4047ffb9c556604c0c35e8"
+        },
+        {
+            "question": "I ………………………….. that they are in love.",
+            "description": "When feel means have an opinion, it is not normally used in the continuous form.",
+            "answers": [
+                "feel",
+                "am feeling",
+                "have felt"
+            ],
+            "correct": 0,
+            "id": "d83b4c933e3342df8297a069a7ebae1c"
+        },
+        {
+            "question": "I ………………………….. how to swim.",
+            "description": "Know is not normally used in the continuous form.",
+            "answers": [
+                "know",
+                "am knowing",
+                "have known"
+            ],
+            "correct": 0,
+            "id": "7c01517d6197470a9aa9ac330f2f192a"
+        },
+        {
+            "question": "I ............................ my vacation.",
+            "description": "The present continuous is used to talk about ongoing situations.",
+            "answers": [
+                "enjoy",
+                "am enjoying"
+            ],
+            "correct": 1,
+            "id": "62528b5125574b2aae18d5b6300403b9"
+        },
+        {
+            "question": "The children …………………………. when the mother came home.",
+            "description": "The past continuous is used to talk about the longer background action that was in progress when another action occurred.",
+            "answers": [
+                "are playing",
+                "played",
+                "were playing"
+            ],
+            "correct": 2,
+            "id": "183ce459bba0486ea59418c185629c82"
+        },
+        {
+            "question": "She ………………………… intelligent.",
+            "description": "Look is not normally used in the continuous form.",
+            "answers": [
+                "looks",
+                "is looking"
+            ],
+            "correct": 0,
+            "id": "d586ca4474994476a16f80b9e1ba0088"
+        },
+        {
+            "question": "He …………………………… to a family or artisans.",
+            "description": "Belong is not normally used in the continuous form.",
+            "answers": [
+                "belongs",
+                "is belonging"
+            ],
+            "correct": 0,
+            "id": "86a735313ff548f986cd31f37d6e00c6"
+        },
+        {
+            "question": "She ………………………………. 100 pounds.",
+            "description": "Weigh is not normally used in the continuous form. ",
+            "answers": [
+                "weighs",
+                "is weighing"
+            ],
+            "correct": 0,
+            "id": "78bae1a09b3e49209b47174bc00d1353"
+        }
+    ]
+}

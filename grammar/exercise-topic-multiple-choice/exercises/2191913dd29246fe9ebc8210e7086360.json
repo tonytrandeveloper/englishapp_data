@@ -1,0 +1,108 @@
+{
+    "id": "2191913dd29246fe9ebc8210e7086360",
+    "title": "Subject Verb Agreement",
+    "questions": [
+        {
+            "question": "Either he or I ……………. mistaken.",
+            "description": "",
+            "answers": [
+                "is",
+                "am",
+                "are"
+            ],
+            "correct": 1,
+            "id": "2d96173b9cb74e339f96093d746f94ec"
+        },
+        {
+            "question": "Either the boy or his parents ……………… erred.",
+            "description": "",
+            "answers": [
+                "has",
+                "have",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "53b68cb78207489caba8329fedc7f8d0"
+        },
+        {
+            "question": "My parents and I ………………. lived here for five years.",
+            "description": "",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "e76893f6d98d4a3c8c1fb96e5955b58a"
+        },
+        {
+            "question": "The council …………….. elected its President.",
+            "description": "",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "9ea2a9988e784310b08b23685ce06e12"
+        },
+        {
+            "question": "A number of boys ………………… caught cheating on the exam.",
+            "description": "",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "e623776af503489a8c67e3cd58c39a39"
+        },
+        {
+            "question": "A number of interesting suggestions ……………….. been made.",
+            "description": "",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "a8aff3a97e244c3d928c4e9952e4c0f9"
+        },
+        {
+            "question": "The news ……………….. true.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "3939ecee48e240e590c73d07fd13619e"
+        },
+        {
+            "question": "Each of the boys …………….. given a prize.",
+            "description": "",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "2ac10d11518d4e438f65b5ec932ffd56"
+        },
+        {
+            "question": "The chief, as well as his men, ......................... massacred.",
+            "description": "",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "98393dac4c9949588b17605c17e4bb61"
+        },
+        {
+            "question": "John, as well as James, ......................... praise.",
+            "description": "",
+            "answers": [
+                "deserve",
+                "deserves"
+            ],
+            "correct": 1,
+            "id": "8589968b2c9e4988b5b2ea8c3b505eb0"
+        }
+    ]
+}

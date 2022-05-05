@@ -1,0 +1,135 @@
+{
+    "id": "fe0c331fd65c4fcba42cf0116f4af5cd",
+    "title": "Pronouns Exercise",
+    "questions": [
+        {
+            "question": "This is Samuel ……………………. works with me.",
+            "description": "The relative pronoun who has one form when it is used as the subject and another form when it is used as the object. ",
+            "answers": [
+                "who",
+                "whom",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "fdcf3efe4604419daf56aa2078beb78f"
+        },
+        {
+            "question": "This is Samuel with ……………………… I am working at the moment.",
+            "description": "The relative pronoun who becomes whom when it is used as the object.",
+            "answers": [
+                "who",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "889c5381f3534971b225baea0d0c77c9"
+        },
+        {
+            "question": "John and …………………….. are going skiing this weekend.",
+            "description": "When a pronoun acts as the subject of the verb it should be in its subject form.",
+            "answers": [
+                "I",
+                "me",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ed16ae53303c40a28bd6783e408c5aef"
+        },
+        {
+            "question": "Between you and ……………………, I think there is trouble in their paradise.",
+            "description": "Here the pronoun me is the object of the preposition between. ",
+            "answers": [
+                "I",
+                "me",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f8c338f8508143168fa3a185c2f9da15"
+        },
+        {
+            "question": "With ……………………….. did you go?",
+            "description": "We must use whom after a preposition.",
+            "answers": [
+                "who",
+                "whom",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "97825fa6615f4ae5851ed5f844211894"
+        },
+        {
+            "question": "There is the guy ……………………….. we met at the club yesterday.",
+            "description": "Whom is unusual in identifying relative clauses.",
+            "answers": [
+                "who",
+                "that",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "a34c064c279c4204a1a901acd4df0b1b"
+        },
+        {
+            "question": "This is James, ……………………….. we met at the club yesterday.",
+            "description": "Whom is common in non-identifying relative clauses.",
+            "answers": [
+                "who",
+                "that",
+                "whom"
+            ],
+            "correct": 2,
+            "id": "8bece38a735548db8487edeae3647247"
+        },
+        {
+            "question": "I have a number of English friends and most of …………………….. live in London.",
+            "description": "We do not use a relative pronoun in a coordinate clause.",
+            "answers": [
+                "whom",
+                "them",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "78edc649e585448b9e80bd8cc4231fba"
+        },
+        {
+            "question": "She has a number of American relatives, most of ………………….. live in Chicago.",
+            "description": "In a relative clause we use who or whom to refer back to a noun in the main clause.",
+            "answers": [
+                "them",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "101b70363d2241478f9569121026313e"
+        },
+        {
+            "question": "This is the doctor …………………….. lives next door.",
+            "description": "The relative pronoun acts as the subject or object of the verb in the relative clause. Hence we do not need another noun. ",
+            "answers": [
+                "who",
+                "who he",
+                "he"
+            ],
+            "correct": 0,
+            "id": "1aeeff651cb749bf9171ef6a50acc693"
+        },
+        {
+            "question": "………………………… leaves last should put the lights out.",
+            "description": "Whoever means the same as ‘the person who’.",
+            "answers": [
+                "Who",
+                "Whoever",
+                "He/She"
+            ],
+            "correct": 1,
+            "id": "1a98cd0bf0bc486f872ad92ca494897f"
+        },
+        {
+            "question": "It is I ………………………. need your help.",
+            "description": "If we use a subject pronoun after ‘it is’, the subject of the relative clause should be who. ",
+            "answers": [
+                "who",
+                "that"
+            ],
+            "correct": 0,
+            "id": "031119bf303f46e7966cd740c57a89ca"
+        }
+    ]
+}

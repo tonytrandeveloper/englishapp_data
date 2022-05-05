@@ -1,0 +1,111 @@
+{
+    "id": "e8edca2def7f42968a6d922b7ba7d214",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "I want to know …………………",
+            "description": "",
+            "answers": [
+                "what are you doing there",
+                "what you are doing there"
+            ],
+            "correct": 1,
+            "id": "e19eeb3768c846a2b9f6a42ad42f105f"
+        },
+        {
+            "question": "If he had asked me ......................",
+            "description": "",
+            "answers": [
+                "I will help him",
+                "I would help him",
+                "I would have helped him"
+            ],
+            "correct": 2,
+            "id": "6668e7a492034b46afedcabfa2a95f69"
+        },
+        {
+            "question": "She would have come .....................",
+            "description": "",
+            "answers": [
+                "if you invite her",
+                "if you invited her",
+                "if you had invited her"
+            ],
+            "correct": 2,
+            "id": "b4975ef36916465cb5b305a12ee5892e"
+        },
+        {
+            "question": "We are looking forward to ………………..",
+            "description": "",
+            "answers": [
+                "see you",
+                "seeing you"
+            ],
+            "correct": 1,
+            "id": "d1e471c01cdf40778c2015ebfd202fa5"
+        },
+        {
+            "question": "No sooner did the teacher enter the class ..................... .",
+            "description": "",
+            "answers": [
+                "when the students stopped talking",
+                "than the students stopped talking"
+            ],
+            "correct": 1,
+            "id": "44aef5fc532048a1a837fbd1c6e08571"
+        },
+        {
+            "question": "Would you mind .....................?",
+            "description": "",
+            "answers": [
+                "to move a bit",
+                "moving a bit"
+            ],
+            "correct": 1,
+            "id": "37d41a67a7ae41538732b6327b1924ba"
+        },
+        {
+            "question": "Unless you study well, …………………",
+            "description": "",
+            "answers": [
+                "you will pass",
+                "you will not pass"
+            ],
+            "correct": 1,
+            "id": "75ec3ba73fe5477988b04c5f679fca57"
+        },
+        {
+            "question": "He worked ………………… that his health broke down.",
+            "description": "",
+            "answers": [
+                "very hard",
+                "too hard",
+                "so hard"
+            ],
+            "correct": 2,
+            "id": "4614e4f06bca466fb3f2ff6e98978e2f"
+        },
+        {
+            "question": "She is very fond …………………..",
+            "description": "",
+            "answers": [
+                "with her grandchildren",
+                "of her grandchildren",
+                "to her grandchildren"
+            ],
+            "correct": 1,
+            "id": "e6c56d97f0d0488da7fef7e4b489423b"
+        },
+        {
+            "question": "She is very proud ......................",
+            "description": "",
+            "answers": [
+                "with her achievements",
+                "about her achievements",
+                "of her achievements"
+            ],
+            "correct": 2,
+            "id": "cb97fbfa007546e59b50af2f7f7d068c"
+        }
+    ]
+}

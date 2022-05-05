@@ -1,0 +1,113 @@
+{
+    "id": "172ad05b678241a3916df1b395e2e0de",
+    "title": "Confusing Words Exercise",
+    "questions": [
+        {
+            "question": "Please give me a ………………… of paper.",
+            "description": "",
+            "answers": [
+                "peace",
+                "piece",
+                "peas"
+            ],
+            "correct": 1,
+            "id": "b34225e21ab24542ab59d7d4878f6965"
+        },
+        {
+            "question": "How much is the railway ………………….?",
+            "description": "",
+            "answers": [
+                "fair",
+                "fare"
+            ],
+            "correct": 1,
+            "id": "b78ca820a89545f1927850281de0984e"
+        },
+        {
+            "question": "Jane has got very …………………. looks.",
+            "description": "",
+            "answers": [
+                "plane",
+                "plain",
+                "plan"
+            ],
+            "correct": 1,
+            "id": "c1b894f5b2314b3b9408ab686192f46d"
+        },
+        {
+            "question": "As he had no shirt, the sun burnt his ………………… . skin.",
+            "description": "",
+            "answers": [
+                "bare",
+                "bear"
+            ],
+            "correct": 0,
+            "id": "76fbbe2490c04a05830439bab6444c00"
+        },
+        {
+            "question": "I really want to …………………. some weight.",
+            "description": "",
+            "answers": [
+                "lose",
+                "loss",
+                "loose"
+            ],
+            "correct": 0,
+            "id": "e5b1bcd756f5422f86f47002bacca2db"
+        },
+        {
+            "question": "An oil lamp needs a ………………… ..",
+            "description": "",
+            "answers": [
+                "weak",
+                "week",
+                "wick"
+            ],
+            "correct": 2,
+            "id": "858851ff32a6421a980182fa37b03a0e"
+        },
+        {
+            "question": "My little brother is very …………………… so we don’t let him touch anything …………………… ..",
+            "description": "",
+            "answers": [
+                "irresponsable breakable",
+                "irresponsible breakable",
+                "irresponsible breakible"
+            ],
+            "correct": 1,
+            "id": "6e3652d1c12c491aa2c1ce520854c764"
+        },
+        {
+            "question": "A ………………….. looks like a big rabbit.",
+            "description": "",
+            "answers": [
+                "hare",
+                "hair",
+                "heir"
+            ],
+            "correct": 0,
+            "id": "2ab0f58715ad4f4791c7071891b12bb0"
+        },
+        {
+            "question": "She was unusually ………………… .",
+            "description": "",
+            "answers": [
+                "quite",
+                "quiet"
+            ],
+            "correct": 1,
+            "id": "0845865397484fdebd074f893ddbee25"
+        },
+        {
+            "question": "………………… . going to the market.",
+            "description": "",
+            "answers": [
+                "We're",
+                "Were",
+                "Where"
+            ],
+            "correct": 0,
+            "id": "0caf6d0b8d7f4265be1465d3a8deea35"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "id": "112719c366a9464f9c6fc8d61b406673",
+    "title": "Adding Contradictory Remarks",
+    "questions": [
+        {
+            "question": "He can speak English ........................... I can’t.",
+            "description": "",
+            "answers": [
+                "But",
+                "And"
+            ],
+            "correct": 0,
+            "id": "82e5cc034d474fa092f42d7d8f18b58c"
+        },
+        {
+            "question": "He won the test. ................................ his brother didn’t.",
+            "description": "",
+            "answers": [
+                "But",
+                "And"
+            ],
+            "correct": 0,
+            "id": "77a73b12eaf04bd49a3538fd24cc6646"
+        },
+        {
+            "question": "I like reading comics. .................................. my wife doesn’t.",
+            "description": "",
+            "answers": [
+                "But",
+                "And"
+            ],
+            "correct": 0,
+            "id": "dd61995b1cab4bcea4d7bcd0a8323eb3"
+        },
+        {
+            "question": "He ................................. me well but his wife doesn’t",
+            "description": "",
+            "answers": [
+                "knows",
+                "doesn't know"
+            ],
+            "correct": 0,
+            "id": "e6a3322709274a70bb1618308e298ff7"
+        },
+        {
+            "question": "English is easy to learn but French ................................",
+            "description": "",
+            "answers": [
+                "is",
+                "isn't"
+            ],
+            "correct": 1,
+            "id": "5d7e4a0f108e4ae4ae4ef6f7a8e7f1d9"
+        },
+        {
+            "question": "I did the homework but others .................................",
+            "description": "",
+            "answers": [
+                "did",
+                "didn't"
+            ],
+            "correct": 1,
+            "id": "1019ae97dcae446182f304212b2c78bd"
+        },
+        {
+            "question": "I have learned classical music but my sister ...................................",
+            "description": "",
+            "answers": [
+                "has",
+                "hasn't"
+            ],
+            "correct": 1,
+            "id": "f5a5e4bf8c4f48b782c1190e20c1e256"
+        },
+        {
+            "question": "John .............................. but Peter hasn’t.",
+            "description": "",
+            "answers": [
+                "has arrived",
+                "hasn't arrived"
+            ],
+            "correct": 0,
+            "id": "74fa6a10a7de463f9501bb6d380cb57e"
+        },
+        {
+            "question": "James can sing well but Alice ............................",
+            "description": "",
+            "answers": [
+                "can",
+                "can't"
+            ],
+            "correct": 1,
+            "id": "aacebb2b3aeb4f4d8ad0a1399932205a"
+        },
+        {
+            "question": "He will leave tomorrow  .................................... I won’t.",
+            "description": "",
+            "answers": [
+                "and",
+                "but"
+            ],
+            "correct": 1,
+            "id": "d49ce6c48c734be1933e56f847879ac0"
+        }
+    ]
+}

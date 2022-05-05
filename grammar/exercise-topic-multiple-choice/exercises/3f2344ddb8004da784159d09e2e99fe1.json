@@ -1,0 +1,126 @@
+{
+    "id": "3f2344ddb8004da784159d09e2e99fe1",
+    "title": "Transitive And Intransitive Verbs Exercise",
+    "questions": [
+        {
+            "question": "Heat expands metals.",
+            "description": "",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0,
+            "id": "f98ee7a844514b24be0a702bad64627f"
+        },
+        {
+            "question": "Metals expand on heating.",
+            "description": "",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 1,
+            "id": "d301d4302f974463b5a2c709d16069dc"
+        },
+        {
+            "question": "The driver stopped the car.",
+            "description": "",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0,
+            "id": "7071b9cf03d548c8b3b08e79bc3b60ef"
+        },
+        {
+            "question": "The car stopped abruptly.",
+            "description": "",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 1,
+            "id": "4535d4a2ff6b4de7820b49e826203fce"
+        },
+        {
+            "question": "You must speak the truth.",
+            "description": "",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0,
+            "id": "cf4ba01a6ae647018ac5054a6a33df75"
+        },
+        {
+            "question": "You must speak loudly.",
+            "description": "",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 1,
+            "id": "e53a7e04187f4c3ab2411655ab6e5ed9"
+        },
+        {
+            "question": "The boy is flying the kite.",
+            "description": "",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0,
+            "id": "0fe7cd4254364033b9ae52349fe47aa4"
+        },
+        {
+            "question": "The birds are flying in the sky.",
+            "description": "",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 1,
+            "id": "46e7c9777c364486b7a6eafb3aa73668"
+        },
+        {
+            "question": "The rider fell off the horse and broke his arm.",
+            "description": "",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 1,
+            "id": "73cbff8626a74820a146231d9ab96621"
+        },
+        {
+            "question": "The woodcutter felled a huge tree.",
+            "description": "",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0,
+            "id": "2e8f74c59657454a8b39940563749386"
+        },
+        {
+            "question": "The explosion sank the ship.",
+            "description": "",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0,
+            "id": "a3c292df34184b829b484575782b75a8"
+        },
+        {
+            "question": "The ship sank suddenly.",
+            "description": "",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 1,
+            "id": "8e793e2dc98e402994ff6aa1cc84e140"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "0d4b7baa24884aa5addb0d5c2c1e259a",
+    "title": "Determiners Quiz",
+    "questions": [
+        {
+            "question": "I could answer only ……………………. questions.",
+            "description": "Use few with plural nouns. Use a few to indicate a small number. ",
+            "answers": [
+                "few",
+                "a few",
+                "little",
+                "a little"
+            ],
+            "correct": 1,
+            "id": "8724d461e854443eb03e2951dbb555ab"
+        },
+        {
+            "question": "We haven’t got …………………. money.",
+            "description": "Use much before an uncountable noun without an article or another determiner. ",
+            "answers": [
+                "many",
+                "much",
+                "much of"
+            ],
+            "correct": 1,
+            "id": "59a728915cf74bfebe1308dfbbc39ed5"
+        },
+        {
+            "question": "He doesn’t have …………………….. patience.",
+            "description": "Use much before an uncountable noun without an article or another determiner. ",
+            "answers": [
+                "much",
+                "many",
+                "most"
+            ],
+            "correct": 0,
+            "id": "3f4b654fb1a44bd4906eadf9629b604a"
+        },
+        {
+            "question": "…………………….. them approved the plan.",
+            "description": "Use many of before a pronoun.",
+            "answers": [
+                "Many",
+                "Many of",
+                "Much",
+                "Much of"
+            ],
+            "correct": 1,
+            "id": "bd46013383284b0e90946b0750576a47"
+        },
+        {
+            "question": "You ask too ………………………… questions.",
+            "description": "Use many before a plural noun. ",
+            "answers": [
+                "much",
+                "many",
+                "little"
+            ],
+            "correct": 1,
+            "id": "6feecb2f3e1543979c21e5bffc4f21c5"
+        },
+        {
+            "question": "……………………… time is required to learn a new language.",
+            "description": "Use much before an uncountable noun. ",
+            "answers": [
+                "Much",
+                "Many",
+                "Much of"
+            ],
+            "correct": 0,
+            "id": "bc930d75466c4b729c2f235c5473f45a"
+        },
+        {
+            "question": "Bullying is a problem that affects ………………………. children.",
+            "description": "Use many before a plural noun.",
+            "answers": [
+                "many",
+                "much",
+                "little"
+            ],
+            "correct": 0,
+            "id": "00da7473f626421897191e099847cd2a"
+        },
+        {
+            "question": "I have had ……………………. ups and downs in my life.",
+            "description": "",
+            "answers": [
+                "many",
+                "much",
+                "most"
+            ],
+            "correct": 0,
+            "id": "306c28347e2e404fb813a0a3a834d435"
+        },
+        {
+            "question": "We are very ………………………. obliged for your assistance.",
+            "description": "",
+            "answers": [
+                "much",
+                "many"
+            ],
+            "correct": 0,
+            "id": "b60db6684b4f4bafb9a6e42bbcd3e75c"
+        },
+        {
+            "question": "He spends ……………………. his time reading.",
+            "description": "Use much of before an uncountable noun with an article or another determiner.",
+            "answers": [
+                "much",
+                "much of",
+                "many of"
+            ],
+            "correct": 1,
+            "id": "2fb9f69228dd45d58041402a0057643c"
+        },
+        {
+            "question": "I didn’t do ……………………. work yesterday.",
+            "description": "",
+            "answers": [
+                "much",
+                "many",
+                "much of"
+            ],
+            "correct": 0,
+            "id": "2386c5badaf64f26a6d719f8fe8569b8"
+        },
+        {
+            "question": "You didn’t eat ………………………",
+            "description": "",
+            "answers": [
+                "much",
+                "many"
+            ],
+            "correct": 0,
+            "id": "7950f3a1f9d040a3b593f502d1e9075b"
+        }
+    ]
+}

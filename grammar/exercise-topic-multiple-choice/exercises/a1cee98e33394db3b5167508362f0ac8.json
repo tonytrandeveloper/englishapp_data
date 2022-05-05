@@ -1,0 +1,116 @@
+{
+    "id": "a1cee98e33394db3b5167508362f0ac8",
+    "title": "Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "He showed me a photo. / I ...................................... a photo by him.",
+            "description": "",
+            "answers": [
+                "had shown",
+                "was shown",
+                "have shown"
+            ],
+            "correct": 1,
+            "id": "c0a26e3e2b654a17bf3ce8ef63dd5a1a"
+        },
+        {
+            "question": "This box contains chocolates. / Chocolates ............................... in this box.",
+            "description": "",
+            "answers": [
+                "are containing",
+                "are contained",
+                "have contained"
+            ],
+            "correct": 1,
+            "id": "39e9555434ee4ef98e9efe4edd8c34f1"
+        },
+        {
+            "question": "Who does not hate liars? / By whom ............................. liars not hated?",
+            "description": "",
+            "answers": [
+                "are",
+                "have",
+                "is"
+            ],
+            "correct": 0,
+            "id": "b4f77528a5244403ac2c6fb684c5dbed"
+        },
+        {
+            "question": "Solve this problem. / Let this problem .............................",
+            "description": "",
+            "answers": [
+                "is solved",
+                "be solved",
+                "has solved"
+            ],
+            "correct": 1,
+            "id": "4b69df7d74a84feba0c01ab62cfabde2"
+        },
+        {
+            "question": "I expect you to do the work. / You .................................... to do this work.",
+            "description": "",
+            "answers": [
+                "expected",
+                "are expected",
+                "have expected"
+            ],
+            "correct": 1,
+            "id": "59be3d3bf10c4df59a68d1b5a6bc802f"
+        },
+        {
+            "question": "His conduct shocked his mother. / His mother .................................. by his conduct.",
+            "description": "",
+            "answers": [
+                "shocked",
+                "was shocked",
+                "had shocked"
+            ],
+            "correct": 1,
+            "id": "bb16fd5efd544ff58732a944905b962c"
+        },
+        {
+            "question": "He could do nothing. / Nothing .................................... by him.",
+            "description": "",
+            "answers": [
+                "can be done",
+                "could done",
+                "could be done"
+            ],
+            "correct": 2,
+            "id": "f2871d9042c14b41b93e52a80ee873ab"
+        },
+        {
+            "question": "Do you know this gentleman? / Is this gentleman ............................... to you?",
+            "description": "",
+            "answers": [
+                "know",
+                "knew",
+                "known"
+            ],
+            "correct": 2,
+            "id": "3bdd6a96059e41e8b09a59f40b5a8e80"
+        },
+        {
+            "question": "Do not tease the animals. / Let the animals not ....................................",
+            "description": "",
+            "answers": [
+                "be teasing",
+                "teased",
+                "be teased"
+            ],
+            "correct": 2,
+            "id": "9f79c2f137b843d190a0b1edb2cd2039"
+        },
+        {
+            "question": "Lower the price. /Let the price ................................",
+            "description": "",
+            "answers": [
+                "be lower",
+                "be lowered",
+                "is lowered"
+            ],
+            "correct": 1,
+            "id": "21d48074702e42809d130a4a0e22708a"
+        }
+    ]
+}

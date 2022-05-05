@@ -1,0 +1,138 @@
+{
+    "id": "801af7ffa9ba4d2ebc21751eb560cfc8",
+    "title": "Simple, Compound Or Complex",
+    "questions": [
+        {
+            "question": "If you eat too much you will get fat.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses. Clauses introduced by if are subordinate clauses.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "a12d6fda4e9c4ac689f1f9061bf405b8"
+        },
+        {
+            "question": "I will have a think and let you know.",
+            "description": "A compound sentence has two or more coordinate clauses. Clauses connected by the conjunction and are coordinate clauses.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "e0fe49c9fa5542258e84bc6b4d657e95"
+        },
+        {
+            "question": "Having been there before he knew what to expect.",
+            "description": "",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "18242a379f1a468a92d2ac2544dc4097"
+        },
+        {
+            "question": "We got our roof blown off in the storm last week.",
+            "description": "The given sentence has just one finite verb (got) and hence one clause. A simple sentence has just one clause.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "aefd1cda8f8644d794233f6219cd829e"
+        },
+        {
+            "question": "I went to see him, but he told me to get out.",
+            "description": "A compound sentence has two or more coordinate clauses. Clauses connected by the conjunction but are coordinate clauses.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "6c52e8b91536406fbf0a81aad0725861"
+        },
+        {
+            "question": "It was John who paid for the drinks.",
+            "description": "The given sentence has one main clause and one subordinate adjective clause.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "df98aae584b643e8915f46bd794c2640"
+        },
+        {
+            "question": "My grandfather died in a hospital.",
+            "description": "The given sentence has just one finite verb and hence one clause. Therefore, it is a simple sentence.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "33e969b8a3a74d2892d9b0951c329f04"
+        },
+        {
+            "question": "I thought it strange that she hadn’t written.",
+            "description": "The given sentence has one main clause and one subordinate clause and hence it is a complex sentence.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "531ab6f67eae4eb39125280c8c44e9db"
+        },
+        {
+            "question": "I looked a real fool when I fell in the river.",
+            "description": "The given sentence has one main clause and one subordinate adverb clause.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "9798a5c13fa442fd9aa3802fc23f0c12"
+        },
+        {
+            "question": "I wasn’t the cleverest but I was the most beautiful.",
+            "description": "",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "44a4429e44bc468d9d0cdf8a7ef95c9e"
+        },
+        {
+            "question": "You don’t have to carry identity papers in England.",
+            "description": "The given sentence has just one finite verb and hence one clause. Therefore, it is a simple sentence.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "9532b69a89c4442f8f690e7e151c52da"
+        },
+        {
+            "question": "That’s the girl who lives in the flat upstairs.",
+            "description": "The given sentence has one main clause and one subordinate adverb clause.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "c555e7d2be1d4381acd39d0b7bc5c484"
+        }
+    ]
+}

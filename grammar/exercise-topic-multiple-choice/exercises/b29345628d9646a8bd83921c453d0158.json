@@ -1,0 +1,128 @@
+{
+    "id": "b29345628d9646a8bd83921c453d0158",
+    "title": "English Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "The outbreak of the epidemic …………………….. the tourism sector.",
+            "description": "Affect is the verb. Effect is the noun.",
+            "answers": [
+                "effected",
+                "affected"
+            ],
+            "correct": 1,
+            "id": "a7ff4dac9e0b4fdbb07ce6f235056813"
+        },
+        {
+            "question": "I take it as a ………………………. when people tell me that I look young for my age.",
+            "description": "A compliment is a praise.",
+            "answers": [
+                "compliment",
+                "complement"
+            ],
+            "correct": 0,
+            "id": "9984becf9ecf478696c30eab58d95c50"
+        },
+        {
+            "question": "The singers perfectly …………………………. the dancers.",
+            "description": "To complement is to complete.",
+            "answers": [
+                "complemented",
+                "complimented"
+            ],
+            "correct": 0,
+            "id": "f96fb6a310b04e5d91ec6bc8d4628388"
+        },
+        {
+            "question": "You should have been more ……………………….",
+            "description": "Discreet means careful and prudent. ",
+            "answers": [
+                "discrete",
+                "discreet"
+            ],
+            "correct": 1,
+            "id": "d8d95048d37642a2acfc1c0f000a7a16"
+        },
+        {
+            "question": "My brother is an ………………………….. cardiologist.",
+            "description": "Eminent means established. ",
+            "answers": [
+                "imminent",
+                "eminent",
+                ""
+            ],
+            "correct": 1,
+            "id": "fd322d97ed2546b8a8182e2ff48e7db0"
+        },
+        {
+            "question": "Rain is …………………………",
+            "description": "If something is imminent it is about to happen.",
+            "answers": [
+                "eminent",
+                "imminent"
+            ],
+            "correct": 1,
+            "id": "9792d4559d3d41739b4a8eccc31a41f8"
+        },
+        {
+            "question": "They ………………………….. my explanation.",
+            "description": "",
+            "answers": [
+                "accepted",
+                "excepted",
+                "expected"
+            ],
+            "correct": 0,
+            "id": "b60857da31bc42d898968b5707ada725"
+        },
+        {
+            "question": "They accused the mayor of ..................................... the funds.",
+            "description": "To misuse is to use something in the wrong way.",
+            "answers": [
+                "disusing",
+                "misusing"
+            ],
+            "correct": 1,
+            "id": "b64fe2cfbe86404ebb0e39420933e2f7"
+        },
+        {
+            "question": "That ……………………….. warehouse has turned a haunt of miscreants.",
+            "description": "Disused means no longer being used.",
+            "answers": [
+                "misused",
+                "disused"
+            ],
+            "correct": 1,
+            "id": "99dc235acc20427bb75527fc6ad4be2c"
+        },
+        {
+            "question": "Most of his books are …………………………..",
+            "description": "",
+            "answers": [
+                "illegible",
+                "unreadable"
+            ],
+            "correct": 1,
+            "id": "ee6cb00f0d7f48da9575c89e5524a7e0"
+        },
+        {
+            "question": "Prices are ………………………..",
+            "description": "Rise is an intransitive verb. It does not have an object.",
+            "answers": [
+                "rising",
+                "raising"
+            ],
+            "correct": 0,
+            "id": "c48f832f0e98414ab2513db266212ba5"
+        },
+        {
+            "question": "Those who are in favour of the proposal should …………………………. their hands.",
+            "description": "Raise is a transitive verb. It has an object. ",
+            "answers": [
+                "rise",
+                "raise"
+            ],
+            "correct": 1,
+            "id": "7102dce546b44c38930f61638be161d4"
+        }
+    ]
+}

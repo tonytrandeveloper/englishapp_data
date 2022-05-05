@@ -1,0 +1,112 @@
+{
+    "id": "7505d90352aa457db9ae7b2c93433bfb",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "If he …………………, we will be shocked.",
+            "description": "When the verb in the if clause is in the simple present tense, we use will + infinitive in the main clause.",
+            "answers": [
+                "loses",
+                "lost",
+                "had lost"
+            ],
+            "correct": 0,
+            "id": "c20120f6801a42a8a04e4dd09e23673a"
+        },
+        {
+            "question": "If I had known, I ………………. you straightaway.",
+            "description": "",
+            "answers": [
+                "would tell",
+                "would have told",
+                "will tell"
+            ],
+            "correct": 1,
+            "id": "2e0bda021b264e559b18dda985431f48"
+        },
+        {
+            "question": "..................... seen such a mess.",
+            "description": "When the sentence begins with a negative expression, the auxiliary verb goes before the subject.",
+            "answers": [
+                "Seldom I have",
+                "Seldom have I"
+            ],
+            "correct": 1,
+            "id": "7a8f730a67f04627b27c19439f56c6c2"
+        },
+        {
+            "question": "I ..................... tea in the morning.",
+            "description": "The adverb goes before the main verb.",
+            "answers": [
+                "usually drink",
+                "drink usually"
+            ],
+            "correct": 0,
+            "id": "b9d77cec328e46e393cb097d41853a9d"
+        },
+        {
+            "question": "He …………………. us.",
+            "description": "",
+            "answers": [
+                "visits often",
+                "often visits"
+            ],
+            "correct": 1,
+            "id": "3f3a32d172a847dcbe0bfb62a547c51f"
+        },
+        {
+            "question": "Would you mind my ………………… the window?",
+            "description": "",
+            "answers": [
+                "opening",
+                "open",
+                "to open"
+            ],
+            "correct": 0,
+            "id": "8ae5314998ad4a89a0643647bcc696b4"
+        },
+        {
+            "question": "You …………………. to find the time to do all the things you want to.",
+            "description": "Ought is the only modal followed by a to-infinitive. ",
+            "answers": [
+                "ought",
+                "should",
+                "can"
+            ],
+            "correct": 0,
+            "id": "fbe782693515484998ee349423a3a5c5"
+        },
+        {
+            "question": "If you don’t want to go, you ………………..",
+            "description": "",
+            "answers": [
+                "can't",
+                "needn't",
+                "mustn't"
+            ],
+            "correct": 1,
+            "id": "4992865e1b0044a0b7537ee09b379ce2"
+        },
+        {
+            "question": "You needn’t …………………. it.",
+            "description": "When need is used as a modal auxiliary, it is followed by an infinitive without to.",
+            "answers": [
+                "to have done",
+                "have done"
+            ],
+            "correct": 1,
+            "id": "c21d9e94ee6a4f01859079af2cce27eb"
+        },
+        {
+            "question": "If you asked more politely, I ............................ you some money.",
+            "description": "When the verb in the if-clause is in the simple past tense, we use would + infinitive in the main clause. ",
+            "answers": [
+                "will lend",
+                "would lend",
+                "would have lent"
+            ],
+            "correct": 1,
+            "id": "1ce7ca2d008d40628c4bb3d58a075c51"
+        }
+    ]
+}

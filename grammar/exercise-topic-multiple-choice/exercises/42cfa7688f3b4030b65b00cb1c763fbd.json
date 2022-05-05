@@ -1,0 +1,128 @@
+{
+    "id": "42cfa7688f3b4030b65b00cb1c763fbd",
+    "title": "Sentence Completion",
+    "questions": [
+        {
+            "question": "He was .....................… with his friends.",
+            "description": "",
+            "answers": [
+                "favorite",
+                "a favorite"
+            ],
+            "correct": 1,
+            "id": "20a02cbb533a462f9d7d139151a2d013"
+        },
+        {
+            "question": "He was prevented ………………..",
+            "description": "",
+            "answers": [
+                "to come",
+                "from coming"
+            ],
+            "correct": 1,
+            "id": "8a434b0bb3bb43868d68761f4e4fb195"
+        },
+        {
+            "question": "I ………………… James yesterday.",
+            "description": "",
+            "answers": [
+                "met",
+                "have met",
+                "was meeting"
+            ],
+            "correct": 0,
+            "id": "c50f772f729447f88b7ce485ade23991"
+        },
+        {
+            "question": "My brother is superior ……………….. you in strength.",
+            "description": "",
+            "answers": [
+                "to",
+                "than"
+            ],
+            "correct": 0,
+            "id": "bd465f5700274519987f52520763e340"
+        },
+        {
+            "question": "He did best …………………",
+            "description": "",
+            "answers": [
+                "from our class",
+                "in our class"
+            ],
+            "correct": 1,
+            "id": "1b1d9ea3ac6f44ad835047cf81eab285"
+        },
+        {
+            "question": "The summer term begins …………………",
+            "description": "",
+            "answers": [
+                "on July 1st",
+                "from July 1st"
+            ],
+            "correct": 0,
+            "id": "4659d499a37044b58675cd57371c40c1"
+        },
+        {
+            "question": "He will be cured .....................…",
+            "description": "",
+            "answers": [
+                "from his fever",
+                "of his fever"
+            ],
+            "correct": 1,
+            "id": "1f916a41961e4e5aaaa5f95d5c9e0bb8"
+        },
+        {
+            "question": "The temple is built ………………..",
+            "description": "",
+            "answers": [
+                "by stone",
+                "of stone"
+            ],
+            "correct": 1,
+            "id": "1aa1abde01324300b7c5c3c17aaf91e5"
+        },
+        {
+            "question": "He ………………… a raise.",
+            "description": "",
+            "answers": [
+                "asked",
+                "asked for"
+            ],
+            "correct": 1,
+            "id": "eed1983b88d34966ac38947069dda65c"
+        },
+        {
+            "question": "He was …………….. me.",
+            "description": "",
+            "answers": [
+                "angry on",
+                "angry with",
+                "angry to"
+            ],
+            "correct": 1,
+            "id": "36a1e08c84cb48ceb8fc35acf9eedbaa"
+        },
+        {
+            "question": "They deal .....................… antique furniture.",
+            "description": "",
+            "answers": [
+                "in",
+                "with"
+            ],
+            "correct": 0,
+            "id": "15efc3afe45a4ec18621ca154681f634"
+        },
+        {
+            "question": "He ..................... by his grandparents.",
+            "description": "",
+            "answers": [
+                "was risen",
+                "was raised"
+            ],
+            "correct": 1,
+            "id": "be8c366ec04349f788be1c4b54251a25"
+        }
+    ]
+}

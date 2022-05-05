@@ -1,0 +1,135 @@
+{
+    "id": "89019ece5d844f6b8a611331e3a39372",
+    "title": "English Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "He did not ………………………….. to my letter.",
+            "description": "Respond is the verb here.",
+            "answers": [
+                "respond",
+                "response",
+                "responsive"
+            ],
+            "correct": 0,
+            "id": "47628d9392534d3ca448853a18d64645"
+        },
+        {
+            "question": "I don’t think there is any ……………………….. for you to come again.",
+            "description": "Necessity is the noun here. We need a noun after any.",
+            "answers": [
+                "necessity",
+                "necessary",
+                "necessitate"
+            ],
+            "correct": 0,
+            "id": "b202526fbf1047fd9aef07405aba2feb"
+        },
+        {
+            "question": "Though his early attempts were not ………………………….., he did not lose heart.",
+            "description": "Successful is the adjective here.  It is used as the complement of the subject early attempts. ",
+            "answers": [
+                "success",
+                "successful",
+                "succeed"
+            ],
+            "correct": 1,
+            "id": "634e02b555d84e5184138711698f3e25"
+        },
+        {
+            "question": "What a ………………………….. performance!",
+            "description": "We need an adjective before a noun.",
+            "answers": [
+                "fascination",
+                "fascinating"
+            ],
+            "correct": 1,
+            "id": "dfe4444a1c8a46c59df0ee69826ffc5f"
+        },
+        {
+            "question": "The master’s ………………………………. had great effect on his disciple.",
+            "description": "Exhortation means urging or persuasion. ",
+            "answers": [
+                "exhort",
+                "exhortion",
+                "exhortation"
+            ],
+            "correct": 2,
+            "id": "bb78a9448268477b9512f7b7e9249724"
+        },
+        {
+            "question": "The government should take the …………………………… to help poor people displaced by natural calamities.",
+            "description": "",
+            "answers": [
+                "initiate",
+                "initiation",
+                "initiative"
+            ],
+            "correct": 2,
+            "id": "4f51c364788f4978822af9003d4bb072"
+        },
+        {
+            "question": "The lawyer was not able to ……………………………. his arguments.",
+            "description": "",
+            "answers": [
+                "substance",
+                "substantiate",
+                "substantiative"
+            ],
+            "correct": 1,
+            "id": "2bff8e49278f4c468558437f90debc26"
+        },
+        {
+            "question": "He completed the work to the ………………………….. of his boss.",
+            "description": "",
+            "answers": [
+                "satisfy",
+                "satisfied",
+                "satisfaction"
+            ],
+            "correct": 2,
+            "id": "08a8e68c6ca145fbae6a290dd04f0d68"
+        },
+        {
+            "question": "What I like the most about you is your ……………………………….",
+            "description": "Simplicity is the noun. ",
+            "answers": [
+                "simple",
+                "simplicity",
+                "simplified"
+            ],
+            "correct": 1,
+            "id": "7c1d78a9ce02460c8229274354451fcb"
+        },
+        {
+            "question": "I have no …………………………… towards anyone.",
+            "description": "",
+            "answers": [
+                "hostile",
+                "hostilities"
+            ],
+            "correct": 1,
+            "id": "5a08fbfb84e5460db2e88331163e31d0"
+        },
+        {
+            "question": "He has ……………………………….. expertise in building low cost homes.",
+            "description": "",
+            "answers": [
+                "consider",
+                "considerate",
+                "considerable"
+            ],
+            "correct": 2,
+            "id": "e3c05a58599743eb9fcd3b0f5d2254f8"
+        },
+        {
+            "question": "I pay them an …………………………….. visit.",
+            "description": "Occasion is a noun occasional is the adjective. ",
+            "answers": [
+                "occasion",
+                "occasional"
+            ],
+            "correct": 1,
+            "id": "de6932eb090d4c5bb276f4ceb8d0ae82"
+        }
+    ]
+}

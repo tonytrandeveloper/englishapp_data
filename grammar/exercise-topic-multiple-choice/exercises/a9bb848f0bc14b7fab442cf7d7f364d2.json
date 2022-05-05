@@ -1,0 +1,137 @@
+{
+    "id": "a9bb848f0bc14b7fab442cf7d7f364d2",
+    "title": "Possessives Exercise",
+    "questions": [
+        {
+            "question": "I saw that .................... yesterday.",
+            "description": "When we want to use a possessive with a demonstrative (this / that), we use a construction with of + possessive.",
+            "answers": [
+                "Alice's hot boyfriend",
+                "hot boyfriend of Alice",
+                "hot boyfriend of Alice's"
+            ],
+            "correct": 2,
+            "id": "99b743e633b8473caebf236f5f797a19"
+        },
+        {
+            "question": "She is a .........................",
+            "description": "When we want to use an article with a possessive, we use a construction with of + possessive.",
+            "answers": [
+                "John's close friend",
+                "close friend of John",
+                "close friend of John's"
+            ],
+            "correct": 2,
+            "id": "2469d9b553f8437991924e44131082e6"
+        },
+        {
+            "question": "That bag must be .................",
+            "description": "Her is a possessive adjective. It goes before a noun. Hers is a possessive pronoun. It can stand alone. ",
+            "answers": [
+                "her",
+                "her's",
+                "hers"
+            ],
+            "correct": 2,
+            "id": "4ee0789de97144759db5c1d36cc89200"
+        },
+        {
+            "question": "The dog is happy. ................. just had .............. breakfast.",
+            "description": "It’s means it is or it has. Its is a possessive word like his or her.",
+            "answers": [
+                "It's its",
+                "It's it's",
+                "Its its"
+            ],
+            "correct": 0,
+            "id": "6590e53d57134c93984c44aa2ddd39d7"
+        },
+        {
+            "question": "................... has just invited me to her party.",
+            "description": "We cannot use a possessive after an article. Instead we use a structure with of.",
+            "answers": [
+                "A my friend",
+                "A friend of I",
+                "A friend of mine"
+            ],
+            "correct": 2,
+            "id": "8e5ac06869e24634a703b16a91a890d8"
+        },
+        {
+            "question": "How is that ......................?",
+            "description": "We cannot use a possessive after an demonstrative adjective. Instead we use a structure with of.",
+            "answers": [
+                "your brother",
+                "brother of you",
+                "brother of yours"
+            ],
+            "correct": 2,
+            "id": "40f5d7f4c06b4ab5b717cb8790467891"
+        },
+        {
+            "question": "Other people’s lives always seem more exciting than ................",
+            "description": "One’s cannot be used as a pronoun. Instead we use one’s own.",
+            "answers": [
+                "one's",
+                "one's own",
+                "ones own"
+            ],
+            "correct": 1,
+            "id": "e55df72016ae42e8aa3553dd31156847"
+        },
+        {
+            "question": "Did you like this new idea ..................?",
+            "description": "We cannot usually use a possessive with another determiner. Instead we use a structure with ‘of+ possessive’.",
+            "answers": [
+                "of the minister",
+                "of the minister's"
+            ],
+            "correct": 1,
+            "id": "8245e7e770784e9c9ff9a6a3766d799d"
+        },
+        {
+            "question": "That artist is a ....................",
+            "description": "",
+            "answers": [
+                "my friend",
+                "friend of I",
+                "friend of mine"
+            ],
+            "correct": 2,
+            "id": "92b36af614344ce7bd2963e12a2f8dc5"
+        },
+        {
+            "question": "That ...................... has drunk all the milk.",
+            "description": "We cannot usually use a possessive with another determiner. Instead we use a structure with ‘of+ possessive’.",
+            "answers": [
+                "your cat",
+                "cat of your",
+                "cat of yours"
+            ],
+            "correct": 2,
+            "id": "e13493b7b0d2497cb2371d5e24ce5d65"
+        },
+        {
+            "question": "It is easy to lose ................ temper when one is criticized.",
+            "description": "One's is a possessive form like his or her. ",
+            "answers": [
+                "ones",
+                "one's own",
+                "one's"
+            ],
+            "correct": 2,
+            "id": "c86e80f2d68c4ca29b8013ceceff1928"
+        },
+        {
+            "question": "The teacher asked the students to submit their .................",
+            "description": "After a plural determiner, we normally use a plural pronoun.",
+            "answers": [
+                "assignment",
+                "assignments",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1f0334c6949c4689af5bf8ef650ff57d"
+        }
+    ]
+}

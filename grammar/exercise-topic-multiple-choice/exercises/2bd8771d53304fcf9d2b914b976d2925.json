@@ -1,0 +1,129 @@
+{
+    "id": "2bd8771d53304fcf9d2b914b976d2925",
+    "title": "Subject-Verb Agreement",
+    "questions": [
+        {
+            "question": "The puppy or the kitten ………………………. the cheese.",
+            "description": "When we connect two singular nouns with or, the verb is singular. ",
+            "answers": [
+                "has eaten",
+                "have eaten"
+            ],
+            "correct": 0,
+            "id": "30fed0d279804f20b875330a5164eae5"
+        },
+        {
+            "question": "Neither you nor I ………………………. fit for this job.",
+            "description": "When we connect two nouns or pronouns with neither/nor, the verb agrees with the noun/pronoun closest to nor. ",
+            "answers": [
+                "are",
+                "am",
+                "is"
+            ],
+            "correct": 1,
+            "id": "ff77c20e53764722b71991c1f4446ff3"
+        },
+        {
+            "question": "Either he or you ………………………. to do the shopping.",
+            "description": "When we connect two nouns or pronouns with either/or, the verb agrees with the noun/pronoun closest to or. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "5ec8e877c81d40878ac887e5a2edef13"
+        },
+        {
+            "question": "Neha …………………………… what to do after school.",
+            "description": "",
+            "answers": [
+                "don't know",
+                "doesn't know",
+                "didn't knew"
+            ],
+            "correct": 1,
+            "id": "563e9300aaf34dd1bf96694cb4dc2c12"
+        },
+        {
+            "question": "The Chairman along with the Secretary …………………………. present at the meeting.",
+            "description": "When we connect two nouns with along with, the verb agrees with the former. ",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "de173232023d478cbfb60f8327c94928"
+        },
+        {
+            "question": "Both the manager and the assistant manager …………………………… expected to be present at the meeting.",
+            "description": "When we connect two singular nouns with and, the verb is plural. ",
+            "answers": [
+                "is",
+                "are",
+                "have"
+            ],
+            "correct": 1,
+            "id": "3413eb0a20924ea39f00ac2e10c9630f"
+        },
+        {
+            "question": "One of my cousins …………………………. to be an archeologist.",
+            "description": "Use a singular verb after one of.",
+            "answers": [
+                "want",
+                "wants"
+            ],
+            "correct": 1,
+            "id": "63417619d7b24b7383ecf6e48149bb67"
+        },
+        {
+            "question": "A famous poet and singer ………………………. in this neighborhood.",
+            "description": "Here both nouns refer to the same person hence we use a singular verb.",
+            "answers": [
+                "live",
+                "lives"
+            ],
+            "correct": 1,
+            "id": "11a9a3ee76aa4b27ac941ff558dc3359"
+        },
+        {
+            "question": "The woman who …………………………. next door is a writer.",
+            "description": "The verb or a relative clause agrees with its antecedent. ",
+            "answers": [
+                "live",
+                "lives"
+            ],
+            "correct": 1,
+            "id": "5df3d57364684b90b25aa8e8c7cb146c"
+        },
+        {
+            "question": "The price of essential commodities ……………………….. gone up.",
+            "description": "Here the subject is the singular noun price. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "2556f82aa8134eb09c6939b3fe297bfe"
+        },
+        {
+            "question": "A mother sparrow with her chicks ………………………. in that nest.",
+            "description": "When two nouns are connected with 'with', the verb agrees with the former noun.",
+            "answers": [
+                "live",
+                "lives"
+            ],
+            "correct": 1,
+            "id": "4cc1a02bd68f47ce9cbf26ba11d95110"
+        },
+        {
+            "question": "Neither answer …………………………… correct to me.",
+            "description": "Use a singular verb after either or neither. ",
+            "answers": [
+                "seems",
+                "seem"
+            ],
+            "correct": 0,
+            "id": "6384823c053f4d948562aa0e3042ab10"
+        }
+    ]
+}

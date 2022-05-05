@@ -1,0 +1,129 @@
+{
+    "id": "76b38d0732cc4e0e95e6d4313e2f6f7b",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "…………………….. tact would have saved the situation.",
+            "description": "Little means hardly any a little means some, but not much.",
+            "answers": [
+                "Little",
+                "A little"
+            ],
+            "correct": 1,
+            "id": "ff7604f0c1df47658eb7a9511a2b80e5"
+        },
+        {
+            "question": "Of the three, opera, movies and music, the ………………………. is his favorite.",
+            "description": "Use latter when there are only two things.",
+            "answers": [
+                "later",
+                "latter",
+                "last"
+            ],
+            "correct": 2,
+            "id": "20ac5a891f0b402c8c306f0d72d412cd"
+        },
+        {
+            "question": "……………………… book you mention is out of print.",
+            "description": "We use ‘the’ to speak of a particular person or thing.",
+            "answers": [
+                "The",
+                "A"
+            ],
+            "correct": 0,
+            "id": "0238002cbfd34ed88c3d1cf739457f0f"
+        },
+        {
+            "question": "I dislike ………………………. fellow.",
+            "description": "We use ‘the’ to speak of a particular person or thing.",
+            "answers": [
+                "a",
+                "the"
+            ],
+            "correct": 1,
+            "id": "3c5039af404c451c91586c4c10d0c5ae"
+        },
+        {
+            "question": "…………………….. darkest cloud has a silver lining.",
+            "description": "We use the with superlatives.",
+            "answers": [
+                "A",
+                "The"
+            ],
+            "correct": 1,
+            "id": "e94b719343db4f47bf168c2f407e5e56"
+        },
+        {
+            "question": "Banaras is …………………… holy city.",
+            "description": "We use ‘a’ in the numerical sense of one.",
+            "answers": [
+                "a",
+                "the"
+            ],
+            "correct": 0,
+            "id": "4f6795bca73d454581c798309a09f44a"
+        },
+        {
+            "question": "Alladin had ……………………. magic lamp.",
+            "description": "We use ‘a’ in the numerical sense of one.",
+            "answers": [
+                "the",
+                "a"
+            ],
+            "correct": 1,
+            "id": "91bf8cc443da48f5a3e5eba560c0137f"
+        },
+        {
+            "question": "……………………. scheme failed for want of support.",
+            "description": "We use ‘the’ to speak of a particular person or thing.",
+            "answers": [
+                "A",
+                "The"
+            ],
+            "correct": 1,
+            "id": "f0200a70266a4da98339a41c2289ce55"
+        },
+        {
+            "question": "………………………. people want a new system.",
+            "description": "We use most before a noun without a determiner.",
+            "answers": [
+                "The most",
+                "Most",
+                "Most of"
+            ],
+            "correct": 1,
+            "id": "000742cffaf941079419a94963846700"
+        },
+        {
+            "question": "………………………. these doors leads to the hall.",
+            "description": "We use neither of before a noun with a determiner.",
+            "answers": [
+                "Neither",
+                "Neither of"
+            ],
+            "correct": 1,
+            "id": "4ef4df59843c4bc69cd4030d4cb7b88b"
+        },
+        {
+            "question": "………………………… the green apples were given to Sarah.",
+            "description": "We use six of before a noun with an article, possessive or demonstrative.",
+            "answers": [
+                "Six",
+                "Six of"
+            ],
+            "correct": 1,
+            "id": "d5aa6a86eed94334bf7d5e0e9ada515d"
+        },
+        {
+            "question": "……………………. of my friends smoke.",
+            "description": "No is not used before of. Instead we use none.",
+            "answers": [
+                "No",
+                "None",
+                "Not any"
+            ],
+            "correct": 1,
+            "id": "f343ac55b06647b18b2251a96c2f656d"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "id": "bc164c39cffa436498c21ed98013fcb6",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "You must not question .............................. does not concern you.",
+            "description": "What means that which.",
+            "answers": [
+                "what",
+                "that",
+                "which"
+            ],
+            "correct": 0,
+            "id": "03b5569425a74b5b92cad919ff69d980"
+        },
+        {
+            "question": "My sister reads .............................. she gets some free time.",
+            "description": "Both when and whenever are possible here, but whenever is more emphatic. ",
+            "answers": [
+                "when",
+                "whenever",
+                "whatever"
+            ],
+            "correct": 1,
+            "id": "224590f940864b43990cb69a0eb7d705"
+        },
+        {
+            "question": "Ria is confident ............................ she will win the race.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "if"
+            ],
+            "correct": 0,
+            "id": "708ce2a3434744d896a1d88f83cb3c18"
+        },
+        {
+            "question": "You have to decide ........................... subject you want to study.",
+            "description": "Which and what are often both possible with little difference of meaning.",
+            "answers": [
+                "that",
+                "what",
+                "which",
+                "Either which or what"
+            ],
+            "correct": 3,
+            "id": "365261dc6d48474e91ab1f0a8396eaec"
+        },
+        {
+            "question": "Aunt Polly suspected ........................ Tom was playing some tricks on her.",
+            "description": "The conjunction 'that' can connect the main clause to a subordinate noun clause. ",
+            "answers": [
+                "that",
+                "what",
+                "which"
+            ],
+            "correct": 0,
+            "id": "71644b02d84a457d96167b91354c09d6"
+        },
+        {
+            "question": ".............................. she was behaving so strangely was not clear to us.",
+            "description": "The question word why indicates reason. ",
+            "answers": [
+                "That",
+                "Why",
+                "What"
+            ],
+            "correct": 1,
+            "id": "1bf4197350a94d6b824c99f6dc51802d"
+        },
+        {
+            "question": "My grandmother can only walk slowly ........................ she has arthritis.",
+            "description": "So indicates the result because indicates the reason.",
+            "answers": [
+                "so",
+                "because",
+                "hence"
+            ],
+            "correct": 1,
+            "id": "44db433d4e8a4c57a804db8045dcc774"
+        },
+        {
+            "question": "......................... it tried very hard, the cat could not climb the tree.",
+            "description": "All of these conjunctions have the same meaning. Even though is more emphatic.",
+            "answers": [
+                "Although",
+                "Though",
+                "Even though",
+                "All of these"
+            ],
+            "correct": 3,
+            "id": "c5750cc17c5345ec89d165429ff35b48"
+        },
+        {
+            "question": "........................... you are determined you can succeed in whatever you do.",
+            "description": "Whether cannot be used to indicate a condition.",
+            "answers": [
+                "Whether",
+                "If",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "b3cbda3c50714b51be8f3151b9725004"
+        },
+        {
+            "question": "The man asked ........................ I could help him.",
+            "description": "Both if and whether can be used to introduce an indirect question. ",
+            "answers": [
+                "whether",
+                "if",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "2cbfa568f0b848ac9c9528801425001b"
+        },
+        {
+            "question": "She waited in the park .......................... her friends arrived.",
+            "description": "Unless means if not. Until indicates time.",
+            "answers": [
+                "until",
+                "unless"
+            ],
+            "correct": 0,
+            "id": "0c540ff97c424b2a960bacb9f25af71f"
+        },
+        {
+            "question": ".......................... you give me the keys of the safe, you will be shot.",
+            "description": "Unless indicates a condition. It means if not.",
+            "answers": [
+                "If",
+                "Until",
+                "Unless"
+            ],
+            "correct": 2,
+            "id": "582473bea66a4925a64b79598199fa31"
+        }
+    ]
+}

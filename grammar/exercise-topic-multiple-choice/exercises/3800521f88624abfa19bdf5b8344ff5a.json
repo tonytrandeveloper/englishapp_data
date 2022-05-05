@@ -1,0 +1,140 @@
+{
+    "id": "3800521f88624abfa19bdf5b8344ff5a",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "I ………………………………….. here since morning.",
+            "description": "We use the present perfect continuous tense to talk about an action or situation that started in the past and has continued up to the present. ",
+            "answers": [
+                "am waiting",
+                "waited",
+                "have been waiting"
+            ],
+            "correct": 2,
+            "id": "dd5efc53a5e846749c9f7f33c7dc3200"
+        },
+        {
+            "question": "I ……………………………… him yesterday.",
+            "description": "We use the simple past to talk about finished events in the past. ",
+            "answers": [
+                "met",
+                "have met",
+                "had met"
+            ],
+            "correct": 0,
+            "id": "6da68cb87b1e49b38a151b1deccd178a"
+        },
+        {
+            "question": "Samuel …………………………… from Australia last week.",
+            "description": "We use the simple past to talk about finished events in the past. ",
+            "answers": [
+                "returned",
+                "has returned",
+                "had returned"
+            ],
+            "correct": 0,
+            "id": "74562417d379460da231472a6775abb3"
+        },
+        {
+            "question": "See that you …………………………….. any damage.",
+            "description": "The simple present is used in imperative sentences like these. ",
+            "answers": [
+                "do not cause",
+                "did not cause",
+                "will not cause"
+            ],
+            "correct": 0,
+            "id": "2d49d77142c6406589faf96063b2cec6"
+        },
+        {
+            "question": "She will come if you …………………………… her.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause.",
+            "answers": [
+                "invite",
+                "will invite",
+                "invited"
+            ],
+            "correct": 0,
+            "id": "3732418ba07443bdb415228079ea8b2d"
+        },
+        {
+            "question": "I …………………………… to France recently.",
+            "description": "The simple past is the most common tense for talking about past events.",
+            "answers": [
+                "went",
+                "have gone",
+                "had gone"
+            ],
+            "correct": 0,
+            "id": "82a9110ffbfb41d9978f698887d61a92"
+        },
+        {
+            "question": "The jail warden discovered that the prisoner ……………………………",
+            "description": "We use the past perfect for the earlier of two past actions. ",
+            "answers": [
+                "escaped",
+                "would escape",
+                "had escaped"
+            ],
+            "correct": 2,
+            "id": "a3e43084b23a4dc6ac71fcc2588dc85d"
+        },
+        {
+            "question": "I ……………………………… in this city for ten years now.",
+            "description": "We use the present perfect to talk about an action or situation that started in the past and has continued up to the present. ",
+            "answers": [
+                "have lived",
+                "live",
+                "am living"
+            ],
+            "correct": 0,
+            "id": "d541f49d85094bcf857925bbca0cc208"
+        },
+        {
+            "question": "The train …………………………… before we reached the station.",
+            "description": "We use the past perfect for the earlier of two past actions. ",
+            "answers": [
+                "left",
+                "had left",
+                "have left"
+            ],
+            "correct": 1,
+            "id": "47cc1d1089f84da8946a69f90f969009"
+        },
+        {
+            "question": "My dad ………………………….. for a walk in the morning.",
+            "description": "We use the simple present to talk about our habits and routines. ",
+            "answers": [
+                "go",
+                "goes",
+                "went",
+                "has gone"
+            ],
+            "correct": 1,
+            "id": "f95ae84e5b5747d8aff54536c3effaf5"
+        },
+        {
+            "question": "When I visited him he …………………………. bed-ridden for two months.",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "has been",
+                "had been"
+            ],
+            "correct": 3,
+            "id": "b85e50e5e395490bb81c9344cbaded3d"
+        },
+        {
+            "question": "He ………………………….. school at twelve.",
+            "description": "We use the simple past to say that something happened at a particular point of time in the past. ",
+            "answers": [
+                "left",
+                "had left",
+                "has left"
+            ],
+            "correct": 0,
+            "id": "e77009a6fea44beda5e0069d052f8f8a"
+        }
+    ]
+}

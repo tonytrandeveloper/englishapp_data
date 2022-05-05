@@ -1,0 +1,138 @@
+{
+    "id": "e4c2d60aa74e4f2d94affd7cfcb921e0",
+    "title": "Prepositions Exercise",
+    "questions": [
+        {
+            "question": "She went to school ……………….. Frankfurt.",
+            "description": "After expressions like go to school, we use in. Sometimes at is also possible.",
+            "answers": [
+                "in",
+                "to",
+                "into"
+            ],
+            "correct": 0,
+            "id": "c5f3054538e14fd499e3427746403e62"
+        },
+        {
+            "question": "We arrived ………………………… Shanghai on Monday morning.",
+            "description": "After arrive we use in or at.",
+            "answers": [
+                "at",
+                "in",
+                "to"
+            ],
+            "correct": 1,
+            "id": "edb6c79acbda4d8eba8fb584404243d7"
+        },
+        {
+            "question": "Due to his extravagant lifestyle, he landed himself ………………………….. deep trouble.",
+            "description": "We use in / at after land.",
+            "answers": [
+                "to",
+                "on",
+                "in"
+            ],
+            "correct": 2,
+            "id": "f6195942e3c64446b8d90cb1192a7203"
+        },
+        {
+            "question": "I broke the stick ………………………..",
+            "description": "In half is the correct expression here.",
+            "answers": [
+                "by half",
+                "in half",
+                "into half"
+            ],
+            "correct": 1,
+            "id": "15ad7e814aa945d081e6cdebbf1e6f81"
+        },
+        {
+            "question": "She cut the vegetables ………………………… small pieces.",
+            "description": "Cut can be followed by in or into.",
+            "answers": [
+                "in",
+                "to",
+                "into"
+            ],
+            "correct": 2,
+            "id": "51f84a7f6e96440f8fee542999977b66"
+        },
+        {
+            "question": "She threw another log …………………… the fire.",
+            "description": "",
+            "answers": [
+                "in",
+                "at",
+                "on"
+            ],
+            "correct": 2,
+            "id": "5076656ca9de4f0791cbf2db3bd546e1"
+        },
+        {
+            "question": "She performed well …………………………. having a headache.",
+            "description": "In spite of is a preposition. We need a preposition before a noun or ing form.",
+            "answers": [
+                "in spite",
+                "despite of",
+                "in spite of"
+            ],
+            "correct": 2,
+            "id": "70cb5a50e8ea4deab0698eb440191a33"
+        },
+        {
+            "question": "He threw the ball ………………………. the window.",
+            "description": "Out of is the opposite of into. Out without of is possible in an informal style.\r\n",
+            "answers": [
+                "out",
+                "out of",
+                "off"
+            ],
+            "correct": 1,
+            "id": "c3e5212dfe32496184338a9373128bb3"
+        },
+        {
+            "question": "Don’t marry him. Marry me ………………………..",
+            "description": "Instead without of is an adverb. It usually goes at the beginning or at the end of a clause.",
+            "answers": [
+                "instead",
+                "instead of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "c233bb9cc0164aa8bf3c6fbd9efc942c"
+        },
+        {
+            "question": "He watched TV all day …………………….. going to work.",
+            "description": "Instead of is a preposition. It can be followed by a noun or an ing form. Without is not used with this meaning. ",
+            "answers": [
+                "Instead",
+                "Instead of",
+                "without"
+            ],
+            "correct": 1,
+            "id": "22a6fbd0a10947b1802b3ea735d71349"
+        },
+        {
+            "question": "He tripped ……………………….. the cat and fell downstairs.",
+            "description": "The verb tripped is followed by the preposition over. ",
+            "answers": [
+                "on",
+                "over",
+                "off"
+            ],
+            "correct": 1,
+            "id": "c2cdb528e17d4f279cec5af56475d1d9"
+        },
+        {
+            "question": "I am sorry ………………………… breaking your window.",
+            "description": "Sorry can be followed by for or about. ",
+            "answers": [
+                "for",
+                "about",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "b0e7252a161d4fde8b412986c950437f"
+        }
+    ]
+}

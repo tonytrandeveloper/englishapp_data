@@ -1,0 +1,146 @@
+{
+    "id": "94ae7dd9cfe24c76be32a4ca8f98a416",
+    "title": "Frame Questions",
+    "questions": [
+        {
+            "question": "..................................... books are these?",
+            "description": "",
+            "answers": [
+                "Who's",
+                "Whose",
+                "Whos"
+            ],
+            "correct": 1,
+            "id": "19f83cfee82745df8257863c7028628e"
+        },
+        {
+            "question": "..................................... do you want?",
+            "description": "",
+            "answers": [
+                "What",
+                "Whose",
+                "Which"
+            ],
+            "correct": 0,
+            "id": "cfd1fd065f144642bcdc440386af7dbe"
+        },
+        {
+            "question": "........................................... will you stay with?",
+            "description": "",
+            "answers": [
+                "Whom",
+                "What",
+                "Which"
+            ],
+            "correct": 0,
+            "id": "52f765d31a104130864933c90b6ae4f8"
+        },
+        {
+            "question": "With ....................................... are you going?",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "what"
+            ],
+            "correct": 1,
+            "id": "c287c235fee44ef898d23da2866cc7b9"
+        },
+        {
+            "question": "....................................... did you go there?",
+            "description": "",
+            "answers": [
+                "Why",
+                "What",
+                "Which"
+            ],
+            "correct": 0,
+            "id": "6f8734a5ebc4435589bcddc9669715df"
+        },
+        {
+            "question": "........................................... is your boy?",
+            "description": "",
+            "answers": [
+                "Which",
+                "What"
+            ],
+            "correct": 0,
+            "id": "00b561908e524773970b1df8ef2fab1c"
+        },
+        {
+            "question": "......................................... do you come from?",
+            "description": "",
+            "answers": [
+                "What",
+                "When",
+                "Where"
+            ],
+            "correct": 2,
+            "id": "f7c531a0fe664c97b00776d79c2e17d6"
+        },
+        {
+            "question": "....................................... did you meet him?",
+            "description": "",
+            "answers": [
+                "When",
+                "Where",
+                "How",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "5371d176739d44e3be7307d9e46f73ae"
+        },
+        {
+            "question": "................................... long is this bridge?",
+            "description": "",
+            "answers": [
+                "What",
+                "How",
+                "Which"
+            ],
+            "correct": 1,
+            "id": "a9fd22a80f4d494095b9a51f608d5aa0"
+        },
+        {
+            "question": "......................................... old is your father?",
+            "description": "",
+            "answers": [
+                "What",
+                "How"
+            ],
+            "correct": 1,
+            "id": "18e8cb1be5584bf2bf498d75cd6ad259"
+        },
+        {
+            "question": "..................................... brothers and sisters do you have?",
+            "description": "",
+            "answers": [
+                "How many",
+                "How much"
+            ],
+            "correct": 0,
+            "id": "74c7300431c64f15b99e5607fa285b48"
+        },
+        {
+            "question": "....................................... is your headmaster?",
+            "description": "",
+            "answers": [
+                "Who",
+                "What"
+            ],
+            "correct": 0,
+            "id": "cae4cfe86ad14b27b71182d66cf8e247"
+        },
+        {
+            "question": "............................................ did you come to this place?",
+            "description": "",
+            "answers": [
+                "When",
+                "Where",
+                "What"
+            ],
+            "correct": 0,
+            "id": "cf9db904fb914893a398afb9bbd460a3"
+        }
+    ]
+}

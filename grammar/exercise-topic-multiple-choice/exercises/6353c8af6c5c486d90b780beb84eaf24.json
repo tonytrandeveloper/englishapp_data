@@ -1,0 +1,116 @@
+{
+    "id": "6353c8af6c5c486d90b780beb84eaf24",
+    "title": "Simple Past Tense Exercise",
+    "questions": [
+        {
+            "question": "I …………………………. him yesterday.",
+            "description": "",
+            "answers": [
+                "saw",
+                "was seeing",
+                "had seen"
+            ],
+            "correct": 0,
+            "id": "50d482fc687749e9aaacaa93faa0525e"
+        },
+        {
+            "question": "I ………………………. his letter yesterday.",
+            "description": "",
+            "answers": [
+                "received",
+                "have received",
+                "was receiving"
+            ],
+            "correct": 0,
+            "id": "81f384c70fe24e2883ab5d68918232e8"
+        },
+        {
+            "question": "She ……………………….. school last year.",
+            "description": "",
+            "answers": [
+                "will leave",
+                "was leaving",
+                "left"
+            ],
+            "correct": 2,
+            "id": "adc2c3f068f14f36baea440cf6cf91cb"
+        },
+        {
+            "question": "Last night I …………………………….. sleep well.",
+            "description": "",
+            "answers": [
+                "don't",
+                "didn't",
+                "hadn't"
+            ],
+            "correct": 1,
+            "id": "e54a01d3565843c9841cea48e7ec67e3"
+        },
+        {
+            "question": "He ……………………………. asleep while he was driving.",
+            "description": "",
+            "answers": [
+                "fell",
+                "was falling",
+                "had fallen"
+            ],
+            "correct": 0,
+            "id": "adf6db924e7e4ea7864a79386311896e"
+        },
+        {
+            "question": "I ………………………… a new bicycle last week.",
+            "description": "",
+            "answers": [
+                "bought",
+                "have bought",
+                "had bought"
+            ],
+            "correct": 0,
+            "id": "094545e186cc4f4082fff53f5f79b3a4"
+        },
+        {
+            "question": "We ………………………….. our breakfast half an hour ago.",
+            "description": "",
+            "answers": [
+                "finished",
+                "have finished",
+                "had finished"
+            ],
+            "correct": 0,
+            "id": "c7bc9da1c0eb4cd9a017db2cb77c2a4f"
+        },
+        {
+            "question": "When I was in the US, I …………………………….. Chicago, Boston and California.",
+            "description": "",
+            "answers": [
+                "visiting",
+                "visited",
+                "was visiting"
+            ],
+            "correct": 1,
+            "id": "b0923044c83d430799f4beaff561b85d"
+        },
+        {
+            "question": "I …………………………….. an old classmate of mine at the library.",
+            "description": "",
+            "answers": [
+                "was seeing",
+                "saw",
+                "had seen"
+            ],
+            "correct": 1,
+            "id": "ab2409a72c13490898e6cbb7e638ff46"
+        },
+        {
+            "question": "She ……………………………… that she would not go.",
+            "description": "",
+            "answers": [
+                "says",
+                "said",
+                "was saying"
+            ],
+            "correct": 1,
+            "id": "998198a0c63c4d3b9f11f7e40d1975bf"
+        }
+    ]
+}

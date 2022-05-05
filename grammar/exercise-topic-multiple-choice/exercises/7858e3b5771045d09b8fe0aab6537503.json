@@ -1,0 +1,105 @@
+{
+    "id": "7858e3b5771045d09b8fe0aab6537503",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Mary had a little lamb ……………… fleece was as white as snow.",
+            "description": "",
+            "answers": [
+                "who",
+                "whose",
+                "which"
+            ],
+            "correct": 1,
+            "id": "52d21a9fffee4e36aa5386f311d01dee"
+        },
+        {
+            "question": "He tells a tale ………………… sounds true.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "who"
+            ],
+            "correct": 0,
+            "id": "4a431bbdb88343f8b3b2fad669cc3fb8"
+        },
+        {
+            "question": "They never fail ……………….. die for a great cause.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "96868d25cc684ef2b48b35cb8879214e"
+        },
+        {
+            "question": "He ………………. laughs last laughs best.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "704f29a816184cccb39d988a17db29ad"
+        },
+        {
+            "question": "The dog ……………… barks does not bite.",
+            "description": "",
+            "answers": [
+                "what",
+                "that",
+                "who"
+            ],
+            "correct": 1,
+            "id": "d3de5ae7f19a4cc48c8e6ea6fa5b7640"
+        },
+        {
+            "question": "There I met a girl ……………… eyes were black.",
+            "description": "",
+            "answers": [
+                "whom",
+                "who",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "2cbd23cd5beb43c39c85d1c2bd445fb1"
+        },
+        {
+            "question": "The boy ……………… sits near me is my cousin.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "f3a28644d73240dc9b3197358dfaaf03"
+        },
+        {
+            "question": "He has lost the book ……………… he borrowed from you.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "d57be9435c574623b67916b908837dbc"
+        },
+        {
+            "question": "This is the place ……………….. our forefathers landed.",
+            "description": "",
+            "answers": [
+                "where",
+                "which",
+                "when"
+            ],
+            "correct": 0,
+            "id": "f5d838b1ff904c3fbd409ae98863e146"
+        }
+    ]
+}

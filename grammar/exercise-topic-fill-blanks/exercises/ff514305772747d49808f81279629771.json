@@ -1,0 +1,389 @@
+{
+    "id": "ff514305772747d49808f81279629771",
+    "title": "Choose the Present Perfect Simple or Continuous 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Have they arrived"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(they/arrive) already?"
+                }
+            ],
+            "id": "70ebe223db28459e8a97c94f61adf48e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s run",
+                        "has run"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(run) 2000 metres today."
+                }
+            ],
+            "id": "278f0fbfa7b546aea0782070cad3c126"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been cleaning",
+                        "have been cleaning"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(clean) all morning - I'm fed up!"
+                }
+            ],
+            "id": "5fc02247b24e4b10889abb14e50a9939"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "have you known"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/know) Simon?"
+                }
+            ],
+            "id": "f7517bc7a7694cd0a065232082214b98"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been drinking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(drink) more water recently, and I feel better."
+                }
+            ],
+            "id": "9cbb7776da92497ba1fe4bdc4271deeb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Sorry about the mess! I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been baking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(bake)."
+                }
+            ],
+            "id": "f3373da24bf84979a6603d619ee65c9a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How many times"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "have you taken"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/take) this exam?"
+                }
+            ],
+            "id": "631ec77bae694a4e85e356a9fe18f7b4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s eaten",
+                        "has eaten"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) six bars of chocolate today."
+                }
+            ],
+            "id": "b227ad7ca442442d9a649be53b2d30a6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s cooked",
+                        "has cooked"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(cook) dinner. Let's go and eat!"
+                }
+            ],
+            "id": "ae6ec218f7fa4c8db259272a5857de8a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The students"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "have finished",
+                        "'ve finished"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(finish) their exams. They're very happy."
+                }
+            ],
+            "id": "13af1d2bfddd40718e5f81cf81cce116"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The baby's face is really dirty. What"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has he been eating"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(he/eat)?"
+                }
+            ],
+            "id": "0288ec91d6e74960b51b0f8b1ab183cd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Iona is exhausted these days. She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s been working",
+                        "has been working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(work) too hard recently."
+                }
+            ],
+            "id": "58b00ec0c56c406698649fde56b8eb74"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Luke"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s never been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(never/be) abroad."
+                }
+            ],
+            "id": "81e35aff846c4489bb0df30f92089c79"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been waiting",
+                        "have been waiting"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(wait) three hours already!"
+                }
+            ],
+            "id": "7e8156dc69c04efeb6fd1c67f3f4a863"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Have you finished"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/finish) your homework yet?"
+                }
+            ],
+            "id": "a10244e620bf40079a9d3906a96cfc5f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "have you been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/be) a lawyer?"
+                }
+            ],
+            "id": "8f9dcfc105f143ebb0529328ae6a2094"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been reading",
+                        "have been reading"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(read) your book all day. It's very interesting, but I'm only on chapter 2."
+                }
+            ],
+            "id": "03eb5160b4cc476ea473cf5303ee953f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s drunk",
+                        "has drunk"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(drink) ten glasses of water!"
+                }
+            ],
+            "id": "84a9c7dc100c44e39a6b3ccce115b95b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve had",
+                        "have had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) my dog for sixteen years."
+                }
+            ],
+            "id": "902b15b7ea45490e98403996cb4e916f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Help, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve lost",
+                        "have lost"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(lose) my wallet. How can I get home?"
+                }
+            ],
+            "id": "ddfee2ca041f482ca7f8751f69eb6f98"
+        }
+    ]
+}

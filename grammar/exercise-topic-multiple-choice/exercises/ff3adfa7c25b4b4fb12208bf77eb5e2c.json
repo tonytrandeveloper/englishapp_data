@@ -1,0 +1,106 @@
+{
+    "id": "ff3adfa7c25b4b4fb12208bf77eb5e2c",
+    "title": "Simple Present Tense Exercise",
+    "questions": [
+        {
+            "question": "When .................................... you get up in the morning?",
+            "description": "",
+            "answers": [
+                "do",
+                "does"
+            ],
+            "correct": 0,
+            "id": "fa582a36fc80468d834991412920ae2b"
+        },
+        {
+            "question": "I ............................................ up at six o’clock.",
+            "description": "",
+            "answers": [
+                "get",
+                "gets"
+            ],
+            "correct": 0,
+            "id": "7e34fc9134034647b4f79f7efb356461"
+        },
+        {
+            "question": "I .............................................. breakfast at 9 am.",
+            "description": "",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "2a5ae5158fcc4daaa6544daa78c8f2c5"
+        },
+        {
+            "question": "I .................................................. science at a private school.",
+            "description": "",
+            "answers": [
+                "teach",
+                "teaches"
+            ],
+            "correct": 0,
+            "id": "a9d825cd4df746bb8f0bc9ba1c765cf1"
+        },
+        {
+            "question": "Jane ............................................ up at five o’clock.",
+            "description": "",
+            "answers": [
+                "get",
+                "gets"
+            ],
+            "correct": 1,
+            "id": "6471c7f3c6b9436ea8dc7444db6ef2b0"
+        },
+        {
+            "question": "Vicky ............................................. at a bank.",
+            "description": "",
+            "answers": [
+                "work",
+                "works"
+            ],
+            "correct": 1,
+            "id": "a0a47ee0448e44b59a372a13bac5bc16"
+        },
+        {
+            "question": "She ........................................... a six figure salary.",
+            "description": "",
+            "answers": [
+                "earn",
+                "earns"
+            ],
+            "correct": 1,
+            "id": "1f2ad73401d24ba894ea700077c3463f"
+        },
+        {
+            "question": "I .......................................... a beauty parlor.",
+            "description": "",
+            "answers": [
+                "run",
+                "runs"
+            ],
+            "correct": 0,
+            "id": "5e7b0d9a314642559da8b8ca2141f40d"
+        },
+        {
+            "question": "You .............................................. well",
+            "description": "",
+            "answers": [
+                "sing",
+                "sings"
+            ],
+            "correct": 0,
+            "id": "8bc2003a3c97407a837abb6fdbd544b4"
+        },
+        {
+            "question": "They ............................................. at bank.",
+            "description": "",
+            "answers": [
+                "work",
+                "works"
+            ],
+            "correct": 0,
+            "id": "a9a807ce9d2a40eab5b41df1d73a3656"
+        }
+    ]
+}

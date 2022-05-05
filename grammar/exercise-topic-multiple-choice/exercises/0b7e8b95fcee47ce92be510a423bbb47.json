@@ -1,0 +1,125 @@
+{
+    "id": "0b7e8b95fcee47ce92be510a423bbb47",
+    "title": "Sentence Completion",
+    "questions": [
+        {
+            "question": "After the visitors ……………. I went into my room.",
+            "description": "",
+            "answers": [
+                "went",
+                "gone",
+                "had gone",
+                "have gone"
+            ],
+            "correct": 2,
+            "id": "b9b08b849c3847cfb72c54a7c48bca14"
+        },
+        {
+            "question": "The accused ………………….. by the police.",
+            "description": "",
+            "answers": [
+                "interrogated",
+                "were interrogating",
+                "being interrogated",
+                "were being interrogated"
+            ],
+            "correct": 3,
+            "id": "9579ddab904c402bb88679f02d5d8077"
+        },
+        {
+            "question": "No one ……………….. a fraudster.",
+            "description": "",
+            "answers": [
+                "like",
+                "likes",
+                "is liking",
+                "liked"
+            ],
+            "correct": 1,
+            "id": "56159e23acc64251b4c035f63a99a3f6"
+        },
+        {
+            "question": "We ………………… our country.",
+            "description": "",
+            "answers": [
+                "shall not betray",
+                "shall not betrayed",
+                "do not shall betray"
+            ],
+            "correct": 0,
+            "id": "e3067916e56d4bcdb1134b030b8be9bc"
+        },
+        {
+            "question": "I ……………….. your letter yesterday.",
+            "description": "",
+            "answers": [
+                "received",
+                "was received",
+                "had received",
+                "would receive"
+            ],
+            "correct": 0,
+            "id": "d63800fd1612470c9fdda4d1173ce1c2"
+        },
+        {
+            "question": "It takes two ——— a quarrel.",
+            "description": "",
+            "answers": [
+                "to making",
+                "to make",
+                "to made",
+                "made"
+            ],
+            "correct": 1,
+            "id": "6b177d8b22fd40039cff2363b7ec63f8"
+        },
+        {
+            "question": "The thief ………………… red-handed.",
+            "description": "",
+            "answers": [
+                "caught",
+                "was caught",
+                "has caught",
+                "would catch"
+            ],
+            "correct": 1,
+            "id": "9c6061c2284c4d7ab61c300bb09a4abe"
+        },
+        {
+            "question": "The Delhi-Mumbai flight ……………….. by two hours due to a bomb scare.",
+            "description": "",
+            "answers": [
+                "delayed",
+                "has delayed",
+                "was delayed",
+                "had delayed"
+            ],
+            "correct": 2,
+            "id": "7c155c5c0a6944fc82addf39cdb190a6"
+        },
+        {
+            "question": "The stadium …………………. with dance and music as artists from various parts of the world ......................",
+            "description": "",
+            "answers": [
+                "reverberate, performed",
+                "reverberated, performed",
+                "was reverberated, performed",
+                "reverberated, was performed"
+            ],
+            "correct": 1,
+            "id": "a205269ec74841f6aad56649d63f7146"
+        },
+        {
+            "question": "He ……………….. animals, but he also ……………….. many man eaters.",
+            "description": "",
+            "answers": [
+                "love, kill",
+                "loved, killed",
+                "was loved, was killed",
+                "had loved, had killed"
+            ],
+            "correct": 1,
+            "id": "b0ee3cca139042a69a2951566c6d0ed1"
+        }
+    ]
+}

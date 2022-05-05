@@ -1,0 +1,109 @@
+{
+    "id": "7e8043d065934eab808299baaba58f6e",
+    "title": "Active and Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "They ...................... of the function.",
+            "description": "",
+            "answers": [
+                "have informed",
+                "have been informed"
+            ],
+            "correct": 1,
+            "id": "24213fbd519e4fe3a240d423930af9bc"
+        },
+        {
+            "question": "The teacher ………………….. the boy for creating trouble in the class.",
+            "description": "",
+            "answers": [
+                "reprimanded",
+                "was reprimanded",
+                "has been reprimanded"
+            ],
+            "correct": 0,
+            "id": "66e3041aaca145cd9da2effe465acb00"
+        },
+        {
+            "question": "Civic authorities ...................... several illegal buildings in the city yesterday.",
+            "description": "",
+            "answers": [
+                "were demolished",
+                "demolished"
+            ],
+            "correct": 1,
+            "id": "d68337af8f494fef8f7991a5d23b2c80"
+        },
+        {
+            "question": "She …………………. me of poisoning her dog.",
+            "description": "",
+            "answers": [
+                "accused",
+                "was accused",
+                "was accusing"
+            ],
+            "correct": 0,
+            "id": "8b166e11bf064febbfecec051bd076d2"
+        },
+        {
+            "question": "The suspect ………………….. to judicial custody.",
+            "description": "",
+            "answers": [
+                "remanded",
+                "was remanded",
+                "has remanded"
+            ],
+            "correct": 1,
+            "id": "4bbf81a3ff0740f89fe3678d826106e5"
+        },
+        {
+            "question": "No one ..................... me a happy birthday.",
+            "description": "",
+            "answers": [
+                "wished",
+                "was wished"
+            ],
+            "correct": 0,
+            "id": "9e553d2b553e408eb1480cfa17e21d05"
+        },
+        {
+            "question": "The world ………………… warmer and warmer.",
+            "description": "",
+            "answers": [
+                "is getting",
+                "is being gotten"
+            ],
+            "correct": 0,
+            "id": "32d29ddbd8a447389b161020664408d2"
+        },
+        {
+            "question": "They ..................... to deposit the money.",
+            "description": "",
+            "answers": [
+                "have told",
+                "have been told"
+            ],
+            "correct": 1,
+            "id": "bb9f7e71d20b4ea3b5c37a9d88a54f38"
+        },
+        {
+            "question": "I ..................... to mend my ways.",
+            "description": "",
+            "answers": [
+                "told",
+                "was told"
+            ],
+            "correct": 1,
+            "id": "273071c783574aaa9ba5270002accde1"
+        },
+        {
+            "question": "I ………………… anything from them.",
+            "description": "",
+            "answers": [
+                "haven't heard",
+                "haven't been heard"
+            ],
+            "correct": 1,
+            "id": "289ece7f89f94e88b758d8e7fc4f21c1"
+        }
+    ]
+}

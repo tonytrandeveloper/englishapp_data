@@ -1,0 +1,105 @@
+{
+    "id": "c7cb5950b28c4c528c223aea300fba7f",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "The sun …………………. rays sustain life on earth is regarded as a god.",
+            "description": "",
+            "answers": [
+                "who",
+                "whose",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "5c37e266fd004144b7d2bb8bfafdf7ca"
+        },
+        {
+            "question": "The moment ………………. is lost is lost forever.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "0ab164dba0c842f1a09db07c6de68fba"
+        },
+        {
+            "question": "They sent for the doctor ………………. came at once.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "955be8a98a32492db8b7dc97258c95ef"
+        },
+        {
+            "question": "This is the boy ……………….. I told you of.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "8b4225dc6cb04bc788ec599a3cc96154"
+        },
+        {
+            "question": "I know the house …………………. he lives in.",
+            "description": "",
+            "answers": [
+                "where",
+                "that",
+                "which"
+            ],
+            "correct": 1,
+            "id": "a9062e4f12fc4e17bbce0a03009cc625"
+        },
+        {
+            "question": "He ……………. is not with me is against me.",
+            "description": "",
+            "answers": [
+                "who",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "80d4757b9e994400b240e057ca88af4a"
+        },
+        {
+            "question": "He was the most prolific writer ……………… I ever read.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "what"
+            ],
+            "correct": 0,
+            "id": "3b329f1c2e26497cb7d4135cc8f1746e"
+        },
+        {
+            "question": "I have lost the envelope ……………….. you gave me.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "29888269f4ec48489605c9935d310a89"
+        },
+        {
+            "question": "Even the wisest men ………………….. ever lived made mistakes.",
+            "description": "",
+            "answers": [
+                "that",
+                "who",
+                "which"
+            ],
+            "correct": 0,
+            "id": "04399d6921bd4dd6bd8e89b0e0527857"
+        }
+    ]
+}

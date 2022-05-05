@@ -1,0 +1,109 @@
+{
+    "id": "5731ac1510754f02b286ee711c0e45c5",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "English ................................ all over the world.",
+            "description": "",
+            "answers": [
+                "speaks",
+                "is spoken"
+            ],
+            "correct": 1,
+            "id": "c686b02ba8414ad8a5e621a90be0fbed"
+        },
+        {
+            "question": "The thief .................................. by the police.",
+            "description": "",
+            "answers": [
+                "has arrested",
+                "has been arrested"
+            ],
+            "correct": 1,
+            "id": "c710ca4d92594ebab7e853f66c590426"
+        },
+        {
+            "question": "The show ....................................... by both men and women.",
+            "description": "",
+            "answers": [
+                "is watching",
+                "is being watched"
+            ],
+            "correct": 1,
+            "id": "40132d11009246239995da9ef65ba308"
+        },
+        {
+            "question": "Football .................................... all over the world.",
+            "description": "",
+            "answers": [
+                "is playing",
+                "is played"
+            ],
+            "correct": 1,
+            "id": "890c69f57a224643a98ac9bb795272ee"
+        },
+        {
+            "question": "The national anthem .................................... by the boys.",
+            "description": "",
+            "answers": [
+                "was singing",
+                "was being sung"
+            ],
+            "correct": 1,
+            "id": "009c66b19ab54dfc8ee86a07b097689d"
+        },
+        {
+            "question": "The match will certainly ....................................... by our team.",
+            "description": "",
+            "answers": [
+                "won",
+                "be won"
+            ],
+            "correct": 1,
+            "id": "d9f15ad9acc34ee68fb5dc8ad6c2d3c3"
+        },
+        {
+            "question": "The news ............................................... yet.",
+            "description": "",
+            "answers": [
+                "hasn't announced",
+                "hasn't been announced"
+            ],
+            "correct": 1,
+            "id": "0f074fbd309b499e8d4202bd6291ad49"
+        },
+        {
+            "question": "The answers are to ..................................... on both sides of the paper.",
+            "description": "",
+            "answers": [
+                "write",
+                "be written",
+                "be writing"
+            ],
+            "correct": 1,
+            "id": "fa2386cbde564fb78bdbfe922390787b"
+        },
+        {
+            "question": "He has always ..................................... by his supporters.",
+            "description": "",
+            "answers": [
+                "admired",
+                "been admired",
+                "been admiring"
+            ],
+            "correct": 1,
+            "id": "07ab675647a6469abe21d97516382de4"
+        },
+        {
+            "question": "The roof is ....................................... by the contractor.",
+            "description": "",
+            "answers": [
+                "fixing",
+                "being fixing",
+                "being fixed"
+            ],
+            "correct": 2,
+            "id": "cc28e635619a47079603b2ea23a74744"
+        }
+    ]
+}

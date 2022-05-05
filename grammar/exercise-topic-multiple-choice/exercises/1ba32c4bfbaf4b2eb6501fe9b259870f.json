@@ -1,0 +1,138 @@
+{
+    "id": "1ba32c4bfbaf4b2eb6501fe9b259870f",
+    "title": "Relative Clauses Exercise",
+    "questions": [
+        {
+            "question": "The boy ………………………. sits there is my cousin.",
+            "description": "We use who to refer to people.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "abfc82728d1f4ba3a7ca630145a5c1a6"
+        },
+        {
+            "question": "The woman ……………………….. opened the door asked us to leave.",
+            "description": "When the relative pronoun is the subject of the relative clause, we use who to refer to people. ",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "cf7390cbc2dd42779c1da8a8c4d2ac32"
+        },
+        {
+            "question": "The police arrested the man ………………………… had stolen the bicycle.",
+            "description": "When the relative pronoun is the subject of the relative clause, we use who to refer to people.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "5008f7eec1f04bef8ba7a16e99466b93"
+        },
+        {
+            "question": "We bought some mangoes from …………………………. we extracted the juice.",
+            "description": "In relative clauses which is used to refer to inanimate objects. ",
+            "answers": [
+                "that",
+                "which",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "4bf598d951ce4ede85d15d78b9d8365a"
+        },
+        {
+            "question": "She was a pretty woman ………………………….. everyone seemed to admire.",
+            "description": "Here the relative pronoun is the object of the relative clause hence we use whom. ",
+            "answers": [
+                "who",
+                "which",
+                "whom"
+            ],
+            "correct": 2,
+            "id": "f85364763e734b3aaf4640e2ed6c967a"
+        },
+        {
+            "question": "The man ………………………….. car had been stolen called the police.",
+            "description": "In relative clauses whose replaces words like her or his.",
+            "answers": [
+                "who",
+                "who's",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "9691c66ae1484914a1489e350506f502"
+        },
+        {
+            "question": "I know a girl ........................................ father is a sailor.",
+            "description": "In relative clauses whose replaces words like her or his.",
+            "answers": [
+                "who",
+                "who's",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "b0bf49efc7bd44dd9e6f2c417f912322"
+        },
+        {
+            "question": "The child …………………………… parents are dead lives in foster care.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "18dc34b5f1244c87aaf4e150c5af1984"
+        },
+        {
+            "question": "Who is that girl ……………………………… is dancing with Sam?",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "15ff8b80b3cc4f988329f7646c44bfa3"
+        },
+        {
+            "question": "There I met a man ……………………………. seemed to know everything.",
+            "description": "",
+            "answers": [
+                "who",
+                "whose",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "109c420a762a4eacbb792373b3cf4586"
+        },
+        {
+            "question": "Uneasy lies the head …………………………………. wears the crown.",
+            "description": "",
+            "answers": [
+                "that",
+                "who",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "3eee54cc9da94db4abaf99bedd437f66"
+        },
+        {
+            "question": "He is a singer …………………………… enjoys considerable fan-following all over the world.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "0365833618844222aae49a8511b1925d"
+        }
+    ]
+}

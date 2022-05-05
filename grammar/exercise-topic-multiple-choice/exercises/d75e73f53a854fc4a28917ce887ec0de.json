@@ -1,0 +1,134 @@
+{
+    "id": "d75e73f53a854fc4a28917ce887ec0de",
+    "title": "Has vs. Have vs. Had",
+    "questions": [
+        {
+            "question": "Rita …………………. a pet dog.",
+            "description": "Use has with singular subjects.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "871aabe68b984aca9a473976c39d1976"
+        },
+        {
+            "question": "I …………………. a strange experience yesterday.",
+            "description": "Yesterday shows past time hence, we use had here.",
+            "answers": [
+                "have",
+                "has",
+                "had"
+            ],
+            "correct": 2,
+            "id": "18e5097028aa499591d10875a6aa4981"
+        },
+        {
+            "question": "My neighbour …………………. a farmhouse.",
+            "description": "Use has with singular subjects.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "9a036db4a95647b2a806beeb0c1e3345"
+        },
+        {
+            "question": "You …………………. no right to use my computer.",
+            "description": "Use have with you, we and they.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "a2b8356e9589405089d6bbe96b5c9a42"
+        },
+        {
+            "question": "I …………………. so much work to do now.",
+            "description": "Use have with I.",
+            "answers": [
+                "have",
+                "has",
+                "had"
+            ],
+            "correct": 0,
+            "id": "6b994f3bcee64f47a608ec116a4fc923"
+        },
+        {
+            "question": "He …………………. a daughter who lives in Canada.",
+            "description": "",
+            "answers": [
+                "has",
+                "have",
+                "had"
+            ],
+            "correct": 0,
+            "id": "9bbe71cba80948cca46818c9a2502095"
+        },
+        {
+            "question": "What a pleasant surprise! I …………………. no idea you were coming today.",
+            "description": "",
+            "answers": [
+                "have",
+                "had",
+                "has"
+            ],
+            "correct": 1,
+            "id": "ed3332c9dcc64781a0d0027a36c2b5c8"
+        },
+        {
+            "question": "We …………………. a wonderful time when we went swimming on the weekend.",
+            "description": "",
+            "answers": [
+                "have",
+                "has",
+                "had"
+            ],
+            "correct": 2,
+            "id": "c9f2999cfab9423b8d60b9c62d2d5820"
+        },
+        {
+            "question": "We ………………………….. a wonderful time whenever we go swimming.",
+            "description": "",
+            "answers": [
+                "have",
+                "has",
+                "had"
+            ],
+            "correct": 0,
+            "id": "21f43a3d1e884ad7a5859c77b6af4bd0"
+        },
+        {
+            "question": "The baby …………………. a slight fever.",
+            "description": "",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "7a0f0c0e9f7a4f789ee092769b44e766"
+        },
+        {
+            "question": "Rani …………………. got a fine collection of stamps. She is quite proud of it.",
+            "description": "Use has with singular subjects. ",
+            "answers": [
+                "has",
+                "have",
+                "had"
+            ],
+            "correct": 0,
+            "id": "6a468c475f5345c4b2eac1913711bf8b"
+        },
+        {
+            "question": "He …………………………… no excuse for doing this.",
+            "description": "",
+            "answers": [
+                "has",
+                "have",
+                "had"
+            ],
+            "correct": 0,
+            "id": "50c9e976016a4f2e950bafbe49df2bb9"
+        }
+    ]
+}

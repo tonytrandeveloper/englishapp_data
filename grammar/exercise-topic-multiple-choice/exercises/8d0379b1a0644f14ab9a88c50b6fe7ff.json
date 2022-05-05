@@ -1,0 +1,128 @@
+{
+    "id": "8d0379b1a0644f14ab9a88c50b6fe7ff",
+    "title": "Confusing Words Exercise",
+    "questions": [
+        {
+            "question": "The dentist recommended an …………………… surgeon.",
+            "description": "Oral means having to do with the mouth or speech.",
+            "answers": [
+                "oral",
+                "aural"
+            ],
+            "correct": 0,
+            "id": "b9b216fc98d14e7e93d7cebcf3cb6c4b"
+        },
+        {
+            "question": "Hearing aids help a person to overcome some ……………………….. deficiencies.",
+            "description": "Oral means having to do with the mouth or speech. Aural means having to do with the ears or the sense of hearing.",
+            "answers": [
+                "oral",
+                "aural"
+            ],
+            "correct": 1,
+            "id": "d270da7ba6cb45a397b02d76a2e92cdc"
+        },
+        {
+            "question": "The city council passed an ………………………………… against jaywalking.",
+            "description": "An ordinance is a municipal law.",
+            "answers": [
+                "ordinance",
+                "ordnance"
+            ],
+            "correct": 0,
+            "id": "067bc18e987d47c2b617ebd09972c73f"
+        },
+        {
+            "question": "The ………………………….. is stored in the armory.",
+            "description": "Ordnance means military weapons.",
+            "answers": [
+                "ordinance",
+                "ordnance"
+            ],
+            "correct": 1,
+            "id": "19357a56ac6642709d921f645be63df9"
+        },
+        {
+            "question": "His …………………………. appearance was calm.",
+            "description": "Outward is always correct as an adjective and an adverb. Outwards is correct only as an adverb.",
+            "answers": [
+                "outward",
+                "outwards"
+            ],
+            "correct": 0,
+            "id": "0c692c2ba3d84c1b90e2969ce3d69247"
+        },
+        {
+            "question": "The ship headed ……………………. to deeper water.",
+            "description": "Outward is always correct as an adjective and an adverb. Outwards is correct only as an adverb.",
+            "answers": [
+                "outward",
+                "outwards",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "55bb1be807ba457cb7715e0bf623fde6"
+        },
+        {
+            "question": "She bought two ……………………. of shoes.",
+            "description": "The singular form pair refers to only one pair of something.",
+            "answers": [
+                "pairs",
+                "pair"
+            ],
+            "correct": 0,
+            "id": "b5f96d71bcc0466cb53fb965522ad797"
+        },
+        {
+            "question": "................................... fire, don’t panic.",
+            "description": "We use in case of before a noun if is used before a clause.",
+            "answers": [
+                "If",
+                "In case",
+                "In case of"
+            ],
+            "correct": 2,
+            "id": "317f2113873b4c1dbe066f5a732fad36"
+        },
+        {
+            "question": "Father aged a lot this …………………………… year.",
+            "description": "Past refers to time gone by.",
+            "answers": [
+                "past",
+                "passed"
+            ],
+            "correct": 0,
+            "id": "c01ffdeab54a40b69d84ede2b753b2e7"
+        },
+        {
+            "question": "The car …………………………… the truck at 70 miles an hour.",
+            "description": "Passed is the simple past of pass.",
+            "answers": [
+                "passed",
+                "past"
+            ],
+            "correct": 0,
+            "id": "454b9e8368ac46008e8136bac65c1524"
+        },
+        {
+            "question": "A ………………………… problem is depressing him.",
+            "description": "Personal means belonging to a particular person.",
+            "answers": [
+                "personal",
+                "personnel"
+            ],
+            "correct": 0,
+            "id": "e8f8dc20b9794030b536488b0d8c09cd"
+        },
+        {
+            "question": "The company transferred some of its key …………………….. to Europe.",
+            "description": "Personnel means people employed on a job. ",
+            "answers": [
+                "personnel",
+                "personal"
+            ],
+            "correct": 0,
+            "id": "1fa386b6ba844136bbf49ab39ec26b67"
+        }
+    ]
+}

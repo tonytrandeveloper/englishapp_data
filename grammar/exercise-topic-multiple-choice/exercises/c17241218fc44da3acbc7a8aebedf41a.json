@@ -1,0 +1,140 @@
+{
+    "id": "c17241218fc44da3acbc7a8aebedf41a",
+    "title": "Irregular Verbs Exercise",
+    "questions": [
+        {
+            "question": "I have …………………………….. twelve eggs.",
+            "description": "Bought is the past participle form of buy.",
+            "answers": [
+                "buyed",
+                "bought",
+                "buy"
+            ],
+            "correct": 1,
+            "id": "44b3b9ec21f1408596e255322ccb259a"
+        },
+        {
+            "question": "Have you ………………………….. the violin?",
+            "description": "Brought is the past participle form of bring. ",
+            "answers": [
+                "bring",
+                "bringed",
+                "brought"
+            ],
+            "correct": 2,
+            "id": "829130ae36cf4a3bbf7691fb3c6a509d"
+        },
+        {
+            "question": "He ………………………….. there motionless.",
+            "description": "Lay is the past tense of lie. ",
+            "answers": [
+                "lied",
+                "lain",
+                "lay"
+            ],
+            "correct": 2,
+            "id": "7fe704fb09f54b51bd20a878ac3cecfa"
+        },
+        {
+            "question": "Much water has …………………………. under the bridge.",
+            "description": "Flowed is the past participle of flow. ",
+            "answers": [
+                "flowed",
+                "flew",
+                "flown"
+            ],
+            "correct": 0,
+            "id": "cdea4e12554948ecbd17e0974bd64909"
+        },
+        {
+            "question": "Suddenly he ………………………….. from his seat.",
+            "description": "Rose is the past participle of rise. ",
+            "answers": [
+                "rised",
+                "rose",
+                "risen"
+            ],
+            "correct": 1,
+            "id": "b7cedbeddb254d4c931ebfbead204e94"
+        },
+        {
+            "question": "The injured person was ………………………………. to hospital.",
+            "description": "Taken is the past participle of take. ",
+            "answers": [
+                "take",
+                "took",
+                "taked",
+                "taken"
+            ],
+            "correct": 3,
+            "id": "ec2179d172744d14b46f856a41d7de72"
+        },
+        {
+            "question": "He …………………………… a black shirt.",
+            "description": "Wore is the past tense of wear.",
+            "answers": [
+                "wear",
+                "wore",
+                "worn"
+            ],
+            "correct": 1,
+            "id": "c8db3e4117ac465a99ca9d345c9ce9c8"
+        },
+        {
+            "question": "She …………………………. her hand.",
+            "description": "Rise is intransitive. Raise is transitive. Raised is the past simple form of raise. ",
+            "answers": [
+                "raise",
+                "rised",
+                "raised",
+                "rose"
+            ],
+            "correct": 2,
+            "id": "34f7f838a0ac4b01a22ea67d70b73f80"
+        },
+        {
+            "question": "Who …………………………….. juice on the carpet?",
+            "description": "",
+            "answers": [
+                "spilled",
+                "spilt",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ab37e3ce63e143579b92b4e7972822ac"
+        },
+        {
+            "question": "The ship ………………………….. to the bottom.",
+            "description": "Sank is the past simple form of sink.",
+            "answers": [
+                "sinked",
+                "sank",
+                "sunk"
+            ],
+            "correct": 1,
+            "id": "d06436a8fc4d4fd0b187112cb4eddc94"
+        },
+        {
+            "question": "I was …………………………….. some photographs.",
+            "description": "",
+            "answers": [
+                "showed",
+                "shown",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "91df41c503804245a5aec5e88e344054"
+        },
+        {
+            "question": "The bell has ……………………………..",
+            "description": "Rung is the past participle form of ring. ",
+            "answers": [
+                "rang",
+                "rung",
+                "ringed"
+            ],
+            "correct": 1,
+            "id": "de7283d327c849d9a330fc2630b7d788"
+        }
+    ]
+}

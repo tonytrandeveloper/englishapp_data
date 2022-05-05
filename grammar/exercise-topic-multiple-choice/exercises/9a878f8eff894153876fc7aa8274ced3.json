@@ -1,0 +1,137 @@
+{
+    "id": "9a878f8eff894153876fc7aa8274ced3",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "‘Where is Raj?’ ‘He ……………………….. out.’",
+            "description": "When just means a moment ago, it can be used with a present perfect or simple past tense.",
+            "answers": [
+                "just went",
+                "has just gone",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "37c0713724c0443cb5951749291cd8e0"
+        },
+        {
+            "question": "I ……………………….. what you mean.",
+            "description": "Know cannot be used in the progressive form.",
+            "answers": [
+                "know",
+                "am knowing",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "399690d8b3e64a9a8fd9d6c3a9867bc9"
+        },
+        {
+            "question": "It’s time we ……………………….. a new car.",
+            "description": "We use a past tense after it’s time with a present meaning.",
+            "answers": [
+                "buy",
+                "bought",
+                "had bought"
+            ],
+            "correct": 1,
+            "id": "c7a8a00cd9144e238339b4b6c3e4f135"
+        },
+        {
+            "question": "It took me months …………………………. to know her.",
+            "description": "The infinitive is used in this structure.",
+            "answers": [
+                "to get",
+                "getting",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "c134d7f4996b489ebc961a434495e7a0"
+        },
+        {
+            "question": "He ………………………… ten minutes ago.",
+            "description": "Left is the past tense of leave.",
+            "answers": [
+                "left",
+                "has left",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d69be409c04a42e4bba5ff5174a7c955"
+        },
+        {
+            "question": "Those who know the answer should …………………………….. their hands.",
+            "description": "Before an object, we use raise.",
+            "answers": [
+                "raise",
+                "rise",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "f29b08c13b9c41dfbad88cac1394348a"
+        },
+        {
+            "question": "She ……………………….. from her seat.",
+            "description": "Rise can mean get up.",
+            "answers": [
+                "raised",
+                "rose",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "58540a9058124e4e9567315e7d6afa67"
+        },
+        {
+            "question": "They ……………………….. him with an iron rod.",
+            "description": "Struck is the past tense of strike.",
+            "answers": [
+                "striked",
+                "struck",
+                "struk"
+            ],
+            "correct": 1,
+            "id": "910745cf61f74c019c18f96cec7fad20"
+        },
+        {
+            "question": "The bullet ………………………… the policeman in the right arm.",
+            "description": "Wounded is the past tense of wound.",
+            "answers": [
+                "wound",
+                "wounded"
+            ],
+            "correct": 1,
+            "id": "cec0175d8b564789bc1efea37c03bffd"
+        },
+        {
+            "question": "They ………………………………. the yarn into a ball.",
+            "description": "Wound is the past tense of wind.",
+            "answers": [
+                "winded",
+                "wound",
+                "wounded"
+            ],
+            "correct": 1,
+            "id": "00cd72e89a96478b819f76cccca7f9d7"
+        },
+        {
+            "question": "……………………….. the boxes on the table.",
+            "description": "To lay something is to put it or set it down.",
+            "answers": [
+                "Lay",
+                "Lie",
+                "Lain"
+            ],
+            "correct": 0,
+            "id": "e82f6b6dfc8a48d8a235bcc969a42577"
+        },
+        {
+            "question": "The tiles were ……………………… in a geometric pattern.",
+            "description": "Laid is the past and past participle form of lay.",
+            "answers": [
+                "lied",
+                "laid",
+                "lain"
+            ],
+            "correct": 1,
+            "id": "0b2cded9bb0f41de841d6b4b5c22015f"
+        }
+    ]
+}

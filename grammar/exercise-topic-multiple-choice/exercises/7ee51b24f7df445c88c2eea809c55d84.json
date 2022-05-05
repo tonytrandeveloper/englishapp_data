@@ -1,0 +1,137 @@
+{
+    "id": "7ee51b24f7df445c88c2eea809c55d84",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "The train ............................... before we reached the railway station.",
+            "description": "We use the past perfect for the earlier of two past actions. ",
+            "answers": [
+                "left",
+                "has left",
+                "had left"
+            ],
+            "correct": 2,
+            "id": "1b7414c76f454ccd872f3d2a295b33aa"
+        },
+        {
+            "question": "The old man ................................. alone in that hut.",
+            "description": "The simple present is used to talk about facts. ",
+            "answers": [
+                "is living",
+                "lives",
+                "has lived"
+            ],
+            "correct": 1,
+            "id": "3c3defc1a41a4c079a85d619058deb21"
+        },
+        {
+            "question": "Rani .................................. for a job ever since she left college.",
+            "description": "The present perfect continuous tense is used to talk about an action or situation that started in the past and has continued up to the present.",
+            "answers": [
+                "is trying",
+                "has been trying",
+                "has tried"
+            ],
+            "correct": 1,
+            "id": "0407e8a39c45456c8fae7a01620750b2"
+        },
+        {
+            "question": "Samuel .................................. two wickets before rain interrupted play.",
+            "description": "We use the past perfect for the earlier of two past actions. ",
+            "answers": [
+                "took",
+                "has taken",
+                "had taken"
+            ],
+            "correct": 2,
+            "id": "4cd88edf0e6d43318593e25e949d8fff"
+        },
+        {
+            "question": "I ................................ him before he left.",
+            "description": "We use the past perfect for the earlier of two past actions. ",
+            "answers": [
+                "met",
+                "had met",
+                "have met"
+            ],
+            "correct": 1,
+            "id": "16d239279c2244efb26c0c770ea0b1c0"
+        },
+        {
+            "question": "I .................................... very hard last month.",
+            "description": "We use the simple past to say what happened at a past time.",
+            "answers": [
+                "worked",
+                "used to work",
+                "had worked"
+            ],
+            "correct": 0,
+            "id": "694c963449a344be884dd5968339098d"
+        },
+        {
+            "question": "I .................................. in Mumbai for 10 years.",
+            "description": "The simple past is the most common tense for talking about finished actions or situations. ",
+            "answers": [
+                "live",
+                "lived",
+                "had lived"
+            ],
+            "correct": 1,
+            "id": "e59ad52a5d7c40a7b5b689a123da662e"
+        },
+        {
+            "question": "I ................................... London three times last year.",
+            "description": "We use the simple past to say how many times something happened in the past.",
+            "answers": [
+                "visited",
+                "have visited",
+                "had visited"
+            ],
+            "correct": 0,
+            "id": "c3d02bf015eb43919dcc97d411026837"
+        },
+        {
+            "question": "I always ...................................... be afraid of dogs.",
+            "description": "We use used to to talk about past habits and states.",
+            "answers": [
+                "use to",
+                "used to"
+            ],
+            "correct": 1,
+            "id": "b4d2668db226404a95780dc3008ff92b"
+        },
+        {
+            "question": "Heat ................................. bodies.",
+            "description": "We use the simple present to talk about facts.",
+            "answers": [
+                "expand",
+                "expands",
+                "has expanded"
+            ],
+            "correct": 1,
+            "id": "771c91bccd624d40b0db0270f785cb70"
+        },
+        {
+            "question": "We ................................... here since",
+            "description": "The present perfect and present perfect continuous can both be used to talk about actions or situations that started in the past and has continued up to the present.",
+            "answers": [
+                "have lived",
+                "have been living",
+                "are living"
+            ],
+            "correct": 1,
+            "id": "dffd0ea31b854b92a3166c4b4894b421"
+        },
+        {
+            "question": "Did you ................................... him yesterday?",
+            "description": "",
+            "answers": [
+                "see",
+                "saw",
+                "seen"
+            ],
+            "correct": 0,
+            "id": "21a1ce5de95b4e82a60d1f0cc6683f30"
+        }
+    ]
+}

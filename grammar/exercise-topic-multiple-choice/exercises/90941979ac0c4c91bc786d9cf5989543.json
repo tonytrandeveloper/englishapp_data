@@ -1,0 +1,139 @@
+{
+    "id": "90941979ac0c4c91bc786d9cf5989543",
+    "title": "So And Such Exercise",
+    "questions": [
+        {
+            "question": "It was ....................... a hot day.",
+            "description": "We use 'such' before adjective + noun.",
+            "answers": [
+                "such",
+                "so"
+            ],
+            "correct": 0,
+            "id": "08203aa1ee47404c9b64e00abc63c04e"
+        },
+        {
+            "question": "You are ....................... kind.",
+            "description": "We use 'so' before an adjective. ",
+            "answers": [
+                "so",
+                "such"
+            ],
+            "correct": 0,
+            "id": "e29f01768ecb42f089e2380dd6301c2a"
+        },
+        {
+            "question": "I have ...................... a lot of problems that I am losing hope.",
+            "description": "Such is used before adjective + noun. ",
+            "answers": [
+                "so",
+                "such",
+                "so much"
+            ],
+            "correct": 1,
+            "id": "a2d16869c2d04587af53ae2d24ccf8dc"
+        },
+        {
+            "question": "Never have I seen ........................ beautiful woman.",
+            "description": "We use 'such a/an' before adjective + singular countable noun. ",
+            "answers": [
+                "so a",
+                "so",
+                "such",
+                "such a"
+            ],
+            "correct": 3,
+            "id": "2bf25e96cb8041a08fa310988cfe60ae"
+        },
+        {
+            "question": "I have never seen ........................... food.",
+            "description": "",
+            "answers": [
+                "so",
+                "so much",
+                "so many",
+                "such much"
+            ],
+            "correct": 1,
+            "id": "df15fa2c690843e5930d61d66847bb17"
+        },
+        {
+            "question": "Never have I seen .............................. dirty kitchen.",
+            "description": "We use 'such a/an' before adjective + singular countable noun.",
+            "answers": [
+                "such",
+                "such a",
+                "so",
+                "so a"
+            ],
+            "correct": 1,
+            "id": "3c7db41491c14224a1b84f90b28e53cd"
+        },
+        {
+            "question": "I have never seen ........................... a good person.",
+            "description": "Such is used before (adjective) + noun. ",
+            "answers": [
+                "such",
+                "so",
+                "so much"
+            ],
+            "correct": 0,
+            "id": "a0ae3a613ea3498aa037cfbd729052be"
+        },
+        {
+            "question": "They are ........................... idiots.",
+            "description": "We use such before a noun with or without an adjective. ",
+            "answers": [
+                "such",
+                "such an",
+                "so"
+            ],
+            "correct": 0,
+            "id": "b3de9ef5034747ffa53d889810c75c57"
+        },
+        {
+            "question": "He has got ...................... strange manners.",
+            "description": "Such is used before a noun with or without an adjective. ",
+            "answers": [
+                "so",
+                "such",
+                "such a"
+            ],
+            "correct": 1,
+            "id": "aea1275babd44263aabdd7e959d198de"
+        },
+        {
+            "question": "He is ..................... patient with his students.",
+            "description": "We use 'so' before adjectives and adverbs. ",
+            "answers": [
+                "such",
+                "such a",
+                "so"
+            ],
+            "correct": 2,
+            "id": "7b5ecac7af0f4ac88a278b5e212c1f0f"
+        },
+        {
+            "question": "Why do you talk ........................ loudly?",
+            "description": "We can use so before adverbs.",
+            "answers": [
+                "such",
+                "so"
+            ],
+            "correct": 1,
+            "id": "6bd10c3216d24be68d1892cdaefd1f75"
+        },
+        {
+            "question": "We have got ............................. much to do, and ................. little time.",
+            "description": "We can use 'so' before much, many, few and little. ",
+            "answers": [
+                "so, so",
+                "so, such",
+                "such, so",
+                "such, such"
+            ],
+            "correct": 0,
+            "id": "f4959a5a5ec84962baf76a5078ea8707"
+        }
+    ]
+}

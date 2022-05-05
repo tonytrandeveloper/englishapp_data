@@ -1,0 +1,138 @@
+{
+    "id": "d7b4bcb4590a4deeaad96fb7d6cec0db",
+    "title": "Simple, Complex And Compound Sentence",
+    "questions": [
+        {
+            "question": "She didn’t realize that she was making a mistake.",
+            "description": "Clauses connected by subordinating conjunctions or relative pronouns form complex sentences. ",
+            "answers": [
+                "complex",
+                "simple",
+                "compound"
+            ],
+            "correct": 0,
+            "id": "234512295bc3435c88c51a0453e4b425"
+        },
+        {
+            "question": "Where have you been all this while?",
+            "description": "A sentence that has just one finite verb is a simple sentence.",
+            "answers": [
+                "complex",
+                "compound",
+                "simple"
+            ],
+            "correct": 2,
+            "id": "76c748062bdc4c2789a57674edf5d879"
+        },
+        {
+            "question": "I don’t know the answer.",
+            "description": "A sentence that has just one finite verb is a simple sentence.",
+            "answers": [
+                "complex",
+                "simple",
+                "compound"
+            ],
+            "correct": 1,
+            "id": "d524aedc9ff645d9882537a879d1a7bc"
+        },
+        {
+            "question": "She said that she wanted to go.",
+            "description": "Clauses connected by subordinating conjunctions or relative pronouns form complex sentences. ",
+            "answers": [
+                "simple",
+                "complex",
+                "compound"
+            ],
+            "correct": 1,
+            "id": "3803e6b29cda48639b22f78a00379a0b"
+        },
+        {
+            "question": "Rahul is not only clever but also industrious.",
+            "description": "Clauses connected by the conjunctions and, but, either...or, neither...nor, both...and form a compound sentence. ",
+            "answers": [
+                "simple",
+                "complex",
+                "compound"
+            ],
+            "correct": 2,
+            "id": "479b9d06418d46b88c4cee3dd2316e86"
+        },
+        {
+            "question": "Neither this answer nor that answer is correct.",
+            "description": "Clauses connected by the conjunctions and, but, either...or, neither...nor, both...and form a compound sentence. ",
+            "answers": [
+                "compound",
+                "simple",
+                "complex"
+            ],
+            "correct": 0,
+            "id": "7d6f4dd4fd96481792695c8dfcdcbca9"
+        },
+        {
+            "question": "He was angry because she had lied to him.",
+            "description": "Clauses connected by subordinating conjunctions or relative pronouns form complex sentences. ",
+            "answers": [
+                "complex",
+                "simple",
+                "compound"
+            ],
+            "correct": 0,
+            "id": "7f1e885e7b9f4e6bbae3ed0aeb0d4862"
+        },
+        {
+            "question": "I will try until I succeed.",
+            "description": "Clauses connected by subordinating conjunctions or relative pronouns form complex sentences. ",
+            "answers": [
+                "simple",
+                "complex",
+                "compound"
+            ],
+            "correct": 1,
+            "id": "f4d9464a463a4cff88a4e34bf1af1751"
+        },
+        {
+            "question": "Standing on tip-toe, he reached for the mango.",
+            "description": "A sentence that has just one finite verb is a simple sentence.",
+            "answers": [
+                "compound",
+                "simple",
+                "complex"
+            ],
+            "correct": 1,
+            "id": "3c3b1680421d4e98a0e2da759d70461a"
+        },
+        {
+            "question": "As they haven’t arrived yet, we will go without them.",
+            "description": "Clauses connected by subordinating conjunctions or relative pronouns form complex sentences. ",
+            "answers": [
+                "simple",
+                "compound",
+                "complex"
+            ],
+            "correct": 2,
+            "id": "137082d4a6cf4ba1adbd60541d7b27a2"
+        },
+        {
+            "question": "He is rich but he will not help anyone.",
+            "description": "Clauses connected by the conjunctions and, but, either...or, neither...nor, both...and form a compound sentence. ",
+            "answers": [
+                "complex",
+                "simple",
+                "compound"
+            ],
+            "correct": 2,
+            "id": "f3e2eff6fdbe4082870d636c591172e7"
+        },
+        {
+            "question": "You can wait or leave.",
+            "description": "Clauses connected by the conjunctions and, but, either...or, neither...nor, both...and form a compound sentence. ",
+            "answers": [
+                "compound",
+                "simple",
+                "complex"
+            ],
+            "correct": 0,
+            "id": "0dfafbfb6069404993981b9c3e4a0040"
+        }
+    ]
+}

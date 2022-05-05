@@ -1,0 +1,140 @@
+{
+    "id": "4470390e8b73400db31b8ef168302dc3",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "I may be blunt …………………… at least I am honest.",
+            "description": "We use but to connect two contrasting ideas. ",
+            "answers": [
+                "but",
+                "and",
+                "so"
+            ],
+            "correct": 0,
+            "id": "672a9e9fc2394b60ae307032467f4b2d"
+        },
+        {
+            "question": "She is beautiful …………………. she squints a little.",
+            "description": "Although is used to connect two contrasting ideas. ",
+            "answers": [
+                "although",
+                "however",
+                "even if"
+            ],
+            "correct": 0,
+            "id": "ac2a4e4e909543008fe5fdd51818d4c3"
+        },
+        {
+            "question": "He was …………………….. tired that he could barely stand.",
+            "description": "The conjunction so...that... shows cause and effect. ",
+            "answers": [
+                "so",
+                "too",
+                "very"
+            ],
+            "correct": 0,
+            "id": "0a9fd4002b1d4b38bcfa5295c47d1fe1"
+        },
+        {
+            "question": "You will get the award ……………………… you deserve it.",
+            "description": "We use if to express a condition. ",
+            "answers": [
+                "whether",
+                "if",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "4c8fa3d5f9564a4cb44180f4c8d95455"
+        },
+        {
+            "question": "You will not get the job ………………….. you succeed in the interview.",
+            "description": "Unless is similar to if not. ",
+            "answers": [
+                "if",
+                "unless",
+                "whether"
+            ],
+            "correct": 1,
+            "id": "d1c9f6ede17d4487abcbd75d049e30f2"
+        },
+        {
+            "question": "……………………… she is of noble birth, she is not rich.",
+            "description": "Though is used to connect two contrasting ideas. ",
+            "answers": [
+                "Though",
+                "As",
+                "Since"
+            ],
+            "correct": 0,
+            "id": "dc0ab560cd244493a757fac9a9b94567"
+        },
+        {
+            "question": "…………………….. there is life, there is hope.",
+            "description": "All of these can be used here with slightly different meanings. ",
+            "answers": [
+                "As",
+                "Since",
+                "While",
+                "All of these"
+            ],
+            "correct": 3,
+            "id": "2863aa1486874677b4b49e727ad37b20"
+        },
+        {
+            "question": "……………………… you have apologized, I will not sack you.",
+            "description": "All of these words indicate the reason. ",
+            "answers": [
+                "Since",
+                "As",
+                "Because",
+                "All of these"
+            ],
+            "correct": 3,
+            "id": "8332653d07e74beabeb238f1c5f49736"
+        },
+        {
+            "question": "…………………….. he was the most deserving candidate, they appointed him.",
+            "description": "Since can indicate the reason. ",
+            "answers": [
+                "Since",
+                "Though",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "707e7a4acea544188733bda5a3cc02dc"
+        },
+        {
+            "question": "Generally speaking, the houses in ……………………… the Burmese live are made of bamboo.",
+            "description": "In which can mean where. ",
+            "answers": [
+                "what",
+                "which",
+                "that"
+            ],
+            "correct": 1,
+            "id": "58777cdb0e3141e2bdaf213194870be4"
+        },
+        {
+            "question": "He kept quiet …………………….. the argument might stop.",
+            "description": "That can indicate the purpose. ",
+            "answers": [
+                "that",
+                "hence",
+                "for"
+            ],
+            "correct": 0,
+            "id": "7eb2f9c0787e4ad689891cab9ef22d1b"
+        },
+        {
+            "question": "……………………… he was sick, he stayed at home.",
+            "description": "As indicates the reason. ",
+            "answers": [
+                "Though",
+                "In case",
+                "As"
+            ],
+            "correct": 2,
+            "id": "0aae08260f794a6baa2450aed3b22b30"
+        }
+    ]
+}

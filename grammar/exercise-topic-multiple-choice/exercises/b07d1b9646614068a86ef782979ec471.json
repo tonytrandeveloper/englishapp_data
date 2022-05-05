@@ -1,0 +1,114 @@
+{
+    "id": "b07d1b9646614068a86ef782979ec471",
+    "title": "Conditional Clauses Exercise",
+    "questions": [
+        {
+            "question": "If you …………………. run into Jake, tell him that he owes me 100 dollars.",
+            "description": "",
+            "answers": [
+                "would",
+                "could",
+                "should"
+            ],
+            "correct": 2,
+            "id": "3bea2478c39e4373875c339b2e016ff8"
+        },
+        {
+            "question": "If I had another 1000 dollars, I ………………… a car.",
+            "description": "",
+            "answers": [
+                "can buy",
+                "could buy",
+                "could have bought"
+            ],
+            "correct": 1,
+            "id": "7921450dd71a410bb216c8e41638a98c"
+        },
+        {
+            "question": "If he should be late, we ……………….. to go without him.",
+            "description": "",
+            "answers": [
+                "will have",
+                "would have",
+                "could have"
+            ],
+            "correct": 0,
+            "id": "d23d1068a9c64e3f8bd7900f69417e37"
+        },
+        {
+            "question": "What would you do if you ………………… to lose your job?",
+            "description": "",
+            "answers": [
+                "are",
+                "were"
+            ],
+            "correct": 1,
+            "id": "a0e04edcc9894d80849df6e782bd7ce0"
+        },
+        {
+            "question": "If you …………………. to move a bit, I could sit here.",
+            "description": "",
+            "answers": [
+                "are",
+                "have",
+                "were"
+            ],
+            "correct": 2,
+            "id": "437767d300074fdbb6aed8cfcadae0d6"
+        },
+        {
+            "question": "Had I realized what you intended, I ………………….. this.",
+            "description": "",
+            "answers": [
+                "will not permit",
+                "would not permit",
+                "would not have permitted"
+            ],
+            "correct": 2,
+            "id": "b8a43ec4c665464a8eb6e82fe12e2756"
+        },
+        {
+            "question": "Were she my daughter, I …………………… her wear that mini-frock.",
+            "description": "",
+            "answers": [
+                "will not let",
+                "would not let",
+                "would not have let"
+            ],
+            "correct": 1,
+            "id": "8947d632152d4a199daaf8d60b4e019e"
+        },
+        {
+            "question": "If you …………………. finish early, give me a ring.",
+            "description": "",
+            "answers": [
+                "should",
+                "happen to",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "6d126c98dd4e4da7b2b4c0336189e240"
+        },
+        {
+            "question": "I will get up earlier if there ………………… a good reason to.",
+            "description": "",
+            "answers": [
+                "is",
+                "was"
+            ],
+            "correct": 0,
+            "id": "826af981c6224b2fa5bc005a65511f5c"
+        },
+        {
+            "question": "It would be nice if you …………………. me a few dollars.",
+            "description": "",
+            "answers": [
+                "lend",
+                "lent",
+                "would lend"
+            ],
+            "correct": 1,
+            "id": "4779aede58a74cabb0574ece35cdd31e"
+        }
+    ]
+}

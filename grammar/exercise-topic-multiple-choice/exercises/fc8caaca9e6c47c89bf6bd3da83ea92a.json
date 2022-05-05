@@ -1,0 +1,104 @@
+{
+    "id": "fc8caaca9e6c47c89bf6bd3da83ea92a",
+    "title": "ing Forms After Verbs",
+    "questions": [
+        {
+            "question": "I enjoy ………………",
+            "description": "",
+            "answers": [
+                "singing",
+                "to sing",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "b642f6ddb9fa42c8a4519196fc17f923"
+        },
+        {
+            "question": "He’s finished ………………….. the car.",
+            "description": "",
+            "answers": [
+                "to mend",
+                "mending",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "fb734698fd6c499bb8a7797ef369c907"
+        },
+        {
+            "question": "The doctor asked him to give up ……………….",
+            "description": "",
+            "answers": [
+                "to smoke",
+                "smoking",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "642b99b355904dfba0c52b604d8ca8d7"
+        },
+        {
+            "question": "The doctor suggested ………………… a long holiday.",
+            "description": "",
+            "answers": [
+                "to take",
+                "taking",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e0030f42dc5641428ec021526289c563"
+        },
+        {
+            "question": "I felt like …………………..",
+            "description": "",
+            "answers": [
+                "to cry",
+                "crying"
+            ],
+            "correct": 1,
+            "id": "282e4253d7b845d6843521f7fca72946"
+        },
+        {
+            "question": "I don’t think his books deserve ………………..",
+            "description": "",
+            "answers": [
+                "to read",
+                "reading",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1ac78c7ae9684b45886ac3f468f1a864"
+        },
+        {
+            "question": "Nobody can stop him ………………… what he wants to.",
+            "description": "",
+            "answers": [
+                "doing",
+                "to do",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ae0b14de68a0400d9aed31e98bdb6b92"
+        },
+        {
+            "question": "The thought ……………….. never entered his head.",
+            "description": "",
+            "answers": [
+                "to fail",
+                "of failing",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "839c01dee35f40ef8d39603771afb4df"
+        },
+        {
+            "question": "Your car wants ………………..",
+            "description": "",
+            "answers": [
+                "servicing",
+                "to service",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "43cd925ce3364b429da5b2f9a4dc2c33"
+        }
+    ]
+}

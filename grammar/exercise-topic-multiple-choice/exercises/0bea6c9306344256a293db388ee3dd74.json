@@ -1,0 +1,129 @@
+{
+    "id": "0bea6c9306344256a293db388ee3dd74",
+    "title": "Subject-Verb Agreement Worksheet",
+    "questions": [
+        {
+            "question": "Neither pleasure nor pain ……………………… to move him.",
+            "description": "When we connect two singular nouns with neither/nor, the verb is singular.",
+            "answers": [
+                "seem",
+                "seems"
+            ],
+            "correct": 1,
+            "id": "7e8bcc3c60a94cd9bc4b7b70b518f95d"
+        },
+        {
+            "question": "Neither the master nor his servants …………………………… present in the barn.",
+            "description": "When we connect a singular noun and a plural noun with neither/nor, the verb agrees with the number and person of the noun closest to it.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "c0808a61300746bc96f5b04fcfe4b318"
+        },
+        {
+            "question": "No nook or corner ……………………………. left unsearched.",
+            "description": "When we connect two singular nouns with or, the verb is singular.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "ace1eb0fa57d49f6bf4e095eeb0bc040"
+        },
+        {
+            "question": "Either you or I ……………………………… mistaken.",
+            "description": "When we connect two nouns with either/or, the verb agrees in number and person with the noun closest to it.",
+            "answers": [
+                "are",
+                "am"
+            ],
+            "correct": 1,
+            "id": "e9a875e551f14ea7a7ab53f12b13f331"
+        },
+        {
+            "question": "Neither you nor he ……………………………… right.",
+            "description": "When we connect two nouns with neither/nor, the verb agrees in number and person with the noun closest to it.",
+            "answers": [
+                "are",
+                "is",
+                "am"
+            ],
+            "correct": 1,
+            "id": "2eefb8a9668a4e0982846d0113db5c64"
+        },
+        {
+            "question": "None of them …………………………. arrived.",
+            "description": "A singular verb is used after none. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "d53ddb29407a4fa78eb6b59955463f28"
+        },
+        {
+            "question": "All of his books …………………………. worth reading.",
+            "description": "Use a plural verb after all. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "27648705251543d78b17f43d91936908"
+        },
+        {
+            "question": "She is getting married to Sam, who ………………………… her college mate.",
+            "description": "The verb in the relative clause agrees with its antecedent in number and person.",
+            "answers": [
+                "are",
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "3fd982a17c164322ad82cb9636cd05ef"
+        },
+        {
+            "question": "I who …………………………….. your patron will never desert you.",
+            "description": "",
+            "answers": [
+                "is",
+                "are",
+                "am"
+            ],
+            "correct": 2,
+            "id": "2a6f13a4744c4bdaa0552ad22f5e234d"
+        },
+        {
+            "question": "A lot of work ………………………………. to be done.",
+            "description": "When a lot of is followed by an uncountable noun, the verb is singular in number.",
+            "answers": [
+                "need",
+                "needs"
+            ],
+            "correct": 1,
+            "id": "4500925e36364f72b165adc7692874ac"
+        },
+        {
+            "question": "A lot of people ……………………………….. in ghosts.",
+            "description": "When a lot of followed by a plural noun, the verb is plural in number.",
+            "answers": [
+                "believe",
+                "believes"
+            ],
+            "correct": 0,
+            "id": "d72e13e9f5864e69a17aa9022a6de912"
+        },
+        {
+            "question": "There ……………………….. been many studies on this subject.",
+            "description": "When the noun following there is plural, the verb is plural. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "a6c759b87ee64ced86b7eec6d9d5a83d"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "id": "381cdd5ed4cb4f1089e4670dadd717d2",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "You don’t know what has happened, ……………………?",
+            "description": "",
+            "answers": [
+                "do you",
+                "don't you",
+                "did you"
+            ],
+            "correct": 0,
+            "id": "9e2c0841d8784fedbadffb585f0d65f4"
+        },
+        {
+            "question": "While passing ………………… the small door, I hurt my head.",
+            "description": "",
+            "answers": [
+                "between",
+                "through",
+                "over"
+            ],
+            "correct": 1,
+            "id": "7f6fc64abbe4402a8644b3cc09be2a85"
+        },
+        {
+            "question": "The thief was caught …………………",
+            "description": "",
+            "answers": [
+                "green-handed",
+                "blue-handed",
+                "red-handed"
+            ],
+            "correct": 2,
+            "id": "a58704c4bc954985b07aa3a83b456b9f"
+        },
+        {
+            "question": "If something is ‘All Greek and Latin to you’, you ………………………",
+            "description": "",
+            "answers": [
+                "understand it",
+                "don't understand it",
+                "find it amusing"
+            ],
+            "correct": 1,
+            "id": "bea1f322b69d4617b3ee85eaea258365"
+        },
+        {
+            "question": "I would like to ask …………………… more questions.",
+            "description": "",
+            "answers": [
+                "few",
+                "little",
+                "some"
+            ],
+            "correct": 2,
+            "id": "8317c54aaba84daa901f713740355d6d"
+        },
+        {
+            "question": "The player announced that he ……………………… from the game.",
+            "description": "",
+            "answers": [
+                "is retiring",
+                "was retiring",
+                "will retire"
+            ],
+            "correct": 1,
+            "id": "da49a2f8867743589711966d0752adb5"
+        },
+        {
+            "question": "Though they were badly outnumbered, the soldiers decided to make a ………………….. effort to conquer the city.",
+            "description": "",
+            "answers": [
+                "last hole",
+                "last ditch",
+                "last cannon"
+            ],
+            "correct": 1,
+            "id": "8739aa406a984c5c8e51d81f988f1884"
+        },
+        {
+            "question": "The students ……………………… when the teacher walked into the room.",
+            "description": "",
+            "answers": [
+                "stand up",
+                "stood up",
+                "have stood up"
+            ],
+            "correct": 1,
+            "id": "9f63299f42794f13bc8e1c9c7c4acdfa"
+        },
+        {
+            "question": "They won’t accept this proposal, …………………?",
+            "description": "",
+            "answers": [
+                "will they",
+                "won't they",
+                "would they"
+            ],
+            "correct": 0,
+            "id": "f7911eb376934f9b81ad8fed8201f2b8"
+        },
+        {
+            "question": "Will you wait …………………… I return?",
+            "description": "",
+            "answers": [
+                "till",
+                "when",
+                "as"
+            ],
+            "correct": 0,
+            "id": "eb4eff5ca1394317a42f8f625dddc6fe"
+        }
+    ]
+}

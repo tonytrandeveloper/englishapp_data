@@ -1,0 +1,136 @@
+{
+    "id": "0205ae0b56914958a390ab6cefbad2a8",
+    "title": "Also, Either, Neither, Nor",
+    "questions": [
+        {
+            "question": "‘I can’t swim.’ ‘………………….. can I.’",
+            "description": "After a negative idea, we can add another negative idea with neither.",
+            "answers": [
+                "Either",
+                "Neither",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "46480b03148348a39c0439eeafb4d440"
+        },
+        {
+            "question": "Ruth didn’t turn up. Margaret didn’t ……………………………",
+            "description": "After mentioning a negative idea, we can add another negative idea by using ‘not…either’.",
+            "answers": [
+                "either",
+                "neither",
+                "also"
+            ],
+            "correct": 0,
+            "id": "ec5ca4d06de54d49afd96c2547ad68b5"
+        },
+        {
+            "question": "James didn’t pass the test. ………………………… did Samuel.",
+            "description": "We can use neither / nor to mean ‘not … either’ after a negative idea.",
+            "answers": [
+                "Or",
+                "Nor",
+                "Either"
+            ],
+            "correct": 1,
+            "id": "2c3b128ebcd64a02a01635294fdc7a0f"
+        },
+        {
+            "question": "‘I don’t like opera.’ ‘…………………………..’",
+            "description": "‘Neither do I’ means the same as ‘I don’t either.’",
+            "answers": [
+                "I don't either",
+                "Neither do I",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4a67311a8eab49eab3ecde2c4b06f2ec"
+        },
+        {
+            "question": "Our main need is not food, ………………………. jobs. It is education.",
+            "description": "Nor can follow not. It is more emphatic than or. ",
+            "answers": [
+                "or",
+                "nor",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "8ad86a901aa04ffa9ab7589bfa9a4459"
+        },
+        {
+            "question": "James was not at home, and ………………………… was Alice.",
+            "description": "Neither or nor can be used here",
+            "answers": [
+                "either",
+                "neither",
+                "also"
+            ],
+            "correct": 1,
+            "id": "8dc6066248564f0790ade9f65e1f5a0c"
+        },
+        {
+            "question": "He neither smiled ………………………… looked at me.",
+            "description": "Neither…nor is used to join two negative ideas.",
+            "answers": [
+                "or",
+                "nor"
+            ],
+            "correct": 1,
+            "id": "57d5545ee6004a72b3c27d7e1163d76f"
+        },
+        {
+            "question": "She not only sings she ………………………… dances.",
+            "description": "Also goes in mid position. As well and too usually go at the end of a clause.",
+            "answers": [
+                "as well",
+                "too",
+                "also"
+            ],
+            "correct": 2,
+            "id": "8f0a627d676c45989a340e4288c15818"
+        },
+        {
+            "question": "She is not only rich she is famous ……………………………",
+            "description": "As well or too is possible here.",
+            "answers": [
+                "as well",
+                "too",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "201ece6aa5b549fb8367e81810f466a9"
+        },
+        {
+            "question": "‘She is pretty.’ ‘Her sister is …………………………’",
+            "description": "As well can be used in short answers. Also is not normally used in short answers.",
+            "answers": [
+                "also",
+                "as well"
+            ],
+            "correct": 1,
+            "id": "07791e43ed504e6abd8e98a86c420fb8"
+        },
+        {
+            "question": "It is a small house. …………………………, it needs a lot of repairs.",
+            "description": "Also can go at the beginning of a clause to refer to the whole clause.",
+            "answers": [
+                "Also",
+                "As well",
+                "Too"
+            ],
+            "correct": 0,
+            "id": "cc79a60c3bbc4d0e9465492e33c33bcf"
+        },
+        {
+            "question": "She is neither intelligent ........................................ smart.",
+            "description": "",
+            "answers": [
+                "or",
+                "nor",
+                "either"
+            ],
+            "correct": 1,
+            "id": "646b44033ed547b0ad4c6875f9b9c41c"
+        }
+    ]
+}

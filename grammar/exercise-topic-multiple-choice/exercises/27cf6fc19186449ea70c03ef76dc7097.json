@@ -1,0 +1,136 @@
+{
+    "id": "27cf6fc19186449ea70c03ef76dc7097",
+    "title": "Progressive and Non-progressive Uses of Verbs",
+    "questions": [
+        {
+            "question": "I ....................... fine.",
+            "description": "The word feel can be used in continuous and non-continuous forms to talk about health. ",
+            "answers": [
+                "feel",
+                "am feeling",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "56c9634f15f344deb3ec620ae89bc264"
+        },
+        {
+            "question": "I ........................ you shouldn't do this.",
+            "description": "When feel means 'have an opinion', it is not used in the continuous form.",
+            "answers": [
+                "feel",
+                "am feeling",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "acb1669c4bb24303b6e663634a353007"
+        },
+        {
+            "question": "What ..................... you ..................... about my hair style?",
+            "description": "When think means 'have an opinion' it doesn't have an ing form.",
+            "answers": [
+                "do, think",
+                "are, thinking",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "906dfe2d4d0a483f83c6309d818f7f7c"
+        },
+        {
+            "question": "I ............................. your dad tomorrow.",
+            "description": "We use the present continuous to talk about an arrangement that already exists. ",
+            "answers": [
+                "see",
+                "am seeing"
+            ],
+            "correct": 1,
+            "id": "49ff5a0137074aae96c093a79e967088"
+        },
+        {
+            "question": "The fish ......................... awful.",
+            "description": "Verbs that refer to the use of the senses do not normally have continuous forms. ",
+            "answers": [
+                "smells",
+                "is smelling",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "217b55075b4d4734890fd0c84c116e3c"
+        },
+        {
+            "question": "I ......................... this song.",
+            "description": "The verbs love and like are almost never used in the continuous form.",
+            "answers": [
+                "like",
+                "am liking",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "23c752f48ab7431d89288f41512ad6c2"
+        },
+        {
+            "question": "I rang her up because I ........................... to talk.",
+            "description": "The verb want is not normally used in the continuous form. ",
+            "answers": [
+                "wanted",
+                "was wanting",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "9c9668208897409b95a73feb8f4115d2"
+        },
+        {
+            "question": "I ....................... what you mean.",
+            "description": "When 'see' means understand it is not used in the continuous form. ",
+            "answers": [
+                "see",
+                "am seeing",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "125583be94464f1e96b57b4abac16b51"
+        },
+        {
+            "question": "The stew ............................ wonderful.",
+            "description": "The verb 'taste' is not normally used in the continuous form. ",
+            "answers": [
+                "tastes",
+                "is tasting",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "0428b1752b244fa483ca4a4e52c525ad"
+        },
+        {
+            "question": "If I ....................... the answer, I will tell you.",
+            "description": "The verb 'know' is not normally used in the continuous form.",
+            "answers": [
+                "am knowing",
+                "know",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "9f4633957f0c46e6bb8acfb77eee57fb"
+        },
+        {
+            "question": "He ............................ 85 kg.",
+            "description": "The verb 'weigh' is not normally used in the continuous form.",
+            "answers": [
+                "is weighing",
+                "weighs",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "04bdc3a0ee4c46ad83f3bd02fdda7c01"
+        },
+        {
+            "question": "..................... you .................... in God?",
+            "description": "The verb 'believe' does not normally have a continuous form. ",
+            "answers": [
+                "Do, believe",
+                "Are, believing"
+            ],
+            "correct": 0,
+            "id": "78463b9f65ba4db08ae2e32e8899410e"
+        }
+    ]
+}

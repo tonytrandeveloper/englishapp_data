@@ -1,0 +1,135 @@
+{
+    "id": "e5aba89a1e8d45febf879120c52e0b22",
+    "title": "English Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "The new ambassador is fully …………………………. by his government.",
+            "description": "To accredit someone is to authorize them or empower them.",
+            "answers": [
+                "credited",
+                "accredited",
+                "accosted"
+            ],
+            "correct": 1,
+            "id": "ac98493e07ae455596b6b8dbd6b1630e"
+        },
+        {
+            "question": "The invention of the electric light is accredited …………………………….. Edison.",
+            "description": "To accredit something to somebody is to attribute it to them.",
+            "answers": [
+                "with",
+                "for",
+                "to"
+            ],
+            "correct": 2,
+            "id": "8ca44cac1c2a4741a9dc524c0e1c033d"
+        },
+        {
+            "question": "I was ……………………………… by a friend on the street.",
+            "description": "To accost is to stop and greet someone. However, over the years this word has acquired some unpleasant connotations. Now it is mainly used to talk about being stopped by someone you do not wish to talk to or meet.",
+            "answers": [
+                "greeted",
+                "accosted"
+            ],
+            "correct": 0,
+            "id": "b81dc306abff4bff8009fc6a00f674a9"
+        },
+        {
+            "question": "Grandmother has ……………………………….. ideas about etiquette.",
+            "description": "Antiquated means out-of-date or old-fashioned.",
+            "answers": [
+                "antique",
+                "ancient",
+                "antiquated"
+            ],
+            "correct": 2,
+            "id": "eb251db96ece492f8873ee868b14aac4"
+        },
+        {
+            "question": "Doctors rushed an ……………………………….. to the boy who had been bitten by the snake.",
+            "description": "An antidote is a counterpoison.",
+            "answers": [
+                "anecdote",
+                "antidote"
+            ],
+            "correct": 1,
+            "id": "893abc5534b34bef95b11e982f48a2ed"
+        },
+        {
+            "question": "A well-groomed woman can’t fix her hair just ……………………………………..",
+            "description": "Anyway and anyhow mean exactly the same. In this sentence they both mean carelessly. Anyways is not acceptable. ",
+            "answers": [
+                "anyway",
+                "anyhow",
+                "anyways"
+            ],
+            "correct": 1,
+            "id": "35409d235f224844a0ed7d42ef99991e"
+        },
+        {
+            "question": "The plight of starving natives was ……………………………….",
+            "description": "If something is appalling it is dreadful or horrible.",
+            "answers": [
+                "appealing",
+                "appalling",
+                "appaling"
+            ],
+            "correct": 1,
+            "id": "1910232621164d188302b13e18620958"
+        },
+        {
+            "question": "What is your ………………………………… of the situation?",
+            "description": "Appraisal means judgment. There is no such thing as apprisal.",
+            "answers": [
+                "apprisal",
+                "appraisal",
+                "apraisal"
+            ],
+            "correct": 1,
+            "id": "92f7775cd43a49efa17489c6a6752516"
+        },
+        {
+            "question": "You have not ……………………………….. your fee yet.",
+            "description": "Paid is the past simple and past participle form of pay.",
+            "answers": [
+                "payed",
+                "paid"
+            ],
+            "correct": 1,
+            "id": "ef5ae13266274f34a8f27452ece9da65"
+        },
+        {
+            "question": "Her salary is ……………………………… with her ability and experience.",
+            "description": "Commensurate or commensurable are possible here. To commiserate with somebody is to sympathize with them.",
+            "answers": [
+                "commiserate",
+                "commensurate",
+                "commensurable"
+            ],
+            "correct": 2,
+            "id": "431f46e26ebd4ea2a87092a68727f467"
+        },
+        {
+            "question": "The monument ………………………………… local war heroes.",
+            "description": "To commemorate someone is to pay homage to them.",
+            "answers": [
+                "commensurates",
+                "commiserates",
+                "commemorates"
+            ],
+            "correct": 2,
+            "id": "5ec30b2b860f4752aad82fc7cc52fadb"
+        },
+        {
+            "question": "The reviews were full of ………………………….. remarks on the actor’s performance.",
+            "description": "Complimentary means praising.",
+            "answers": [
+                "complimentary",
+                "complementary",
+                "complimentory"
+            ],
+            "correct": 0,
+            "id": "8a6d033e8f8441ba9ed4bc22bfa81ce3"
+        }
+    ]
+}

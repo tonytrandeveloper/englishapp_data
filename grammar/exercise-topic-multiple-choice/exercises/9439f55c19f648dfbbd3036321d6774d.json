@@ -1,0 +1,112 @@
+{
+    "id": "9439f55c19f648dfbbd3036321d6774d",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "I ask a polite question .................................. I expect a polite reply.",
+            "description": "",
+            "answers": [
+                "and",
+                "but"
+            ],
+            "correct": 0,
+            "id": "0500a85785af4a598c8e1a11cc3cfabf"
+        },
+        {
+            "question": "He was ill .......................................... he went to work.",
+            "description": "",
+            "answers": [
+                "but",
+                "because",
+                "though"
+            ],
+            "correct": 0,
+            "id": "73fc5449eb2641d0a2ae8ae73513e11d"
+        },
+        {
+            "question": "You may not succeed .................................... I advise you to make another attempt.",
+            "description": "",
+            "answers": [
+                "yet",
+                "though",
+                "and"
+            ],
+            "correct": 0,
+            "id": "1a8c65677e004752ad6935a200a797ff"
+        },
+        {
+            "question": "You should understand, ............................................ I explained everything in detail.",
+            "description": "",
+            "answers": [
+                "so",
+                "that",
+                "then"
+            ],
+            "correct": 0,
+            "id": "19d34d300d37488f936c968471c044c9"
+        },
+        {
+            "question": "There was no point in arguing ...................................... he gave up.",
+            "description": "",
+            "answers": [
+                "hence",
+                "and",
+                "and hence"
+            ],
+            "correct": 2,
+            "id": "989380183ffe4c4ab2a1e39c763e9b49"
+        },
+        {
+            "question": "He was not there, .................................. we went without him.",
+            "description": "",
+            "answers": [
+                "so",
+                "because",
+                "though"
+            ],
+            "correct": 0,
+            "id": "248503974d5849a387c003bf17159cc3"
+        },
+        {
+            "question": "You are hiding something in your left hand ..................................... I know it.",
+            "description": "",
+            "answers": [
+                "and",
+                "that",
+                "or"
+            ],
+            "correct": 0,
+            "id": "358ba6aded674b778c7abed6fc141a85"
+        },
+        {
+            "question": "I must be in better health and ........................................ I will come.",
+            "description": "",
+            "answers": [
+                "then",
+                "than"
+            ],
+            "correct": 0,
+            "id": "2159614640ad4c1bb32b7067bd94c4a4"
+        },
+        {
+            "question": "I didn’t see the snake .......................................... I didn’t kill it.",
+            "description": "",
+            "answers": [
+                "therefore",
+                "and therefore"
+            ],
+            "correct": 1,
+            "id": "bfbe2ed0111e4fe3b9d6e75ecc35bd1a"
+        },
+        {
+            "question": "Finish your work and ............................................ you may go.",
+            "description": "",
+            "answers": [
+                "than",
+                "then"
+            ],
+            "correct": 1,
+            "id": "dd85662f4a1f4a0b9cd37094199ec1dc"
+        }
+    ]
+}

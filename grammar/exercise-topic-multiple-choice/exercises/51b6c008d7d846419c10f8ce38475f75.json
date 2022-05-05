@@ -1,0 +1,132 @@
+{
+    "id": "51b6c008d7d846419c10f8ce38475f75",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "I asked what ………………………. doing there.",
+            "description": "In indirect questions we use the normal word order. That means the subject goes before the auxiliary verb.",
+            "answers": [
+                "was he",
+                "he was",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e2eb1c06c49e421bae3047e3e9d34e12"
+        },
+        {
+            "question": "Nobody knows when ………………………. arrive.",
+            "description": "In indirect questions we use the normal word order. That means the subject goes before the auxiliary verb.",
+            "answers": [
+                "will she",
+                "she will"
+            ],
+            "correct": 1,
+            "id": "85d38c5ca1a542cb89cd6d4f2fd16b06"
+        },
+        {
+            "question": "I wonder where …………………….. gone.",
+            "description": "In indirect questions we use the normal word order. That means the subject goes before the auxiliary verb.",
+            "answers": [
+                "has she",
+                "she has"
+            ],
+            "correct": 0,
+            "id": "317f6542b08f4a91b156907abfa82f4b"
+        },
+        {
+            "question": "I can’t figure out what ………………………… do next.",
+            "description": "In indirect questions we use the normal word order. That means the subject goes before the auxiliary verb.",
+            "answers": [
+                "should I",
+                "I should"
+            ],
+            "correct": 1,
+            "id": "f63eb564f292406ebaece9176734745d"
+        },
+        {
+            "question": "She did not show how annoyed …………………………….",
+            "description": "In indirect questions we use the normal word order. That means the subject goes before the auxiliary verb.",
+            "answers": [
+                "was she",
+                "she was"
+            ],
+            "correct": 1,
+            "id": "24b5e7413fda4350acf8458944b864cf"
+        },
+        {
+            "question": "I don’t know ……………………….. it.",
+            "description": "We use know how to.",
+            "answers": [
+                "to do",
+                "how to do",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "eb5df8d068644fbaa72b6169519318ae"
+        },
+        {
+            "question": "I will show you ………………………. it.",
+            "description": "We say show how to.",
+            "answers": [
+                "to operate",
+                "how to operate",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "ccd9283f20e74828b7660df52209b735"
+        },
+        {
+            "question": "My mother taught me …………………………. chess.",
+            "description": "We say teach how to.",
+            "answers": [
+                "to play",
+                "how to play",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1cc4bd6d829647079d52c1b8c7ba4cd5"
+        },
+        {
+            "question": "I heard my name ………………………..",
+            "description": "The past participle is used in this structure.",
+            "answers": [
+                "called",
+                "calling"
+            ],
+            "correct": 0,
+            "id": "74d399e1d76a4545b3fa3f3b833bd3fe"
+        },
+        {
+            "question": "You should get that tooth ………………………",
+            "description": "",
+            "answers": [
+                "extracting",
+                "extracted"
+            ],
+            "correct": 1,
+            "id": "5df7dac91c43447bb15ae47afca5c7c7"
+        },
+        {
+            "question": "They made the boy ……………………… well.",
+            "description": "The infinitive is used without to after make.",
+            "answers": [
+                "behave",
+                "to behave",
+                "behaving"
+            ],
+            "correct": 0,
+            "id": "7e1f274101da49cf9b37f3ed5f152114"
+        },
+        {
+            "question": "Let me ……………………. now.",
+            "description": "The infinitive is used without to after let.",
+            "answers": [
+                "go",
+                "to go",
+                "going"
+            ],
+            "correct": 0,
+            "id": "a8e2a6ea211346bcbcdc478c24470c35"
+        }
+    ]
+}

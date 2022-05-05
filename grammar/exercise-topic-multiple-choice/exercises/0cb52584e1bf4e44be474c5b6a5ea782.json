@@ -1,0 +1,105 @@
+{
+    "id": "0cb52584e1bf4e44be474c5b6a5ea782",
+    "title": "Position Of Adverbs",
+    "questions": [
+        {
+            "question": "Which of the following sentences is correct?",
+            "description": "",
+            "answers": [
+                "a)\tI have never seen a whale.",
+                "b)\tI never have seen a whale.",
+                "c)\tNever I have seen a whale."
+            ],
+            "correct": 0,
+            "id": "aaf024760d634e039585a33300578a60"
+        },
+        {
+            "question": "Which of the following sentences is correct?",
+            "description": "",
+            "answers": [
+                "a)\tI am seldom late for work.",
+                "b)\tSeldom I am late for work.",
+                "c)\tI seldom am late for work."
+            ],
+            "correct": 0,
+            "id": "bc9275dd1003408a93f1286923072a4c"
+        },
+        {
+            "question": "Which of the following sentences is correct?",
+            "description": "",
+            "answers": [
+                "a)\tI get up early always.",
+                "b)\tAlways I get up early.",
+                "c)\tI always get up early."
+            ],
+            "correct": 2,
+            "id": "e769331348c547498adcb342006a3888"
+        },
+        {
+            "question": "Which of the following sentences is correct?",
+            "description": "",
+            "answers": [
+                "a)\tIt sometimes gets very windy here.",
+                "b)\tSometimes it gets very windy here.",
+                "c) Both sentences are correct"
+            ],
+            "correct": 2,
+            "id": "c554f5c4795c4ddbb0daf71b3ae9de16"
+        },
+        {
+            "question": "Which of the following sentences is correct?",
+            "description": "",
+            "answers": [
+                "a)\tMy boss is often bad-tempered.",
+                "b)\tMy boss often is bad-tempered.",
+                "c)\tMy boss is bad-tempered often."
+            ],
+            "correct": 0,
+            "id": "f784219ae67f474d8a4b64af2d8496e5"
+        },
+        {
+            "question": "Which of the following sentences is correct?",
+            "description": "",
+            "answers": [
+                "a)\tI usually get up early.",
+                "b)\tUsually I get up early.",
+                "c)\tBoth sentences are correct."
+            ],
+            "correct": 2,
+            "id": "3a5540315a8740fcad3467edc079aff7"
+        },
+        {
+            "question": "Which of the following sentences is correct?",
+            "description": "",
+            "answers": [
+                "a)\tI occasionally go there.",
+                "b)\tI go there occasionally.",
+                "c)\tBoth sentences are correct."
+            ],
+            "correct": 2,
+            "id": "76cbc6ecd2ec4eccba54fc57820d8dc8"
+        },
+        {
+            "question": "Which of the following sentences is correct?",
+            "description": "",
+            "answers": [
+                "a)\tStill I love you.",
+                "b)\tI still love you.",
+                "c)\tBoth sentences are correct."
+            ],
+            "correct": 1,
+            "id": "afdc13a286914d26b24a264a08c5c5ae"
+        },
+        {
+            "question": "Which of the following sentences is correct?",
+            "description": "",
+            "answers": [
+                "a)\tShe just has gone out.",
+                "b)\tShe has just gone out.",
+                "c)\tShe has gone out just."
+            ],
+            "correct": 1,
+            "id": "0dcabe22419a4a148a5108c8d63d7828"
+        }
+    ]
+}

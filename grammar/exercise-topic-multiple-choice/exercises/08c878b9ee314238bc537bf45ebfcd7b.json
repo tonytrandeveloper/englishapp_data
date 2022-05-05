@@ -1,0 +1,138 @@
+{
+    "id": "08c878b9ee314238bc537bf45ebfcd7b",
+    "title": "Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "The boy killed the spider. / The spider ................................... by the boy.",
+            "description": "In the simple past tense, we make the passive forms by putting was/were before the past participle form of the verb.",
+            "answers": [
+                "killed",
+                "had killed",
+                "was killed"
+            ],
+            "correct": 2,
+            "id": "1df89a0fdb14425884f8eeba40b86e28"
+        },
+        {
+            "question": "He loves me. / I ..................................... by him.",
+            "description": "In the simple present tense, we make the passive verb forms by putting is/am/are before the past participle form of the verb.",
+            "answers": [
+                "loved",
+                "have loved",
+                "am loved"
+            ],
+            "correct": 2,
+            "id": "7bffda244c9e4eb9b5a0115c5ff91dbe"
+        },
+        {
+            "question": "I bought a shirt yesterday. / A shirt ...................................... by me.",
+            "description": "In the simple past tense, we make the passive forms by putting was/were before the past participle form of the verb.",
+            "answers": [
+                "had bought",
+                "is bought",
+                "was bought"
+            ],
+            "correct": 2,
+            "id": "fa7c4d41f3b54ffe9aed81d9630adf3f"
+        },
+        {
+            "question": "I ate an apple. / An apple ........................................... by me.",
+            "description": "In the simple past tense, we make the passive verb from by putting was / were before the past participle form of the verb.",
+            "answers": [
+                "has eaten",
+                "was eaten",
+                "is eaten"
+            ],
+            "correct": 1,
+            "id": "3a9f9a132e944e608a4c7acf75511e86"
+        },
+        {
+            "question": "I have invited all of my friends. / All of my friends ............................................. by me.",
+            "description": "In the simple present tense, we make the passive verb forms by putting has/have + been before the past participle form of the verb.",
+            "answers": [
+                "are invited",
+                "had been invited",
+                "have been invited"
+            ],
+            "correct": 2,
+            "id": "56700248de8e4460ab3ecab7a7fae195"
+        },
+        {
+            "question": "I am reading a novel. / A novel ............................................ by me.",
+            "description": "In the present continuous tense, we make the passive verb forms by putting is/am/are + being before the past participle form of the verb.",
+            "answers": [
+                "am being read",
+                "is being read",
+                "was being read"
+            ],
+            "correct": 1,
+            "id": "5cc90ecb481e4eebb8d4770232cabbed"
+        },
+        {
+            "question": "Janet will give you a present. / You ..................................... a present by Janet.",
+            "description": "In the simple future tense, we make the passive verb forms by putting will be before the past participle form of the verb.",
+            "answers": [
+                "would be given",
+                "will be giving",
+                "will be given"
+            ],
+            "correct": 2,
+            "id": "1d51e3ee1bf945faaf9746639819b3b8"
+        },
+        {
+            "question": "She will have helped me. / I ................................................ by her.",
+            "description": "In the future perfect tense, passive verb forms are made by putting will have been before the past participle form of the verb.",
+            "answers": [
+                "will have helped",
+                "will have been helping",
+                "will have been helped"
+            ],
+            "correct": 2,
+            "id": "95fc0efa83db4268b8392914864fc1a4"
+        },
+        {
+            "question": "I was watching a movie. / A movie .............................................. by me.",
+            "description": "In the present continuous tense, we make the passive verb forms by putting was / were + being before the past participle form of the verb.",
+            "answers": [
+                "is watched",
+                "was watched",
+                "was being watched"
+            ],
+            "correct": 2,
+            "id": "be5682a016134438a40eca76b0db320a"
+        },
+        {
+            "question": "They carried the patient home. / The patient ...................................... home.",
+            "description": "In the simple past tense, we make the passive verb from by putting was / were before the past participle form of the verb.",
+            "answers": [
+                "had carried",
+                "was carried",
+                "was being carried"
+            ],
+            "correct": 1,
+            "id": "a39937d054ff4077ab95deed898c951a"
+        },
+        {
+            "question": "Do it at once. / ................................................ at once.",
+            "description": "When we convert imperatives into the passive, we use the structure 'let + object + be + past participle'.",
+            "answers": [
+                "Let it do",
+                "Let it be done",
+                "Let it done"
+            ],
+            "correct": 1,
+            "id": "5e26f8d499b7499ab27e6c2f39114ace"
+        },
+        {
+            "question": "Do not beat the dog. / Let the dog ...............................................",
+            "description": "",
+            "answers": [
+                "not to be beaten",
+                "not be beaten",
+                "is not beaten"
+            ],
+            "correct": 1,
+            "id": "cc25d20b9883443693f983a8d17096fd"
+        }
+    ]
+}

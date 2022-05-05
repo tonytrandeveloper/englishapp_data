@@ -1,0 +1,138 @@
+{
+    "id": "1409b08356bf44e9a3086a0367cbdda7",
+    "title": "Kinds of Sentences",
+    "questions": [
+        {
+            "question": "Please leave your footwear outside.",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Interrogative",
+                "Exclamatory"
+            ],
+            "correct": 1,
+            "id": "2b8976bb872845c4bdf5f81de7fca7e0"
+        },
+        {
+            "question": "Will you wait here?",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Interrogative",
+                "Exclamatory"
+            ],
+            "correct": 2,
+            "id": "b8bc98027b8a42168abef45c367b0935"
+        },
+        {
+            "question": "Where have you been all this while?",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Interrogative",
+                "Exclamatory"
+            ],
+            "correct": 2,
+            "id": "50ff0bd513a744c882de8d83759b29b3"
+        },
+        {
+            "question": "We will not tolerate this.",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Interrogative",
+                "Exclamatory"
+            ],
+            "correct": 0,
+            "id": "698fe1da03804445a90093159ed9d254"
+        },
+        {
+            "question": "I am your friend.",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Exclamatory",
+                "Interrogative"
+            ],
+            "correct": 0,
+            "id": "2e7963c60a674e5dbc31960da706be45"
+        },
+        {
+            "question": "My sister lives in Mexico.",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Interrogative",
+                "Imperative",
+                "Exclamatory"
+            ],
+            "correct": 0,
+            "id": "7f035ce2e189475ca6740346a628a69f"
+        },
+        {
+            "question": "What did you do then?",
+            "description": "",
+            "answers": [
+                "Interrogative",
+                "Declarative",
+                "Imperative",
+                "Exclamatory"
+            ],
+            "correct": 0,
+            "id": "6e34fe42c9fd45e2bf2d52b782f71616"
+        },
+        {
+            "question": "Do be a bit more careful.",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Interrogative",
+                "Exclamatory"
+            ],
+            "correct": 1,
+            "id": "5043cf9863244a91934731795ea462ea"
+        },
+        {
+            "question": "Never speak to me like that again.",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Interrogative",
+                "Exclamatory"
+            ],
+            "correct": 1,
+            "id": "0f9aec9b92554118839b943cb569ae08"
+        },
+        {
+            "question": "Always remember what I told you.",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Exclamatory",
+                "Interrogative"
+            ],
+            "correct": 1,
+            "id": "81c7dcfa6f494de0ab564de1e795f2ba"
+        },
+        {
+            "question": "The ball rolled slowly into the goal.",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Interrogative",
+                "Exclamatory",
+                "Imperative"
+            ],
+            "correct": 0,
+            "id": "59c9fd9657154045a8f8f9a82dd88dec"
+        }
+    ]
+}

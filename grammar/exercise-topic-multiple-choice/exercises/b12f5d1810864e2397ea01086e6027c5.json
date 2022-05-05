@@ -1,0 +1,137 @@
+{
+    "id": "b12f5d1810864e2397ea01086e6027c5",
+    "title": "Subordinating Conjunctions",
+    "questions": [
+        {
+            "question": "I don’t know …………………… he is innocent.",
+            "description": "We use whether to introduce indirect yes/no questions.",
+            "answers": [
+                "that",
+                "weather",
+                "whether"
+            ],
+            "correct": 2,
+            "id": "635787f4e2684e48ad4991ed0749eb99"
+        },
+        {
+            "question": "………………………. she will come I am not sure at the moment.",
+            "description": "When an indirect question is fronted, we use whether, not if.",
+            "answers": [
+                "Whether",
+                "If",
+                "That"
+            ],
+            "correct": 0,
+            "id": "06c0e71a1b2048e086f5b9ad85d9c6c6"
+        },
+        {
+            "question": "I asked …………………….. she had met me before.",
+            "description": "Both whether and if can be used to introduce indirect yes/no questions.",
+            "answers": [
+                "whether",
+                "if",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c5a8b406d2cf496d8a167328ce3491fe"
+        },
+        {
+            "question": "This is the closet ………………………. she keeps her things.",
+            "description": "We need a place word here.",
+            "answers": [
+                "where",
+                "that",
+                "which"
+            ],
+            "correct": 0,
+            "id": "2f85a0f8ca43449fbd2f71a0f500e789"
+        },
+        {
+            "question": "The consequence of his stupidity was ……………………….. he soon lost his money.",
+            "description": "That is merely a connector. When we split the sentence into two clauses, we get:\r\nHe soon lost his money.\r\nIt was the consequence of his stupidity.\r\nWe can combine them with that.\r\n",
+            "answers": [
+                "that",
+                "which",
+                "what"
+            ],
+            "correct": 0,
+            "id": "c0131f87ea66459b97c748a9cf883413"
+        },
+        {
+            "question": "She is beautiful. She is equally intelligent. That means she is as beautiful as ………………..",
+            "description": "Both clauses have the same pattern in this structure.",
+            "answers": [
+                "intelligent",
+                "is intelligent",
+                "she is intelligent"
+            ],
+            "correct": 2,
+            "id": "d2f18aba3b5543929d63be32226c51c2"
+        },
+        {
+            "question": "A cottager and his wife had a hen …………………….. laid a golden egg every day.",
+            "description": "Both that and which can be used to refer to animals, birds or things.",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "e08383eb56cd4f98a2cdda9a36fb1876"
+        },
+        {
+            "question": "He ran so quickly ……………………… he soon overtook me.",
+            "description": "The conjunction so…that… is used to indicate ideas such as effect or purpose.",
+            "answers": [
+                "that",
+                "when",
+                "for"
+            ],
+            "correct": 0,
+            "id": "751379183cdd4fa5a5bef196aef1be15"
+        },
+        {
+            "question": "He spoke in ……………………… a low voice that nobody could hear him.",
+            "description": "We use such before 'adjective + noun'. ",
+            "answers": [
+                "so",
+                "very",
+                "such"
+            ],
+            "correct": 2,
+            "id": "a848f6ac5730429db7f91745ec3834c4"
+        },
+        {
+            "question": "Tell me what …………………………. done?",
+            "description": "In indirect questions, the auxiliary verb goes after the subject.",
+            "answers": [
+                "have you",
+                "you have"
+            ],
+            "correct": 1,
+            "id": "11dd8af82ca34099a4083d121486ddef"
+        },
+        {
+            "question": "……………………….. you are drunk aggravates your offence.",
+            "description": "That-clauses are not normally used alone as subjects. They are often introduced by the expression ‘the fact’.",
+            "answers": [
+                "Fact",
+                "The fact",
+                "The fact that"
+            ],
+            "correct": 2,
+            "id": "9300b5a816514d50a17e4dd6184a732e"
+        },
+        {
+            "question": "They paid no attention to ………………………. she was depressed.",
+            "description": "That-clauses after prepositions are introduced by ‘the fact’.",
+            "answers": [
+                "fact",
+                "fact that",
+                "the fact that"
+            ],
+            "correct": 2,
+            "id": "56fb36b51c194ccb81fc72f674b9701f"
+        }
+    ]
+}

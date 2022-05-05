@@ -1,0 +1,134 @@
+{
+    "id": "9d8d0df9e9b44d7db365802e9f9a7df3",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "I am confident …………………….. you will win.",
+            "description": "We use that to introduce a noun clause. ",
+            "answers": [
+                "that",
+                "of",
+                "whether"
+            ],
+            "correct": 0,
+            "id": "8a5e2e4923ca4d5ebc5d808d556b4a32"
+        },
+        {
+            "question": "……………………….. she read the letter, she started crying.",
+            "description": "As soon as is used to say that something will happen immediately after something else has happened. ",
+            "answers": [
+                "As soon as",
+                "Even as",
+                "As long as"
+            ],
+            "correct": 0,
+            "id": "767ead16746648c88ad2d45b9dc1c1a0"
+        },
+        {
+            "question": "He took the tablet ……………………… the pain would alleviate.",
+            "description": "So that is used to express the purpose. ",
+            "answers": [
+                "so that",
+                "so as to",
+                "in order to"
+            ],
+            "correct": 0,
+            "id": "67c8d08e50d64339a203858cf5e494f6"
+        },
+        {
+            "question": "…………………………. he is not interested, we will have to find someone else.",
+            "description": "If expresses a condition. ",
+            "answers": [
+                "If",
+                "Unless"
+            ],
+            "correct": 0,
+            "id": "ddeea8329e3b48cbb2f918171d2a2a6b"
+        },
+        {
+            "question": "I visited a restaurant …………………….. they sell exotic seafood.",
+            "description": "We can use where to introduce adverb clauses of place.",
+            "answers": [
+                "there",
+                "where",
+                "which"
+            ],
+            "correct": 1,
+            "id": "4bb9c5f479584770891134a2d523f14b"
+        },
+        {
+            "question": "The soldiers fought bravely ……………………… the enemy was stronger than them.",
+            "description": "We use but to connect two independent clauses expressing contrasting ideas.",
+            "answers": [
+                "but",
+                "though",
+                "however"
+            ],
+            "correct": 0,
+            "id": "fb422d44ec204c4d944ee5775c129606"
+        },
+        {
+            "question": "He bit more ………………………. he could chew.",
+            "description": "We use than after a comparative expression.",
+            "answers": [
+                "than",
+                "then"
+            ],
+            "correct": 0,
+            "id": "e547b6c68efe4964a680e71a6545883f"
+        },
+        {
+            "question": "…………………………. I don’t get this job, I will be in trouble.",
+            "description": "",
+            "answers": [
+                "If",
+                "Unless"
+            ],
+            "correct": 0,
+            "id": "12d567b09dca4ef3b6bc083e047af968"
+        },
+        {
+            "question": "………………………… I get my raise, I will quit my job.",
+            "description": "Unless means the same as if not.",
+            "answers": [
+                "If",
+                "Unless"
+            ],
+            "correct": 1,
+            "id": "3ec6c73cf9db4a7ba3b35ab8d5e33868"
+        },
+        {
+            "question": "The laptop ……………………….. I bought yesterday is very expensive.",
+            "description": "Both which and that can refer to objects in identifying relative clauses.",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "64c524f745a8495da1c565b24677f636"
+        },
+        {
+            "question": "Work hard …………………………… you will succeed.",
+            "description": "",
+            "answers": [
+                "and",
+                "so",
+                "because"
+            ],
+            "correct": 0,
+            "id": "a5abbeb34d364716bab0674d04cb98d8"
+        },
+        {
+            "question": "He quit ………………………. he was dejected.",
+            "description": "Because gives the reason. ",
+            "answers": [
+                "because",
+                "so",
+                "hence"
+            ],
+            "correct": 0,
+            "id": "036d48fc00584d0e9c85e35b4613e1dd"
+        }
+    ]
+}

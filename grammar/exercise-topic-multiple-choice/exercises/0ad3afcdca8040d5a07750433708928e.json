@@ -1,0 +1,137 @@
+{
+    "id": "0ad3afcdca8040d5a07750433708928e",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "……………………… we reached the place, it was quite dark.",
+            "description": "",
+            "answers": [
+                "When",
+                "Though",
+                "If"
+            ],
+            "correct": 0,
+            "id": "722300ff74bc46a88878a4d53452e90b"
+        },
+        {
+            "question": "……………………….. I had never seen him before, I went ahead and introduced myself.",
+            "description": "Though is used to connect two contrasting ideas.",
+            "answers": [
+                "Though",
+                "When",
+                "If"
+            ],
+            "correct": 0,
+            "id": "edbf2e55673e4b80af3617cc99d989b7"
+        },
+        {
+            "question": "………………………….. she earns a lot of money, she spends hardly anything.",
+            "description": "Though is used to connect two contrasting ideas.",
+            "answers": [
+                "Though",
+                "Because",
+                "If"
+            ],
+            "correct": 0,
+            "id": "ea14265959e140b0b7257eba7925bc19"
+        },
+        {
+            "question": "………………………….. they are poor, they cannot afford even the basic necessities of life.",
+            "description": "Because gives the reason. ",
+            "answers": [
+                "Though",
+                "Because",
+                "If"
+            ],
+            "correct": 1,
+            "id": "f372788b6a7740caa0e11e3ef71756b8"
+        },
+        {
+            "question": "The phone rang ……………………………… I was having a nap in the afternoon.",
+            "description": "",
+            "answers": [
+                "when",
+                "if",
+                "because"
+            ],
+            "correct": 0,
+            "id": "7364f535244c4839b76b53e8556eb3e1"
+        },
+        {
+            "question": "……………………….. you put in your best efforts, you are bound to succeed.",
+            "description": "If expresses a condition. ",
+            "answers": [
+                "If",
+                "Though"
+            ],
+            "correct": 0,
+            "id": "a72136be901a41ef9866d5b76a469f99"
+        },
+        {
+            "question": "………………………….. I had warned him, he didn’t pay heed to me.",
+            "description": "Though is used to connect two contrasting ideas. ",
+            "answers": [
+                "If",
+                "Because",
+                "Though"
+            ],
+            "correct": 2,
+            "id": "67ea6c32a93e4604a9b83f3ef6300229"
+        },
+        {
+            "question": "………………………….. you wait long enough, you will get what you want.",
+            "description": "If expresses a condition. ",
+            "answers": [
+                "Because",
+                "If",
+                "Though"
+            ],
+            "correct": 1,
+            "id": "fed9f47ee28b489baccf752af80368e8"
+        },
+        {
+            "question": "………………………….. he has a good job, he is not satisfied.",
+            "description": "Though is used to connect two contrasting ideas.",
+            "answers": [
+                "Though",
+                "Because",
+                "If"
+            ],
+            "correct": 0,
+            "id": "89f566a0c13d4e18a878e7cf0bd1f1df"
+        },
+        {
+            "question": "She was upset ……………………………. she couldn’t get the job.",
+            "description": "Because gives the reason.",
+            "answers": [
+                "if",
+                "because",
+                "when"
+            ],
+            "correct": 1,
+            "id": "0d0a3f6fa4334883a05998130d88a73e"
+        },
+        {
+            "question": "……………………….. I reached the station, the train had already left.",
+            "description": "",
+            "answers": [
+                "If",
+                "When",
+                "Though"
+            ],
+            "correct": 1,
+            "id": "5e0db59cacec42df985c729a53aa84f9"
+        },
+        {
+            "question": "…………………………. it was raining, we went jogging.",
+            "description": "Though is used to connect two contrasting ideas.",
+            "answers": [
+                "Though",
+                "Because",
+                "If"
+            ],
+            "correct": 0,
+            "id": "90d810eb12c64ed6afe9234743f1a5b8"
+        }
+    ]
+}

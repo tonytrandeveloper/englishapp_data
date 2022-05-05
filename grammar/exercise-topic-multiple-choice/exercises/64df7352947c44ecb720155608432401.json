@@ -1,0 +1,139 @@
+{
+    "id": "64df7352947c44ecb720155608432401",
+    "title": "Modals Exercise",
+    "questions": [
+        {
+            "question": "They .......................... have left in the morning. (possibility)",
+            "description": "Might indicates possibility. Will indicates certainty. ",
+            "answers": [
+                "will",
+                "might",
+                "can"
+            ],
+            "correct": 1,
+            "id": "89f5fd35902e43c0826234edbcfae70f"
+        },
+        {
+            "question": "Since the surgery, he .................................. walk again. (ability)",
+            "description": "Can shows general ability. Be able to is used to talk about being able to do something on a specific occasion. ",
+            "answers": [
+                "is able to",
+                "can",
+                "may"
+            ],
+            "correct": 0,
+            "id": "fb430ea0620f44b89af77eab0bc31afb"
+        },
+        {
+            "question": "He suggested that I ........................... accept the offer. (obligation)",
+            "description": "We use should to make suggestions. ",
+            "answers": [
+                "would",
+                "should",
+                "could"
+            ],
+            "correct": 1,
+            "id": "91a3a8b0aeed48a58707b68a1ace0cbb"
+        },
+        {
+            "question": "You ............................... lied to him.",
+            "description": "Ought is followed by a to-infinitive. ",
+            "answers": [
+                "ought not to",
+                "ought not have",
+                "ought not to have"
+            ],
+            "correct": 2,
+            "id": "12ad4e604fce4b43839fbbecd031b594"
+        },
+        {
+            "question": "You .................................. told him about my accident. (lack of necessity)",
+            "description": "",
+            "answers": [
+                "need not",
+                "don't need to",
+                "need not have"
+            ],
+            "correct": 2,
+            "id": "3b4c96b057b24967a8a2bbe3a63055e4"
+        },
+        {
+            "question": "............................ I help you with this? (Offer)",
+            "description": "Should is used to make offers. ",
+            "answers": [
+                "Would",
+                "Should",
+                "Could"
+            ],
+            "correct": 1,
+            "id": "9352e94464b94bc5b2658979a854f8a6"
+        },
+        {
+            "question": "He ............................... watch a lot of movies when he was younger. (past habit)",
+            "description": "Would is used to talk about past habits.",
+            "answers": [
+                "should",
+                "would",
+                "could"
+            ],
+            "correct": 1,
+            "id": "89685c6a9ab5400ab1366cd3a1bc716a"
+        },
+        {
+            "question": "I think you ............................. find another job. (suggestion)",
+            "description": "Should is used in suggestions. ",
+            "answers": [
+                "would",
+                "should",
+                "could"
+            ],
+            "correct": 1,
+            "id": "1462e030e5f5450d99e946a7aa9033e6"
+        },
+        {
+            "question": "You ..................................... invited her to the party. (lack of obligation)",
+            "description": "",
+            "answers": [
+                "needn't have",
+                "needn't",
+                "don't need have"
+            ],
+            "correct": 0,
+            "id": "f50120d0463d4d659f4e92fa5db9e115"
+        },
+        {
+            "question": "You ...................................... start now.",
+            "description": "All of these are possible here. Had better is more emphatic. ",
+            "answers": [
+                "had better",
+                "should",
+                "ought to",
+                "All of these"
+            ],
+            "correct": 3,
+            "id": "a0f4b6c0df70487aae4cd2c95901b076"
+        },
+        {
+            "question": "He left late for the train station. He ................................. have missed the train.",
+            "description": "Both could and might can express possibility in affirmative sentences.",
+            "answers": [
+                "might",
+                "should",
+                "could"
+            ],
+            "correct": 2,
+            "id": "d9b4b98fb14b4a88a05323a713720eba"
+        },
+        {
+            "question": "If I were you, I ................................. apologize for something I didn't do.",
+            "description": "",
+            "answers": [
+                "will not",
+                "would not",
+                "could not"
+            ],
+            "correct": 1,
+            "id": "d0ac016598a34bde95f8ac1da4fbe5af"
+        }
+    ]
+}

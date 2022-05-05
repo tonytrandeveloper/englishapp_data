@@ -1,0 +1,118 @@
+{
+    "id": "b3c47cdcbc33442582b7790f611bc361",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Jane with .......................... I traveled to Delhi is a nice girl.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "d0f4e3536ef14e5a9b48132ad861f8d9"
+        },
+        {
+            "question": "This is the hotel ........................ our meetings used to take place.",
+            "description": "",
+            "answers": [
+                "where",
+                "there",
+                "here"
+            ],
+            "correct": 0,
+            "id": "3bc7affcac1849e3938e682c497777db"
+        },
+        {
+            "question": "The apples ............................. I bought yesterday were good.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "688fa8f98c1e4d8d807fc55e08c322e7"
+        },
+        {
+            "question": "This is the girl ......................... won the first prize.",
+            "description": "",
+            "answers": [
+                "who",
+                "which",
+                "whom"
+            ],
+            "correct": 2,
+            "id": "603e61690e7f4830b9ff675338a9e86c"
+        },
+        {
+            "question": "This is the house ......................... my father bought last year.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ec20de1e9b664070a5ffad8a31fda1fc"
+        },
+        {
+            "question": "................................... people lived here in the 1950’s, the cost of living was low.",
+            "description": "",
+            "answers": [
+                "Where",
+                "When",
+                "Then"
+            ],
+            "correct": 1,
+            "id": "f681834c8a054cc18a0ab3180aa4f5db"
+        },
+        {
+            "question": "The washing machine .......................... I bought yesterday was not very expensive.",
+            "description": "",
+            "answers": [
+                "which",
+                "what",
+                "who"
+            ],
+            "correct": 0,
+            "id": "0b3225a436ca419396e50f773e1848c1"
+        },
+        {
+            "question": "The traveler ......................... I met on the way was a well-read person.",
+            "description": "",
+            "answers": [
+                "whom",
+                "which",
+                "what"
+            ],
+            "correct": 0,
+            "id": "9ca8de1206db4e3b957741fbb4402995"
+        },
+        {
+            "question": "I saw a girl ........................ beauty took my breath away.",
+            "description": "",
+            "answers": [
+                "her",
+                "who",
+                "who's",
+                "whose"
+            ],
+            "correct": 3,
+            "id": "fc073dfb5b1649fea96a17602f44ddeb"
+        },
+        {
+            "question": "He has written a novel .......................... name I have forgotten.",
+            "description": "",
+            "answers": [
+                "that",
+                "whose",
+                "who's",
+                "which"
+            ],
+            "correct": 1,
+            "id": "52a857118bc54f92ab928c430a7e664c"
+        }
+    ]
+}

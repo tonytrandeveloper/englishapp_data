@@ -1,0 +1,135 @@
+{
+    "id": "2c3310b485c74c8c8658ef2efe5b2e01",
+    "title": "Past Tenses Exercise",
+    "questions": [
+        {
+            "question": "She ………………………… college last year.",
+            "description": "Use the simple past to say when something happened in the past.",
+            "answers": [
+                "was leaving",
+                "left",
+                "had left"
+            ],
+            "correct": 1,
+            "id": "fb5708cd47504b7b956f281769a9903d"
+        },
+        {
+            "question": "Our team ………………………… them yesterday.",
+            "description": "Use the simple past to say when something happened in the past.",
+            "answers": [
+                "had defeated",
+                "defeated",
+                "was defeating"
+            ],
+            "correct": 1,
+            "id": "85c04a2cdedf4e99b466d21f68cfe3ff"
+        },
+        {
+            "question": "I ………………………. TV when dad arrived.",
+            "description": "The past continuous is used to talk about an action or situation that was going on at a particular point of time in the past.",
+            "answers": [
+                "watched",
+                "was watching",
+                "had watched"
+            ],
+            "correct": 1,
+            "id": "bd8d8d26e90f471c92e6c25f8f30a975"
+        },
+        {
+            "question": "After she …………………………. her breakfast, she went to work.",
+            "description": "",
+            "answers": [
+                "ate",
+                "had eaten",
+                "was eating"
+            ],
+            "correct": 0,
+            "id": "a12a41053f644fd1b70c9f9de36efc6f"
+        },
+        {
+            "question": "By the time I reached the station, the train …………………………..",
+            "description": "The past perfect is used for the earlier of two past actions/ ",
+            "answers": [
+                "departed",
+                "had departed"
+            ],
+            "correct": 1,
+            "id": "1f2d3a68f5c24f05aeb29b122d9237d0"
+        },
+        {
+            "question": "She …………………………… here yesterday.",
+            "description": "The simple past is used to say when something happened. ",
+            "answers": [
+                "came",
+                "had come"
+            ],
+            "correct": 0,
+            "id": "d96f9b4eaa744fb6af97da84ae0a5304"
+        },
+        {
+            "question": "He …………………………… home late when the accident occurred.",
+            "description": "The past continuous is used for the longer background action that was going on when another action took place.",
+            "answers": [
+                "drove",
+                "was driving",
+                "had driven"
+            ],
+            "correct": 1,
+            "id": "6d53061c5bbf406bbfdff128a11653b7"
+        },
+        {
+            "question": "The guests had left before I ………………………… home.",
+            "description": "We use the simple past for the later of the two past actions.",
+            "answers": [
+                "reached",
+                "was reaching",
+                "had reached"
+            ],
+            "correct": 0,
+            "id": "f8e877c12a5947a99bc0edcbc007b16b"
+        },
+        {
+            "question": "I ………………………….. sleep well last night.",
+            "description": "",
+            "answers": [
+                "hadn't",
+                "didn't"
+            ],
+            "correct": 1,
+            "id": "fc2c9a1803e84e6386aa2887dc31a029"
+        },
+        {
+            "question": "Every morning, he …………………………. for a walk.",
+            "description": "",
+            "answers": [
+                "was going",
+                "went",
+                "had gone"
+            ],
+            "correct": 1,
+            "id": "1ac6f4a19e584d29bbd5c1db8d112257"
+        },
+        {
+            "question": "She …………………… when she heard the news.",
+            "description": "",
+            "answers": [
+                "was weeping",
+                "wept",
+                "had wept"
+            ],
+            "correct": 1,
+            "id": "6b20b05bb08948a7a6ab15ca0fd96684"
+        },
+        {
+            "question": "I thought of it just when you …………………………….. your mouth.",
+            "description": "The simple past is used to talk about two simultaneous short actions. ",
+            "answers": [
+                "was opening",
+                "had opened",
+                "opened"
+            ],
+            "correct": 2,
+            "id": "aae4083dbec64ca0ac4416da38707222"
+        }
+    ]
+}

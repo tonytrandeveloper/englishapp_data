@@ -1,0 +1,63 @@
+{
+    "id": "fa5782cc57af4723b6929036e4ef445f",
+    "title": "Sentence Improvement Exercise",
+    "questions": [
+        {
+            "question": "I gave my daughter a ..................... ..",
+            "description": "",
+            "answers": [
+                "beautifully illustrated child’s encyclopedia",
+                "beautifully illustrated children’s encyclopedia",
+                "child’s beautifully illustrated encyclopedia"
+            ],
+            "correct": 1,
+            "id": "ca2c786a032c4cd49fb79ba229642289"
+        },
+        {
+            "question": "Workers who …………………. the same operation day after day take no pleasure or pride in their work.",
+            "description": "",
+            "answers": [
+                "perform",
+                "have performed",
+                "had performed"
+            ],
+            "correct": 0,
+            "id": "cbb5360e433d43278df5a55f4a55203e"
+        },
+        {
+            "question": "The popular theory that modern man came out of Africa …………………. into doubt by the discovery of a 3,50,000 year old skull from China.",
+            "description": "",
+            "answers": [
+                "have thrown",
+                "have been thrown",
+                "has been thrown",
+                "had been thrown"
+            ],
+            "correct": 2,
+            "id": "34efa658f79746a4a84eba31807fc794"
+        },
+        {
+            "question": "The woman looked askance at the tablet and asked if it ……………….. all that was to be given to a patient to make him well.",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 1,
+            "id": "fb0e5973362a4bdba119786e7cac8547"
+        },
+        {
+            "question": "The old woman ……………… with a beaming face the next day and reported that her husband had recovered.",
+            "description": "",
+            "answers": [
+                "returns",
+                "returned",
+                "has returned",
+                "had returned"
+            ],
+            "correct": 1,
+            "id": "3b92f95aee7841eb968d5ee3ebd206d2"
+        }
+    ]
+}

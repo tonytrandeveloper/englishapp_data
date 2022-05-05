@@ -1,0 +1,126 @@
+{
+    "id": "6e1eb229958d46faa74444d0c4a710de",
+    "title": "Subject - Verb Agreement",
+    "questions": [
+        {
+            "question": "Sam as well as his friends …………………………. at the party.",
+            "description": "When you connect two subjects with as well as, the verb agrees with the first subject.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "35ec87b44406463faa3b83c0fcf5e10f"
+        },
+        {
+            "question": "Neither Susan nor Mira ………………………………… capable of doing this.",
+            "description": "When we connect two nouns with neither/nor, the verb agrees with the number and person of the second subject.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "e02cf60fc7594b8a9a009078f6d2ac4a"
+        },
+        {
+            "question": "One of my friends …………………………… gone to Africa.",
+            "description": "Use a singular verb after one of.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "2c27735f50fd4f5aa562732c9d934043"
+        },
+        {
+            "question": "Neither of us ……………………………. interested in this.",
+            "description": "When we connect two nouns with neither/nor, the verb agrees with the number and person of the second subject.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "66700a28601544a68679f44fbb8ca731"
+        },
+        {
+            "question": "Either you or he …………………………… mistaken.",
+            "description": "When we connect two nouns with either/or, the verb agrees with the number and person of the second subject.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "a2968efa3a0344e8b9c781733b69fd10"
+        },
+        {
+            "question": "He along with his friends ………………………….. gone to the movies.",
+            "description": "When we connect two nouns with ‘along with’, the verb agrees with the first subject.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "e4d7cb62f0e046d49234de3138471fda"
+        },
+        {
+            "question": "Neither cheese nor butter …………………………… with me.",
+            "description": "When we connect two nouns with neither/nor, the verb agrees with the number and person of the second subject.",
+            "answers": [
+                "agree",
+                "agrees"
+            ],
+            "correct": 1,
+            "id": "d0bd621c5bdf4511bc26cd88254190e4"
+        },
+        {
+            "question": "The doctor as well as the nurses ……………………………… on a strike.",
+            "description": "When you connect two subjects with as well as, the verb agrees with the first subject.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "2a10fe8c1031498bb170e1be57440a28"
+        },
+        {
+            "question": "Neither John nor his brothers …………………………….. there.",
+            "description": "When we connect two nouns with neither/nor, the verb agrees with the number and person of the second subject.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "f302014eecba46c98d15c6336cafe341"
+        },
+        {
+            "question": "John or his brother …………………………… to do the shopping this week.",
+            "description": "When we connect two singular nouns with 'or', the verb is singular. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "8f66be3dc2f84657b25e4582611d80f0"
+        },
+        {
+            "question": "The committee ………………………….. 12 members.",
+            "description": "Collective nouns are usually treated as singular. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "df9d78a6bcdb4264b01bd710ffafbd2b"
+        },
+        {
+            "question": "Both of his children …………………………… married.",
+            "description": "We use a plural verb after both. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "96c0a749a3d941bbb106de41d29a422f"
+        }
+    ]
+}

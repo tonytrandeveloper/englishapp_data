@@ -1,0 +1,105 @@
+{
+    "id": "5abbb35e5ce74495a7b9f59b39e904af",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "………………… Delhi was without electricity last night.",
+            "description": "",
+            "answers": [
+                "Most",
+                "Most of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "16a06608e90349ccbfd2db3334eb65db"
+        },
+        {
+            "question": "………………….. my friends wished me on my birthday.",
+            "description": "",
+            "answers": [
+                "None of",
+                "No of",
+                "No"
+            ],
+            "correct": 0,
+            "id": "3e91eb7d143a4d568e5d51c859a85704"
+        },
+        {
+            "question": "...................... her income come from the estate.",
+            "description": "Before a noun with a determiner (the, my, his, this), both half and half of are possible. ",
+            "answers": [
+                "Half",
+                "Half of",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4c5f9562e20f4c3db3ccc9d4b3b117be"
+        },
+        {
+            "question": "There are trees on …………………. side of the path.",
+            "description": "Before a singular noun, we use 'each'.",
+            "answers": [
+                "each",
+                "each of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "e5bc7554328e46398e578ca688e29430"
+        },
+        {
+            "question": "She had a child holding on to …………………. hand.",
+            "description": "",
+            "answers": [
+                "each",
+                "each of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "4780b0eac593463cbd160b5992fe68da"
+        },
+        {
+            "question": "………………… people agree with me.",
+            "description": "We use 'most' before a noun without a determiner.",
+            "answers": [
+                "Most",
+                "Most of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "1d689453e53244c4a58a9be23f791dd0"
+        },
+        {
+            "question": "Have you got ………………… sugar?",
+            "description": "",
+            "answers": [
+                "any",
+                "any of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d25b12fa19534142a09422bd29ddfb3e"
+        },
+        {
+            "question": "Can I ask ……………….. questions?",
+            "description": "Few has a negative meaning. It means 'almost none'. To mean 'some' we use 'a few'.",
+            "answers": [
+                "few",
+                "a few",
+                "the few"
+            ],
+            "correct": 1,
+            "id": "37ec5ad1de744b558e6383ae22514146"
+        },
+        {
+            "question": "..................... key opens the door.",
+            "description": "We use 'neither' before a noun without a determiner.",
+            "answers": [
+                "Neither",
+                "Neither of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d9a494c5d5aa46c999e74aefab1f61c1"
+        }
+    ]
+}

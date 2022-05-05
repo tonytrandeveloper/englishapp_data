@@ -1,0 +1,131 @@
+{
+    "id": "6fabb1b1e6e746a4ab83412f5e5f08f2",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": ".................................. them have returned.",
+            "description": "Before a pronoun, we use many of.",
+            "answers": [
+                "Many",
+                "Many of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "c5c5219784cf48df85fb6ada11c75cca"
+        },
+        {
+            "question": "I don't have ................................. time.",
+            "description": "We use much before an uncountable noun.",
+            "answers": [
+                "many",
+                "much",
+                "much of"
+            ],
+            "correct": 1,
+            "id": "f60bcebb9e7045aca58b1bcc55cfcd3c"
+        },
+        {
+            "question": "I couldn't answer .................................... the questions.",
+            "description": "We use any of before a noun with an article or another determiner.",
+            "answers": [
+                "any",
+                "any of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "7b249b408be44dc18e6c4c39c7614726"
+        },
+        {
+            "question": "He wasn't there for .................................... the time we spent in his house.",
+            "description": "We use much of before a noun with a determiner. ",
+            "answers": [
+                "much",
+                "much of"
+            ],
+            "correct": 1,
+            "id": "a8fd8edfcf694216b9fa0b0a82624200"
+        },
+        {
+            "question": "This is more .................................... enough.",
+            "description": "We use than after a comparative expression.",
+            "answers": [
+                "than",
+                "then"
+            ],
+            "correct": 0,
+            "id": "e4e35c801430497a8094b143e0103d9e"
+        },
+        {
+            "question": "Do you have any ...................................... about this?",
+            "description": "Information is uncountable in English. ",
+            "answers": [
+                "information",
+                "informations"
+            ],
+            "correct": 0,
+            "id": "a5cf69c85c05481bb905dc0b3bbce8b8"
+        },
+        {
+            "question": ".................................... these papers with you when you go to college.",
+            "description": "",
+            "answers": [
+                "Take",
+                "Bring"
+            ],
+            "correct": 0,
+            "id": "8a769ff7e90243b197ad59c19be8bc10"
+        },
+        {
+            "question": ".......................................... one of these do you want?",
+            "description": "We cannot use what with one.",
+            "answers": [
+                "Which",
+                "What"
+            ],
+            "correct": 0,
+            "id": "c2e33756814043e9b5c44fb655919bc3"
+        },
+        {
+            "question": "How ..................................... does it cost?",
+            "description": "",
+            "answers": [
+                "much",
+                "much of",
+                "many"
+            ],
+            "correct": 0,
+            "id": "e7c0d8da36934dcb8e795b8051be919e"
+        },
+        {
+            "question": "It is ...................................... expensive dress I have ever bought.",
+            "description": "",
+            "answers": [
+                "most",
+                "the most",
+                "the more"
+            ],
+            "correct": 1,
+            "id": "14663e3e06494d6d8563d52a8d2e096d"
+        },
+        {
+            "question": "I haven't seen him ....................................... months.",
+            "description": "Use for with duration.",
+            "answers": [
+                "since",
+                "for"
+            ],
+            "correct": 1,
+            "id": "e657f64cad0348ca97ce5a9361d84f79"
+        },
+        {
+            "question": "I haven't seen her ..................................... May.",
+            "description": "Since is used with the starting point. ",
+            "answers": [
+                "for",
+                "since"
+            ],
+            "correct": 1,
+            "id": "32c16fe4402640bab78edcb8bf1ccb45"
+        }
+    ]
+}

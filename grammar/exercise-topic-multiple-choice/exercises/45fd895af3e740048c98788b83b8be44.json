@@ -1,0 +1,137 @@
+{
+    "id": "45fd895af3e740048c98788b83b8be44",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "…………………….. he is your friend, why doesn’t he talk to you?",
+            "description": "",
+            "answers": [
+                "Whether",
+                "If",
+                "Unless"
+            ],
+            "correct": 1,
+            "id": "569b36822ee849bdbdb7a5adad664205"
+        },
+        {
+            "question": "…………………… it was a hot afternoon, I felt lethargic.",
+            "description": "As shows the reason.",
+            "answers": [
+                "As",
+                "Though",
+                "If"
+            ],
+            "correct": 0,
+            "id": "e87f244625f54f5eb123c42be5b142ee"
+        },
+        {
+            "question": "………………………. he is busy, he finds enough time for his family.",
+            "description": "Though is used to connect two contrasting ideas. ",
+            "answers": [
+                "As",
+                "Though",
+                "If"
+            ],
+            "correct": 1,
+            "id": "035ee9d7a57141799bd2d49d66a64b9c"
+        },
+        {
+            "question": "He will do it ……………………… it is dangerous.",
+            "description": "Even though refers to the past even if refers to the present or future. ",
+            "answers": [
+                "even though",
+                "if",
+                "even if"
+            ],
+            "correct": 2,
+            "id": "00cec70f28c44999a2a26fb240a18c06"
+        },
+        {
+            "question": "She went alone ……………………. it was not safe.",
+            "description": "Either even though or though is possible here. Even though is more emphatic than though.",
+            "answers": [
+                "even though",
+                "even if",
+                "though"
+            ],
+            "correct": 2,
+            "id": "6711559609cb451f94b065e1c9505522"
+        },
+        {
+            "question": "He smiled ……………………… he knew everything.",
+            "description": "Either as if or as though can be used to say what a situation seems like.",
+            "answers": [
+                "as if",
+                "as though",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "47b2850b88f34d0e86ce4b02bbeb1675"
+        },
+        {
+            "question": "We will start …………………….. we hear from them.",
+            "description": "",
+            "answers": [
+                "as long as",
+                "as soon as",
+                "as far as"
+            ],
+            "correct": 1,
+            "id": "8fbd22df4b834ce791a2285754dab42e"
+        },
+        {
+            "question": "I won’t leave ……………………. you give me my money back.",
+            "description": "Unless means the same as if...not...",
+            "answers": [
+                "unless",
+                "if",
+                "as"
+            ],
+            "correct": 0,
+            "id": "e41b30e2a7eb4c14b894676a24606b87"
+        },
+        {
+            "question": "He spent his last years in the village ……………………… he was born.",
+            "description": "Where means the same as in which.",
+            "answers": [
+                "where",
+                "there",
+                "which"
+            ],
+            "correct": 0,
+            "id": "07163fbc5e9d48bf93e8a3be3cafcb95"
+        },
+        {
+            "question": "……………………….. he is a popular actor, his acting skills are questionable.",
+            "description": "Though is used to connect two contrasting ideas.",
+            "answers": [
+                "As",
+                "If",
+                "Though"
+            ],
+            "correct": 2,
+            "id": "f5835b1cd37d4982a547438c441ae1a3"
+        },
+        {
+            "question": "He neither rose from his seat ……………………. looked at me.",
+            "description": "",
+            "answers": [
+                "or",
+                "nor"
+            ],
+            "correct": 1,
+            "id": "702609f6fa244ecb85bb562ebc4ef490"
+        },
+        {
+            "question": "She sounded ………………………. she was anxious.",
+            "description": "",
+            "answers": [
+                "as if",
+                "though",
+                "if"
+            ],
+            "correct": 0,
+            "id": "0bd3bababc954ba59e018aa9f9b61542"
+        }
+    ]
+}

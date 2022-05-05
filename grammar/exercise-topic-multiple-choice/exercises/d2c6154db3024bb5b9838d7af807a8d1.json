@@ -1,0 +1,136 @@
+{
+    "id": "d2c6154db3024bb5b9838d7af807a8d1",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "What she said ………………………. not true.",
+            "description": "",
+            "answers": [
+                "are",
+                "is",
+                "has"
+            ],
+            "correct": 1,
+            "id": "a6567e7348974aef86842204190e6f19"
+        },
+        {
+            "question": "Nobody …………………….. there to help him.",
+            "description": "Nobody is followed by a singular verb.",
+            "answers": [
+                "were",
+                "was",
+                "has"
+            ],
+            "correct": 1,
+            "id": "bbffd43bfdb64d84b549b801d9d7d543"
+        },
+        {
+            "question": "Nobody called, …………………………..?",
+            "description": "Nobody is a negative word hence, it is followed by an affirmative tag. ",
+            "answers": [
+                "didn't they",
+                "did they",
+                "had they"
+            ],
+            "correct": 1,
+            "id": "c21d7c6e759c446e82147c2299969544"
+        },
+        {
+            "question": "Everyone of them ………………………….. arrived.",
+            "description": "Use a singular verb after every and everyone. ",
+            "answers": [
+                "has",
+                "have",
+                "are"
+            ],
+            "correct": 0,
+            "id": "c8fc00281fc2437bbe58e4c9f904dacc"
+        },
+        {
+            "question": "That was ………………………….. not the right thing to do.",
+            "description": "",
+            "answers": [
+                "certain",
+                "certainly",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "9e469465cbd94a93ad2b25e0a6cb47c5"
+        },
+        {
+            "question": "……………………………. you did cannot be justified.",
+            "description": "",
+            "answers": [
+                "That",
+                "What",
+                "Which"
+            ],
+            "correct": 1,
+            "id": "fd2d1c0cb9564fe5bd0459ad7bae40d2"
+        },
+        {
+            "question": "The thing …………………………… happened next shocked us.",
+            "description": "As a relative pronoun that can refer to things. ",
+            "answers": [
+                "that",
+                "what",
+                "that which"
+            ],
+            "correct": 0,
+            "id": "f89b8b5a42e24ea5a3b0a2d6138cdb3c"
+        },
+        {
+            "question": "He ………………………………. to the market. He should be here soon.",
+            "description": "The present perfect is used here because he is still in the market. ",
+            "answers": [
+                "went",
+                "has gone",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "50424f1375a34f8f825a4f8041719d1c"
+        },
+        {
+            "question": "The milkman has already …………………………..",
+            "description": "Has been is used to talk about a finished action. The milkman has already been means the milkman came and went. ",
+            "answers": [
+                "been",
+                "come"
+            ],
+            "correct": 0,
+            "id": "448dac04e8134a828e4b008657136da1"
+        },
+        {
+            "question": "Jack London is regarded ………………………….. one of the best American novelists.",
+            "description": "",
+            "answers": [
+                "like",
+                "as",
+                "for"
+            ],
+            "correct": 1,
+            "id": "252fc5557bed488b8f40c3abdcc8ea72"
+        },
+        {
+            "question": "Considered ………………………….. a whole, the movie wasn’t bad.",
+            "description": "",
+            "answers": [
+                "like",
+                "as"
+            ],
+            "correct": 1,
+            "id": "aea70a70f805492eb1acb987d1183ddb"
+        },
+        {
+            "question": "Clever …………………………. she was, she couldn’t solve the puzzle.",
+            "description": "Clever as she was and clever though she was both mean 'though she was clever'.",
+            "answers": [
+                "as",
+                "though",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "1ffb5b9abe2f476f9d2f1915c7146574"
+        }
+    ]
+}

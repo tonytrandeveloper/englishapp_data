@@ -1,0 +1,138 @@
+{
+    "id": "4ae0d0a07bac4b0a9e80e42bbcbcb7f4",
+    "title": "Infinitive With Or Without To",
+    "questions": [
+        {
+            "question": "I would rather ………… alone.",
+            "description": "After modal auxiliary verbs, the infinitive is used without to.",
+            "answers": [
+                "go",
+                "to go",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "6b9c8f1240624026b1171be208bc0ed2"
+        },
+        {
+            "question": "How dare you ………….. me a stupid?",
+            "description": "When dare is used as a modal auxiliary verb, it is followed by an infinitive without to.",
+            "answers": [
+                "call",
+                "to call",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "c4f58b4807874921882394ef4c02a7c5"
+        },
+        {
+            "question": "Need I ……………. any longer?",
+            "description": "When need is used as a modal auxiliary verb, it is followed by an infinitive without to.",
+            "answers": [
+                "wait",
+                "to wait",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "9781e20b63854b2da3ce89e331b22612"
+        },
+        {
+            "question": "You had better ……………. her what she wants.",
+            "description": "The infinitive is used without to after had better.",
+            "answers": [
+                "give",
+                "to give",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "79fc447e2ec141679e292039b2605ad5"
+        },
+        {
+            "question": "My mother does not let me …………….. up late.",
+            "description": "Let is followed by object + infinitive without to.",
+            "answers": [
+                "stay",
+                "to stay",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "00e721284a254f68b424186881fcb9c9"
+        },
+        {
+            "question": "They made him …………….. the place.",
+            "description": "Make is followed by object + infinitive without to.",
+            "answers": [
+                "leave",
+                "to leave",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "417765213f764521a932ca02730cadcf"
+        },
+        {
+            "question": "I saw him ……………… in.",
+            "description": "See is followed by object + infinitive without to.",
+            "answers": [
+                "come",
+                "to come",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "cfa5b7ccdd7b423888d20fbc48ac9d7e"
+        },
+        {
+            "question": "She was heard ……………… that she was disappointed.",
+            "description": "In passive structures with hear, the infinitive is used with to.",
+            "answers": [
+                "say",
+                "to say",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e9bbbed8ea4b400e83b7bb65ce3961dc"
+        },
+        {
+            "question": "I was made …………….",
+            "description": "In passive structures with make, the infinitive is used with to.",
+            "answers": [
+                "apologize",
+                "to apologize",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "8d877db0544047638e6750c7012d152a"
+        },
+        {
+            "question": "We heard him ……………. that he was quitting.",
+            "description": "Hear is followed by object + infinitive without to.",
+            "answers": [
+                "say",
+                "to say",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "a1b19713a057441cb1dad175a395fd42"
+        },
+        {
+            "question": "Did you feel the earth …………….?",
+            "description": "Feel is followed by object + infinitive without to.",
+            "answers": [
+                "move",
+                "to move",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "61172d6bff58421797fa3d6235ce3d4a"
+        },
+        {
+            "question": "The doctor advised me ……………. smoking.",
+            "description": "Advise is followed by object + infinitive with to.",
+            "answers": [
+                "quit",
+                "to quit",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "38c64d06915a4c749410f2cf1b84d368"
+        }
+    ]
+}

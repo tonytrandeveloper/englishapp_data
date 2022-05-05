@@ -1,0 +1,136 @@
+{
+    "id": "ee3069e3f9594fd0a62eec5f5dd36e0c",
+    "title": "Make, Force, Allow, Let",
+    "questions": [
+        {
+            "question": "They ...................................... me wait outside.",
+            "description": "Made is followed by an infinitive without to.",
+            "answers": [
+                "made",
+                "forced",
+                "allowed"
+            ],
+            "correct": 0,
+            "id": "7e6d7d0104c44b00a5637f434f3d87ca"
+        },
+        {
+            "question": "He ..................................... me to sign the papers.",
+            "description": "Forced is followed by an infinitive with to.",
+            "answers": [
+                "forced",
+                "made",
+                "allowed"
+            ],
+            "correct": 0,
+            "id": "082a943fe5544f6da15e009ef1ac3927"
+        },
+        {
+            "question": "I was not ...................................... to visit him.",
+            "description": "Allowed is followed by a to-infinitive. ",
+            "answers": [
+                "allowed",
+                "let"
+            ],
+            "correct": 0,
+            "id": "236892ac17e24c27917791f21dc2b70a"
+        },
+        {
+            "question": "He .......................................... me to accept the offer.",
+            "description": "Force is followed by an infinitive with to.",
+            "answers": [
+                "made",
+                "forced",
+                "let"
+            ],
+            "correct": 1,
+            "id": "92cdf914584e4a72a6e6d8f5e5766beb"
+        },
+        {
+            "question": "You are not ....................................... to smoke in public places.",
+            "description": "",
+            "answers": [
+                "allowed",
+                "made",
+                "let"
+            ],
+            "correct": 0,
+            "id": "d6ac568f99644d23ae3db7a2a8bac784"
+        },
+        {
+            "question": "Will they .................................... us to wait here?",
+            "description": "",
+            "answers": [
+                "allow",
+                "let",
+                "make"
+            ],
+            "correct": 0,
+            "id": "1b1b2c332c054719815d1019140dc488"
+        },
+        {
+            "question": "Please ...................................... them come in.",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "allow",
+                "let",
+                "force"
+            ],
+            "correct": 1,
+            "id": "f927cd0ecf0347b7929665cdb180fbcd"
+        },
+        {
+            "question": "I was ....................................... to apologize for his mistakes.",
+            "description": "Either made or forced is possible here.",
+            "answers": [
+                "made",
+                "forced",
+                "allowed"
+            ],
+            "correct": 1,
+            "id": "63d3ed703047426b9f4cf8b96455abf7"
+        },
+        {
+            "question": "She was ............................................... to retract her statements.",
+            "description": "",
+            "answers": [
+                "made",
+                "allowed",
+                "forced"
+            ],
+            "correct": 2,
+            "id": "9f89925d511d4e1887c63532c7da8e95"
+        },
+        {
+            "question": "We do not .......................................... people to smoke in the kitchen",
+            "description": "",
+            "answers": [
+                "let",
+                "allow",
+                "make"
+            ],
+            "correct": 1,
+            "id": "e293d63a51a440369a1e8a04e1c24987"
+        },
+        {
+            "question": "I found it difficult to ........................................ myself understood.",
+            "description": "",
+            "answers": [
+                "force",
+                "make",
+                "allow"
+            ],
+            "correct": 1,
+            "id": "524de1f16f7f49f79f219924ff2ee8dc"
+        },
+        {
+            "question": "She was ………………………….. to leave work early.",
+            "description": "",
+            "answers": [
+                "allowed",
+                "let"
+            ],
+            "correct": 0,
+            "id": "febe4b481ed844239212210c910d028c"
+        }
+    ]
+}

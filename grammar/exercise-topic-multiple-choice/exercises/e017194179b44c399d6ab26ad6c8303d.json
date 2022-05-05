@@ -1,0 +1,105 @@
+{
+    "id": "e017194179b44c399d6ab26ad6c8303d",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "We have lived here ............................... 10 years.",
+            "description": "",
+            "answers": [
+                "for",
+                "since",
+                "from"
+            ],
+            "correct": 0,
+            "id": "7022ecb4ad12486493976269c2de9a4b"
+        },
+        {
+            "question": "He was accused ...................................... stealing the policeman’s helmet.",
+            "description": "",
+            "answers": [
+                "with",
+                "from",
+                "of"
+            ],
+            "correct": 2,
+            "id": "901f2cf3aff64a0397ca2a82fa14897e"
+        },
+        {
+            "question": "We .................................... repairing the roof yesterday.",
+            "description": "",
+            "answers": [
+                "finished",
+                "have finished",
+                "had finished"
+            ],
+            "correct": 0,
+            "id": "69827ca4fe6f4f23bc2a50ab2283128d"
+        },
+        {
+            "question": "His father ...................................... 10 years ago.",
+            "description": "",
+            "answers": [
+                "died",
+                "has died",
+                "had died"
+            ],
+            "correct": 0,
+            "id": "b4774043c4534f2aad0ff29cc4e31dd5"
+        },
+        {
+            "question": "You won’t get well unless you ....................................... your medicine.",
+            "description": "",
+            "answers": [
+                "take",
+                "are taking",
+                "will take"
+            ],
+            "correct": 0,
+            "id": "9c4ee9146b1c430f93b75826083679a2"
+        },
+        {
+            "question": "He has been living in this house ................................. five years.",
+            "description": "",
+            "answers": [
+                "since",
+                "from",
+                "for"
+            ],
+            "correct": 2,
+            "id": "be9dead238684e5ba042e49b3e4519e2"
+        },
+        {
+            "question": "We ....................................... English for the past seven years.",
+            "description": "",
+            "answers": [
+                "are learning",
+                "have been learning",
+                "have learned"
+            ],
+            "correct": 1,
+            "id": "5d66e54d5cb245378c8e620c4eb1bdeb"
+        },
+        {
+            "question": "When ...................................... your work yesterday?",
+            "description": "",
+            "answers": [
+                "have you finished",
+                "you finished",
+                "did you finish"
+            ],
+            "correct": 2,
+            "id": "773f550e9f4c483a9254856763948f5b"
+        },
+        {
+            "question": "He ........................................... ill for more than a week.",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 2,
+            "id": "7cc9889535f249caa4ba246f20feb098"
+        }
+    ]
+}

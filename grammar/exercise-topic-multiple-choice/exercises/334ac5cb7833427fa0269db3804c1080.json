@@ -1,0 +1,112 @@
+{
+    "id": "334ac5cb7833427fa0269db3804c1080",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "Give me something to drink, or …………….. I will die of thirst.",
+            "description": "",
+            "answers": [
+                "else",
+                "otherwise"
+            ],
+            "correct": 0,
+            "id": "a027bcc9a66f4e018fddd388e1dab8cc"
+        },
+        {
+            "question": "………………. you are mistaken or I am.",
+            "description": "",
+            "answers": [
+                "Either",
+                "Neither"
+            ],
+            "correct": 0,
+            "id": "9140971a023e42b0bdd4d8ed3b727d8c"
+        },
+        {
+            "question": "He asked …………………. he might have something to eat.",
+            "description": "",
+            "answers": [
+                "weather",
+                "whether",
+                "that"
+            ],
+            "correct": 1,
+            "id": "73ce54606d5f43ac9f6601f869577bae"
+        },
+        {
+            "question": "…………………. you are called, you must come in at once.",
+            "description": "",
+            "answers": [
+                "When",
+                "While"
+            ],
+            "correct": 0,
+            "id": "c185fc1da199427fa3636a3ad44761ef"
+        },
+        {
+            "question": "I cannot give you any money ………………. I have none.",
+            "description": "",
+            "answers": [
+                "so",
+                "that",
+                "for"
+            ],
+            "correct": 2,
+            "id": "3b796c7b3dd04736a6786b202f62712a"
+        },
+        {
+            "question": "You will not succeed ………………. you work harder.",
+            "description": "",
+            "answers": [
+                "if",
+                "unless",
+                "weather"
+            ],
+            "correct": 1,
+            "id": "61501c817ce040f98bb08ff34a20dd83"
+        },
+        {
+            "question": "He fled ………………. he should be killed.",
+            "description": "",
+            "answers": [
+                "that",
+                "lest",
+                "so"
+            ],
+            "correct": 1,
+            "id": "c87fbe0f821a4237acd337bc5c0aae89"
+        },
+        {
+            "question": "We started early ………………… we will not get stuck in the traffic.",
+            "description": "",
+            "answers": [
+                "so that",
+                "such that",
+                "such as"
+            ],
+            "correct": 0,
+            "id": "cfb3f36a438c4413bca3139373c1c022"
+        },
+        {
+            "question": "He deserves to succeed …………….. he works hard.",
+            "description": "",
+            "answers": [
+                "for",
+                "because",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c8b0b732ce42469a9e4586f46be5a713"
+        },
+        {
+            "question": "I hear ………………… your brother is in China.",
+            "description": "",
+            "answers": [
+                "that",
+                "what"
+            ],
+            "correct": 0,
+            "id": "8df26261e0974572891b2a89cfe737ab"
+        }
+    ]
+}

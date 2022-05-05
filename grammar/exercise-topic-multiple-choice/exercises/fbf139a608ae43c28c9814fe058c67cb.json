@@ -1,0 +1,139 @@
+{
+    "id": "fbf139a608ae43c28c9814fe058c67cb",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "A grandparent’s job is easier than ………………………….",
+            "description": "When we make comparisons both nouns should be in the same case. Since the first noun is in the possessive case here, the second noun too should be in the possessive case. We can make a possessive form by adding apostrophe s or with the structure that/those of.",
+            "answers": [
+                "a parent",
+                "a parent's",
+                "that of a parent"
+            ],
+            "correct": 2,
+            "id": "06d5a7a0ac924f9db11c6f0f5ea4db68"
+        },
+        {
+            "question": "Take your coat and pass me …………………………...",
+            "description": "We cannot use one immediately after my.",
+            "answers": [
+                "mine",
+                "my one",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "28a705c792d248db86e4fc68a5728d9c"
+        },
+        {
+            "question": "Do you think Trollope’s novels are more entertaining than ……………………………..?",
+            "description": "‘Those of Dickens’ itself is a possessive term. ",
+            "answers": [
+                "Dickens",
+                "those of Dickens",
+                "those of Dickens'"
+            ],
+            "correct": 1,
+            "id": "8986ea0dd2294781a090ae7f817a27d6"
+        },
+        {
+            "question": "…………………………. you have passed your test, I will give you a job.",
+            "description": "Once can mean after or as soon as",
+            "answers": [
+                "Once",
+                "After",
+                "As soon as",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "31b6b559b3e14aafa22bc005d0380b12"
+        },
+        {
+            "question": "We can go for a walk ……………………………. the rain has stopped.",
+            "description": "We cannot use that after once.",
+            "answers": [
+                "once",
+                "once that",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "67cd22d54697447a8ec7b41a8805de36"
+        },
+        {
+            "question": "Not only …………………………. clothing, but they are also short of medicine.",
+            "description": "When not only comes at the beginning, it is followed by an inverted word order. That means the auxiliary goes before the subject.",
+            "answers": [
+                "they need",
+                "do they need",
+                "they needs"
+            ],
+            "correct": 1,
+            "id": "6c332d33bd7c41b283953bc04d5ac2f5"
+        },
+        {
+            "question": "I haven’t bought you ……………………….",
+            "description": "We do not normally use something in negative clauses.",
+            "answers": [
+                "something",
+                "anything",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "12c69b3dfc394504ab9f1a2756dd38aa"
+        },
+        {
+            "question": "………………………….., he failed the test.",
+            "description": "We use not to make a clause negative.",
+            "answers": [
+                "Not surprisingly",
+                "No surprisingly",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "c6d19c0310dd4893be92e54670be8236"
+        },
+        {
+            "question": "Call me when you arrive ……………………………. late it is.",
+            "description": "No matter how means the same as however.",
+            "answers": [
+                "no matter how",
+                "however",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "55471ec383a24549a21ac897e51df110"
+        },
+        {
+            "question": "…………………………… you say, I won’t believe you.",
+            "description": "No matter what means the same as whatever.",
+            "answers": [
+                "No matter",
+                "No matter what",
+                "Whatever"
+            ],
+            "correct": 2,
+            "id": "a52d0f8a93b843ae8cee1cca495bfd4a"
+        },
+        {
+            "question": "I …………………………….. support the congress party.",
+            "description": "We do not use no more to mean that an action or situation has stopped.",
+            "answers": [
+                "no more",
+                "no longer",
+                "not longer"
+            ],
+            "correct": 1,
+            "id": "b9b7324671524c998694ee38478bf15f"
+        },
+        {
+            "question": "…………………………. helped me when I was in trouble.",
+            "description": "No one means not any one. ",
+            "answers": [
+                "No one",
+                "Not one",
+                "No one of"
+            ],
+            "correct": 0,
+            "id": "683748b24bd0458eb08ea160464c0baf"
+        }
+    ]
+}

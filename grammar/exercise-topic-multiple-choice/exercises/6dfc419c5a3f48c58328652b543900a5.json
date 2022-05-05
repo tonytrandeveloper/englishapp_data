@@ -1,0 +1,127 @@
+{
+    "id": "6dfc419c5a3f48c58328652b543900a5",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "People ran for shelter, ………………… the storm broke out.",
+            "description": "",
+            "answers": [
+                "as",
+                "when",
+                "while"
+            ],
+            "correct": 1,
+            "id": "47843f9fd30e41c6866c53c3360ceb77"
+        },
+        {
+            "question": "The audience left the hall ……………… the performance was over. (time)",
+            "description": "",
+            "answers": [
+                "as",
+                "when",
+                "while"
+            ],
+            "correct": 1,
+            "id": "9345632554d84f4fa6a7b28bed6da18e"
+        },
+        {
+            "question": "Go ………………… you like. (place)",
+            "description": "",
+            "answers": [
+                "as",
+                "where",
+                "when"
+            ],
+            "correct": 1,
+            "id": "523fd52b479d4323ac0568996a02090b"
+        },
+        {
+            "question": "The accident occurred ……………….. the four roads meet. (place)",
+            "description": "",
+            "answers": [
+                "where",
+                "when",
+                "which"
+            ],
+            "correct": 0,
+            "id": "0f82e42e1e3e4c4e9f4f310a52a15ab8"
+        },
+        {
+            "question": "The train cannot start …………………. the signal is given.",
+            "description": "",
+            "answers": [
+                "when",
+                "before",
+                "after"
+            ],
+            "correct": 1,
+            "id": "66d32a664606434387f71ed95538fa25"
+        },
+        {
+            "question": "His wife fainted ………………….. she heard the news. (time)",
+            "description": "",
+            "answers": [
+                "when",
+                "where",
+                "as"
+            ],
+            "correct": 0,
+            "id": "b54612887324485ca61e6731d225beff"
+        },
+        {
+            "question": "We eat ………………… we may live.",
+            "description": "",
+            "answers": [
+                "for",
+                "that",
+                "so"
+            ],
+            "correct": 1,
+            "id": "e910cc6e971241168cf1c4c62f132478"
+        },
+        {
+            "question": "He wore a coat ………………… he may not catch cold.",
+            "description": "",
+            "answers": [
+                "so that",
+                "in order that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c1718d6c6fbe4647bcc560e30a920ebe"
+        },
+        {
+            "question": "…………………. I finish this book, I will begin another.",
+            "description": "",
+            "answers": [
+                "No sooner than",
+                "As soon as",
+                "Scarcely had"
+            ],
+            "correct": 1,
+            "id": "3f64f04f5c18488c9bf78b1facea9239"
+        },
+        {
+            "question": "I wouldn’t do it ………………… it were possible.",
+            "description": "",
+            "answers": [
+                "if",
+                "even if",
+                "even though"
+            ],
+            "correct": 1,
+            "id": "4a1b0581a3904ffe8627067c7644fa5c"
+        },
+        {
+            "question": "He looks ………………… he were on the brink of a nervous breakdown.",
+            "description": "",
+            "answers": [
+                "As",
+                "As if",
+                "As though"
+            ],
+            "correct": 2,
+            "id": "e6c4a7dc4a454fa5bf3c416856e65d60"
+        }
+    ]
+}

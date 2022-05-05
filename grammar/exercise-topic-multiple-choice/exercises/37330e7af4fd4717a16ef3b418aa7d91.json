@@ -1,0 +1,138 @@
+{
+    "id": "37330e7af4fd4717a16ef3b418aa7d91",
+    "title": "Relative Pronouns Which, Where, And What",
+    "questions": [
+        {
+            "question": "This is the house .......................... I was born.",
+            "description": "Where can mean 'in which' or 'at which'.",
+            "answers": [
+                "where",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "14790b71104643a29a7006d21fffe8f5"
+        },
+        {
+            "question": "This is the town ....................... I spent my childhood.",
+            "description": "Where can mean 'in which'.",
+            "answers": [
+                "where",
+                "which"
+            ],
+            "correct": 0,
+            "id": "780c462fd9d4484f9322293257afd2c4"
+        },
+        {
+            "question": "This is the town .............................. I spent my childhood.",
+            "description": "Where can mean in which. Therefore, the first and the third options are possible here. ",
+            "answers": [
+                "where",
+                "which",
+                "in which"
+            ],
+            "correct": 2,
+            "id": "1cf59be1134e47fca1e9ffb2d1ee34a3"
+        },
+        {
+            "question": "Do you know a shop ............................ I can find sports shoes?",
+            "description": "Where can mean at which",
+            "answers": [
+                "where",
+                "which",
+                "at which"
+            ],
+            "correct": 2,
+            "id": "3f0f4f7264fc4daa8d2544448e705ddd"
+        },
+        {
+            "question": "She got married again a few months later, ........................ surprised everybody.",
+            "description": "Which can refer to the whole of a previous clause.",
+            "answers": [
+                "which",
+                "what",
+                "that"
+            ],
+            "correct": 0,
+            "id": "b5183af55000479a8f9159621179b504"
+        },
+        {
+            "question": "I was impressed by the way ............................. she did it.",
+            "description": "",
+            "answers": [
+                "which",
+                "in which",
+                "what",
+                "that"
+            ],
+            "correct": 1,
+            "id": "af96ce069b84486ca559f83edb6be914"
+        },
+        {
+            "question": "We have got everything ............................ you ordered.",
+            "description": "What means 'the things which'. It cannot be used as an ordinary relative pronoun after a noun or pronoun.",
+            "answers": [
+                "what",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "8ea29d8207eb42958aaf16462844399e"
+        },
+        {
+            "question": "This is the school ......................... I studied.",
+            "description": "Where can mean in which.",
+            "answers": [
+                "which",
+                "in which",
+                "where"
+            ],
+            "correct": 2,
+            "id": "5bfb93730ca94741bcc80815855868e0"
+        },
+        {
+            "question": "She may be late ............................ case we ought to wait for her.",
+            "description": "",
+            "answers": [
+                "which",
+                "in which",
+                "in what"
+            ],
+            "correct": 1,
+            "id": "33b86f1042eb4270a3d6aeb0e3df8aa3"
+        },
+        {
+            "question": "We moved to the country so that the kids would have a garden .........................",
+            "description": "Both options are possible here. The relative pronoun is dropped in an informal style and it is more common to use infinitive + preposition.",
+            "answers": [
+                "in which to play",
+                "to play in",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "77e3cdba845c4bba8d16b2b832d37b85"
+        },
+        {
+            "question": "This is the room .............................",
+            "description": "The structure with 'that' is common in an informal style. ",
+            "answers": [
+                "in which I was born",
+                "that I was born in",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "bf30755c7e844aefbe34920b4dc83e8c"
+        },
+        {
+            "question": "The idea ......................... she put forward was interesting.",
+            "description": "",
+            "answers": [
+                "which",
+                "what",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "020654da9f254df3b5d5abf085090346"
+        }
+    ]
+}

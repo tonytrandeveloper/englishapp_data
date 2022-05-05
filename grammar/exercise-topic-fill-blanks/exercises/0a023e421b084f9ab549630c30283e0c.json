@@ -1,0 +1,291 @@
+{
+    "id": "0a023e421b084f9ab549630c30283e0c",
+    "title": "Indirect Questions Exercise 2 (Past Simple Tense)",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did she go out last night?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know if she went out last night?"
+                    ]
+                }
+            ],
+            "id": "a6091866026b447f8e28cc4159bc4387"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where did she meet her brother?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know where she met her brother?"
+                    ]
+                }
+            ],
+            "id": "4f2a21e058ad4e6087628a6cb546d7c9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How was the film?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know how the film was?"
+                    ]
+                }
+            ],
+            "id": "4ed26932bbe34ba6aaf64a3a1c8da52d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Was David the first to arrive?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know if David was the first to arrive?"
+                    ]
+                }
+            ],
+            "id": "b4c805932d774390ac63a31dfe0a102b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did Lucy work at home yesterday?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know if Lucy worked at home yesterday?"
+                    ]
+                }
+            ],
+            "id": "feffabd6bc2a4a20ba36d204a8ea67a2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What was the problem?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know what the problem was?"
+                    ]
+                }
+            ],
+            "id": "ac208346c6e14f0085b594def49c8b41"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who did we see at the party?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know who we saw at the party?"
+                    ]
+                }
+            ],
+            "id": "ae24fa9c4e8148c0868bb397fd913596"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did Zac call his mum yesterday?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know if Zac called his mum yesterday?"
+                    ]
+                }
+            ],
+            "id": "a8fd4d9ad7fe4b8b8f10b446a18f054e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Were they at the beach?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know if they were at the beach?"
+                    ]
+                }
+            ],
+            "id": "39a6f831b7ae49a99eed9e4b7c835cd4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where was the class?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know where the class was?"
+                    ]
+                }
+            ],
+            "id": "828210104dae4fa48d505dd5bca2d4bb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why did they arrive so late?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know why they arrived so late?"
+                    ]
+                }
+            ],
+            "id": "09773f24c6cb47cbb796c7d5f407c254"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Was she at home yesterday?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know if she was at home yesterday?"
+                    ]
+                }
+            ],
+            "id": "60839b66eaa040068a6bbe14e9837dda"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How did she do it?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know how she did it?"
+                    ]
+                }
+            ],
+            "id": "c2ee1b7d0b6e4008ba53ae77afc1accf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Were they in the garden?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know if they were in the garden?"
+                    ]
+                }
+            ],
+            "id": "e97f7733c872432c8620e70597e957c2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did they arrive late?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know if they arrived late?"
+                    ]
+                }
+            ],
+            "id": "106ab1a7588646c0b74de4aa2e8c2304"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did John finish the report?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know if John finished the report?"
+                    ]
+                }
+            ],
+            "id": "644b625ef2904ba6bcce0730b21a34d3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Were we late for the meeting?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know if we were late for the meeting?"
+                    ]
+                }
+            ],
+            "id": "bd0b79278c064c38a5b43ed3cc426b62"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What did they do at the weekend?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know what they did at the weekend?"
+                    ]
+                }
+            ],
+            "id": "7311f8709c7443afafece2f8115e3c2c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why was she so early?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you know why she was so early?"
+                    ]
+                }
+            ],
+            "id": "ebc8c1388de64b15a31112a3647bc24c"
+        }
+    ]
+}

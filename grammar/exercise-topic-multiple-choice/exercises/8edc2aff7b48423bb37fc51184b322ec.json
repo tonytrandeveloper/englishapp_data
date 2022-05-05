@@ -1,0 +1,116 @@
+{
+    "id": "8edc2aff7b48423bb37fc51184b322ec",
+    "title": "Degrees of Comparison Exercise",
+    "questions": [
+        {
+            "question": "I am the ……………….. student in my class.",
+            "description": "",
+            "answers": [
+                "youngest",
+                "younger",
+                "young"
+            ],
+            "correct": 0,
+            "id": "cae734d1c22b4703b2dcba774cbf7e01"
+        },
+        {
+            "question": "This has been the …………….. summer we have ever had.",
+            "description": "",
+            "answers": [
+                "bad",
+                "worse",
+                "worst"
+            ],
+            "correct": 2,
+            "id": "6a7dba2d8f3646188fc8e41c14379ed6"
+        },
+        {
+            "question": "Rani is a ……………….. girl.",
+            "description": "",
+            "answers": [
+                "pretty",
+                "prettier",
+                "prettiest"
+            ],
+            "correct": 0,
+            "id": "c962a21d775c49b189dc08b3e98ee6d7"
+        },
+        {
+            "question": "At one time, the Empire State building was the ……………….. building in the world.",
+            "description": "",
+            "answers": [
+                "tall",
+                "taller",
+                "tallest"
+            ],
+            "correct": 2,
+            "id": "c2a0f9b6b23d4800917f8bf406aeb807"
+        },
+        {
+            "question": "China is ………………. than India.",
+            "description": "",
+            "answers": [
+                "large",
+                "larger",
+                "largest"
+            ],
+            "correct": 1,
+            "id": "47a81f4da3644f8d9cb8c3418a8f2651"
+        },
+        {
+            "question": "Diamond is …………….. than steel.",
+            "description": "",
+            "answers": [
+                "hard",
+                "harder",
+                "hardest"
+            ],
+            "correct": 1,
+            "id": "79e51ae951874819a65b3e8daef3c343"
+        },
+        {
+            "question": "The pen is ……………… than the sword.",
+            "description": "",
+            "answers": [
+                "mighty",
+                "mightier",
+                "mightiest"
+            ],
+            "correct": 1,
+            "id": "bbf9223f412e4d1e8f9e1197d36bc159"
+        },
+        {
+            "question": "The Taj Mahal is one of the ………………… buildings in the world.",
+            "description": "",
+            "answers": [
+                "more beautiful",
+                "most beautiful",
+                "beautifulest"
+            ],
+            "correct": 1,
+            "id": "4219d2674254450bb7e7b912f5983197"
+        },
+        {
+            "question": "An honest man is the ..................... work of God.",
+            "description": "",
+            "answers": [
+                "noble",
+                "nobler",
+                "noblest"
+            ],
+            "correct": 2,
+            "id": "effde27921554a4d9e17036d1d7b3431"
+        },
+        {
+            "question": "Patience is a ………………. virtue.",
+            "description": "",
+            "answers": [
+                "great",
+                "greater",
+                "greatest"
+            ],
+            "correct": 0,
+            "id": "fcee4eaaf0454e7c999dd1b2567e5491"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "id": "7d9aa915b38447a5a25c46a0d272bbee",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "I want to know ............................... she is angry with me.",
+            "description": "",
+            "answers": [
+                "why",
+                "that"
+            ],
+            "correct": 0,
+            "id": "dcfcb0fd50864dc9aa0b630e0d3d0ab7"
+        },
+        {
+            "question": "If he had asked me, I .................................... him.",
+            "description": "",
+            "answers": [
+                "would help",
+                "would have helped",
+                "will help"
+            ],
+            "correct": 1,
+            "id": "ff219b8826934cf890f8d576adf7860f"
+        },
+        {
+            "question": "She would have come if you ................................... her.",
+            "description": "",
+            "answers": [
+                "invited",
+                "had invited",
+                "invite"
+            ],
+            "correct": 1,
+            "id": "01515194388a4d51a78c4f157ca0c7e8"
+        },
+        {
+            "question": "We are looking forward .................................... from you.",
+            "description": "",
+            "answers": [
+                "to hear",
+                "to hearing"
+            ],
+            "correct": 1,
+            "id": "76039aeb376c45b1aef5119f604cfbf1"
+        },
+        {
+            "question": "No sooner did we hear the gunshots than we .................................. to the camp.",
+            "description": "",
+            "answers": [
+                "rushed",
+                "rush",
+                "have rushed"
+            ],
+            "correct": 0,
+            "id": "dcf2f2f6bac84197bbb2dc6e03df8fab"
+        },
+        {
+            "question": "Would you mind ........................................ a bit?",
+            "description": "",
+            "answers": [
+                "to move",
+                "moving"
+            ],
+            "correct": 1,
+            "id": "eb17351d64814d57ac597d46f0f58d6a"
+        },
+        {
+            "question": "She is very fond ...................................... her grandchildren.",
+            "description": "",
+            "answers": [
+                "of",
+                "with",
+                "off"
+            ],
+            "correct": 0,
+            "id": "3a14995b1c8043d298e23c51d922256c"
+        },
+        {
+            "question": "He enjoys ..................................... in the sea.",
+            "description": "",
+            "answers": [
+                "swimming",
+                "to swim"
+            ],
+            "correct": 0,
+            "id": "e74f3b39604d40ed94ec0c1c9402a593"
+        },
+        {
+            "question": "She accused me ........................................... her dog.",
+            "description": "",
+            "answers": [
+                "to poison",
+                "for poisoning",
+                "of poisoning"
+            ],
+            "correct": 2,
+            "id": "7dabe97ee8bd426b86ece20bc54929b2"
+        },
+        {
+            "question": "She is very confident …………………..",
+            "description": "",
+            "answers": [
+                "to win",
+                "of winning",
+                "about winning"
+            ],
+            "correct": 1,
+            "id": "985c0bbfd18c4d55bc110401ac5e738b"
+        }
+    ]
+}

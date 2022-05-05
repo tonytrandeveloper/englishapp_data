@@ -1,0 +1,107 @@
+{
+    "id": "7afc6963d1664aaf84f587d53672fa3f",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "Your sister is ………………… nuisance.",
+            "description": "",
+            "answers": [
+                "quite",
+                "quite a"
+            ],
+            "correct": 1,
+            "id": "919e028b3ce1489e8653acf5fde713d6"
+        },
+        {
+            "question": "She was …………………. annoyed to find him in her room.",
+            "description": "",
+            "answers": [
+                "very",
+                "very much"
+            ],
+            "correct": 1,
+            "id": "54e2f1dbeab048e2ab41b9a0bd0b1904"
+        },
+        {
+            "question": "It is ……………… cold.",
+            "description": "",
+            "answers": [
+                "too",
+                "too much"
+            ],
+            "correct": 0,
+            "id": "39c6ef12e7d64d1bb664b590723f9f1b"
+        },
+        {
+            "question": "It is very cold – you ……………….. take a coat.",
+            "description": "",
+            "answers": [
+                "have better",
+                "had better"
+            ],
+            "correct": 1,
+            "id": "b369489d78e9400c86254b90ad5a3537"
+        },
+        {
+            "question": "He is ………………. imaginative.",
+            "description": "",
+            "answers": [
+                "little",
+                "not very"
+            ],
+            "correct": 1,
+            "id": "98313494376d43219071d463f6da3f75"
+        },
+        {
+            "question": "…………………. a painter are you?",
+            "description": "",
+            "answers": [
+                "How much",
+                "How much of"
+            ],
+            "correct": 1,
+            "id": "59ea56ab3e1f493eb947e6d1c2cf9d53"
+        },
+        {
+            "question": "I think she is ………………… a fool.",
+            "description": "",
+            "answers": [
+                "a bit",
+                "a bit of"
+            ],
+            "correct": 1,
+            "id": "0adde1b59e024422bec07839c3cd5a9e"
+        },
+        {
+            "question": "It was ………………… informal get-together than a meeting.",
+            "description": "",
+            "answers": [
+                "more a",
+                "more of",
+                "more of an"
+            ],
+            "correct": 2,
+            "id": "9af8bf78d0cc4af4a4464a9d26d8aca6"
+        },
+        {
+            "question": "You have been ………………..!",
+            "description": "",
+            "answers": [
+                "such help",
+                "such a help!"
+            ],
+            "correct": 1,
+            "id": "85581a1f4f194c1c9325b79bd1ea5f59"
+        },
+        {
+            "question": "Stop talking ………………….",
+            "description": "",
+            "answers": [
+                "such nonsense",
+                "such a nonsense"
+            ],
+            "correct": 0,
+            "id": "240ef5f3211345028a7b18bd9e212705"
+        }
+    ]
+}

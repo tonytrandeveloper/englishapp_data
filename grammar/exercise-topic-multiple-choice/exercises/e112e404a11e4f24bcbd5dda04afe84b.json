@@ -1,0 +1,138 @@
+{
+    "id": "e112e404a11e4f24bcbd5dda04afe84b",
+    "title": "Active And Passive Voice",
+    "questions": [
+        {
+            "question": "They eat apples. Apples ………………….. by them.",
+            "description": "In the simple present tense, we make passive verb forms by putting is/am/are before the past participle form of the verb.",
+            "answers": [
+                "eat",
+                "are eaten",
+                "have eaten"
+            ],
+            "correct": 1,
+            "id": "d586d0e3e2994aa6a172c2f0e169a2ea"
+        },
+        {
+            "question": "I wrote a letter. A letter ………………… by me.",
+            "description": "In the simple past tense, we make passive verb forms by putting was/were before the past participle form of the verb. ",
+            "answers": [
+                "is written",
+                "has written",
+                "was written"
+            ],
+            "correct": 2,
+            "id": "5daab5f4f4b5436491eb6dfa3c9114b2"
+        },
+        {
+            "question": "He is writing a poem. A poem ……………………….. by him.",
+            "description": "In the present continuous, the verb has the form: is / am/are + being + past participle. ",
+            "answers": [
+                "is written",
+                "is being written",
+                "has been written"
+            ],
+            "correct": 1,
+            "id": "bb4f8de0c0484021af795ea0bbad31a8"
+        },
+        {
+            "question": "They were repairing the roof. The roof …………………….. by them.",
+            "description": "In the past continuous, the verb has the form: was / were + being + past participle. ",
+            "answers": [
+                "were repaired",
+                "was repaired",
+                "was being repaired"
+            ],
+            "correct": 2,
+            "id": "e53a195b63454d9c8c9d6d0666330a45"
+        },
+        {
+            "question": "She has bought a new car. A new car …………………….. by her.",
+            "description": "In the present perfect, the verb has the form: has + been + past participle. ",
+            "answers": [
+                "is bought",
+                "has been bought",
+                "was bought"
+            ],
+            "correct": 1,
+            "id": "b7fdbf6c142649a5b5843124fa959d80"
+        },
+        {
+            "question": "I had sent the parcel. The parcel ……………………….. by me.",
+            "description": "In the past perfect, the passive verb has the form: had + been + past participle.",
+            "answers": [
+                "was sent",
+                "had been sent",
+                "has been sent"
+            ],
+            "correct": 1,
+            "id": "b84bf6dda60b427a9be44c784bf25e99"
+        },
+        {
+            "question": "The teacher punished the child. The child …………………. by the teacher.",
+            "description": "In the simple past tense, we make passive verb forms by putting was/were before the past participle form of the verb. ",
+            "answers": [
+                "has punished",
+                "was punished",
+                "had punished"
+            ],
+            "correct": 1,
+            "id": "40f9116bc5fb437aa5dcf835313c3771"
+        },
+        {
+            "question": "I will help him. He …………………… by me.",
+            "description": "In the simple future, the verb has the form: will + be + past participle.",
+            "answers": [
+                "is helped",
+                "will helped",
+                "will be helped"
+            ],
+            "correct": 2,
+            "id": "073a8b08b6b940178c51eb2ac63d299c"
+        },
+        {
+            "question": "He has sold his house. His house ………………………. by him.",
+            "description": "The passive verb in the present perfect has the form: has/have + been + past participle. ",
+            "answers": [
+                "has sold",
+                "has been sold",
+                "was sold"
+            ],
+            "correct": 1,
+            "id": "8186cdb3ec05458185534be447fc46f9"
+        },
+        {
+            "question": "They will have sent the money. The money …………………… by them.",
+            "description": "The passive verb in the future perfect has the form: will + have + been + past participle",
+            "answers": [
+                "will have sent",
+                "will have been sent",
+                "would be sent"
+            ],
+            "correct": 1,
+            "id": "56d63a3de61c448084371c39477eda30"
+        },
+        {
+            "question": "The police are investigating the crime. The crime ……………………. by the police.",
+            "description": "In the present continuous tense, we make passive verb forms by putting is/are/am   + being before the past participle form of the verb. ",
+            "answers": [
+                "is investigated",
+                "is being investigated",
+                "has investigated"
+            ],
+            "correct": 1,
+            "id": "87087e6e44d84320a74c391b126cd4f0"
+        },
+        {
+            "question": "They rescued the child. The child …………………….. by them.",
+            "description": "In the simple past tense, we make passive verb forms by putting was/were before the past participle form of the verb. ",
+            "answers": [
+                "is rescued",
+                "has rescued",
+                "was rescued"
+            ],
+            "correct": 2,
+            "id": "d5cdb845ca314aaea212c2cb66fcb0a3"
+        }
+    ]
+}

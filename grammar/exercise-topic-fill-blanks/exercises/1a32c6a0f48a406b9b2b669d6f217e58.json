@@ -1,0 +1,313 @@
+{
+    "id": "1a32c6a0f48a406b9b2b669d6f217e58",
+    "title": "Embedded Questions in Statements",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where does she live?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know where she lives"
+                    ]
+                }
+            ],
+            "id": "1d9f1720893a42558ad2a2936206f221"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What arrived in the post?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know what arrived in the post"
+                    ]
+                }
+            ],
+            "id": "640de91f67d04d35a9c259fd5b61f2a2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How did they have the idea?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know how they had the idea"
+                    ]
+                }
+            ],
+            "id": "e7b54650461442f5b4384770de7f1b02"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When is she working?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know when she's working",
+                        "I don't know when she is working"
+                    ]
+                }
+            ],
+            "id": "9601397de1f14344bbbe4856cb0c5d94"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why did he leave?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know why he left"
+                    ]
+                }
+            ],
+            "id": "1ac425e1c9ca464596c9250931ee4c9f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Has she eaten?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know if she's eaten",
+                        "I don't know if she has eaten"
+                    ]
+                }
+            ],
+            "id": "caacedfe987d41e99be24988c9d071e6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Have they found a flat?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know if they have found a flat",
+                        "I don't know if they've found a flat"
+                    ]
+                }
+            ],
+            "id": "6ec7e14376254943a48635ae9ae970f2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did the teacher go on the training course?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know if the teacher went on the training course"
+                    ]
+                }
+            ],
+            "id": "b63ba4d184f24842895ed008d3fc1512"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did Julie like school?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know if Julie liked school"
+                    ]
+                }
+            ],
+            "id": "99b66dfe4ecd4dc6964769762d31c599"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Will David get a new job?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know if David will get a new job"
+                    ]
+                }
+            ],
+            "id": "9889aef4fd7a4cf6858e287ce132b7a7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Whose socks are those?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know whose socks those are"
+                    ]
+                }
+            ],
+            "id": "ac9a48e095f844c0b878b700c93722ab"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where is the office?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know where the office is"
+                    ]
+                }
+            ],
+            "id": "fc18219f81fc4c8bac0e6caf9a79adba"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who drinks coffee?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know who drinks coffee"
+                    ]
+                }
+            ],
+            "id": "0d011e47af2d4c979aaa002821ec7476"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How did it happen?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know how it happened"
+                    ]
+                }
+            ],
+            "id": "30ee99be9b734519b6ef5eac29ddfebc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why will she be sleeping at 7pm?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know why she'll be sleeping at 7pm",
+                        "I don't know why she will be sleeping at 7pm"
+                    ]
+                }
+            ],
+            "id": "1e6247416416438e86c3cd55739a33a5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Will I pass the exam?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know if I'll pass the exam",
+                        "I don't know if I will pass the exam"
+                    ]
+                }
+            ],
+            "id": "db50d982f9d843d78e438488d33adc7a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Does Jenny own a car?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know if Jenny owns a car"
+                    ]
+                }
+            ],
+            "id": "52a0ff64f5254bdb94666ea9ea7533b7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Had I had dinner before I met Jack?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know if I'd had dinner before I met Jack",
+                        "I don't know if I had had dinner before I met Jack"
+                    ]
+                }
+            ],
+            "id": "e825ee4de17a470f9e5812c402c94d9a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Is the boss coming today?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know if the boss is coming today"
+                    ]
+                }
+            ],
+            "id": "d0b8264c0145488e984e3845f92dcb0e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Has Amanda got a new job?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't know if Amanda has got a new job",
+                        "I don't know if Amanda's got a new job"
+                    ]
+                }
+            ],
+            "id": "c8178f5c78754273a874360bafa2459d"
+        }
+    ]
+}

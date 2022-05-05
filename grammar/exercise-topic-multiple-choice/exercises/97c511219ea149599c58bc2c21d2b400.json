@@ -1,0 +1,111 @@
+{
+    "id": "97c511219ea149599c58bc2c21d2b400",
+    "title": "Active And Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "Smoking ....................................... on the campus.",
+            "description": "",
+            "answers": [
+                "has forbidden",
+                "has been forbidden"
+            ],
+            "correct": 1,
+            "id": "20e46b1a8494494589a94aa5e78a541e"
+        },
+        {
+            "question": "Students ............................................ to smoke on the campus.",
+            "description": "",
+            "answers": [
+                "have forbidden",
+                "have been forbidden"
+            ],
+            "correct": 1,
+            "id": "d937654c799a4492a7dddadc9b609d9c"
+        },
+        {
+            "question": "Consulting a good doctor ......................................",
+            "description": "",
+            "answers": [
+                "advised",
+                "is advised"
+            ],
+            "correct": 1,
+            "id": "c8607795f95c4bce9ba23c0cb581eb5b"
+        },
+        {
+            "question": "You .......................................... to consult a good doctor.",
+            "description": "",
+            "answers": [
+                "advised",
+                "are advised"
+            ],
+            "correct": 1,
+            "id": "77fd17d6ccd8423898db690b87a4e094"
+        },
+        {
+            "question": "Parking in front of their gate ........................................",
+            "description": "",
+            "answers": [
+                "is allowing",
+                "allowed",
+                "is allowed"
+            ],
+            "correct": 2,
+            "id": "36de146b1e0c4396aab2c0f74e31f62b"
+        },
+        {
+            "question": "People ......................................... to park in front of their gate.",
+            "description": "",
+            "answers": [
+                "are not allowing",
+                "are not allowed",
+                "not allowed"
+            ],
+            "correct": 1,
+            "id": "a023f242a21542359dba005c23ecacbb"
+        },
+        {
+            "question": "Early booking .............................................",
+            "description": "",
+            "answers": [
+                "is advising",
+                "advised",
+                "is advised"
+            ],
+            "correct": 2,
+            "id": "afbd220eddc64570896f32b6e55cb39a"
+        },
+        {
+            "question": "Passengers .......................................... to book their tickets early.",
+            "description": "",
+            "answers": [
+                "advised",
+                "advising",
+                "are advised"
+            ],
+            "correct": 2,
+            "id": "83d76afbfbe24811980059a748efb455"
+        },
+        {
+            "question": "She was made ........................................... the whole story.",
+            "description": "",
+            "answers": [
+                "repeat",
+                "to repeat"
+            ],
+            "correct": 1,
+            "id": "67d265b1f51e46aab0f009088918ca73"
+        },
+        {
+            "question": "Pregnant women .......................................... to go on a diet.",
+            "description": "",
+            "answers": [
+                "not advised",
+                "are not advised",
+                "are not advising"
+            ],
+            "correct": 1,
+            "id": "2422ab0853bd473db1521916b432a514"
+        }
+    ]
+}

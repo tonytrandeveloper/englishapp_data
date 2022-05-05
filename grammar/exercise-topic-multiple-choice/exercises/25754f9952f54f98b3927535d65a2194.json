@@ -1,0 +1,106 @@
+{
+    "id": "25754f9952f54f98b3927535d65a2194",
+    "title": "Enough Exercise",
+    "questions": [
+        {
+            "question": "I didn’t run ………………….. to catch the bus.",
+            "description": "",
+            "answers": [
+                "enough fast",
+                "fast enough"
+            ],
+            "correct": 1,
+            "id": "97ef4a326ab2486e9fc304abf9e4cde0"
+        },
+        {
+            "question": "She is ………………….. to know better.",
+            "description": "",
+            "answers": [
+                "old enough",
+                "enough old"
+            ],
+            "correct": 0,
+            "id": "2d71b32924844513b1eff723b653f2bd"
+        },
+        {
+            "question": "We have bought …………………..",
+            "description": "",
+            "answers": [
+                "milk enough",
+                "enough milk"
+            ],
+            "correct": 1,
+            "id": "d55b6f2fef574a619670598e112a1c10"
+        },
+        {
+            "question": "She was ………………… to lock the car.",
+            "description": "",
+            "answers": [
+                "enough prudent",
+                "prudent enough"
+            ],
+            "correct": 1,
+            "id": "59fa4a7abff74ca2929d13282681316f"
+        },
+        {
+            "question": "He was ………………… to trust her.",
+            "description": "",
+            "answers": [
+                "stupid enough",
+                "enough stupid"
+            ],
+            "correct": 0,
+            "id": "c8d3ba20861a4b308df148b8e876b02e"
+        },
+        {
+            "question": "Is it ………………… for you?",
+            "description": "",
+            "answers": [
+                "enough warm",
+                "warm enough"
+            ],
+            "correct": 1,
+            "id": "def06d86d9e24c9382a3812dfbb16ec9"
+        },
+        {
+            "question": "Have we got ………………… for buying the tickets?",
+            "description": "",
+            "answers": [
+                "money enough",
+                "enough money"
+            ],
+            "correct": 1,
+            "id": "2172631a8a0f4d948b0b8bd1d0639d5c"
+        },
+        {
+            "question": "Many tablet computers are ………………….. to put in your pocket.",
+            "description": "",
+            "answers": [
+                "enough small",
+                "small enough"
+            ],
+            "correct": 1,
+            "id": "1f49922a145f4b41b78b4ba91a7cfb2e"
+        },
+        {
+            "question": "We haven’t got ………………….",
+            "description": "",
+            "answers": [
+                "chairs enough",
+                "enough chairs"
+            ],
+            "correct": 1,
+            "id": "b915fc77b13c4aa98765f2c54f8e0d16"
+        },
+        {
+            "question": "We haven’t got …………………. paint.",
+            "description": "",
+            "answers": [
+                "enough blue",
+                "blue enough"
+            ],
+            "correct": 0,
+            "id": "664b0ff7709f4b0bb87b0f77239d4973"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "id": "9a5f74aa1c0f46cb807cafccc20503c4",
+    "title": "Present Participle Or Adjective",
+    "questions": [
+        {
+            "question": "It might seem surprising but I don’t enjoy cricket.",
+            "description": "",
+            "answers": [
+                "Surprising is an adjective",
+                "Surprising is a present participle"
+            ],
+            "correct": 0,
+            "id": "be600aad4071435281bfad999523b9ba"
+        },
+        {
+            "question": "It is a baffling situation.",
+            "description": "",
+            "answers": [
+                "Baffling is an adjective",
+                "Baffling is a present participle"
+            ],
+            "correct": 0,
+            "id": "075823fe1adb4da8aeeb406f85240404"
+        },
+        {
+            "question": "The movie was very interesting.",
+            "description": "",
+            "answers": [
+                "Interesting is an adjective",
+                "Interesting is a present participle"
+            ],
+            "correct": 0,
+            "id": "d08ee3b939594729b1f0b6288f88d41d"
+        },
+        {
+            "question": "The news was exciting.",
+            "description": "",
+            "answers": [
+                "Exciting is an adjective",
+                "Exciting is a present participle"
+            ],
+            "correct": 0,
+            "id": "7920d3576984438083da4ff52ba28e3d"
+        },
+        {
+            "question": "How long have you been waiting?",
+            "description": "",
+            "answers": [
+                "Waiting is an adjective",
+                "Waiting is a present participle"
+            ],
+            "correct": 1,
+            "id": "9245e93b30dd43b491a2861547021270"
+        },
+        {
+            "question": "The dog is chasing the cat.",
+            "description": "",
+            "answers": [
+                "Chasing is an adjective",
+                "Chasing is a present participle"
+            ],
+            "correct": 1,
+            "id": "1ab0ac4593a248f6b57eaa15f3049539"
+        },
+        {
+            "question": "Barking dogs seldom bite.",
+            "description": "",
+            "answers": [
+                "Barking is an adjective",
+                "Barking is a present participle"
+            ],
+            "correct": 0,
+            "id": "0fbad0441ff24e758b41475993723b0b"
+        },
+        {
+            "question": "Her performance was enthralling.",
+            "description": "",
+            "answers": [
+                "Enthralling is an adjective",
+                "Enthralling is a present participle"
+            ],
+            "correct": 0,
+            "id": "2ba95ded07c94c8d9dce2b51b6c995bc"
+        }
+    ]
+}

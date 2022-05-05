@@ -1,0 +1,113 @@
+{
+    "id": "83cf4ccfe84945d9885495d0bf91bf85",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Jack, ................................. is my friend, is a good boy.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "that"
+            ],
+            "correct": 0,
+            "id": "7159db1029be4127a470c4e3bf0f7436"
+        },
+        {
+            "question": "Last year we visited Shimla ........................................ is perhaps the best hill station in India.",
+            "description": "",
+            "answers": [
+                "that",
+                "which"
+            ],
+            "correct": 1,
+            "id": "1d20b92766194a6fbaf294fbfcca1e88"
+        },
+        {
+            "question": "This is the house .................................... I purchased from Peter.",
+            "description": "",
+            "answers": [
+                "who",
+                "which",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "c8c975ad980340178adae625f4d9d3cb"
+        },
+        {
+            "question": "We bought some grapes from ................................... we extracted juice.",
+            "description": "",
+            "answers": [
+                "whose",
+                "which"
+            ],
+            "correct": 1,
+            "id": "9e55108657a0443196b0fa6f077a5394"
+        },
+        {
+            "question": "He lent me a mattress on ................................. I slept soundly.",
+            "description": "",
+            "answers": [
+                "which",
+                "what"
+            ],
+            "correct": 0,
+            "id": "84279a12cf8e40c1a536e3eab88a389f"
+        },
+        {
+            "question": "I have a friend .................................... mother works at a bank.",
+            "description": "",
+            "answers": [
+                "who",
+                "whose",
+                "who's"
+            ],
+            "correct": 1,
+            "id": "4306fabfcdab40be97109858b9ebc63e"
+        },
+        {
+            "question": "With ...................................... were you exchanging pleasantries?",
+            "description": "",
+            "answers": [
+                "who",
+                "what",
+                "whom"
+            ],
+            "correct": 2,
+            "id": "253f902422df47d8bc8c00da3e365ac2"
+        },
+        {
+            "question": "We met a traveler .................................... bag was stolen.",
+            "description": "",
+            "answers": [
+                "whom",
+                "whose",
+                "who's"
+            ],
+            "correct": 1,
+            "id": "153f9ebbaa9041439ff52af2c154cf74"
+        },
+        {
+            "question": "Air, ..................................... is present everywhere, is essential for the existence of life.",
+            "description": "",
+            "answers": [
+                "what",
+                "whom",
+                "which"
+            ],
+            "correct": 2,
+            "id": "82ecb549bcec4d2585df13678987b0f5"
+        },
+        {
+            "question": "Please try to understand ................................... I say.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "what"
+            ],
+            "correct": 2,
+            "id": "e771dc96a32f49418838e77e327affb5"
+        }
+    ]
+}

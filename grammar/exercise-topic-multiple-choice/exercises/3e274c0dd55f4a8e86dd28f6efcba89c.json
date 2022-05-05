@@ -1,0 +1,140 @@
+{
+    "id": "3e274c0dd55f4a8e86dd28f6efcba89c",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The meeting was held at a .......................................... hall.",
+            "description": "Meeting indicates presence of a number of people. So, 'spacious' meaning having much space or room is the correct answer. There is nothing in the sentence to indicate that the meeting or place was special. So, option 1 is incorrect.",
+            "answers": [
+                "special",
+                "specious",
+                "spacious"
+            ],
+            "correct": 2,
+            "id": "d4d04aa5d49243c9a6050da20abcf138"
+        },
+        {
+            "question": "That he is very ............................................ is evident from the number of friends he has.",
+            "description": "A social person likes to be around others or enjoys having conversations with others. Social can also describe things that have to do with society in general. \r\nA sociable person is easy for others to get along with. Thus, having friends would indicate that he is liked by others and he is easy to get along with. So, sociable is the correct answer.",
+            "answers": [
+                "social",
+                "sociable",
+                "societal"
+            ],
+            "correct": 1,
+            "id": "89360180b14c4c6dab485a957ae8b1f0"
+        },
+        {
+            "question": "The gangster made a ............................................ attack on the hapless villagers.",
+            "description": "The word 'hapless' which means miserable or unfortunate, rules out options 1 and 2. 'Bold' would have been correct if the villagers had been strong or at par with the 'gangster'. 'Valiant' is a positive word and does not fit with 'gangster'. Thus, option 3 is the correct answer. ",
+            "answers": [
+                "timid",
+                "bold",
+                "cowardly",
+                "valiant"
+            ],
+            "correct": 2,
+            "id": "d9b2344531b0453f80ff233eb35bd96d"
+        },
+        {
+            "question": "He is contesting from the ......................................... constituency of Pune.",
+            "description": "Urban means something that relates to the city, while urbane describes a level of sophistication and elegance that supposedly would be typical of city folks. So, urban is correct.  Option 3 is incorrect because it is a noun and we need an adjective (suburban) here. ",
+            "answers": [
+                "urban",
+                "urbane",
+                "suburb"
+            ],
+            "correct": 0,
+            "id": "f51c064b8b2a44219a0018a531a2fa84"
+        },
+        {
+            "question": "Some medicines are not to be taken ...........................................",
+            "description": "Orally is the correct word here. It means 'by means of or through the mouth'",
+            "answers": [
+                "verbally",
+                "physically",
+                "orally",
+                "vocally"
+            ],
+            "correct": 2,
+            "id": "ab94fe79e620490d8b7eb5ff42e1469f"
+        },
+        {
+            "question": "His speeches are so .............................................. that I don`t like to listen to them.",
+            "description": "The sentence suggests that we need a word to indicate a negative quality in his speeches. Verbose means using or expressed in more words than are needed. It fits here. \r\n",
+            "answers": [
+                "oral",
+                "verbal",
+                "verbose"
+            ],
+            "correct": 2,
+            "id": "cd79138e3a1f46eb942ab83b46c1127c"
+        },
+        {
+            "question": "I don`t trust him so I cannot give you any assurance regarding the ............................................... of his statement.",
+            "description": "Veracity means conformity to truth or fact, so it makes sense here.\r\n",
+            "answers": [
+                "factual",
+                "voracity",
+                "veracity"
+            ],
+            "correct": 2,
+            "id": "093a5d9557d64a2a8bfc0e43a06b9aac"
+        },
+        {
+            "question": "The Georgian forces could not ........................................ the Russian advance.",
+            "description": "Withstand means resist. ",
+            "answers": [
+                "withhold",
+                "withdraw",
+                "withstand"
+            ],
+            "correct": 2,
+            "id": "3d9afcff0f2a481bb920a63950241428"
+        },
+        {
+            "question": "Sita of the epic Ramayana is known for her ....................................... virtues.",
+            "description": "'Womanish' and 'effeminate' are generally used to refer to a man who has or displays qualities considered more suitable for women, whereas womanly is a term of approval and suggests such admirable traits as self-possession, modesty, etc.",
+            "answers": [
+                "womanish",
+                "womanly",
+                "effeminate"
+            ],
+            "correct": 1,
+            "id": "eebe3cafd3944c81bcee720b2cf19fa3"
+        },
+        {
+            "question": "A ......................................... amount of money has already been wasted on this project.",
+            "description": "Considerable means rather large or great in size. It fits with 'amount of money' here. So, it is the correct answer. Considerate means careful (of a person) not to inconvenience or harm others.",
+            "answers": [
+                "considerable",
+                "considerate",
+                "consistent"
+            ],
+            "correct": 0,
+            "id": "ae070740c8e24738bb447205887c91eb"
+        },
+        {
+            "question": "It will not be ......................................... on your part to reject this proposal.",
+            "description": " Judicious means having, exercising, or characterized by good or discriminating judgment. So, it makes sense here. ",
+            "answers": [
+                "judicial",
+                "judicious",
+                "judgmental"
+            ],
+            "correct": 1,
+            "id": "99305b3fabe946229752a3d203db7cc1"
+        },
+        {
+            "question": "An ............................................ man is always known for making clever plans.",
+            "description": "Ingenious means cleverly inventive or resourceful.",
+            "answers": [
+                "ingenuous",
+                "ingenious",
+                "indigenous"
+            ],
+            "correct": 1,
+            "id": "693321fbefd049d0a297c09789a58ec0"
+        }
+    ]
+}

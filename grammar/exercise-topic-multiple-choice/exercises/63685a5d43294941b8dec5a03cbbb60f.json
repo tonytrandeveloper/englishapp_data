@@ -1,0 +1,138 @@
+{
+    "id": "63685a5d43294941b8dec5a03cbbb60f",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "This is the new laptop ……………………… my father bought yesterday.",
+            "description": "In identifying relative clauses, either that or which can be used to refer to things. ",
+            "answers": [
+                "that",
+                "which",
+                "what"
+            ],
+            "correct": 1,
+            "id": "6396364db22345f4b31f14b29a37c03c"
+        },
+        {
+            "question": "The village ……………………….. we live is infested with rats.",
+            "description": "Where can mean in which. ",
+            "answers": [
+                "where",
+                "there",
+                "which"
+            ],
+            "correct": 0,
+            "id": "f9ef4e7cbd3143d7880d7ec08c5f6a03"
+        },
+        {
+            "question": "We live in an old house ………………………….. is infested with rats.",
+            "description": "Either which or that is possible here. ",
+            "answers": [
+                "which",
+                "that",
+                "where"
+            ],
+            "correct": 1,
+            "id": "50588bc41c764bda99e24e62393553b0"
+        },
+        {
+            "question": "The Taj Mahal, ……………………….. is the finest tomb in the world, is built by Shah Jahan.",
+            "description": "We cannot use that in non-identifying relative clauses. ",
+            "answers": [
+                "that",
+                "which",
+                "who"
+            ],
+            "correct": 1,
+            "id": "56780247f2b245c98fb01610b71772b9"
+        },
+        {
+            "question": "Pinki, ………………………. father is a native of Mumbai, speaks both Hindi and Marathi fluently.",
+            "description": "Whose replaces pronouns like his, her or their. ",
+            "answers": [
+                "whom",
+                "whose",
+                "who's"
+            ],
+            "correct": 1,
+            "id": "875aa50993c74bd78d9315145415493c"
+        },
+        {
+            "question": "This is my brother …………………………. you met yesterday.",
+            "description": "Who is also possible here in a less careful style. ",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 1,
+            "id": "88d2d0ab0b984b0f8ab5a2c409e42801"
+        },
+        {
+            "question": "Twinkle, ………………………… I want to meet, is my cousin.",
+            "description": "",
+            "answers": [
+                "that",
+                "whom",
+                "which"
+            ],
+            "correct": 1,
+            "id": "d6acd7f4fe1d4f1fbefb966c4d2cebfc"
+        },
+        {
+            "question": "His sister knows the place ………………………… he keeps his money.",
+            "description": "Where can mean at which.",
+            "answers": [
+                "where",
+                "which",
+                "there"
+            ],
+            "correct": 0,
+            "id": "bfa7e1a101894fb28b4006437f3fded4"
+        },
+        {
+            "question": "The school ……………………….. my brother worked for five years is the only school on the island.",
+            "description": "",
+            "answers": [
+                "where",
+                "there",
+                "which"
+            ],
+            "correct": 0,
+            "id": "0e3ad44d13e04a6897c6aaf3d8de77b4"
+        },
+        {
+            "question": "Napoleon, ……………………….. the French honor, died at St. Helena.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "that"
+            ],
+            "correct": 1,
+            "id": "2f7f2d2b3fbc418fabe8303d10b7140b"
+        },
+        {
+            "question": "The boy ………………………….. was not paying attention in the class was reprimanded by the teacher.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "c6cdd3f1d3734006a2a0ad1abb1c83b0"
+        },
+        {
+            "question": "The man ………………………… lives next door is very friendly.",
+            "description": "When the relative pronoun is the subject of the relative clause, we use who, not whom. ",
+            "answers": [
+                "who",
+                "whom",
+                "that"
+            ],
+            "correct": 0,
+            "id": "06ef5cbd4db141ca9065bd6e7b416b9b"
+        }
+    ]
+}

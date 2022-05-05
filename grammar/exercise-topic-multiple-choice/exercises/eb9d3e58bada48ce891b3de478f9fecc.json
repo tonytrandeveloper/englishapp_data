@@ -1,0 +1,137 @@
+{
+    "id": "eb9d3e58bada48ce891b3de478f9fecc",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "That boy does nothing but ……………………… TV.",
+            "description": "The verb after but usually depends on what came before.",
+            "answers": [
+                "watch",
+                "to watch",
+                "watching"
+            ],
+            "correct": 0,
+            "id": "5ac3cbbc54cd41c3951416e87287b977"
+        },
+        {
+            "question": "I can’t help but …………………. what he is going to do now.",
+            "description": "Can’t help but is followed by an infinitive without to.",
+            "answers": [
+                "wonder",
+                "wondering",
+                "to wonder"
+            ],
+            "correct": 0,
+            "id": "d89adda1a49e4fa49cf348a1f7926a6d"
+        },
+        {
+            "question": "She ……………………… believe her eyes.",
+            "description": "Could hardly is similar to couldn’t.",
+            "answers": [
+                "could hardly",
+                "couldn't hardly"
+            ],
+            "correct": 0,
+            "id": "934f35fb704c4edfb27a7908e54cfdb3"
+        },
+        {
+            "question": "She could get a better job if she …………………….. English.",
+            "description": "In the second conditional, we use a simple past in the if-clause and would / could + infinitive in the main clause.",
+            "answers": [
+                "speaks",
+                "spoke",
+                "had spoken"
+            ],
+            "correct": 1,
+            "id": "5d36e09e2e8a4ae6979ad895cabe2160"
+        },
+        {
+            "question": "Tennis ……………………… by two or more players.",
+            "description": "We can use can with a passive infinitive. Be able to is not used in passive structures.",
+            "answers": [
+                "can be played",
+                "is able to be played",
+                "can able to be played"
+            ],
+            "correct": 0,
+            "id": "f5dbbc9a41d947da9b235cd6f39b5ab1"
+        },
+        {
+            "question": "It could rain ……………………. this evening.",
+            "description": "Later is the opposite of earlier.",
+            "answers": [
+                "later",
+                "latter",
+                "late"
+            ],
+            "correct": 0,
+            "id": "21189437e56e4730b1963fc5e047d8b8"
+        },
+        {
+            "question": "He could have won the race if he ………………………",
+            "description": "In the third conditional we use a past perfect tense in the if-clause and would / could have + past participle in the main clause.",
+            "answers": [
+                "hasn't fallen",
+                "hadn't fallen",
+                "didn't fall"
+            ],
+            "correct": 1,
+            "id": "2bfd8288d567454d9b92665131c3b451"
+        },
+        {
+            "question": "I …………………….. someone coming.",
+            "description": "We do not normally use see in its continuous form when it refers to perception.",
+            "answers": [
+                "can see",
+                "am seeing",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "18d6cdc89e2040158c1b5f35efe6c696"
+        },
+        {
+            "question": "Janet is the ………………….. of the four sisters.",
+            "description": "We use the superlative to compare a person or thing with the whole group he/she or it belongs to.",
+            "answers": [
+                "taller",
+                "tallest",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "76b8d6c924c144b590c2b6f41e11fd4c"
+        },
+        {
+            "question": "I am the happiest mother ……………………… the world.",
+            "description": "After superlative adjectives we do not normally use of with a singular noun referring to a place.",
+            "answers": [
+                "in",
+                "of",
+                "at"
+            ],
+            "correct": 0,
+            "id": "8a063d0bf3fb45c2b11c6efe7a07fad9"
+        },
+        {
+            "question": "This is …………………… dictionary I could find.",
+            "description": "The article 'the' is used before superlative adjectives. ",
+            "answers": [
+                "best",
+                "the best",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "2df0ddedd4f04c6badd26173f6913250"
+        },
+        {
+            "question": "You don't know him better than ................................. do.",
+            "description": "Subject pronouns are used before a verb.",
+            "answers": [
+                "I",
+                "me",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "af31faca359549609be07e9a6a6820af"
+        }
+    ]
+}

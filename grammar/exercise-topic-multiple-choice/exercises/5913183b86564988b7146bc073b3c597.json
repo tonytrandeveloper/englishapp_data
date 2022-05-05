@@ -1,0 +1,136 @@
+{
+    "id": "5913183b86564988b7146bc073b3c597",
+    "title": "Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Sam enjoys riding my bicycle. Sometimes I lend .................... to ................",
+            "description": "Use the object form of the pronoun after a preposition. ",
+            "answers": [
+                "it, him",
+                "it, he",
+                "it, his"
+            ],
+            "correct": 0,
+            "id": "adca537222584ff98d9ca23465898bc5"
+        },
+        {
+            "question": "She cooked the lunch .....................",
+            "description": "",
+            "answers": [
+                "her",
+                "herself",
+                "herselves"
+            ],
+            "correct": 1,
+            "id": "f6fbb5e178bf481dbd80203c9f4200ab"
+        },
+        {
+            "question": "This is my uncle ................... lives in the US.",
+            "description": "That cannot be used to refer to people in non-identifying relative clauses.",
+            "answers": [
+                "who",
+                "that",
+                "which"
+            ],
+            "correct": 0,
+            "id": "2c2d29d60abe4612844054ddd704b16e"
+        },
+        {
+            "question": "If we ask ...................., she will show .................... how to solve the problem.",
+            "description": "",
+            "answers": [
+                "she, we",
+                "she, us",
+                "her, us"
+            ],
+            "correct": 2,
+            "id": "8c022f3bd2824513a9effd7fca2d4a5c"
+        },
+        {
+            "question": "Here is the passenger ....................... bag was lost.",
+            "description": "Whose indicates possession.",
+            "answers": [
+                "whose",
+                "who's",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "60f659b260584aadb4762d9253bba88d"
+        },
+        {
+            "question": "This is the movie ....................... won the award.",
+            "description": "Which is used to refer to things.",
+            "answers": [
+                "which",
+                "who",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "b6c5fccd057c40ec899e1307a5a7a360"
+        },
+        {
+            "question": "Jaipur, ...................... is called the pink city, is the capital of Rajasthan.",
+            "description": "That cannot be used in non-identifying relative clauses. ",
+            "answers": [
+                "which",
+                "whose",
+                "that"
+            ],
+            "correct": 0,
+            "id": "b73a49f04def477895864e42f4edc396"
+        },
+        {
+            "question": "The dog hurt ......................",
+            "description": "We use reflexive pronouns when the subject and object refer to the same person or thing. ",
+            "answers": [
+                "it",
+                "itself",
+                "him"
+            ],
+            "correct": 1,
+            "id": "763c897128954f27828802a584a2aad6"
+        },
+        {
+            "question": "I ..................... went to the mall and bought it.",
+            "description": "",
+            "answers": [
+                "myself",
+                "me",
+                "myselves"
+            ],
+            "correct": 0,
+            "id": "d2da790d6a474c89b90310d2d1596490"
+        },
+        {
+            "question": "They ......................... fixed the problem.",
+            "description": "",
+            "answers": [
+                "themself",
+                "themselves"
+            ],
+            "correct": 1,
+            "id": "a1987bf97882470282a8bc4d13bd4b0d"
+        },
+        {
+            "question": "They have visited our home a few times but we have never been to ………………….",
+            "description": "Theirs is a possessive pronoun their is a possessive adjective it is used before a noun.",
+            "answers": [
+                "their",
+                "theirs",
+                "there"
+            ],
+            "correct": 1,
+            "id": "89ed058d60994001b9a7ee0debd272c5"
+        },
+        {
+            "question": "That cat of ………………….. has drunk my milk.",
+            "description": "",
+            "answers": [
+                "your",
+                "yours"
+            ],
+            "correct": 1,
+            "id": "0f548abf5bb04f41973b83f165a078c2"
+        }
+    ]
+}

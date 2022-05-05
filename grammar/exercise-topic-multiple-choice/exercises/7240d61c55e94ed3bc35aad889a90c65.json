@@ -1,0 +1,138 @@
+{
+    "id": "7240d61c55e94ed3bc35aad889a90c65",
+    "title": "Idiomatic Expressions Quiz",
+    "questions": [
+        {
+            "question": "To take someone under your wing is to ……………..",
+            "description": "",
+            "answers": [
+                "hide them",
+                "take care of them",
+                "suffocate them"
+            ],
+            "correct": 1,
+            "id": "b7d7e036a6244684ac6069dfaefca5b9"
+        },
+        {
+            "question": "To eat the humble pie is to  ...................................",
+            "description": "",
+            "answers": [
+                "eat very little",
+                "eat greedily",
+                "make a humble apology"
+            ],
+            "correct": 2,
+            "id": "bd18e0ab8953478395596db92ede3bac"
+        },
+        {
+            "question": "To get out of the bed on the wrong side is to ………………………",
+            "description": "",
+            "answers": [
+                "injure yourself",
+                "defeat yourself",
+                "be in a particularly irritable mood"
+            ],
+            "correct": 2,
+            "id": "39335e3446c446bbb0e957d47971d343"
+        },
+        {
+            "question": "To make the feathers fly is to ……………………….",
+            "description": "",
+            "answers": [
+                "cause turmoil",
+                "establish peace",
+                "make a lot of noise"
+            ],
+            "correct": 0,
+            "id": "a15baa5d2ab949dea1e4007148308233"
+        },
+        {
+            "question": "What does itsy-bitsy mean?",
+            "description": "",
+            "answers": [
+                "magnificent",
+                "tiny",
+                "soft"
+            ],
+            "correct": 1,
+            "id": "f1b2cc424b9c405ab8f75b850ea7bfdd"
+        },
+        {
+            "question": "To dilly-dally is to …………………….",
+            "description": "",
+            "answers": [
+                "have a good time",
+                "waste time",
+                "make good use of time"
+            ],
+            "correct": 1,
+            "id": "6c45c5aeca244ee2b5572e6b2746d36c"
+        },
+        {
+            "question": "I still miss the ……………………. of university life.",
+            "description": "Hurly-burly means busy activity.",
+            "answers": [
+                "willy-nilly",
+                "wishy-washy",
+                "hurly-burly"
+            ],
+            "correct": 2,
+            "id": "ed5f49e3dc5749e2a217552beefa8154"
+        },
+        {
+            "question": "To live in straitened circumstances is to live in ……………………..",
+            "description": "",
+            "answers": [
+                "opulence",
+                "poverty",
+                "pain"
+            ],
+            "correct": 1,
+            "id": "16800610c48d4041a120a6737d6e6ae5"
+        },
+        {
+            "question": "What does the expression wishy-washy mean?",
+            "description": "",
+            "answers": [
+                "weak",
+                "strong",
+                "efficient"
+            ],
+            "correct": 0,
+            "id": "4b28445f85d14fc9ae07606231c3a101"
+        },
+        {
+            "question": "You have to cooperate ………………………",
+            "description": "Willy-nilly means whether you like it or not. ",
+            "answers": [
+                "willy-nilly",
+                "dilly-dally",
+                "itsy-bitsy"
+            ],
+            "correct": 0,
+            "id": "4e82bd98e144480fb2712d09b5619681"
+        },
+        {
+            "question": "To be at loggerheads is to ………………………",
+            "description": "",
+            "answers": [
+                "approve",
+                "agree",
+                "disagree strongly"
+            ],
+            "correct": 2,
+            "id": "f032a81d13ef4f2faf227101232953da"
+        },
+        {
+            "question": "Bete noire means an object of ……………………….",
+            "description": "",
+            "answers": [
+                "affection",
+                "admiration",
+                "aversion"
+            ],
+            "correct": 2,
+            "id": "7e5f1977de4f459aa84390b3d3ef7304"
+        }
+    ]
+}

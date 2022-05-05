@@ -1,0 +1,107 @@
+{
+    "id": "02016e2705e8498998052aad655313bd",
+    "title": "Unless Exercise",
+    "questions": [
+        {
+            "question": "Unless you work hard, you ...................................... win.",
+            "description": "",
+            "answers": [
+                "can",
+                "cannot"
+            ],
+            "correct": 1,
+            "id": "f4fc091b48a048c9a86b92cb3b5e65d8"
+        },
+        {
+            "question": "Unless the boys work hard, they .......................................... fail.",
+            "description": "",
+            "answers": [
+                "will",
+                "won't"
+            ],
+            "correct": 0,
+            "id": "c2a297f0d7124c61be54686b6bf8e488"
+        },
+        {
+            "question": "Unless you .......................................... early, you will get stuck in the traffic.",
+            "description": "",
+            "answers": [
+                "start",
+                "started",
+                "don't start"
+            ],
+            "correct": 0,
+            "id": "f69712a744f649ab84d0545a0fad51df"
+        },
+        {
+            "question": "Unless you hire a taxi, you .............................................. miss the train.",
+            "description": "",
+            "answers": [
+                "will",
+                "won't"
+            ],
+            "correct": 0,
+            "id": "8ac000847dfd4435bb06d93cc5027a15"
+        },
+        {
+            "question": ".............................................. you obey my orders, you will be dismissed.",
+            "description": "",
+            "answers": [
+                "Unless",
+                "If"
+            ],
+            "correct": 0,
+            "id": "c5489c0e483843b89cfc6316b74aab24"
+        },
+        {
+            "question": "Unless you take an umbrella, you ........................................ get wet.",
+            "description": "",
+            "answers": [
+                "will",
+                "won't"
+            ],
+            "correct": 0,
+            "id": "878eeea041664af8bb151e1478e5f9a8"
+        },
+        {
+            "question": "Unless you work hard, you ........................................... pass the examination.",
+            "description": "",
+            "answers": [
+                "will",
+                "won't"
+            ],
+            "correct": 1,
+            "id": "7d59b418f2e245a59d7ec28f8af0ec11"
+        },
+        {
+            "question": "Unless we receive enough rain, there ............................................. be a shortage of electricity.",
+            "description": "",
+            "answers": [
+                "will",
+                "won't"
+            ],
+            "correct": 0,
+            "id": "bcc347889809441aaebde4de6aded93e"
+        },
+        {
+            "question": "Unless Gopal ........................................... a good doctor his condition may get worse.",
+            "description": "",
+            "answers": [
+                "doesn't consult",
+                "consults"
+            ],
+            "correct": 1,
+            "id": "85dd9a28560549a28f7b8a2e13ee0255"
+        },
+        {
+            "question": "Unless they come early, they ............................................... get the tickets.",
+            "description": "",
+            "answers": [
+                "will",
+                "won't"
+            ],
+            "correct": 1,
+            "id": "28dac763bc754751ab482b94ddadf464"
+        }
+    ]
+}

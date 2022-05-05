@@ -1,0 +1,36 @@
+{
+    "id": "1f4fb675aeaf4c999a0a0a9ff1bbb178",
+    "title": "Incite vs. Insight",
+    "questions": [
+        {
+            "question": "The leader of the protest group tried to ……………… a riot by throwing a tomato toward the guest speaker.",
+            "description": "",
+            "answers": [
+                "insight",
+                "incite"
+            ],
+            "correct": 1,
+            "id": "a521ea20933143798fb0ea8956b3ad41"
+        },
+        {
+            "question": "Mary gave her ……………… on the issues faced by the current university school council.",
+            "description": "",
+            "answers": [
+                "incite",
+                "insight"
+            ],
+            "correct": 1,
+            "id": "453543f925734ed5836b1fefe5b91ed1"
+        },
+        {
+            "question": "In her speech, the student activist condoned those who _____ violence toward members of minority group.",
+            "description": "",
+            "answers": [
+                "incite",
+                "insight"
+            ],
+            "correct": 0,
+            "id": "7438bf2b2cd647aaa67d8cb4140ed988"
+        }
+    ]
+}

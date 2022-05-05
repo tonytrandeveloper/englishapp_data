@@ -1,0 +1,140 @@
+{
+    "id": "87f275d6e80a4cc1ac4b9c33ac1324ef",
+    "title": "Talking About Future",
+    "questions": [
+        {
+            "question": "I …………… you if you say that word again.",
+            "description": "We use the simple future to express our intentions.",
+            "answers": [
+                "am hitting",
+                "will be hitting",
+                "will hit"
+            ],
+            "correct": 2,
+            "id": "f2bdefaaf4364933bb48283330592789"
+        },
+        {
+            "question": "I think our team …………",
+            "description": "We use the simple future to predict the future.",
+            "answers": [
+                "will win",
+                "would win",
+                "will be winning"
+            ],
+            "correct": 0,
+            "id": "5fb7202504a4470eae2217244992ee1b"
+        },
+        {
+            "question": "…………….. I help you with the housework?",
+            "description": "We use shall in offers of help.",
+            "answers": [
+                "Will",
+                "Would",
+                "Shall"
+            ],
+            "correct": 2,
+            "id": "7d1a7b85eaed439383f06aa4cb0afe47"
+        },
+        {
+            "question": "This time tomorrow I ……………. a discussion with my boss.",
+            "description": "We use the future continuous to say that an activity will be in progress at a particular time.",
+            "answers": [
+                "will have",
+                "will be having",
+                "am having"
+            ],
+            "correct": 1,
+            "id": "2f065b15b6e043f1bb32440ce61467ba"
+        },
+        {
+            "question": "By next Christmas we ……………….. in this city for twenty-five years.",
+            "description": "We use the future perfect to say that something will be completed by a certain time.",
+            "answers": [
+                "have lived",
+                "will have lived",
+                "will be living"
+            ],
+            "correct": 1,
+            "id": "1dc865d8f679472b852b7c74d610cdd7"
+        },
+        {
+            "question": "I ………………….. home late tonight.",
+            "description": "To predict future events we usually use will / shall + infinitive without to.",
+            "answers": [
+                "am",
+                "will be",
+                "would be"
+            ],
+            "correct": 1,
+            "id": "9b3ea92fb4274ccf82c0a902f9023f86"
+        },
+        {
+            "question": "She …………….. before too long.",
+            "description": "To predict future events we usually use will / shall + infinitive without to.",
+            "answers": [
+                "will arrive",
+                "is arriving",
+                "would arrive",
+                "would be arriving"
+            ],
+            "correct": 0,
+            "id": "307aeface80e4fffb8a8bc56726c60b9"
+        },
+        {
+            "question": "I will phone you when I …………… time.",
+            "description": "In many subordinate clauses we use present tenses to refer to the future.",
+            "answers": [
+                "will have",
+                "would have",
+                "will be having",
+                "have"
+            ],
+            "correct": 3,
+            "id": "fe8e3f55f5a040068ccd8a88ba65449c"
+        },
+        {
+            "question": "I will discuss your situation with my boss when I …………. him tomorrow.",
+            "description": "In many subordinate clauses we use present tenses to refer to the future.",
+            "answers": [
+                "meet",
+                "will meet",
+                "would meet"
+            ],
+            "correct": 0,
+            "id": "41a4ae65a3414601a757646795752db8"
+        },
+        {
+            "question": "I will follow you wherever you ………….",
+            "description": "In many subordinate clauses we use present tenses to refer to the future.",
+            "answers": [
+                "are going",
+                "will go",
+                "go"
+            ],
+            "correct": 2,
+            "id": "f873adad85ac4bcc90bd030013c40ba9"
+        },
+        {
+            "question": "You can take anything I ……………",
+            "description": "In many subordinate clauses we use present tenses to refer to the future.",
+            "answers": [
+                "will find",
+                "am finding",
+                "find"
+            ],
+            "correct": 2,
+            "id": "c14488b8ce674771a3c5a4ca611408e7"
+        },
+        {
+            "question": "She ……………. upset when she finds out what you have done.",
+            "description": "We use the simple future to predict the future.",
+            "answers": [
+                "is upset",
+                "would be",
+                "will be"
+            ],
+            "correct": 2,
+            "id": "050ea8e9ce0e4a84b35877419421364b"
+        }
+    ]
+}

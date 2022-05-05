@@ -1,0 +1,137 @@
+{
+    "id": "eab2e1c8b6284932bb926a46c8da342f",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "I had the required qualifications but I ………………………………… get the job anyhow.",
+            "description": "When the verb in one coordinate clause is in the past tense, the verb in the other coordinate clause is also likely to be in the past tense. ",
+            "answers": [
+                "don't",
+                "didn't",
+                "hadn't"
+            ],
+            "correct": 1,
+            "id": "0d9aabfb1e92452b8d0370d99f3b4d73"
+        },
+        {
+            "question": "The higher we climbed, the colder we …………………………….",
+            "description": "The same tense is used in both clauses in this construction. ",
+            "answers": [
+                "feels",
+                "felt",
+                "had felt"
+            ],
+            "correct": 1,
+            "id": "ea0329ab23a543eb8044bfd42ecaed58"
+        },
+        {
+            "question": "She has never …………………………….. to anybody.",
+            "description": "Use the past participle after has/have/had.",
+            "answers": [
+                "apologize",
+                "apologized",
+                "apologizes"
+            ],
+            "correct": 1,
+            "id": "18cf6dd4b7ae4f079a401bf28da992d9"
+        },
+        {
+            "question": "I ………………………….. to wait.",
+            "description": "The passive verb is required here because the subject is not the doer of the action. ",
+            "answers": [
+                "told",
+                "have told",
+                "was told"
+            ],
+            "correct": 2,
+            "id": "5b1b3e9d19fe4cbb9c66c4060a6d8933"
+        },
+        {
+            "question": "Playing computer games for hours on end ……………………………. not a good idea.",
+            "description": "Here the subject is the ing form playing ing forms are treated as singular. ",
+            "answers": [
+                "are",
+                "is"
+            ],
+            "correct": 1,
+            "id": "3476682426084cfc936887ef3ed17fa8"
+        },
+        {
+            "question": "………………………….. fast, I was able to catch up with him.",
+            "description": "When both clauses have the same subject, it is sometimes possible to connect them with a present participle. ",
+            "answers": [
+                "Run",
+                "Having run",
+                "Running"
+            ],
+            "correct": 2,
+            "id": "9e9b90e72de04a618c7c4fb5d4ad0f6c"
+        },
+        {
+            "question": "Nobody knows what ……………………………… to him.",
+            "description": "",
+            "answers": [
+                "happens",
+                "happened",
+                "had happened"
+            ],
+            "correct": 1,
+            "id": "47845edef7c7447da24ef142a8e6dfc5"
+        },
+        {
+            "question": "They disqualified her for ……………………………….. late to the finals.",
+            "description": "",
+            "answers": [
+                "being",
+                "been",
+                "having being"
+            ],
+            "correct": 0,
+            "id": "ff58625a2ada4ddc91d68dd569678152"
+        },
+        {
+            "question": "Plato’s philosophy ……………………………. throughout the world.",
+            "description": "",
+            "answers": [
+                "has disseminated",
+                "has been disseminated",
+                "had disseminated"
+            ],
+            "correct": 1,
+            "id": "ff83cb60ac9e4739a225d55436d5fb3f"
+        },
+        {
+            "question": "He was a dissolute young man who ………………………………….. only of his own pleasure.",
+            "description": "",
+            "answers": [
+                "thinks",
+                "thought",
+                "thinking"
+            ],
+            "correct": 1,
+            "id": "44647523536543b7aa3f3bfac7ab335b"
+        },
+        {
+            "question": "If enough members ………………………., the new bill won’t be approved.",
+            "description": "In the first conditional, use a simple present tense in the if-clause and will + first form of the verb in the main clause.",
+            "answers": [
+                "dissents",
+                "dissented",
+                "dissent"
+            ],
+            "correct": 2,
+            "id": "0ae6fc6b922744ccb70d858b23095463"
+        },
+        {
+            "question": "His complete disregard of others ……………………………. him the respect of his friends.",
+            "description": "",
+            "answers": [
+                "loses",
+                "lost",
+                "had lost"
+            ],
+            "correct": 1,
+            "id": "1346b92fe68e4b9187c045a78dd3814b"
+        }
+    ]
+}

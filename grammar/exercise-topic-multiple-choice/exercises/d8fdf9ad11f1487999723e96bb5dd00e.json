@@ -1,0 +1,74 @@
+{
+    "id": "d8fdf9ad11f1487999723e96bb5dd00e",
+    "title": "Sentence Completion",
+    "questions": [
+        {
+            "question": "This is one of the best movies that …………….. this year.",
+            "description": "",
+            "answers": [
+                "has been released",
+                "have been released",
+                "have released"
+            ],
+            "correct": 1,
+            "id": "42552bab8e234287828c025f5b6f182f"
+        },
+        {
+            "question": "Bribery is one of the charges that ………………… against the minister.",
+            "description": "",
+            "answers": [
+                "has been leveled",
+                "have been leveled",
+                "is leveled",
+                "is being leveled"
+            ],
+            "correct": 1,
+            "id": "62c173b3bd14465ea03d31884dc4b3d3"
+        },
+        {
+            "question": "By December 2015 I ……………… him a monthly stipend for fifteen years.",
+            "description": "",
+            "answers": [
+                "shall have been giving",
+                "shall be giving",
+                "should be giving"
+            ],
+            "correct": 0,
+            "id": "6e77f90f1767428dbfd3f153c7ee2f20"
+        },
+        {
+            "question": "Edison ………………… newspapers before he became a famous inventor.",
+            "description": "",
+            "answers": [
+                "should sell",
+                "used to have sold",
+                "used to sell"
+            ],
+            "correct": 2,
+            "id": "086b2918027841f8914609dfc8ae6e21"
+        },
+        {
+            "question": "Anil ……………… two wickets before rain interrupted the match",
+            "description": "",
+            "answers": [
+                "has taken",
+                "had taken",
+                "have taken"
+            ],
+            "correct": 1,
+            "id": "6bcc1203bd9e49548b7a2fe960189bd1"
+        },
+        {
+            "question": "By the end of this year we …………….. in this house for twenty years.",
+            "description": "",
+            "answers": [
+                "shall be living",
+                "shall have been living",
+                "shall live",
+                "should live"
+            ],
+            "correct": 1,
+            "id": "7171791305964e55859aaa02a3b444cf"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": "325b6a11735f4c72bbba116f126fd642",
+    "title": "Would vs. Used To",
+    "questions": [
+        {
+            "question": "We ................................. go swimming every weekend.",
+            "description": "Both would and used to can be used to talk about past habits. ",
+            "answers": [
+                "would",
+                "used to",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4e37ec69dc4f48bdb7c684653c459f88"
+        },
+        {
+            "question": "There ............................... be a coffee shop in that corner.",
+            "description": "Used to can refer to past states. Would cannot be used with this meaning. ",
+            "answers": [
+                "would",
+                "used to",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "aaa3903e22b34ba1b85d806a2518129c"
+        },
+        {
+            "question": "She ............................... spend hours talking to herself.",
+            "description": "",
+            "answers": [
+                "would",
+                "used to",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "d191da0b6a084a06938554f0578f7324"
+        },
+        {
+            "question": "When I was a kid, I ................................. swim a lot.",
+            "description": "",
+            "answers": [
+                "used to",
+                "would",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "f95397ad09cd406e96cc83e4a449d5c5"
+        },
+        {
+            "question": "There was no chance that my letter .................................... arrive in time.",
+            "description": "",
+            "answers": [
+                "used to",
+                "would",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f962533ec32940819711c63f6c4b8f4d"
+        },
+        {
+            "question": "On that train, he first met the woman he ..................................... one day marry.",
+            "description": "Would is the past tense form of will.",
+            "answers": [
+                "would",
+                "used to",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "2d23cb2e7c3648279df9e11dbb1aa47b"
+        },
+        {
+            "question": "I wish you ........................................ get angry so easily.",
+            "description": "",
+            "answers": [
+                "would not",
+                "used not to",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "dcdcd638e1f849818d19e704fc7031f7"
+        },
+        {
+            "question": "She asked if I ................................ like some advice.",
+            "description": "",
+            "answers": [
+                "used to",
+                "would",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e15f104f55b4490f8f55aa31489cbd6b"
+        },
+        {
+            "question": "He ................................. smoke.",
+            "description": "",
+            "answers": [
+                "would",
+                "used to"
+            ],
+            "correct": 1,
+            "id": "4ca8ec7bd284458a8f538e75ed11697b"
+        },
+        {
+            "question": "I ............................... like football, but now I don't.",
+            "description": "Used to can show past habits.",
+            "answers": [
+                "would",
+                "used to",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "7a03be9acf424080bf99a4a8b36ad940"
+        },
+        {
+            "question": "You ................................. hate him, didn't you?",
+            "description": "",
+            "answers": [
+                "used to",
+                "would",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "793d362725ba40038d1cc3ed0948a99e"
+        },
+        {
+            "question": "I always .................................. be afraid of spiders.",
+            "description": "",
+            "answers": [
+                "would",
+                "used to",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "6cd6c72abb3640d9ad5e63f9dc698374"
+        }
+    ]
+}

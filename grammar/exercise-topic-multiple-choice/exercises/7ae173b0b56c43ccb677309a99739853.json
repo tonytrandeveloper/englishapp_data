@@ -1,0 +1,133 @@
+{
+    "id": "7ae173b0b56c43ccb677309a99739853",
+    "title": "Grammar And Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "Dad was angry …………………….. me for failing the test.",
+            "description": "Angry with/at a person for doing something.",
+            "answers": [
+                "to",
+                "with",
+                "at"
+            ],
+            "correct": 2,
+            "id": "4515e0eec8b8423b8c674116ef29cf34"
+        },
+        {
+            "question": "Why are you angry ………………………… everyone?",
+            "description": "Angry with/at a person for doing something.",
+            "answers": [
+                "with",
+                "at",
+                "to"
+            ],
+            "correct": 1,
+            "id": "36ed517b4f234925a0a55b4cafab219f"
+        },
+        {
+            "question": "This face is familiar ………………………… me.",
+            "description": "",
+            "answers": [
+                "with",
+                "for",
+                "to"
+            ],
+            "correct": 2,
+            "id": "d800730e3b0644a79b935b8b529e335b"
+        },
+        {
+            "question": "To get a taste of your own medicine is to ……………………………",
+            "description": "",
+            "answers": [
+                "receive timely medical attention",
+                "develop health problems",
+                "get treated in the same way you have been treating others"
+            ],
+            "correct": 2,
+            "id": "3b0ecfbbc05f4201832ec0d8cebdfbed"
+        },
+        {
+            "question": "To go on a wild goose chase is to ………………………",
+            "description": "",
+            "answers": [
+                "do something pointless",
+                "to go hunting",
+                "to do something dangerous"
+            ],
+            "correct": 0,
+            "id": "b07ea2bde9c7436fb691bf6a666cdce3"
+        },
+        {
+            "question": "To give someone the cold shoulder is to ………………………",
+            "description": "",
+            "answers": [
+                "receive them",
+                "ignore them",
+                "embarrass them"
+            ],
+            "correct": 1,
+            "id": "411ce0e6a88146bc8ba7e8d42449ae3c"
+        },
+        {
+            "question": "The mangoes on that tree ……………………….. very sour.",
+            "description": "Here the subject is the plural noun mangoes",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "609d19220dc7467cb1349ba23a8b313b"
+        },
+        {
+            "question": "I wish I ……………………… sing.",
+            "description": "Past tenses are common after I wish to talk about unrealistic situations.",
+            "answers": [
+                "could",
+                "can"
+            ],
+            "correct": 0,
+            "id": "41ef645b37e947489de1f6eead6ff994"
+        },
+        {
+            "question": "She behaved as if she …………………………. mad.",
+            "description": "Either could be used here however, were is more common.",
+            "answers": [
+                "was",
+                "were",
+                "is"
+            ],
+            "correct": 1,
+            "id": "0bb4b395e6ff47798c1204edd3da838e"
+        },
+        {
+            "question": "If I were you, I ………………………. allow her to go.",
+            "description": "In the second conditional, use a simple past in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "will not",
+                "would not"
+            ],
+            "correct": 1,
+            "id": "5e4d4de4ec024c5dad71ddaf51a815ab"
+        },
+        {
+            "question": "His mentor and guardian …………………….. his uncle.",
+            "description": "We use a singular verb here because both nouns refer to the same person.",
+            "answers": [
+                "were",
+                "was"
+            ],
+            "correct": 1,
+            "id": "9cca91d026cf406cbccc5372b5e18e57"
+        },
+        {
+            "question": "She sounded ……………………………",
+            "description": "Sound is a copular verb we use adjectives to modify copular verbs.",
+            "answers": [
+                "confident",
+                "confidently"
+            ],
+            "correct": 0,
+            "id": "af62c591f4a84d30b55589092d896459"
+        }
+    ]
+}

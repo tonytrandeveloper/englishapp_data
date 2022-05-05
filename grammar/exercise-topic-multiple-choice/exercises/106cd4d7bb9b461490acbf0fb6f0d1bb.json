@@ -1,0 +1,136 @@
+{
+    "id": "106cd4d7bb9b461490acbf0fb6f0d1bb",
+    "title": "Gap Filling Grammar Exercise",
+    "questions": [
+        {
+            "question": "You will not be able to join the course ……………………… you make the payment in advance.",
+            "description": "Unless means if not.",
+            "answers": [
+                "if",
+                "in case",
+                "unless"
+            ],
+            "correct": 2,
+            "id": "e60126befe584a0eaa3a80d11a04bc84"
+        },
+        {
+            "question": "We have lived in this town …………………………….. ten years.",
+            "description": "Use for with duration. ",
+            "answers": [
+                "since",
+                "from",
+                "for"
+            ],
+            "correct": 2,
+            "id": "1af5aa89f5e84eb48738118d89bca688"
+        },
+        {
+            "question": "He was accused ………………………… stealing the money.",
+            "description": "Accused is followed by of.",
+            "answers": [
+                "for",
+                "of",
+                "with"
+            ],
+            "correct": 1,
+            "id": "541fc316c9594bac8ad93956a5a2b87d"
+        },
+        {
+            "question": "I ………………………….. the exam yesterday.",
+            "description": "Use the simple past when we say when something happened. ",
+            "answers": [
+                "have written",
+                "wrote",
+                "had written"
+            ],
+            "correct": 1,
+            "id": "876d5532b2504bc78ea0c382de7e62c6"
+        },
+        {
+            "question": "She …………………….. in",
+            "description": "Use the simple past when we say when something happened. ",
+            "answers": [
+                "graduated",
+                "has graduated",
+                "was graduating"
+            ],
+            "correct": 0,
+            "id": "71239ce954f64689a0474579e578cbb8"
+        },
+        {
+            "question": "The teacher along with the students ………………………….. gone on a field trip.",
+            "description": "When we connect two nouns with along with, the verb agrees with the former. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "55fe1c743f8b4901b0e17ed1bbb86e43"
+        },
+        {
+            "question": "When ……………………………… your work yesterday?",
+            "description": "In questions we use the inverted word order - that means the auxiliary goes before the subject. ",
+            "answers": [
+                "you finished",
+                "did you finish",
+                "did you finished"
+            ],
+            "correct": 1,
+            "id": "d5b7393bc9224a7dbe3853dae8e7fa6a"
+        },
+        {
+            "question": "He ……………………………… for more than a week.",
+            "description": "",
+            "answers": [
+                "was ill",
+                "has been ill",
+                "has being ill"
+            ],
+            "correct": 1,
+            "id": "6031e05533f44a09acef41f6c25e41da"
+        },
+        {
+            "question": "One of the students ……………………………….. not submitted their work.",
+            "description": "Use a singular verb after one of.",
+            "answers": [
+                "did",
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "73213e684c614f688f32da328abf4a81"
+        },
+        {
+            "question": "I ……………………………… for you since 9 o’clock in the morning.",
+            "description": "To talk about an action or situation that started in the past and has continued up to the present, use the present perfect continuous tense. ",
+            "answers": [
+                "am waiting",
+                "have been waiting",
+                "was waiting"
+            ],
+            "correct": 1,
+            "id": "c2fc3a565eef4169b9501b90260d82a8"
+        },
+        {
+            "question": "I will talk to him when he …………………………….",
+            "description": "When both clauses refer to the future, use the simple present in the subordinate clause. ",
+            "answers": [
+                "will arrive",
+                "arrives"
+            ],
+            "correct": 1,
+            "id": "f47181de871d449c8acfc486a14de295"
+        },
+        {
+            "question": "My handwriting is better than ………………………………",
+            "description": "Here yours means your handwriting. ",
+            "answers": [
+                "you",
+                "your",
+                "yours"
+            ],
+            "correct": 2,
+            "id": "36ed37d50e3e444a9269e3bed3f9479c"
+        }
+    ]
+}

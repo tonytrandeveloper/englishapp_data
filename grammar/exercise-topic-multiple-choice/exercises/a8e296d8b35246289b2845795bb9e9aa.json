@@ -1,0 +1,138 @@
+{
+    "id": "a8e296d8b35246289b2845795bb9e9aa",
+    "title": "Pronouns Exercise",
+    "questions": [
+        {
+            "question": "He is smarter than ...................",
+            "description": "You has the same subject and object form.",
+            "answers": [
+                "you",
+                "your",
+                "yourself"
+            ],
+            "correct": 0,
+            "id": "e1550a4b807741daaf0951da9066fc52"
+        },
+        {
+            "question": "He lives on ..................... own terms.",
+            "description": "We need a possessive adjective here hence we use his.",
+            "answers": [
+                "him",
+                "his",
+                "himself"
+            ],
+            "correct": 1,
+            "id": "c937cbda0ec14db2ae7bc79544c4fd69"
+        },
+        {
+            "question": "The old woman is quite fond of .................... grandchildren.",
+            "description": "We need a possessive adjective here. The words your, my, our, his, her and their are possessive adjectives. ",
+            "answers": [
+                "her",
+                "hers",
+                "she"
+            ],
+            "correct": 0,
+            "id": "5607e67b763c464a9a179f304918f15c"
+        },
+        {
+            "question": "Can you show me ..................... passport?",
+            "description": "We need a possessive adjective here. The words your, my, our, his, her and their are possessive adjectives. ",
+            "answers": [
+                "you",
+                "your",
+                "yours"
+            ],
+            "correct": 1,
+            "id": "53398d93c1ee49188974f4d79edaac86"
+        },
+        {
+            "question": "I know ................... and .................... parents.",
+            "description": "A pronoun used an object should be in its object form. Before a noun, we need a possessive adjective.",
+            "answers": [
+                "he, his",
+                "him, his",
+                "himself, his"
+            ],
+            "correct": 1,
+            "id": "87d5a7f53bb64738b24e387d54ce0636"
+        },
+        {
+            "question": "This is my passport. Can you show me .........................?",
+            "description": "The words mine, his, hers, theirs, ours and yours are possessive pronouns. They are used alone. ",
+            "answers": [
+                "your",
+                "yours",
+                "your's"
+            ],
+            "correct": 1,
+            "id": "e15d331dc6ee4017b4b9254939d2bc51"
+        },
+        {
+            "question": "That purse is .........................",
+            "description": "The words mine, his, hers, theirs, ours and yours are possessive pronouns. They are used alone. ",
+            "answers": [
+                "my",
+                "me",
+                "mine"
+            ],
+            "correct": 2,
+            "id": "772569d4b9d14f729235125551b64938"
+        },
+        {
+            "question": "That dog of ..................... is always barking at me.",
+            "description": "The words mine, his, hers, theirs, ours and yours are possessive pronouns. They are used alone. ",
+            "answers": [
+                "your",
+                "yours",
+                "your's"
+            ],
+            "correct": 1,
+            "id": "9e7618feb2b445b594796e9e2d1d68b5"
+        },
+        {
+            "question": "Whose bag is this? It is ......................",
+            "description": "The words mine, his, hers, theirs, ours and yours are possessive pronouns. They are used alone. ",
+            "answers": [
+                "her",
+                "hers",
+                "her's"
+            ],
+            "correct": 1,
+            "id": "7ddaa8b53361476cacb660b3ea201b3d"
+        },
+        {
+            "question": "When are you going to return the camera you borrowed from ………………………….?",
+            "description": "A pronoun used as the object of a preposition should be in its object form. ",
+            "answers": [
+                "I",
+                "me",
+                "mine"
+            ],
+            "correct": 1,
+            "id": "320104de14bf4f13b7c9ea6d13737adf"
+        },
+        {
+            "question": "Does she understand what .................... is doing?",
+            "description": "A pronoun used as a subject should be in its subject form.",
+            "answers": [
+                "she",
+                "her",
+                "hers"
+            ],
+            "correct": 0,
+            "id": "ecfb185fe22a49aab0f21ee78319a2ce"
+        },
+        {
+            "question": "What she says or does makes no sense to ………………………….",
+            "description": "A pronoun used as the object of a preposition should be in its object form. ",
+            "answers": [
+                "I",
+                "me",
+                "mine"
+            ],
+            "correct": 1,
+            "id": "9b531aa125434066b250f384b36d9f0d"
+        }
+    ]
+}

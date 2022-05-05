@@ -1,0 +1,78 @@
+{
+    "id": "a88fcd24e29044f5acb563de3f92ac04",
+    "title": "Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "The Atacama Desert in South America is a rainless …………….. that extends 966 km between the Andes Mountains and the Pacific Ocean.",
+            "description": "",
+            "answers": [
+                "base",
+                "valley",
+                "plateau",
+                "land"
+            ],
+            "correct": 2,
+            "id": "7337c40caab04362916ddb9b11912576"
+        },
+        {
+            "question": "India is one of the several countries ……………… affected by widespread deforestation and steady destruction of natural watersheds.",
+            "description": "",
+            "answers": [
+                "remarkably",
+                "superficially",
+                "critically",
+                "strongly"
+            ],
+            "correct": 2,
+            "id": "27b70e80586b428ea6876ca1cc09b53e"
+        },
+        {
+            "question": "I don’t know ………………… we could trust him.",
+            "description": "",
+            "answers": [
+                "weather",
+                "whether",
+                "unless",
+                "were"
+            ],
+            "correct": 1,
+            "id": "aa66a565cb704b30bf3b998e3a092dc0"
+        },
+        {
+            "question": "The burglar got ………………. down the stairs and then coolly walked through the backdoor into the street.",
+            "description": "",
+            "answers": [
+                "easily",
+                "effectively",
+                "stealthily",
+                "secretly"
+            ],
+            "correct": 2,
+            "id": "b48344fec1c94e97b150132e3f34b30d"
+        },
+        {
+            "question": "He has engaged a private tutor to ………………… his daughter in mathematics.",
+            "description": "",
+            "answers": [
+                "educate",
+                "coach",
+                "learn",
+                "study"
+            ],
+            "correct": 1,
+            "id": "32dea095169f4febadd8c8e024babcaf"
+        },
+        {
+            "question": "She was very much ……………….. to hear about her husband’s safe arrival.",
+            "description": "",
+            "answers": [
+                "pleased",
+                "delighted",
+                "surprised",
+                "impressed"
+            ],
+            "correct": 1,
+            "id": "936ce48075494f0ab3453efe8afaae4e"
+        }
+    ]
+}

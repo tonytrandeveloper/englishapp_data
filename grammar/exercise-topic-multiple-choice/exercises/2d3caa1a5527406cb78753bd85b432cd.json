@@ -1,0 +1,136 @@
+{
+    "id": "2d3caa1a5527406cb78753bd85b432cd",
+    "title": "Magic, Magical, Classic, Classical Etc.",
+    "questions": [
+        {
+            "question": "Sneezing and a sore throat are .......................................... symptoms of a cold.",
+            "description": "Classic and classical can both mean standard or typical.",
+            "answers": [
+                "classic",
+                "classical",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "5e872071c46e40dbb880642bbef95b90"
+        },
+        {
+            "question": "The 1929 Packard is a ........................................... car.",
+            "description": "Classic and classical can both mean of the highest class or standard.",
+            "answers": [
+                "classic",
+                "classical",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "8ba7f8d48d1a472384b89d3add4f40a5"
+        },
+        {
+            "question": "............................................ shoppers wait for special offers and discounts.",
+            "description": "Economical means frugal or thrifty.",
+            "answers": [
+                "Economic",
+                "Economical",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e59b0fa97643485d97a02fdc78d5b5a9"
+        },
+        {
+            "question": "Good infrastructure is required for the ............................................. development of a country.",
+            "description": "Economic means financial.",
+            "answers": [
+                "economic",
+                "economical",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "189509fcf0384628baa735c03e8a8acf"
+        },
+        {
+            "question": "I got an ............................................. shock while I was vacuuming the carpet.",
+            "description": "",
+            "answers": [
+                "electric",
+                "electrical",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "863039d864d74e01bf4dd13d84a95771"
+        },
+        {
+            "question": "Children must not be allowed to play with ........................................... appliances.",
+            "description": "",
+            "answers": [
+                "electric",
+                "electrical",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "cf6b004b3da4473ba9d084be2e3eba8c"
+        },
+        {
+            "question": "She is learning ................................................. literature.",
+            "description": "Classical literature is literature that pertains to ancient Rome or Greece.",
+            "answers": [
+                "classic",
+                "classical",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "a2ad9df4f8874417a5e66c337a403f6b"
+        },
+        {
+            "question": "........................................ parties are only interested in protecting their interests.",
+            "description": "",
+            "answers": [
+                "Politic",
+                "Political",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "ffa0b6db94a0426d866430619697755c"
+        },
+        {
+            "question": "He graduated in .......................................... science.",
+            "description": "",
+            "answers": [
+                "politic",
+                "political",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "296670dcbedf44309548b26c0cecbfe2"
+        },
+        {
+            "question": "It is not ............................................ to talk back to your elders.",
+            "description": "",
+            "answers": [
+                "politic",
+                "political",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "7ae8e9b84a224ca3a41f564d3d544c51"
+        },
+        {
+            "question": "It was a .......................................... experience.",
+            "description": "Magical means wonderful or surrealistic.",
+            "answers": [
+                "magic",
+                "magical"
+            ],
+            "correct": 1,
+            "id": "e2027425b55e4167b867129d8692f8dd"
+        },
+        {
+            "question": "The magician waved a ........................................... wand.",
+            "description": "",
+            "answers": [
+                "magic",
+                "magical"
+            ],
+            "correct": 0,
+            "id": "9ab69ab918c0448fb0a88084b38ffd0a"
+        }
+    ]
+}

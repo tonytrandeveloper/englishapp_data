@@ -1,0 +1,126 @@
+{
+    "id": "4176e045274e4e3fbb45566c9fb4ced0",
+    "title": "Personal Pronouns Exercise",
+    "questions": [
+        {
+            "question": "I met ........................... at the park.",
+            "description": "A pronoun used as the object of a verb or a preposition should be in its object form. Object pronouns are: him, her, us, me, them, you.",
+            "answers": [
+                "they",
+                "them"
+            ],
+            "correct": 1,
+            "id": "e6fbc0ddf8dd46d8a9199e203806e268"
+        },
+        {
+            "question": "We all looked up to ................................",
+            "description": "A pronoun used as the object of a preposition should be in its object form.",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 1,
+            "id": "a2a5de7bc2234785bd28031d9206e7d4"
+        },
+        {
+            "question": "I don't know if ............................... am doing the right thing.",
+            "description": "A pronoun used as the subject of a verb should be in its subject form. Subject pronouns are: I, we, you, he, she, they",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 0,
+            "id": "ea7b373ba55f4468814576344b4a549e"
+        },
+        {
+            "question": "It has been a long time since we heard anything from ..................................",
+            "description": "A pronoun used as the object of a verb or a preposition should be in its object form. Object pronouns are: him, her, us, me, them, you.",
+            "answers": [
+                "she",
+                "her"
+            ],
+            "correct": 1,
+            "id": "4c58b0eff40747d4a86765bafcf4d78c"
+        },
+        {
+            "question": "Do you know who ............................... is?",
+            "description": "A pronoun used as the subject of a verb should be in its subject form. Subject pronouns are: I, we, you, he, she, they",
+            "answers": [
+                "her",
+                "she"
+            ],
+            "correct": 1,
+            "id": "cd7362d6972741be83959243d2c74096"
+        },
+        {
+            "question": "It took .................................. an hour to get dressed.",
+            "description": "A pronoun used as the object of a verb or a preposition should be in its object form. Object pronouns are: him, her, us, me, them, you.",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1,
+            "id": "2ceb59a4f8284db59e8c56a1bc30f317"
+        },
+        {
+            "question": "We have been waiting for ................................. for a while.",
+            "description": "A pronoun used as the object of a verb or a preposition should be in its object form. Object pronouns are: him, her, us, me, them, you.",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 1,
+            "id": "04f63f76e5d84a05a070d866784f55be"
+        },
+        {
+            "question": "You have never offered .................................. any help.",
+            "description": "A pronoun used as the object of a verb or a preposition should be in its object form. Object pronouns are: him, her, us, me, them, you.",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1,
+            "id": "fe908997c97a4d3c96dbdaa2ab574216"
+        },
+        {
+            "question": "Between you and .................................., I don't want a third person.",
+            "description": "A pronoun used as the object of a verb or a preposition should be in its object form. Object pronouns are: him, her, us, me, them, you.",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1,
+            "id": "2e571660e1fa4045ac3129a0454fb4cf"
+        },
+        {
+            "question": "She doesn't smoke like .....................................",
+            "description": "A pronoun used as the object of a verb or a preposition should be in its object form. Object pronouns are: him, her, us, me, them, you.",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 1,
+            "id": "555c480e0ba043488e215e4966362c8b"
+        },
+        {
+            "question": "Most of our neighbours are richer than .......................................",
+            "description": "Object pronouns are more common after as and than.",
+            "answers": [
+                "we",
+                "us"
+            ],
+            "correct": 1,
+            "id": "15defae1ab9f4af28d239cd3760a15bf"
+        },
+        {
+            "question": "They are more excited than ……………………..",
+            "description": "Object pronouns are more common after as and than.",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 1,
+            "id": "8a92705512e948579c911e3e947796f5"
+        }
+    ]
+}

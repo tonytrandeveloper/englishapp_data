@@ -1,0 +1,642 @@
+{
+    "id": "0f23755c146f430c81de86472494c5c0",
+    "title": "Make the second conditional",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) you, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d get",
+                        "would get"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get) a new job."
+                }
+            ],
+            "id": "78c6b9a278914406a15b0a9f80b1b85f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was",
+                        "were"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "younger, he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d travel",
+                        "would travel"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "more."
+                }
+            ],
+            "id": "b95d09ab3f6a4fc6b08fde9f1faa8756"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "weren't",
+                        "were not"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) friends, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d be",
+                        "would be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) angry with you."
+                }
+            ],
+            "id": "d634c8eef63a44ff8b009f441c9cac8a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) enough money, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d buy",
+                        "would buy"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) a big house."
+                }
+            ],
+            "id": "32c58e140b4a4b5686de6299b9577d00"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wasn't",
+                        "weren't",
+                        "were not"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) always so late, she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d be",
+                        "would be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) promoted."
+                }
+            ],
+            "id": "db1c6921d04d4cf2b7acf9df5296cfae"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "won"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(win) the lottery, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d travel",
+                        "would travel"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(travel) the world."
+                }
+            ],
+            "id": "99c7275e3a54414bb127423de421542a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a better job, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d be",
+                        "would be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) able to buy a new car."
+                }
+            ],
+            "id": "fd28a01578344a88979bde0396fba0d8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "spoke"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(speak) perfect English, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d have",
+                        "would have"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a good job."
+                }
+            ],
+            "id": "daba432d7d6441ebba2f71a5dc86f40f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "lived"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in Mexico, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d speak",
+                        "would speak"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(speak) Spanish."
+                }
+            ],
+            "id": "ad5e167975d74b7a88981da6a575bd07"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "passed"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(pass) the exam, she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d be",
+                        "would be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) able to enter university."
+                }
+            ],
+            "id": "89130f1d5c1641bf9da72efb66f79992"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d be",
+                        "would be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) happier if she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) more friends."
+                }
+            ],
+            "id": "a1fd701b49b24426abe30ba07cbe7321"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d buy",
+                        "would buy"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) a house if we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "decided"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(decide) to stay here."
+                }
+            ],
+            "id": "2a55ed65458a4d6a97b01a31614133e8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d have",
+                        "would have"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) more money if they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "didn't buy",
+                        "did not buy"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/buy) so many clothes."
+                }
+            ],
+            "id": "bb98bdb448954b8fbcbcd61cfb016ae1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d come",
+                        "would come"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(come) to dinner if we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) time."
+                }
+            ],
+            "id": "56bcd0d3bfad4b81899eeaf10e82f728"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d call",
+                        "would call"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(call) him if she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) his number."
+                }
+            ],
+            "id": "99669d0243c64887899f11a3cb128d0a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d go",
+                        "would go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to Spain on holiday if they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "liked"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(like) hot weather."
+                }
+            ],
+            "id": "449c2ae0a3a449ee8c3b868705c11a92"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d pass",
+                        "would pass"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(pass) the exam if she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "studied"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) more."
+                }
+            ],
+            "id": "175aa686eee045f48a866d8a930eb4f5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d marry",
+                        "would marry"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(marry) someone famous if I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) a movie star."
+                }
+            ],
+            "id": "3a47a436ada14651823cc0e4817ba1d3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wouldn't be",
+                        "would not be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) late again if we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "bought"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) a new car."
+                }
+            ],
+            "id": "43f2d7deef244901b88d78ffe0a593c1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d lose",
+                        "would lose"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(lose) weight if you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "ate"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) less."
+                }
+            ],
+            "id": "dfa6ebddf850434d8d65ffa6c90fa0ad"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were",
+                        "was"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "you, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'d get",
+                        "would get"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a new job."
+                }
+            ],
+            "id": "bf794446968f49ff99c15ac56e23bcf7"
+        }
+    ]
+}

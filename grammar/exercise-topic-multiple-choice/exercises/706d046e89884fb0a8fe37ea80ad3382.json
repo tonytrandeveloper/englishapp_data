@@ -1,0 +1,130 @@
+{
+    "id": "706d046e89884fb0a8fe37ea80ad3382",
+    "title": "Adjectives And Adverbs Exercise",
+    "questions": [
+        {
+            "question": "Please do it …………………….",
+            "description": "Here we use the adverb quickly to modify the verb do.",
+            "answers": [
+                "quick",
+                "quickly"
+            ],
+            "correct": 1,
+            "id": "a4937abef5c24b909350560abab8b400"
+        },
+        {
+            "question": "He ran as …………………… as he could.",
+            "description": "Fast can be an adjective or adverb.",
+            "answers": [
+                "fast",
+                "fastly"
+            ],
+            "correct": 0,
+            "id": "bef8f3de1eb946b0a4419c5854017de4"
+        },
+        {
+            "question": "I am not ……………………. interested in this offer.",
+            "description": "Much can be used as an adverb meaning very. ",
+            "answers": [
+                "much",
+                "many",
+                "most"
+            ],
+            "correct": 0,
+            "id": "96e5b7f220a545498cf1d5cb956728a3"
+        },
+        {
+            "question": "She walked with ……………………. difficulty.",
+            "description": "",
+            "answers": [
+                "much",
+                "many",
+                "most"
+            ],
+            "correct": 0,
+            "id": "ef770f0437cf4b8497b2a3fb1931042c"
+        },
+        {
+            "question": "She spoke …………………….. anything.",
+            "description": "Hardly means scarcely. ",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 1,
+            "id": "cda3c2a4e6bd4596a0dac612c859a839"
+        },
+        {
+            "question": "I was ……………………… inside the house when the kids started yelling.",
+            "description": "",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 1,
+            "id": "00c1066e31a146a9b06c62367cdc1d5a"
+        },
+        {
+            "question": "We ………………….. see elephants in cities.",
+            "description": "Hardly ever means very rarely.",
+            "answers": [
+                "hardly",
+                "rarely",
+                "hardly ever"
+            ],
+            "correct": 2,
+            "id": "d147906d321942ad8325ebcd53129ff6"
+        },
+        {
+            "question": "It was a ……………………. occurrence.",
+            "description": "",
+            "answers": [
+                "rare",
+                "rarely",
+                "scarce"
+            ],
+            "correct": 0,
+            "id": "5d3e84997c494f48a37b04c9b4aeb29b"
+        },
+        {
+            "question": "The students are …………………… waiting for the results.",
+            "description": "",
+            "answers": [
+                "anxious",
+                "anxiously"
+            ],
+            "correct": 1,
+            "id": "883dd1a3b562424298a0c7e9f6c24fa7"
+        },
+        {
+            "question": "It happened all of a ……………………….",
+            "description": "All of a sudden and suddenly mean the same. ",
+            "answers": [
+                "sudden",
+                "suddenly"
+            ],
+            "correct": 0,
+            "id": "5c42d177b4d64fc88444c04c3922df33"
+        },
+        {
+            "question": "I was …………………….. to hear the news.",
+            "description": "",
+            "answers": [
+                "eager",
+                "eagerly"
+            ],
+            "correct": 0,
+            "id": "7d981cf3b3ee4ca99cf8202175f77fc4"
+        },
+        {
+            "question": "We …………………… listened to his anecdotes.",
+            "description": "",
+            "answers": [
+                "eager",
+                "eagerly"
+            ],
+            "correct": 1,
+            "id": "0910b126335740ae8d8a148ce3efcc06"
+        }
+    ]
+}

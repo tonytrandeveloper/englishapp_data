@@ -1,0 +1,137 @@
+{
+    "id": "9d9cbf4f36a94fba97369dbd052bbaca",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "I …………………………… the bags on the table.",
+            "description": "To lay is to put something down. Laid is the past tense of lay. ",
+            "answers": [
+                "lied",
+                "laid",
+                "lay"
+            ],
+            "correct": 1,
+            "id": "94dbda4e7e484f328ac0fdbf815b4a27"
+        },
+        {
+            "question": "I earn …………………………. money than a sweeper.",
+            "description": "We use less with uncountable nouns.",
+            "answers": [
+                "less",
+                "fewer",
+                "lesser"
+            ],
+            "correct": 0,
+            "id": "626d541028f84aeb8c44f5ed10f4433c"
+        },
+        {
+            "question": "I ……………………………… to ride a bicycle.",
+            "description": "Know cannot be followed directly by an infinitive.",
+            "answers": [
+                "know",
+                "know how",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3e01ef80f82245ce928977daa89455de"
+        },
+        {
+            "question": "Every country has ………………………………. traditions.",
+            "description": "It's means it is or it has.",
+            "answers": [
+                "it's",
+                "its"
+            ],
+            "correct": 1,
+            "id": "4256de5a5e5c4d3c8c2269377a72ac40"
+        },
+        {
+            "question": "An enormous frog sat ………………………………. the grass.",
+            "description": "",
+            "answers": [
+                "on",
+                "at",
+                "in"
+            ],
+            "correct": 0,
+            "id": "cc01266b85ab4780ba81643cc23386db"
+        },
+        {
+            "question": "‘I am hungry.’ ‘……………………………’",
+            "description": "We use ‘so + auxiliary + subject’ to add a positive remark to another positive sentence.",
+            "answers": [
+                "So am I",
+                "So do I",
+                "I am so"
+            ],
+            "correct": 0,
+            "id": "fd30909bb4a843068b2992a1d75633de"
+        },
+        {
+            "question": "‘I don’t like cricket.’ ‘…………………………. do I.’",
+            "description": "We use neither to add a negative addition to a negative idea.",
+            "answers": [
+                "So",
+                "Either",
+                "Neither"
+            ],
+            "correct": 2,
+            "id": "adaeed902f234fb3a80a5c809241a8a0"
+        },
+        {
+            "question": "Seldom ……………………………….. seen such a dangerous animal.",
+            "description": "Inversion is used after negative or restrictive words like hardly, seldom, little, rarely etc.",
+            "answers": [
+                "I have",
+                "have I",
+                "did I"
+            ],
+            "correct": 1,
+            "id": "ea7268ae084246d381f92acb85a8cc73"
+        },
+        {
+            "question": "At no time …………………………………. aware of what was happening.",
+            "description": "Inversion is used after negative or restrictive words like hardly, seldom, little, rarely etc.",
+            "answers": [
+                "she was",
+                "was she",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "8f8907042f4b4298881796a767fbeeb1"
+        },
+        {
+            "question": "Little …………………………………. realize the danger she faced.",
+            "description": "Inversion is used after negative or restrictive words like hardly, seldom, little, rarely etc.",
+            "answers": [
+                "she did",
+                "did she",
+                "had she"
+            ],
+            "correct": 1,
+            "id": "a3790c1b1a904e23bdd61c35be26e7f0"
+        },
+        {
+            "question": "I was ………………………………. if you could help me.",
+            "description": "We do not normally use think before indirect questions.",
+            "answers": [
+                "wondering",
+                "thinking",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "629c469c4bb249fdaff0e31843d5797b"
+        },
+        {
+            "question": "She asked ……………………………… I could help.",
+            "description": "Both if and whether can be used to introduce indirect questions.",
+            "answers": [
+                "if",
+                "whether",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4de62df980bf47c19af057c1706ea38e"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "id": "c9abd5d4f1f04c8a954d6f6a21a73930",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "If he ………………………….. a good education, he wouldn’t have reached this position.",
+            "description": "‘Hadn’t had’ is the past perfect tense form of the verb have. When we use ‘would have + past participle’ in the main clause, the verb in the if-clause should be in the past perfect tense.",
+            "answers": [
+                "hasn't had",
+                "hadn't have",
+                "hadn't had",
+                "didn't have"
+            ],
+            "correct": 2,
+            "id": "dd7b7b3fb37c451ebbc44b40a04b55da"
+        },
+        {
+            "question": "Tomorrow is difficult. I would rather you .................................. on Friday.",
+            "description": "After ‘would rather’, we use past tense with a present or future meaning.",
+            "answers": [
+                "come",
+                "came",
+                "have come",
+                "had come"
+            ],
+            "correct": 1,
+            "id": "d8db4faaab774ac9ba6206f8591f881c"
+        },
+        {
+            "question": "Maria …………………............ for a drink this evening.",
+            "description": "The present continuous tense is used to talk about pre-planned future events.",
+            "answers": [
+                "comes",
+                "is coming",
+                "will come"
+            ],
+            "correct": 1,
+            "id": "54ec1d068b4c4bf18972243a715bed40"
+        },
+        {
+            "question": "I ..................................... for twenty years this autumn.",
+            "description": "We use the future perfect or future perfect continuous tense to say that something will have been done by a certain time in the future. Although both of these tenses have similar meanings, the future perfect continuous is used to emphasize the continuity of a future achievement.",
+            "answers": [
+                "will be teaching",
+                "will have been teaching",
+                "will teach"
+            ],
+            "correct": 1,
+            "id": "cca263f3c1244c76847c6cb9a8c8e262"
+        },
+        {
+            "question": "The train ...................................... at half past six tomorrow morning.",
+            "description": "For something scheduled in the future we use simple present tense.",
+            "answers": [
+                "leaves",
+                "would leave",
+                "will leave"
+            ],
+            "correct": 0,
+            "id": "4c3c7e3df9914234bea6d805b26fbc23"
+        },
+        {
+            "question": "I was tired because I ..................................... all day.",
+            "description": "The past perfect continuous tense is used when we describe a past event as continuing up to a particular time in the past.",
+            "answers": [
+                "am working",
+                "have been working",
+                "had been working"
+            ],
+            "correct": 2,
+            "id": "23d90a00d4164909a78b746c8187916b"
+        },
+        {
+            "question": "I ……………………........ the shopping. What shall I do now?",
+            "description": "To suggest the completion of an activity in the unspecified or unknown past, we use the present perfect tense. In this case, the speaker doesn’t say when he did the shopping. Here the emphasis is merely on the idea of completion.",
+            "answers": [
+                "did",
+                "have done",
+                "had done"
+            ],
+            "correct": 1,
+            "id": "e385e98866034ecba88af7b08bbfd15c"
+        },
+        {
+            "question": "I …………………………. many musical instruments, but my favorite is the piano.",
+            "description": " To suggest the completion of an activity in the unspecified or unknown past, we use the present perfect tense. The present perfect tense is not used with a past time of reference. In that case, we have to use the past simple.",
+            "answers": [
+                "learned",
+                "learn",
+                "have learned",
+                "had learned"
+            ],
+            "correct": 2,
+            "id": "08d6787a78344aabaa29bdb570e223f8"
+        },
+        {
+            "question": "Students should always work hard because universities …………………………....... only the best students.",
+            "description": "Facts should be in the simple present tense.\r\n",
+            "answers": [
+                "are accepting",
+                "accept",
+                "have accepted",
+                "will accept"
+            ],
+            "correct": 1,
+            "id": "332b0f838bff4dd7b26d349f4b23baf3"
+        },
+        {
+            "question": "Developing nations ……………………… fossil fuels and raw materials because their economy …………………….. rapidly.",
+            "description": " It is a fact that developing nations need fossil fuels and we use simple present to talk about facts. The present continuous tense is used to talk about an action that is in progress at the moment of speaking.",
+            "answers": [
+                "are needing, is growing",
+                "have needed, is growing",
+                "need, grow",
+                "need, is growing"
+            ],
+            "correct": 3,
+            "id": "ae9c4f06d82d4c9db8a5114d1aa055b7"
+        },
+        {
+            "question": "The oil on a duck’s feathers ……………………. water and ……………………. the bird from getting soaked in the rain.",
+            "description": "We use the present simple tense to talk about facts.",
+            "answers": [
+                "is repelling, preventing",
+                "repels, is preventing",
+                "repels, prevents"
+            ],
+            "correct": 2,
+            "id": "c10f9041c69f4a9fb0b8d59a3e485922"
+        },
+        {
+            "question": "It is true that I still have some difficulties in English, but I ……………………….. better now.",
+            "description": "Some verbs refer to states. Examples are: like, hate, believe, understand, etc. Verbs which refer to states are always used in their simple forms.",
+            "answers": [
+                "am understanding",
+                "have understood",
+                "understand",
+                "understood"
+            ],
+            "correct": 2,
+            "id": "9c8ef176d13e4094b35ac7a5aeb047fb"
+        }
+    ]
+}

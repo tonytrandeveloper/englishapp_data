@@ -1,0 +1,115 @@
+{
+    "id": "f96d250480244cbeb460da0cd0105c01",
+    "title": "Active And Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "I did not beat her.",
+            "description": "",
+            "answers": [
+                "She is not beaten by me.",
+                "She has not beaten by me.",
+                "She was not beaten by me."
+            ],
+            "correct": 2,
+            "id": "7fdda338eb8d4693a812cba880e14158"
+        },
+        {
+            "question": "I will never forget this experience.",
+            "description": "",
+            "answers": [
+                "This experience is not forgotten by me.",
+                "This experience would never be forgotten by me.",
+                "This experience will never be forgotten by me."
+            ],
+            "correct": 2,
+            "id": "b514317af7c84a169658a8fdb9126062"
+        },
+        {
+            "question": "Mother made a cake yesterday.",
+            "description": "",
+            "answers": [
+                "A cake made by mother yesterday.",
+                "A cake is made by mother yesterday.",
+                "A cake was made by mother yesterday."
+            ],
+            "correct": 2,
+            "id": "aadc0a3ad15544cd816be6f914faa4e6"
+        },
+        {
+            "question": "The boy teased the girl.",
+            "description": "",
+            "answers": [
+                "The girl was teased by the boy.",
+                "The girl had teased by the boy."
+            ],
+            "correct": 0,
+            "id": "0303aee7f6ec493599e25415eeaae90e"
+        },
+        {
+            "question": "Did she do her duty?",
+            "description": "",
+            "answers": [
+                "Was she done her duty?",
+                "Was her duty done by her?",
+                "Had her duty done by her?"
+            ],
+            "correct": 1,
+            "id": "008494e244b94669a3b7ad7afc000fbd"
+        },
+        {
+            "question": "The tiger was chasing the deer.",
+            "description": "",
+            "answers": [
+                "The deer was chased by the tiger.",
+                "The deer was being chased by the tiger.",
+                "The deer had chased by the tiger."
+            ],
+            "correct": 1,
+            "id": "1694b89a0f634bbf885e7af74031724c"
+        },
+        {
+            "question": "She has written a novel.",
+            "description": "",
+            "answers": [
+                "A novel has written by her.",
+                "A novel has been written  by her.",
+                "A novel had written by her."
+            ],
+            "correct": 1,
+            "id": "f512a9b9ed6843829579dd70a28384b0"
+        },
+        {
+            "question": "She has learned her lessons.",
+            "description": "",
+            "answers": [
+                "Her lessons has learned by her.",
+                "Her lessons have been learned by her.",
+                "Her lessons had been learned by her."
+            ],
+            "correct": 1,
+            "id": "21c877bb6ccd4933baa14243b41867c7"
+        },
+        {
+            "question": "Have you finished the report?",
+            "description": "",
+            "answers": [
+                "Has the report finished by you?",
+                "Has the report been finished by you?",
+                "Had the report been finished by you?"
+            ],
+            "correct": 1,
+            "id": "cb4eeb1f66a14c498e9610a8b2b0e1f7"
+        },
+        {
+            "question": "The police have caught the thief.",
+            "description": "",
+            "answers": [
+                "The thief has been caught by the police.",
+                "The thief was caught by the police.",
+                "The thief had been caught by the police."
+            ],
+            "correct": 0,
+            "id": "6927cb8b44ce442c80c90c89575354e2"
+        }
+    ]
+}

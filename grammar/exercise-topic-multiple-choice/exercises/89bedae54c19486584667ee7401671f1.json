@@ -1,0 +1,137 @@
+{
+    "id": "89bedae54c19486584667ee7401671f1",
+    "title": "Commonly Confused Words Exercise",
+    "questions": [
+        {
+            "question": "Don’t ………….. in bed all day.",
+            "description": "To lie is to be down or become horizontal.",
+            "answers": [
+                "lie",
+                "lay",
+                "lain"
+            ],
+            "correct": 0,
+            "id": "9aebd7a6c3fa404d8738d2927899c446"
+        },
+        {
+            "question": "Susie was supposed to go to the party, but she was ill so Joe went ...................... her.",
+            "description": "If Joe went instead of Susie, that means he replaced her. If he went without Susie, that means he went alone. Susie didn't accompany him. ",
+            "answers": [
+                "instead of",
+                "without",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "5e1d48c29dae4fd89eb91c02decb52cd"
+        },
+        {
+            "question": "………….. expensive holidays could be the most interesting.",
+            "description": "The least can be used before adjectives in the same way as ‘the most’.",
+            "answers": [
+                "The least",
+                "Least",
+                "The lesser"
+            ],
+            "correct": 0,
+            "id": "85da49e91a3b46249fe9bcc34e776f80"
+        },
+        {
+            "question": "He …………….. to me when he said he loved me.",
+            "description": "Lied is the past participle of lie.",
+            "answers": [
+                "laid",
+                "lied",
+                "lain"
+            ],
+            "correct": 1,
+            "id": "64ee8907c19446dd9174b0ae426e7c9f"
+        },
+        {
+            "question": "She didn’t let me …………… what she was writing.",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "see",
+                "to see"
+            ],
+            "correct": 0,
+            "id": "734cf565f5dc4239b6dcc19a815bf703"
+        },
+        {
+            "question": "After questioning they were …………. home.",
+            "description": "Let is not normally used in passive forms.",
+            "answers": [
+                "allowed to go",
+                "let go"
+            ],
+            "correct": 0,
+            "id": "02c56a4ebdc14709867e619b13f0e2b6"
+        },
+        {
+            "question": "My parents had …………….",
+            "description": "When 'life' refers to the whole of a person’s life, it is normally countable and is used with articles.",
+            "answers": [
+                "hard life",
+                "a hard life",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e73aa550c8e6400a983d88e777468909"
+        },
+        {
+            "question": "I …………….. you and your husband.",
+            "description": "Very much cannot go between like and its object.",
+            "answers": [
+                "like very much",
+                "very much like",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3a0d4d4deaea42949c80ddb1baf12545"
+        },
+        {
+            "question": "I waited ………………… but he didn’t arrive.",
+            "description": "Long is mainly used in questions and negatives. In affirmative clauses, we use for a long time.",
+            "answers": [
+                "long",
+                "for a long time",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3ebb5405643443b3950ad81b99cc2631"
+        },
+        {
+            "question": "…………….. carefully – it is moving.",
+            "description": "No preposition is used when there is no object after look.",
+            "answers": [
+                "Look",
+                "Look at",
+                "Look in"
+            ],
+            "correct": 0,
+            "id": "988eba7d3c3f4e4fbb74166b8b3db3ae"
+        },
+        {
+            "question": "Paper is made ………… wood.",
+            "description": "When a material is changed into a totally different form to make something, we use make from.",
+            "answers": [
+                "of",
+                "off",
+                "with",
+                "from"
+            ],
+            "correct": 3,
+            "id": "dbdcf293f935489080a7013c69ce77f6"
+        },
+        {
+            "question": "You …………… work tomorrow if you don’t want to.",
+            "description": "Needn’t and don’t have to mean the same. ",
+            "answers": [
+                "needn't",
+                "don't have to",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "66c57e1cf55a45838c31d26f9a97acf7"
+        }
+    ]
+}

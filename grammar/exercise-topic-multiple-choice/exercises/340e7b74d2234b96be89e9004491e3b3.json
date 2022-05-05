@@ -1,0 +1,141 @@
+{
+    "id": "340e7b74d2234b96be89e9004491e3b3",
+    "title": "Parts Of Speech Exercise",
+    "questions": [
+        {
+            "question": "This wood will make a good hiding place. Here hiding is a/an …………………….",
+            "description": "Adjectives are words used to modify nouns. Here the adjective hiding modifies the noun place.",
+            "answers": [
+                "verb",
+                "adverb",
+                "adjective"
+            ],
+            "correct": 2,
+            "id": "932d30cdf51b4298a3d18fd14064a0b2"
+        },
+        {
+            "question": "She was made to repeat the whole story. Here story is a/an …………………….",
+            "description": "A noun is the name of a person, place or thing.",
+            "answers": [
+                "verb",
+                "pronoun",
+                "noun"
+            ],
+            "correct": 2,
+            "id": "95fe135aaf1c4c74b00202583b102103"
+        },
+        {
+            "question": "They lived many miles from the town. Which of the following is the preposition?",
+            "description": "",
+            "answers": [
+                "they",
+                "many",
+                "from"
+            ],
+            "correct": 2,
+            "id": "81515cf5723a487cb049d20007cc5b69"
+        },
+        {
+            "question": "The government seems to change its mind a great deal. Here seems is a/an …………………………",
+            "description": "The verb is a word that explains what the subject is or what it does. ",
+            "answers": [
+                "verb",
+                "adverb",
+                "noun",
+                "conjunction"
+            ],
+            "correct": 0,
+            "id": "045370aa663c49fc8c4235a60d1cbe85"
+        },
+        {
+            "question": "In the two weeks in the job he made himself thoroughly disliked. Here thoroughly is a/an ………………………",
+            "description": "Most words ending in –ly are adverbs. Here the adverb thoroughly modifies the verb.",
+            "answers": [
+                "adjective",
+                "adverb",
+                "verb"
+            ],
+            "correct": 1,
+            "id": "e0081ec8bd9d40ada2e46e7426a09b98"
+        },
+        {
+            "question": "Can you make me a birthday cake by Monday? Here me is a/an ……………………..",
+            "description": "A pronoun is a word used to refer to the speaker, the person spoken to or the person spoken of.",
+            "answers": [
+                "noun",
+                "pronoun",
+                "preposition"
+            ],
+            "correct": 1,
+            "id": "f11866f61a3b4918aa7f2a743c0e72d3"
+        },
+        {
+            "question": "Alice and James got married last week. Here last week is a/an ……………………..",
+            "description": "Words indicating time are usually adverbs.",
+            "answers": [
+                "adjective",
+                "adverb",
+                "preposition"
+            ],
+            "correct": 1,
+            "id": "b5aab9d92a454d33862db14559321da4"
+        },
+        {
+            "question": "After three very unhappy years, they divorced. Here after is a/an ……………………",
+            "description": "A conjunction is a word used to connect two clauses.",
+            "answers": [
+                "Conjunction",
+                "Preposition",
+                "Verb"
+            ],
+            "correct": 0,
+            "id": "ca0543d70f3745a9a4b1d03d82d2efc2"
+        },
+        {
+            "question": "I have been married to you for twenty years and I still don’t understand you. Here twenty is a/an ……………………..",
+            "description": "Both ordinal and cardinal numbers are adjectives.",
+            "answers": [
+                "adjective",
+                "adverb",
+                "verb",
+                "noun"
+            ],
+            "correct": 0,
+            "id": "308ccdf90ce44f46a03324ed80062749"
+        },
+        {
+            "question": "I couldn’t think clearly, and I felt hot. Here felt is a/an …………………….",
+            "description": "Verbs are action words. ",
+            "answers": [
+                "noun",
+                "conjunction",
+                "verb",
+                "adverb"
+            ],
+            "correct": 2,
+            "id": "560fefd081d04e9eb68c4605e9da56e7"
+        },
+        {
+            "question": "The manager says that we may leave our coats in the bathroom. Here manager is a/an ……………………….",
+            "description": "A noun is the name of a person, place or thing. ",
+            "answers": [
+                "noun",
+                "pronoun",
+                "adverb"
+            ],
+            "correct": 0,
+            "id": "cba6fe0528144162b6464963ea08f644"
+        },
+        {
+            "question": "The rain made the grass wet. Here wet is a/an ………………………",
+            "description": "Adjectives are words that describe a quality. ",
+            "answers": [
+                "adjective",
+                "adverb",
+                "verb"
+            ],
+            "correct": 0,
+            "id": "ec29974b10414aee8b1affa61218932c"
+        }
+    ]
+}

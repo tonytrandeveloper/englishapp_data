@@ -1,0 +1,138 @@
+{
+    "id": "42280f6f9b444aec8ef2fb1e655e93a1",
+    "title": "Both, Either, Neither",
+    "questions": [
+        {
+            "question": ".................. of us were ill, so we didn't go to school.",
+            "description": "Both means first as well as the second.",
+            "answers": [
+                "Both",
+                "Either",
+                "Neither"
+            ],
+            "correct": 0,
+            "id": "5f1f7cbd04a7450494c3afc91e18fa63"
+        },
+        {
+            "question": ".................. of these answers is correct.",
+            "description": "Both would be correct here if the verb was are.  ",
+            "answers": [
+                "Either",
+                "Both",
+                "Neither"
+            ],
+            "correct": 2,
+            "id": "52ec0d002c5442e3b1db39c7c5daf64a"
+        },
+        {
+            "question": ".................. my parents are teachers.",
+            "description": "Both means first as well as the second.",
+            "answers": [
+                "Both",
+                "Either",
+                "Neither"
+            ],
+            "correct": 0,
+            "id": "a0642854ff31489baa621d17a879b8f1"
+        },
+        {
+            "question": "She kissed them ................... on the forehead.",
+            "description": "",
+            "answers": [
+                "both",
+                "either",
+                "neither"
+            ],
+            "correct": 0,
+            "id": "8e9e74705715488c9815621c1a99a969"
+        },
+        {
+            "question": "................... my children like sports.",
+            "description": "Both means first as well as the second. ",
+            "answers": [
+                "Both",
+                "Either",
+                "Neither"
+            ],
+            "correct": 0,
+            "id": "2186c4f4e423415e82a9a194915bf7f0"
+        },
+        {
+            "question": "I didn't like .................... of these.",
+            "description": "Either means one or the other. ",
+            "answers": [
+                "Either",
+                "Both",
+                "Neither"
+            ],
+            "correct": 0,
+            "id": "615efd2c166b43f5a88160fcb6722e66"
+        },
+        {
+            "question": "I can't choose between them. I like them ....................",
+            "description": "Both means first as well as second.",
+            "answers": [
+                "both",
+                "either",
+                "neither"
+            ],
+            "correct": 0,
+            "id": "d185566fbcfe4317b787029fffae70ac"
+        },
+        {
+            "question": "................... Sam nor Peter turned up today.",
+            "description": "Neither means none of the two.",
+            "answers": [
+                "Neither",
+                "Either",
+                "Both"
+            ],
+            "correct": 0,
+            "id": "5e95f04d01d846d29a1d1019513be36d"
+        },
+        {
+            "question": "I don't like .................. of them.",
+            "description": "Neither means one of the two. ",
+            "answers": [
+                "either",
+                "both",
+                "neither"
+            ],
+            "correct": 0,
+            "id": "a4d31d5ac83a4459899064210732816e"
+        },
+        {
+            "question": "..................... him nor his parents were able to give a satisfactory explanation.",
+            "description": "Neither means none of the two.",
+            "answers": [
+                "Either",
+                "Neither",
+                "Both"
+            ],
+            "correct": 1,
+            "id": "9c632f85bf504f3b88fe230147db2862"
+        },
+        {
+            "question": "I have invited ................... of them.",
+            "description": "Both means first as well as second.",
+            "answers": [
+                "either",
+                "both",
+                "neither"
+            ],
+            "correct": 1,
+            "id": "98962ce7445542a397fd2552d59ff265"
+        },
+        {
+            "question": "I wrote to ................... of them but .................. replied.",
+            "description": "",
+            "answers": [
+                "both, neither",
+                "either, both",
+                "either, neither"
+            ],
+            "correct": 0,
+            "id": "4456d55016af4388836481f4d8ffa624"
+        }
+    ]
+}

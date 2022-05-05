@@ -1,0 +1,141 @@
+{
+    "id": "5184eca2c7d24d57a1f224512fbcee25",
+    "title": "Question Tags Exercise",
+    "questions": [
+        {
+            "question": "I’m right, ………………..?",
+            "description": "The question tag for I’m is aren’t I.",
+            "answers": [
+                "am I",
+                "am'nt I",
+                "aren't I"
+            ],
+            "correct": 2,
+            "id": "69de5f6afa864086bd3c0c3f7d4ea226"
+        },
+        {
+            "question": "Shut up, …………………?",
+            "description": "After imperatives will you, would you, can you, can’t you or couldn’t you can be used to tell people to do things.",
+            "answers": [
+                "can't you",
+                "can you",
+                "will you",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "5a47f21e9e584878ae379f245f9e1da7"
+        },
+        {
+            "question": "Don’t forget, ………………?",
+            "description": "After negative imperatives, we use ‘will you?’",
+            "answers": [
+                "will you",
+                "won't you",
+                "can you"
+            ],
+            "correct": 0,
+            "id": "6ccbab431eeb4eb4896b01a3f8b7d82a"
+        },
+        {
+            "question": "Move a bit, ……………..?",
+            "description": "After imperatives will you, would you, can you, can’t you or couldn’t you can be used to tell people to do things.",
+            "answers": [
+                "will you",
+                "would you",
+                "can you",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "e19ab1edb6a04c8b8c61927a99d93227"
+        },
+        {
+            "question": "Let’s go for a walk, …………………?",
+            "description": "After let’s we use ‘shall we?’",
+            "answers": [
+                "should we",
+                "shall we",
+                "can we"
+            ],
+            "correct": 1,
+            "id": "b33aca75daee468da766383963cf5c68"
+        },
+        {
+            "question": "You never say what you are going, …………………?",
+            "description": "Non-negative tags are used after negative words like never, no, nobody, hardly etc.",
+            "answers": [
+                "do you",
+                "don't you",
+                "did you"
+            ],
+            "correct": 0,
+            "id": "029f1cfcc0b7489d882b90d68d09f4d8"
+        },
+        {
+            "question": "There is little we can do about it, ……………….?",
+            "description": "Non-negative tags are used after negative words like never, no, little, nobody, hardly etc.",
+            "answers": [
+                "is there",
+                "isn't there",
+                "has there"
+            ],
+            "correct": 0,
+            "id": "58381668f1454ef0b6d8d7ebc8a07cab"
+        },
+        {
+            "question": "Somebody wanted a pizza, …………………..?",
+            "description": "We use they to refer to somebody, nobody and everybody.",
+            "answers": [
+                "did they",
+                "didn't they",
+                "hadn't they"
+            ],
+            "correct": 1,
+            "id": "76f903e2a5d0421e87c6d654fdab5b47"
+        },
+        {
+            "question": "He has a daughter, ………………..?",
+            "description": "When have is used as a main verb, question tags with both have and do are possible.",
+            "answers": [
+                "has he",
+                "does he",
+                "hasn't he",
+                "doesn't he"
+            ],
+            "correct": 3,
+            "id": "268fdb7d244943e19e648674c149bf92"
+        },
+        {
+            "question": "There weren’t any issues, ………………..?",
+            "description": "There can be used as a subject in question tags.",
+            "answers": [
+                "were there",
+                "weren't there",
+                "were they"
+            ],
+            "correct": 0,
+            "id": "3540c41f7bc842cb9f7ff4d908c9b6e6"
+        },
+        {
+            "question": "Ravi wants to be an actor, ………………..?",
+            "description": "",
+            "answers": [
+                "does he",
+                "doesn't he",
+                "hasn't he"
+            ],
+            "correct": 1,
+            "id": "d67853b6ba194b2896262a6921ad5d46"
+        },
+        {
+            "question": "Julia visited you yesterday, ………………..?",
+            "description": "",
+            "answers": [
+                "did she",
+                "didn't she",
+                "doesn't she"
+            ],
+            "correct": 1,
+            "id": "7113ab4e11524810b8ed1c73ce98f501"
+        }
+    ]
+}

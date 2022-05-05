@@ -1,0 +1,138 @@
+{
+    "id": "b9dd60868b74454389361e34ef699169",
+    "title": "Already, Still Or Yet",
+    "questions": [
+        {
+            "question": "Is supper ready ...............................?",
+            "description": "In questions yet is used to ask whether something expected has happened.",
+            "answers": [
+                "already",
+                "yet",
+                "still"
+            ],
+            "correct": 1,
+            "id": "e5a9941e7dc44fd59e8fb61d397e189e"
+        },
+        {
+            "question": "I have .................................. to hear from them.",
+            "description": "Yet is used before a to-infinitive to suggest that something has not happened.",
+            "answers": [
+                "yet",
+                "still",
+                "already"
+            ],
+            "correct": 0,
+            "id": "3c6e170ed71e41aea150736fb29d5c18"
+        },
+        {
+            "question": "They have ..................................... made an offer.",
+            "description": "Already refers to the present or past. It is used to suggest that something happened sooner than expected.",
+            "answers": [
+                "already",
+                "still",
+                "yet"
+            ],
+            "correct": 0,
+            "id": "20f1d0ebb74c4312bb58e1e55937a83a"
+        },
+        {
+            "question": "She has ................................. to start working on the new project.",
+            "description": "Yet is used before a to-infinitive to suggest that something has not happened.",
+            "answers": [
+                "already",
+                "yet",
+                "still"
+            ],
+            "correct": 1,
+            "id": "55f6502bd405476f982d0d25d8cac135"
+        },
+        {
+            "question": "They are ................................ waiting.",
+            "description": "Still is used to say that something is in the present and it has not finished.",
+            "answers": [
+                "yet",
+                "already",
+                "still"
+            ],
+            "correct": 2,
+            "id": "ad4980dd81d14e518281115e90cbfb95"
+        },
+        {
+            "question": "The university is ...................................... to publish the results.",
+            "description": "Yet is used before a to-infinitive to suggest that something has not happened.",
+            "answers": [
+                "yet",
+                "already",
+                "still"
+            ],
+            "correct": 0,
+            "id": "7392f2c8de4f494cb7b8de79bacb8559"
+        },
+        {
+            "question": "It is ................................... raining.",
+            "description": "Still is used to say that something is in the present and it has not finished.",
+            "answers": [
+                "yet",
+                "already",
+                "still"
+            ],
+            "correct": 2,
+            "id": "00e5e6cd09d44d74905784a65808f3ab"
+        },
+        {
+            "question": "The postman has ..................................... been.",
+            "description": "Already refers to the present or past. It is used to suggest that something happened sooner than expected.",
+            "answers": [
+                "already",
+                "still",
+                "yet"
+            ],
+            "correct": 0,
+            "id": "6fdac4c17b7d43d7a7035c50f0643df7"
+        },
+        {
+            "question": "Has the postman come ........................................?",
+            "description": "In questions yet is used to ask whether something expected has happened.",
+            "answers": [
+                "already",
+                "yet",
+                "still"
+            ],
+            "correct": 1,
+            "id": "b57c5f0f55e74581a22a72dd3e4ba813"
+        },
+        {
+            "question": "I have ........................................ submitted my application.",
+            "description": "",
+            "answers": [
+                "already",
+                "yet",
+                "still"
+            ],
+            "correct": 0,
+            "id": "f22f3b8888bf4a7a97355d883c2e9124"
+        },
+        {
+            "question": "Have they arrived .......................................?",
+            "description": "",
+            "answers": [
+                "already",
+                "yet",
+                "still"
+            ],
+            "correct": 1,
+            "id": "41d9218b247745aeb7f22830c2ec6b16"
+        },
+        {
+            "question": "The families of the victims are .................................... to get justice.",
+            "description": "Yet is used before a to-infinitive to suggest that something expected has not happened.",
+            "answers": [
+                "yet",
+                "already",
+                "still"
+            ],
+            "correct": 0,
+            "id": "4a66bef6526149ba931ae68c38a8112c"
+        }
+    ]
+}

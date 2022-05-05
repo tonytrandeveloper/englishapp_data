@@ -1,0 +1,139 @@
+{
+    "id": "4b493209600f47198a198a6531c55d82",
+    "title": "Sequence of Tenses Exercise",
+    "questions": [
+        {
+            "question": "I waited for my friend until he ……………….",
+            "description": "A past tense in the main clause is usually followed by a past tense in the subordinate clause.",
+            "answers": [
+                "comes",
+                "came",
+                "had come",
+                "has come"
+            ],
+            "correct": 1,
+            "id": "80a715cec4a744748f714945d8fc76c7"
+        },
+        {
+            "question": "He ran as quickly as he …………………..",
+            "description": "Could is the past tense form of can. A past tense in the main clause is usually followed by a past tense in the subordinate clause.",
+            "answers": [
+                "can",
+                "could",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "9064622fd9724d8480aed3f25337af67"
+        },
+        {
+            "question": "He ran away because he ………………. afraid.",
+            "description": "Was is the past simple form of is. A past tense in the main clause is usually followed by a past tense in the subordinate clause.",
+            "answers": [
+                "is",
+                "was",
+                "has"
+            ],
+            "correct": 1,
+            "id": "4ebd5adcbf674289bed5a8c99ce4d3f4"
+        },
+        {
+            "question": "He was so tired that he ………………… barely stand.",
+            "description": "",
+            "answers": [
+                "can",
+                "could",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "394f238ab3654cae9f3e11fe0e8eea33"
+        },
+        {
+            "question": "After the rain was over, the sun ………………… out again.",
+            "description": "Either shone or shined is possible here. ",
+            "answers": [
+                "shines",
+                "shone",
+                "shined"
+            ],
+            "correct": 2,
+            "id": "29e98754e8ab474fab1160c0139f4e18"
+        },
+        {
+            "question": "His health ………………….. since he left the city.",
+            "description": "Perfect tenses are preferred with since and for.",
+            "answers": [
+                "improved",
+                "has improved",
+                "had improved"
+            ],
+            "correct": 1,
+            "id": "5e5c2025c3904c5fa11667a947e36c8a"
+        },
+        {
+            "question": "Whenever we ………………… we talk of old times.",
+            "description": "We use the simple present to talk about habits or routines.",
+            "answers": [
+                "met",
+                "meet",
+                "meets"
+            ],
+            "correct": 1,
+            "id": "616a79f92dd44682bd7b603931763420"
+        },
+        {
+            "question": "Wherever he …………………., people gathers to listen.",
+            "description": "We use the simple present to talk about habits or routines.",
+            "answers": [
+                "preached",
+                "is preaching",
+                "preaches"
+            ],
+            "correct": 2,
+            "id": "9ff7c0cd994644a4925673ffab81efc5"
+        },
+        {
+            "question": "Galileo maintained that the earth ..................... round the sun.",
+            "description": "A past tense in the main clause may be followed by a present tense in the subordinate clause when the subordinate clause expresses a universal truth.",
+            "answers": [
+                "move",
+                "moves",
+                "moved"
+            ],
+            "correct": 2,
+            "id": "b39b9d54d20242b6b9d859c0bcaf8f4b"
+        },
+        {
+            "question": "Newton discovered that the force of gravitation ...................... apples fall.",
+            "description": "A past tense in the main clause may be followed by a present tense in the subordinate clause when the subordinate clause expresses a universal truth.",
+            "answers": [
+                "make",
+                "makes",
+                "made"
+            ],
+            "correct": 2,
+            "id": "3076805eef5c4b65907c28f7b305a9d5"
+        },
+        {
+            "question": "He rested his horse because it …………………",
+            "description": "",
+            "answers": [
+                "limps",
+                "limped",
+                "was limping"
+            ],
+            "correct": 2,
+            "id": "a6b212faed0a4df4899dd4cf5b828730"
+        },
+        {
+            "question": "He said that he …………………. the examination.",
+            "description": "When the reporting verb is in the past tense, all present tenses of the direct speech changes into the corresponding past tense. ",
+            "answers": [
+                "passed",
+                "has passed",
+                "had passed"
+            ],
+            "correct": 2,
+            "id": "2f2a9561aad6482b8299f520f17e4280"
+        }
+    ]
+}

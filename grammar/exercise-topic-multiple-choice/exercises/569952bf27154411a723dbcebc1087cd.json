@@ -1,0 +1,138 @@
+{
+    "id": "569952bf27154411a723dbcebc1087cd",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "‘I didn’t pass the test.’ ‘…………………………. did I.’",
+            "description": "After a negative statement, we can add another negative statement to it with neither or nor. ",
+            "answers": [
+                "Either",
+                "Neither",
+                "Nor"
+            ],
+            "correct": 2,
+            "id": "b29ef90c38634225bf9487e49f12ce08"
+        },
+        {
+            "question": "She is …………………………. beautiful.",
+            "description": "Too shows unwanted extremes. ",
+            "answers": [
+                "so",
+                "too",
+                "so much"
+            ],
+            "correct": 0,
+            "id": "a49bc7bb29c1452caccf5d4e4a2b9322"
+        },
+        {
+            "question": "I am …………………………… happy.",
+            "description": "We do not use so much to modify adjectives and adverbs.",
+            "answers": [
+                "so",
+                "so much"
+            ],
+            "correct": 0,
+            "id": "e539d352a86e4c469391a8dc0721749b"
+        },
+        {
+            "question": "Start at once, …………………………… you do not miss the train.",
+            "description": "Either so that or in order that cannot be used here.",
+            "answers": [
+                "so that",
+                "so as to",
+                "in order that",
+                "in order to"
+            ],
+            "correct": 2,
+            "id": "2deb1fa11f5a4359bbde26da53be6872"
+        },
+        {
+            "question": "I waited for ………………………… two hours but he didn’t come.",
+            "description": "We can use another with plural expressions of quantity.",
+            "answers": [
+                "other",
+                "another",
+                "an other"
+            ],
+            "correct": 1,
+            "id": "ff1b3733417647f3bbdad46575c9d9d4"
+        },
+        {
+            "question": "Buses leave ………………………….. ten minutes.",
+            "description": "Every can be used before plural expressions in measurements of frequency.",
+            "answers": [
+                "every",
+                "all",
+                "each"
+            ],
+            "correct": 0,
+            "id": "0a1acaec6e524c4da8a2e1f2235e1509"
+        },
+        {
+            "question": "My ……………………………… been stolen.",
+            "description": "Baggage does not have a plural form. ",
+            "answers": [
+                "baggage have",
+                "baggage has",
+                "baggages have"
+            ],
+            "correct": 1,
+            "id": "838c242fdc7d4dc2beb15010a5e401ea"
+        },
+        {
+            "question": "Alice and James ……………………………. agreed to come.",
+            "description": "When two singular nouns are connected by and, the verb should be plural. ",
+            "answers": [
+                "has",
+                "have",
+                "are"
+            ],
+            "correct": 1,
+            "id": "01dc02d1637041dca64b1c620a7ea7ae"
+        },
+        {
+            "question": "He sings as well as ………………………… the guitar.",
+            "description": "He sings as well as playing the guitar means 'He not only plays the guitar, but also sings.'",
+            "answers": [
+                "plays",
+                "playing",
+                "play"
+            ],
+            "correct": 1,
+            "id": "9972d338e4ec4cdf9e346eb48f43eb2f"
+        },
+        {
+            "question": "The more he earns, the …………………………. he spends.",
+            "description": "Less is the comparative form of little. The comparative is used in both clauses in this structure. ",
+            "answers": [
+                "less",
+                "lesser",
+                "little"
+            ],
+            "correct": 0,
+            "id": "24e1a3dca792465eb5222944bc3ac20d"
+        },
+        {
+            "question": "It is cruel …………………………… animals in that way.",
+            "description": "",
+            "answers": [
+                "to treat",
+                "for treating",
+                "to treating"
+            ],
+            "correct": 0,
+            "id": "017412c60ef34201baea9a228ab7c4ff"
+        },
+        {
+            "question": "I was …………………………. tired that I couldn’t walk any further.",
+            "description": "Note the pattern so...that...",
+            "answers": [
+                "too",
+                "very",
+                "so"
+            ],
+            "correct": 2,
+            "id": "5710e33c4d714c398d31aabfc4f027b5"
+        }
+    ]
+}

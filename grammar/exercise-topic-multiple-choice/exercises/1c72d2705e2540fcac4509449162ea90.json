@@ -1,0 +1,140 @@
+{
+    "id": "1c72d2705e2540fcac4509449162ea90",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "I know a man ………………….. son studies in the US.",
+            "description": "The relative pronoun whose can connect two clauses and replace possessive pronouns like his, her or their.",
+            "answers": [
+                "who",
+                "whose",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "89c394bdddc84f6fa9b634025572c89e"
+        },
+        {
+            "question": "The thief ………………… stole the watch was punished.",
+            "description": "Which can only be used to refer to things. Whom is an object pronoun.",
+            "answers": [
+                "who",
+                "which",
+                "what",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "68aa3da3d03a48ecbf9e70f852f8aa2d"
+        },
+        {
+            "question": "Show me the road ………………. leads to Agra.",
+            "description": "Both that and which can refer to things. ",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "75be1493ab9d4f05bcd54642285668a6"
+        },
+        {
+            "question": "He …………….. does his best should be rewarded.",
+            "description": "When we split the clauses we get the following: He does his best. He should be rewarded. The relative pronoun 'who' can connect two clauses and replace pronouns like he, she and they. ",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "c79a77a9b9594532afc690f3513d6808"
+        },
+        {
+            "question": "My grandfather ………………. I loved is dead.",
+            "description": "Whom is the correct option here. Who is also possible in an informal style. ",
+            "answers": [
+                "who",
+                "whom",
+                "which",
+                "Either who or whom"
+            ],
+            "correct": 3,
+            "id": "ef39db38283144ada959bd6f0fda3a41"
+        },
+        {
+            "question": "Wellington ………………. defeated Napoleon at the Battle of Waterloo was a great general.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "29f783fcd514432f856f8c7ef567c56d"
+        },
+        {
+            "question": "We met a child ……………. had lost his way.",
+            "description": "",
+            "answers": [
+                "who",
+                "which",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "574b04a6da294487b3194c9fb478df6c"
+        },
+        {
+            "question": "He is a rascal ……………… no one likes.",
+            "description": "When we split the clauses we get the following: He is a rascal. No one likes him. \r\nThe relative pronoun ‘whom’ replaces words like him, her and them.\r\n",
+            "answers": [
+                "whom",
+                "which",
+                "what"
+            ],
+            "correct": 0,
+            "id": "63b9d76d23d74cf79a4784e6ae7faa0a"
+        },
+        {
+            "question": "That boy ……………… you see over there plays very well.",
+            "description": "When we split the clauses we get: That boy plays very well. You see him over there.\r\nThe relative pronoun ‘whom’ replaces words like him, her and them. 'Who' is also possible here in an informal style. \r\n",
+            "answers": [
+                "who",
+                "whom",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "b21d931357864f5fa68864bc5cbb0c3a"
+        },
+        {
+            "question": "Here are the keys ………………. you were looking for.",
+            "description": "Both 'that' and 'which' can refer to things. ",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "9580f96a09cc48cdb1fbb82da482ac15"
+        },
+        {
+            "question": "The dog bit the burglar ……………….. had broken into the house.",
+            "description": "When we split the clauses we get the following: The dog bit the burglar. He had broken into the house. The relative pronoun who replaces words like he, she and they. ",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "3aa1328ff9b243eeba75c835f585ed99"
+        },
+        {
+            "question": "Coal ……………… is a useful mineral is found in many parts of the world.",
+            "description": "When we split the clauses we get the following: Coal is a useful mineral. It is found in many parts of the world.\r\nThe relative pronoun ‘which’ replaces pronouns like it. \r\n",
+            "answers": [
+                "which",
+                "what",
+                "whose"
+            ],
+            "correct": 0,
+            "id": "6dd4948906944b7ebb12cca891ad0d96"
+        }
+    ]
+}

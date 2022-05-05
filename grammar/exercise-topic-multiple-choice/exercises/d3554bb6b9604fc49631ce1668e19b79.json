@@ -1,0 +1,126 @@
+{
+    "id": "d3554bb6b9604fc49631ce1668e19b79",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "She will not come unless you invite her.",
+            "description": "",
+            "answers": [
+                "Unless is a coordinating conjunction",
+                "Unless is a subordinating conjunction"
+            ],
+            "correct": 1,
+            "id": "34e1d6dc77834d17921d5877ad603eb8"
+        },
+        {
+            "question": "I arrived after they had gone.",
+            "description": "",
+            "answers": [
+                "After is a subordinating conjunction",
+                "After is a coordinating conjunction"
+            ],
+            "correct": 0,
+            "id": "630bc8876ba044c6986a748ff4a4d0ff"
+        },
+        {
+            "question": "I waited till he arrived.",
+            "description": "",
+            "answers": [
+                "Till is a subordinating conjunction",
+                "Till is a coordinating conjunction"
+            ],
+            "correct": 0,
+            "id": "25327fc3bb9e4d0f8aefe109466e243c"
+        },
+        {
+            "question": "Jack and Jill went up the hill.",
+            "description": "",
+            "answers": [
+                "And is a coordinating conjunction",
+                "And is a subordinating conjunction"
+            ],
+            "correct": 0,
+            "id": "214fd968b7cb41cbb7dba8b4aa015efe"
+        },
+        {
+            "question": "You will get a promotion if you deserve it.",
+            "description": "",
+            "answers": [
+                "If is a subordinating conjunction",
+                "If is a coordinating conjunction"
+            ],
+            "correct": 0,
+            "id": "ac83c0a49b8247b691521a8a9c3b9ef4"
+        },
+        {
+            "question": "When you are called you must come in at once.",
+            "description": "",
+            "answers": [
+                "When is a subordinating conjunction",
+                "When is a coordinating conjunction"
+            ],
+            "correct": 0,
+            "id": "183342c32abc4175893d5f47f61d8f1a"
+        },
+        {
+            "question": "Don’t go before I come.",
+            "description": "",
+            "answers": [
+                "Before is a subordinating conjunction",
+                "Before is a coordinating conjunction"
+            ],
+            "correct": 0,
+            "id": "21b17d894ab94472ac778b4d0df053a6"
+        },
+        {
+            "question": "He is richer than I am.",
+            "description": "",
+            "answers": [
+                "Than is a subordinating conjunction",
+                "Than is a coordinating conjunction"
+            ],
+            "correct": 0,
+            "id": "156be23344dd47b683696f4380efe5de"
+        },
+        {
+            "question": "We reached home before the storm broke out.",
+            "description": "",
+            "answers": [
+                "Before is a subordinating conjunction",
+                "Before is a coordinating conjunction"
+            ],
+            "correct": 0,
+            "id": "23800cc8ce0342d0b651da60a5d1abe2"
+        },
+        {
+            "question": "Catch me if you can.",
+            "description": "",
+            "answers": [
+                "If is a subordinating conjunction",
+                "If is a coordinating conjunction"
+            ],
+            "correct": 0,
+            "id": "5b7c53e86e184683a349737371b87eb1"
+        },
+        {
+            "question": "They must be sleeping for there is no light in their room.",
+            "description": "",
+            "answers": [
+                "For is a subordinating conjunction",
+                "For is a coordinating conjunction"
+            ],
+            "correct": 1,
+            "id": "6b60e6af4f4a4925a73c2b2b536f208a"
+        },
+        {
+            "question": "She neither phoned nor wrote.",
+            "description": "",
+            "answers": [
+                "Neither...nor is a subordinating conjunction",
+                "Neither...nor is a coordinating conjunction"
+            ],
+            "correct": 1,
+            "id": "539da2c183354828aa7d55b0fd5117d5"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "ea861a97333d4722990f994ec2063450",
+    "title": "Intermediate Level Grammar Exercise",
+    "questions": [
+        {
+            "question": "I …………………. he is not at home.",
+            "description": "The conjunction that can be omitted after say, think, suppose, hope and expect.",
+            "answers": [
+                "suppose",
+                "suppose that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ae9cb51207e441a49c506dcd13f2ec39"
+        },
+        {
+            "question": "I consider the plan ……………………..",
+            "description": "To be can be left out after consider, think, suppose and report.",
+            "answers": [
+                "unwise",
+                "to be unwise",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "124da622195041b9a7f610f44f85b77b"
+        },
+        {
+            "question": "The boys suggested ……………………….. to the park.",
+            "description": "We cannot use a to-infinitive after suggest. Instead, we use an ing form or a that-clause.",
+            "answers": [
+                "us to go",
+                "going",
+                "that we should go"
+            ],
+            "correct": 2,
+            "id": "aa678e73e13a43ae88a488da5ed33d7d"
+        },
+        {
+            "question": "He ………………………… he had written the letter.",
+            "description": "That cannot be left out after admit.",
+            "answers": [
+                "admitted",
+                "admitted that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "14170bc39c894949bc180569a69219e1"
+        },
+        {
+            "question": "We ………………………. you would succeed.",
+            "description": "That can be left out after hope.",
+            "answers": [
+                "hoped",
+                "hoped that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "689d697ab8cc4455b2f3308f63f6e1d0"
+        },
+        {
+            "question": "We saw him …………………….. out.",
+            "description": "The infinitive is used without to after see.",
+            "answers": [
+                "go",
+                "to go",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "0625a678dac3444a9e583463ec5333a8"
+        },
+        {
+            "question": "The teacher made the boy …………………….. his lesson.",
+            "description": "The infinitive is used without to after make.",
+            "answers": [
+                "learn",
+                "to learn",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "e29d9206e4b847cca4bc949b91afceb9"
+        },
+        {
+            "question": "We heard them ……………………..",
+            "description": "The infinitive is used without to after hear.",
+            "answers": [
+                "laugh",
+                "to laugh",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "4f4732332c434baca1daf766858758f4"
+        },
+        {
+            "question": "We saw him ……………………… the bridge.",
+            "description": "We cannot use a to-infinitive after see. Instead we use an ing form or a bare infinitive.",
+            "answers": [
+                "cross",
+                "to cross",
+                "crossing"
+            ],
+            "correct": 2,
+            "id": "11e4f7e8cd4f4b8f98cb7c94ef9c2d2a"
+        },
+        {
+            "question": "She kept the fire ………………………..",
+            "description": "In this structure the ing form indicates a state of continuity. ",
+            "answers": [
+                "burning",
+                "to burn",
+                "burned"
+            ],
+            "correct": 0,
+            "id": "342dfb9bfa624a3da8eeaf99883c0650"
+        },
+        {
+            "question": "We found the house ………………………….",
+            "description": "The past participle is used with a passive meaning in this structure. ",
+            "answers": [
+                "deserting",
+                "deserted",
+                "to desert"
+            ],
+            "correct": 1,
+            "id": "9ba0a2879b7043919642f34deb1010b9"
+        },
+        {
+            "question": "You should get that tooth …………………………..",
+            "description": "",
+            "answers": [
+                "extracting",
+                "to extract",
+                "extracted"
+            ],
+            "correct": 2,
+            "id": "262bb3cdb27048108d9b45c5c5e1ff36"
+        }
+    ]
+}

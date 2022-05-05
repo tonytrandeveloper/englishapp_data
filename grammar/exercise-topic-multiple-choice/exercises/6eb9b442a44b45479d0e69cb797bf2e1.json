@@ -1,0 +1,137 @@
+{
+    "id": "6eb9b442a44b45479d0e69cb797bf2e1",
+    "title": "Reported Speech Exercise",
+    "questions": [
+        {
+            "question": "Samuel said that he …………………………. to his friend’s house.",
+            "description": "When the reporting verb is in the past tense, we use a past tense in the reported speech as well.",
+            "answers": [
+                "is going",
+                "was going",
+                "had been going"
+            ],
+            "correct": 1,
+            "id": "cf1641bb8b574f2f9a249ecbe6d9472b"
+        },
+        {
+            "question": "Molly said that she ……………………………. to go.",
+            "description": "When the reporting verb is in the past tense, we use a past tense in the reported speech as well.",
+            "answers": [
+                "wants",
+                "wanted",
+                "had wanted"
+            ],
+            "correct": 1,
+            "id": "6cc6ab09aca446ac82517abde3460140"
+        },
+        {
+            "question": "Swapna says that she ………………………… the exam.",
+            "description": "When the reporting verb is in the present tense, we can use a present tense in the reported speech as well.",
+            "answers": [
+                "has passed",
+                "had passed",
+                "have passed"
+            ],
+            "correct": 0,
+            "id": "8590b90294224b2782dd27e56e020050"
+        },
+        {
+            "question": "Asok said that his father …………………………. in Bangalore.",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "has"
+            ],
+            "correct": 1,
+            "id": "353c35374bdd44c2ad812fba3f96bf8f"
+        },
+        {
+            "question": "Bindu said that she …………………………… to Jaipur.",
+            "description": "",
+            "answers": [
+                "is going",
+                "was going",
+                "has gone"
+            ],
+            "correct": 1,
+            "id": "91abf4cc44464e22b920ff7b29107643"
+        },
+        {
+            "question": "Susie said that she ……………………………… a car.",
+            "description": "A past tense in the direct speech changes to past perfect in the indirect speech. ",
+            "answers": [
+                "bought",
+                "has bought",
+                "had bought"
+            ],
+            "correct": 2,
+            "id": "de2f409ea09c425987fc8c81ee1b8ea0"
+        },
+        {
+            "question": "Father asked me where ……………………………. going.",
+            "description": "In indirect questions the subject goes before the auxiliary verb. ",
+            "answers": [
+                "was I",
+                "I was",
+                "did I"
+            ],
+            "correct": 1,
+            "id": "2c1340b5bdbf4954b9e6a95cbd2d1051"
+        },
+        {
+            "question": "My friend requested me …………………………… him to the library.",
+            "description": "Imperatives are reported with a to-infinitive.",
+            "answers": [
+                "that accompany",
+                "to accompany"
+            ],
+            "correct": 1,
+            "id": "bd19b9ba1bb147f8a5bbfdb983a85abe"
+        },
+        {
+            "question": "She asked me where the bank ……………………………",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "has"
+            ],
+            "correct": 1,
+            "id": "51453ca667284dac920c7c3597554a7b"
+        },
+        {
+            "question": "I don’t know what …………………………. doing there.",
+            "description": "In reported questions, the subject goes before the auxiliary verb.",
+            "answers": [
+                "are they",
+                "they are",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "4ef64eece7e84a63af20c2d418337d05"
+        },
+        {
+            "question": "The doctor suggested ………………………….. a long holiday.",
+            "description": "Suggest cannot be followed by a to-infinitive.",
+            "answers": [
+                "to take",
+                "taking",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "6ad0615bca0a4a579e6048eae202518a"
+        },
+        {
+            "question": "She asked me ………………………… I was alright.",
+            "description": "To introduce yes/no questions we use if or whether. ",
+            "answers": [
+                "if",
+                "whether",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "051230cff41240acaff9645b3b4474a2"
+        }
+    ]
+}

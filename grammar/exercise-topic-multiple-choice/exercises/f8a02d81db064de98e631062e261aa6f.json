@@ -1,0 +1,138 @@
+{
+    "id": "f8a02d81db064de98e631062e261aa6f",
+    "title": "Possessives And Reflexives",
+    "questions": [
+        {
+            "question": "It is ................................ bag.",
+            "description": "The possessive adjective is used before a noun.",
+            "answers": [
+                "my",
+                "mine",
+                "myself"
+            ],
+            "correct": 0,
+            "id": "2ef3ce27804c46ffae908a412ddc9a89"
+        },
+        {
+            "question": "He injured ................................ while playing football.",
+            "description": "When the subject and the object refer to the same person, the reflexive is used.",
+            "answers": [
+                "him",
+                "himself",
+                "his"
+            ],
+            "correct": 1,
+            "id": "a0778660cb9e4ad693da95d345afb2a7"
+        },
+        {
+            "question": "She cooked dinner ......................................",
+            "description": "The emphatic is used to emphasize an idea. ",
+            "answers": [
+                "herself",
+                "hers",
+                "her"
+            ],
+            "correct": 0,
+            "id": "ace642b4708f436181f9e124f8f974ef"
+        },
+        {
+            "question": "He snatched the paper from ........................................ hand.",
+            "description": "The possessive adjective is used before a noun the possessive pronoun (mine, yours, ours etc.) is used alone. ",
+            "answers": [
+                "my",
+                "mine",
+                "myself"
+            ],
+            "correct": 0,
+            "id": "64d9f6ea47cb47eaa4e0ab37a0718be0"
+        },
+        {
+            "question": "I can't believe ..................................... story.",
+            "description": "The possessive adjective is used before a noun the possessive pronoun (mine, yours, ours etc.) is used alone. ",
+            "answers": [
+                "yourself",
+                "yours",
+                "your"
+            ],
+            "correct": 2,
+            "id": "730632feb1f0449580224043b5ad6ac5"
+        },
+        {
+            "question": "I saw it with ....................................... own eyes.",
+            "description": "The possessive adjective is used before a noun the possessive pronoun (mine, yours, ours etc.) is used alone. ",
+            "answers": [
+                "my",
+                "mine",
+                "myself"
+            ],
+            "correct": 0,
+            "id": "8767bf78376d4ea1a2fc508ab7964605"
+        },
+        {
+            "question": "There was no one to help me so I had to do it .......................................",
+            "description": "The emphatic pronoun is used to emphasize.",
+            "answers": [
+                "me",
+                "myself",
+                "myselves"
+            ],
+            "correct": 1,
+            "id": "a7acd31fccc34b2da0f55ebd006bd531"
+        },
+        {
+            "question": "Someone broke into .......................................... house while we were away.",
+            "description": "The possessive adjective is used before a noun the possessive pronoun (mine, yours, ours etc.) is used alone. ",
+            "answers": [
+                "us",
+                "ourselves",
+                "our"
+            ],
+            "correct": 2,
+            "id": "430bbdc034b94f0884dc7e89562533b4"
+        },
+        {
+            "question": "Please do it ......................................",
+            "description": "The emphatic pronoun is used to emphasize.",
+            "answers": [
+                "you",
+                "yourself",
+                "yours"
+            ],
+            "correct": 1,
+            "id": "afd860c6523b40519b022d82d39a07aa"
+        },
+        {
+            "question": "I don't think it is ....................................... responsibility.",
+            "description": "The possessive adjective is used before a noun the possessive pronoun (mine, yours, ours etc.) is used alone. ",
+            "answers": [
+                "my",
+                "mine",
+                "myself"
+            ],
+            "correct": 0,
+            "id": "115a97863bad4685b746ced1249a11df"
+        },
+        {
+            "question": "Be careful or you will injure ........................................",
+            "description": "When the subject and the object refer to the same person, the reflexive is used.",
+            "answers": [
+                "you",
+                "yourself",
+                "you itself"
+            ],
+            "correct": 1,
+            "id": "e472de779d8d46f9a2a6514620579494"
+        },
+        {
+            "question": "It is your fault, not ...........................................",
+            "description": "The possessive adjective is used before a noun the possessive pronoun (mine, yours, ours etc.) is used alone. ",
+            "answers": [
+                "my",
+                "me",
+                "mine"
+            ],
+            "correct": 2,
+            "id": "54f688f6cabc4f82840a1e2c1436bd24"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": "a76eaa112a4b4e9196c630a4a6c1ce29",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "Please describe ……………….",
+            "description": "We do not normally use describe with the structure indirect object + direct object.",
+            "answers": [
+                "your new job to us",
+                "us your new job",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "90a9601ba3034f068827c1529c06386b"
+        },
+        {
+            "question": "I would like you to explain …………………..",
+            "description": "We do not normally use explain with the structure indirect object + direct object.",
+            "answers": [
+                "us your decision",
+                "your decision to us",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e1f927f52ca2429f97e2f2ba27e54aca"
+        },
+        {
+            "question": "Can you suggest ………………..?",
+            "description": "We do not normally use suggest with the structure indirect object + direct object.",
+            "answers": [
+                "me a nice restaurant",
+                "a nice restaurant to me"
+            ],
+            "correct": 1,
+            "id": "2401df7e670441bdbfc50f6ff096ee5c"
+        },
+        {
+            "question": "I want you ……………….. my mentor.",
+            "description": "Before a noun complement ‘to be’ or ‘as’ is used.",
+            "answers": [
+                "to be",
+                "as",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "5f16abbcef044e8486790865202ce93e"
+        },
+        {
+            "question": "We will have to wait ………………..",
+            "description": "That-clauses cannot be used after wait.",
+            "answers": [
+                "that they arrive",
+                "for them to arrive",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "d5c1491b0e3a41d8b462d6b14260f397"
+        },
+        {
+            "question": "You can’t make a …………….. pass in rugby.",
+            "description": "Forward is the adjective. Forwards is an adverb.",
+            "answers": [
+                "forward",
+                "forwards",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "52bb030e295c4a4a9d42a266d4b180fe"
+        },
+        {
+            "question": "I look ………………. to hearing from you.",
+            "description": "In figurative expressions, the form without –s is always used.",
+            "answers": [
+                "forward",
+                "forwards",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "af10e162b4e24c7a9223f3fb8b012255"
+        },
+        {
+            "question": "Do you want ………………. get you something to drink?",
+            "description": "That-clauses are not normally used after want.",
+            "answers": [
+                "that I",
+                "I to",
+                "me to"
+            ],
+            "correct": 2,
+            "id": "f8e2728e992943d7a8979507f47befa1"
+        },
+        {
+            "question": "We drove …………………",
+            "description": "\r\nHomeward and homewards can both be used as adverbs.\r\n",
+            "answers": [
+                "homeward",
+                "homewards",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "f013f1f0ce1444fb863626902db401be"
+        },
+        {
+            "question": "There is no way ……………….. that he was lying.",
+            "description": "After way, we can use the infinitive or ing-form with little difference of meaning.",
+            "answers": [
+                "to prove",
+                "of proving",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "7312261868ea4619b7d48b1e9c86be1d"
+        },
+        {
+            "question": "Summer is ……………….",
+            "description": "On the way can mean coming.",
+            "answers": [
+                "on the way",
+                "in the way",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "a2fce29c5684439fa95fd790c064691f"
+        },
+        {
+            "question": "…………… we go by bus or train, it will take at least 2 hours.",
+            "description": "",
+            "answers": [
+                "Whether",
+                "If",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "5209bcef49f74b36b3062e0e7f8ea15f"
+        }
+    ]
+}

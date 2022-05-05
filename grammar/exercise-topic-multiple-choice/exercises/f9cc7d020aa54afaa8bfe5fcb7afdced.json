@@ -1,0 +1,140 @@
+{
+    "id": "f9cc7d020aa54afaa8bfe5fcb7afdced",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "He was tired ......................... he had been working for a long time.",
+            "description": "",
+            "answers": [
+                "and",
+                "because",
+                "though"
+            ],
+            "correct": 1,
+            "id": "2f050121d0b3494db53084fe7bc5c461"
+        },
+        {
+            "question": "You will win the first prize ........................... you work hard.",
+            "description": "",
+            "answers": [
+                "even if",
+                "even though",
+                "if",
+                "unless"
+            ],
+            "correct": 2,
+            "id": "f622159040274293bc107144eee517a2"
+        },
+        {
+            "question": "He took out his brush ..................... began to paint.",
+            "description": "",
+            "answers": [
+                "and",
+                "or",
+                "as"
+            ],
+            "correct": 0,
+            "id": "3764837343eb45be82fdb1387d8e21f1"
+        },
+        {
+            "question": "Hurry up .................... you will be late.",
+            "description": "",
+            "answers": [
+                "and",
+                "without",
+                "or",
+                "unless"
+            ],
+            "correct": 2,
+            "id": "0d7cbd0430cf4f2799a7a0edd63959dc"
+        },
+        {
+            "question": "She may be poor ................... she will not take anything that does not belong to her.",
+            "description": "",
+            "answers": [
+                "though",
+                "even though",
+                "but"
+            ],
+            "correct": 2,
+            "id": "121843011df24faabf6feaaefdd99ac4"
+        },
+        {
+            "question": "Something must have fallen ......................... I heard a sound.",
+            "description": "",
+            "answers": [
+                "for",
+                "and",
+                "as"
+            ],
+            "correct": 0,
+            "id": "c0669c7630cf474cbff892972302302e"
+        },
+        {
+            "question": "They must have fallen asleep ................... there is no light in their room.",
+            "description": "",
+            "answers": [
+                "for",
+                "while",
+                "if"
+            ],
+            "correct": 0,
+            "id": "587e982eb4f449ad91c454d54bc04a65"
+        },
+        {
+            "question": "The train had left ........................ I reached the station.",
+            "description": "",
+            "answers": [
+                "as",
+                "before",
+                "while"
+            ],
+            "correct": 1,
+            "id": "76d71653b2cc4431a4a6d43c61a94617"
+        },
+        {
+            "question": "He was tired ................... he decided to get some rest.",
+            "description": "",
+            "answers": [
+                "so",
+                "because",
+                "since"
+            ],
+            "correct": 0,
+            "id": "6be661cd4649406ba815ce8e122ed822"
+        },
+        {
+            "question": "I waited for him ...................... he arrived.",
+            "description": "",
+            "answers": [
+                "until",
+                "up to",
+                "till"
+            ],
+            "correct": 2,
+            "id": "099b3cea96324f5eadc739208b2e5e3e"
+        },
+        {
+            "question": "He was angry ..................... somebody had stolen his bicycle.",
+            "description": "",
+            "answers": [
+                "so",
+                "because",
+                "hence"
+            ],
+            "correct": 1,
+            "id": "b2c97637d6c04dff90c61460795ffa83"
+        },
+        {
+            "question": "....................... it was raining we went out.",
+            "description": "",
+            "answers": [
+                "Though",
+                "Although",
+                "Even if"
+            ],
+            "correct": 1,
+            "id": "32ff3c9928bc44e1955dc4787359a2cc"
+        }
+    ]
+}

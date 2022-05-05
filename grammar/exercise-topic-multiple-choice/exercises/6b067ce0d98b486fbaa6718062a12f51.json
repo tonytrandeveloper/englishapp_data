@@ -1,0 +1,114 @@
+{
+    "id": "6b067ce0d98b486fbaa6718062a12f51",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "Though she studied well ………………… she failed.",
+            "description": "",
+            "answers": [
+                "but",
+                "and",
+                "yet"
+            ],
+            "correct": 2,
+            "id": "2520bdea8f2541298ea677c2815fec6b"
+        },
+        {
+            "question": "She is as beautiful ……………… her mother.",
+            "description": "",
+            "answers": [
+                "as",
+                "so",
+                "than"
+            ],
+            "correct": 0,
+            "id": "3c70d4cac910462e95c1cb1435819ad0"
+        },
+        {
+            "question": "She is not ………………….. brilliant as her sister.",
+            "description": "",
+            "answers": [
+                "as",
+                "so",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "63bf03ceb5f3458eab62e70745913e1f"
+        },
+        {
+            "question": "He was busy …………………. he was on tour.",
+            "description": "",
+            "answers": [
+                "when",
+                "why",
+                "then"
+            ],
+            "correct": 0,
+            "id": "345d33fe902640c7b0c864051728f714"
+        },
+        {
+            "question": "Shakespeare was ………………… a poet but also a dramatist.",
+            "description": "",
+            "answers": [
+                "not only",
+                "both",
+                "not just"
+            ],
+            "correct": 0,
+            "id": "a77c5e94f3e3498a8db064336e65436d"
+        },
+        {
+            "question": "He fell asleep ………………….. he was reading the book.",
+            "description": "",
+            "answers": [
+                "since",
+                "while"
+            ],
+            "correct": 1,
+            "id": "80f0753739d8445a995f9e85c873986c"
+        },
+        {
+            "question": "I would like to go ………………… I am too busy.",
+            "description": "",
+            "answers": [
+                "but",
+                "or",
+                "that"
+            ],
+            "correct": 0,
+            "id": "aec42fdad6ad43c1b5a2753deb0ffb92"
+        },
+        {
+            "question": "You can …………………. walk or go by bus.",
+            "description": "",
+            "answers": [
+                "either",
+                "neither",
+                "nor"
+            ],
+            "correct": 0,
+            "id": "425b9dc9d9df46629948f1e565085293"
+        },
+        {
+            "question": "He tried his best ………………… failed.",
+            "description": "",
+            "answers": [
+                "and",
+                "so",
+                "but"
+            ],
+            "correct": 2,
+            "id": "0e7f6423dbae471e8ecab719af0751af"
+        },
+        {
+            "question": "She is neither Sita ………………… Radha.",
+            "description": "",
+            "answers": [
+                "or",
+                "nor"
+            ],
+            "correct": 1,
+            "id": "98fed139871a4c0f924d6e4657ac331a"
+        }
+    ]
+}

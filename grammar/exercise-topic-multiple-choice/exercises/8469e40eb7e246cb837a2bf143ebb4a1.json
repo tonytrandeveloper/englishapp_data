@@ -1,0 +1,133 @@
+{
+    "id": "8469e40eb7e246cb837a2bf143ebb4a1",
+    "title": "Simple Present vs. Simple Past",
+    "questions": [
+        {
+            "question": "Dad …………………. tea in the morning, but today he ......................... coffee.",
+            "description": "The simple present is used to talk about habitual actions.",
+            "answers": [
+                "drinks, drank",
+                "drinks, drinks",
+                "drank, drinks"
+            ],
+            "correct": 0,
+            "id": "2a8df6caa2de4a05b40e4138ff68ce41"
+        },
+        {
+            "question": "All children ……………………….. love.",
+            "description": "We use the simple present to talk about general truths.",
+            "answers": [
+                "need",
+                "needed",
+                "needs"
+            ],
+            "correct": 0,
+            "id": "f065ad8bc7614ffebaefaa08ff658401"
+        },
+        {
+            "question": "I …………………… a strange dream yesterday.",
+            "description": "The simple past is used to talk about finished events.",
+            "answers": [
+                "have",
+                "had"
+            ],
+            "correct": 1,
+            "id": "d4215db1a19f4a8cb30b530e00eae007"
+        },
+        {
+            "question": "I ……………………… a Sci-fi movie yesterday.",
+            "description": "",
+            "answers": [
+                "watch",
+                "watched"
+            ],
+            "correct": 1,
+            "id": "3d3fe299feff4512be282524b1d20df4"
+        },
+        {
+            "question": "I …………………………… my phone while I was on vacation in Greece.",
+            "description": "",
+            "answers": [
+                "lose",
+                "losed",
+                "lost"
+            ],
+            "correct": 2,
+            "id": "4e39e614573f44c2a01a22eb1460fb9f"
+        },
+        {
+            "question": "He ……………………………. gently to the child.",
+            "description": "",
+            "answers": [
+                "speaks",
+                "spoke"
+            ],
+            "correct": 1,
+            "id": "98a40243dfcf487d86d66d119203f70f"
+        },
+        {
+            "question": "Plants ………………………. carbon dioxide and release oxygen.",
+            "description": "Use the simple present to talk about a general truth.",
+            "answers": [
+                "absorb",
+                "absorbed"
+            ],
+            "correct": 0,
+            "id": "b0d8334b6ca744a9842eb4242d143072"
+        },
+        {
+            "question": "Kind words ………………………. others happy.",
+            "description": "Use the simple present to talk about a general truth.",
+            "answers": [
+                "make",
+                "made"
+            ],
+            "correct": 0,
+            "id": "714d77a90d24427d8429e944b19d9d24"
+        },
+        {
+            "question": "Birds ……………………… in the sky.",
+            "description": "Use the simple present to talk about a general truth.",
+            "answers": [
+                "fly",
+                "flies",
+                "flew"
+            ],
+            "correct": 0,
+            "id": "67151fb3be4b49028168ee4f2f1e8b7f"
+        },
+        {
+            "question": "Money ……………………… on trees.",
+            "description": "Use the simple present to talk about a general truth.",
+            "answers": [
+                "do not grow",
+                "does not grow",
+                "did not grow"
+            ],
+            "correct": 1,
+            "id": "24a7c86ddfea40aa94ee1bee0a69e587"
+        },
+        {
+            "question": "They ……………………… the car to pay off the loan.",
+            "description": "The simple past is used to talk about finished events.",
+            "answers": [
+                "sold",
+                "sell",
+                "had sold"
+            ],
+            "correct": 0,
+            "id": "de582b93972644a6affb0f6ef35ce84d"
+        },
+        {
+            "question": "She ………………………. me a story the other day.",
+            "description": "The simple past is used to talk about finished events.",
+            "answers": [
+                "tell",
+                "told",
+                "has told"
+            ],
+            "correct": 1,
+            "id": "324d5a8a1d984ec2b989e5cfaf72decc"
+        }
+    ]
+}

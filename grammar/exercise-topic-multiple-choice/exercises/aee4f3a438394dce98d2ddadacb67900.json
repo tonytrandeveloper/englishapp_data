@@ -1,0 +1,72 @@
+{
+    "id": "aee4f3a438394dce98d2ddadacb67900",
+    "title": "Degrees of Comparison Exercise",
+    "questions": [
+        {
+            "question": "My uncle is ..................... than my father.",
+            "description": "",
+            "answers": [
+                "rich",
+                "richer",
+                "richest"
+            ],
+            "correct": 1,
+            "id": "79bafbb72542401289e9023cc9d1817d"
+        },
+        {
+            "question": "China is ........................... than any other country in the world.",
+            "description": "",
+            "answers": [
+                "populated",
+                "more populated",
+                "most populated"
+            ],
+            "correct": 1,
+            "id": "eb17584715b54bda9bf4dc8e6a9136f1"
+        },
+        {
+            "question": "No other thing is ......................... as education.",
+            "description": "",
+            "answers": [
+                "as important",
+                "more important",
+                "most important"
+            ],
+            "correct": 0,
+            "id": "31c1681013ac40f7a35eab871ca3f362"
+        },
+        {
+            "question": "America is ............................. than most other countries in the world.",
+            "description": "",
+            "answers": [
+                "as rich",
+                "richer",
+                "richest"
+            ],
+            "correct": 1,
+            "id": "ef410c6e29e04552b470bde27845548e"
+        },
+        {
+            "question": "No other grain is .......................... as wheat.",
+            "description": "",
+            "answers": [
+                "as nutritious",
+                "more nutritious",
+                "most nutritious"
+            ],
+            "correct": 1,
+            "id": "6580041ff0f349499f6bf1b5ec2df015"
+        },
+        {
+            "question": "Few English novelists are ........................... as Dickens.",
+            "description": "",
+            "answers": [
+                "as popular",
+                "more popular",
+                "most popular"
+            ],
+            "correct": 0,
+            "id": "ffe82fa2895b461d9964516b10aeac6b"
+        }
+    ]
+}

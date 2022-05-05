@@ -1,0 +1,105 @@
+{
+    "id": "c5cb4876ddc64be58325670aec98653f",
+    "title": "Conditional Forms Exercise",
+    "questions": [
+        {
+            "question": "If you pour oil on water, it floats.",
+            "description": "",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional"
+            ],
+            "correct": 0,
+            "id": "e82bf38a42f2477c963b473d731aefd5"
+        },
+        {
+            "question": "She will come if you invite her.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 0,
+            "id": "abdc6b273e7c4be9a186d5c89948be73"
+        },
+        {
+            "question": "She would have helped if you had requested more politely.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 2,
+            "id": "9e18bb96621c4a6b8b35c43478aa7472"
+        },
+        {
+            "question": "If you worked hard, you would pass.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "c04ecd46b4c94e3194fb101929f40dc4"
+        },
+        {
+            "question": "If I were you, I wouldn’t do it.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "1f037e6b75114b7ab75c3bb81c70799c"
+        },
+        {
+            "question": "If I had the time, I would come.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "f1fbd408831e4718abcb2dd569e83c27"
+        },
+        {
+            "question": "I would handle the situation better, if I were in charge.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "f434db549b8e48cc8e8163364c8c46e7"
+        },
+        {
+            "question": "If you had run a bit faster, you would have won.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 2,
+            "id": "b1ab4310c9b24fe88bf5ec6de9e41812"
+        },
+        {
+            "question": "I will buy a car, if I get my rise.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 0,
+            "id": "a64efbabf89f43ad94668b436030b5ae"
+        }
+    ]
+}

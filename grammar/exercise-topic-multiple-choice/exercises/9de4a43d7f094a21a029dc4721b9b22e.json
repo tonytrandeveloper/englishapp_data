@@ -1,0 +1,129 @@
+{
+    "id": "9de4a43d7f094a21a029dc4721b9b22e",
+    "title": "Easily Confused Words Exercise",
+    "questions": [
+        {
+            "question": "The cold weather .............................. my health.",
+            "description": "Affect is a verb and effect is a noun.",
+            "answers": [
+                "affected",
+                "effected"
+            ],
+            "correct": 0,
+            "id": "224d3ae75ca243dd98617efd07bda390"
+        },
+        {
+            "question": "The cold weather had an adverse .............................. on my health.",
+            "description": "Affect is a verb and effect is a noun.",
+            "answers": [
+                "affect",
+                "effect"
+            ],
+            "correct": 1,
+            "id": "2c13be24d23e42f795d7495b819a1815"
+        },
+        {
+            "question": "Travel can be an excellent ................................. to one's education.",
+            "description": "A complement is something that completes.",
+            "answers": [
+                "complement",
+                "compliment"
+            ],
+            "correct": 0,
+            "id": "ee95630437d042c88169a3307947458f"
+        },
+        {
+            "question": "The hostess received glowing ............................... on the dinner.",
+            "description": "A compliment is an expression of praise.",
+            "answers": [
+                "complements",
+                "compliments"
+            ],
+            "correct": 1,
+            "id": "90920a9d076c4a76b85b29a6cc45df42"
+        },
+        {
+            "question": "The extreme cold................................ the mountain climbers.",
+            "description": "To discomfort is to make someone uncomfortable.",
+            "answers": [
+                "uncomforted",
+                "miscomforted",
+                "discomforted"
+            ],
+            "correct": 2,
+            "id": "4fe62b990198486e80bab93e0d22d8ef"
+        },
+        {
+            "question": "I made ............................... inquiries about his credit rating.",
+            "description": "Discreet means careful, judicious or cautious.",
+            "answers": [
+                "discreet",
+                "discrete"
+            ],
+            "correct": 0,
+            "id": "15c5fbfd29a54f64a18acfc408aa5bee"
+        },
+        {
+            "question": "Use your own .................................. in choosing a restaurant.",
+            "description": "Discretion means good judgment.",
+            "answers": [
+                "discreetion",
+                "discretion",
+                "discreation"
+            ],
+            "correct": 1,
+            "id": "5f5368b15d9e476e8f6828533b3eac24"
+        },
+        {
+            "question": "Charles Dickens was an .................................. writer.",
+            "description": "Eminent means illustrious.",
+            "answers": [
+                "eminent",
+                "imminent"
+            ],
+            "correct": 0,
+            "id": "da14e02366424db0a15706d57cafe683"
+        },
+        {
+            "question": "A storm is ...............................",
+            "description": "Imminent means impending.",
+            "answers": [
+                "eminent",
+                "imminent"
+            ],
+            "correct": 1,
+            "id": "26260db278744d0fb29d5b28037ad5ec"
+        },
+        {
+            "question": "Not even the experts could figure out the magician's ............................ escape.",
+            "description": "Ingenious means clever, cunning.",
+            "answers": [
+                "ingenious",
+                "ingenuous"
+            ],
+            "correct": 0,
+            "id": "d3a3dd842cdc433dab2b20f1ffa89a0d"
+        },
+        {
+            "question": "Children are more ........................................... than adults.",
+            "description": "Ingenuous means open or frank.",
+            "answers": [
+                "ingenious",
+                "ingenuous"
+            ],
+            "correct": 1,
+            "id": "e4c667cd39d843fcb560085b1cb4c1fc"
+        },
+        {
+            "question": "We ................................. credit cards here.",
+            "description": "To accept is to take something offered.",
+            "answers": [
+                "accept",
+                "agree",
+                "expect"
+            ],
+            "correct": 0,
+            "id": "825a73246e2a4a6fac927b5592d997f7"
+        }
+    ]
+}

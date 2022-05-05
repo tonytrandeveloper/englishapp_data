@@ -1,0 +1,386 @@
+{
+    "id": "9931d6b029c74162857c85f3e8f0a9f8",
+    "title": "'Say' and 'Tell'",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "said"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "that she would join us after work."
+                }
+            ],
+            "id": "75e3e7ef6c31432493c9b106912e0f0a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "told"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "me that she was going running this evening."
+                }
+            ],
+            "id": "4a5e8ca4173f4fadbe96261f926224ce"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "told"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "us that he couldn't come to the party."
+                }
+            ],
+            "id": "8feaa9db499a4a318fdbadbcaa95f369"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "said"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "that he had been to the cinema at the weekend."
+                }
+            ],
+            "id": "7bcb57ad9ddf44c49e769b729aaa2054"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "told"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "them she wanted to quit."
+                }
+            ],
+            "id": "18d5728ac0034c1991d5869035f71cbc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "said"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "that he was going to arrive at eight."
+                }
+            ],
+            "id": "6dd9a8850a1343cca93dc8b568e0c05d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "said"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "that they didn't want to meet us on Tuesday."
+                }
+            ],
+            "id": "48c97bc19406454b9932da1e7ca9b178"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "told"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "him I wasn't impressed."
+                }
+            ],
+            "id": "e412adfad5ed4b94bce4a8d631db9cf7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "told"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "Julie that she was leaving on Wednesday."
+                }
+            ],
+            "id": "8180bd869dc1447781d984e3a1d996a9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "said"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "that we were going on holiday the following week."
+                }
+            ],
+            "id": "fffd940d4ba04e1da412591b95700b5e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jack"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "told"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "my mother he would be in Spain this week."
+                }
+            ],
+            "id": "6a4bf3b1af8840c0a16a9ffabd0e5789"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "said"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "that I hated mushrooms."
+                }
+            ],
+            "id": "f369e11a8ee84c4787dbb48cb9834cfb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "said"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "she loved chocolate."
+                }
+            ],
+            "id": "0a0d03734c6b411eac46ac43cd271ae9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "said"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "they were meeting Luke today."
+                }
+            ],
+            "id": "bd772cd7ea59478ea89f308f999a473a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "told"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "us they were going to the museum this afternoon."
+                }
+            ],
+            "id": "e4a6c7d4dcb3481ebd87acedcddc7330"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "said"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "he wouldn't start without us."
+                }
+            ],
+            "id": "bf3de40b2e864c7bac5e0dbf9bd95c74"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "told"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "them I'd bring pudding."
+                }
+            ],
+            "id": "d6f7e8d2cebb402b873d0f4e2a721b89"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jonathan"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "said"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "it would rain today."
+                }
+            ],
+            "id": "6ed3c01149124a31a45727f0bf4bab9a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "told"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "us that it was fine to come late."
+                }
+            ],
+            "id": "3cdd115691384092985153c02935c969"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The boss"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "told"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "me that I should do some more work on this report."
+                }
+            ],
+            "id": "0216d03453284904b93bacfcc0999ea1"
+        }
+    ]
+}

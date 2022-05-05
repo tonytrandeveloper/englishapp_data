@@ -1,0 +1,142 @@
+{
+    "id": "a27fc0d83c3c4567bc0714871ea51a87",
+    "title": "For, Since, In, From",
+    "questions": [
+        {
+            "question": "I once studied classical music …………… about two years.",
+            "description": "Use for with a period of time.",
+            "answers": [
+                "for",
+                "since",
+                "from",
+                "in"
+            ],
+            "correct": 0,
+            "id": "208d88254a774fb98ac285ad4ebed73c"
+        },
+        {
+            "question": "I am going to Switzerland ………….. the summer.",
+            "description": "Use for with a period of time.",
+            "answers": [
+                "since",
+                "from",
+                "for"
+            ],
+            "correct": 2,
+            "id": "ea313fca1f634447bad1b2ba44e20670"
+        },
+        {
+            "question": "I will be in Singapore ……………. the next ten days.",
+            "description": "Use for with a period of time.",
+            "answers": [
+                "since",
+                "for",
+                "from"
+            ],
+            "correct": 1,
+            "id": "250908dd563547f2af142a1d18cac798"
+        },
+        {
+            "question": "We have known each other …………… our school days.",
+            "description": "Use since with the starting point.",
+            "answers": [
+                "since",
+                "for",
+                "from",
+                "in"
+            ],
+            "correct": 0,
+            "id": "bb4415955c5c4dd68f072ceedbec95ed"
+        },
+        {
+            "question": "We have known each other …………… a long time.",
+            "description": "We use for with duration. ",
+            "answers": [
+                "for",
+                "since",
+                "from",
+                "in"
+            ],
+            "correct": 0,
+            "id": "4f4255a28a0e4c7e9a862d4614ec7cdb"
+        },
+        {
+            "question": "It was the worst disaster ………….. decades.",
+            "description": "We can use in to talk about duration. This is particularly common after negatives and superlatives. For is also possible here.",
+            "answers": [
+                "in",
+                "for",
+                "from",
+                "since"
+            ],
+            "correct": 1,
+            "id": "d01c99d83d3c465e9a0750004c2a657d"
+        },
+        {
+            "question": "She has been a go-getter …………… her earliest childhood.",
+            "description": "With perfect tenses, since and for are more common.",
+            "answers": [
+                "for",
+                "from",
+                "since"
+            ],
+            "correct": 2,
+            "id": "cb4be5e953ef45dc8faf1f449e38764f"
+        },
+        {
+            "question": "…………….. now on, I am going to be punctual.",
+            "description": "We use from with the starting point. The difference between from and since is that since is mainly used with perfect tenses.",
+            "answers": [
+                "Since",
+                "From",
+                "For"
+            ],
+            "correct": 1,
+            "id": "8cdd8133b3b648c19ecd2fca7b28c7bd"
+        },
+        {
+            "question": "I work ……………… dawn to dusk.",
+            "description": "We use from with the starting point. It is mainly used with simple tenses. ",
+            "answers": [
+                "since",
+                "from",
+                "for"
+            ],
+            "correct": 1,
+            "id": "750ace383ba34417b413614e454694b7"
+        },
+        {
+            "question": "…………….. his earliest childhood, he hated cats.",
+            "description": "",
+            "answers": [
+                "From",
+                "Since",
+                "For"
+            ],
+            "correct": 0,
+            "id": "97bb3e2bea4f4207b60b5db564d3dc48"
+        },
+        {
+            "question": "I will be home …………. Monday on.",
+            "description": "",
+            "answers": [
+                "since",
+                "from",
+                "for"
+            ],
+            "correct": 1,
+            "id": "7ee68925d9544414a333a1466b3fc6b0"
+        },
+        {
+            "question": "……………….. the dawn of civilization, people have made wars.",
+            "description": "We can use 'from' in expressions that mean right from the start. ",
+            "answers": [
+                "From",
+                "Since",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "397c19680a8a44ac9149d058e2cd98ab"
+        }
+    ]
+}

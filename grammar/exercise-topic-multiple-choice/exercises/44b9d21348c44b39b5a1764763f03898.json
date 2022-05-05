@@ -1,0 +1,136 @@
+{
+    "id": "44b9d21348c44b39b5a1764763f03898",
+    "title": "Prepositions Exercise",
+    "questions": [
+        {
+            "question": "The snake crawled ………………… its hole.",
+            "description": "Into is used in speaking of things in motion.",
+            "answers": [
+                "into",
+                "in",
+                "onto"
+            ],
+            "correct": 0,
+            "id": "c1ed6f47a9284ce993a24673d2b8ba36"
+        },
+        {
+            "question": "The boys jumped ………………… the river.",
+            "description": "Into is used in speaking of things in motion.",
+            "answers": [
+                "in",
+                "to",
+                "into"
+            ],
+            "correct": 2,
+            "id": "527fc2f465834643aa1b73e47745acf5"
+        },
+        {
+            "question": "The cat sprang …………………… the table.",
+            "description": "On is used in speaking of things at rest, and upon is used in speaking of things in motion.",
+            "answers": [
+                "on",
+                "at",
+                "upon"
+            ],
+            "correct": 2,
+            "id": "34e521edc98b4a7aadfa6f6bd72a743e"
+        },
+        {
+            "question": "He sat ……………………. a bench.",
+            "description": "On indicates position on the surface of something. ",
+            "answers": [
+                "in",
+                "at",
+                "on"
+            ],
+            "correct": 2,
+            "id": "f497dc505cc74c9297e080af05f7f02f"
+        },
+        {
+            "question": "We walked …………………… the end of the street.",
+            "description": "Until is only used to talk about time. To talk about distance, we use up to or as far as.",
+            "answers": [
+                "until",
+                "till",
+                "up to"
+            ],
+            "correct": 2,
+            "id": "7b5e08046b6e4dd1995262ae49515d23"
+        },
+        {
+            "question": "You can earn ………………… 500 dollars a week in this job.",
+            "description": "Up to is also used to talk about quantity.",
+            "answers": [
+                "until",
+                "up to",
+                "as far as"
+            ],
+            "correct": 1,
+            "id": "47e14efa24aa474eaa27ae6a504fefdc"
+        },
+        {
+            "question": "He killed two birds …………………. one shot.",
+            "description": "With denotes the instrument and by denotes the agent.",
+            "answers": [
+                "at",
+                "with",
+                "by"
+            ],
+            "correct": 1,
+            "id": "d9af2513a6e24515a7f1328f1085f2be"
+        },
+        {
+            "question": "The traveler was stabbed ……………………. a lunatic.",
+            "description": "With denotes the instrument and by denotes the agent.",
+            "answers": [
+                "with",
+                "by"
+            ],
+            "correct": 1,
+            "id": "0c38cf1ea2a045c6925b387fa0745f21"
+        },
+        {
+            "question": "I have done nothing ………………………. morning.",
+            "description": "Since indicates the starting point of an action. It is usually preceded by a perfect or perfect continuous tense.",
+            "answers": [
+                "from",
+                "since",
+                "for"
+            ],
+            "correct": 1,
+            "id": "ce959869add2431c85e26e312ce72471"
+        },
+        {
+            "question": "They will join school …………………… tomorrow.",
+            "description": "From also indicates the starting point. However, it is mainly used with simple tenses. It can also refer to the future. ",
+            "answers": [
+                "since",
+                "from",
+                "on"
+            ],
+            "correct": 1,
+            "id": "448fd4907fcf49e9b00c9858a2baa7e9"
+        },
+        {
+            "question": "Human sacrifices were practiced ……………………… the Nagas.",
+            "description": "By denotes the agent - the person(s) or thing(s) that commit(s) the action. ",
+            "answers": [
+                "by",
+                "with",
+                "after"
+            ],
+            "correct": 0,
+            "id": "90669a768157486eb4c1a6db8581c20d"
+        },
+        {
+            "question": "……………………. his children, there were present his nephews and nieces.",
+            "description": "Beside means by the side of besides means in addition to.",
+            "answers": [
+                "Beside",
+                "Besides"
+            ],
+            "correct": 1,
+            "id": "61cf91e547ec4db3aadd23f2a79a3132"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "id": "4265344836104e12a9ff8933b9133933",
+    "title": "Present Continuous vs. Past Continuous",
+    "questions": [
+        {
+            "question": "I ……………………….. a movie when the lights went out.",
+            "description": "When one verb is in the past tense, the other verbs too will most probably be in the past tense. ",
+            "answers": [
+                "am watching",
+                "was watching"
+            ],
+            "correct": 1,
+            "id": "99e9735375e345d5928b68e55a715985"
+        },
+        {
+            "question": "I ……………………….. dinner when the guests arrived.",
+            "description": "When one verb is in the past tense, the other verbs too will most probably be in the past tense. ",
+            "answers": [
+                "am preparing",
+                "was preparing"
+            ],
+            "correct": 1,
+            "id": "c2accd8a81e0414bb1b01a01468399e5"
+        },
+        {
+            "question": "I …………………………. now.",
+            "description": "Now is a present time expression.",
+            "answers": [
+                "am writing",
+                "was writing"
+            ],
+            "correct": 0,
+            "id": "a15900c82ec240d4b1eb02554c57a3e2"
+        },
+        {
+            "question": "‘Where are the kids?’ ‘They ……………………….. in the garden.’",
+            "description": "When the reference is to the present time, use present tenses. ",
+            "answers": [
+                "are playing",
+                "were playing"
+            ],
+            "correct": 0,
+            "id": "e09d3bccf46c42d88e612487154f995d"
+        },
+        {
+            "question": "We ………………………. for them to come.",
+            "description": "",
+            "answers": [
+                "are still waiting",
+                "were still waiting"
+            ],
+            "correct": 0,
+            "id": "17677099fb6744cfb11165a505ff224d"
+        },
+        {
+            "question": "The guests …………………………. in the lobby.",
+            "description": "When there is no time reference assume that we are talking about now.",
+            "answers": [
+                "are waiting",
+                "were waiting"
+            ],
+            "correct": 0,
+            "id": "f075664da91c4da7968aeea677fe1ea1"
+        },
+        {
+            "question": "It ………………………….. We cannot go out now.",
+            "description": "",
+            "answers": [
+                "is raining",
+                "was raining"
+            ],
+            "correct": 0,
+            "id": "91d23c40633744fd98a789bb4fedda4a"
+        },
+        {
+            "question": "The students ………………………… for their exam.",
+            "description": "",
+            "answers": [
+                "are preparing",
+                "were preparing"
+            ],
+            "correct": 0,
+            "id": "017e10fcad984f06a504e825ad13447c"
+        },
+        {
+            "question": "The mother ………………………….. for the child to return.",
+            "description": "",
+            "answers": [
+                "is waiting",
+                "was waiting"
+            ],
+            "correct": 0,
+            "id": "20a8177a7bcd42ddaa7a14ca83c3b29d"
+        },
+        {
+            "question": "I …………………………. for the bus when the accident took place.",
+            "description": "When one verb is in the past tense, the other verbs too will most probably be in the past tense. ",
+            "answers": [
+                "am waiting",
+                "was waiting"
+            ],
+            "correct": 1,
+            "id": "afd8156d98134eae8dda62a2b4decbd1"
+        },
+        {
+            "question": "I ………………………….. in Mumbai at that time.",
+            "description": "At that time shows distance. Use past tenses with it. ",
+            "answers": [
+                "am living",
+                "was living"
+            ],
+            "correct": 1,
+            "id": "4973194fa85949e8886c6362567ac6b7"
+        },
+        {
+            "question": "I …………………………. when the phone rang.",
+            "description": "When one verb is in the past tense, the other verbs too will most probably be in the past tense. ",
+            "answers": [
+                "am sleeping",
+                "was sleeping"
+            ],
+            "correct": 1,
+            "id": "a6d2bd37e39b4866a4f47c5e2f366e0e"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "id": "8e79ae72c30740dbb529f0b34bf0c3ce",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "………………….. quick results when you start learning a language.",
+            "description": "Negative imperatives are made with do not + infinitive without to.",
+            "answers": [
+                "Expect not",
+                "Do not expect",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "885d403e06a44b3ba9e003f0aacec83a"
+        },
+        {
+            "question": "You seldom work on Saturdays, ………………….?",
+            "description": "Clauses with words like seldom, hardly, little, and few have a negative sense. Affirmative question tags are used after them.",
+            "answers": [
+                "do you",
+                "don't you",
+                "have you",
+                "haven't you"
+            ],
+            "correct": 0,
+            "id": "a6c19757edfa48a7aa09e09ea21323fb"
+        },
+        {
+            "question": "There is little point in doing anything about it, ……………..?",
+            "description": "Clauses with words like seldom, hardly, little, and few have a negative sense. Affirmative question tags are used after them.",
+            "answers": [
+                "is there",
+                "isn't there",
+                "does there"
+            ],
+            "correct": 0,
+            "id": "64d17c238b9749048d4c437dbe181de1"
+        },
+        {
+            "question": "He has few reasons for staying, ……………….?",
+            "description": "Clauses with words like seldom, hardly, little, and few have a negative sense. Affirmative question tags are used after them.",
+            "answers": [
+                "does he",
+                "doesn't he",
+                "has he",
+                "hasn't he"
+            ],
+            "correct": 2,
+            "id": "784ae19c6dff4dcb81f9a6c8682f4be3"
+        },
+        {
+            "question": "I ...................... the flowers. Just after I finished it started raining.",
+            "description": "We use the structure ‘needn’t have’ to mean that something was unnecessary.",
+            "answers": [
+                "don't need to water",
+                "needn't have watered",
+                "didn't need to water"
+            ],
+            "correct": 1,
+            "id": "74333db5d29042508830be71296a68d9"
+        },
+        {
+            "question": "She is …………………. a great dancer than I am.",
+            "description": "We use ‘no more’ with nouns to talk about quantity or degree.",
+            "answers": [
+                "no more",
+                "not more",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "012540aeb2bc4ae7b5d014bf4d5631bd"
+        },
+        {
+            "question": ".....................… wished me a happy birthday.",
+            "description": "No one cannot be followed by of. The other two options are possible here.",
+            "answers": [
+                "None of my friends",
+                "Not one of my friends",
+                "No one of my friends"
+            ],
+            "correct": 1,
+            "id": "777120da9ed84b8c97997a2ecc0b3e94"
+        },
+        {
+            "question": "Mother suggested ………………….. a dentist.",
+            "description": "Suggest cannot be followed by object + infinitive.",
+            "answers": [
+                "seeing",
+                "that I should see",
+                "me to see"
+            ],
+            "correct": 1,
+            "id": "bb6e512fc67c43859d9757eade3ff0f3"
+        },
+        {
+            "question": "I didn’t ask …………….. for the meal.",
+            "description": "Some verbs are followed by object + infinitive.",
+            "answers": [
+                "that you pay",
+                "you to pay",
+                "to pay"
+            ],
+            "correct": 1,
+            "id": "5a706fcb8c43492bacae8ee586959f03"
+        },
+        {
+            "question": "After putting it off many times, we ………………. managed to have a holiday in France.",
+            "description": "Finally suggests that we have been waiting a long time for something.",
+            "answers": [
+                "finally",
+                "in the end",
+                "at the end"
+            ],
+            "correct": 0,
+            "id": "d4861de26f614bf9aa24d2bb5cae0341"
+        },
+        {
+            "question": "We made many different plans for our holiday, but …………………. we went to Malaysia again.",
+            "description": "We use in the end to suggest that something happens after a lot of problems or uncertainty.",
+            "answers": [
+                "finally",
+                "in the end",
+                "at the end"
+            ],
+            "correct": 1,
+            "id": "51f054e3535e4137905ed4597e798a06"
+        },
+        {
+            "question": "A declarative sentence has a full stop …………………",
+            "description": "At the end means position at the end of something.",
+            "answers": [
+                "finally",
+                "in the end",
+                "at the end"
+            ],
+            "correct": 2,
+            "id": "c14ddd32082e403ebd58fb77c6a9232b"
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "id": "7e47aaf2942f45ec97a56ce3049aa653",
+    "title": "Tense Recognition Exercise",
+    "questions": [
+        {
+            "question": "Who will have come to my rescue?",
+            "description": "",
+            "answers": [
+                "Simple future",
+                "Future continuous",
+                "Future perfect tense"
+            ],
+            "correct": 2,
+            "id": "58cd1f5ed5f2460eb955fff169fc87d3"
+        },
+        {
+            "question": "The boy is learning his lessons.",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Present continuous tense",
+                "Present perfect"
+            ],
+            "correct": 1,
+            "id": "4ff01e02e8534803858ebcd2f54f171e"
+        },
+        {
+            "question": "Girls outnumber boys in this class.",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Present continuous",
+                "Present perfect"
+            ],
+            "correct": 0,
+            "id": "8b2725ed6c664add9113d0afa1844aaf"
+        },
+        {
+            "question": "What do you mean?",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Present continuous",
+                "Perfect perfect"
+            ],
+            "correct": 0,
+            "id": "4dd9cf45864040b4b635fe454e32202f"
+        },
+        {
+            "question": "I don’t know where she lives.",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Present continuous",
+                "Present perfect"
+            ],
+            "correct": 0,
+            "id": "4bd5b13ec0ce4250bdb2a99edaec8c05"
+        },
+        {
+            "question": "Burglars broke into his shop yesterday.",
+            "description": "",
+            "answers": [
+                "Simple past",
+                "Past continuous",
+                "Past perfect"
+            ],
+            "correct": 0,
+            "id": "fe68d454605b4b2cba63944a829181c6"
+        },
+        {
+            "question": "I can no longer tolerate this injustice.",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Present continuous",
+                "Present perfect"
+            ],
+            "correct": 0,
+            "id": "463a019f56ea47418c166667f05cfd7b"
+        },
+        {
+            "question": "She has been waiting for his call since morning.",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Present continuous",
+                "Present perfect continuous"
+            ],
+            "correct": 2,
+            "id": "8da123a6003e45b5b104018f52a3ec84"
+        },
+        {
+            "question": "This time tomorrow I will be playing with my kids.",
+            "description": "",
+            "answers": [
+                "Simple future",
+                "Future continuous",
+                "Future perfect"
+            ],
+            "correct": 1,
+            "id": "b366a00d99c94620b38e2150920c5f39"
+        },
+        {
+            "question": "Somebody has let the cat in.",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Present continuous",
+                "Present perfect"
+            ],
+            "correct": 2,
+            "id": "560b9dccf5d6449ca269bda046f52ff0"
+        },
+        {
+            "question": "Will you please come with me?",
+            "description": "",
+            "answers": [
+                "Simple future",
+                "Future continuous",
+                "Future perfect"
+            ],
+            "correct": 0,
+            "id": "2893ab4b300b4da5a786e3254758e332"
+        },
+        {
+            "question": "She finished the work in time.",
+            "description": "",
+            "answers": [
+                "Simple past",
+                "Future continuous",
+                "Future perfect"
+            ],
+            "correct": 0,
+            "id": "01beccefd908436f8f413f105c0e469a"
+        },
+        {
+            "question": "Have you learned your lessons?",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Present continuous",
+                "Future perfect"
+            ],
+            "correct": 2,
+            "id": "055486052d6245fcaf62e16f0e542aac"
+        },
+        {
+            "question": "She had been bedridden for years before her death.",
+            "description": "",
+            "answers": [
+                "Simple past",
+                "Past continuous",
+                "Past perfect"
+            ],
+            "correct": 2,
+            "id": "55ddf19055bd4b948aec1ccc74a04a50"
+        }
+    ]
+}

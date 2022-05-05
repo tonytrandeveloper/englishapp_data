@@ -1,0 +1,138 @@
+{
+    "id": "1485623edf854fef83e7fe89a5c04282",
+    "title": "Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "They are cleaning the room. / The room ………………………………… by them.",
+            "description": "",
+            "answers": [
+                "cleaned",
+                "is cleaned",
+                "is being cleaned"
+            ],
+            "correct": 2,
+            "id": "575057ab36d64ec48fd59f7248f4bb75"
+        },
+        {
+            "question": "I sent the parcel in the morning. The parcel ………………………………… in the morning.",
+            "description": "",
+            "answers": [
+                "sent",
+                "was sent",
+                "is sent"
+            ],
+            "correct": 1,
+            "id": "bda9d61fbb13428894f27ce486c56149"
+        },
+        {
+            "question": "They praised the girl for winning the championship. / The girl ………………………………… for winning the championship.",
+            "description": "",
+            "answers": [
+                "is praised",
+                "was praised",
+                "has been praised"
+            ],
+            "correct": 1,
+            "id": "5fbb42be55e945c29962f9fa44650c45"
+        },
+        {
+            "question": "She congratulated him. / He ……………………………….. by her.",
+            "description": "",
+            "answers": [
+                "is congratulated",
+                "had been congratulated",
+                "was congratulated"
+            ],
+            "correct": 2,
+            "id": "891d5009b7144bf4814ee9cce7e5a9d1"
+        },
+        {
+            "question": "I know the answer. / The answer …………………………… to me.",
+            "description": "",
+            "answers": [
+                "known",
+                "is known",
+                "is knew"
+            ],
+            "correct": 1,
+            "id": "fa95daefc63d43729170ef302dc0b537"
+        },
+        {
+            "question": "She told me a story. / I ……………………………. a story by her.",
+            "description": "",
+            "answers": [
+                "told",
+                "was told",
+                "have been told"
+            ],
+            "correct": 1,
+            "id": "106c9df595424c08bb67b9633e4e3b10"
+        },
+        {
+            "question": "They brought him to Kerala. / He ……………………………. to Kerala.",
+            "description": "",
+            "answers": [
+                "has been brought",
+                "is brought",
+                "was brought"
+            ],
+            "correct": 2,
+            "id": "a106f28eb4c44bb1b8285e0b1cfc85be"
+        },
+        {
+            "question": "I have invited all of my friends to my party. / All of my friends ……………………………. to my party.",
+            "description": "",
+            "answers": [
+                "are invited",
+                "have been invited",
+                "had been invited"
+            ],
+            "correct": 1,
+            "id": "842608375b9f43cda2832f9281740cef"
+        },
+        {
+            "question": "They will finish the job by evening. / The job ………………………….. by evening.",
+            "description": "",
+            "answers": [
+                "would be finished",
+                "will be finished",
+                "will be finishing"
+            ],
+            "correct": 1,
+            "id": "1cee9647b4004294babefdc7a7b96acb"
+        },
+        {
+            "question": "I support the plan. / The plan …………………………….. by me.",
+            "description": "",
+            "answers": [
+                "supported",
+                "is supported",
+                "was supported"
+            ],
+            "correct": 1,
+            "id": "c32cbc52739642bd8733f2610f3fb50e"
+        },
+        {
+            "question": "Plants absorb carbon dioxide. / Carbon dioxide …………………………… by plants.",
+            "description": "",
+            "answers": [
+                "absorbed",
+                "is absorbed",
+                "has been absorbed"
+            ],
+            "correct": 1,
+            "id": "1d66e0f8cf8944eb9d26a22eca87f382"
+        },
+        {
+            "question": "She feeds stray dogs. / Stray dogs ................................. by her.",
+            "description": "",
+            "answers": [
+                "are feeding",
+                "are feed",
+                "are fed"
+            ],
+            "correct": 2,
+            "id": "4627491b638a405f98e5f63d926ceb01"
+        }
+    ]
+}

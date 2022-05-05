@@ -1,0 +1,60 @@
+{
+    "id": "bd28fba942f74c6788bda405ab2c2305",
+    "title": "Gap Fills",
+    "questions": [
+        {
+            "question": "She is not the right candidate for the job, ................................?",
+            "description": "",
+            "answers": [
+                "isn't she",
+                "is she",
+                "hasn't she"
+            ],
+            "correct": 1,
+            "id": "acc623c63cc24dcdb73c98f0e2e4c305"
+        },
+        {
+            "question": "I ........................................... a phone call ten minutes ago.",
+            "description": "",
+            "answers": [
+                "had",
+                "have had",
+                "have"
+            ],
+            "correct": 0,
+            "id": "60ee0a29881e46b1a414dc1295657ec7"
+        },
+        {
+            "question": "He gave me ................................... advice.",
+            "description": "",
+            "answers": [
+                "an",
+                "piece of",
+                "a piece of"
+            ],
+            "correct": 2,
+            "id": "f0d3c2029c2c4b7a92c5411301da9282"
+        },
+        {
+            "question": "He asked me to ....................................... him one thousand dollars.",
+            "description": "",
+            "answers": [
+                "borrow",
+                "lend"
+            ],
+            "correct": 1,
+            "id": "6c84ce8179494504ba4abd18e4eed9f9"
+        },
+        {
+            "question": "Violence perpetrated against women ...................................",
+            "description": "",
+            "answers": [
+                "must be condemned",
+                "must condemn",
+                "be condemned"
+            ],
+            "correct": 0,
+            "id": "7d81e6997fdf4aa9bbc509f22bea946f"
+        }
+    ]
+}

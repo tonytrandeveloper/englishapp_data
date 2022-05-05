@@ -1,0 +1,126 @@
+{
+    "id": "0497ffc933cd4cb88edf2198bc2140f9",
+    "title": "Adjective Or Participle",
+    "questions": [
+        {
+            "question": "Although the movie was interesting, I couldn't enjoy it. Here interesting is a/an ..........................................",
+            "description": "Here interesting acts as a subject complement.",
+            "answers": [
+                "adjective",
+                "participle"
+            ],
+            "correct": 0,
+            "id": "fc82bc425f6140aca9e64a0dfe48420a"
+        },
+        {
+            "question": "It is a burning issue. Here burning is a/an ...................................",
+            "description": "Here burning is an adjective because it modifies the noun issue.",
+            "answers": [
+                "adjective",
+                "participle"
+            ],
+            "correct": 0,
+            "id": "c8b24a75131a459b95c9f7dfa10dd0ef"
+        },
+        {
+            "question": "The students are preparing for their exam. Here preparing is a/an ......................................",
+            "description": "Here preparing is used to form the present continuous tense form. Hence it is a participle.",
+            "answers": [
+                "adjective",
+                "participle"
+            ],
+            "correct": 1,
+            "id": "9cad5e8e6b554a099555e67f247a8f56"
+        },
+        {
+            "question": "We are waiting to hear from them. Here waiting is a/an .........................................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "participle"
+            ],
+            "correct": 1,
+            "id": "ddbbff19076d4e33aee1c8b84223fcb6"
+        },
+        {
+            "question": "She is an interesting writer. Here interesting is a/an ......................................",
+            "description": "Here interesting modifies the noun writer. Hence it is an adjective. ",
+            "answers": [
+                "adjective",
+                "participle"
+            ],
+            "correct": 0,
+            "id": "85dc1076aac64dc6886c7f70fa775d74"
+        },
+        {
+            "question": "The dog was chasing the cat. Here chasing is a/an ......................................",
+            "description": "It helps form the past continuous tense form.",
+            "answers": [
+                "adjective",
+                "participle"
+            ],
+            "correct": 1,
+            "id": "885700d5920e4c4bae6ada60812c742e"
+        },
+        {
+            "question": "A rolling stone gathers no moss. Here rolling is a/an .......................................",
+            "description": "Here rolling modifies the noun stone. Hence it is an adjective. ",
+            "answers": [
+                "adjective",
+                "participle"
+            ],
+            "correct": 0,
+            "id": "b3914bca35ae4c768f439b00979bdae8"
+        },
+        {
+            "question": "The hawkers were shouting at the top of their voice. Here shouting is a/an ........................................",
+            "description": "It helps form the past continuous tense form were shouting.",
+            "answers": [
+                "adjective",
+                "participle"
+            ],
+            "correct": 1,
+            "id": "c99dcf75b8e54c40a82b904c0cc8c1fa"
+        },
+        {
+            "question": "The news was shocking. Here shocking is a/an ........................................",
+            "description": "Here shocking acts as a subject complement.",
+            "answers": [
+                "adjective",
+                "participle"
+            ],
+            "correct": 0,
+            "id": "493abf033cb24ea299940bde2409d843"
+        },
+        {
+            "question": "The man was standing on the table. Here standing is a/an .....................................",
+            "description": "It helps form the past continuous tense form.",
+            "answers": [
+                "adjective",
+                "participle"
+            ],
+            "correct": 1,
+            "id": "22bf26d9bf93412099e9d4b650e1ae8a"
+        },
+        {
+            "question": "There was not even standing room on the bus. Here standing is a/an .......................................",
+            "description": "Here standing modifies the noun room hence, it is an adjective. ",
+            "answers": [
+                "adjective",
+                "participle"
+            ],
+            "correct": 0,
+            "id": "88fa3b2e93d44252a4aab27bc201ac9d"
+        },
+        {
+            "question": "The story was confusing for me. Here confusing is a/an .........................................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "participle"
+            ],
+            "correct": 0,
+            "id": "0682cadad0de4e42a5ee249e2a58a584"
+        }
+    ]
+}

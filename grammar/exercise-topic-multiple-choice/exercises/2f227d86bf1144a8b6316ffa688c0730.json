@@ -1,0 +1,138 @@
+{
+    "id": "2f227d86bf1144a8b6316ffa688c0730",
+    "title": "Question tags quiz",
+    "questions": [
+        {
+            "question": "Give me a hand, ....................................?",
+            "description": "",
+            "answers": [
+                "can't you",
+                "will you",
+                "could you",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "271781c85c4f4a1bb51f951f769fd8cb"
+        },
+        {
+            "question": "There are some problems, ...............................?",
+            "description": "Negative tags are used after affirmative sentences and non-negative tags are used after negative sentences.",
+            "answers": [
+                "are there",
+                "aren't there?",
+                "don't there"
+            ],
+            "correct": 1,
+            "id": "58c1145d29c140bbbada29ba3b257eb8"
+        },
+        {
+            "question": "Not a great film, .............................?",
+            "description": "Negative tags are used after affirmative sentences and non-negative tags are used after negative sentences.",
+            "answers": [
+                "wasn't it",
+                "was it",
+                "isn't it"
+            ],
+            "correct": 1,
+            "id": "95c091f5c10c42ef91fdd3e701bbded9"
+        },
+        {
+            "question": "You do take sugar in tea, ...............................?",
+            "description": "In question tags we repeat the auxiliary verb used in the main sentence. Negative tags are used after affirmative sentences and non-negative tags are used after negative sentences.",
+            "answers": [
+                "do you",
+                "will you",
+                "don't you"
+            ],
+            "correct": 2,
+            "id": "4eaaed1fcc694af584f44c741d200ed7"
+        },
+        {
+            "question": "They don't have meetings on Sundays, ...............................?",
+            "description": "Negative tags are used after affirmative sentences and non-negative tags are used after negative sentences.",
+            "answers": [
+                "do they",
+                "don't they"
+            ],
+            "correct": 0,
+            "id": "f91770fa83364b02b1ef5a5428a021bc"
+        },
+        {
+            "question": "They won the first prize, ...............................?",
+            "description": "If the main sentence has no auxiliary, the question tag uses do, does or did. Do and does are used in the present tense. Did is used in the past tense. ",
+            "answers": [
+                "did they",
+                "didn't they?",
+                "don't they"
+            ],
+            "correct": 1,
+            "id": "603ed75a5a04499aa0c6072b5a05403c"
+        },
+        {
+            "question": "She recognized him at once, ................................?",
+            "description": "",
+            "answers": [
+                "does she?",
+                "don't she",
+                "did she",
+                "didn't she"
+            ],
+            "correct": 3,
+            "id": "9b0806d3fa4f474399b8f6c01c906512"
+        },
+        {
+            "question": "You wouldn't like a puppy, ................................?",
+            "description": "",
+            "answers": [
+                "will you",
+                "would you",
+                "wouldn't you"
+            ],
+            "correct": 1,
+            "id": "356d56efdce34c24b44dbb2917fa71e7"
+        },
+        {
+            "question": "They promised to repay the money within two months, ...............................?",
+            "description": "",
+            "answers": [
+                "didn't they?",
+                "did they not?",
+                "Either of the above"
+            ],
+            "correct": 2,
+            "id": "1bd8dc8a05534d2d82acc151603fc513"
+        },
+        {
+            "question": "She wants to be an architect, .......................................?",
+            "description": "When the main sentence is in the simple present tense, we use do or does in the question tag. Do is used with plural nouns and pronouns. Does is used with singular nouns and pronouns.",
+            "answers": [
+                "does she",
+                "doesn't she",
+                "didn't she"
+            ],
+            "correct": 1,
+            "id": "8d26a4822cc94e52a6c231665b3b1933"
+        },
+        {
+            "question": "You like fish, ...................................?",
+            "description": "We use do with plural nouns and the pronouns I, we and you. We use does with singular nouns and the pronouns she, he and it.",
+            "answers": [
+                "do you",
+                "don't you"
+            ],
+            "correct": 1,
+            "id": "e709d16a2a3f4c98838a479b04ef46cd"
+        },
+        {
+            "question": "The meeting started at 6, ..................................?",
+            "description": "Only pronouns are used in tags.",
+            "answers": [
+                "did the meeting",
+                "didn't the meeting",
+                "didn't it"
+            ],
+            "correct": 2,
+            "id": "51cce4949e304de4955dd1b02be6f2bf"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "id": "952554c20d4e43df9057f8d05aa0781f",
+    "title": "Infinitives And Ing Forms",
+    "questions": [
+        {
+            "question": "I hate the idea …………………………. old.",
+            "description": "",
+            "answers": [
+                "to get",
+                "of getting"
+            ],
+            "correct": 1,
+            "id": "43dd7f3437b54a5d9e368b251795c64b"
+        },
+        {
+            "question": "The thought ……………………….. never entered his head.",
+            "description": "",
+            "answers": [
+                "to fail",
+                "of failing"
+            ],
+            "correct": 1,
+            "id": "45ca135fafaa4b68bceefbecd960b4a8"
+        },
+        {
+            "question": "She is very good ………………………. problems.",
+            "description": "",
+            "answers": [
+                "to solve",
+                "at solve",
+                "at solving"
+            ],
+            "correct": 2,
+            "id": "20b14432f9cc4e91a6f5277a29b756f1"
+        },
+        {
+            "question": "I am tired …………………………. to advice.",
+            "description": "",
+            "answers": [
+                "to listen",
+                "of listening"
+            ],
+            "correct": 1,
+            "id": "3990e0ed644f4eb6875e60be4a9e0165"
+        },
+        {
+            "question": "A strimmer is a machine ………………………….. grass and weeds.",
+            "description": "",
+            "answers": [
+                "to cut",
+                "for cutting"
+            ],
+            "correct": 1,
+            "id": "9a5ea042f2ef48d2be45c2de1f784e44"
+        },
+        {
+            "question": "I must find something ………………………. that fly.",
+            "description": "",
+            "answers": [
+                "to kill",
+                "for killing"
+            ],
+            "correct": 0,
+            "id": "8a4f5af7086b4055b6e1f5af56515419"
+        },
+        {
+            "question": "I am proud …………………………… won.",
+            "description": "",
+            "answers": [
+                "of having",
+                "to have",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "075000caf13e4e3c902d01e949e868b5"
+        },
+        {
+            "question": "You can’t make an omelette without …………………….. eggs.",
+            "description": "",
+            "answers": [
+                "to break",
+                "breaking",
+                "to breaking"
+            ],
+            "correct": 1,
+            "id": "7612a41dd6a24ad99e79e36f6bb7efd7"
+        },
+        {
+            "question": "I look forward to ……………………………… from you.",
+            "description": "",
+            "answers": [
+                "hear",
+                "hearing"
+            ],
+            "correct": 1,
+            "id": "0fa28ae31fc64992bfef34385f111638"
+        },
+        {
+            "question": "I am not used to ……………………………. in London.",
+            "description": "",
+            "answers": [
+                "drive",
+                "driving"
+            ],
+            "correct": 1,
+            "id": "b86abe5924c24519af57bc16e3dc2170"
+        }
+    ]
+}

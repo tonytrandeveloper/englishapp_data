@@ -1,0 +1,111 @@
+{
+    "id": "346d7dc3c6b044f684ebc42ce3e334d2",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "My sister and I enjoy ...................... in the sea.",
+            "description": "After enjoy, we use an -ing form.",
+            "answers": [
+                "to swim",
+                "swimming"
+            ],
+            "correct": 1,
+            "id": "8475ab23f14b488fadff4187f6e15110"
+        },
+        {
+            "question": "I think you have forgotten .......................... your homework.",
+            "description": "",
+            "answers": [
+                "to do",
+                "doing"
+            ],
+            "correct": 0,
+            "id": "12aa1aa394b54f77835a3c23a0358433"
+        },
+        {
+            "question": "He works hard ....................... a living.",
+            "description": "",
+            "answers": [
+                "earning",
+                "to earn"
+            ],
+            "correct": 1,
+            "id": "d8d73f13c48746debb77ae94608ccc90"
+        },
+        {
+            "question": "Rani studies .......................... good marks.",
+            "description": "",
+            "answers": [
+                "scoring",
+                "to score"
+            ],
+            "correct": 1,
+            "id": "cbf05be728d54b628d504eb6e36dec4c"
+        },
+        {
+            "question": "The traveler requested the passer-by ......................... him a hand.",
+            "description": "",
+            "answers": [
+                "lending",
+                "to lend"
+            ],
+            "correct": 1,
+            "id": "06c0d28cde314a518dcb574903ec96ea"
+        },
+        {
+            "question": "Mother did not let me ......................... out with my friends.",
+            "description": "",
+            "answers": [
+                "go",
+                "going",
+                "to go"
+            ],
+            "correct": 0,
+            "id": "50b5dc92cd2a4df9a99ba4776eb7eaba"
+        },
+        {
+            "question": "He didn’t let me ............................ his room.",
+            "description": "",
+            "answers": [
+                "to enter",
+                "enter",
+                "entering"
+            ],
+            "correct": 1,
+            "id": "ac2ab9c94cc4448bb4a7e8f18c25cd15"
+        },
+        {
+            "question": "The children are busy .......................... their project.",
+            "description": "",
+            "answers": [
+                "doing",
+                "do",
+                "to do"
+            ],
+            "correct": 0,
+            "id": "efc23d175fc344e0bdf9fa6da4db0c52"
+        },
+        {
+            "question": "I am looking forward ........................... you.",
+            "description": "",
+            "answers": [
+                "seeing",
+                "to seeing",
+                "to see"
+            ],
+            "correct": 1,
+            "id": "a15f72beca5f4b40b99c1a0f49750a49"
+        },
+        {
+            "question": "I meant ........................... the letter, but I forgot.",
+            "description": "",
+            "answers": [
+                "to be posting",
+                "to have posted",
+                "posting"
+            ],
+            "correct": 1,
+            "id": "2d47f1b3451a46b4b1b19574228f7f40"
+        }
+    ]
+}

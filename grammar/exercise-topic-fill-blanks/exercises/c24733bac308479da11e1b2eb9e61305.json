@@ -1,0 +1,311 @@
+{
+    "id": "c24733bac308479da11e1b2eb9e61305",
+    "title": "Past Simple All Forms with 'be' Mixed Exercise",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / be / at the cinema last night)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I was at the cinema last night."
+                    ]
+                }
+            ],
+            "id": "bdd5717283684fffa7ff8914cfa66f94"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(the children / be / naughty)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Were the children naughty?"
+                    ]
+                }
+            ],
+            "id": "4cee19eb0a454d8a890ca239c5c6dead"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / be / in a cafe when you called)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Were we in a cafe when you called?"
+                    ]
+                }
+            ],
+            "id": "cbc26369fbf8456c9d6b0f1de8b85d67"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / be / late)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Was I late?"
+                    ]
+                }
+            ],
+            "id": "c54f0aa8ec4a4157b7fb39205c71555c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / be / a teacher when she was young)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She was a teacher when she was young."
+                    ]
+                }
+            ],
+            "id": "79c5b57584ec4f388d45034b12b45432"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / we / be)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Where were we?"
+                    ]
+                }
+            ],
+            "id": "383e2405970b440f9048d80f0960f669"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / be / okay)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Were you okay?"
+                    ]
+                }
+            ],
+            "id": "1945e612f81446d4b3bb64e0c3846223"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / be / too tired)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We were too tired."
+                    ]
+                }
+            ],
+            "id": "d9c715da017b469e814a6fd9c63487f4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / the party / be)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How was the party?"
+                    ]
+                }
+            ],
+            "id": "e32716cca35f41dd8c12a85de8de8b61"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / be / late for the interview)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They were late for the interview."
+                    ]
+                }
+            ],
+            "id": "8db57c51763146f5a860b227a1d17b69"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / be / in the garden)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You were in the garden."
+                    ]
+                }
+            ],
+            "id": "c2a836d9100145f1adaccbe4ebc21e2f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / his name / be)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What was his name?"
+                    ]
+                }
+            ],
+            "id": "51904aa70bef44ebaffc994238558637"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(it / not / be / cold)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "It wasn't cold.",
+                        "It was not cold."
+                    ]
+                }
+            ],
+            "id": "f9b89e491198440fa07297547d21b2c0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / be / beautiful)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Was she beautiful?"
+                    ]
+                }
+            ],
+            "id": "bea3bcfc962848799f44f97bd9cc8be7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / be my wife at the time)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She wasn't my wife at the time.",
+                        "She was not my wife at the time."
+                    ]
+                }
+            ],
+            "id": "852871803992420f9d3b6b253f2083d5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / be / hungry)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He was hungry."
+                    ]
+                }
+            ],
+            "id": "51a0e2935cd64cd59a311de491e8535e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / you / be / late)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Why were you late?"
+                    ]
+                }
+            ],
+            "id": "b20bad0e67ed4e1ca19fe9e22c9c2f69"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / be / early)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You weren't early.",
+                        "You were not early."
+                    ]
+                }
+            ],
+            "id": "5c7a8553c08e492c84ca8dd7a3af5f0b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they not / be / in love)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They weren't in love.",
+                        "They were not in love."
+                    ]
+                }
+            ],
+            "id": "9c23aa38e9034040847e7b90289d5a45"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / be / in China)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We weren't in China.",
+                        "We were not in China."
+                    ]
+                }
+            ],
+            "id": "8a34e4f86404427a89fdcc6a6b534b21"
+        }
+    ]
+}

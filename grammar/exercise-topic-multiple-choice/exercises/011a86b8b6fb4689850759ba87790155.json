@@ -1,0 +1,140 @@
+{
+    "id": "011a86b8b6fb4689850759ba87790155",
+    "title": "Modal Auxiliary Verbs Exercise",
+    "questions": [
+        {
+            "question": "My grandmother is eighty-five, but she ……………… still read and write without glasses. (Ability)",
+            "description": "We use can to express ability.",
+            "answers": [
+                "can",
+                "could",
+                "may"
+            ],
+            "correct": 0,
+            "id": "8af0b4c481fe42f2acd94dccf9f4e9d6"
+        },
+        {
+            "question": "…………….. I come with you?",
+            "description": "We use can to ask for permission.",
+            "answers": [
+                "Can",
+                "Will",
+                "Would"
+            ],
+            "correct": 0,
+            "id": "fd53cc43bdcc458b9dec8dd9fa600166"
+        },
+        {
+            "question": "………………. you help me with the housework, please? (Polite request)",
+            "description": "We use could in polite requests.",
+            "answers": [
+                "Could",
+                "Will",
+                "Should"
+            ],
+            "correct": 0,
+            "id": "3aa3b90f5b1a47fbb96a8692c177785a"
+        },
+        {
+            "question": "There was a time when I ………….. stay up very late. (Past ability)",
+            "description": "We use could to talk about past ability.",
+            "answers": [
+                "would",
+                "could",
+                "can"
+            ],
+            "correct": 1,
+            "id": "5decec3d48ba4f12b5f38b4f4f9d7ffe"
+        },
+        {
+            "question": "You …………….. not lose any more weight. You are already slim. (Necessity)",
+            "description": "We use need to show necessity.",
+            "answers": [
+                "may",
+                "need",
+                "should"
+            ],
+            "correct": 1,
+            "id": "df83e9f11e3843839593e1df7e274f85"
+        },
+        {
+            "question": "We …………… make the first move. (Prohibition)",
+            "description": "We use must not to prohibit.",
+            "answers": [
+                "must not",
+                "will not",
+                "cannot"
+            ],
+            "correct": 0,
+            "id": "59fbfc9940d7400f9d9f261d1ee50345"
+        },
+        {
+            "question": "It is snowing outside so I …………… stay at home. (Intention)",
+            "description": "We use will to express our intentions.",
+            "answers": [
+                "may",
+                "will",
+                "can"
+            ],
+            "correct": 1,
+            "id": "8473758b932e4c55842b474b835aba1e"
+        },
+        {
+            "question": "I ………………. get you a shawl from Kashmir. (Promise)",
+            "description": "We use will to make a promise.",
+            "answers": [
+                "will",
+                "would",
+                "can",
+                "may"
+            ],
+            "correct": 0,
+            "id": "21408f0f8e254bf0a5311ae4d1fa6d26"
+        },
+        {
+            "question": "…………….. you mind if I borrowed your car? (Permission)",
+            "description": "We use would in expressions with mind.",
+            "answers": [
+                "Will",
+                "Would",
+                "Should"
+            ],
+            "correct": 1,
+            "id": "02a58af604f742f9a70c804f76640f30"
+        },
+        {
+            "question": "……………. you take care of my dog for a day? (Polite request)",
+            "description": "We can use will in requests. ",
+            "answers": [
+                "Will",
+                "Shall",
+                "Should"
+            ],
+            "correct": 0,
+            "id": "40b256f617174313965969bcc968c61e"
+        },
+        {
+            "question": "Our country ………………. become a super power by  (possibility)",
+            "description": "We use may to indicate possibility.",
+            "answers": [
+                "may",
+                "might",
+                "will",
+                "should"
+            ],
+            "correct": 0,
+            "id": "d833d0d4f4024214970233102d4c2293"
+        },
+        {
+            "question": "She …………… sell her home because she needs money. (weak possibility)",
+            "description": "Might indicates weak possibility.",
+            "answers": [
+                "may",
+                "might",
+                "could"
+            ],
+            "correct": 1,
+            "id": "09aaeb3e992247139e14655ae5111a66"
+        }
+    ]
+}

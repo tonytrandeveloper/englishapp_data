@@ -1,0 +1,126 @@
+{
+    "id": "b2f14df57489445f9ae877f621f90552",
+    "title": "If Or Unless",
+    "questions": [
+        {
+            "question": "Come tomorrow ......................... you can.",
+            "description": "Unless means 'if not' or 'except if'.",
+            "answers": [
+                "if",
+                "unless"
+            ],
+            "correct": 0,
+            "id": "08727b68c18245dfb17c453669d05a00"
+        },
+        {
+            "question": "I will take this job ....................... the salary is not too low.",
+            "description": "",
+            "answers": [
+                "if",
+                "unless"
+            ],
+            "correct": 0,
+            "id": "c038bf7cf8c244849f3e21af5274b03a"
+        },
+        {
+            "question": "I will be back in the evening ......................... there is a bus strike.",
+            "description": "",
+            "answers": [
+                "unless",
+                "if"
+            ],
+            "correct": 0,
+            "id": "7e22f0fffb8a4242925ad8dfb142fefe"
+        },
+        {
+            "question": "Let's go for a walk - .............................. you are too tired.",
+            "description": "Unless means 'if not'. ",
+            "answers": [
+                "unless",
+                "if"
+            ],
+            "correct": 0,
+            "id": "4a05c239e5ab4109b6dab1536ab24bea"
+        },
+        {
+            "question": "I am going to work in the garden this afternoon ................. it rains.",
+            "description": "",
+            "answers": [
+                "if",
+                "unless"
+            ],
+            "correct": 1,
+            "id": "d620bb7a223c474180a588c0d346c4a8"
+        },
+        {
+            "question": "........................... you don't mend your ways, you will land in trouble.",
+            "description": "",
+            "answers": [
+                "If",
+                "Unless"
+            ],
+            "correct": 0,
+            "id": "b27cdcde8fa64f4fb38d88122a9323c9"
+        },
+        {
+            "question": "I won't be able to go ................. you come with me.",
+            "description": "",
+            "answers": [
+                "unless",
+                "if"
+            ],
+            "correct": 0,
+            "id": "268c05e8d7324aec8e7e601484a78cc6"
+        },
+        {
+            "question": "............................ you don't stop the music, I will call the police.",
+            "description": "If not means the same as unless. ",
+            "answers": [
+                "If",
+                "Unless"
+            ],
+            "correct": 0,
+            "id": "bba03d3cd3e2487f8c9df446c37c6d5a"
+        },
+        {
+            "question": "The taxmen will get you ........................ you don't pay the tax.",
+            "description": "If not means the same as unless. ",
+            "answers": [
+                "if",
+                "unless"
+            ],
+            "correct": 0,
+            "id": "3c6f97173a0847678aae7e78a9d27db7"
+        },
+        {
+            "question": "............................... you try, you will never win.",
+            "description": "The above sentence can also be written as: If you don't try, you will never win. ",
+            "answers": [
+                "Unless",
+                "If"
+            ],
+            "correct": 0,
+            "id": "c53d8b4449c442bab97757ea6174d190"
+        },
+        {
+            "question": "................................ you don't pay up, you will be in trouble.",
+            "description": "The above sentence can also be written as: Unless you pay up, you will be in trouble. ",
+            "answers": [
+                "If",
+                "Unless"
+            ],
+            "correct": 0,
+            "id": "f67d8fca4f444c05b08c818fb429f63a"
+        },
+        {
+            "question": "............................... she is late again, she will be shown the door.",
+            "description": "Unless is not possible here because it means if not. ",
+            "answers": [
+                "If",
+                "Unless"
+            ],
+            "correct": 0,
+            "id": "0bd906c4090b4e08b33b2daaa878411a"
+        }
+    ]
+}

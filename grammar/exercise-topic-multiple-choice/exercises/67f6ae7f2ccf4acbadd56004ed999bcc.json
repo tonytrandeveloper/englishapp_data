@@ -1,0 +1,99 @@
+{
+    "id": "67f6ae7f2ccf4acbadd56004ed999bcc",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "............................... out of the window of the room Peter saw a fox.",
+            "description": "",
+            "answers": [
+                "Looking",
+                "Looked",
+                "Having looked"
+            ],
+            "correct": 0,
+            "id": "18f6f6a01e9e42d58e451a7c1e83bb6b"
+        },
+        {
+            "question": "Mother cooked a meal made ..................................... oysters for the visitor.",
+            "description": "",
+            "answers": [
+                "of",
+                "from",
+                "with"
+            ],
+            "correct": 0,
+            "id": "d977636c29474282b1000905b143fe81"
+        },
+        {
+            "question": "Peter’s hair badly needs ...................................",
+            "description": "",
+            "answers": [
+                "cutting",
+                "to cut"
+            ],
+            "correct": 0,
+            "id": "e02bc09fe7c74675b7df01e3c48ca7cf"
+        },
+        {
+            "question": "He ......................................... today asking me to come next Sunday.",
+            "description": "",
+            "answers": [
+                "telephoned",
+                "has telephoned"
+            ],
+            "correct": 0,
+            "id": "87d0ce2fb5904cdc9b5bf5c3aeda5ce1"
+        },
+        {
+            "question": "James, ....................................... from his head, made a sewing machine for his mother.",
+            "description": "",
+            "answers": [
+                "entire",
+                "entirely"
+            ],
+            "correct": 1,
+            "id": "49484f86b4024408a05e576f89f66b11"
+        },
+        {
+            "question": "Uncle Thomas, ..................................... is over ninety, called his granddaughter.",
+            "description": "",
+            "answers": [
+                "who",
+                "that",
+                "which"
+            ],
+            "correct": 0,
+            "id": "2509f609db6c41668942578157a3dc08"
+        },
+        {
+            "question": "The basket full of flowers ....................................... by a girl.",
+            "description": "",
+            "answers": [
+                "carried",
+                "was carried"
+            ],
+            "correct": 1,
+            "id": "2cb1b6320766497bab2f1d1453dbfdd1"
+        },
+        {
+            "question": "The boy ........................................ lives next door wrote to the President.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "ab1b28778f2543eda6211dcca138c8e7"
+        },
+        {
+            "question": "The boy wore a hat made of jute fiber ..................................... his head.",
+            "description": "",
+            "answers": [
+                "on",
+                "in"
+            ],
+            "correct": 0,
+            "id": "9b883217caa0448788705cd82dcfc75f"
+        }
+    ]
+}

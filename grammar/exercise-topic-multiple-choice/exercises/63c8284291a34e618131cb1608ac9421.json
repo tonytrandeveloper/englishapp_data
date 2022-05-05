@@ -1,0 +1,139 @@
+{
+    "id": "63c8284291a34e618131cb1608ac9421",
+    "title": "Some, Any, None, No | Grammar Exercise",
+    "questions": [
+        {
+            "question": "'Which dress should I wear?' '.............................. will do.'",
+            "description": "",
+            "answers": [
+                "Any",
+                "Some",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "665b9734431b46a1aef92d2926f785de"
+        },
+        {
+            "question": "Can you see .......................... parrots over there?",
+            "description": "Use any in questions and negatives use some in affirmative sentences. ",
+            "answers": [
+                "some",
+                "any",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "d3eaf62422754f44b4ad5def0f234a93"
+        },
+        {
+            "question": "'Are there ............................ apples in the fridge?'",
+            "description": "Use any in negatives and questions.",
+            "answers": [
+                "some",
+                "any",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "6c2c4633528149e69599c8b941eb1c54"
+        },
+        {
+            "question": "The traveller asked for food but there was .............................. in the house.",
+            "description": "",
+            "answers": [
+                "some",
+                "any",
+                "none"
+            ],
+            "correct": 2,
+            "id": "14704772d271490995900561a1189274"
+        },
+        {
+            "question": "He didn't show ............................ remorse.",
+            "description": "Use any in questions and negatives use some in affirmative sentences. ",
+            "answers": [
+                "any",
+                "some",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "0a32c9580e22403c851a0fcbdfa5073c"
+        },
+        {
+            "question": "She doesn't have .............................. interest in politics.",
+            "description": "Use any in questions and negatives use some in affirmative sentences. ",
+            "answers": [
+                "any",
+                "some",
+                "no",
+                "none"
+            ],
+            "correct": 0,
+            "id": "315ffacde2c14ad9b93e4fbe0cd1bfa5"
+        },
+        {
+            "question": "Can I have .............................. more coffee?",
+            "description": "Some is used in questions when we expect an yes for answer.",
+            "answers": [
+                "any",
+                "some",
+                "no"
+            ],
+            "correct": 1,
+            "id": "cb1023ae87f94459b5afa07fecd4b4d0"
+        },
+        {
+            "question": "She has got hardly ................................. friends.",
+            "description": "Hardly any means more or less the same as no.",
+            "answers": [
+                "any",
+                "some",
+                "no"
+            ],
+            "correct": 0,
+            "id": "6425fd2b6ba646e797b8b205adfe8f97"
+        },
+        {
+            "question": "He has five children but ................................. of them lives with him.",
+            "description": "",
+            "answers": [
+                "any",
+                "some",
+                "none"
+            ],
+            "correct": 2,
+            "id": "aaf9273dac954ee384aa255f1b68ce69"
+        },
+        {
+            "question": "I called her in the afternoon but there was ................................. answer.",
+            "description": "",
+            "answers": [
+                "any",
+                "some",
+                "no"
+            ],
+            "correct": 2,
+            "id": "92be5409789e415c946cefd6e6e1a829"
+        },
+        {
+            "question": "If you receive .................................. information, let me know.",
+            "description": "",
+            "answers": [
+                "any",
+                "some",
+                "none"
+            ],
+            "correct": 0,
+            "id": "758e03ce639b43969352cc0c43f8b400"
+        },
+        {
+            "question": "You have never offered me ................................ help.",
+            "description": "",
+            "answers": [
+                "any",
+                "some",
+                "no"
+            ],
+            "correct": 0,
+            "id": "1eadaf2d742741508595c5db2307bfea"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "98101bcf57f64e92a25eb28a24246819",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "I would rather ............................ it.",
+            "description": "After would rather, we use an infinitive without to.",
+            "answers": [
+                "not do",
+                "not to do",
+                "not doing"
+            ],
+            "correct": 0,
+            "id": "b7ec0b1222f84bf995a43c7a851d9312"
+        },
+        {
+            "question": "Would you mind if I .................................. the window?",
+            "description": "Past tenses are used after 'would you mind?'",
+            "answers": [
+                "close",
+                "closed",
+                "will close"
+            ],
+            "correct": 1,
+            "id": "a68b4a31fa8c4bbb9744b6a07ca7838a"
+        },
+        {
+            "question": "What does the sentence 'Would you mind opening the window?' mean?",
+            "description": "",
+            "answers": [
+                "Please open the window.",
+                "Can I open the window?",
+                "Neither of these"
+            ],
+            "correct": 0,
+            "id": "b64628e0925549ffbf71429b63f65117"
+        },
+        {
+            "question": "Do you mind people .......................... in the kitchen?",
+            "description": "After 'do you mind...' we can use an ing form or a clause.",
+            "answers": [
+                "smoking",
+                "to smoke",
+                "smoked"
+            ],
+            "correct": 0,
+            "id": "bcc9adc7401f4e0db5d0e394b493c693"
+        },
+        {
+            "question": "Do you mind if people ............................ in the kitchen?",
+            "description": "We use a present tense in the if-clause after 'do you mind?'",
+            "answers": [
+                "smoke",
+                "smoking",
+                "smoked"
+            ],
+            "correct": 0,
+            "id": "b74fbaf0f358490688721e7abcb15072"
+        },
+        {
+            "question": "I wouldn't mind .......................... this again.",
+            "description": "Ing forms are used after 'wouldn't mind...'",
+            "answers": [
+                "to do",
+                "doing",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "93181cea2d5d4ce894e677bfeabcddaf"
+        },
+        {
+            "question": "I really ........................... when I went to Singapore.",
+            "description": "To talk about having a good time, we use the expression 'enjoy myself / ourselves'.",
+            "answers": [
+                "enjoyed",
+                "enjoyed myself",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "07d7f89cab2447eb9f11875de3b6d49f"
+        },
+        {
+            "question": "I don't enjoy ......................... dinner.",
+            "description": "Enjoy can be followed by an -ing form.",
+            "answers": [
+                "to cook",
+                "cooking",
+                "to cooking"
+            ],
+            "correct": 1,
+            "id": "a4b8abc417ba48fc94bf9c28c50645ab"
+        },
+        {
+            "question": "I have seen that film ................................",
+            "description": "We use many before plural nouns and much before uncountable nouns. ",
+            "answers": [
+                "much time",
+                "many times",
+                "many time"
+            ],
+            "correct": 1,
+            "id": "069a1bf407eb407497068c6623b28913"
+        },
+        {
+            "question": "I ................................ English for three years.",
+            "description": "We use a perfect tense to say how long a present action or situation has been going on. ",
+            "answers": [
+                "am learning",
+                "have been learning",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "45d7d9831cbd478096e0f6661c74ad50"
+        },
+        {
+            "question": "I am worried about .............................. he is safe.",
+            "description": "We cannot use 'if' after a preposition. We use 'whether' instead. ",
+            "answers": [
+                "if",
+                "whether",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "fed9c57431274e7b936903b1806da2e9"
+        },
+        {
+            "question": "She insisted on ............................. at once.",
+            "description": "After prepositions, we normally use -ing forms instead of infinitives. ",
+            "answers": [
+                "being paid",
+                "to be paid",
+                "to pay"
+            ],
+            "correct": 0,
+            "id": "fa50f21c3cf84c9e9251d76b8260c139"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "53e7fbfad3864f7d99918df5e9672b19",
+    "title": "Omission | Grammar Exercise",
+    "questions": [
+        {
+            "question": "They went out despite of the rain.",
+            "description": "‘Of’ should be removed from the sentence. The correct preposition is despite. ",
+            "answers": [
+                "out",
+                "of",
+                "the"
+            ],
+            "correct": 1,
+            "id": "0e393faaf13e48c498f13ec5bf4f0565"
+        },
+        {
+            "question": "Merlin, who is my youngest sister, she lives in Qatar.",
+            "description": "‘She’ should be removed from the sentence. A clause cannot have more than one subject.",
+            "answers": [
+                "who",
+                "she",
+                "youngest"
+            ],
+            "correct": 1,
+            "id": "3543c0714a9e4e649b5e2ab94f178299"
+        },
+        {
+            "question": "No matter what that I do, nothing seems to work.",
+            "description": "‘That’ should be removed from the sentence. ",
+            "answers": [
+                "no",
+                "what",
+                "that"
+            ],
+            "correct": 2,
+            "id": "4cf06f23c4ba4c2d919994cf2fbe2755"
+        },
+        {
+            "question": "He is at the work and won’t be home before evening.",
+            "description": "‘The’ should be removed from the sentence. There is no article in the expression ‘at work’.",
+            "answers": [
+                "at",
+                "the",
+                "be"
+            ],
+            "correct": 1,
+            "id": "f0d9da51358d42c1927c552b5cb73220"
+        },
+        {
+            "question": "It is getting dark. Let us go to home.",
+            "description": "Home is used without to as an adverb referring to direction.",
+            "answers": [
+                "getting",
+                "let",
+                "to"
+            ],
+            "correct": 2,
+            "id": "1d063b1db2224b90876f95273011a991"
+        },
+        {
+            "question": "I have received the parcel last week.",
+            "description": "We cannot use the present perfect tense with past time expressions.",
+            "answers": [
+                "have",
+                "the",
+                "last"
+            ],
+            "correct": 0,
+            "id": "ca817553532d431f87c355d1ef37ceb6"
+        },
+        {
+            "question": "You had better to put the meat in the oven.",
+            "description": "After had better we use the infinitive without to.",
+            "answers": [
+                "had",
+                "better",
+                "to"
+            ],
+            "correct": 2,
+            "id": "6b99742dba6342c68fcd243ac50a5d77"
+        },
+        {
+            "question": "You have to tell to me exactly how it happened.",
+            "description": "We do not use a preposition between tell and its object. The sentence should read: You have to tell me exactly how it happened.",
+            "answers": [
+                "to",
+                "have",
+                "how"
+            ],
+            "correct": 0,
+            "id": "432a00959011440b84e2d2b8cd22bd28"
+        },
+        {
+            "question": "If something does not work, I usually give to it a kick.",
+            "description": "There is no preposition between give and an indirect object.",
+            "answers": [
+                "does",
+                "to",
+                "usually"
+            ],
+            "correct": 1,
+            "id": "35bbfd7fe0884f26839b95c5e93e7338"
+        },
+        {
+            "question": "I don’t know that how we are going to get over the river.",
+            "description": "‘That’ should be removed from the sentence. The sentence should read: I don’t know how we are going to get over the river.",
+            "answers": [
+                "that",
+                "how",
+                "over"
+            ],
+            "correct": 0,
+            "id": "3ffa19d73c2045c485a4c8d86754aa7d"
+        },
+        {
+            "question": "Have you ever tried to get a toothpaste back into the tube?",
+            "description": "The article ‘a’ should be removed.",
+            "answers": [
+                "ever",
+                "a",
+                "back"
+            ],
+            "correct": 1,
+            "id": "866ad9e2fbcf4295a95af5852aa76d22"
+        },
+        {
+            "question": "We have got our roof blown off in the storm last week.",
+            "description": "We cannot use the present perfect tense with past time expressions.",
+            "answers": [
+                "have",
+                "off",
+                "the"
+            ],
+            "correct": 0,
+            "id": "3ed7013335c24ee6b3f5aca2969b2273"
+        }
+    ]
+}

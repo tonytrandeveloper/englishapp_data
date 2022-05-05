@@ -1,0 +1,126 @@
+{
+    "id": "8cf2eb6ff160456aa2c870eaa6073044",
+    "title": "Adjectives Ending In -ic & -ical",
+    "questions": [
+        {
+            "question": "She wants to learn ............................ music.",
+            "description": "Classical music refers to any kind of serious music.",
+            "answers": [
+                "classic",
+                "classical"
+            ],
+            "correct": 1,
+            "id": "66719e901a664eaf806094aff08345c7"
+        },
+        {
+            "question": "It is a ............................... movie.",
+            "description": "Classic can mean supreme.",
+            "answers": [
+                "classic",
+                "classical"
+            ],
+            "correct": 0,
+            "id": "e4e600b4d6fc4a6f909c9ca00b74f5c1"
+        },
+        {
+            "question": "Inflation can affect the ............................. stability of a country.",
+            "description": "Economic refers to the economy of a country.",
+            "answers": [
+                "economic",
+                "economical"
+            ],
+            "correct": 0,
+            "id": "d5fbf19c335e429b890922e053f75375"
+        },
+        {
+            "question": "An ............................... little car consumes only a small amount of fuel.",
+            "description": "Economical means not wasting money.",
+            "answers": [
+                "economic",
+                "economical"
+            ],
+            "correct": 1,
+            "id": "95e4e81aea2748cc9aeeb9885c810420"
+        },
+        {
+            "question": "You will get an ........................... shock if you touch a live wire.",
+            "description": "We say electric shock. ",
+            "answers": [
+                "electric",
+                "electrical"
+            ],
+            "correct": 0,
+            "id": "f03e1cc7c8b7472e8e35dfa8da10cdd7"
+        },
+        {
+            "question": "Do you know any shop where I can find second hand .............................. appliances?",
+            "description": "",
+            "answers": [
+                "electric",
+                "electrical"
+            ],
+            "correct": 1,
+            "id": "586ac869a88a4fd2ab36d4e08a03e669"
+        },
+        {
+            "question": "It was a ................................ moment for the country.",
+            "description": "Historic means making history.",
+            "answers": [
+                "historic",
+                "historical"
+            ],
+            "correct": 0,
+            "id": "9f8435dc72b54098838dbbeff6bf641d"
+        },
+        {
+            "question": "I enjoy reading ............................... novels.",
+            "description": "Historical means connected with history.",
+            "answers": [
+                "historic",
+                "historical"
+            ],
+            "correct": 1,
+            "id": "dcc0498a00d7452cb5861af38f53fd92"
+        },
+        {
+            "question": "Shakespeare's .............................. technique was rather brilliant.",
+            "description": "Comic is related to artistic comedy.",
+            "answers": [
+                "comic",
+                "comical"
+            ],
+            "correct": 0,
+            "id": "7bcfd608268d4036b1778d8eef2abb43"
+        },
+        {
+            "question": "She had a rather ............................. expression on her face.",
+            "description": "Comical can mean funny.",
+            "answers": [
+                "comic",
+                "comical"
+            ],
+            "correct": 1,
+            "id": "c7847a46005a411291a0eb58cd0efd19"
+        },
+        {
+            "question": "There are many ................................. monuments in India.",
+            "description": "Historical means connected with history.",
+            "answers": [
+                "historic",
+                "historical"
+            ],
+            "correct": 1,
+            "id": "36666cc903694e0b845c29f099832fa9"
+        },
+        {
+            "question": "That scandal destroyed his .............................. career.",
+            "description": "Political means connected with politics.",
+            "answers": [
+                "politic",
+                "political"
+            ],
+            "correct": 1,
+            "id": "1d6cce4717a5488eb59556c12654a87a"
+        }
+    ]
+}

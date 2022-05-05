@@ -1,0 +1,132 @@
+{
+    "id": "ffd79fa2941941c8b2f57c1491e141eb",
+    "title": "General Grammar Quiz",
+    "questions": [
+        {
+            "question": "Would you mind …………………………….. for a minute?",
+            "description": "An ing form is used after would you mind.",
+            "answers": [
+                "to wait",
+                "waiting",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3dae4f06518e486fa5ef785ff83e8fdc"
+        },
+        {
+            "question": "It isn’t worth …………………………….. to him.",
+            "description": "An ing form is used after isn't worth.",
+            "answers": [
+                "to talk",
+                "talking"
+            ],
+            "correct": 1,
+            "id": "0caf78dcbd4c4a22b720682e35b2fad3"
+        },
+        {
+            "question": "Why are you talking …………………………… such a loud voice?",
+            "description": "We say in a voice.",
+            "answers": [
+                "at",
+                "on",
+                "in"
+            ],
+            "correct": 2,
+            "id": "283cab6f395e48f2b5c949ecf3347f0c"
+        },
+        {
+            "question": "I wish I ……………………………… English.",
+            "description": "A past tense is used after I wish to express regrets.",
+            "answers": [
+                "speak",
+                "can speak",
+                "spoke"
+            ],
+            "correct": 2,
+            "id": "3ee5f9c4ce9c43a7a383dfd3c2bd16ca"
+        },
+        {
+            "question": "I will be happy when I …………………………….. this project.",
+            "description": "A present tense is used in the when-clause when both the main verb and the subordinate verb refers to the future. ",
+            "answers": [
+                "finish",
+                "finished",
+                "will finish"
+            ],
+            "correct": 0,
+            "id": "1a7a509fd94c4f88afae51e8a7fa2df8"
+        },
+        {
+            "question": "Winter is ………………………….. the way.",
+            "description": "When things are on the way, they are coming.",
+            "answers": [
+                "in",
+                "on"
+            ],
+            "correct": 1,
+            "id": "86edb8b8cc694f5c9ca65dd9ed3555e7"
+        },
+        {
+            "question": "Don’t stand ………………………….. my way.",
+            "description": "When things are in the way, they obstruct movement.",
+            "answers": [
+                "in",
+                "on"
+            ],
+            "correct": 0,
+            "id": "e3c97177b00841cb846808ccc80544ec"
+        },
+        {
+            "question": "I don’t want ……………………………… to him ever again.",
+            "description": "A to-infinitive is used after want. ",
+            "answers": [
+                "talking",
+                "to talk"
+            ],
+            "correct": 1,
+            "id": "80e63c3867dd40a7bb560eec97bc2f59"
+        },
+        {
+            "question": "He drove in a ………………………………. direction.",
+            "description": "When these words are adjectives, they do not take -s.",
+            "answers": [
+                "westward",
+                "westwards"
+            ],
+            "correct": 0,
+            "id": "ebca3cad0f1342a6a22c1d996b63b086"
+        },
+        {
+            "question": "We kept going …………………………. until we reached the top.",
+            "description": "When these words are adverbs, they can be used with or without -s.",
+            "answers": [
+                "upward",
+                "upwards",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "f7d529e3c4bc4a41a215ce41b5d83333"
+        },
+        {
+            "question": "I will write …………………………….. when I get home.",
+            "description": "When write has no direct object, we put to before the indirect object. ",
+            "answers": [
+                "you",
+                "to you"
+            ],
+            "correct": 1,
+            "id": "4f55e1664c544ca9815ae6179ba6a6d7"
+        },
+        {
+            "question": "Your hair needs ………………………………….",
+            "description": "The ing form here means the same as the passive infinitive to be+ past participle. ",
+            "answers": [
+                "to wash",
+                "washing",
+                "to be washed"
+            ],
+            "correct": 2,
+            "id": "9ede2c54ab7446c8bf7ecd4c153c728f"
+        }
+    ]
+}

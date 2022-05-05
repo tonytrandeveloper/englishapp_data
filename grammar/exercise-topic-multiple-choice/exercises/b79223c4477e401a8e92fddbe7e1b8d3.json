@@ -1,0 +1,138 @@
+{
+    "id": "b79223c4477e401a8e92fddbe7e1b8d3",
+    "title": "Indefinite Personal Pronouns",
+    "questions": [
+        {
+            "question": "................................. can't learn a new language in a week.",
+            "description": "We can use one or you to talk about people in general. ",
+            "answers": [
+                "One",
+                "You",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "fb90ec62853f4950b1552f9f8aba43f2"
+        },
+        {
+            "question": ".............................. should never tolerate injustice.",
+            "description": "We use one to talk about people in general including the speaker and the hearer. ",
+            "answers": [
+                "One",
+                "Somebody",
+                "Anybody"
+            ],
+            "correct": 0,
+            "id": "12b1c76aa9654bdda14018bbd894ccbf"
+        },
+        {
+            "question": "How ..................................... get to Calicut?",
+            "description": "One is more formal than you however, both one and you can be used to talk about people in general. ",
+            "answers": [
+                "does one",
+                "do you",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "57ebe0b42285476db0a930f93e141bca"
+        },
+        {
+            "question": ".................................... can find lots of people who speak English in India.",
+            "description": "We use one to talk about people in general including the speaker and the hearer. ",
+            "answers": [
+                "One",
+                "They",
+                "Somebody"
+            ],
+            "correct": 0,
+            "id": "5a4d1b4f6230435dbb401914641fa20e"
+        },
+        {
+            "question": ".................................. knocked at the door.",
+            "description": "One is only used in general statements. In other cases, we use other pronouns like somebody or they. ",
+            "answers": [
+                "One",
+                "Anybody",
+                "Somebody"
+            ],
+            "correct": 2,
+            "id": "e5f7e287861c447baa44499e943eb106"
+        },
+        {
+            "question": "................................ do not allow smoking in the kitchen.",
+            "description": "One cannot be used when the meaning is not 'people in general'.",
+            "answers": [
+                "One",
+                "They",
+                "Somebody"
+            ],
+            "correct": 1,
+            "id": "970ef1c9916e405fbe7c59608ca27ca9"
+        },
+        {
+            "question": "Centuries ago ................................. believed that the sun went around the earth.",
+            "description": "One cannot be used to generalize about people who could not include the speaker you cannot be used to generalize about people who could not include the listener. ",
+            "answers": [
+                "one",
+                "you",
+                "they"
+            ],
+            "correct": 2,
+            "id": "394e3a4d5a3941ebbea4a27db28f89a4"
+        },
+        {
+            "question": "................................ should knock before walking into somebody's room.",
+            "description": "We use one and you to talk about people in general including the speaker and the hearer. ",
+            "answers": [
+                "You",
+                "One",
+                "They"
+            ],
+            "correct": 1,
+            "id": "5fdf3e1a488044a39ace3851ba9939f6"
+        },
+        {
+            "question": "One should never hide anything from ................................... doctor or lawyer.",
+            "description": "In American English, he, him and his can be used to refer back to one. This is not normal in British English. ",
+            "answers": [
+                "his",
+                "one's",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "807d529aa08d4e1e87beb1b64095a5e8"
+        },
+        {
+            "question": "................................ say her marriage is in trouble.",
+            "description": "They say = people say. ",
+            "answers": [
+                "They say",
+                "One says",
+                "You say"
+            ],
+            "correct": 0,
+            "id": "1c2d173a47d0443cb549e004f95cc956"
+        },
+        {
+            "question": "............................... doesn't know what to do in such situations.",
+            "description": "We use one to talk about people in general including the speaker and the hearer. ",
+            "answers": [
+                "One",
+                "Somebody",
+                "Anybody"
+            ],
+            "correct": 0,
+            "id": "a03e17a05bf44808a00ed298094da03f"
+        },
+        {
+            "question": "...................................... going to widen the road.",
+            "description": "",
+            "answers": [
+                "One is",
+                "You are",
+                "They are"
+            ],
+            "correct": 2,
+            "id": "f95efc948c2c48b8b3a13d26913baffc"
+        }
+    ]
+}

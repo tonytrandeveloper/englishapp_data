@@ -1,0 +1,136 @@
+{
+    "id": "a6ae3cca8898463a9c1a786188c02f0d",
+    "title": "Gap Filling Grammar Exercise",
+    "questions": [
+        {
+            "question": "Janet as well as her sisters …………………… well.",
+            "description": "When we connect two nouns with as well as, the verb agrees with the former. ",
+            "answers": [
+                "sing",
+                "sings",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "57f90905c9604a0fb0062d9608801394"
+        },
+        {
+            "question": "…………………… she is very rich, she is not very happy.",
+            "description": "As and since give the reason. Though is used to connect two contrasting ideas. ",
+            "answers": [
+                "Though",
+                "As",
+                "Since"
+            ],
+            "correct": 0,
+            "id": "1a15f1f542f745499675b8c3c3b9e58c"
+        },
+        {
+            "question": "When we were kids, we …………………….. go swimming every weekend.",
+            "description": "Both would and used to can be used to talk about past habits. ",
+            "answers": [
+                "will go",
+                "would",
+                "used to"
+            ],
+            "correct": 2,
+            "id": "7e2015555f2e4eba8344019b29050e79"
+        },
+        {
+            "question": "The sun as well as the moon …………………….. light.",
+            "description": "When we connect two nouns with as well as, the verb agrees with the former. ",
+            "answers": [
+                "give",
+                "gives"
+            ],
+            "correct": 1,
+            "id": "4d923120c67149e6b77b6222b6087232"
+        },
+        {
+            "question": "She screamed ……………………… she was in pain.",
+            "description": "As if and as though are used to say what a situation seems like. ",
+            "answers": [
+                "though",
+                "as if",
+                "as though"
+            ],
+            "correct": 2,
+            "id": "da9893cef7aa42f48e289e8c2b3015c9"
+        },
+        {
+            "question": "…………………… he was very arrogant, no one liked him.",
+            "description": "As shows the reason.",
+            "answers": [
+                "As",
+                "Though",
+                "If"
+            ],
+            "correct": 0,
+            "id": "039e976626744392a4092fc2e00445f3"
+        },
+        {
+            "question": "He is ………………………. to buy a yacht.",
+            "description": "When enough is an adverb, it goes after the adjective or adverb modified by it.",
+            "answers": [
+                "rich enough",
+                "enough rich"
+            ],
+            "correct": 0,
+            "id": "943f254648404dc0b0cac9c513556ac0"
+        },
+        {
+            "question": "He was ……………………. tired to walk.",
+            "description": "Note the pattern too..to..",
+            "answers": [
+                "so",
+                "too",
+                "very"
+            ],
+            "correct": 1,
+            "id": "1b64bf6d36dd49c692aca41719e00849"
+        },
+        {
+            "question": "It is time you ……………………… another place to live in.",
+            "description": "A past tense is used after it is time...",
+            "answers": [
+                "find",
+                "found",
+                "have found"
+            ],
+            "correct": 1,
+            "id": "216f15bb115249a0b007b886371dc1bc"
+        },
+        {
+            "question": "The house was ……………………. beautiful that he decided to buy it.",
+            "description": "Note the conjunction so...that...",
+            "answers": [
+                "very",
+                "so",
+                "too"
+            ],
+            "correct": 1,
+            "id": "45f4f7b896bf4de99b48e3d5e3c7d1ba"
+        },
+        {
+            "question": "If you had been careful, the accident …………………………",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause.",
+            "answers": [
+                "will not happen",
+                "would not happen",
+                "would not have happened"
+            ],
+            "correct": 2,
+            "id": "826ffd87c3774d2c81e4e2f9b206d7f7"
+        },
+        {
+            "question": "If you are free in the afternoon, we ………………………. to the movies.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will/can/may + first form of the verb in the main clause. ",
+            "answers": [
+                "can go",
+                "could go",
+                "could have gone"
+            ],
+            "correct": 0,
+            "id": "21041e588e3d4496b3920521b25712e7"
+        }
+    ]
+}

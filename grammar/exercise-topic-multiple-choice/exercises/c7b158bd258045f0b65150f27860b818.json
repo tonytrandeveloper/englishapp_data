@@ -1,0 +1,137 @@
+{
+    "id": "c7b158bd258045f0b65150f27860b818",
+    "title": "Nouns And Pronouns Exercise",
+    "questions": [
+        {
+            "question": "The horse and carriage ………………….. waiting at the door.",
+            "description": "The verb is singular when two or more nouns suggest one idea to the mind or refer to the same person or thing.",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "2ea551abd18d4db5af2010b5daf7dc14"
+        },
+        {
+            "question": "No nook or corner ……………………. left unexplored.",
+            "description": "Two or more singular subjects connected by or require a singular verb.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "cbbcfaabdc3b48bf990d167176dcf1d0"
+        },
+        {
+            "question": "The quality of the apples ………………………… not very good.",
+            "description": "Here the proper subject is the singular expression ‘quality’ and hence the verb should be singular.",
+            "answers": [
+                "was",
+                "were",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "3fc05f8e9add43688e55323367bf8c6c"
+        },
+        {
+            "question": "His knowledge of Indian languages ……………………….. commendable.",
+            "description": "Here the proper subject is the singular expression ‘knowledge’ and hence the verb should be singular.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "d6eeca308e804284be957381878278d0"
+        },
+        {
+            "question": "Excessive consumption of beverages such as tea and coffee …………………….adverse effects on health.",
+            "description": "Here the proper subject is the singular expression ‘consumption’ and hence the verb should be singular.",
+            "answers": [
+                "has",
+                "have",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "b037d8a7d9ef4492a7910861eaad29ea"
+        },
+        {
+            "question": "The rise and the fall of the tide ……………………… due to the influence of the moon.",
+            "description": "The verb is singular when two or more nouns suggest one idea to the mind or refer to the same person or thing.",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d1e048ae078349b9a6b1418d02f97b4b"
+        },
+        {
+            "question": "Please allow John and ………………………. to go to the movies.",
+            "description": "Here the noun John and the pronoun me are the objects of the verb allow. Pronouns used as objects should be in their object form.",
+            "answers": [
+                "I",
+                "me",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "bb637f1e77434c42855af8b6c801208d"
+        },
+        {
+            "question": "He is as good a player as ……………………",
+            "description": "Either I am or me is possible here. The subject pronoun is not normally used after ‘as’ without a following verb.",
+            "answers": [
+                "me",
+                "I",
+                "I am"
+            ],
+            "correct": 2,
+            "id": "af107eb6a64a4d6bbce9bf229959d343"
+        },
+        {
+            "question": "All passengers must buy …………………… tickets.",
+            "description": "A pronoun must agree with its antecedent in number, gender and person.",
+            "answers": [
+                "their",
+                "our",
+                "his",
+                "her"
+            ],
+            "correct": 0,
+            "id": "33690ddeb2844c17aa2759f156f0ba15"
+        },
+        {
+            "question": "Every man must bear ………………….. own burden.",
+            "description": "\r\nA pronoun must agree with its antecedent in number, gender and person.\r\n",
+            "answers": [
+                "his",
+                "their",
+                "our"
+            ],
+            "correct": 0,
+            "id": "0c234e4b01d8406bad53d642ae9f833e"
+        },
+        {
+            "question": "Each girl gave ……………………… own version of the story.",
+            "description": "A pronoun must agree with its antecedent in number, gender and person.",
+            "answers": [
+                "their",
+                "her",
+                "our"
+            ],
+            "correct": 1,
+            "id": "31b70a78aeb744f8aba90ba128298176"
+        },
+        {
+            "question": "I am not one of those who believe everything ……………………. hear.",
+            "description": "Here the pronoun 'they' refers back to 'those'. ",
+            "answers": [
+                "I",
+                "you",
+                "they"
+            ],
+            "correct": 2,
+            "id": "5bdf7a6bfa0f4be6b68866e4274dc865"
+        }
+    ]
+}

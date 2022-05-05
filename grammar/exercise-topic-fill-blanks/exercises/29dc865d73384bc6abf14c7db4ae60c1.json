@@ -1,0 +1,311 @@
+{
+    "id": "29dc865d73384bc6abf14c7db4ae60c1",
+    "title": "Present Simple Mixed Forms 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / drive to work every day)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He drives to work every day."
+                    ]
+                }
+            ],
+            "id": "10484379c2314fb3ba71d05bac89ac2e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / think you're right)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't think you're right.",
+                        "I do not think you're right."
+                    ]
+                }
+            ],
+            "id": "6efe32d1be6243f6a8aa851afd7e7db4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / have enough time)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do we have enough time?"
+                    ]
+                }
+            ],
+            "id": "ee28a157711f495d8d45f7b21778ba86"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / eat cereal in the morning)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I eat cereal in the morning."
+                    ]
+                }
+            ],
+            "id": "22705c4a5db5470abf9506c1bac2a070"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / write e-mails every day)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do they write e-mails every day?"
+                    ]
+                }
+            ],
+            "id": "9c328891f07f4966b838199b7bac4309"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / watch a lot of TV)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You watch a lot of TV."
+                    ]
+                }
+            ],
+            "id": "38add94787544c059f9ae4ec174235bd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / read the newspaper)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He doesn't read the newspaper.",
+                        "He does not read the newspaper."
+                    ]
+                }
+            ],
+            "id": "5d42e286a9eb46bfa9f8c5e1ddff2674"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / dance often)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Does she dance often?"
+                    ]
+                }
+            ],
+            "id": "b65abfe7d70249d8be445a886dcf07d2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / I / come on Mondays)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Where do I come on Mondays?"
+                    ]
+                }
+            ],
+            "id": "00f1f7b1bbbb401e887ad9da0c45305b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / you / do at the weekend)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What do you do at the weekend?"
+                    ]
+                }
+            ],
+            "id": "422a398679994f33bced937331123f77"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / drink much tea)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You don't drink much tea.",
+                        "You do not drink much tea."
+                    ]
+                }
+            ],
+            "id": "e1f06337bf1b4b94af280a5fd87708f2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / he / travel to work)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How does he travel to work?"
+                    ]
+                }
+            ],
+            "id": "4d89270654f9456f97f148f995bca151"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / like vegetables)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They don't like vegetables.",
+                        "They do not like vegetables."
+                    ]
+                }
+            ],
+            "id": "b4f84a3c472d4cc1a9c92f647e4e9b1b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / catch a cold every winter)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She catches a cold every winter."
+                    ]
+                }
+            ],
+            "id": "b7023216afca4a52a55a9c041725e5e4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / go out often)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do I go out often?"
+                    ]
+                }
+            ],
+            "id": "2983fcedf7074f658c8fe8bdb271329f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / speak English)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you speak English?"
+                    ]
+                }
+            ],
+            "id": "87aee78fed7941b6af307e62c34a034c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / take the bus often)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We take the bus often."
+                    ]
+                }
+            ],
+            "id": "4047b0aca94942c789a567daeda4feaa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / walk to school)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She doesn't walk to school.",
+                        "She does not walk to school."
+                    ]
+                }
+            ],
+            "id": "96551466995c4c05b0e1859030711660"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / you / buy in the supermarket)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What do you buy in the supermarket?"
+                    ]
+                }
+            ],
+            "id": "0d9354ce6448446b8ce15f4e91173c2e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / he / carry such a heavy bag)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How does he carry such a heavy bag?"
+                    ]
+                }
+            ],
+            "id": "2d38260976ea44bfbe928741cccce9ed"
+        }
+    ]
+}

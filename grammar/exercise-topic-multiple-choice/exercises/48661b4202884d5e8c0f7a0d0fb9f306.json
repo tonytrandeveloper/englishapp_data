@@ -1,0 +1,156 @@
+{
+    "id": "48661b4202884d5e8c0f7a0d0fb9f306",
+    "title": "Adverb Particle or Preposition Exercise",
+    "questions": [
+        {
+            "question": "Don’t loiter about the street.",
+            "description": "",
+            "answers": [
+                "About is an adverb",
+                "About is a preposition"
+            ],
+            "correct": 1,
+            "id": "bca98c87fdfe4935a60ab0e192613664"
+        },
+        {
+            "question": "The children passed by.",
+            "description": "",
+            "answers": [
+                "By is an adverb",
+                "By is a preposition"
+            ],
+            "correct": 0,
+            "id": "d9e848e72291492a83323da4b7d495a5"
+        },
+        {
+            "question": "I have seen him before.",
+            "description": "",
+            "answers": [
+                "Before is an adverb",
+                "Before is a preposition"
+            ],
+            "correct": 0,
+            "id": "fa42244abe304216b7bed45546f479a5"
+        },
+        {
+            "question": "His parents arrived soon after.",
+            "description": "",
+            "answers": [
+                "After is an adverb",
+                "After is a preposition"
+            ],
+            "correct": 0,
+            "id": "2e270fbce7504884ab05176e34deefd4"
+        },
+        {
+            "question": "The man turned around.",
+            "description": "",
+            "answers": [
+                "Around is an adverb",
+                "Around is a preposition"
+            ],
+            "correct": 0,
+            "id": "725ece325bf84bb5ac22fee4f47d29c8"
+        },
+        {
+            "question": "We cannot live without water.",
+            "description": "",
+            "answers": [
+                "Without is a preposition",
+                "Without is an adverb"
+            ],
+            "correct": 0,
+            "id": "4eb32ed0ad7d42a7884711a91f5a0bdc"
+        },
+        {
+            "question": "The path leads through the forest.",
+            "description": "",
+            "answers": [
+                "Through is an adverb",
+                "Through is a preposition"
+            ],
+            "correct": 1,
+            "id": "08e8f99f654e436a8995b9662de3706e"
+        },
+        {
+            "question": "We walked on the ice.",
+            "description": "",
+            "answers": [
+                "On is an adverb",
+                "On is a preposition"
+            ],
+            "correct": 1,
+            "id": "298bf5193c0c4567bc7a976da6fbc952"
+        },
+        {
+            "question": "He sat on a stool.",
+            "description": "",
+            "answers": [
+                "On is a preposition",
+                "On is an adverb"
+            ],
+            "correct": 0,
+            "id": "0366b7a2bd3b422ba53af72ca430d640"
+        },
+        {
+            "question": "He returned after a month.",
+            "description": "",
+            "answers": [
+                "After is an adverb",
+                "After is a preposition"
+            ],
+            "correct": 1,
+            "id": "1d4f41f3e24645c49422407e4aac3080"
+        },
+        {
+            "question": "Please come in.",
+            "description": "",
+            "answers": [
+                "In is an adverb",
+                "In is a preposition"
+            ],
+            "correct": 0,
+            "id": "f5d087fca2ce420fade19a19f124c7c8"
+        },
+        {
+            "question": "I have not seen him since.",
+            "description": "",
+            "answers": [
+                "Since is an adverb",
+                "Since is a preposition"
+            ],
+            "correct": 0,
+            "id": "6ee77fcfb5dd4db7823ab07e7376366f"
+        },
+        {
+            "question": "The piper stepped into the street.",
+            "description": "",
+            "answers": [
+                "Into is a preposition",
+                "Into is an adverb"
+            ],
+            "correct": 0,
+            "id": "36e10b1524e949b5aad39b2a20d2f2dc"
+        },
+        {
+            "question": "A little girl sat under the tree.",
+            "description": "",
+            "answers": [
+                "Under is an adverb",
+                "Under is a preposition"
+            ],
+            "correct": 1,
+            "id": "167b46f1622d4ccdbc5384098652a3df"
+        },
+        {
+            "question": "Please sit down.",
+            "description": "",
+            "answers": [
+                "Down is an adverb",
+                "Down is a preposition"
+            ],
+            "correct": 0,
+            "id": "aa107495f58d40bf870575e16a425f89"
+        }
+    ]
+}

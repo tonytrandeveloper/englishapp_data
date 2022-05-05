@@ -1,0 +1,109 @@
+{
+    "id": "d1cff28308d64361957439fa4fcc9229",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "Our garden looks awful this summer. There are too ……………. weeds.",
+            "description": "",
+            "answers": [
+                "much",
+                "many"
+            ],
+            "correct": 1,
+            "id": "faefe96c5bac4666b8a3b4982647da2d"
+        },
+        {
+            "question": "There aren’t ………………. flowering plants in our garden.",
+            "description": "",
+            "answers": [
+                "many",
+                "much"
+            ],
+            "correct": 0,
+            "id": "e2caf0b18d054448986de07212b2977d"
+        },
+        {
+            "question": "How ……………….. pages did you read?",
+            "description": "",
+            "answers": [
+                "many",
+                "much"
+            ],
+            "correct": 0,
+            "id": "a6cc750cc56b435ca85f68810f287e43"
+        },
+        {
+            "question": "They say …………………. knowledge is a dangerous thing.",
+            "description": "",
+            "answers": [
+                "little",
+                "a little",
+                "the little"
+            ],
+            "correct": 1,
+            "id": "fdf8e53190cd4bcf8f37d3f4bd095bd9"
+        },
+        {
+            "question": "I am having ……………….. trouble passing my driving exam.",
+            "description": "",
+            "answers": [
+                "lot of",
+                "a lot of"
+            ],
+            "correct": 1,
+            "id": "c50ba67950524c109451ced5c18b886a"
+        },
+        {
+            "question": "...................... people can afford a home these days.",
+            "description": "",
+            "answers": [
+                "Few",
+                "Little"
+            ],
+            "correct": 0,
+            "id": "9cc6783733b1405790002fcb39744331"
+        },
+        {
+            "question": "You have ……………….. patience.",
+            "description": "",
+            "answers": [
+                "little",
+                "few"
+            ],
+            "correct": 0,
+            "id": "13ac484dacfb4e3297ec3cdf67e5a288"
+        },
+        {
+            "question": "She earns ..................... money than I do.",
+            "description": "",
+            "answers": [
+                "less",
+                "fewer",
+                "lesser"
+            ],
+            "correct": 0,
+            "id": "9f894cc35f6a4215b85f28cb77906243"
+        },
+        {
+            "question": "..................... of the information proved to be outdated.",
+            "description": "",
+            "answers": [
+                "Some",
+                "Many"
+            ],
+            "correct": 0,
+            "id": "cbc0c93806ff4786ae4301ec32329cf0"
+        },
+        {
+            "question": "I didn’t use ……………….. fertilizer last spring.",
+            "description": "",
+            "answers": [
+                "much",
+                "many",
+                "most"
+            ],
+            "correct": 0,
+            "id": "8efd50ef6385432792afba493f2eb5a3"
+        }
+    ]
+}

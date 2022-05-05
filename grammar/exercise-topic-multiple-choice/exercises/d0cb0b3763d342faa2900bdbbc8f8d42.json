@@ -1,0 +1,110 @@
+{
+    "id": "d0cb0b3763d342faa2900bdbbc8f8d42",
+    "title": "Used To",
+    "questions": [
+        {
+            "question": "I am not used to ………………….. in cold climates.",
+            "description": "",
+            "answers": [
+                "live",
+                "living",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "383d1c8e01f742fbb93d15c22c0288e3"
+        },
+        {
+            "question": "When we were kids, we …………………. go swimming in the evenings.",
+            "description": "",
+            "answers": [
+                "used to",
+                "were used to",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "3968f18a659b49cc81ab4bc793434dc3"
+        },
+        {
+            "question": "She used to …………………. a lot.",
+            "description": "",
+            "answers": [
+                "write",
+                "writing"
+            ],
+            "correct": 0,
+            "id": "9cf9909c07ac4331a5d5633511a9418a"
+        },
+        {
+            "question": "I am not used to ………………….. on the left.",
+            "description": "",
+            "answers": [
+                "drive",
+                "driving"
+            ],
+            "correct": 1,
+            "id": "a7fa082d81634312b75639003d5a1df6"
+        },
+        {
+            "question": "I didn’t use to ………………….. fish or meat, but now I do.",
+            "description": "",
+            "answers": [
+                "eat",
+                "eating"
+            ],
+            "correct": 0,
+            "id": "cb6cfbdd80ce461592c85d17d0143857"
+        },
+        {
+            "question": "He quit his job in Saudi Arabia because he ………………… .. living in such a hot country.",
+            "description": "",
+            "answers": [
+                "was not used to",
+                "did not used to",
+                "did not use to"
+            ],
+            "correct": 0,
+            "id": "3d3772698ba64fc6aad95755ab6808a2"
+        },
+        {
+            "question": "They are used to ………………….. in poverty.",
+            "description": "",
+            "answers": [
+                "live",
+                "living"
+            ],
+            "correct": 1,
+            "id": "19a71e92506e4d49923aa7667ad9c284"
+        },
+        {
+            "question": "You will soon get used to ………………….. things on your own.",
+            "description": "",
+            "answers": [
+                "do",
+                "doing"
+            ],
+            "correct": 1,
+            "id": "a860e0783d8b4474b2f672156c5b5754"
+        },
+        {
+            "question": "First-time mothers often find it difficult to get used to ………………….. up in the middle of the night.",
+            "description": "",
+            "answers": [
+                "get",
+                "getting"
+            ],
+            "correct": 1,
+            "id": "f40adfcc353341aebe6ddfcf5b480466"
+        },
+        {
+            "question": "I ………………… to like him, but now I do.",
+            "description": "",
+            "answers": [
+                "used not",
+                "didn't use",
+                "use to"
+            ],
+            "correct": 0,
+            "id": "4737bda8305446f99b802377de39df46"
+        }
+    ]
+}

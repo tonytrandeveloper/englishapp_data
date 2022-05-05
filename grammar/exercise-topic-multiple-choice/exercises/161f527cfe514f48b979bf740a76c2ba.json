@@ -1,0 +1,109 @@
+{
+    "id": "161f527cfe514f48b979bf740a76c2ba",
+    "title": "Infinitives Exercise",
+    "questions": [
+        {
+            "question": "The soup is ..................................... hot for me to drink.",
+            "description": "",
+            "answers": [
+                "so",
+                "too"
+            ],
+            "correct": 1,
+            "id": "b3f01e65dfe643e1a56a6a0c5d5389b7"
+        },
+        {
+            "question": "The problem is ......................................... difficult for me to solve.",
+            "description": "",
+            "answers": [
+                "so",
+                "very",
+                "too"
+            ],
+            "correct": 2,
+            "id": "25416eb7a2b148fe8e9e3c8093e3f6a6"
+        },
+        {
+            "question": "The grapes are .................................................. sour for us to eat.",
+            "description": "",
+            "answers": [
+                "so",
+                "too",
+                "very"
+            ],
+            "correct": 1,
+            "id": "46de5e0547f9419595eb148c3c976d59"
+        },
+        {
+            "question": "Akbar propagated the Divine Religion ........................................... India.",
+            "description": "",
+            "answers": [
+                "uniting",
+                "to unite",
+                "to uniting"
+            ],
+            "correct": 1,
+            "id": "e3f835105ed14e7cb5ed0f88c5e3045c"
+        },
+        {
+            "question": "He worked hard ................................................. the promotion.",
+            "description": "",
+            "answers": [
+                "getting",
+                "to get"
+            ],
+            "correct": 1,
+            "id": "dfb26a77fd27453fad445e9e911437dc"
+        },
+        {
+            "question": "He went to the city ............................................... work.",
+            "description": "",
+            "answers": [
+                "to find",
+                "finding"
+            ],
+            "correct": 0,
+            "id": "2013cc86c5e740638e412eb616453a66"
+        },
+        {
+            "question": "The traveler sat down ................................................ some rest.",
+            "description": "",
+            "answers": [
+                "to get",
+                "getting"
+            ],
+            "correct": 0,
+            "id": "75dc5c386de0411ebd40f5388fb6e216"
+        },
+        {
+            "question": "She opened her mouth ................................................",
+            "description": "",
+            "answers": [
+                "to yell",
+                "yelling"
+            ],
+            "correct": 0,
+            "id": "58ffd1fd9bf8448a818334269fb670ef"
+        },
+        {
+            "question": "He picked up the gun .............................................",
+            "description": "",
+            "answers": [
+                "shooting",
+                "to shoot"
+            ],
+            "correct": 1,
+            "id": "0062e043a69149d3b5537bf33e382933"
+        },
+        {
+            "question": "I called him ...............................................",
+            "description": "",
+            "answers": [
+                "speaking",
+                "to speak"
+            ],
+            "correct": 1,
+            "id": "83c668bc3d0e4ab6ad0190d134417aaa"
+        }
+    ]
+}

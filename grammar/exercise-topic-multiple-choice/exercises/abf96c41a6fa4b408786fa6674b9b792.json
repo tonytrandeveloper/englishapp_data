@@ -1,0 +1,139 @@
+{
+    "id": "abf96c41a6fa4b408786fa6674b9b792",
+    "title": "Intermediate Level Grammar Exercise",
+    "questions": [
+        {
+            "question": "Sam as well as his friends ...................... studying.",
+            "description": "When two nouns are connected by as well as, the verb agrees with the former subject. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "bccf0db84bd4439295b22609be82da2e"
+        },
+        {
+            "question": "........................ I was annoyed, I kept quiet.",
+            "description": "Either although or even though is possible here. Even though is more emphatic than although. ",
+            "answers": [
+                "Although",
+                "Even if",
+                "Even though"
+            ],
+            "correct": 2,
+            "id": "dde563ee190a465eb98d3292e3ca2a16"
+        },
+        {
+            "question": "When I was a child I ....................... to be an astronaut.",
+            "description": "The simple past is the most normal tense for talking about past states or actions. ",
+            "answers": [
+                "want",
+                "was wanting",
+                "wanted"
+            ],
+            "correct": 2,
+            "id": "c3376cd097ee4ddda1bf22a402584043"
+        },
+        {
+            "question": "The cow as well as the goat ....................... us milk.",
+            "description": "When we connect two singular nouns with as well as, the verb is singular. ",
+            "answers": [
+                "give",
+                "gives",
+                "is giving"
+            ],
+            "correct": 1,
+            "id": "68a9c34d850744e1bb714b513be13c07"
+        },
+        {
+            "question": "The beggar lay on the ground ......................... he were dead.",
+            "description": "Either as if or as though is possible here. As if and as though are used to talk about how a situation seems.",
+            "answers": [
+                "as if",
+                "as though",
+                "though"
+            ],
+            "correct": 1,
+            "id": "2e26108be371464b8c6cd82d7ce2ffbf"
+        },
+        {
+            "question": "....................... she was a generous woman, everyone liked her.",
+            "description": "As gives the reason though is similar to but. ",
+            "answers": [
+                "As",
+                "Though",
+                "Hence"
+            ],
+            "correct": 0,
+            "id": "9b5b8897952f40c195c0bb40e28655a0"
+        },
+        {
+            "question": "He is ....................... to buy a mansion.",
+            "description": "",
+            "answers": [
+                "so rich",
+                "very rich",
+                "rich enough"
+            ],
+            "correct": 2,
+            "id": "f033dbc5e3f9431b828af7a5f21b0af4"
+        },
+        {
+            "question": "He was ......................... weak to even sit up.",
+            "description": "Note the pattern too...to. It is also possible to write 'He was so weak that he could not even sit up.'",
+            "answers": [
+                "so",
+                "too",
+                "very"
+            ],
+            "correct": 1,
+            "id": "ebd86e7846774046a3b861fc2b9c5457"
+        },
+        {
+            "question": "The place was ......................... quiet that he decided to stay there.",
+            "description": "So...that gives the cause and effect. ",
+            "answers": [
+                "so",
+                "very",
+                "enough",
+                "such"
+            ],
+            "correct": 0,
+            "id": "0999c00a844f46eca5dfaacecdfffef9"
+        },
+        {
+            "question": "It was ......................... a hot day that I felt lethargic.",
+            "description": "Such is used before adjective + noun.",
+            "answers": [
+                "such",
+                "so",
+                "very",
+                ""
+            ],
+            "correct": 0,
+            "id": "5aa29e7dd3de4ecd8302d1c446d2ef56"
+        },
+        {
+            "question": "If I won the lottery, I ........................ a home.",
+            "description": "In the second conditional, use a simple past in the if-clause and would + first form of the verb in the main clause.",
+            "answers": [
+                "will buy",
+                "would buy",
+                "would have bought"
+            ],
+            "correct": 1,
+            "id": "abc12d54cf4f406796417e5b85c7759e"
+        },
+        {
+            "question": "If you ....................... the glass, it will break.",
+            "description": "In the first conditional, use a simple present in the if-clause and will + first form of the verb in the main clause. ",
+            "answers": [
+                "drop",
+                "dropped",
+                "had dropped"
+            ],
+            "correct": 0,
+            "id": "98a72e85ad9b4d4e917e45874c32a326"
+        }
+    ]
+}

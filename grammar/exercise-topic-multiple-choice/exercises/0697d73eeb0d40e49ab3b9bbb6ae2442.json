@@ -1,0 +1,86 @@
+{
+    "id": "0697d73eeb0d40e49ab3b9bbb6ae2442",
+    "title": "Idioms And Phrases Exercise",
+    "questions": [
+        {
+            "question": "He has the gift of the gab.",
+            "description": "",
+            "answers": [
+                "He is gifted",
+                "He is a chatterbox",
+                "He is a good conversationalist"
+            ],
+            "correct": 2,
+            "id": "99fdb518a3fd47eaa12fa6b5013fb38b"
+        },
+        {
+            "question": "Parental property has become a bone of contention between the siblings.",
+            "description": "",
+            "answers": [
+                "unifying factor",
+                "cause of quarrel",
+                "cause of rivalry"
+            ],
+            "correct": 1,
+            "id": "02542c087d05470e8cac028254745ce0"
+        },
+        {
+            "question": "Once in a blue moon, we meet each other.",
+            "description": "",
+            "answers": [
+                "Frequently",
+                "Sometimes",
+                "Very seldom indeed"
+            ],
+            "correct": 2,
+            "id": "b04848c852de46b0a82307ac635329a9"
+        },
+        {
+            "question": "He has been jobless for several months, and it is his wife who keeps the pot boiling.",
+            "description": "",
+            "answers": [
+                "Keeps the fire burning",
+                "Avoids starvation",
+                "Keeps firing",
+                "Gets angry"
+            ],
+            "correct": 1,
+            "id": "24be2bd9fbe44c6d8ad349e96606ff03"
+        },
+        {
+            "question": "In the end he had to eat the humble pie.",
+            "description": "",
+            "answers": [
+                "apologize humbly",
+                "defend himself vigorously",
+                "adopt an aggressive attitude"
+            ],
+            "correct": 0,
+            "id": "8a6d94b7c494429db51ee4d851c45d55"
+        },
+        {
+            "question": "To be a good orator, you don’t have to play to the galleries.",
+            "description": "",
+            "answers": [
+                "make a fool of yourself",
+                "offend the audience",
+                "appeal to the lower taste",
+                "appease select audience"
+            ],
+            "correct": 2,
+            "id": "4feb8a0763564b348b1ea34c941ab14c"
+        },
+        {
+            "question": "The officer took him to task.",
+            "description": "",
+            "answers": [
+                "Praised him",
+                "Reprimanded him severely",
+                "Dismissed him",
+                "Promoted him"
+            ],
+            "correct": 1,
+            "id": "228d38fa5460478caa2742e0d871031a"
+        }
+    ]
+}

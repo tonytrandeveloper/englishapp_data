@@ -1,0 +1,138 @@
+{
+    "id": "a563b494c8f441798e1f941fe0d47160",
+    "title": "Phrasal Verbs Exercise",
+    "questions": [
+        {
+            "question": "If you are really interested in her, why don't you ask her ...................... to a movie?",
+            "description": "\r\nTo ask somebody out is to invite them on a date.\r\n",
+            "answers": [
+                "in",
+                "out",
+                "up"
+            ],
+            "correct": 1,
+            "id": "70a8bd9c7aeb47379ce1819587fed260"
+        },
+        {
+            "question": "I asked ........................... but nobody had seen my cat.",
+            "description": "To ask around is to ask the same question to many people.",
+            "answers": [
+                "about",
+                "over",
+                "around"
+            ],
+            "correct": 2,
+            "id": "7b2e4b85cee1431f8eea82617f2adee7"
+        },
+        {
+            "question": "Your bill adds ........................ to 300 dollars.",
+            "description": "Add up to can mean be equal.",
+            "answers": [
+                "on",
+                "up",
+                "over"
+            ],
+            "correct": 1,
+            "id": "d36dc954117d44c99dd62f5bdbd0e2f1"
+        },
+        {
+            "question": "I can't get out unless you back ........................ your car.",
+            "description": "To back up a car is to reverse it.",
+            "answers": [
+                "out",
+                "off",
+                "up"
+            ],
+            "correct": 2,
+            "id": "9019ca35ae5a4b0fa406f9b98f15056b"
+        },
+        {
+            "question": "Nobody backed me ................................. when I announced my decision to quit my job.",
+            "description": "To back somebody up is to support them.",
+            "answers": [
+                "up",
+                "on",
+                "off"
+            ],
+            "correct": 0,
+            "id": "6de8eab39cf04606a88e97fb96378db5"
+        },
+        {
+            "question": "The car blew ........................ after it collided with the truck.",
+            "description": "To blow up is to explode.",
+            "answers": [
+                "out",
+                "over",
+                "up"
+            ],
+            "correct": 2,
+            "id": "9f26a0fa04c34db79077f58ac66dc5db"
+        },
+        {
+            "question": "Ask the children to blow ....................... the balloons for the party.",
+            "description": "To blow up balloons is to inflate them.",
+            "answers": [
+                "out",
+                "off",
+                "up"
+            ],
+            "correct": 2,
+            "id": "d4bacfb1591648259f0a21a7ef30fe29"
+        },
+        {
+            "question": "The fire fighters had to break ………………….. the building to save the trapped women and children.",
+            "description": "To break into a building is to enter forcibly.",
+            "answers": [
+                "in",
+                "into",
+                "off"
+            ],
+            "correct": 1,
+            "id": "955800b3519c4128a00e7ca482eec6a0"
+        },
+        {
+            "question": "The car broke ........................ in the thunder storm.",
+            "description": "When a machine or a vehicle breaks down, it stops working.",
+            "answers": [
+                "up",
+                "off",
+                "down"
+            ],
+            "correct": 2,
+            "id": "724523a7bc2f45a8a37dde1896ff0dfb"
+        },
+        {
+            "question": "The woman broke .......................... when the police told her that they had strong evidences against her.",
+            "description": "To break down is to get upset and cry.",
+            "answers": [
+                "out",
+                "down",
+                "off"
+            ],
+            "correct": 1,
+            "id": "875de205fadc4b3ebcc0e5dbb513e405"
+        },
+        {
+            "question": "If the task seems unmanageable break it ......................... into smaller parts.",
+            "description": "To break it down is to divide it into smaller parts.",
+            "answers": [
+                "up",
+                "down",
+                "off"
+            ],
+            "correct": 1,
+            "id": "973fdd842686408b8de54fdca82a1aa1"
+        },
+        {
+            "question": "The thieves broke ...................... at night and stole diamonds and jewels.",
+            "description": "To break in is to force entry to a building.",
+            "answers": [
+                "in",
+                "out",
+                "up"
+            ],
+            "correct": 0,
+            "id": "7c1099c81cef4939af5f6f361c0c375b"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "id": "5eeab1db8a5f44739905daae8f67f205",
+    "title": "Nouns Exercise",
+    "questions": [
+        {
+            "question": "This place is famous for its enchanting ………………………………",
+            "description": "Scenery does not have a plural form.",
+            "answers": [
+                "scenery",
+                "sceneries"
+            ],
+            "correct": 0,
+            "id": "f8fa12a02f714d5a8b6fa8da07a42e8a"
+        },
+        {
+            "question": "I think we should buy some ……………………………",
+            "description": "Furniture does not have a plural form. ",
+            "answers": [
+                "furniture",
+                "furnitures"
+            ],
+            "correct": 0,
+            "id": "27bb1338823e4d86b624157ab7bb9be8"
+        },
+        {
+            "question": "We have not received any …………………………….. about them.",
+            "description": "Information does not have a plural form.",
+            "answers": [
+                "information",
+                "informations"
+            ],
+            "correct": 0,
+            "id": "64964f31c45248b190b0a38a429efc55"
+        },
+        {
+            "question": "The latest news from across the borders ……………………………. disquieting.",
+            "description": "News is uncountable and takes a singular verb.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "871ccc702825475598470e78ad53c3a4"
+        },
+        {
+            "question": "The government isn’t doing anything for ……………………………..",
+            "description": "The unemployed means all unemployed people.",
+            "answers": [
+                "unemployed",
+                "the unemployed"
+            ],
+            "correct": 1,
+            "id": "052c9dda91ba4c9698071380332a28d3"
+        },
+        {
+            "question": "There …………………………….. many apples on the tree.",
+            "description": "If the noun following there is plural, the verb is plural.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "029a2533ce234309b707673a0a501c92"
+        },
+        {
+            "question": "When I was younger I used to go hiking once ………………………………",
+            "description": "",
+            "answers": [
+                "month",
+                "a month",
+                "in a month"
+            ],
+            "correct": 1,
+            "id": "622b4dd4c3424d80a6d516dbd5725521"
+        },
+        {
+            "question": "You can trust his ……………………………….",
+            "description": "Advice is a noun advise is the verb. Advice does not have a plural form. ",
+            "answers": [
+                "advice",
+                "advise",
+                "advices"
+            ],
+            "correct": 0,
+            "id": "1bebe366057448d68cbf6db2b544aecd"
+        },
+        {
+            "question": "My niece has lovely black ………………………………",
+            "description": "",
+            "answers": [
+                "hair",
+                "hairs"
+            ],
+            "correct": 0,
+            "id": "7137fda9b5e04befa70e6d202825fb56"
+        },
+        {
+            "question": "He paid two ……………………………. bucks for that laptop.",
+            "description": "",
+            "answers": [
+                "thousand",
+                "thousands"
+            ],
+            "correct": 0,
+            "id": "413953de0f6149dca1a8a4ca5dcbeee1"
+        },
+        {
+            "question": "The ………………………… of Mumbai suits me perfectly.",
+            "description": "Weather refers to short term changes in the atmosphere. Climate shows what the weather is like over a long period of time.",
+            "answers": [
+                "climate",
+                "weather"
+            ],
+            "correct": 0,
+            "id": "032bdc1cf7d04e44a97e56c5fdeee67c"
+        },
+        {
+            "question": "Have you got a lot of ……………………………?",
+            "description": "Luggage does not have a plural form. ",
+            "answers": [
+                "luggage",
+                "luggages"
+            ],
+            "correct": 0,
+            "id": "03dbee8c330c48a0b2965dcb5d1dbb53"
+        }
+    ]
+}

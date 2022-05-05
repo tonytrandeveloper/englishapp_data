@@ -1,0 +1,116 @@
+{
+    "id": "91ded2cd6aa44d8a80a287c5565efec7",
+    "title": "Common Word Combinations",
+    "questions": [
+        {
+            "question": ". I despair .................................... reforming that fellow.",
+            "description": "",
+            "answers": [
+                "about",
+                "of",
+                "off"
+            ],
+            "correct": 1,
+            "id": "056b92af5bff4d14a13413544fd3a546"
+        },
+        {
+            "question": "Never deviate ..................................... the path of truth.",
+            "description": "",
+            "answers": [
+                "off",
+                "with",
+                "from"
+            ],
+            "correct": 2,
+            "id": "cc07527344174603b18d7ded1982b84c"
+        },
+        {
+            "question": "This plan radically differs ...................................... the earlier one.",
+            "description": "",
+            "answers": [
+                "with",
+                "from",
+                "to"
+            ],
+            "correct": 1,
+            "id": "fdc8373427a241b7a90d83f5b796f0bb"
+        },
+        {
+            "question": "I am diffident .................................... passing the TOEFL this time.",
+            "description": "",
+            "answers": [
+                "of",
+                "about",
+                "for"
+            ],
+            "correct": 1,
+            "id": "716d60cb822f438a84f56b19b2b5be78"
+        },
+        {
+            "question": "I entirely disagree .................................... you on this point.",
+            "description": "",
+            "answers": [
+                "to",
+                "with",
+                "on"
+            ],
+            "correct": 1,
+            "id": "b5c4a7453eed406da494db403026dddf"
+        },
+        {
+            "question": "You are a disgrace ................................... your whole family.",
+            "description": "",
+            "answers": [
+                "for",
+                "to",
+                "with"
+            ],
+            "correct": 1,
+            "id": "673759a3335e4dc3a8ba6e621f9d0191"
+        },
+        {
+            "question": "I wish to dispose ......................................... my old car.",
+            "description": "",
+            "answers": [
+                "with",
+                "of",
+                "off"
+            ],
+            "correct": 1,
+            "id": "7cd0d3f8fd7341a6860632ac27d78e06"
+        },
+        {
+            "question": "I tried to dissuade him ....................................... following such a course of action.",
+            "description": "",
+            "answers": [
+                "with",
+                "from",
+                "of"
+            ],
+            "correct": 1,
+            "id": "fe929c76e4c949e19af38c103d0a5040"
+        },
+        {
+            "question": "His father is disgusted ..................................... him for his addiction to gambling.",
+            "description": "",
+            "answers": [
+                "to",
+                "with",
+                "at"
+            ],
+            "correct": 1,
+            "id": "7c6b5a3296974e76a7e385af4c269a04"
+        },
+        {
+            "question": "Although this is similar to the other one, it is quite distinct ..................................... it.",
+            "description": "",
+            "answers": [
+                "with",
+                "from",
+                "to"
+            ],
+            "correct": 1,
+            "id": "d227407ba8814438b5b8f43c147c3fc0"
+        }
+    ]
+}

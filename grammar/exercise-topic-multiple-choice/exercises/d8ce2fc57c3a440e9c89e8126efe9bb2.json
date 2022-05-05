@@ -1,0 +1,138 @@
+{
+    "id": "d8ce2fc57c3a440e9c89e8126efe9bb2",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "The Minister has …………………… to come.",
+            "description": "Before an infinitive, we use agree, not accept.",
+            "answers": [
+                "accepted",
+                "agreed",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "cc6bcabc101a43c9aeafad78375b5d06"
+        },
+        {
+            "question": "In most countries you have to be …………………….. 18 to drive a car.",
+            "description": "We use over to talk about ages and speeds. ",
+            "answers": [
+                "above",
+                "over",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "49b859a180884ad6b1d7c3596d3ac1cb"
+        },
+        {
+            "question": "The boys swam ……………………….. the river.",
+            "description": "We usually prefer across to talk about movement in water.",
+            "answers": [
+                "on",
+                "along",
+                "over",
+                "across"
+            ],
+            "correct": 3,
+            "id": "c2e8b1c840c84cef95e0b5f060267ff2"
+        },
+        {
+            "question": "……………………….. scientists, smoking can cause cancer.",
+            "description": "According to scientists means ‘if what scientists say is true’.",
+            "answers": [
+                "After",
+                "According to",
+                "In accordance with"
+            ],
+            "correct": 1,
+            "id": "adaa4023046e49c596f02fe14412b44f"
+        },
+        {
+            "question": "The boy jumped ……………………….. the wall.",
+            "description": "Over can mean on or to the other side of something high.",
+            "answers": [
+                "across",
+                "above",
+                "over"
+            ],
+            "correct": 2,
+            "id": "4ba5831a48b147de9e0c2b8052ab3051"
+        },
+        {
+            "question": "I am interested ……………………….. to fly.",
+            "description": "The adjective ‘interested’ is usually followed by ‘in + noun/ ing form’.",
+            "answers": [
+                "to learn",
+                "in learning",
+                "at learning"
+            ],
+            "correct": 1,
+            "id": "451be5ac6be345cd8a47f5fb4713b72b"
+        },
+        {
+            "question": "I am anxious for my daughter ……………………….. a good job.",
+            "description": "Anxious to get means eager to get.",
+            "answers": [
+                "to get",
+                "to getting",
+                "about getting"
+            ],
+            "correct": 0,
+            "id": "04403b6b8c7d4ec28dc48be5d2e9b747"
+        },
+        {
+            "question": "My ………………………. jobs were very stressful.",
+            "description": "The adjectives first, second, next and last usually go before one, two, three etc.",
+            "answers": [
+                "two last",
+                "last two",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "ada334f66cb9416d9eba14f7b7070895"
+        },
+        {
+            "question": "My husband is six years ……………………….. than me.",
+            "description": "The adjectives elder and eldest can only be used before a noun. After a verb we use other words like older and oldest. Here we use ‘elder’ because we need a comparative form before ‘than’.",
+            "answers": [
+                "elder",
+                "older",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "6152e7f1a8ec4f0cbad1f471e63e294c"
+        },
+        {
+            "question": "I don’t remember him ………………………",
+            "description": "Well is an adverb good is an adjective. We need an adverb to modify a verb.",
+            "answers": [
+                "well",
+                "good",
+                "better"
+            ],
+            "correct": 0,
+            "id": "1fe0cf0b55834eb0a68b22216219e6e2"
+        },
+        {
+            "question": "I could read only the ...................................... chapters of the book.",
+            "description": "The adjectives first, second, next and last usually go before one, two, three etc.",
+            "answers": [
+                "five first",
+                "first five"
+            ],
+            "correct": 1,
+            "id": "2acf5ab48be14b94a9fc4e845c4a2e28"
+        },
+        {
+            "question": "He has few reasons for staying, ..................................?",
+            "description": "Clauses with little and few are followed by affirmative question tags. ",
+            "answers": [
+                "has he",
+                "hasn't he",
+                "doesn't he"
+            ],
+            "correct": 0,
+            "id": "da58b78148db44a499f398168d66e31d"
+        }
+    ]
+}

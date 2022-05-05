@@ -1,0 +1,138 @@
+{
+    "id": "8615afbd967c4d7ebde53fa90ade1899",
+    "title": "Question Tags Exercise",
+    "questions": [
+        {
+            "question": "You went there yesterday, ………………………?",
+            "description": "Use a negative tag after an affirmative statement. In the simple past tense, use did in question tags. ",
+            "answers": [
+                "did you",
+                "didn't you",
+                "hadn't you"
+            ],
+            "correct": 1,
+            "id": "71a3bc7bcda54258854c74a4016d9794"
+        },
+        {
+            "question": "You had a word with your boss, …………………..?",
+            "description": "Use did because this sentence is in the simple past tense. ",
+            "answers": [
+                "hadn't you",
+                "didn't you",
+                "did you"
+            ],
+            "correct": 1,
+            "id": "3d855cf1cb934d898a06b06aa5af06bb"
+        },
+        {
+            "question": "She told you something, ……………………………?",
+            "description": "Use a negative tag after an affirmative statement. In the simple past tense, use did in question tags. ",
+            "answers": [
+                "did she",
+                "didn't she",
+                "hadn't she"
+            ],
+            "correct": 1,
+            "id": "e3b5c556f2af4cf0a487654b7c49c021"
+        },
+        {
+            "question": "They live here, ………………………………?",
+            "description": "In the simple present tense, use do or does to make question tags. ",
+            "answers": [
+                "do they",
+                "don't they",
+                "didn't they"
+            ],
+            "correct": 1,
+            "id": "103e538bff4f407e980d1667bb08a285"
+        },
+        {
+            "question": "She is an architect, ……………………….?",
+            "description": "The auxiliary verb in the given statement is repeated in the question tag. ",
+            "answers": [
+                "is she",
+                "isn't she",
+                "doesn't she"
+            ],
+            "correct": 1,
+            "id": "e1b49a3d2890466f99225fa24bbc65b0"
+        },
+        {
+            "question": "She earns a six figure salary, ……………………….?",
+            "description": "Use an affirmative tag after a negative statement. In the simple present tense, use do or does. ",
+            "answers": [
+                "does she",
+                "doesn't she",
+                "didn't she"
+            ],
+            "correct": 1,
+            "id": "319d0f2a6ef943059197b7d96c7f1dca"
+        },
+        {
+            "question": "He spends a lot of money on gadgets, …………………………?",
+            "description": "Use an affirmative tag after a negative statement. In the simple present tense, use do or does. ",
+            "answers": [
+                "does he",
+                "doesn't he",
+                "didn't he"
+            ],
+            "correct": 1,
+            "id": "a3627f8a93c74c2b9ff89acdb06ff298"
+        },
+        {
+            "question": "Somebody knocked on the door, ………………………….?",
+            "description": "Use they to refer to somebody, anybody, nobody etc in question tags. ",
+            "answers": [
+                "did somebody",
+                "did they",
+                "didn't they"
+            ],
+            "correct": 2,
+            "id": "b3b13e66fabf464ca57ceff08de5dcde"
+        },
+        {
+            "question": "That boy remembers everything, ……………………………?",
+            "description": "Use an affirmative tag after a negative statement. In the simple present tense, use do or does. ",
+            "answers": [
+                "does he",
+                "doesn't he",
+                "didn't he"
+            ],
+            "correct": 1,
+            "id": "6a4314ddfc1b4860b4cffad83f8490c8"
+        },
+        {
+            "question": "Our team lost the match, ……………………………?",
+            "description": "Use a negative tag after an affirmative statement. In the simple past tense, use did in question tags. ",
+            "answers": [
+                "did we",
+                "didn't they",
+                "didn't we"
+            ],
+            "correct": 1,
+            "id": "e49f1ef269dd467baf31bf1f95f28591"
+        },
+        {
+            "question": "She travels around the world, …………………………..?",
+            "description": "Use an affirmative tag after a negative statement. In the simple present tense, use do or does. ",
+            "answers": [
+                "does she",
+                "doesn't she",
+                "didn't she"
+            ],
+            "correct": 1,
+            "id": "df89362f5d404b11b7c8103b5fe9d0be"
+        },
+        {
+            "question": "You don’t know him, …………………………………..?",
+            "description": "Use an affirmative tag after a negative statement. In the simple present tense, use do or does. ",
+            "answers": [
+                "do you",
+                "don't you",
+                "didn't you"
+            ],
+            "correct": 0,
+            "id": "a11b1fb1ccce466dad800e0b70416346"
+        }
+    ]
+}

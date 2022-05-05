@@ -1,0 +1,133 @@
+{
+    "id": "e9ce407c1b1845ed9fc1c4f78de57559",
+    "title": "Words Confused Exercise",
+    "questions": [
+        {
+            "question": "I like everyone ………………………. you.",
+            "description": "To except means to exclude or leave out.",
+            "answers": [
+                "except",
+                "exempt",
+                "expect"
+            ],
+            "correct": 0,
+            "id": "8a06a483f3194782b778ea1648843112"
+        },
+        {
+            "question": "I ……………………….. him to call in the evening.",
+            "description": "",
+            "answers": [
+                "expect",
+                "except",
+                "accept"
+            ],
+            "correct": 0,
+            "id": "1bcd1eaa01fe428293f910fe9114205e"
+        },
+        {
+            "question": "The critics .................................. the director's new movie.",
+            "description": "To commend is to speak highly of something.",
+            "answers": [
+                "commended",
+                "commented"
+            ],
+            "correct": 0,
+            "id": "e94e7be7bb1e4e1c9e614e324d752f62"
+        },
+        {
+            "question": "Cyclists can use the ............................... railway tracks if they want to.",
+            "description": "If something is disused it is in a state of not being used.",
+            "answers": [
+                "misused",
+                "disused",
+                "abused"
+            ],
+            "correct": 1,
+            "id": "608dfd24c30c4d4e9eda6cda4d9ec5d2"
+        },
+        {
+            "question": "A greedy man often ................................. his friends.",
+            "description": "To misuse is to take advantage of something.",
+            "answers": [
+                "disuses",
+                "misuses",
+                "abuses"
+            ],
+            "correct": 1,
+            "id": "29379fa233424f76b745aa4557480c7b"
+        },
+        {
+            "question": "Her biography is so slow that it is almost ...............................",
+            "description": "If something is unreadable, it is not worth reading. ",
+            "answers": [
+                "illegible",
+                "unreadable",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3de6ebd0b071428da060fbad4401893d"
+        },
+        {
+            "question": "Mirrors give an ..................................... of more space in a room.",
+            "description": "An illusion is a misleading visual impression.",
+            "answers": [
+                "illusion",
+                "allusion"
+            ],
+            "correct": 0,
+            "id": "715b5bc9f2864053b41bdc74e4484df1"
+        },
+        {
+            "question": "The teacher made an ................................. to Bible.",
+            "description": "An allusion is a reference or mention.",
+            "answers": [
+                "illusion",
+                "allusion"
+            ],
+            "correct": 1,
+            "id": "638cb98cda934edc87fa777edde1abe6"
+        },
+        {
+            "question": "Prices are .............................",
+            "description": "Raise is a transitive verb and can only be used with an object.",
+            "answers": [
+                "rising",
+                "raising"
+            ],
+            "correct": 0,
+            "id": "dde7dad0e8ab40a983fbe7c9be53c0f1"
+        },
+        {
+            "question": "The plays of Oscar Wilde are famous for their .................................",
+            "description": "An epigram is a witty saying epilogue is the concluding speech.",
+            "answers": [
+                "epigrams",
+                "epilogues"
+            ],
+            "correct": 0,
+            "id": "4d1df0e107c643caa8c1c589ea20029d"
+        },
+        {
+            "question": "The student did ................................ research before writing the term paper.",
+            "description": "Exhaustive means comprehensive.",
+            "answers": [
+                "exhaustive",
+                "exhausting",
+                "exhausted"
+            ],
+            "correct": 0,
+            "id": "1df47bd9bee34ce6ae770b536b809879"
+        },
+        {
+            "question": "The children were ........................................ after the day's play.",
+            "description": "Exhausted means tired out.",
+            "answers": [
+                "exhausted",
+                "exhaustive",
+                "exhausting"
+            ],
+            "correct": 0,
+            "id": "3177342224e34883b84dbb94d083f1a1"
+        }
+    ]
+}

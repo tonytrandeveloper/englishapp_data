@@ -1,0 +1,137 @@
+{
+    "id": "64484934149e46458b3dc9f2c9ce8dbc",
+    "title": "Gap Filling Exercise",
+    "questions": [
+        {
+            "question": "I will be staying here for ……………………… more days.",
+            "description": "A few indicates a small number.",
+            "answers": [
+                "few",
+                "a few",
+                "the few"
+            ],
+            "correct": 1,
+            "id": "3aafb3e74e9b4f6aa6bf10dbca0f8d1f"
+        },
+        {
+            "question": "He is junior …………………………… me.",
+            "description": "The words junior and senior are followed by to.",
+            "answers": [
+                "than",
+                "to",
+                "for"
+            ],
+            "correct": 1,
+            "id": "6dfdfc22aa5845a1b4011b1c4a4f4b4c"
+        },
+        {
+            "question": "China is ………………………… than India.",
+            "description": "Use a comparative expression before than.",
+            "answers": [
+                "larger",
+                "the larger",
+                "the largest"
+            ],
+            "correct": 0,
+            "id": "d42300d1eeab4bf9b9ea2e868c874cbc"
+        },
+        {
+            "question": "He is ………………………….. than her.",
+            "description": "Younger is the comparative form of young. ",
+            "answers": [
+                "younger",
+                "the younger",
+                "more young"
+            ],
+            "correct": 0,
+            "id": "30fda2aafb8241bd8bf6c4525c259477"
+        },
+        {
+            "question": "I gave the kitten …………………………… milk.",
+            "description": "Use little with uncountable nouns.",
+            "answers": [
+                "a little",
+                "a few",
+                "many"
+            ],
+            "correct": 0,
+            "id": "8109df1b9f6b446d95bf915067635cdd"
+        },
+        {
+            "question": "Of the two routes, this is ………………………………",
+            "description": "Use the comparative form when a group consists of just two people or things. ",
+            "answers": [
+                "short",
+                "the shorter",
+                "the shortest"
+            ],
+            "correct": 1,
+            "id": "6ce03d8048464286aea9cdcb6f2a1d1b"
+        },
+        {
+            "question": "We got ……………………………….. rain this year. The crops are all dying.",
+            "description": "Little means hardly any.",
+            "answers": [
+                "a little",
+                "little",
+                "the little"
+            ],
+            "correct": 1,
+            "id": "1113d8edf65c4e98801fa470743116c8"
+        },
+        {
+            "question": "This material is superior ………………………….. that.",
+            "description": "Use to after superior and inferior. ",
+            "answers": [
+                "to",
+                "than",
+                "of"
+            ],
+            "correct": 0,
+            "id": "d43411773b5542f6828c8764c9d8053f"
+        },
+        {
+            "question": "He is ……………………………… of the four men.",
+            "description": "The superlative is used to compare a person or thing with the group to which they/it belong(s).",
+            "answers": [
+                "the older",
+                "oldest",
+                "the oldest"
+            ],
+            "correct": 2,
+            "id": "fc26e4097e914433b667345303dd6390"
+        },
+        {
+            "question": "I do not earn as much as …………………………… does.",
+            "description": "The subject form is used before a verb.",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 0,
+            "id": "7ebe9562000742d78e6a796f5bc51357"
+        },
+        {
+            "question": "A dog is ……………………………… than a cat.",
+            "description": "",
+            "answers": [
+                "more intelligent",
+                "the more intelligent",
+                "the most intelligent"
+            ],
+            "correct": 0,
+            "id": "8e8e43c27ee9491d8154c00c0c9afa6d"
+        },
+        {
+            "question": "Hindi ………………………….. in many parts of India.",
+            "description": "",
+            "answers": [
+                "is speaking",
+                "spoken",
+                "is spoken"
+            ],
+            "correct": 2,
+            "id": "0952c0ce4f7949e1b30dfcb117d81413"
+        }
+    ]
+}

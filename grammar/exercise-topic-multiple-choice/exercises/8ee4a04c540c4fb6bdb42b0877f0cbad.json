@@ -1,0 +1,126 @@
+{
+    "id": "8ee4a04c540c4fb6bdb42b0877f0cbad",
+    "title": "Would vs. Will",
+    "questions": [
+        {
+            "question": "I ……………………….. go swimming if I get time.",
+            "description": "When the verb in the if-clause is in the simple present tense, we use will + first form of the verb in the main clause.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "455e8b3ffddf461b9d3513dfc87bcbaa"
+        },
+        {
+            "question": "....................................... you like to come with me?",
+            "description": "We use would in polite offers.",
+            "answers": [
+                "Will",
+                "Would"
+            ],
+            "correct": 1,
+            "id": "7adaff6f5ab94d80bf2a8ed3d75c0bde"
+        },
+        {
+            "question": "I promise, I ................................. not smoke again.",
+            "description": "Will is used in promises.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "bf43cbe0f7ec4f4990808963605de768"
+        },
+        {
+            "question": "'I am cold.' 'I ............................. turn the heating on.'",
+            "description": "Will is used to announce decisions that we make at the time of speaking.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "2a8735cd5eaa475e86f98f8a27749435"
+        },
+        {
+            "question": "I don’t think that I …………………………. get the job.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "fe39acfe69f14f6db51fd366c1b86b9e"
+        },
+        {
+            "question": "If I had enough money, I …………………………… buy a  car.",
+            "description": "When the verb in the if-clause is in the simple past tense, we use would + first form of the verb in the main clause.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "ea4365d738344eb691107525e6f36b00"
+        },
+        {
+            "question": "I hope I ......................................... get the job.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "e386193d9580439c8019eb33fba0f797"
+        },
+        {
+            "question": "I .................................. wake up early if there was a good reason to.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "7e7dbfcd12dc4274b4dd428ab9b75ef4"
+        },
+        {
+            "question": "Do you think she .................................... come if we invited her?",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "1da02b49c16844c59c4648c418e46f03"
+        },
+        {
+            "question": "I don't know whether I ..................................... pass the test or not.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "57eeee2e3ed44b898a5874f51f53bcf7"
+        },
+        {
+            "question": "I ..................................... call you when dinner is ready.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "f8c39f33e8f946b5a5c6ee26c73ae37b"
+        },
+        {
+            "question": "I think we …………………………. win.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "f19cdfacca114d08a140e20d9d5c24c2"
+        }
+    ]
+}

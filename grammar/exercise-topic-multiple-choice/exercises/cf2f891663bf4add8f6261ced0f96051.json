@@ -1,0 +1,139 @@
+{
+    "id": "cf2f891663bf4add8f6261ced0f96051",
+    "title": "Ache, Pain, Hurt, Sore",
+    "questions": [
+        {
+            "question": "I ............................... my knee while playing football yesterday.",
+            "description": "To hurt your knee is to injure it.",
+            "answers": [
+                "pained",
+                "ached",
+                "hurt"
+            ],
+            "correct": 2,
+            "id": "4d12d2a0e0d0498d8de11333854b60ed"
+        },
+        {
+            "question": "Gargling with warm water will relieve the symptoms of a ............................... throat.",
+            "description": "This is an example of a collocation. ",
+            "answers": [
+                "pain",
+                "hurt",
+                "sore"
+            ],
+            "correct": 2,
+            "id": "adaa48cfbff540dfa3e1984fe746adf1"
+        },
+        {
+            "question": "A dentist can fix that ....................................",
+            "description": "An ache is usually a mild discomfort that affects only a particular part of the body.\r\nPain is stronger.",
+            "answers": [
+                "ache",
+                "hurt",
+                "sore"
+            ],
+            "correct": 0,
+            "id": "92d315fa26984053a0f2ce7ca551814e"
+        },
+        {
+            "question": "The blow made my head ......................................",
+            "description": "An ache is usually a mild discomfort that affects only a particular part of the body.\r\nPain is stronger.",
+            "answers": [
+                "pain",
+                "ache",
+                "sore"
+            ],
+            "correct": 1,
+            "id": "d868e2b49cfa4fa0a33de22156cf0ea5"
+        },
+        {
+            "question": "The driver ....................................... himself badly in the accident.",
+            "description": "Hurt is usually used as a verb.",
+            "answers": [
+                "hurt",
+                "pained",
+                "ached",
+                "sored"
+            ],
+            "correct": 0,
+            "id": "537553d72d8449148358da3f86d5665c"
+        },
+        {
+            "question": "These new shoes .....................................",
+            "description": "Hurt is usually a verb.",
+            "answers": [
+                "hurt",
+                "pain",
+                "ache"
+            ],
+            "correct": 0,
+            "id": "32839f0b232443cfb25cff8dd941fc1d"
+        },
+        {
+            "question": "The boy came home with a ...................................... knee.",
+            "description": "A hurt knee is an injured knee.",
+            "answers": [
+                "paining",
+                "ached",
+                "hurt"
+            ],
+            "correct": 2,
+            "id": "9e18c0c01e1f4319b1b1025f83dc6746"
+        },
+        {
+            "question": "The nurse bandaged my ..................................... toe.",
+            "description": "Like hurt, sore can also be an adjective. ",
+            "answers": [
+                "paining",
+                "hurting",
+                "sore"
+            ],
+            "correct": 2,
+            "id": "37f947726a214ebea48f91af9c10abab"
+        },
+        {
+            "question": "Losing the election was a .......................................... disappointment.",
+            "description": "This is an example of a collocation. ",
+            "answers": [
+                "paining",
+                "aching",
+                "sore"
+            ],
+            "correct": 2,
+            "id": "b05f9d9494a84bd1906af90b1cb57d75"
+        },
+        {
+            "question": "Put some iodine on that .......................................",
+            "description": "Sore can mean wound.",
+            "answers": [
+                "pain",
+                "sore",
+                "ache"
+            ],
+            "correct": 1,
+            "id": "61a511bd52364e46bf4248af44791b82"
+        },
+        {
+            "question": "The child's constant tantrums ......................................... his mother.",
+            "description": "Pained can mean agonized or distressed.",
+            "answers": [
+                "ached",
+                "pained",
+                "sored"
+            ],
+            "correct": 1,
+            "id": "e6e0dbdcbf9446dc88e7ac6436cf9458"
+        },
+        {
+            "question": "I have a ..................................... in my shoulder.",
+            "description": "",
+            "answers": [
+                "pain",
+                "ache",
+                "hurt"
+            ],
+            "correct": 0,
+            "id": "dfe6fe98ff284702a8fbf4047e9b618e"
+        }
+    ]
+}

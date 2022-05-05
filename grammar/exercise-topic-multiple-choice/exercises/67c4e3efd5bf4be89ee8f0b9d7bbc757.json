@@ -1,0 +1,138 @@
+{
+    "id": "67c4e3efd5bf4be89ee8f0b9d7bbc757",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "Will you wait here ....................... I return?",
+            "description": "Until shows time.",
+            "answers": [
+                "until",
+                "up to",
+                "unless"
+            ],
+            "correct": 0,
+            "id": "95210872c805466d9f9adb1531f0a18f"
+        },
+        {
+            "question": "I visit my grandparents ........................... I can.",
+            "description": "Whenever means it doesn't matter when.",
+            "answers": [
+                "when",
+                "whenever",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "9a5a748621854a6db558739f234ce168"
+        },
+        {
+            "question": "I will be home ........................ 8 o'clock.",
+            "description": "By means not later than.",
+            "answers": [
+                "by",
+                "within",
+                "on"
+            ],
+            "correct": 0,
+            "id": "28a72fed7d3646ec981c520ccc1f7d93"
+        },
+        {
+            "question": "I was relieved ........................ it finished.",
+            "description": "",
+            "answers": [
+                "when",
+                "whenever",
+                "while"
+            ],
+            "correct": 0,
+            "id": "b4d5bddfaf5c40a89da36b064a44bf59"
+        },
+        {
+            "question": "You must finish the job ........................ you leave.",
+            "description": "",
+            "answers": [
+                "when",
+                "before",
+                "as"
+            ],
+            "correct": 1,
+            "id": "d583ef68c0974ffb9e93f86423aa73f6"
+        },
+        {
+            "question": "I injure my ankle .......................... I play football.",
+            "description": "We are not talking about any particular occasion here. Hence, whenever is used.",
+            "answers": [
+                "when",
+                "whenever",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "c0b9951bca2642eeb2f4ecb93722ee74"
+        },
+        {
+            "question": "I injured my knee .............................. playing football yesterday.",
+            "description": "",
+            "answers": [
+                "when",
+                "while",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "0644dbab929c429b84d2b9a9f4bb8690"
+        },
+        {
+            "question": "I told her the news ............................ she arrived.",
+            "description": "As a conjunction, the moment can mean as soon as.",
+            "answers": [
+                "moment",
+                "the moment",
+                "as soon as"
+            ],
+            "correct": 2,
+            "id": "8c752f4b8d6a4342ab1fcd253f0202f4"
+        },
+        {
+            "question": "I will buy it only .......................... you reduce the price.",
+            "description": "We use if to express a condition.",
+            "answers": [
+                "if",
+                "whether",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "c3fe6661ed614303bcb87fca6c334c95"
+        },
+        {
+            "question": ".......................... I was sleepy, I sat through the lecture.",
+            "description": "We use though to connect two contrasting ideas. It is similar to but in meaning.",
+            "answers": [
+                "As",
+                "Though",
+                "Even if"
+            ],
+            "correct": 1,
+            "id": "cf49e14b45d04b6e913850f6ebd52534"
+        },
+        {
+            "question": "I was tired ........................... I didn't go.",
+            "description": "So is a conjunction. Hence and therefore are transitional adverbs. They cannot connect clauses.",
+            "answers": [
+                "so",
+                "hence",
+                "therefore"
+            ],
+            "correct": 0,
+            "id": "fe0edbfd76cb49558f9b881f08a3dfe5"
+        },
+        {
+            "question": "........................ art does not offer good career prospects, few people are interested in pursuing it.",
+            "description": "Since can express the reason for something.",
+            "answers": [
+                "Since",
+                "If",
+                "Thus"
+            ],
+            "correct": 0,
+            "id": "a56a2ff28f874ec4818f084a532708fe"
+        }
+    ]
+}

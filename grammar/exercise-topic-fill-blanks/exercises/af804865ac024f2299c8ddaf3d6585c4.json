@@ -1,0 +1,206 @@
+{
+    "id": "af804865ac024f2299c8ddaf3d6585c4",
+    "title": "Future Continuous Positive",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be working",
+                        "will be working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(work) in my office."
+                }
+            ],
+            "id": "9a34b27e21034974ab767082bfeadecf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be lying",
+                        "will be lying"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(lie) on the beach."
+                }
+            ],
+            "id": "8787e34b40824268bcdcefa55c2af2e7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be waiting",
+                        "will be waiting"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(wait) for the train."
+                }
+            ],
+            "id": "b3c8c9f2f23f41e7a5d7624ac58d603a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be shopping",
+                        "will be shopping"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(shop) in New York."
+                }
+            ],
+            "id": "0ab614a95716418a9cf69f957585b530"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be raining",
+                        "will be raining"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(rain)."
+                }
+            ],
+            "id": "7d7f2506760747b6b62bd7ee6a34ff85"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be getting",
+                        "will be getting"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get) ready to go out."
+                }
+            ],
+            "id": "8ad57dfde31a44f9a8f3dcb802b20b8e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be meeting",
+                        "will be meeting"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(meet) their parents."
+                }
+            ],
+            "id": "0dfddea4d6a04424a3b3bd00a63f75af"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be studying",
+                        "will be studying"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) in the library."
+                }
+            ],
+            "id": "2d89ecd283704f69b1f9d918aa6b9ee7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be exercising",
+                        "will be exercising"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(exercise) at the gym."
+                }
+            ],
+            "id": "368f671a16dd4ef5bb0e93c4884741e2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be sleeping",
+                        "will be sleeping"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(sleep)."
+                }
+            ],
+            "id": "c5797ea6795d4c2b9dc2aa82d8322123"
+        }
+    ]
+}

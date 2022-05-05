@@ -1,0 +1,121 @@
+{
+    "id": "f5356afe5b2a4c07825e605f8b1cf7fa",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "Are you going to …………………. with your cousin while you are in Sydney?",
+            "description": "",
+            "answers": [
+                "get in touch",
+                "getting in touch",
+                "have in touch"
+            ],
+            "correct": 0,
+            "id": "db1f35448366489c8501bfbfb310caca"
+        },
+        {
+            "question": "Her hands were ………………. with cold when we found her.",
+            "description": "",
+            "answers": [
+                "blue",
+                "red",
+                "green"
+            ],
+            "correct": 0,
+            "id": "ee6066011a62439881d10a8b4ea80389"
+        },
+        {
+            "question": "It is John ………………… the phone. He wants to talk to you.",
+            "description": "",
+            "answers": [
+                "on",
+                "over",
+                "at"
+            ],
+            "correct": 0,
+            "id": "fbd486dc7dcb4057af23ce6df72601c9"
+        },
+        {
+            "question": "We must ………………. your plans before we go.",
+            "description": "",
+            "answers": [
+                "discuss",
+                "discuss after",
+                "discuss about"
+            ],
+            "correct": 0,
+            "id": "fd8d3b381a434227b0b4506d45e9216c"
+        },
+        {
+            "question": "Which flight is she traveling …………………..?",
+            "description": "",
+            "answers": [
+                "in",
+                "on",
+                "at"
+            ],
+            "correct": 1,
+            "id": "dc77878e47c1468fad1e7cde21f61387"
+        },
+        {
+            "question": "I ……………….. them since",
+            "description": "",
+            "answers": [
+                "know",
+                "knew",
+                "have known",
+                "had known"
+            ],
+            "correct": 2,
+            "id": "d4120e5b6ae14c7681aa631d195f7105"
+        },
+        {
+            "question": "Heat ………………….. bodies.",
+            "description": "",
+            "answers": [
+                "is expanding",
+                "expands",
+                "expand",
+                "has expanded"
+            ],
+            "correct": 1,
+            "id": "4105ebda1b2e48b9b6039fd5a658d894"
+        },
+        {
+            "question": "The kettle ………………… Shall I make tree?",
+            "description": "",
+            "answers": [
+                "boils",
+                "is boiling",
+                "has boiled",
+                "has been boiling"
+            ],
+            "correct": 1,
+            "id": "cf3590e95c304ed5ad0a08ffa1e991f9"
+        },
+        {
+            "question": "I don’t have any parcels for you today. I ..................... tomorrow.",
+            "description": "",
+            "answers": [
+                "have any",
+                "may have some",
+                "may have any",
+                "have some"
+            ],
+            "correct": 1,
+            "id": "aa1a397494c74f2484770b3eb5cf1726"
+        },
+        {
+            "question": "Merchant of Venice is one of Shakespeare’s early ......................",
+            "description": "",
+            "answers": [
+                "plays",
+                "play",
+                "drama",
+                "dramas"
+            ],
+            "correct": 0,
+            "id": "e6eb1f4c64774901933a4547991c3445"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "id": "dee320197efe4380a0acf226b837d3fd",
+    "title": "Grammar Exercise",
+    "questions": [
+        {
+            "question": "Iron ………………….. in many countries.",
+            "description": "",
+            "answers": [
+                "find",
+                "found",
+                "is found"
+            ],
+            "correct": 2,
+            "id": "4fd5e3e8e0b64403b9be07465a123b9b"
+        },
+        {
+            "question": "He wondered how ………………………",
+            "description": "",
+            "answers": [
+                "it is made",
+                "was it made",
+                "it was made"
+            ],
+            "correct": 2,
+            "id": "fc700ffe2fd9468689ce2caa8815141d"
+        },
+        {
+            "question": "The university ………………… in",
+            "description": "",
+            "answers": [
+                "was found",
+                "was founded",
+                "found"
+            ],
+            "correct": 1,
+            "id": "7955e82d794f4cbbaaf404a3303904dc"
+        },
+        {
+            "question": "You can …………………… this.",
+            "description": "",
+            "answers": [
+                "avail",
+                "avail of",
+                "avail yourself of"
+            ],
+            "correct": 2,
+            "id": "dfcf2803d9494b548068c4eb490410aa"
+        },
+        {
+            "question": "He was ………………….. sorry.",
+            "description": "",
+            "answers": [
+                "very",
+                "very much",
+                "much"
+            ],
+            "correct": 0,
+            "id": "f0596a045c76452eab3d61574dab4bd4"
+        },
+        {
+            "question": "He was …………………. to invite me.",
+            "description": "",
+            "answers": [
+                "very kind",
+                "very kind enough",
+                "kind enough"
+            ],
+            "correct": 2,
+            "id": "e46aa60f820340a6b4e90662564f46e2"
+        },
+        {
+            "question": "He told the story …………………..",
+            "description": "",
+            "answers": [
+                "in details",
+                "in detail",
+                "with details"
+            ],
+            "correct": 1,
+            "id": "c6c8fc246a9c4eeb8d8c7d7406acbeef"
+        },
+        {
+            "question": "…………………. there was no one there.",
+            "description": "",
+            "answers": [
+                "Before long",
+                "Long before",
+                "Long ago"
+            ],
+            "correct": 2,
+            "id": "7618cc9a91ca40a3b0fb8d7975925e52"
+        },
+        {
+            "question": "This book is ………….. interesting.",
+            "description": "",
+            "answers": [
+                "very",
+                "too",
+                "very much"
+            ],
+            "correct": 0,
+            "id": "524ce325a56440cc9470c4cc8b07460b"
+        },
+        {
+            "question": "……………… such a sight.",
+            "description": "",
+            "answers": [
+                "Never I have seen",
+                "Never have I seen",
+                "Never I saw"
+            ],
+            "correct": 1,
+            "id": "65d1d691fc4841d9ba5e9e08dd2c5336"
+        }
+    ]
+}

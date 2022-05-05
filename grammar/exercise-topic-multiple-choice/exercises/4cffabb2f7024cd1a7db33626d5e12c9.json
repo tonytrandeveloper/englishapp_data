@@ -1,0 +1,114 @@
+{
+    "id": "4cffabb2f7024cd1a7db33626d5e12c9",
+    "title": "Negative Structures",
+    "questions": [
+        {
+            "question": "……………….. – I will look after you.",
+            "description": "",
+            "answers": [
+                "Not worry",
+                "Worry not",
+                "Don't worry"
+            ],
+            "correct": 2,
+            "id": "122c99a28c5e4cb69016901577662705"
+        },
+        {
+            "question": "I liked the salad but I ………………….. the soup.",
+            "description": "",
+            "answers": [
+                "don't like",
+                "didn't like",
+                "didn't liked"
+            ],
+            "correct": 1,
+            "id": "90a72ba97a0e4497b55aef039a5cbc55"
+        },
+        {
+            "question": "It is important that she ………………… what is happening.",
+            "description": "",
+            "answers": [
+                "don't realize",
+                "not realize",
+                "doesn't realize"
+            ],
+            "correct": 1,
+            "id": "40b0dc9e745046158c5095d7a318ad1f"
+        },
+        {
+            "question": "You ……………….. Margaret – she already knows.",
+            "description": "",
+            "answers": [
+                "needn't tell",
+                "needn't to tell"
+            ],
+            "correct": 0,
+            "id": "c901af4869fb4858b9a7853f939bda74"
+        },
+        {
+            "question": "………………….. quick results when you start learning a new language.",
+            "description": "",
+            "answers": [
+                "Expect not",
+                "Not expect",
+                "Do not expect"
+            ],
+            "correct": 2,
+            "id": "fb51db57e8f047479b49c189761dac30"
+        },
+        {
+            "question": "It is important ………………… waste your time.",
+            "description": "",
+            "answers": [
+                "to not",
+                "not to",
+                "to don't"
+            ],
+            "correct": 1,
+            "id": "b95d226f4fd9493f80d2c1f39d96c607"
+        },
+        {
+            "question": "You seldom work on Sundays, ………………….?",
+            "description": "",
+            "answers": [
+                "do you",
+                "don't you",
+                "didn't you"
+            ],
+            "correct": 0,
+            "id": "b1138e8488cb4df08d793ef136ad1752"
+        },
+        {
+            "question": "He has few reasons for quitting, ………………….?",
+            "description": "",
+            "answers": [
+                "has he",
+                "hasn't he",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "c394198343764aa98d9ab4f09e6ca448"
+        },
+        {
+            "question": "There is little point in asking him, ……………….?",
+            "description": "",
+            "answers": [
+                "is there",
+                "isn't there"
+            ],
+            "correct": 0,
+            "id": "00049b91e76a4f9489290b2ff6640958"
+        },
+        {
+            "question": "She doesn’t work here, ………………….?",
+            "description": "",
+            "answers": [
+                "does she",
+                "doesn't she",
+                "hasn't she"
+            ],
+            "correct": 0,
+            "id": "bdcb9998b0eb4e41bc4dba8a40d501a4"
+        }
+    ]
+}

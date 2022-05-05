@@ -1,0 +1,138 @@
+{
+    "id": "7dc2e0c42a1549b88245994b07da57d1",
+    "title": "Few vs. Little",
+    "questions": [
+        {
+            "question": "He was not a popular guy. He had very ........................... friends.",
+            "description": "Few means almost none. It can be used with very.",
+            "answers": [
+                "few",
+                "a few",
+                "little"
+            ],
+            "correct": 0,
+            "id": "e8819ca8108d42cc85def81dd959d743"
+        },
+        {
+            "question": "I have met him only ........................... times.",
+            "description": "A few indicates a small number.",
+            "answers": [
+                "few",
+                "a few",
+                "little"
+            ],
+            "correct": 1,
+            "id": "18e2c7d172d341a5b6652c6bce7471aa"
+        },
+        {
+            "question": "We have ............................. money. We can't eat out tonight.",
+            "description": "Little means almost nothing.",
+            "answers": [
+                "little",
+                "a little",
+                "a few"
+            ],
+            "correct": 0,
+            "id": "f6ff92aa62b242d0a01abfbcc7a0f97d"
+        },
+        {
+            "question": "There are ............................ apples in the fridge if you are hungry.",
+            "description": "A few indicates a small number.",
+            "answers": [
+                "few",
+                "a few",
+                "little"
+            ],
+            "correct": 1,
+            "id": "0ed6294a0c84437e8dc2ed17510cc78e"
+        },
+        {
+            "question": "There was ............................. oil in the tank. It was almost empty.",
+            "description": "Little oil means almost no oil.",
+            "answers": [
+                "little",
+                "a little",
+                "few"
+            ],
+            "correct": 0,
+            "id": "4c6363b7256e49b3a86de8e7f8dd4abb"
+        },
+        {
+            "question": "He has .......................... patience.",
+            "description": "Little patience means almost no patience.",
+            "answers": [
+                "little",
+                "a little",
+                "a few"
+            ],
+            "correct": 0,
+            "id": "4c960de7fd744cbf95121387c4e8c9dd"
+        },
+        {
+            "question": "I have got ............................ money so you can buy that shirt if you want.",
+            "description": "A little indicates a small amount.",
+            "answers": [
+                "little",
+                "a little",
+                "a few"
+            ],
+            "correct": 1,
+            "id": "6c0c15c30c1e4bb088060a6092f5f9ce"
+        },
+        {
+            "question": "Only ................................ politicians are honest.",
+            "description": "Only a few means the same as few.",
+            "answers": [
+                "few",
+                "a few",
+                "the few"
+            ],
+            "correct": 1,
+            "id": "6069bf8949c1475ea521c4f75e73f89f"
+        },
+        {
+            "question": "He ate ................................ food and then went to bed.",
+            "description": "",
+            "answers": [
+                "a few",
+                "a little",
+                "few"
+            ],
+            "correct": 1,
+            "id": "92834f8c240a4a4ebe64cdc37a7969c2"
+        },
+        {
+            "question": "I got only .............................. answers correct.",
+            "description": "",
+            "answers": [
+                "few",
+                "a few",
+                "a little"
+            ],
+            "correct": 1,
+            "id": "4821501cda8f4127acc39f3a99ec80c5"
+        },
+        {
+            "question": ".......................... people can afford a cruise holiday. It is very expensive.",
+            "description": "Only a few means the same as few.",
+            "answers": [
+                "Few",
+                "A little",
+                "Only a few"
+            ],
+            "correct": 2,
+            "id": "aefaa624f2034c40af8a016e2fb5bce2"
+        },
+        {
+            "question": "There are very ............................... people that I really respect.",
+            "description": "",
+            "answers": [
+                "few",
+                "a few",
+                "little"
+            ],
+            "correct": 0,
+            "id": "ad75589aef4c4db0849c9e1249d1417f"
+        }
+    ]
+}

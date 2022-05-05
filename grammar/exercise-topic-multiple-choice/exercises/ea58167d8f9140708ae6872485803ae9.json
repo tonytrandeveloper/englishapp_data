@@ -1,0 +1,138 @@
+{
+    "id": "ea58167d8f9140708ae6872485803ae9",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "They had ……………………….. hope of success yet they persevered.",
+            "description": "Little means hardly any.",
+            "answers": [
+                "little",
+                "a little",
+                "few"
+            ],
+            "correct": 0,
+            "id": "bff56c8cb5ab48dfb0bcf0207c35fa48"
+        },
+        {
+            "question": "The movie was …………………………. interesting.",
+            "description": "We do not normally use little to modify adjectives or adverbs with a negative meaning.",
+            "answers": [
+                "little",
+                "a little",
+                "not very"
+            ],
+            "correct": 2,
+            "id": "f70b8cc8425d471a82ad2ddecc2e71ef"
+        },
+        {
+            "question": "They arrived ………………………….. late.",
+            "description": "We can use a little before adjectives with a negative meaning.",
+            "answers": [
+                "little",
+                "not very",
+                "a little"
+            ],
+            "correct": 2,
+            "id": "9cb3f329d84941acaf1f3b32e4c54c76"
+        },
+        {
+            "question": "We have got ……………………….. meat.",
+            "description": "We use a little before uncountable nouns.",
+            "answers": [
+                "a little",
+                "a less",
+                "a few"
+            ],
+            "correct": 0,
+            "id": "21d13be21eb1485fb1d348ca66560a27"
+        },
+        {
+            "question": "……………………………….. people understand philosophy.",
+            "description": "We use few before a plural noun.",
+            "answers": [
+                "Few",
+                "Less",
+                "The few"
+            ],
+            "correct": 0,
+            "id": "5fbe5a264656495ca08eef0884d6d7b2"
+        },
+        {
+            "question": "Only ………………………….. us are really honest.",
+            "description": "We use few of before a pronoun.",
+            "answers": [
+                "a few",
+                "a few of",
+                "few"
+            ],
+            "correct": 1,
+            "id": "a9d79a09e7094dbb846a06e092312782"
+        },
+        {
+            "question": "Could I try ……………………………… soup?",
+            "description": "",
+            "answers": [
+                "little",
+                "a little",
+                "little of"
+            ],
+            "correct": 1,
+            "id": "ce55a3c4a5a140278b1b1cec00d0d9af"
+        },
+        {
+            "question": "Could I try a …………………………….. your soup?",
+            "description": "Before a pronoun we use little of.",
+            "answers": [
+                "little",
+                "little of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "0ec15c31a5064470877ef53d595fb5a0"
+        },
+        {
+            "question": "Only …………………………… children in the class passed the test.",
+            "description": "We use a few before a noun without a determiner.",
+            "answers": [
+                "a few",
+                "a few of",
+                "few of"
+            ],
+            "correct": 0,
+            "id": "d3551915c4c142cca5585a258f441c73"
+        },
+        {
+            "question": "Only …………………………….. the students like math.",
+            "description": "Before a noun with a determiner we use few of / a few of.",
+            "answers": [
+                "few",
+                "a few",
+                "a few of"
+            ],
+            "correct": 2,
+            "id": "aef09edeb0374becb9c7f2e9a017724e"
+        },
+        {
+            "question": "An average politician has …………………………… real power.",
+            "description": "We use little before uncountable nouns.",
+            "answers": [
+                "little",
+                "little of",
+                "a little of"
+            ],
+            "correct": 0,
+            "id": "4dfbfddf283b4ac58c98529e43608a79"
+        },
+        {
+            "question": "……………………………….. people can speak a foreign language perfectly.",
+            "description": "",
+            "answers": [
+                "Few",
+                "Few of",
+                "The few"
+            ],
+            "correct": 0,
+            "id": "ca09da25b4fe4ef0a27e93fbd2af4786"
+        }
+    ]
+}

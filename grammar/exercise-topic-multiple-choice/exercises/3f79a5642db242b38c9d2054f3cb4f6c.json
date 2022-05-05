@@ -1,0 +1,139 @@
+{
+    "id": "3f79a5642db242b38c9d2054f3cb4f6c",
+    "title": "Verbs Exercise",
+    "questions": [
+        {
+            "question": "The man complained that he ………………………….",
+            "description": "When the main verb is in the past tense, we need a past tense in the subordinate clause as well.",
+            "answers": [
+                "is robbed",
+                "has been robbed",
+                "had been robbed"
+            ],
+            "correct": 2,
+            "id": "9b1f3596246040178c5d298ac91f3dfd"
+        },
+        {
+            "question": "She asked me if she ………………………….. use my laptop.",
+            "description": "Could is the past tense of can. When the main verb is in the past tense, we need a past tense in the subordinate clause as well. ",
+            "answers": [
+                "can",
+                "could",
+                "would"
+            ],
+            "correct": 1,
+            "id": "6c3ed0026a18450a82ac96f6d792d759"
+        },
+        {
+            "question": "I want to know why you ………………………. to me.",
+            "description": "Use do with you. In the simple present tense, we make questions and negatives with do and does.",
+            "answers": [
+                "doesn't talk",
+                "don't talk",
+                "not talk"
+            ],
+            "correct": 1,
+            "id": "184a4991ad5245a7a83f9303a3fd5156"
+        },
+        {
+            "question": "I waited for hours but she …………………………….",
+            "description": "",
+            "answers": [
+                "didn't turned up",
+                "doesn't turn up",
+                "didn't turn up"
+            ],
+            "correct": 2,
+            "id": "cbbf509ce5374048a1ad0a829664dd16"
+        },
+        {
+            "question": "If you ………………………. a little faster, you could overtake her.",
+            "description": "In type 2 conditional, we use a simple past in the if-clause and would/could / might + first form of the verb in the main clause.",
+            "answers": [
+                "run",
+                "ran",
+                "have run",
+                "had run"
+            ],
+            "correct": 1,
+            "id": "147a50ad9ee5466ab3ce015849ff4d82"
+        },
+        {
+            "question": "It is time you …………………………… blaming others for your failures.",
+            "description": "After it is time, a past tense is used with a present or future meaning.",
+            "answers": [
+                "stop",
+                "stopped",
+                "have stopped"
+            ],
+            "correct": 1,
+            "id": "63affafee85748f3a4bd0a66896a17a2"
+        },
+        {
+            "question": "I wish I ……………………………. fly.",
+            "description": "",
+            "answers": [
+                "can",
+                "could",
+                "would"
+            ],
+            "correct": 1,
+            "id": "220070d61d374f0ca2106ea357e0b84f"
+        },
+        {
+            "question": "What will you do if you …………………………….. that job?",
+            "description": "In type 1 conditional, we use a simple present tense in the if-clause and will / can / may + first form of the verb in the main clause.",
+            "answers": [
+                "don't get",
+                "didn't get",
+                "hadn't got"
+            ],
+            "correct": 0,
+            "id": "90414c9f74b24389ba241f2656335162"
+        },
+        {
+            "question": "By next September, I …………………………… in this college for twenty years.",
+            "description": "We use the future perfect to say that an activity will have completed by a certain point of time in future. ",
+            "answers": [
+                "will teach",
+                "would teach",
+                "will have taught"
+            ],
+            "correct": 2,
+            "id": "798b93f4353d452baa9b23e259710f12"
+        },
+        {
+            "question": "I asked her what she …………………………. there.",
+            "description": "",
+            "answers": [
+                "is doing",
+                "was doing",
+                "has been doing"
+            ],
+            "correct": 1,
+            "id": "cd30b65e65a14c08984a4c2bacbf4019"
+        },
+        {
+            "question": "We ………………………….. the job by next Monday.",
+            "description": "",
+            "answers": [
+                "will finish",
+                "will be finishing",
+                "will have finished"
+            ],
+            "correct": 2,
+            "id": "6d20fcac916e42c4ba31e0dad7616a78"
+        },
+        {
+            "question": "He ………………………….. ill for two months, before he died.",
+            "description": "Perfect tenses are more common with the time expressions for and since. We use the past perfect to talk about the earlier of two past events. ",
+            "answers": [
+                "was",
+                "has been",
+                "had been"
+            ],
+            "correct": 2,
+            "id": "afdaff9a13f54245b9c62f9393aa6e8e"
+        }
+    ]
+}

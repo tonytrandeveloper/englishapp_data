@@ -1,0 +1,138 @@
+{
+    "id": "5f4208c2c53d40feb206ce0469cddc4f",
+    "title": "Simple Past Or Present Perfect Tense",
+    "questions": [
+        {
+            "question": "He ...................................... absent since Monday.",
+            "description": "We use the present perfect to talk about an action or situation that started in the past and has continued up to the present.",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 2,
+            "id": "83a66e8d5bf14ae5abbfbe334d74a879"
+        },
+        {
+            "question": "Look. Somebody ......................................... their wallet on the table.",
+            "description": "We use the present perfect to talk about recently finished actions and events.",
+            "answers": [
+                "left",
+                "has left",
+                "had left"
+            ],
+            "correct": 1,
+            "id": "08f1160a18924fb0a8542a418c6b09c8"
+        },
+        {
+            "question": "....................................... Janaki yesterday?",
+            "description": "The present perfect cannot be used with past time expressions like yesterday.",
+            "answers": [
+                "Did you see",
+                "Have you seen",
+                "Do you see"
+            ],
+            "correct": 0,
+            "id": "99732e8633a84dafbc382ffc501fa2d2"
+        },
+        {
+            "question": "I can't open the suitcase because I ........................................ the key.",
+            "description": "The present perfect is used to talk about past events whose effect is still felt in the present.",
+            "answers": [
+                "lost",
+                "have lost",
+                "had lost"
+            ],
+            "correct": 1,
+            "id": "99b4828e80a24484907c9249b279cdbc"
+        },
+        {
+            "question": "Although I rang the bell six times, nobody ...................................... the door.",
+            "description": "The past simple is used to talk about finished events that are in no way related to the present. ",
+            "answers": [
+                "opened",
+                "has opened",
+                "had opened"
+            ],
+            "correct": 0,
+            "id": "d34a83e75e6643bd9e9a94236acb8fd2"
+        },
+        {
+            "question": "I ............................................. college last year.",
+            "description": "The present perfect cannot be used with past time expressions like yesterday.",
+            "answers": [
+                "left",
+                "have left",
+                "had left"
+            ],
+            "correct": 1,
+            "id": "e74537609468451a8cb3aca3d0fcfa88"
+        },
+        {
+            "question": "I never .......................................... my grandfather because he had died before I was born.",
+            "description": "",
+            "answers": [
+                "saw",
+                "had seen",
+                "have seen"
+            ],
+            "correct": 0,
+            "id": "b3498e9115fd4cb3b7a879539e19bf80"
+        },
+        {
+            "question": "This is the first time I ....................................... an opera.",
+            "description": "The present perfect is common with the expression 'this is the first / second / last etc.'",
+            "answers": [
+                "watched",
+                "have watched",
+                "had watched"
+            ],
+            "correct": 1,
+            "id": "c52c10b34d5d4a48abe527843ef67a9e"
+        },
+        {
+            "question": "You can't see her now because she ........................................",
+            "description": "The present perfect is used to talk about past events whose effect is still felt in the present.",
+            "answers": [
+                "already left",
+                "has already left",
+                "had already left"
+            ],
+            "correct": 1,
+            "id": "0a146b6499b4486694225987ca7ba8bb"
+        },
+        {
+            "question": "He can't walk because he ....................................... his leg.",
+            "description": "The present perfect is used to talk about past events whose effect is still felt in the present.",
+            "answers": [
+                "broke",
+                "has broken",
+                "had broken"
+            ],
+            "correct": 1,
+            "id": "43aa9dde88794d30a82c98dc803a8970"
+        },
+        {
+            "question": "I have known him since we ........................................ at university together.",
+            "description": "",
+            "answers": [
+                "were",
+                "had been",
+                "have been"
+            ],
+            "correct": 0,
+            "id": "7ba9878b3c274bf1a94fbe389eee7bd3"
+        },
+        {
+            "question": "It has been years since we ............................................ him.",
+            "description": "",
+            "answers": [
+                "have met",
+                "met",
+                "had met"
+            ],
+            "correct": 1,
+            "id": "8d7853fe7e684a308cc8988b21ba64a4"
+        }
+    ]
+}

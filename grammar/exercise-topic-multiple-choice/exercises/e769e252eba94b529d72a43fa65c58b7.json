@@ -1,0 +1,138 @@
+{
+    "id": "e769e252eba94b529d72a43fa65c58b7",
+    "title": "Continuous Tenses Exercise",
+    "questions": [
+        {
+            "question": "I …………………….. an interesting novel now.",
+            "description": "We use the present continuous here because the time expression now gives the indication that we are talking about the present.",
+            "answers": [
+                "was reading",
+                "am reading",
+                "will be reading"
+            ],
+            "correct": 1,
+            "id": "8152f42d38504f46aa11557b0c70e9b4"
+        },
+        {
+            "question": "She ………………………. with her parents at the moment.",
+            "description": "",
+            "answers": [
+                "was staying",
+                "is staying",
+                "will be staying"
+            ],
+            "correct": 1,
+            "id": "69e00f61fc6c4cdca5266d7f7342190b"
+        },
+        {
+            "question": "This time tomorrow we ………………………. Raj’s birthday.",
+            "description": "We use the future continuous here because we are talking about an action or situation that will be in progress at a particular point of time in future.",
+            "answers": [
+                "were celebrating",
+                "are celebrating",
+                "will be celebrating"
+            ],
+            "correct": 2,
+            "id": "4a633e1d63fd457fb00ad6030e9e44b7"
+        },
+        {
+            "question": "The child ………………………… for his parents.",
+            "description": "There is no time reference here hence the present continuous is used.",
+            "answers": [
+                "was waiting",
+                "is waiting",
+                "will be waiting"
+            ],
+            "correct": 1,
+            "id": "01ae9289ebf64577af5810fdd4d5db5f"
+        },
+        {
+            "question": "I ……………………… ready when she came.",
+            "description": "The past tense in the subordinate clause clearly indicates that we are talking about past time.",
+            "answers": [
+                "was getting",
+                "am getting",
+                "will be getting"
+            ],
+            "correct": 0,
+            "id": "1376191f07c6484bb053108f952300b2"
+        },
+        {
+            "question": "He ………………………… in the afternoon.",
+            "description": "The present continuous can be used to talk about future events if the arrangement already exists. The future continuous is also possible here.",
+            "answers": [
+                "was leaving",
+                "is leaving",
+                "will be leaving"
+            ],
+            "correct": 1,
+            "id": "348a6b6f9fb340c388a0a75e077bfe5f"
+        },
+        {
+            "question": "The child …………………….. soundly.",
+            "description": "",
+            "answers": [
+                "was sleeping",
+                "is sleeping",
+                "will be sleeping"
+            ],
+            "correct": 1,
+            "id": "c4c48e8e6b9e4bed8723c87a86b2c7e2"
+        },
+        {
+            "question": "I ……………………… when the lights went out.",
+            "description": "The past tense in the subordinate clause clearly indicates that we are talking about past time.",
+            "answers": [
+                "was reading",
+                "am reading",
+                "will be reading"
+            ],
+            "correct": 0,
+            "id": "0732ca638b6c45fcbdffeb5bf81ccb93"
+        },
+        {
+            "question": "The boys ………………………. in the park when it started raining.",
+            "description": "The past tense in the subordinate clause clearly indicates that we are talking about past time.",
+            "answers": [
+                "were playing",
+                "was playing",
+                "are playing"
+            ],
+            "correct": 0,
+            "id": "13d877675ec04234935c4e42bcd649c5"
+        },
+        {
+            "question": "We …………………… to Mexico next summer.",
+            "description": "The present continuous can be used to talk about future events if the arrangement already exists. The future continuous is also possible here.",
+            "answers": [
+                "were going",
+                "are going",
+                "will be going"
+            ],
+            "correct": 1,
+            "id": "45e166657b274c389f6888d212b24192"
+        },
+        {
+            "question": "The car …………………… for a service next week.",
+            "description": "",
+            "answers": [
+                "is going in",
+                "was going in",
+                "has going in"
+            ],
+            "correct": 1,
+            "id": "d786cc29ebec4ef3ab66a08730c6bb1a"
+        },
+        {
+            "question": "Don’t phone them now – they ……………………. dinner.",
+            "description": "The future continuous is often used to predict the present. ",
+            "answers": [
+                "were having",
+                "are having",
+                "will be having"
+            ],
+            "correct": 2,
+            "id": "da8008a05b2a4a7ba7c6bbf55391091b"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "id": "c308972c4b5d48eda16f3dafb5c98a7c",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "She asked me ………………… I had met her parents before.",
+            "description": "",
+            "answers": [
+                "if",
+                "that",
+                "whether if"
+            ],
+            "correct": 0,
+            "id": "588a83932b8f4f4c8c6f44a608baa75c"
+        },
+        {
+            "question": "The constable asked the man what …………………. there at that time of the night.",
+            "description": "",
+            "answers": [
+                "he is doing",
+                "he was doing",
+                "is he doing"
+            ],
+            "correct": 1,
+            "id": "082738f1aade48c7be7f79a7e4b45952"
+        },
+        {
+            "question": "He said that he was not feeling well, so I suggested ………………….",
+            "description": "",
+            "answers": [
+                "him seeing a doctor",
+                "that he should see a doctor",
+                "him to see a doctor"
+            ],
+            "correct": 1,
+            "id": "13a19ebc03f34c0e997d49482f3a49e0"
+        },
+        {
+            "question": "He asked me whether I ………………. him some money.",
+            "description": "",
+            "answers": [
+                "could lend",
+                "could lent",
+                "can lend"
+            ],
+            "correct": 0,
+            "id": "06bda71918e14825a5502ea9dc2e72a5"
+        },
+        {
+            "question": "We expected that he ..................... surrender without any resistance.",
+            "description": "",
+            "answers": [
+                "would",
+                "will",
+                "would have"
+            ],
+            "correct": 0,
+            "id": "55c6c31ce8434c5f89f1b4f7c17597b0"
+        },
+        {
+            "question": "Astronomers ……………….  to prove that the sun is stationary and that the earth and other planets move around the sun.",
+            "description": "",
+            "answers": [
+                "have able",
+                "have been able",
+                "can able"
+            ],
+            "correct": 1,
+            "id": "504938b72fd742c4a3e71ad45c63597e"
+        },
+        {
+            "question": "The forest was the hiding place of outlaws ……………….. were the gossip of the countryside.",
+            "description": "",
+            "answers": [
+                "of whose evil deeds",
+                "whose evil deeds",
+                "the evil deeds of whose"
+            ],
+            "correct": 1,
+            "id": "3fa2bd678e3d4d2ba29937b6cf29cd2f"
+        }
+    ]
+}

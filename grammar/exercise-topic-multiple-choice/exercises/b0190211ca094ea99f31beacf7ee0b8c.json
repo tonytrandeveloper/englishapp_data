@@ -1,0 +1,79 @@
+{
+    "id": "b0190211ca094ea99f31beacf7ee0b8c",
+    "title": "Possessives Exercise",
+    "questions": [
+        {
+            "question": "This is my car. Where is ……………………?",
+            "description": "",
+            "answers": [
+                "your",
+                "yours"
+            ],
+            "correct": 1,
+            "id": "a81aa5087b3042038cfc45b2a8cf2cd3"
+        },
+        {
+            "question": "This piece of land is ................................. Have you got any land of your own?",
+            "description": "",
+            "answers": [
+                "my",
+                "me",
+                "mine"
+            ],
+            "correct": 2,
+            "id": "babe1b6d93264ceaa10602a319de4a95"
+        },
+        {
+            "question": "My car is quite fast. What about .................................?",
+            "description": "",
+            "answers": [
+                "your",
+                "yours"
+            ],
+            "correct": 1,
+            "id": "5205e9fdc3e64df688eba0a26f28a9f8"
+        },
+        {
+            "question": "This is my ticket. Could you show me ................................?",
+            "description": "",
+            "answers": [
+                "your",
+                "yours"
+            ],
+            "correct": 1,
+            "id": "c799e51ed3ae4254bffdb5b80501e027"
+        },
+        {
+            "question": "My hair is black. ................................... is gray.",
+            "description": "",
+            "answers": [
+                "Her",
+                "Hers",
+                "She"
+            ],
+            "correct": 1,
+            "id": "f19aff3589b84b0bb4150e27aa287fe9"
+        },
+        {
+            "question": "Our daughter is prettier than ...............................",
+            "description": "",
+            "answers": [
+                "their",
+                "theirs"
+            ],
+            "correct": 1,
+            "id": "1cdc44ffc5df4126a1955b9fee7c5de5"
+        },
+        {
+            "question": "Her new car is faster than .................................",
+            "description": "",
+            "answers": [
+                "my",
+                "mine",
+                "me"
+            ],
+            "correct": 1,
+            "id": "c100a2a4fb9f4fc6a43f7ac7d4490beb"
+        }
+    ]
+}

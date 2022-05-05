@@ -1,0 +1,139 @@
+{
+    "id": "16b0c20ddc714422924cab4abee66e2c",
+    "title": "Verbs Exercise",
+    "questions": [
+        {
+            "question": "I ................... a discussion with my boss in the morning.",
+            "description": "In the morning usually refers to past time hence, the simple past is preferred with it. ",
+            "answers": [
+                "have",
+                "had",
+                "have had"
+            ],
+            "correct": 1,
+            "id": "a2a59f6f659d40749a33978f22ae1bab"
+        },
+        {
+            "question": "They ...................... to our proposal.",
+            "description": "The present perfect is commonly used to announce news.",
+            "answers": [
+                "agreed",
+                "have agreed",
+                "had agreed"
+            ],
+            "correct": 1,
+            "id": "75e956a412ea4e24891a2fbc1f83a436"
+        },
+        {
+            "question": "Nobody knows how he .................... from the prison.",
+            "description": "",
+            "answers": [
+                "escape",
+                "has escaped",
+                "escaped"
+            ],
+            "correct": 2,
+            "id": "627e70f9ffc24e4e914995b0c3d6acfb"
+        },
+        {
+            "question": "The ship has ……………………………….",
+            "description": "People drown ships sink.",
+            "answers": [
+                "sank",
+                "sunk",
+                "drown",
+                "drowned"
+            ],
+            "correct": 1,
+            "id": "0ccb28eb126340a18cd98a5b1f172c13"
+        },
+        {
+            "question": "When I talked to her I realized that she ....................... depressed",
+            "description": "When the main verb is in the past tense, we usually use past tenses in the subordinate clauses as well. ",
+            "answers": [
+                "was",
+                "is",
+                "has been"
+            ],
+            "correct": 0,
+            "id": "46cf1a03713640d980f5ebefb9cbb969"
+        },
+        {
+            "question": "I ..................... to him since our last meeting.",
+            "description": "The present perfect is used to talk about time up to now. ",
+            "answers": [
+                "didn't talk",
+                "haven't talked",
+                "hadn't talked"
+            ],
+            "correct": 1,
+            "id": "0dc133d734ca46dc947886728d7c7a71"
+        },
+        {
+            "question": "I .................... out every day.",
+            "description": "The simple present is used to talk about habits, routines etc. ",
+            "answers": [
+                "am working",
+                "work",
+                "have worked"
+            ],
+            "correct": 1,
+            "id": "8a83d36407fd4f34abb4517e9611cfe8"
+        },
+        {
+            "question": "Neither the manager nor his secretary ...................... present in the office.",
+            "description": "When we connect two singular subjects with neither/nor, the verb is singular. ",
+            "answers": [
+                "was",
+                "were",
+                "are"
+            ],
+            "correct": 0,
+            "id": "3ee2c51d689449ce9de2e6e9ddf88ad8"
+        },
+        {
+            "question": "The quality of life in urban areas ......................... deteriorating.",
+            "description": "Here the subject is the singular noun quality. ",
+            "answers": [
+                "is",
+                "are",
+                "have been"
+            ],
+            "correct": 0,
+            "id": "bcc928eba17e4574a1db377237d42b40"
+        },
+        {
+            "question": "Even the mightiest .................... prey to death.",
+            "description": "The mightiest is a plural expression.",
+            "answers": [
+                "fell",
+                "has fallen",
+                "have fallen"
+            ],
+            "correct": 2,
+            "id": "543c8b8ed75a46ae83a643ed6a81b7a2"
+        },
+        {
+            "question": "He ...................... here a moment ago.",
+            "description": "",
+            "answers": [
+                "was",
+                "were",
+                "is"
+            ],
+            "correct": 0,
+            "id": "c0ee10ffba3e489494760b3cc549cbf0"
+        },
+        {
+            "question": "She .................... yet.",
+            "description": "",
+            "answers": [
+                "did not return",
+                "has not returned",
+                "do not return"
+            ],
+            "correct": 1,
+            "id": "2356df714e9041599f31653e57dc9fef"
+        }
+    ]
+}

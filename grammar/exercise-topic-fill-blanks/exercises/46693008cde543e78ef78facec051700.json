@@ -1,0 +1,156 @@
+{
+    "id": "46693008cde543e78ef78facec051700",
+    "title": "Inversion 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John had never been to such a fantastic restaurant."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Never had John been to such a fantastic restaurant."
+                    ]
+                }
+            ],
+            "id": "1b2eb1473b524ab58e73ced82b7b6409"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I in no way want to be associated with this project."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "In no way do I want to be associated with this project."
+                    ]
+                }
+            ],
+            "id": "d70e6a6b9448452fa0508242c72b67ea"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They had no sooner eaten dinner than the ceiling crashed onto the dining table."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "No sooner had they eaten dinner than the ceiling crashed onto the dining table."
+                    ]
+                }
+            ],
+            "id": "53d9de72e97c439580690a95ef867d3b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I had scarcely finished writing my essay when the examiner announced the end of the exam."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Scarcely had I finished writing my essay when the examiner announced the end of the exam."
+                    ]
+                }
+            ],
+            "id": "9bcbf95dbc564705941e2b639e48a9c2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I seldom leave my house so early."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Seldom do I leave my house so early."
+                    ]
+                }
+            ],
+            "id": "2f6f272084094f1ebfe9d086363c9a7a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "People rarely appreciate this musician's talent."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Rarely do people appreciate this musician's talent."
+                    ]
+                }
+            ],
+            "id": "2f4917d89dd7473c88bb73d40dc82691"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We would understand what had happened that night only later."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Only later would we understand what had happened that night."
+                    ]
+                }
+            ],
+            "id": "722fa46af7ec41928b1fce14117b3b1d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They had met such rude people nowhere before."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Nowhere had they met such rude people before."
+                    ]
+                }
+            ],
+            "id": "f800d5651113404a94bee5a247284189"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He understood little about the situation."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Little did he understand about the situation."
+                    ]
+                }
+            ],
+            "id": "d7a4b7bf31154657bd662d0a85d2ac46"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children should on no account go on their own."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "On no account should the children go on their own."
+                    ]
+                }
+            ],
+            "id": "8a3f8a9c6fbb4b97b93bc7eeef493b4e"
+        }
+    ]
+}

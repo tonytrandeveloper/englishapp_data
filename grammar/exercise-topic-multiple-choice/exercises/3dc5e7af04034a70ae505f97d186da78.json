@@ -1,0 +1,129 @@
+{
+    "id": "3dc5e7af04034a70ae505f97d186da78",
+    "title": "Enough Exercise",
+    "questions": [
+        {
+            "question": "She is …………………………….. to do what she wants.",
+            "description": "Enough goes after the adjective or adverb modified by it. ",
+            "answers": [
+                "enough old",
+                "old enough"
+            ],
+            "correct": 1,
+            "id": "100bf05502624a31a069cf3a7ceeea94"
+        },
+        {
+            "question": "I have had …………………………. your impertinence.",
+            "description": "Use enough of before a noun with a determiner. ",
+            "answers": [
+                "enough",
+                "enough of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "0817e948f44f4f30aaea29598f0147b8"
+        },
+        {
+            "question": "Have we bought …………………………….. these apples?",
+            "description": "Use enough of before a noun with a determiner. ",
+            "answers": [
+                "enough",
+                "enough of"
+            ],
+            "correct": 1,
+            "id": "978ae0dc00744186bbd722e43939a5fc"
+        },
+        {
+            "question": "The news gave me …………………………….. a shock.",
+            "description": "Use enough of before a noun with a determiner. ",
+            "answers": [
+                "enough",
+                "enough of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "194cb4a72334426398000e8f9fd12bfb"
+        },
+        {
+            "question": "There isn’t ……………………………… left.",
+            "description": "Enough goes before the noun modified by it.",
+            "answers": [
+                "enough oil",
+                "enough of",
+                "oil enough"
+            ],
+            "correct": 0,
+            "id": "e6f32a7b191843b988d9a0cc23b6b1b0"
+        },
+        {
+            "question": "The tomatoes aren’t ………………………………",
+            "description": "Enough goes after the adjective or adverb modified by it.",
+            "answers": [
+                "enough ripe",
+                "ripe enough"
+            ],
+            "correct": 1,
+            "id": "0504e6823a0b4f40a18faea6722d4b61"
+        },
+        {
+            "question": "It is …………………………….. for us to go home.",
+            "description": "",
+            "answers": [
+                "late enough",
+                "enough late"
+            ],
+            "correct": 0,
+            "id": "dc97e003470d49f0a671c9f8509a196b"
+        },
+        {
+            "question": "There isn’t …………………………….. for another table.",
+            "description": "",
+            "answers": [
+                "room enough",
+                "enough room"
+            ],
+            "correct": 1,
+            "id": "3049b83a925446d2918d0cd148d1e11f"
+        },
+        {
+            "question": "These nails aren’t …………………………………",
+            "description": "Enough goes after the adjective or adverb modified by it.",
+            "answers": [
+                "enough big",
+                "big enough"
+            ],
+            "correct": 1,
+            "id": "b07a1b9df9ea4cac997a9e3620192cf2"
+        },
+        {
+            "question": "I have seen …………………………….. England.",
+            "description": "Use enough of before a proper noun.",
+            "answers": [
+                "enough",
+                "enough of"
+            ],
+            "correct": 1,
+            "id": "72d87eb4d74441a19c6a0fe147751998"
+        },
+        {
+            "question": "She hasn’t got …………………………",
+            "description": "",
+            "answers": [
+                "enough patience",
+                "patience enough"
+            ],
+            "correct": 0,
+            "id": "7a0c7a2139964d3b845a476525085966"
+        },
+        {
+            "question": "She isn’t …………………………… to be a good teacher.",
+            "description": "",
+            "answers": [
+                "patient enough",
+                "enough patient"
+            ],
+            "correct": 0,
+            "id": "6bc5951a83aa4d178d9f12124f4773a3"
+        }
+    ]
+}

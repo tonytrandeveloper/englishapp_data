@@ -1,0 +1,127 @@
+{
+    "id": "ce0b3fa2cdf64547907360a289bb2a2d",
+    "title": "Kinds Of Subordinate Clauses Exercise",
+    "questions": [
+        {
+            "question": "What she said made me angry.",
+            "description": "Here what she said is the subject of the verb made hence, it is a noun clause.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 0,
+            "id": "03639b7d52b949e0abf613bdfba41fbc"
+        },
+        {
+            "question": "I don’t know what I am supposed to do.",
+            "description": "Here what I am supposed to do is the object of the verb know hence, it is a noun clause.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 0,
+            "id": "0df6147fa3f94a529f7c8bedefeb8f20"
+        },
+        {
+            "question": "I know a man who deals in antique furniture.",
+            "description": "Here who deals in antique furniture modifies the noun man hence, it is an adjective clause.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 1,
+            "id": "8ff646cd6bd540fea635c924393299b3"
+        },
+        {
+            "question": "She asked me what I was doing there.",
+            "description": "Here what I was doing there is the direct object of the verb asked hence, it is a noun clause.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 0,
+            "id": "96c4adc2b58d4761b16efe7027e7a694"
+        },
+        {
+            "question": "I love him because he is my brother.",
+            "description": "Because he is my brother is an adverb clause of reason.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 2,
+            "id": "4d11216556234e2f93f70a5209a0b70d"
+        },
+        {
+            "question": "As soon as the bus arrived, the children rushed to board it.",
+            "description": "As soon as the bus arrived is an adverb clause of reason.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 2,
+            "id": "463a14b54e154a8b8cb68969b43025c6"
+        },
+        {
+            "question": "Though I had a headache, I enjoyed the movie.",
+            "description": "Though I had a headache is an adverb clause of concession or contrast.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 2,
+            "id": "acb90a8bada6477386014cd0572868ce"
+        },
+        {
+            "question": "How they escaped is a mystery.",
+            "description": "How they escaped is the subject of the verb is hence, it is a noun clause.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 0,
+            "id": "37af0509c10e4661bd8617c94956ab71"
+        },
+        {
+            "question": "All that I have is yours.",
+            "description": "That I have modifies the pronoun all hence, it is an adjective clause.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 1,
+            "id": "ac8941154dbd49428bd97c6bd0e6fe14"
+        },
+        {
+            "question": "She married an engineer whom she met on a bus.",
+            "description": "Whom she met on a bus is an adjective clause modifying the noun engineer. ",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 1,
+            "id": "98bd6ce0101d48f8a0c512f1ccf2b892"
+        },
+        {
+            "question": "All that glitters is not gold.",
+            "description": "That glitters is an adjective clause modifying all. ",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 1,
+            "id": "9e7e88d338ae4dae800538063dd85146"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "544791a1298d40a28dac8fb3d5b171b3",
+    "title": "Editing Exercise",
+    "questions": [
+        {
+            "question": "Few of people can say that they always tell the truth.",
+            "description": "We use few without of before a noun without a determiner.",
+            "answers": [
+                "of",
+                "that",
+                "always"
+            ],
+            "correct": 0,
+            "id": "f54d5c7b7f66497198ec0998b8cf3f5d"
+        },
+        {
+            "question": "I always take an umbrella if in case it rains.",
+            "description": "In case is similar to if but they are not interchangeable. ",
+            "answers": [
+                "if",
+                "in case",
+                "always"
+            ],
+            "correct": 0,
+            "id": "f8816a3bfada4899bf0ea3acd2e3c9f9"
+        },
+        {
+            "question": "The first time I have met him was last year.",
+            "description": "We cannot use the present perfect with past time expressions.",
+            "answers": [
+                "have",
+                "met",
+                "last"
+            ],
+            "correct": 0,
+            "id": "5f6d51ae6bc1485f8e10719b29d86b19"
+        },
+        {
+            "question": "As you know that next Friday's meeting has been called.",
+            "description": "We use as or that. We cannot use them both.",
+            "answers": [
+                "that",
+                "has",
+                "been"
+            ],
+            "correct": 0,
+            "id": "86934f066a0d4266b357a204344ff808"
+        },
+        {
+            "question": "We went out despite of the rain.",
+            "description": "Despite is used without of.",
+            "answers": [
+                "out",
+                "of",
+                "despite"
+            ],
+            "correct": 1,
+            "id": "f947b563335840e29a1d19ca871c94dd"
+        },
+        {
+            "question": "There is a garage opposite of my house.",
+            "description": "Opposite is used without of.",
+            "answers": [
+                "a",
+                "opposite",
+                "of"
+            ],
+            "correct": 2,
+            "id": "acedb605b59f40d19f6406d19d9c20bf"
+        },
+        {
+            "question": "Although she had prepared well for the test, but she could not pass.",
+            "description": "Although and but are both used to connect contrasting ideas. Use only one of them in a sentence.",
+            "answers": [
+                "although",
+                "but",
+                "Either but or although"
+            ],
+            "correct": 2,
+            "id": "6d0fa2e6ec604172b4deb2bd5768aaf1"
+        },
+        {
+            "question": "As he was not there so I left a message with his mother.",
+            "description": "As indicates the reason and so indicates the result. Use only one of them in a sentence.",
+            "answers": [
+                "as",
+                "so",
+                "Either as or so"
+            ],
+            "correct": 2,
+            "id": "c2f6a946161844e7891212a88824cfb0"
+        },
+        {
+            "question": "This is Jane who she works with me.",
+            "description": "The relative pronoun who acts as the subject of the relative clause. Since a clause needs only one subject, we cannot write she.",
+            "answers": [
+                "who",
+                "she",
+                "with"
+            ],
+            "correct": 1,
+            "id": "6459e7e56da24bf4ba07881089c308ac"
+        },
+        {
+            "question": "They have got married a couple of months ago.",
+            "description": "We cannot use the present perfect tense with past time expressions.",
+            "answers": [
+                "have",
+                "a",
+                "of"
+            ],
+            "correct": 0,
+            "id": "920e68e1ae3747e3bc1deeca28ecca39"
+        },
+        {
+            "question": "This is the guy whom we have met yesterday.",
+            "description": "",
+            "answers": [
+                "whom",
+                "have",
+                "the"
+            ],
+            "correct": 1,
+            "id": "d1d92fcd2b334f5f85569c16d546fac0"
+        },
+        {
+            "question": "Because I have great respect for him so I listened to him.",
+            "description": "Because shows the reason and so shows the result. Use only one of them in a sentence. ",
+            "answers": [
+                "because",
+                "have",
+                "to"
+            ],
+            "correct": 0,
+            "id": "beee60816f9541bcb6ae4a301d50ba06"
+        }
+    ]
+}

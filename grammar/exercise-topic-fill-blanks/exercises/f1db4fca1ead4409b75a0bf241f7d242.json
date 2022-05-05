@@ -1,0 +1,386 @@
+{
+    "id": "f1db4fca1ead4409b75a0bf241f7d242",
+    "title": "Gerunds and Infinitives Exercise 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I don't fancy"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "going"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) out tonight."
+                }
+            ],
+            "id": "55c35d0e2fc4449db3474cecc2f60f8a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She avoided"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "telling"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(tell) him about her plans."
+                }
+            ],
+            "id": "872dd838d8374f35938f9ccd76ff1a60"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I would like"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to come"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(come) to the party with you."
+                }
+            ],
+            "id": "ffb5b5553c9a4c11858ff099057af19d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He enjoys"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "having"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a bath in the evening."
+                }
+            ],
+            "id": "4ad560e6985943cd9de2c542d7e5fc78"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She kept"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "talking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(talk) during the film."
+                }
+            ],
+            "id": "7b44acce710a4ea2b6e79344e9ca3978"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I am learning"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to speak"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(speak) English."
+                }
+            ],
+            "id": "93531f0c4e7448119652ab42fff70601"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do you mind"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "giving"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(give) me a hand?"
+                }
+            ],
+            "id": "c885a9e4a4b04ba2b135183bbea1df60"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She helped me"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to carry"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(carry) my suitcases."
+                }
+            ],
+            "id": "d0863568dd004583bcffd174444a096d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I've finished"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "cooking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(cook) - come and eat!"
+                }
+            ],
+            "id": "974fa3966f504618aaa0bd6090019ecc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He decided"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to study"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) biology."
+                }
+            ],
+            "id": "890dd991b76648b2b1015ab243ba8956"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I dislike"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "waiting"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(wait)."
+                }
+            ],
+            "id": "c0eaedb0e503438b82f1cbf9847cff69"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He asked"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to come"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(come) with us."
+                }
+            ],
+            "id": "318003188f324b3a9846f1ff45300345"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I promise"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to help"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(help) you tomorrow."
+                }
+            ],
+            "id": "30de1c5f6c5d40589e1bdadec161e711"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We discussed"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "going"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the cinema, but in the end we stayed at home."
+                }
+            ],
+            "id": "2193d46b3bb64815b5cd6d40930fbec7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She agreed"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to bring"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(bring) the pudding to the dinner."
+                }
+            ],
+            "id": "40d5ebdfd340432fabe3c9ac1377eaa0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I don't recommend"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "taking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(take) the bus - it takes forever!"
+                }
+            ],
+            "id": "87013ee74d5a4eb1a881fb65a5ef57a5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We hope"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to visit"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(visit) Amsterdam next month."
+                }
+            ],
+            "id": "d288a2f0603d46fda0cb96737da147ad"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She suggested"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "going"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the museum."
+                }
+            ],
+            "id": "248d9cac55c74401b1ad30fec0325e13"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They plan"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to start"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(start) college in the autumn."
+                }
+            ],
+            "id": "2f65564d8b97404a8cd9e58c1623359c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I don't want"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to leave"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) yet."
+                }
+            ],
+            "id": "7268fa91f0cf4df9878ed739eba5f88e"
+        }
+    ]
+}

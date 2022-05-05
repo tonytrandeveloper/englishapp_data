@@ -1,0 +1,428 @@
+{
+    "id": "0a0e795f23fb4074b5830fe3fa244845",
+    "title": "As and Like Exercise 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She works"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a teacher (it's her job)."
+                }
+            ],
+            "id": "2dd97de030eb4679b74eec54003af78a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm very"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "like"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "my mother.."
+                }
+            ],
+            "id": "e5bc4739fda947098b356953768b4053"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie loves mangoes"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "much"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "I do."
+                }
+            ],
+            "id": "7eb136ea5b5d40d69707efbf82e1a742"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He arrived"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "I was leaving."
+                }
+            ],
+            "id": "0a51eb9ee95e411da936bcc10805e045"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He works in a bank,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "like"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "his father."
+                }
+            ],
+            "id": "ef6d0542682a43ed975256c0754b2364"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I used a tea towel"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "an oven glove and I burned it!."
+                }
+            ],
+            "id": "7339d9996422429dae3c04cff34ae597"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Your perfume smells"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "like"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "flowers."
+                }
+            ],
+            "id": "f09d844086f34eddb7cd833cff4eb33e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "As"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "it was cold, I took a scarf."
+                }
+            ],
+            "id": "8af41a57db78407b8e9fab204242154e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He works"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a hairdresser (it's his job)."
+                }
+            ],
+            "id": "6f2b4bad665f4537860f384ebaee8cf8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That woman looks"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "like"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "my grandmother."
+                }
+            ],
+            "id": "17ee61ac4c0a432594a643251f0b5f10"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please do it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "like"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "me."
+                }
+            ],
+            "id": "e21c0445fb29443a83efb4a86feb6be5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She hates chocolate"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "much"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "John."
+                }
+            ],
+            "id": "655bbb5d32cc4543a29803323bfbb814"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Like"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "the other students, Paul failed the exam."
+                }
+            ],
+            "id": "39973769dd45465f9aea62ec394cd77f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "London is just"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "busy"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "Tokyo."
+                }
+            ],
+            "id": "bef8c64e665b41d486d60f79a00d85be"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She often plays sports,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "like"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "tennis or football."
+                }
+            ],
+            "id": "c6c8efb72ef1437ba346d53f21856f10"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Amanda works"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a lawyer (it's her job)."
+                }
+            ],
+            "id": "f4ca129eb4f9499197d1d012a2b54848"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This room is just"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "hot"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "the other room."
+                }
+            ],
+            "id": "1a7ab8017968456e824deb7479888139"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You look"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "like"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "your sister."
+                }
+            ],
+            "id": "5a5a1944395d4bce86cd8e0f849493f9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She studied really hard,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "like"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "us."
+                }
+            ],
+            "id": "f08ef8ce10d14f1b8a4bda66a9d07ecb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We are"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "intelligent"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "you."
+                }
+            ],
+            "id": "a2d51440c955494d9f6d2d737b0f3366"
+        }
+    ]
+}

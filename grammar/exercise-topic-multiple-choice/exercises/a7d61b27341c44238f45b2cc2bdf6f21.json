@@ -1,0 +1,137 @@
+{
+    "id": "a7d61b27341c44238f45b2cc2bdf6f21",
+    "title": "Infinitive With Or Without To",
+    "questions": [
+        {
+            "question": "I was not allowed ………………………",
+            "description": "Allow is followed by an infinitive with to.\r\n",
+            "answers": [
+                "go",
+                "to go",
+                "going"
+            ],
+            "correct": 1,
+            "id": "b83ce3be29e14fceaa560f49ce2fdf08"
+        },
+        {
+            "question": "Please let him .......................",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "speak",
+                "to speak",
+                "speaking"
+            ],
+            "correct": 0,
+            "id": "2e5c7a1b5f6e4a0fa3d0486219d3a62c"
+        },
+        {
+            "question": "You ought .................. a doctor.",
+            "description": "Ought is followed by a to-infinitive.\r\n",
+            "answers": [
+                "consult",
+                "consulting",
+                "to consult"
+            ],
+            "correct": 2,
+            "id": "940883faa2374ba28229d489d93b5e97"
+        },
+        {
+            "question": "They made me .....................",
+            "description": "When made is used in the active voice, it is followed by an infinitive without to.",
+            "answers": [
+                "confess",
+                "to confess",
+                "confessing"
+            ],
+            "correct": 0,
+            "id": "97b51415ba3d4cc5b5ca9970d68ba2f9"
+        },
+        {
+            "question": "I was made ....................... my right to the property.",
+            "description": "When made is in the passive voice, it is followed by an infinitive with to.\r\n",
+            "answers": [
+                "relinquish",
+                "to relinquish"
+            ],
+            "correct": 1,
+            "id": "f60619aff451444a8c4dd2c21adae160"
+        },
+        {
+            "question": "I am not able …………………………….. this problem.",
+            "description": "Be able is followed by an infinitive with to.",
+            "answers": [
+                "solve",
+                "to solve",
+                "to solving"
+            ],
+            "correct": 1,
+            "id": "e26a0c87fcd84b3b9fd02e81cd4e769a"
+        },
+        {
+            "question": "I can’t ………………………….. it anymore.",
+            "description": "The infinitive is used without to after modals.",
+            "answers": [
+                "take",
+                "to take",
+                "taking"
+            ],
+            "correct": 0,
+            "id": "df3f4f27c5154abbab9c205168bfa844"
+        },
+        {
+            "question": "I forgot .................... the door before going out.",
+            "description": "Forget is followed by an infinitive with to.",
+            "answers": [
+                "lock",
+                "to lock",
+                "locking"
+            ],
+            "correct": 1,
+            "id": "b2cda5711ca94c94b87bfd6bfaf4e289"
+        },
+        {
+            "question": "You don't need ....................... your own device.",
+            "description": "When need is used as an ordinary verb, it is followed by an infinitive with to.",
+            "answers": [
+                "bring",
+                "to bring",
+                "bringing"
+            ],
+            "correct": 1,
+            "id": "d7fd36f40e204bd0b16782889bb0829c"
+        },
+        {
+            "question": "You need not ........................ for my drinks.",
+            "description": "When need is a modal auxiliary, it is followed by an infinitive with to.",
+            "answers": [
+                "to pay",
+                "pay",
+                "paying"
+            ],
+            "correct": 1,
+            "id": "15e8e59624034441a52f4f5d2af6f25d"
+        },
+        {
+            "question": "She refused ......................... with the interrogators.",
+            "description": "Refuse is followed by an infinitive with to.",
+            "answers": [
+                "to cooperate",
+                "cooperating",
+                "cooperate"
+            ],
+            "correct": 0,
+            "id": "b3846834a8b94c2ea52874a3b342a30e"
+        },
+        {
+            "question": "I was forced ....................... up my claim.",
+            "description": "",
+            "answers": [
+                "give",
+                "to give",
+                "giving"
+            ],
+            "correct": 1,
+            "id": "4266bbba6881405193a5e3b8212eafb7"
+        }
+    ]
+}

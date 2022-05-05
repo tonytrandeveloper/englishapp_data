@@ -1,0 +1,126 @@
+{
+    "id": "1571dc045799418a8cc9168593745991",
+    "title": "There Is Or There Are",
+    "questions": [
+        {
+            "question": "There ……………………… a book on the table.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "73f0e5c0ce8647db83cae2466dfd6853"
+        },
+        {
+            "question": "There ………………………….. lots of birds on the tree.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "94cde7e7160c4bf3886854b82900e36b"
+        },
+        {
+            "question": "There ………………………… many patients waiting outside.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "3e8f89c43ea3491f96a96619fe7dfd78"
+        },
+        {
+            "question": "There ………………………. a lot of people coming.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "0d6d2dc44c8d4879b1b4e60bf01726b7"
+        },
+        {
+            "question": "There …………………………. many job opportunities in this sector.",
+            "description": "",
+            "answers": [
+                "isn't",
+                "aren't"
+            ],
+            "correct": 1,
+            "id": "c656278b1a85451d8796e83e11ab9285"
+        },
+        {
+            "question": "There ……………………….. a lot of confusion about the plan.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "13e4e482f76342a4bbe054e65e57cdf2"
+        },
+        {
+            "question": "There ……………………….. two cats on the roof.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "a5da5a4e38894dfb8511071bc4e2dda1"
+        },
+        {
+            "question": "There ……………………………. only a few students in the class.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "063cd604597f4dc0aa0ad24cfee67ce5"
+        },
+        {
+            "question": "……………………….. there anybody upstairs?",
+            "description": "",
+            "answers": [
+                "Is",
+                "Are"
+            ],
+            "correct": 0,
+            "id": "601c524777714e408dfe502a0f3d389d"
+        },
+        {
+            "question": "There ………………………. few students in the class.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "a3461202134047b3ba75bc5c53548e7a"
+        },
+        {
+            "question": "………………………. there anything to do?",
+            "description": "",
+            "answers": [
+                "Is",
+                "Are"
+            ],
+            "correct": 0,
+            "id": "0c3bdcf0996642d68820b74d19872cb5"
+        },
+        {
+            "question": "There ……………………….. any solutions to this problem.",
+            "description": "",
+            "answers": [
+                "isn't",
+                "aren't"
+            ],
+            "correct": 1,
+            "id": "31df82b59023403eb690ea392a3d63c6"
+        }
+    ]
+}

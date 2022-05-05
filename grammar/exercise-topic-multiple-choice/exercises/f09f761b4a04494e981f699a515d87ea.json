@@ -1,0 +1,116 @@
+{
+    "id": "f09f761b4a04494e981f699a515d87ea",
+    "title": "Omission Exercise",
+    "questions": [
+        {
+            "question": "I have met him a few days ago.",
+            "description": "",
+            "answers": [
+                "have",
+                "a",
+                "few"
+            ],
+            "correct": 0,
+            "id": "8c560dee981d4b569f1a41d625da802e"
+        },
+        {
+            "question": "Would you like some other peas?",
+            "description": "",
+            "answers": [
+                "would",
+                "some",
+                "other"
+            ],
+            "correct": 2,
+            "id": "b49686d2700949c0b3f6960fe5e3dd35"
+        },
+        {
+            "question": "Janet, who is my best friend, she is on holiday at the moment.",
+            "description": "",
+            "answers": [
+                "who",
+                "she",
+                "the"
+            ],
+            "correct": 1,
+            "id": "991ebf36566c4651bd37caa26ac4e9fd"
+        },
+        {
+            "question": "The baby resembles to its mother.",
+            "description": "",
+            "answers": [
+                "the",
+                "to"
+            ],
+            "correct": 1,
+            "id": "ec7ed508b65743ea98f834245b91ed89"
+        },
+        {
+            "question": "The train had left before we reached to the station.",
+            "description": "",
+            "answers": [
+                "had",
+                "to",
+                "the"
+            ],
+            "correct": 1,
+            "id": "fcaf85ca55e34a68b764ac11ef21f200"
+        },
+        {
+            "question": "He was so big a man such that he could not sit in that chair.",
+            "description": "",
+            "answers": [
+                "so",
+                "such",
+                "that"
+            ],
+            "correct": 1,
+            "id": "c99879872f244afe9f5a383a08e3807e"
+        },
+        {
+            "question": "Why don’t you think more about others people?",
+            "description": "",
+            "answers": [
+                "more",
+                "about",
+                "others",
+                "people"
+            ],
+            "correct": 3,
+            "id": "6ba0165ff5ca4f7cb1c30f0ede567c66"
+        },
+        {
+            "question": "Perhaps you could correct any of mistakes I have made.",
+            "description": "",
+            "answers": [
+                "perhaps",
+                "could",
+                "any",
+                "of"
+            ],
+            "correct": 3,
+            "id": "324522c83c8a465193be3236e9ca7f27"
+        },
+        {
+            "question": "The life is quite complicated.",
+            "description": "",
+            "answers": [
+                "the",
+                "quite"
+            ],
+            "correct": 0,
+            "id": "4ebdc4fa6b4e493ba05b3943aa8e35d8"
+        },
+        {
+            "question": "Have you got a cheaper sort of a camera?",
+            "description": "",
+            "answers": [
+                "got",
+                "sort",
+                "a"
+            ],
+            "correct": 2,
+            "id": "3f17a2f324154ade8ca19bc77525cb4d"
+        }
+    ]
+}

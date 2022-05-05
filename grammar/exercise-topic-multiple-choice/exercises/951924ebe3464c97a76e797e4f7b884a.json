@@ -1,0 +1,138 @@
+{
+    "id": "951924ebe3464c97a76e797e4f7b884a",
+    "title": "Though, If, Even Though, Even If",
+    "questions": [
+        {
+            "question": "………………………. I was not feeling well, I enjoyed the party.",
+            "description": "Even though is a more emphatic version of though. It is possible in situations where though is also correct. ",
+            "answers": [
+                "Though",
+                "Even though",
+                "Even if"
+            ],
+            "correct": 1,
+            "id": "7a4a9ec17de94a9aa8463e426d110b77"
+        },
+        {
+            "question": "…………………………. she apologizes, we cannot take her back.",
+            "description": "Even if refers to the present or future. Even though has a past reference. ",
+            "answers": [
+                "Even if",
+                "Even though",
+                "If"
+            ],
+            "correct": 0,
+            "id": "716a00dac98d4c58bff4844393dea723"
+        },
+        {
+            "question": "…………………………… you are busy, I will wait outside.",
+            "description": "If expresses a condition. ",
+            "answers": [
+                "Even if",
+                "If",
+                "Though"
+            ],
+            "correct": 1,
+            "id": "f53177790353452495884ced49bbd2e3"
+        },
+        {
+            "question": "……………………………. he is quite busy, he always finds time for his family.",
+            "description": "",
+            "answers": [
+                "Though",
+                "Even though",
+                "If"
+            ],
+            "correct": 1,
+            "id": "88766b7ef2534be288cae225d70f6781"
+        },
+        {
+            "question": "…………………………. that is your decision, there is nothing that I can do.",
+            "description": "",
+            "answers": [
+                "If",
+                "Even if",
+                "Even though"
+            ],
+            "correct": 0,
+            "id": "33fd042fa59840cb9d4a434453dae3d9"
+        },
+        {
+            "question": "…………………………. we suffered a crushing defeat, we didn’t lose hope.",
+            "description": "Even though is a more emphatic form of though. They are both possible here. ",
+            "answers": [
+                "Even though",
+                "Even if",
+                "Though"
+            ],
+            "correct": 2,
+            "id": "547418c6b1c143b8abe4e92719324343"
+        },
+        {
+            "question": "………………………….. she was ill, she refused to take the medication.",
+            "description": "",
+            "answers": [
+                "Though",
+                "If",
+                "Even if"
+            ],
+            "correct": 0,
+            "id": "865069642e0440fc90639e21bdd78974"
+        },
+        {
+            "question": "…………………………… it was an expensive laptop, I bought it.",
+            "description": "Though is used to connect two contrasting ideas.",
+            "answers": [
+                "Though",
+                "If",
+                "Even if"
+            ],
+            "correct": 0,
+            "id": "c9116da894d44125965514d0bea3b5fc"
+        },
+        {
+            "question": "……………………………. you forbid me, I will go.",
+            "description": "",
+            "answers": [
+                "Even if",
+                "Even though",
+                "If"
+            ],
+            "correct": 0,
+            "id": "71e40df498e54a19891ee01fa5e4379d"
+        },
+        {
+            "question": "……………………………. they tried hard, they could not save him.",
+            "description": "",
+            "answers": [
+                "Though",
+                "If",
+                "Even though"
+            ],
+            "correct": 2,
+            "id": "6275179d558e498d92bf3e00ee1286cc"
+        },
+        {
+            "question": "…………………………. you work hard now, it is not possible to catch up with them.",
+            "description": "Even if used to talk about situations that are true in the present or future. ",
+            "answers": [
+                "If",
+                "Even if",
+                "Even though"
+            ],
+            "correct": 1,
+            "id": "7c5bda02df7b4695b20dd5f5ec36c3fb"
+        },
+        {
+            "question": "…………………………… I had studied well, I could not get good marks.",
+            "description": "Even though is an emphatic form of though. ",
+            "answers": [
+                "Even though",
+                "Even if",
+                "If"
+            ],
+            "correct": 0,
+            "id": "dbba3c0172804bdd9a4b87d384877ae9"
+        }
+    ]
+}

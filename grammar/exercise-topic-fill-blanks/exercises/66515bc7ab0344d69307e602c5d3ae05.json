@@ -1,0 +1,323 @@
+{
+    "id": "66515bc7ab0344d69307e602c5d3ae05",
+    "title": "Present Simple Mixed Exercise 1 with 'be'",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / French)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He's French.",
+                        "He is French."
+                    ]
+                }
+            ],
+            "id": "e05a82de97c44e7388338afd1f7be62f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / cold)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We aren't cold.",
+                        "We are not cold."
+                    ]
+                }
+            ],
+            "id": "cc2f6853f8ad4763aecc6340f8fd8d31"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / a footballer)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is he a footballer?"
+                    ]
+                }
+            ],
+            "id": "4b50a5123faa467fa80aa4dff98db5b7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / John)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Where's John?",
+                        "Where is John?"
+                    ]
+                }
+            ],
+            "id": "59433b87b5434fe6925a767237dc2d95"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / German)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We're German.",
+                        "We are German."
+                    ]
+                }
+            ],
+            "id": "6ed1ee1ca4884c6dbbc3c135b05983b7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / a journalist)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He isn't a journalist.",
+                        "He is not a journalist."
+                    ]
+                }
+            ],
+            "id": "8c6503e6a26346668eb3ef7bf9acde10"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / singers)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We aren't singers.",
+                        "We are not singers."
+                    ]
+                }
+            ],
+            "id": "53a3cd67c1654d47bf4ad248b5742678"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / a nurse)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you a nurse?"
+                    ]
+                }
+            ],
+            "id": "3b434abe5c5c41b688ac1b05dbdb8780"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / from Libya)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They're from Libya.",
+                        "They are from Libya."
+                    ]
+                }
+            ],
+            "id": "20292826eeeb476db22bbc271a75fd88"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / David)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Where's David?",
+                        "Where is David?"
+                    ]
+                }
+            ],
+            "id": "0d64147bbf26443595609e571b68c4f2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / your mother)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How's your mother?",
+                        "How is your mother?"
+                    ]
+                }
+            ],
+            "id": "229ad597d0fe42dcbf7d5283a895ea72"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / thirsty)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We're thirsty.",
+                        "We are thirsty."
+                    ]
+                }
+            ],
+            "id": "3064b4a6958d4816b3f77d4e5fbaaf5f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how long / the film)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How long's the film?",
+                        "How long is the film?"
+                    ]
+                }
+            ],
+            "id": "f572e00b83b74e8cbab32db81086764a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how often / you in London)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How often are you in London?"
+                    ]
+                }
+            ],
+            "id": "c7e9a2f2dcdc481b9582e971a7c4ec15"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / handsome)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He's handsome.",
+                        "He is handsome."
+                    ]
+                }
+            ],
+            "id": "8393d999326f4b2682ca773ee46daac2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / English)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I'm not English.",
+                        "I am not English."
+                    ]
+                }
+            ],
+            "id": "e0a6de1a3c714759b5c48359c15c9a1e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / a doctor)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You aren't a doctor.",
+                        "You are not a doctor."
+                    ]
+                }
+            ],
+            "id": "f7165560c90a44fcb45196aed58e5ccb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / Italian)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She isn't Italian.",
+                        "She is not Italian."
+                    ]
+                }
+            ],
+            "id": "516fd1a3bc35450e99baeb5ce0b6e60c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / my brother)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He's my brother.",
+                        "He is my brother."
+                    ]
+                }
+            ],
+            "id": "d07516ce17fa401fbba6f726f0ce47bc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / Egyptian)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You aren't Egyptian.",
+                        "You are not Egyptian."
+                    ]
+                }
+            ],
+            "id": "edb0473629e84e59bc4f90b0b27120bf"
+        }
+    ]
+}

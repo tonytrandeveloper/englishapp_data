@@ -1,0 +1,121 @@
+{
+    "id": "73168543156447c5b4eff4da3ac83470",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "The patient ................................. yesterday.",
+            "description": "",
+            "answers": [
+                "die",
+                "died",
+                "has died"
+            ],
+            "correct": 1,
+            "id": "455e755e35964a5ab98e4378a31f77f4"
+        },
+        {
+            "question": "I .......................... the parcel yesterday.",
+            "description": "",
+            "answers": [
+                "received",
+                "have received",
+                "had received",
+                "was receiving"
+            ],
+            "correct": 0,
+            "id": "24d62fa0d3394d31a144bfab6a33d12d"
+        },
+        {
+            "question": "The sun ............................ when we started our journey.",
+            "description": "",
+            "answers": [
+                "shone",
+                "was shining",
+                "had shone",
+                "is shining"
+            ],
+            "correct": 1,
+            "id": "e6922b3cbef34c139ded2e877d899df0"
+        },
+        {
+            "question": "I saw him ......................... the boy.",
+            "description": "",
+            "answers": [
+                "beat",
+                "beating",
+                "to beat"
+            ],
+            "correct": 1,
+            "id": "9e29b0131bdb426db30462e9494455cc"
+        },
+        {
+            "question": "Yesterday I ————— a new laptop as my old one ————- quite slow.",
+            "description": "",
+            "answers": [
+                "was buying, has become",
+                "bought, had become",
+                "had bought, became",
+                "have bought, have become"
+            ],
+            "correct": 1,
+            "id": "331cce30d8fd41fbaac591e22a00698b"
+        },
+        {
+            "question": "He thanked me for what I —————",
+            "description": "",
+            "answers": [
+                "did",
+                "have done",
+                "had done",
+                "do"
+            ],
+            "correct": 2,
+            "id": "146c811fe7524a51b8ddfa12cda48055"
+        },
+        {
+            "question": "I ——————– on this project for two years.",
+            "description": "",
+            "answers": [
+                "am working",
+                "was working",
+                "have been working"
+            ],
+            "correct": 2,
+            "id": "421573f965de407e8943ffc777f0c0fe"
+        },
+        {
+            "question": "They —————- an apartment in Bangalore three years ago.",
+            "description": "",
+            "answers": [
+                "bought",
+                "have bought",
+                "had bought"
+            ],
+            "correct": 0,
+            "id": "89173969e4e94b7ba88652302518d9e7"
+        },
+        {
+            "question": "I usually —————– coffee in the morning.",
+            "description": "",
+            "answers": [
+                "drink",
+                "am drinking",
+                "will drink",
+                "would drink"
+            ],
+            "correct": 0,
+            "id": "ce0a22ae27de4bd0bba63bee7c68ab52"
+        },
+        {
+            "question": "Ever since I ————– my country in 2007, I ————— living in Canada.",
+            "description": "",
+            "answers": [
+                "left, have been",
+                "have left, had been",
+                "had left, have been"
+            ],
+            "correct": 0,
+            "id": "e30bfb8b35624dbcb2a2908b6d857a38"
+        }
+    ]
+}

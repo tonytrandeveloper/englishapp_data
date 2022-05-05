@@ -1,0 +1,126 @@
+{
+    "id": "25499bc428164720be13dd0bf94b9ee2",
+    "title": "Infinitive With Or Without To",
+    "questions": [
+        {
+            "question": "I saw her ……………………….. the plants.",
+            "description": "The infinitive is used without to after see. ",
+            "answers": [
+                "water",
+                "to water"
+            ],
+            "correct": 0,
+            "id": "e926788e59f7496fa6c377a86a968966"
+        },
+        {
+            "question": "I told him ……………………….",
+            "description": "Tell is followed by an infinitive with to.",
+            "answers": [
+                "go",
+                "to go"
+            ],
+            "correct": 1,
+            "id": "a7635827769143de8cfe027b40dfdc88"
+        },
+        {
+            "question": "She didn’t let me ……………………….. her room.",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "enter",
+                "to enter"
+            ],
+            "correct": 0,
+            "id": "3f51414b11c84ca28606d19de80fd432"
+        },
+        {
+            "question": "I was made …………………………. for hours.",
+            "description": "When make is used in the passive form, it is followed by an infinitive with to. ",
+            "answers": [
+                "wait",
+                "to wait"
+            ],
+            "correct": 1,
+            "id": "3fd5d75fa1f849be9a7d3de5caac1eaa"
+        },
+        {
+            "question": "They made me ……………………….. the papers.",
+            "description": "Make is followed by an infinitive ",
+            "answers": [
+                "sign",
+                "to sign"
+            ],
+            "correct": 0,
+            "id": "a26d5646bd6f4121ae2637a640d7aafb"
+        },
+        {
+            "question": "I was forced ………………………….",
+            "description": "Forced is followed by an infinitive with to.",
+            "answers": [
+                "apologize",
+                "to apologize"
+            ],
+            "correct": 1,
+            "id": "fb0df28e9b7a41b5807d3971dc8e835d"
+        },
+        {
+            "question": "I heard her …………………………… something.",
+            "description": "Hear is followed by an infinitive ",
+            "answers": [
+                "to whisper",
+                "whisper"
+            ],
+            "correct": 1,
+            "id": "52bab01e03ed41f69c5f8b8bb93545a8"
+        },
+        {
+            "question": "He dared not ………………………… the door.",
+            "description": "When dare is a modal, it is followed by an infinitive without to.",
+            "answers": [
+                "open",
+                "to open"
+            ],
+            "correct": 0,
+            "id": "21cafd5d2b944ac1af33fa764e8525b8"
+        },
+        {
+            "question": "You need not ………………………… any further.",
+            "description": "When need is a modal auxiliary verb, it is followed by an infinitive without to.",
+            "answers": [
+                "wait",
+                "to wait"
+            ],
+            "correct": 0,
+            "id": "87ddfb887cc64b24acc7ce3108f137f5"
+        },
+        {
+            "question": "I don’t want …………………………",
+            "description": "",
+            "answers": [
+                "go",
+                "to go"
+            ],
+            "correct": 1,
+            "id": "786c6e2a40c64d6e809992392ff78894"
+        },
+        {
+            "question": "Do you dare ………………………… me names?",
+            "description": "When dare is an ordinary verb, it is followed by an infinitive with to. ",
+            "answers": [
+                "call",
+                "to call"
+            ],
+            "correct": 1,
+            "id": "ecb3f070b02a4e53bbb58271b2ddb020"
+        },
+        {
+            "question": "You ought …………………………. your ways.",
+            "description": "Ought is followed by an infinitive with to. ",
+            "answers": [
+                "mend",
+                "to mend"
+            ],
+            "correct": 1,
+            "id": "facac7391795481cb94812af9b54a3db"
+        }
+    ]
+}

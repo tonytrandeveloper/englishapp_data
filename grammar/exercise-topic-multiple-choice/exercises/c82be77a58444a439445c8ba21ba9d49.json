@@ -1,0 +1,106 @@
+{
+    "id": "c82be77a58444a439445c8ba21ba9d49",
+    "title": "Subject Verb Agreement",
+    "questions": [
+        {
+            "question": "Man and woman ………………… complementary to each other.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "32f4be9efee8431bbddd1404606bf217"
+        },
+        {
+            "question": "Plenty of mangoes and bananas ………………… available in this season.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "d4c892cdf702424c98f9912a4ef05220"
+        },
+        {
+            "question": "A dictionary and an atlas …………………… missing from the library.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "7c34bf9fa32f4326b0a7967233071525"
+        },
+        {
+            "question": "The leader as well as his brothers ………………… to the same tribe.",
+            "description": "",
+            "answers": [
+                "belong",
+                "belongs"
+            ],
+            "correct": 1,
+            "id": "81c3490c1090411fa3d2ee961cff44df"
+        },
+        {
+            "question": "Cats and dogs ……………….…….. not get along.",
+            "description": "",
+            "answers": [
+                "do",
+                "does"
+            ],
+            "correct": 0,
+            "id": "1d29deced888492baa84b1f48834288d"
+        },
+        {
+            "question": "The brothers as well as their sister …………………… .. good at their studies.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "a7b3960c66794058910e48e808ee9822"
+        },
+        {
+            "question": "The students accompanied by their teacher …………………. gone on a picnic.",
+            "description": "",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "51050d9bea574fb38880753269b5525b"
+        },
+        {
+            "question": "A lot of houses ………………… collapsed in the storm.",
+            "description": "",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "82ecf8a8fb864624917241ab5809490f"
+        },
+        {
+            "question": "The children as well as their mother …………………. missing.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "36aa9194132845b0a1e820abaae4981e"
+        },
+        {
+            "question": "A large sum of money ………………… stolen.",
+            "description": "",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "0108cd1a9d3b43adab9ec0643c15c6e7"
+        }
+    ]
+}

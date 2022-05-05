@@ -1,0 +1,137 @@
+{
+    "id": "ef280d898d3f4b199b8c1b8dd3a01815",
+    "title": "Dead Vs. Died Vs. Dyed",
+    "questions": [
+        {
+            "question": "His father …………………….. two months ago.",
+            "description": "Died is the past tense of die.",
+            "answers": [
+                "died",
+                "dead",
+                "dyed"
+            ],
+            "correct": 0,
+            "id": "c3039ff9257d4f06a21c018b5d210d60"
+        },
+        {
+            "question": "His ………………………… was unexpected.",
+            "description": "Death is a noun.",
+            "answers": [
+                "dead",
+                "death",
+                "died"
+            ],
+            "correct": 1,
+            "id": "0a79384e52a3437286764a05822a4668"
+        },
+        {
+            "question": "I am ………………………….. to see her.",
+            "description": "",
+            "answers": [
+                "dying",
+                "dieing",
+                "diing"
+            ],
+            "correct": 0,
+            "id": "23e32a3e15534a72b1d3de3e4a26e37a"
+        },
+        {
+            "question": "The rosebushes will ……………………………. without water.",
+            "description": "",
+            "answers": [
+                "die",
+                "dye",
+                ""
+            ],
+            "correct": 0,
+            "id": "5cdcd4532f1e45a39141566af6c0e119"
+        },
+        {
+            "question": "The chiming of the bells …………………………. out.",
+            "description": "",
+            "answers": [
+                "dead",
+                "died",
+                "dyed"
+            ],
+            "correct": 1,
+            "id": "6ebfb255de0c43e4878d426254d2b21f"
+        },
+        {
+            "question": "She …………………………….. her hair red.",
+            "description": "To dye is to color.",
+            "answers": [
+                "died",
+                "dyed",
+                "dead"
+            ],
+            "correct": 1,
+            "id": "1705c4b8c76943e6a26d0714fc3e7e27"
+        },
+        {
+            "question": "………………………….. these Easter eggs.",
+            "description": "To dye is to color.",
+            "answers": [
+                "Die",
+                "Dye"
+            ],
+            "correct": 1,
+            "id": "78a4e3b85de7487f942b236cc68789a7"
+        },
+        {
+            "question": "The doctor pronounced him ………………………….. on arrival at the hospital.",
+            "description": "Dead is an adjective. Dead means lifeless.",
+            "answers": [
+                "died",
+                "dead",
+                "dyed"
+            ],
+            "correct": 1,
+            "id": "4b28c3b1184144deac04396fe68874c8"
+        },
+        {
+            "question": "The battery was …………………………. and the car would not start.",
+            "description": "",
+            "answers": [
+                "dead",
+                "died",
+                "dyed"
+            ],
+            "correct": 0,
+            "id": "064a481ec77b4207bcb121a12b3aabd1"
+        },
+        {
+            "question": "Scientists believe that Mercury is a …………………………….. planet.",
+            "description": "",
+            "answers": [
+                "died",
+                "dead",
+                "dyed"
+            ],
+            "correct": 1,
+            "id": "8f3e741c97f44639883d1c5e91df3223"
+        },
+        {
+            "question": "There was a …………………………… silence after the announcement.",
+            "description": "Dead silence means total silence. ",
+            "answers": [
+                "dead",
+                "died",
+                "death"
+            ],
+            "correct": 0,
+            "id": "dea2c4f29db74b66ade636f78e41a5bb"
+        },
+        {
+            "question": "Cancer is a ………………………… disease.",
+            "description": "Deadly means fatal. ",
+            "answers": [
+                "deadly",
+                "dead",
+                "death"
+            ],
+            "correct": 0,
+            "id": "950b3665e6f345038020c48183fd3088"
+        }
+    ]
+}

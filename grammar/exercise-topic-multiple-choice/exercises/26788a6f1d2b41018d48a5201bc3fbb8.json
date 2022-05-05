@@ -1,0 +1,136 @@
+{
+    "id": "26788a6f1d2b41018d48a5201bc3fbb8",
+    "title": "Sentence Patterns Exercise",
+    "questions": [
+        {
+            "question": "It was careless …………………….. her to repeat that mistake.",
+            "description": "The adjective careless can be followed by ‘of + noun / pronoun + to-infinitive’.",
+            "answers": [
+                "of",
+                "for",
+                "with"
+            ],
+            "correct": 0,
+            "id": "031616e8243a4a3288ae7f72a20d2ed2"
+        },
+        {
+            "question": "It is wicked of him ………………………. such things.",
+            "description": "The adjective wicked can be followed by ‘of + noun / pronoun + to-infinitive’.",
+            "answers": [
+                "for saying",
+                "to say"
+            ],
+            "correct": 1,
+            "id": "93faa16c0f3744a4a3e73a5953e0e867"
+        },
+        {
+            "question": "It is no use …………………… about it.",
+            "description": "The pattern is ‘it + be + no use / good etc. + -ing form’.",
+            "answers": [
+                "to worry",
+                "worrying",
+                "for worrying"
+            ],
+            "correct": 1,
+            "id": "e3cb5af6b6c24a10aeff2b975f2cc29a"
+        },
+        {
+            "question": "It is strange …………………………",
+            "description": "The pattern is: it + be + adjective / noun + that clause.",
+            "answers": [
+                "for him to behave like that",
+                "that he should have behaved like that",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "5177e9c79c4442f494d5b3b1b10494d7"
+        },
+        {
+            "question": "It is a pity ……………………………..",
+            "description": "The pattern is: it + be + adjective / noun + that clause",
+            "answers": [
+                "that you could not pass the test",
+                "for you not to pass the test",
+                "of you not to pass the test"
+            ],
+            "correct": 0,
+            "id": "16687e93f2f64a24b9e1574db518550c"
+        },
+        {
+            "question": "She was too arrogant …………………… to me.",
+            "description": "Note the pattern ‘too…to’.",
+            "answers": [
+                "for listening",
+                "to listen",
+                "to listening"
+            ],
+            "correct": 1,
+            "id": "9187fff86c3c46608f19a1be688619d0"
+        },
+        {
+            "question": "She was stupid enough ………………… him.",
+            "description": "The pattern is: adjective / adverb + enough + to-infinitive",
+            "answers": [
+                "that she trusted",
+                "to trust",
+                "for trusting"
+            ],
+            "correct": 1,
+            "id": "b6fcd087f0d84676a008a31314514b8f"
+        },
+        {
+            "question": "I was so tired …………………………. any further.",
+            "description": "The pattern is: so + adjective / adverb + that – clause",
+            "answers": [
+                "to walk",
+                "that I could walk",
+                "that I could not walk further"
+            ],
+            "correct": 2,
+            "id": "049959122df0487ebdcc507b49870787"
+        },
+        {
+            "question": "What a charming girl ………………………..!",
+            "description": "The pattern is: what + adjective + noun + subject + verb",
+            "answers": [
+                "is she",
+                "she is",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3d5a902a51944084887cce903ac55b08"
+        },
+        {
+            "question": "…………………………….. tall you have grown!",
+            "description": "In exclamatory sentences we use ‘how’ before adjectives without nouns.",
+            "answers": [
+                "How",
+                "What",
+                "What a"
+            ],
+            "correct": 0,
+            "id": "2a000f35fddf48178bb4f7bd0e43d3b8"
+        },
+        {
+            "question": "If I find your watch, I …………………………… it to you.",
+            "description": "In first conditional sentences, we use a simple present tense in the if-clause and will + infinitive in the main clause.",
+            "answers": [
+                "will give",
+                "would give",
+                "would have given"
+            ],
+            "correct": 0,
+            "id": "40fdbf0e6f45468389d5a4529d433df0"
+        },
+        {
+            "question": "How …………………….. he plays!",
+            "description": "Well is an adverb. We need an adverb to modify a verb (play)",
+            "answers": [
+                "good",
+                "well"
+            ],
+            "correct": 1,
+            "id": "fddf3eebb8c14cab918edf39dd7aa2c2"
+        }
+    ]
+}

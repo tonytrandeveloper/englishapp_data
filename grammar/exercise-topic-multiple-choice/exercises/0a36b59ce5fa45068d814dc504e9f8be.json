@@ -1,0 +1,114 @@
+{
+    "id": "0a36b59ce5fa45068d814dc504e9f8be",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "There was ......................... anything to eat.",
+            "description": "",
+            "answers": [
+                "hardly",
+                "almost",
+                "hard"
+            ],
+            "correct": 0,
+            "id": "ec171c5b5dcc4fa9a610cbd482baa694"
+        },
+        {
+            "question": "There ...................... a few boys playing in the garden.",
+            "description": "",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "a6c8ae3b39d94c8a850d3da9b4b3fd67"
+        },
+        {
+            "question": "...................... at the door he demanded admission.",
+            "description": "",
+            "answers": [
+                "Knocking",
+                "Knocked",
+                "Having knocked"
+            ],
+            "correct": 0,
+            "id": "77225ad161114761b088d3414ed6c158"
+        },
+        {
+            "question": "Would you mind ................... a bit?",
+            "description": "",
+            "answers": [
+                "moving",
+                "to move",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "edbe92a983e84a25aa0de4b788aceb1e"
+        },
+        {
+            "question": "Why don’t you .................. listen to me?",
+            "description": "",
+            "answers": [
+                "ever",
+                "never"
+            ],
+            "correct": 0,
+            "id": "e940e2d0debb4d89966d9870c6346629"
+        },
+        {
+            "question": "You need not ...................... on Sundays.",
+            "description": "",
+            "answers": [
+                "work",
+                "to work",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "9cb0f3b6db2542309d4bf4b2e175720a"
+        },
+        {
+            "question": "You had better ........................ his permission before using his computer.",
+            "description": "",
+            "answers": [
+                "to seek",
+                "seek",
+                "sought"
+            ],
+            "correct": 1,
+            "id": "d6f678510c804d299f4c182bfc1155c3"
+        },
+        {
+            "question": "Beethoven is greater ....................... composers of music.",
+            "description": "",
+            "answers": [
+                "than any",
+                "than",
+                "than most other"
+            ],
+            "correct": 2,
+            "id": "e0b3062d237543809ff8c82e67b0aee1"
+        },
+        {
+            "question": "I prefer watching TV .................. reading books.",
+            "description": "",
+            "answers": [
+                "than",
+                "to",
+                "for"
+            ],
+            "correct": 1,
+            "id": "e7ff5e242fa04e36a5ba6487eaa0f84a"
+        },
+        {
+            "question": "He used ................... poems when he was a student.",
+            "description": "",
+            "answers": [
+                "write",
+                "to write",
+                "to writing"
+            ],
+            "correct": 1,
+            "id": "04cc52a98a3047d68beef9cb194651c0"
+        }
+    ]
+}

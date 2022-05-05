@@ -1,0 +1,138 @@
+{
+    "id": "3a4f1e406578477fa6879b4cb958428f",
+    "title": "Parts Of Speech Exercise",
+    "questions": [
+        {
+            "question": "That was a brilliant performance. Here performance is a/an ……………………..",
+            "description": "A noun is the name of a person, place, thing or idea. ",
+            "answers": [
+                "noun",
+                "adjective",
+                "verb"
+            ],
+            "correct": 0,
+            "id": "203de128be2847d48a3ceb958f77f624"
+        },
+        {
+            "question": "It has been a long time since I met him. Here since is a/an …………………….",
+            "description": "A conjunction is a word used to connect two words, phrases or clauses. ",
+            "answers": [
+                "adjective",
+                "preposition",
+                "conjunction"
+            ],
+            "correct": 2,
+            "id": "32c5d1bea66949c982aa515e1169d0e1"
+        },
+        {
+            "question": "Why do you have such a belligerent attitude? Here do is a/an ………………………..",
+            "description": "",
+            "answers": [
+                "noun",
+                "verb",
+                "adjective"
+            ],
+            "correct": 1,
+            "id": "939e8b37acf544528a1b64162c9719f3"
+        },
+        {
+            "question": "Seasickness is an unusual ailment among experienced sailors. Here among is a/an ………………………….",
+            "description": "",
+            "answers": [
+                "conjunction",
+                "preposition",
+                "noun"
+            ],
+            "correct": 1,
+            "id": "8b7ef8c61165431aa5ed2146427b99ac"
+        },
+        {
+            "question": "The accident was attributed to faulty brakes. Here attributed is a/an ………………………..",
+            "description": "A verb is an action word.",
+            "answers": [
+                "verb",
+                "adverb",
+                "conjunction"
+            ],
+            "correct": 0,
+            "id": "578369b6b0254136845e81db86d4c23c"
+        },
+        {
+            "question": "He is guilty of the awful crime of murder. Here murder is a/an …………………………",
+            "description": "A noun is a word expressing an idea or act. ",
+            "answers": [
+                "verb",
+                "noun",
+                "adjective"
+            ],
+            "correct": 1,
+            "id": "4cee34ce0a3546b3b35b261c016a24ad"
+        },
+        {
+            "question": "Germany, Italy and Japan formed an axis against the Allies in World War II. Here and is a/an …………………………….",
+            "description": "A conjunction is a connecting word.",
+            "answers": [
+                "noun",
+                "adverb",
+                "conjunction"
+            ],
+            "correct": 2,
+            "id": "d49103545e074a15ac8ab119866cce43"
+        },
+        {
+            "question": "People who are too avid for success may miss some of the joys of life. Here too is a/an …………………………….",
+            "description": "Too is an adverb. Here it modifies the adjective avid.",
+            "answers": [
+                "adjective",
+                "adverb",
+                "preposition"
+            ],
+            "correct": 1,
+            "id": "b6dab0e9a6f244069444bd8ffd49f66a"
+        },
+        {
+            "question": "The audience eagerly awaited the speaker’s arrival. Here eagerly is a/an ……………………………",
+            "description": "Here the adverb eagerly modifies the verb awaited.",
+            "answers": [
+                "adjective",
+                "adverb",
+                "verb"
+            ],
+            "correct": 1,
+            "id": "4185b55c729e468d9af1dec47fa809a4"
+        },
+        {
+            "question": "The natives were awed when they saw their first airplane. Here their is a/an …………………………..",
+            "description": "",
+            "answers": [
+                "noun",
+                "pronoun",
+                "preposition"
+            ],
+            "correct": 1,
+            "id": "77fb786212424a199c97323387932ce2"
+        },
+        {
+            "question": "The scandal was an awkward situation for the entire family. Here entire is a/an ……………………….",
+            "description": "Here the adjective entire modifies the noun family.",
+            "answers": [
+                "adverb",
+                "adjective",
+                "noun"
+            ],
+            "correct": 1,
+            "id": "9b11a508eea84b59928eba5cdd2c7f4c"
+        },
+        {
+            "question": "We had cheap seats in the balcony of the theatre. Here had is a/an ………………………",
+            "description": "",
+            "answers": [
+                "verb",
+                "adverb",
+                "noun"
+            ],
+            "correct": 0,
+            "id": "4531704a2d5743b2b285cf28ea7221e4"
+        }
+    ]
+}

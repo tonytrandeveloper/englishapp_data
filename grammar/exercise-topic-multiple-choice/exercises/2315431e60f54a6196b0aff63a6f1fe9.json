@@ -1,0 +1,116 @@
+{
+    "id": "2315431e60f54a6196b0aff63a6f1fe9",
+    "title": "Question Tags Exercise",
+    "questions": [
+        {
+            "question": "The earth is not flat, ………………….?",
+            "description": "",
+            "answers": [
+                "is it",
+                "isn't it",
+                "is it not"
+            ],
+            "correct": 0,
+            "id": "c3e3946c7cf54beab059e908549835af"
+        },
+        {
+            "question": "She isn’t coming, ………………….?",
+            "description": "",
+            "answers": [
+                "is she",
+                "isn't she",
+                "is she not"
+            ],
+            "correct": 0,
+            "id": "0730ee0396bc4f72b625a49609305333"
+        },
+        {
+            "question": "She called him yesterday, ………………….?",
+            "description": "",
+            "answers": [
+                "did she",
+                "didn't she",
+                "did she not"
+            ],
+            "correct": 1,
+            "id": "6ff4522b6103495891999b87da38ce3f"
+        },
+        {
+            "question": "Smoking is injurious to health, ………………..?",
+            "description": "",
+            "answers": [
+                "is it",
+                "isn't it",
+                "is it not"
+            ],
+            "correct": 1,
+            "id": "a2f96db99ec04f3c96cf1a3effcd275e"
+        },
+        {
+            "question": "You met him yesterday, ………………….?",
+            "description": "",
+            "answers": [
+                "did you",
+                "didn't you",
+                "did you not"
+            ],
+            "correct": 1,
+            "id": "55e825327e6f44519985d15727839901"
+        },
+        {
+            "question": "Let us go for a walk, ………………..?",
+            "description": "",
+            "answers": [
+                "should we",
+                "shall we not",
+                "shall we"
+            ],
+            "correct": 2,
+            "id": "de261f42910b4127a419f941148a5371"
+        },
+        {
+            "question": "She will come, …………………?",
+            "description": "",
+            "answers": [
+                "will she",
+                "won't she",
+                "will she not"
+            ],
+            "correct": 1,
+            "id": "4a07b314431a4282a35f6a3d8d228273"
+        },
+        {
+            "question": "Your parents know this, …………………?",
+            "description": "",
+            "answers": [
+                "do they",
+                "don't they",
+                "do they not"
+            ],
+            "correct": 1,
+            "id": "b9d0bb2f39414a05b994f05c688c2c30"
+        },
+        {
+            "question": "Nobody knows the answer, ………………..?",
+            "description": "",
+            "answers": [
+                "do they",
+                "don't they",
+                "doesn't they"
+            ],
+            "correct": 0,
+            "id": "3419fc248fc74ae1b43d8d91ef4fd076"
+        },
+        {
+            "question": "She passed the exam, …………………?",
+            "description": "",
+            "answers": [
+                "did she",
+                "didn't she",
+                "did she not"
+            ],
+            "correct": 1,
+            "id": "ee2d58af595d45c5a644ee61bbf10d94"
+        }
+    ]
+}

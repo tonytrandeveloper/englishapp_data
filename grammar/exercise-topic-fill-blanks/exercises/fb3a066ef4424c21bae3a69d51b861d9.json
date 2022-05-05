@@ -1,0 +1,262 @@
+{
+    "id": "fb3a066ef4424c21bae3a69d51b861d9",
+    "title": "Defining Relative Clauses 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She worked for a man (the man used to be an athlete)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She worked for a man who used to be an athlete",
+                        "She worked for a man that used to be an athlete"
+                    ]
+                }
+            ],
+            "id": "5f453fa8937846a7882d3d040e4172f1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They called a lawyer (the lawyer lived nearby)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They called a lawyer who lived nearby",
+                        "They called a lawyer that lived nearby"
+                    ]
+                }
+            ],
+            "id": "9f4c0c93193d47f2a8f77371ffa6f3c3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I sent an email to my brother (my brother lives in Australia)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I sent an email to my brother who lives in Australia",
+                        "I sent an email to my brother that lives in Australia"
+                    ]
+                }
+            ],
+            "id": "7a60ddc0b41a4f48accf667fcf7be9e4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The customer liked the waitress (the waitress was very friendly)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The customer liked the waitress who was very friendly",
+                        "The customer liked the waitress that was very friendly"
+                    ]
+                }
+            ],
+            "id": "0c80b8d984b648e88c87425265412f4e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We broke the computer (the computer belonged to my father)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We broke the computer that belonged to my father",
+                        "We broke the computer which belonged to my father"
+                    ]
+                }
+            ],
+            "id": "6eb786ea682b4538bc94abcccea0374e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I dropped a glass (the glass was new)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I dropped a glass that was new",
+                        "I dropped a glass which was new"
+                    ]
+                }
+            ],
+            "id": "696a26d8cf074be996f4a5d56c2aa78f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She loves books (the books have happy endings)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She loves books that have happy endings",
+                        "She loves books which have happy endings"
+                    ]
+                }
+            ],
+            "id": "93cfd528affc49b08e40855293582225"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They live in a city (the city is in the north of England)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They live in a city that is in the north of England",
+                        "They live in a city which is in the north of England"
+                    ]
+                }
+            ],
+            "id": "4169534f66f5410eb5ca9d1c9c7df322"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The man is in the garden (the man is wearing a blue jumper)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The man who is wearing a blue jumper is in the garden",
+                        "The man that is wearing a blue jumper is in the garden"
+                    ]
+                }
+            ],
+            "id": "73e31a95799649a0bc5c511626d4418a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The girl works in a bank (the girl is from India)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The girl who is from India works in a bank",
+                        "The girl that is from India works in a bank"
+                    ]
+                }
+            ],
+            "id": "941c87d00e644286998472ad28919f8c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My sister has three children (my sister lives in Australia)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "My sister who lives in Australia has three children",
+                        "My sister that lives in Australia has three children"
+                    ]
+                }
+            ],
+            "id": "e5b8416d2b5f43caa8b450aab12a7d01"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The waiter was rude (the waiter was wearing a blue shirt)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The waiter who was wearing a blue shirt was rude",
+                        "The waiter that was wearing a blue shirt was rude"
+                    ]
+                }
+            ],
+            "id": "f2bd7cc6ff7946e892e783af9df0d6e3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The money is in the kitchen (the money belongs to John)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The money that belongs to John is in the kitchen",
+                        "The money which belongs to John is in the kitchen"
+                    ]
+                }
+            ],
+            "id": "027b03e3c8e94b1da5109ba04380783e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The table got broken (the table was my grandmother's)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The table that was my grandmother's got broken",
+                        "The table which was my grandmother's got broken"
+                    ]
+                }
+            ],
+            "id": "aeb7c4597922448183f68a914b2c9e9e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The television was stolen (the television was bought 20 years ago)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The television that was bought 20 years ago was stolen",
+                        "The television which was bought 20 years ago was stolen"
+                    ]
+                }
+            ],
+            "id": "3a96ac1424d54931b86abb9b15ea43d0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The fruit is on the table (the fruit isn't fresh)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The fruit that isn't fresh is on the table.",
+                        "The fruit which isn't fresh is on the table."
+                    ]
+                }
+            ],
+            "id": "237c5a057c324102be17284b50d84b50"
+        }
+    ]
+}

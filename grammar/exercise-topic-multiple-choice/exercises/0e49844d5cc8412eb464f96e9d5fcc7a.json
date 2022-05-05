@@ -1,0 +1,126 @@
+{
+    "id": "0e49844d5cc8412eb464f96e9d5fcc7a",
+    "title": "Words Followed By Particular Prepositions",
+    "questions": [
+        {
+            "question": "One must never deviate ……………….. the right path.",
+            "description": "",
+            "answers": [
+                "from",
+                "to",
+                "with",
+                "off"
+            ],
+            "correct": 0,
+            "id": "9ef2087d8778427cb2d09f5daf86a4bf"
+        },
+        {
+            "question": "Eventually she acceded ……………….. my requests.",
+            "description": "",
+            "answers": [
+                "at",
+                "for",
+                "to",
+                "with"
+            ],
+            "correct": 2,
+            "id": "c5552902cdcc4e2d8b858bf33c48dba1"
+        },
+        {
+            "question": "There is no cure ...................... many forms of cancer.",
+            "description": "",
+            "answers": [
+                "to",
+                "on",
+                "for",
+                "against"
+            ],
+            "correct": 2,
+            "id": "0c1ca8b9640d4797ad31a4a9eef3c710"
+        },
+        {
+            "question": "She is keen ………………….. pursuing higher education in the US.",
+            "description": "",
+            "answers": [
+                "for",
+                "on",
+                "at",
+                "from"
+            ],
+            "correct": 1,
+            "id": "363abc9cce024ebfb1e5e871fd61c0dc"
+        },
+        {
+            "question": "His latest novels make several allusions …………………. Hindu Mythology.",
+            "description": "",
+            "answers": [
+                "in",
+                "at",
+                "on",
+                "to"
+            ],
+            "correct": 3,
+            "id": "42a40b5f6df54f1c8af27e5422b28938"
+        },
+        {
+            "question": "He was anxious .....................… contact his parents.",
+            "description": "",
+            "answers": [
+                "with",
+                "to",
+                "about",
+                "for"
+            ],
+            "correct": 1,
+            "id": "b73ed9e89fa74f8e85815f325d01b7f2"
+        },
+        {
+            "question": "She has an aptitude ………………… music.",
+            "description": "",
+            "answers": [
+                "on",
+                "for",
+                "with",
+                "to"
+            ],
+            "correct": 1,
+            "id": "3aa678aa390e46bfaab4a9463632fcd1"
+        },
+        {
+            "question": "The indulgent mother is always blind …………………. her child’s faults.",
+            "description": "",
+            "answers": [
+                "with",
+                "at",
+                "to",
+                "on"
+            ],
+            "correct": 2,
+            "id": "c4627dd85eb948e4bab964c28c921c7f"
+        },
+        {
+            "question": "He was brought ……………….. by his grandparents.",
+            "description": "",
+            "answers": [
+                "on",
+                "up",
+                "over",
+                "in"
+            ],
+            "correct": 1,
+            "id": "79930aa929f84aaaa20cca38ef5061d8"
+        },
+        {
+            "question": "He is addicted …………………. drinking.",
+            "description": "",
+            "answers": [
+                "with",
+                "to",
+                "from",
+                "at"
+            ],
+            "correct": 1,
+            "id": "5ac2d9efa6664859853b947bacf29b92"
+        }
+    ]
+}

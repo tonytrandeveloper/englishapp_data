@@ -1,0 +1,137 @@
+{
+    "id": "4c7fbd9a3e394f858fc2935198a5ac0d",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "Please …………………… me here.",
+            "description": "We use wait for before a direct object.",
+            "answers": [
+                "wait",
+                "wait for",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "9ae4d4a60ab54cd3a55c9fdb886be356"
+        },
+        {
+            "question": "We will have to ………………………",
+            "description": "We cannot use a that-clause after wait.",
+            "answers": [
+                "wait for the guests to arrive",
+                "wait that the guests arrive"
+            ],
+            "correct": 0,
+            "id": "178c8d4c80db49cfb92e96dfa51b926f"
+        },
+        {
+            "question": "I …………………………. a very long time for his answer.",
+            "description": "The time preposition for can be dropped after wait.",
+            "answers": [
+                "waited",
+                "waited for",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "7aa3c1812a194008bdcc184f7c53d6bf"
+        },
+        {
+            "question": "I will write ………………………. when I get home.",
+            "description": "When write has no direct object, we put to before the indirect object.",
+            "answers": [
+                "you",
+                "to you",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "6061be6def41460990552e173fcd782c"
+        },
+        {
+            "question": "Write ………………………. a letter when you have time.",
+            "description": "When there is a direct object, we do not use to before the indirect object.",
+            "answers": [
+                "me",
+                "to me",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d80c50f226464a50b353fd76587a4f20"
+        },
+        {
+            "question": "Would you ………………………… some soup?",
+            "description": "Want is not used in polite expressions of wishes or polite offers.",
+            "answers": [
+                "want",
+                "like",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "805d9f8701684904a0f6969d8c515def"
+        },
+        {
+            "question": "She put ………………………. an interesting suggestion.",
+            "description": "In expressions like these, forward is always used without –s.",
+            "answers": [
+                "forward",
+                "forwards",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "fcc6a791eb064782a49bf9edda84cd2f"
+        },
+        {
+            "question": "If we keep going …………………………… we will get to the top.",
+            "description": "Upward and upwards are both correct as adverbs.",
+            "answers": [
+                "upward",
+                "upwards",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "a6ff231bacb944afba85ad677dda2ab3"
+        },
+        {
+            "question": "Although I tried all possible ……………………….. communication, I couldn’t get in touch with him.",
+            "description": "We do not use ways of before a noun.",
+            "answers": [
+                "ways of",
+                "means of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e2f5641c641b475f894a5614f475911e"
+        },
+        {
+            "question": "I told him ……………………….. be careful.",
+            "description": "To give advice, we use object + infinitive.",
+            "answers": [
+                "that",
+                "that he",
+                "to"
+            ],
+            "correct": 2,
+            "id": "07533f6a29334e19b18a4dfffb66a2eb"
+        },
+        {
+            "question": "He pretended he ………………………. Swim.",
+            "description": "When the verb in the main clause is in the past tense, we use a past tense in the subordinate clause.",
+            "answers": [
+                "can't",
+                "couldn't",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "a22627152e854244925a14dded21800c"
+        },
+        {
+            "question": "She said that she …………………………. German.",
+            "description": "When the verb in the main clause is in the past tense, we use a past tense in the subordinate clause.",
+            "answers": [
+                "is learning",
+                "was learning",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1c52a081b0144cb78239d0a72e10ed28"
+        }
+    ]
+}

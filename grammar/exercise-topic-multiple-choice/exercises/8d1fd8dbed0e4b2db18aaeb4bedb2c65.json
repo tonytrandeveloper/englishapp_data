@@ -1,0 +1,132 @@
+{
+    "id": "8d1fd8dbed0e4b2db18aaeb4bedb2c65",
+    "title": "Articles Exercise",
+    "questions": [
+        {
+            "question": "Is there ……………………. restaurant near ……………………… the house you live in?",
+            "description": "A is similar to any we use the to talk about particular people, things or places. ",
+            "answers": [
+                "a, the",
+                "the, the",
+                "a,a"
+            ],
+            "correct": 0,
+            "id": "e038d48c665740458d4cec5a5e6cf305"
+        },
+        {
+            "question": "We must help …………………………. needy.",
+            "description": "The needy means all needy people. ",
+            "answers": [
+                "a",
+                "the"
+            ],
+            "correct": 1,
+            "id": "86803f091a1e4fdca555672f50e135b1"
+        },
+        {
+            "question": "………………………… daughter of my friend is ……………………….. accomplished dancer.",
+            "description": "We use the to talk about particular people, things or places. A is similar to one. ",
+            "answers": [
+                "A, a",
+                "The, an",
+                "The, the"
+            ],
+            "correct": 1,
+            "id": "37f2e962186f4302b0d4208d7f5ab170"
+        },
+        {
+            "question": "Samuel, ………………………. brother of Mary is ……………………… artist.",
+            "description": "We use the to talk about particular people, things or places. A is similar to one. ",
+            "answers": [
+                "the, an",
+                "a, an",
+                "the, the"
+            ],
+            "correct": 0,
+            "id": "53f0c0ce9e104fcb80ebc585ca9b3573"
+        },
+        {
+            "question": "………………………… cow is ………………………. useful animal.",
+            "description": "The is used to generalize things.",
+            "answers": [
+                "The, the",
+                "The, a",
+                "A, the"
+            ],
+            "correct": 1,
+            "id": "d69af9ad8baf406a9076254aa357263e"
+        },
+        {
+            "question": "………………………… rich are not always happy.",
+            "description": "The rich means all rich people.",
+            "answers": [
+                "A",
+                "The"
+            ],
+            "correct": 1,
+            "id": "6389c719bc904e87ab6500b12ab6bb9c"
+        },
+        {
+            "question": "He gave me …………………………. copy of ……………………….. Bible.",
+            "description": "A copy means one copy.",
+            "answers": [
+                "a, the",
+                "the, the",
+                "the, a"
+            ],
+            "correct": 0,
+            "id": "1750671cfdb04acf9edf33cef97312fd"
+        },
+        {
+            "question": "He received …………………….. message from ……………………….. king.",
+            "description": "",
+            "answers": [
+                "a, the",
+                "a, a"
+            ],
+            "correct": 0,
+            "id": "32ce594f18364de1bddfa590bd2c64fd"
+        },
+        {
+            "question": "Man is ………………………… only animal that uses fire.",
+            "description": "",
+            "answers": [
+                "a",
+                "the"
+            ],
+            "correct": 1,
+            "id": "6e2d76d885b349a696242977f7a681e2"
+        },
+        {
+            "question": "The train was late by ………………………… hour.",
+            "description": "Use an before vowel sounds.",
+            "answers": [
+                "a",
+                "an",
+                "the"
+            ],
+            "correct": 1,
+            "id": "dc1e4de2e38a4023b4dcb62b536ba6fb"
+        },
+        {
+            "question": "She is married to …………………………. European.",
+            "description": "Use a before consonant sounds.",
+            "answers": [
+                "a",
+                "an"
+            ],
+            "correct": 0,
+            "id": "1765108fa20f4a0c8fd80291497ffbe4"
+        },
+        {
+            "question": "What did you do with ……………………….. money I lent you?",
+            "description": "Use the to talk about particular people or things. ",
+            "answers": [
+                "a",
+                "the"
+            ],
+            "correct": 1,
+            "id": "83ed1fe175a449298d75640faa8dbcde"
+        }
+    ]
+}

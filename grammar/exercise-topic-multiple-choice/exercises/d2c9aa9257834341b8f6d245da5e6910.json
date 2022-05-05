@@ -1,0 +1,137 @@
+{
+    "id": "d2c9aa9257834341b8f6d245da5e6910",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "He wants to know if he ……………………….. a promotion.",
+            "description": "",
+            "answers": [
+                "would get",
+                "will get",
+                "shall get"
+            ],
+            "correct": 1,
+            "id": "eee2ac5d7b25442cb0c64ddf8c09344e"
+        },
+        {
+            "question": "I remarked how lovely …………………………….",
+            "description": "In exclamations the subject goes before the auxiliary verb. ",
+            "answers": [
+                "was she",
+                "she was",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "69758d6ace74480a91938f633eaaa00a"
+        },
+        {
+            "question": "If I had any money, I ……………………………. you a gift.",
+            "description": "In the second conditional we use a simple past in the if clause and would + first form of the verb in the main clause. ",
+            "answers": [
+                "will buy",
+                "would buy",
+                "would have bought"
+            ],
+            "correct": 1,
+            "id": "db1a44d7b7dc4477a88953ca646d96f4"
+        },
+        {
+            "question": "I don’t know how many books ……………………………. written.",
+            "description": "In reported questions the subject goes before the auxiliary verb. ",
+            "answers": [
+                "she has",
+                "has she"
+            ],
+            "correct": 0,
+            "id": "a46d6825ab4c4a0ea47cfb55bd354288"
+        },
+        {
+            "question": "She seemed ………………………… about something.",
+            "description": "Seem is a copular verb. We use adjectives to modify copular verbs.",
+            "answers": [
+                "angry",
+                "angrily",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "8e6029b1d38149ad85d8860369fd1069"
+        },
+        {
+            "question": "I spoke to a woman who …………………………. the chairperson.",
+            "description": "We use seem to be before noun phrases.",
+            "answers": [
+                "seemed",
+                "seemed to be",
+                "seemed as"
+            ],
+            "correct": 1,
+            "id": "8dcc5e83fc934d45b808e07cb7b32a1c"
+        },
+        {
+            "question": "When we were kids we …………………………….. hours watching TV.",
+            "description": "Would is used to talk about past habits.",
+            "answers": [
+                "will spend",
+                "would spend",
+                "should spend"
+            ],
+            "correct": 1,
+            "id": "6bacbb383a2642a985bd1c7d3672f4df"
+        },
+        {
+            "question": "Everybody …………………………. wear seat belts.",
+            "description": "Should shows obligation.",
+            "answers": [
+                "should",
+                "would",
+                "shall"
+            ],
+            "correct": 0,
+            "id": "c503f710335d4c529096cd53d8183ba5"
+        },
+        {
+            "question": "………………………….. you like some help?",
+            "description": "You cannot say ‘should you like…?’",
+            "answers": [
+                "Would",
+                "Should",
+                "Shall"
+            ],
+            "correct": 0,
+            "id": "1a4e287d4e96429b9b574da1bf1fe901"
+        },
+        {
+            "question": "He ……………………….. be here soon. He left office at five.",
+            "description": "Should is used to talk about logical possibility.",
+            "answers": [
+                "would",
+                "should",
+                "shall"
+            ],
+            "correct": 1,
+            "id": "7aa5f05e28fd474996d4149150e433a5"
+        },
+        {
+            "question": "Applications …………………………. be sent before Friday.",
+            "description": "",
+            "answers": [
+                "shall",
+                "would",
+                "should"
+            ],
+            "correct": 2,
+            "id": "bc394b6a17c942839b0e7c9ca9982cc1"
+        },
+        {
+            "question": "I ………………………. have called him in the morning, but I forgot.",
+            "description": "Should is used with a perfect infinitive to talk about past events that did not happen.",
+            "answers": [
+                "should",
+                "would",
+                "will"
+            ],
+            "correct": 0,
+            "id": "b08e9ff23b9e4513b186e2a68127bdec"
+        }
+    ]
+}

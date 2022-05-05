@@ -1,0 +1,137 @@
+{
+    "id": "83c0501421df4cfbb8ed4aca5d81048b",
+    "title": "English Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "He was an audacious leader. He was ………………",
+            "description": "Audacious means bold, spunky, courageous.",
+            "answers": [
+                "timid",
+                "ruthless",
+                "bold"
+            ],
+            "correct": 2,
+            "id": "a43b4b2a6c494c238747cdc30816cd42"
+        },
+        {
+            "question": "Why do you have such a belligerent attitude? The person’s attitude is ………………………",
+            "description": "Belligerent means hostile or quarrelsome. ",
+            "answers": [
+                "benign",
+                "friendly",
+                "hostile"
+            ],
+            "correct": 2,
+            "id": "fed21bc88a304642bc297b02535fd013"
+        },
+        {
+            "question": "The puritans led austere lives. They led very ………………………. lives.",
+            "description": "Austere means abstemious. ",
+            "answers": [
+                "extravagant",
+                "abstemious",
+                "honorable"
+            ],
+            "correct": 1,
+            "id": "834cdd99ee954031a4b1c94ba1fa29a4"
+        },
+        {
+            "question": "Cats have an aversion to getting wet. Cats …………………….. to get wet.",
+            "description": "Aversion means dislike. ",
+            "answers": [
+                "like",
+                "do not like"
+            ],
+            "correct": 1,
+            "id": "c52d3d1c87d348c4888c9d880b024c19"
+        },
+        {
+            "question": "She gave him a baleful look. She gave him an …………………….. look.",
+            "description": "",
+            "answers": [
+                "warm",
+                "cold",
+                "evil"
+            ],
+            "correct": 2,
+            "id": "3cef43461a6847c8a0fb87211cc86781"
+        },
+        {
+            "question": "It was a balmy afternoon. It was ………………………",
+            "description": "Balmy means pleasantly warm. ",
+            "answers": [
+                "warm",
+                "very hot",
+                "very cold"
+            ],
+            "correct": 0,
+            "id": "1a5eab8e4f2342b983faaf2f2dbf9fec"
+        },
+        {
+            "question": "The pirates treated their captives with barbarity. They treated them ...........................",
+            "description": "",
+            "answers": [
+                "cruelly",
+                "kindly",
+                "leniently"
+            ],
+            "correct": 0,
+            "id": "8090ade7830a44bbb4601d829b49e22c"
+        },
+        {
+            "question": "The benign uncle tended to spoil the child. He was ……………………….. to the boy.",
+            "description": "",
+            "answers": [
+                "kind",
+                "harsh",
+                "cold"
+            ],
+            "correct": 0,
+            "id": "f5381ce2cd2c47de80a45a37b6bbfc96"
+        },
+        {
+            "question": "We took a circuitous path. We took a ……………………………. path.",
+            "description": "Circuitous means indirect or winding. ",
+            "answers": [
+                "direct",
+                "shortcut",
+                "long winding"
+            ],
+            "correct": 2,
+            "id": "5d3d9f7522cb446ea40f0a721e7c5496"
+        },
+        {
+            "question": "The king loved to behave in a very ceremonial manner. He behaved in a ……………………….. manner.",
+            "description": "Ceremonial means ritualistic or formal. ",
+            "answers": [
+                "formal",
+                "liberal",
+                "informal"
+            ],
+            "correct": 0,
+            "id": "15aeaeb4fd504ca79cb7e1b17ee8a1fe"
+        },
+        {
+            "question": "It has been proved that fortune-tellers are charlatans. They are …………………….",
+            "description": "",
+            "answers": [
+                "genuine",
+                "foresighted",
+                "tricksters"
+            ],
+            "correct": 2,
+            "id": "dcf4f0107abc4b069e0295ad6850fa24"
+        },
+        {
+            "question": "Acid is caustic. It is ……………………..",
+            "description": "",
+            "answers": [
+                "sweet",
+                "bitter",
+                "corrosive"
+            ],
+            "correct": 2,
+            "id": "a0eb818eacb3410ba3f1f1c9d6f63dd4"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "id": "0f7b2aa7b0e843d1968adb325a48a14e",
+    "title": "Because Or Because Of",
+    "questions": [
+        {
+            "question": "We got into trouble ............................... you.",
+            "description": "Because of is a preposition. It is followed by a noun or pronoun.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "3ea56b0e9e70462aa89eb0fd7ad62ae6"
+        },
+        {
+            "question": "We cancelled the trip ............................. bad weather.",
+            "description": "Because of is a preposition. It should be followed by a noun or pronoun.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "5772ddae3c5b4e5b8f44281d2390b649"
+        },
+        {
+            "question": "We hurried indoors ....................... it was raining.",
+            "description": "Because is a conjunction. It should be followed by a clause. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "ac9af52e20034c58b4275ca79405d974"
+        },
+        {
+            "question": "She passed the test .................................. her teacher.",
+            "description": "",
+            "answers": [
+                "because of",
+                "because"
+            ],
+            "correct": 0,
+            "id": "be31f2bfbb0c4e90969fb58ab93428ad"
+        },
+        {
+            "question": "She passed the test .......................... she had a good teacher.",
+            "description": "Because should be followed by a clause. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "a22ef2f0421e45ea8c10cafdff19d7f0"
+        },
+        {
+            "question": "I couldn't arrive on time .............................. I had missed the train.",
+            "description": "",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "084676d462184231be3aee07bbee26b0"
+        },
+        {
+            "question": "He can't walk .................................. arthritis.",
+            "description": "Because of is followed by a noun/pronoun.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "83159b2f3a29499483db238eba696432"
+        },
+        {
+            "question": "She didn't pass the test .......................... she hadn't studied well.",
+            "description": "We use a clause after because. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "9a5f6888c9c4460eb66dbbb3d0a7a3bd"
+        },
+        {
+            "question": "Thousands of people lost their jobs ............................ the recession.",
+            "description": "",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "187ecfd984ed4c1687e6284dffb909a1"
+        },
+        {
+            "question": "I couldn't understand him .......................... his strange accent.",
+            "description": "",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "61a6f7189a174a42ba88b44af79d0465"
+        },
+        {
+            "question": "The government banned that movie ........................ the public opinion was against it.",
+            "description": "",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "9744ead31c354eb9b6def765fddcbbda"
+        },
+        {
+            "question": "He met with an accident ......................... he was driving too fast.",
+            "description": "",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "b2adb12ff88641c889649f24454f37ba"
+        }
+    ]
+}

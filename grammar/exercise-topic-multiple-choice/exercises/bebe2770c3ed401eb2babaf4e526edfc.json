@@ -1,0 +1,106 @@
+{
+    "id": "bebe2770c3ed401eb2babaf4e526edfc",
+    "title": "Subject Verb Agreement Exercise",
+    "questions": [
+        {
+            "question": "One of my friends ..................... .. gone to France.",
+            "description": "",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "fab683d71d8741e894b3538214119cc7"
+        },
+        {
+            "question": "Each of the boys ..................... . given a present.",
+            "description": "",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "c85e9cd59ea647259f305f72bdea9ddc"
+        },
+        {
+            "question": "Neither of the contestants ..................... .. able to win a decisive victory.",
+            "description": "",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "68ec5b8a3e8a4dbdab1c8176e72fe1d7"
+        },
+        {
+            "question": "Oil and water ..................... .. not mix.",
+            "description": "",
+            "answers": [
+                "does",
+                "do"
+            ],
+            "correct": 1,
+            "id": "e80ea44ab46a4e61ad00ed241da7a949"
+        },
+        {
+            "question": "He and I ..................... .. at Oxford together.",
+            "description": "",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "2943f9d9f9354c209c5b59ea04af6e03"
+        },
+        {
+            "question": "Slow and steady ....................... the race.",
+            "description": "",
+            "answers": [
+                "win",
+                "wins"
+            ],
+            "correct": 1,
+            "id": "ce897ef97c504de888505290921c04ad"
+        },
+        {
+            "question": "Neither Peter nor James ....................... any right to the property.",
+            "description": "",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "67c6447f231448afa403621d5e59c293"
+        },
+        {
+            "question": "No prize or medal ………………….. given to the boy, though he stood first in the examination.",
+            "description": "",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "b05eeb65dc54448c954c1f5a9fadafe6"
+        },
+        {
+            "question": "Either Mary or Alice ..................... responsible for this.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "60104f788702418e929a1d672f0f0d96"
+        },
+        {
+            "question": "Neither the Minister nor his colleagues .....................…… given any explanation for this.",
+            "description": "",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "fb30666a37c745caacc78456c552551e"
+        }
+    ]
+}

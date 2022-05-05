@@ -1,0 +1,138 @@
+{
+    "id": "d4267426b3d248e6bf10c822b7701329",
+    "title": "Gap Filling Exercise (Tenses)",
+    "questions": [
+        {
+            "question": "The boy told the girl that he ........................ her hairstyle.",
+            "description": "When the verb in the main clause is in the past tense, we use a past tense in the subordinate clause as well.",
+            "answers": [
+                "likes",
+                "liked",
+                "was liking"
+            ],
+            "correct": 1,
+            "id": "5788a67ca72242b98a746ca8574ec211"
+        },
+        {
+            "question": "She told me she ...................... to come with me.",
+            "description": "When the verb in the main clause is in the past tense, we use a past tense in the subordinate clause as well.",
+            "answers": [
+                "wants",
+                "wanted",
+                "want"
+            ],
+            "correct": 1,
+            "id": "eeed0a6b0776491dbad14e342097e7b6"
+        },
+        {
+            "question": "He said that if his parents ...................... him permission, he ...................... go abroad.",
+            "description": "When the verb in the main clause is in the past tense, we use a past tense in the subordinate clause as well. Would is the past form of will.",
+            "answers": [
+                "give, will",
+                "gave, would",
+                "give, would"
+            ],
+            "correct": 1,
+            "id": "c3c1ea830a2e44d9ab64b2ca88ce2373"
+        },
+        {
+            "question": "He told me that he ......................... such a lazy boy as I was.",
+            "description": "A present perfect in the direct speech becomes a past perfect in the indirect speech.",
+            "answers": [
+                "never saw",
+                "had never seen",
+                "has never seen"
+            ],
+            "correct": 1,
+            "id": "0eba590a43a24ecda14f72b3d20928cf"
+        },
+        {
+            "question": "She said that she ........................ to lock the door.",
+            "description": "A simple past in the direct speech becomes past perfect in the indirect speech.",
+            "answers": [
+                "forgot",
+                "has forgotten",
+                "had forgotten"
+            ],
+            "correct": 2,
+            "id": "03bf757ced5948af899e05cbf08a23ef"
+        },
+        {
+            "question": "He says that he .......................... to be an astronaut.",
+            "description": "When the verb in the main clause is in the simple present tense, a present tense is possible in the subordinate clause depending upon the meaning. ",
+            "answers": [
+                "wanted",
+                "wants",
+                "is wanting"
+            ],
+            "correct": 1,
+            "id": "4f493d7ca3664abfa404af8c81bda148"
+        },
+        {
+            "question": "The mother asked the child ...................... her wet clothes.",
+            "description": "Imperatives are reported with a to-infinitive. ",
+            "answers": [
+                "changing",
+                "to change",
+                "to changing"
+            ],
+            "correct": 1,
+            "id": "5efad73e050248ddb5d3db817de294ff"
+        },
+        {
+            "question": "I reminded him that his wife .......................... for him.",
+            "description": "",
+            "answers": [
+                "may be waiting",
+                "might be waiting",
+                "is waiting"
+            ],
+            "correct": 1,
+            "id": "d0546805824846578995c3f17f7f5563"
+        },
+        {
+            "question": "She told me that she would let me know as soon as she ............................ information.",
+            "description": "",
+            "answers": [
+                "receives",
+                "received",
+                "has received"
+            ],
+            "correct": 1,
+            "id": "3c8efd889b134aa39e998081041ca4e4"
+        },
+        {
+            "question": "He said that he ........................ something behind the curtain.",
+            "description": "A simple past and a present perfect in the direct speech becomes a past perfect in the indirect speech. ",
+            "answers": [
+                "saw",
+                "had seen",
+                "has seen"
+            ],
+            "correct": 1,
+            "id": "612e35dc088d41e3ab7b7c6d6115ae6a"
+        },
+        {
+            "question": "The Jester said that Lenore knew more about the moon than they ..............................",
+            "description": "",
+            "answers": [
+                "do",
+                "did",
+                "does"
+            ],
+            "correct": 1,
+            "id": "3618d1ee977649ea851119d4e3df681f"
+        },
+        {
+            "question": "She told me that she ...................... that book on my table the other day.",
+            "description": "A simple past and a present perfect in the direct speech becomes a past perfect in the indirect speech. ",
+            "answers": [
+                "saw",
+                "has seen",
+                "had seen"
+            ],
+            "correct": 2,
+            "id": "832535ad1a70418595e1e27a793958ce"
+        }
+    ]
+}

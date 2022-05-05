@@ -1,0 +1,137 @@
+{
+    "id": "bb45d79cf8b64756b78794da66604419",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "I found …………………………….. blackberries than you.",
+            "description": "We use more before the comparative expression than.",
+            "answers": [
+                "more",
+                "most",
+                "much"
+            ],
+            "correct": 0,
+            "id": "45cb8a99b1b04c75879e48f94d647209"
+        },
+        {
+            "question": "We haven’t got ………………………………. money.",
+            "description": "Much is used before an uncountable noun.",
+            "answers": [
+                "much",
+                "more",
+                "most"
+            ],
+            "correct": 0,
+            "id": "d4e0760c811a4d579492044c77dd9e7a"
+        },
+        {
+            "question": "There aren’t ………………………………. apples on the tree.",
+            "description": "Many is used before a countable noun.",
+            "answers": [
+                "many",
+                "much"
+            ],
+            "correct": 0,
+            "id": "a28a3a88ec6c4529bbd5aa074364c565"
+        },
+        {
+            "question": "She has got only ………………………………… friends.",
+            "description": "We use a few before a countable noun.",
+            "answers": [
+                "a few",
+                "a less",
+                "a fewer"
+            ],
+            "correct": 0,
+            "id": "6f8d96cc4d4f496f9c393981ffeeb624"
+        },
+        {
+            "question": "There weren’t …………………………… children in the class.",
+            "description": "We use many before a plural noun.",
+            "answers": [
+                "many",
+                "much",
+                "more"
+            ],
+            "correct": 0,
+            "id": "99c98e1953824dc0b24895dd6d02e896"
+        },
+        {
+            "question": "I have planted …………………………………. roses in the garden.",
+            "description": "Some is used to indicate an indefinite number or quantity. It is used in affirmative sentences.",
+            "answers": [
+                "some",
+                "any",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "bcb844a759874141843e2726d8a1b3a3"
+        },
+        {
+            "question": "Is there ………………………………. water in the pond?",
+            "description": "Any is used in questions and negative sentences.",
+            "answers": [
+                "any",
+                "some",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "79646d2f17b94f9abeba9c006f040840"
+        },
+        {
+            "question": "Susie is the ……………………………… popular girl in the class.",
+            "description": "",
+            "answers": [
+                "most",
+                "more",
+                "much"
+            ],
+            "correct": 0,
+            "id": "42c62482027e4b9e9353d44faf665889"
+        },
+        {
+            "question": "………………………………… students hate mathematics.",
+            "description": "When most means the majority of, it is not used with the. ",
+            "answers": [
+                "Most",
+                "Much",
+                "The most"
+            ],
+            "correct": 0,
+            "id": "0968a470bd934aa6b549c402db1b197c"
+        },
+        {
+            "question": "……………………………… people understand philosophy.",
+            "description": "Few means hardly any. ",
+            "answers": [
+                "Few",
+                "Less",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "3d889facf0b945da9b67b2631117be09"
+        },
+        {
+            "question": "She didn’t stay for as ……………………………. days as she intended.",
+            "description": "We use many before a noun without a determiner. ",
+            "answers": [
+                "many",
+                "many of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "5b3a815c68344fedaa07d1e417151379"
+        },
+        {
+            "question": "You can have as ……………………………….. the juice as you like.",
+            "description": "Before an article with a determiner, we use much of.",
+            "answers": [
+                "many",
+                "much",
+                "much of"
+            ],
+            "correct": 2,
+            "id": "90f4e7e300bb44319bd20b96b0cda1cf"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "id": "dd8c51ae9fd546789373e05fd6350d04",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "We started early …..................... . we might not miss the show.",
+            "description": "",
+            "answers": [
+                "because",
+                "so that",
+                "on condition that"
+            ],
+            "correct": 1,
+            "id": "76b5098b29ee4fe4a141e93f31c27b68"
+        },
+        {
+            "question": "I can help you ....................... you tell me the truth.",
+            "description": "",
+            "answers": [
+                "so",
+                "provided",
+                "unless"
+            ],
+            "correct": 1,
+            "id": "80c7352ae6ed42a4b9f312a293e4976c"
+        },
+        {
+            "question": "He is both scholarly ..................... . cultured.",
+            "description": "",
+            "answers": [
+                "also",
+                "as well",
+                "and",
+                "as well as"
+            ],
+            "correct": 2,
+            "id": "2fea5f5bf3ad4d28854a1d0a4d92a08d"
+        },
+        {
+            "question": "He looks ..................... .. he is ill.",
+            "description": "",
+            "answers": [
+                "like",
+                "as",
+                "though",
+                "as if"
+            ],
+            "correct": 3,
+            "id": "795b6cee43a74127aa1f7849b7df0ed2"
+        },
+        {
+            "question": "You must apologize …..................... . you will be punished.",
+            "description": "",
+            "answers": [
+                "unless",
+                "whether",
+                "but",
+                "otherwise"
+            ],
+            "correct": 3,
+            "id": "472dcf4d04ae4d8793c6451497859344"
+        },
+        {
+            "question": "He tiptoed into the class ............... he should disturb the students.",
+            "description": "",
+            "answers": [
+                "if",
+                "unless",
+                "lest"
+            ],
+            "correct": 2,
+            "id": "9e4509dfd1474a668863ab3a93312188"
+        },
+        {
+            "question": ".................... she was angry, she said nothing.",
+            "description": "",
+            "answers": [
+                "Though",
+                "If",
+                "Even if"
+            ],
+            "correct": 0,
+            "id": "2c028a700d16470bacb94ffcc6b6f60a"
+        },
+        {
+            "question": "We were tired ................ we had been running for hours.",
+            "description": "",
+            "answers": [
+                "so",
+                "because",
+                "while"
+            ],
+            "correct": 1,
+            "id": "95c0dff03df14846a28eabe0947c07af"
+        }
+    ]
+}

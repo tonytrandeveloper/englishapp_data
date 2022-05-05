@@ -1,0 +1,102 @@
+{
+    "id": "c53f7f2e66424fe08381c3513fc153ed",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "Romeo and Juliet is one of Shakespeare’s early .....................",
+            "description": "",
+            "answers": [
+                "play",
+                "plays",
+                "drama",
+                "dramas"
+            ],
+            "correct": 1,
+            "id": "42a51951cf6c400f886f2786cb70fa62"
+        },
+        {
+            "question": "He belongs …………… a tribe living in the hills.",
+            "description": "",
+            "answers": [
+                "to",
+                "on",
+                "at",
+                "with"
+            ],
+            "correct": 0,
+            "id": "957914442422416181bc2ee921eadef7"
+        },
+        {
+            "question": "She prefers baking cakes for her children …………….. them from the bakery.",
+            "description": "",
+            "answers": [
+                "rather than buying",
+                "rather than to buy",
+                "rather buying",
+                "to buy"
+            ],
+            "correct": 0,
+            "id": "87f0548c3f034171ab539300f169219b"
+        },
+        {
+            "question": "If you aren’t feeling well, you had better …………………. a specialist.",
+            "description": "",
+            "answers": [
+                "consult to",
+                "consult",
+                "consult with",
+                "consult of"
+            ],
+            "correct": 1,
+            "id": "982a40a6adbb4383b42c77b88763e6c3"
+        },
+        {
+            "question": "Don’t leave books near the open fire. They might ……………….. easily.",
+            "description": "",
+            "answers": [
+                "catch fire",
+                "catch with fire",
+                "catch to fire",
+                "catch on fire"
+            ],
+            "correct": 0,
+            "id": "99d9a32e7338405da3add40033cfe9f2"
+        },
+        {
+            "question": "When will the program ………………..?",
+            "description": "",
+            "answers": [
+                "be held",
+                "be hold",
+                "hold place",
+                "take hold"
+            ],
+            "correct": 0,
+            "id": "78a3ebdddb9f4041ac9382f35f28b216"
+        },
+        {
+            "question": "It is snowing. Should we ………………. this weekend?",
+            "description": "",
+            "answers": [
+                "go ski",
+                "go skiing",
+                "go to ski",
+                "skiing"
+            ],
+            "correct": 1,
+            "id": "fe710ba15cb042b48b526299e062cac4"
+        },
+        {
+            "question": "I have had ………………. for a bit. I think I should go home now.",
+            "description": "",
+            "answers": [
+                "enough India",
+                "enough of India",
+                "India enough",
+                "enough India of"
+            ],
+            "correct": 1,
+            "id": "a122339993be44d9afbbb279638865df"
+        }
+    ]
+}

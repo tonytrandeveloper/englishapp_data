@@ -1,0 +1,116 @@
+{
+    "id": "9788ed6557a04969ae340a54c7ded979",
+    "title": "Auxiliary Verbs Exercise",
+    "questions": [
+        {
+            "question": "I will go to Chicago after I .................................... finished my work here.",
+            "description": "",
+            "answers": [
+                "has",
+                "have",
+                "had"
+            ],
+            "correct": 1,
+            "id": "885fea58f7bb4cf39971972998b4da9d"
+        },
+        {
+            "question": "She ........................................... playing the piano when I entered her room.",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "had"
+            ],
+            "correct": 1,
+            "id": "e46966425a3247d6bf351eed60334c08"
+        },
+        {
+            "question": "The patient .................................... died before the doctor came.",
+            "description": "",
+            "answers": [
+                "has",
+                "have",
+                "had"
+            ],
+            "correct": 2,
+            "id": "fc5739dece844215997b48647f4ff71f"
+        },
+        {
+            "question": "...................................... you ever been to Kashmir?",
+            "description": "",
+            "answers": [
+                "Did",
+                "Have",
+                "Had"
+            ],
+            "correct": 1,
+            "id": "7d8edcf55f3f4f8fbd7ff26b34d0abe2"
+        },
+        {
+            "question": "That is what he ......................................... not seem to understand.",
+            "description": "",
+            "answers": [
+                "do",
+                "does",
+                "did"
+            ],
+            "correct": 1,
+            "id": "69729626e339496180286ff9ff512f60"
+        },
+        {
+            "question": "They ....................................... say that they would pay up.",
+            "description": "",
+            "answers": [
+                "do",
+                "did",
+                "had"
+            ],
+            "correct": 1,
+            "id": "6a5aa56b83f44a2c82652104a7ba34da"
+        },
+        {
+            "question": "I will call you when dinner ........................................ ready.",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "has"
+            ],
+            "correct": 0,
+            "id": "77eb2a7819c44cec870ee2b6220a7b83"
+        },
+        {
+            "question": "She asked where I .................................. going.",
+            "description": "",
+            "answers": [
+                "am",
+                "was",
+                "have"
+            ],
+            "correct": 1,
+            "id": "b7bba8e548aa491f8d0c05ae2c257d80"
+        },
+        {
+            "question": "......................................... you know where John lives?",
+            "description": "",
+            "answers": [
+                "Do",
+                "Did",
+                "Does"
+            ],
+            "correct": 0,
+            "id": "ad5d0ab13f854e279b7ddb5558ca3a01"
+        },
+        {
+            "question": "I .......................................... admit that I was wrong.",
+            "description": "",
+            "answers": [
+                "do",
+                "have",
+                "does"
+            ],
+            "correct": 0,
+            "id": "f6bf1ca68e5f433686da38dbbe56014a"
+        }
+    ]
+}

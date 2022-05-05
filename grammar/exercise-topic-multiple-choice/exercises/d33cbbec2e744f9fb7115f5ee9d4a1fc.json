@@ -1,0 +1,138 @@
+{
+    "id": "d33cbbec2e744f9fb7115f5ee9d4a1fc",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "There was …………………………. hope.",
+            "description": "Use little with uncountable nouns.",
+            "answers": [
+                "little",
+                "few",
+                "many"
+            ],
+            "correct": 0,
+            "id": "0b624bf764e64c02827798f6237a912a"
+        },
+        {
+            "question": "Do you know …………………………. guy who works in Australia?",
+            "description": "",
+            "answers": [
+                "a",
+                "any",
+                "the"
+            ],
+            "correct": 1,
+            "id": "b2a1ce21b38e4690a0d9a96ff961a85b"
+        },
+        {
+            "question": "I met ………………………. pretty girls in the store.",
+            "description": "Much is used with uncountable nouns. Use some in affirmative sentences. ",
+            "answers": [
+                "any",
+                "some",
+                "much"
+            ],
+            "correct": 1,
+            "id": "bb31d10318994099948b41a8b0b728a3"
+        },
+        {
+            "question": "I have invited …………………………… my friends.",
+            "description": "Either all or all of can be used before a noun with a determiner. ",
+            "answers": [
+                "all",
+                "all of",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "71513edd3f6c4406a263b107cd1c9478"
+        },
+        {
+            "question": "I have invited …………………………… friend I have.",
+            "description": "Use all and some with plural nouns.",
+            "answers": [
+                "all",
+                "every",
+                "some"
+            ],
+            "correct": 1,
+            "id": "d380b3188f2d49a4a9930207b482e45f"
+        },
+        {
+            "question": "We can’t waste …………………….. more time on this.",
+            "description": "",
+            "answers": [
+                "any",
+                "some",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "116bbea9a77b4ab1a32dcb4291740594"
+        },
+        {
+            "question": "There is too ……………………….. salt in the soup.",
+            "description": "Use much with uncountable nouns.",
+            "answers": [
+                "many",
+                "much",
+                "few"
+            ],
+            "correct": 1,
+            "id": "66197b81a3264702839d71770ad1d5b6"
+        },
+        {
+            "question": "…………………………. birds can sing.",
+            "description": "",
+            "answers": [
+                "Most",
+                "All",
+                "Any"
+            ],
+            "correct": 0,
+            "id": "e5199b9522dd44cba582405759f11c76"
+        },
+        {
+            "question": "Should I add ………………………….. more salt to the soup?",
+            "description": "A little indicates a small number.",
+            "answers": [
+                "little",
+                "a little",
+                "the little"
+            ],
+            "correct": 1,
+            "id": "e8eadc30540747bead983e1e30cffd59"
+        },
+        {
+            "question": "Only ……………………… members voted in favor of the proposal.",
+            "description": "A few indicates a small number. A little indicates a small quantity.",
+            "answers": [
+                "few",
+                "a few",
+                "a little"
+            ],
+            "correct": 1,
+            "id": "69d46718003547ddad9a694958f35a24"
+        },
+        {
+            "question": "……………………….. money that I had was spent on drinks.",
+            "description": "",
+            "answers": [
+                "Little",
+                "A little",
+                "The little"
+            ],
+            "correct": 2,
+            "id": "da5f1b80c1954ad4bf15011af4d5e06e"
+        },
+        {
+            "question": "The ………………………. town was talking about the explosion.",
+            "description": "All goes before the article whole goes after the article. ",
+            "answers": [
+                "all",
+                "whole",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "33a3e2539e2b4a309c845f85ac7a4bdf"
+        }
+    ]
+}

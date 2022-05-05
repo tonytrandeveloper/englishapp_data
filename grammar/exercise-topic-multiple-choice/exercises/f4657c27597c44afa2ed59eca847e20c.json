@@ -1,0 +1,131 @@
+{
+    "id": "f4657c27597c44afa2ed59eca847e20c",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "………………………. my sons can drive.",
+            "description": "We use neither of before a noun with a determiner.",
+            "answers": [
+                "Neither",
+                "Neither of"
+            ],
+            "correct": 1,
+            "id": "918c6f762d654d40a96b89df2f9fc14a"
+        },
+        {
+            "question": "………………………….. them was there.",
+            "description": "We use neither of before a pronoun.",
+            "answers": [
+                "Neither",
+                "Neither of"
+            ],
+            "correct": 1,
+            "id": "118c18cc623744b99f5666e931b4c6c6"
+        },
+        {
+            "question": "………………………… answer is correct.",
+            "description": "Neither is used without of before a noun without a determiner.",
+            "answers": [
+                "Neither",
+                "Neither of"
+            ],
+            "correct": 0,
+            "id": "3338d6ebd8e348da8be7622f5b79c29f"
+        },
+        {
+            "question": "‘I can’t dance.’ ‘………………………. can I.’",
+            "description": "",
+            "answers": [
+                "Either",
+                "Neither"
+            ],
+            "correct": 1,
+            "id": "3bc41b7d8c3042ba8f69588c73595cdd"
+        },
+        {
+            "question": "‘She can’t swim.’ ‘I can’t ………………………’",
+            "description": "Can’t either means the same as neither can.",
+            "answers": [
+                "either",
+                "neither"
+            ],
+            "correct": 0,
+            "id": "6afe2260ae9849868cba9a7da7cff967"
+        },
+        {
+            "question": "I don’t travel ………………………… these days.",
+            "description": "Much can be used as an adverb.",
+            "answers": [
+                "much",
+                "a lot",
+                "very much"
+            ],
+            "correct": 0,
+            "id": "a4293a063676424d8b07840c8157a388"
+        },
+        {
+            "question": "I haven’t got ……………………….. time.",
+            "description": "Plenty of is mainly used in affirmative clauses.",
+            "answers": [
+                "plenty of",
+                "much",
+                "very much"
+            ],
+            "correct": 1,
+            "id": "e7153f4edb334357ae09c425e80267a8"
+        },
+        {
+            "question": "She has got ……………………………. women friends but she doesn’t know …………………..  men.",
+            "description": "Many is mainly used in negative and interrogative sentences. In affirmative clauses we prefer plenty of or a lot of.",
+            "answers": [
+                "many, a lot of",
+                "many, many",
+                "a lot of, many"
+            ],
+            "correct": 2,
+            "id": "d1859045dcb348578fc3cf7dd7f720cc"
+        },
+        {
+            "question": "You haven’t eaten ………………………….",
+            "description": "",
+            "answers": [
+                "many",
+                "a lot",
+                "much"
+            ],
+            "correct": 2,
+            "id": "ff5a729f6709454091b9c9a33b31b065"
+        },
+        {
+            "question": "…………………………. cheese is made from cow milk.",
+            "description": "We use most before a noun without a determiner. ",
+            "answers": [
+                "Most",
+                "Much",
+                ""
+            ],
+            "correct": 0,
+            "id": "ac1af991c8744433b54141f10b666674"
+        },
+        {
+            "question": "…………………………… my friends are non-smokers.",
+            "description": "We use most of before a noun with a determiner. ",
+            "answers": [
+                "Most",
+                "Most of"
+            ],
+            "correct": 1,
+            "id": "762512a28b624e7fb7f0f9995a98461b"
+        },
+        {
+            "question": "I won’t pass the exam. I could not answer ………………………….. the questions.",
+            "description": "",
+            "answers": [
+                "many",
+                "many of"
+            ],
+            "correct": 1,
+            "id": "2437ad5f2ac042c7a6e606690e625084"
+        }
+    ]
+}

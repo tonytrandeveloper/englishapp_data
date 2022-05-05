@@ -1,0 +1,132 @@
+{
+    "id": "6193efa41a5d4019b37fc29f1c3c80b7",
+    "title": "Simple Present Or Present Continuous",
+    "questions": [
+        {
+            "question": "Father …………………….. the newspaper every day after breakfast.",
+            "description": "The simple present is used to talk about habitual actions.",
+            "answers": [
+                "reads",
+                "read",
+                "is reading"
+            ],
+            "correct": 0,
+            "id": "904d0f67d29e4b4d9089fc104c2e9702"
+        },
+        {
+            "question": "We ……………………….. to church twice a week.",
+            "description": "The simple present is used to talk about habitual actions and routines.",
+            "answers": [
+                "go",
+                "are going",
+                "goes"
+            ],
+            "correct": 0,
+            "id": "7d2395f9d68345c6b58489a6bf057d19"
+        },
+        {
+            "question": "The child …………………………… with her dog.",
+            "description": "The present continuous is used to talk about an action or situation going on at the moment of speaking.",
+            "answers": [
+                "plays",
+                "is playing",
+                "play"
+            ],
+            "correct": 1,
+            "id": "3f634a1d2a4041ba8f524a464a4f835b"
+        },
+        {
+            "question": "She ………………………….. spending time with her dogs.",
+            "description": "The simple present is used to talk about likes, dislikes, habits, routines etc.",
+            "answers": [
+                "enjoy",
+                "is enjoying",
+                "enjoys"
+            ],
+            "correct": 2,
+            "id": "30e67318763846beb7dae2f40dcffde5"
+        },
+        {
+            "question": "My sister ………………………….. research in molecular biology.",
+            "description": "",
+            "answers": [
+                "does",
+                "is doing"
+            ],
+            "correct": 1,
+            "id": "896f5e4b36894973b1386c7571252188"
+        },
+        {
+            "question": "What …………………………. tomorrow?",
+            "description": "The present continuous is often used to talk about pre-planned future events.",
+            "answers": [
+                "do you do",
+                "are you doing"
+            ],
+            "correct": 1,
+            "id": "ff70ec5f28994c37989a7d5c4900634e"
+        },
+        {
+            "question": "Light ………………………… faster than sound.",
+            "description": "The simple present is used to talk about facts.",
+            "answers": [
+                "travel",
+                "travels",
+                "is traveling"
+            ],
+            "correct": 1,
+            "id": "3f950b2cd0f544c79135a857949890bb"
+        },
+        {
+            "question": "If she ……………………….. out, we will be in trouble.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause.",
+            "answers": [
+                "find",
+                "finds",
+                "is finding"
+            ],
+            "correct": 1,
+            "id": "b5b55d5d7830430186cb4bf2b1300210"
+        },
+        {
+            "question": "My uncle …………………………… tomorrow.",
+            "description": "The present continuous is often used to talk about future events, if the plan already exists. ",
+            "answers": [
+                "arrives",
+                "is arriving"
+            ],
+            "correct": 1,
+            "id": "88ffdb822e9346cf8f8664fc06ad72c1"
+        },
+        {
+            "question": "She …………………………. at a bank.",
+            "description": "The simple present is used for more permanent situations. ",
+            "answers": [
+                "works",
+                "is working"
+            ],
+            "correct": 0,
+            "id": "d73eb4c2570945508190b12023df310c"
+        },
+        {
+            "question": "She …………………………. a short term course in computer science at the moment.",
+            "description": "The present continuous is used for temporary situations. ",
+            "answers": [
+                "does",
+                "is doing"
+            ],
+            "correct": 1,
+            "id": "c5ea3885f6f34ac9bab99782d28bc16a"
+        },
+        {
+            "question": "He ……………………….  a lot.",
+            "description": "",
+            "answers": [
+                "is reading",
+                "reads"
+            ],
+            "correct": 1,
+            "id": "45168a995cd8428289d04c26f6348730"
+        }
+    ]
+}

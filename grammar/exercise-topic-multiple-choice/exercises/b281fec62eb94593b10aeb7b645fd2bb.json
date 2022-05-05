@@ -1,0 +1,126 @@
+{
+    "id": "b281fec62eb94593b10aeb7b645fd2bb",
+    "title": "There Is Or There Are",
+    "questions": [
+        {
+            "question": "There ……………………… an apple in the fridge if you are hungry.",
+            "description": "When the noun that follows there is singular, the verb is singular.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "2277230e9d454ba091850c72dbb0e267"
+        },
+        {
+            "question": "There ………………………….. lots of apples in the basket.",
+            "description": "When the noun that follows there is plural, the verb is plural.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "79d5430a97214ef2ab0603b6c80da2ab"
+        },
+        {
+            "question": "There ………………………… many children playing in the park.",
+            "description": "When the noun that follows there is plural, the verb is plural.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "0ff873bbfccf4df7b026b7b27025b28d"
+        },
+        {
+            "question": "There ………………………. many people who want to buy a car.",
+            "description": "When the noun that follows there is plural, the verb is plural.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "e5d13f27cf714049951692f50931238a"
+        },
+        {
+            "question": "There …………………………. many people like him.",
+            "description": "When the noun that follows there is plural, the verb is plural.",
+            "answers": [
+                "isn't",
+                "aren't"
+            ],
+            "correct": 1,
+            "id": "1eb9fb5d1c71435eb3fcada8c708484f"
+        },
+        {
+            "question": "There ……………………….. a lot of problems to solve.",
+            "description": "When the noun that follows there is plural, the verb is plural.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "efde482cb9e14b5eba279c14e8e17c87"
+        },
+        {
+            "question": "There ……………………….. a spider on the roof.",
+            "description": "When the noun that follows there is singular, the verb is singular.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "0bdfbb548e044c3f8dc86ad54e976d70"
+        },
+        {
+            "question": "There ……………………………. many students in the class.",
+            "description": "When the noun that follows there is plural, the verb is plural.",
+            "answers": [
+                "wasn't",
+                "weren't"
+            ],
+            "correct": 1,
+            "id": "fe1845da1b504302aab8a03e5cdb58a9"
+        },
+        {
+            "question": "……………………….. there anybody inside?",
+            "description": "When the noun that follows there is singular, the verb is singular.",
+            "answers": [
+                "Is",
+                "Are"
+            ],
+            "correct": 0,
+            "id": "8fbec0122f9e4a02a953c7cf2dfc140c"
+        },
+        {
+            "question": "There ………………………. few writers of his calibre.",
+            "description": "When the noun that follows there is plural, the verb is plural.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "5d03b75644ba487690ca8b4d6a201901"
+        },
+        {
+            "question": "………………………. there anything that we can do about this?",
+            "description": "When the noun that follows there is singular, the verb is singular.",
+            "answers": [
+                "Is",
+                "Are"
+            ],
+            "correct": 0,
+            "id": "c1fce3f757a24202ac6a04e514f59cd9"
+        },
+        {
+            "question": "There ……………………….. much to do.",
+            "description": "When the noun that follows there is singular, the verb is singular.",
+            "answers": [
+                "isn't",
+                "aren't"
+            ],
+            "correct": 0,
+            "id": "a2c61996ae5e4a388c13101822de7743"
+        }
+    ]
+}

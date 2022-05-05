@@ -1,0 +1,104 @@
+{
+    "id": "6ffc0de3b5644ce09f360743d3047161",
+    "title": "Verbs Exercise",
+    "questions": [
+        {
+            "question": "I saw him ................................ the money.",
+            "description": "The infinitive is used without to after see.",
+            "answers": [
+                "take",
+                "took",
+                "taking"
+            ],
+            "correct": 0,
+            "id": "31c9f1c1892b46b09aecbe56d4aae28a"
+        },
+        {
+            "question": "Yesterday I .............................. a new phone as my old one .................................. stolen.",
+            "description": "We use the past perfect for the earlier of two past actions. ",
+            "answers": [
+                "bought, had been",
+                "have bought, has been",
+                "had bought, were stolen"
+            ],
+            "correct": 0,
+            "id": "a61f755037ca49e1b4337760b50ee617"
+        },
+        {
+            "question": "They ..................................... a house in Delhi two months ago.",
+            "description": "",
+            "answers": [
+                "bought",
+                "have bought",
+                "had bought"
+            ],
+            "correct": 0,
+            "id": "7976f224584c410daa88efe8d62c32bf"
+        },
+        {
+            "question": "Ever since I .................................... my home, I ...................................... living here.",
+            "description": "The present perfect continuous is used to talk about actions or situations that started in the past and has continued up to the present. ",
+            "answers": [
+                "left, had been",
+                "left, have been",
+                "had left, am"
+            ],
+            "correct": 1,
+            "id": "51a66ba2910e49b8a4fab068fe1462d7"
+        },
+        {
+            "question": "She usually .................................. white clothes.",
+            "description": "The simple present is used to talk about habits. ",
+            "answers": [
+                "wearing",
+                "wears",
+                "was wearing"
+            ],
+            "correct": 1,
+            "id": "c9667a9e5db34c8eb956485dca9f8820"
+        },
+        {
+            "question": "I .................................. never forget what you just .................................... me.",
+            "description": "",
+            "answers": [
+                "will, told",
+                "would, told",
+                "will, tell"
+            ],
+            "correct": 0,
+            "id": "cd66d7bc8cc04480a0ff9072dbdf72fc"
+        },
+        {
+            "question": "I heard her ………………………………… in the next room.",
+            "description": "The infinitive is used without to after hear.",
+            "answers": [
+                "cry",
+                "to cry",
+                "to crying"
+            ],
+            "correct": 0,
+            "id": "9cb30d0ab39241f897da52e768988e06"
+        },
+        {
+            "question": "It’s time you …………………………………. that coat.",
+            "description": "We use a past tense after it’s time to refer to the present.",
+            "answers": [
+                "wash",
+                "washed",
+                "had washed"
+            ],
+            "correct": 1,
+            "id": "08d5695ebc5c44329242957b07e11f50"
+        },
+        {
+            "question": "He was ………………………………….. in the battle.",
+            "description": "Wounded is the past tense of wound.",
+            "answers": [
+                "wound",
+                "wounded"
+            ],
+            "correct": 1,
+            "id": "9e1923867ca94a40926ac0e92793d76c"
+        }
+    ]
+}

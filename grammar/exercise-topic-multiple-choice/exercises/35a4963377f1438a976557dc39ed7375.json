@@ -1,0 +1,139 @@
+{
+    "id": "35a4963377f1438a976557dc39ed7375",
+    "title": "Would, Used To Or Simple Past",
+    "questions": [
+        {
+            "question": "He …………….. smoke but now he has stopped.",
+            "description": "We use used to talk about past habits and states.",
+            "answers": [
+                "would",
+                "used to",
+                "smoked"
+            ],
+            "correct": 1,
+            "id": "6a6da6838a8148ff9305da88d563da17"
+        },
+        {
+            "question": "She ……….. always bring us nice gifts.",
+            "description": "Both would and used to can be used to talk about repeated actions in the past.",
+            "answers": [
+                "used to",
+                "would",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "8c09ca8a51404e09b13d78879dfe5987"
+        },
+        {
+            "question": "I ………………… go skiing but now I don’t.",
+            "description": "We use 'used to' to talk about past states. ",
+            "answers": [
+                "used to",
+                "would",
+                "was used to"
+            ],
+            "correct": 0,
+            "id": "a547593f0fee479eac8ac9bc81fb877b"
+        },
+        {
+            "question": "You used to hate him, ……………….?",
+            "description": "Used to is not used in the question tags. We use 'did' here because the statement is in the past tense. ",
+            "answers": [
+                "used you not",
+                "don't you",
+                "didn't you"
+            ],
+            "correct": 2,
+            "id": "698956d841874d959811e82923bf7b4e"
+        },
+        {
+            "question": "……………….. play basketball at college?",
+            "description": "In a formal style, used to is often used as a modal auxiliary verb. In this case, questions and negatives are made without do. In an informal style we make questions and negatives with do.",
+            "answers": [
+                "Used you to",
+                "Did you use to",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "657c7ce6b95c433d80fb4f9f2309fdf3"
+        },
+        {
+            "question": "I ………………… like classical music, but now I do.",
+            "description": "When we make negatives, not can go before or after to. Did not use to is also possible here in an informal style. ",
+            "answers": [
+                "did not use to",
+                "used not to",
+                "used to not",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "38523e2f6b92401ea390d16705f19228"
+        },
+        {
+            "question": "I …………………. have any interest in politics.",
+            "description": "Did not use to and used not to are possible here. Did not used to is not considered correct. ",
+            "answers": [
+                "did not use to",
+                "did not used to",
+                "used not to"
+            ],
+            "correct": 2,
+            "id": "47145cac88c044a89c844d46049bac64"
+        },
+        {
+            "question": "I …………….. in Mumbai for 13 years.",
+            "description": "We do not use ‘used to’ to simply say what happened at a past time or how long it took. Those meanings are expressed with the simple past.",
+            "answers": [
+                "lived",
+                "would live",
+                "used to live"
+            ],
+            "correct": 0,
+            "id": "71aece3b56954335a956b4fb97a7a1b4"
+        },
+        {
+            "question": "I ………………… be afraid of dogs.",
+            "description": "Would cannot be used to talk about past states.",
+            "answers": [
+                "would",
+                "used to",
+                "was used to"
+            ],
+            "correct": 1,
+            "id": "7ba24d1479604b56aed539fb44281f89"
+        },
+        {
+            "question": "I couldn’t understand them because I ………………… their accent.",
+            "description": "If you are not used to something, it is not familiar to you.",
+            "answers": [
+                "didn't use to",
+                "wasn't used to",
+                "used wasn't to"
+            ],
+            "correct": 1,
+            "id": "6170e76335864fdd8088c76aec9791c1"
+        },
+        {
+            "question": "It took me quite some time to get ………………… alone.",
+            "description": "We use an ing form after get used to. The infinitive is not possible in this structure.",
+            "answers": [
+                "used to live",
+                "used to living",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "fcebd9a8f9d34ef3ba66375dea6e1b81"
+        },
+        {
+            "question": "I …………….. to London twice last month.",
+            "description": "We do not use ‘used to’ to simply say what happened at a past time or how long it took. Those meanings are expressed with the simple past.",
+            "answers": [
+                "used to go",
+                "would go",
+                "went"
+            ],
+            "correct": 2,
+            "id": "3e787b9a07fe434aab4d1c57988c6509"
+        }
+    ]
+}

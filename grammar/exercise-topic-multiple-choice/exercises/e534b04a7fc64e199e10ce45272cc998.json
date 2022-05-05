@@ -1,0 +1,127 @@
+{
+    "id": "e534b04a7fc64e199e10ce45272cc998",
+    "title": "Words Commonly Confused",
+    "questions": [
+        {
+            "question": "I just read a story about a man without a ………………",
+            "description": "Shadow is the picture that forms when an area does not receive light.",
+            "answers": [
+                "shadow",
+                "shade"
+            ],
+            "correct": 0,
+            "id": "357c04550d7f48c6a4a082ea31dad134"
+        },
+        {
+            "question": "We are looking for some ……………… to sit in.",
+            "description": "Shade is the protection from the sun.",
+            "answers": [
+                "shade",
+                "shadow"
+            ],
+            "correct": 0,
+            "id": "6e601910b66a43e58e157bc9d896f970"
+        },
+        {
+            "question": "It was not a ……………… thing to do.",
+            "description": "If something is sensible, it makes common sense.",
+            "answers": [
+                "sensible",
+                "sensitive"
+            ],
+            "correct": 0,
+            "id": "2a3e4c70d19b42c781884bd383f251a3"
+        },
+        {
+            "question": "……………….. me to pay the bills.",
+            "description": "To remind someone is to make them remember.",
+            "answers": [
+                "Remind",
+                "Remember"
+            ],
+            "correct": 0,
+            "id": "22dfd169b5f442e484af472634a5059c"
+        },
+        {
+            "question": "You make me ……………… my mother.",
+            "description": "To remind is to make someone remember. The above sentence can also be written as:\r\nYou remind me of my mother.",
+            "answers": [
+                "remember",
+                "remind"
+            ],
+            "correct": 0,
+            "id": "93aa1763bb2d4e0d9708ea83e8e88f46"
+        },
+        {
+            "question": "Who discovered the ………………. of gravitation?",
+            "description": "A principle is a law or rule.",
+            "answers": [
+                "principle",
+                "principal"
+            ],
+            "correct": 0,
+            "id": "fe1528ccb5f3476a919dd179e17d61b3"
+        },
+        {
+            "question": "I have the ………………… to visit Dubai next year.",
+            "description": "",
+            "answers": [
+                "possibility",
+                "opportunity"
+            ],
+            "correct": 1,
+            "id": "be93dfb00dd0451b947b333b326691a9"
+        },
+        {
+            "question": "There is a/an ……………….. of my visiting Dubai next year.",
+            "description": "",
+            "answers": [
+                "possibility",
+                "opportunity"
+            ],
+            "correct": 0,
+            "id": "1c9ec4ea68d84bfaa1dd74e6c632e5d0"
+        },
+        {
+            "question": "I ……………….. the books on the table.",
+            "description": "To lay is to put down something carefully. Laid is its past tense form.",
+            "answers": [
+                "lain",
+                "lied",
+                "laid"
+            ],
+            "correct": 2,
+            "id": "d4b2dcaf761d4e9eb2fb7331e07a4a7e"
+        },
+        {
+            "question": "I will see you ……………… a few days.",
+            "description": "With a time expression, we use ‘in’ to mean ‘after now’.",
+            "answers": [
+                "in",
+                "later"
+            ],
+            "correct": 0,
+            "id": "0eb8aa5562b04a7eb0454bb970296f90"
+        },
+        {
+            "question": "She has a ………………….. way of walking.",
+            "description": "Funny is something that makes you laugh.",
+            "answers": [
+                "fun",
+                "funny"
+            ],
+            "correct": 1,
+            "id": "bf44c09965704ecbb845e506929d4e59"
+        },
+        {
+            "question": "I will be staying …………….. the weekend.",
+            "description": "We use until to talk about a situation that continues up to a certain moment. We use by to say that an event will happen at or before a future moment.",
+            "answers": [
+                "until",
+                "by"
+            ],
+            "correct": 0,
+            "id": "71c6bb190d924650a60b06d9f4fcaad6"
+        }
+    ]
+}

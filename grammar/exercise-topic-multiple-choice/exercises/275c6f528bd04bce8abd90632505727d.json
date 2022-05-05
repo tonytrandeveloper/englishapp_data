@@ -1,0 +1,104 @@
+{
+    "id": "275c6f528bd04bce8abd90632505727d",
+    "title": "The Simple Present Tense Exercise",
+    "questions": [
+        {
+            "question": "I ……………… eight glasses of water every day.",
+            "description": "",
+            "answers": [
+                "drink",
+                "drinks",
+                "drank"
+            ],
+            "correct": 0,
+            "id": "3793acdab2db4db6bd97d1662c0242c1"
+        },
+        {
+            "question": "My sister ……………… as a nurse.",
+            "description": "",
+            "answers": [
+                "work",
+                "works",
+                "working"
+            ],
+            "correct": 1,
+            "id": "6867c5a76a1145d7aaafc76f0a7026bb"
+        },
+        {
+            "question": "My daughter ………………… beautifully.",
+            "description": "",
+            "answers": [
+                "sing",
+                "sings",
+                "singing"
+            ],
+            "correct": 1,
+            "id": "4544d2ae97d94070babc6dae331aac86"
+        },
+        {
+            "question": "Father ……………… delicious meals every Sunday.",
+            "description": "",
+            "answers": [
+                "cook",
+                "cooks",
+                "cooking"
+            ],
+            "correct": 1,
+            "id": "c6525d68d00f4a8ca9547666308e4ad3"
+        },
+        {
+            "question": "Birds …………………. in trees.",
+            "description": "",
+            "answers": [
+                "live",
+                "lives"
+            ],
+            "correct": 0,
+            "id": "5e2471e56c91495e8d8f8f5309c1c97f"
+        },
+        {
+            "question": "Cows ………………. on grass.",
+            "description": "",
+            "answers": [
+                "feed",
+                "feeds",
+                "feeding"
+            ],
+            "correct": 0,
+            "id": "ac6e23f6ac53466daa9202b126c34527"
+        },
+        {
+            "question": "Plants ……………….. their food with the help of sunlight.",
+            "description": "",
+            "answers": [
+                "make",
+                "makes",
+                "making"
+            ],
+            "correct": 0,
+            "id": "06600e6d3abd481c81ea046f0468ed05"
+        },
+        {
+            "question": "Like poles ………………..",
+            "description": "",
+            "answers": [
+                "attract",
+                "attracts",
+                "attracting"
+            ],
+            "correct": 0,
+            "id": "54cc7e598ee74766884d445f64981ec9"
+        },
+        {
+            "question": "We ………………. our country.",
+            "description": "",
+            "answers": [
+                "love",
+                "loves",
+                "loving"
+            ],
+            "correct": 0,
+            "id": "5c108f548fdb43c7a06e7c485bd68e9f"
+        }
+    ]
+}

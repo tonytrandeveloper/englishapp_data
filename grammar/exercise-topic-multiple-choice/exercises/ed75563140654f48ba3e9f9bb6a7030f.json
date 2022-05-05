@@ -1,0 +1,104 @@
+{
+    "id": "ed75563140654f48ba3e9f9bb6a7030f",
+    "title": "Omission of Prepositions",
+    "questions": [
+        {
+            "question": "....................... color are her eyes?",
+            "description": "",
+            "answers": [
+                "What",
+                "Of what",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "906ca054a5fb46cf933b897a1fc0b224"
+        },
+        {
+            "question": "I am going ………………..",
+            "description": "",
+            "answers": [
+                "home",
+                "to home",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d4e32fabc9e14e02a862adc81ad0b4d2"
+        },
+        {
+            "question": "I have no place to ………………….",
+            "description": "",
+            "answers": [
+                "go",
+                "go to",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "06341b6279a6463e94dea3364433922e"
+        },
+        {
+            "question": "We need a place to ......................",
+            "description": "",
+            "answers": [
+                "live",
+                "live in",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c08c2798f3e0476f9b8ae56db56535f2"
+        },
+        {
+            "question": "This is the house .......................",
+            "description": "",
+            "answers": [
+                "that I told you about",
+                "about which I told you",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "2f0457962e684f37b9dd14592d005ad7"
+        },
+        {
+            "question": "She is …………………. age as me.",
+            "description": "",
+            "answers": [
+                "the same",
+                "of the same",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "0c49d1d4ec1444509a594bfd25ef5f31"
+        },
+        {
+            "question": "Come ………………. you like.",
+            "description": "",
+            "answers": [
+                "any day",
+                "on any day",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "6944ac50ed96490b98e96fda6001c81c"
+        },
+        {
+            "question": "The train is now …………………. Victoria Terminus.",
+            "description": "",
+            "answers": [
+                "approaching",
+                "approaching to"
+            ],
+            "correct": 0,
+            "id": "8d1189923d47427b9d0e03e40d4a08fb"
+        },
+        {
+            "question": "………………….. is your appointment?",
+            "description": "",
+            "answers": [
+                "What day",
+                "On what day",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "40a6c0710c8246d1b65fbbe20d0a680f"
+        }
+    ]
+}

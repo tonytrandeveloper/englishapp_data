@@ -1,0 +1,127 @@
+{
+    "id": "d9443e4f677a436181ddaa6698a8f672",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "I have just …………………. the work.",
+            "description": "Begun is the past participle of begin. We use the past participle form of the verb after has/have.",
+            "answers": [
+                "began",
+                "begun",
+                "begin"
+            ],
+            "correct": 1,
+            "id": "bc17a08093f54eb794a5cbc76523e15d"
+        },
+        {
+            "question": "I …………………. David Copperfield.",
+            "description": "The present perfect is commonly used to talk about a finished event when its time is not mentioned.",
+            "answers": [
+                "read",
+                "have read",
+                "had read"
+            ],
+            "correct": 1,
+            "id": "a6c43dab4e7a446486302531ae8d388c"
+        },
+        {
+            "question": "I ……………………….. my lunch.",
+            "description": "The present perfect is used to talk about finished events whose effect is still felt in the present.",
+            "answers": [
+                "have",
+                "had",
+                "have had"
+            ],
+            "correct": 2,
+            "id": "c7d281ed058e46c2b80f2a389fc0cc8e"
+        },
+        {
+            "question": "I ………………………….. him for a long time.",
+            "description": "The present perfect is common with the time expressions since and for.",
+            "answers": [
+                "know",
+                "knew",
+                "have known"
+            ],
+            "correct": 2,
+            "id": "a354ba84170c4ce28e4f412f737351d4"
+        },
+        {
+            "question": "He ………………………….. to his native place yesterday.",
+            "description": "The simple past is the most normal tense for talking about finished events.",
+            "answers": [
+                "went",
+                "has gone",
+                "had gone"
+            ],
+            "correct": 0,
+            "id": "7f03c8c1a73948cd9916220ac63106bd"
+        },
+        {
+            "question": "He ………………………… a lot for me when he was alive.",
+            "description": "The present perfect is more common when there is no time reference.",
+            "answers": [
+                "did",
+                "has done",
+                "had done"
+            ],
+            "correct": 0,
+            "id": "1a6c40385bf04712bb7fd216fff34803"
+        },
+        {
+            "question": "I ………………………… the Taj Mahal.",
+            "description": "",
+            "answers": [
+                "never saw",
+                "have never seen",
+                "never see"
+            ],
+            "correct": 1,
+            "id": "cd46b35f7b8a489ab96ee8b5e14442e2"
+        },
+        {
+            "question": "He …………………………. ill since last week.",
+            "description": "The present perfect is used to talk about an action or situation that started in the past and has continued up to the present. ",
+            "answers": [
+                "has been",
+                "was",
+                "is"
+            ],
+            "correct": 0,
+            "id": "168f1922e1a24345bfc034e0d6e222bf"
+        },
+        {
+            "question": "They …………………………… the marks yet.",
+            "description": "",
+            "answers": [
+                "did not calculate",
+                "have not calculated",
+                "had not calculated"
+            ],
+            "correct": 1,
+            "id": "bcb9b56cb4614a9f9cbc8a4828bd48e9"
+        },
+        {
+            "question": "I ………………………….. two movies since morning.",
+            "description": "",
+            "answers": [
+                "watched",
+                "have watched",
+                "had watched"
+            ],
+            "correct": 1,
+            "id": "c3ee0d8ad4c4420b977cc19464c7d1a7"
+        },
+        {
+            "question": "I …………………….. for an hour and then I went home.",
+            "description": "",
+            "answers": [
+                "waited",
+                "have waited",
+                "had waited"
+            ],
+            "correct": 0,
+            "id": "ead2e2f954bd4c978de8d03b6ee932b8"
+        }
+    ]
+}

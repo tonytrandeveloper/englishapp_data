@@ -1,0 +1,117 @@
+{
+    "id": "167be1437b9846999dbe88fe032df37f",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "I know a man …………………………….. has just been to Australia.",
+            "description": "",
+            "answers": [
+                "who",
+                "whose",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "0f5c5fd3d1c949619084a578230d9f08"
+        },
+        {
+            "question": "Show me the road ………………………. leads to the railway station.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "Either which or that"
+            ],
+            "correct": 2,
+            "id": "d3b6ee07685342bb8743558fd1e4608a"
+        },
+        {
+            "question": "Here is the doctor …………………………. cured me of Typhoid.",
+            "description": "",
+            "answers": [
+                "who",
+                "which",
+                "that",
+                "Either who or that"
+            ],
+            "correct": 3,
+            "id": "8e06200981934fb48763ce4fd49739d6"
+        },
+        {
+            "question": "He…………………………. does his best should be rewarded.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "eb93b4b759aa4e41b5fbaf8d36d7b465"
+        },
+        {
+            "question": "Wellington, …………………………. defeated Napoleon at the Battle of Waterloo, was a great general.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "that"
+            ],
+            "correct": 0,
+            "id": "d8d4cb2bdd09409d837c970caedfb6d6"
+        },
+        {
+            "question": "He is a rascal ………………………….. no one trusts.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 1,
+            "id": "0545e9c970fd430596d4a7ddf82c01ba"
+        },
+        {
+            "question": "The boy ……………………………… you saw yesterday is my nephew.",
+            "description": "",
+            "answers": [
+                "whom",
+                "that",
+                "which"
+            ],
+            "correct": 1,
+            "id": "c3a8583ae3554f3c9c2ce08d336cf9aa"
+        },
+        {
+            "question": "The man ………………………………… stole the money has been arrested.",
+            "description": "",
+            "answers": [
+                "who",
+                "that",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "f38ee4fb20b0408fb51473c436a74c2f"
+        },
+        {
+            "question": "This is the house………………………… was built in two weeks.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "5d9595e776aa4f87b2f87729b0de1bd9"
+        },
+        {
+            "question": "The news ……………………………… I heard astonished me.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "who"
+            ],
+            "correct": 0,
+            "id": "15e6679fe2694afea7169dfa68b99927"
+        }
+    ]
+}

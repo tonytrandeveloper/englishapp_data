@@ -1,0 +1,128 @@
+{
+    "id": "e1f717f9e3ed4efd9fddb2db4f1f2915",
+    "title": "Subject-Verb Agreement",
+    "questions": [
+        {
+            "question": "The orator and philosopher ………………….. dead.",
+            "description": "Here the article is used only once and hence both nouns refer to the same person. Therefore, we need a singular verb here.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "c33267e8350b47a3b6f81ba7ed8e5b9f"
+        },
+        {
+            "question": "The artist and the poet …………………….. arrived.",
+            "description": "Here the article the is used before both the nouns and hence they refer to different people. Therefore, we use a plural verb here.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "5885a51334e3406a81e81eae6f3ab0d8"
+        },
+        {
+            "question": "The long and the short of the matter ……………………….. that we cannot continue like this.",
+            "description": "When two subjects together express one idea, the verb is usually singular in number.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "24b8953395cb42c58d7ef2e1265a946e"
+        },
+        {
+            "question": "Every man and woman …………………………. a vote.",
+            "description": "When singular subjects are preceded by each or every, the verb is usually singular.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "c86e3568612e4704b891afe9b89eac19"
+        },
+        {
+            "question": "Neither Peter nor Harry ………………………… passed the exam.",
+            "description": "Two or more singular subjects connected by neither … nor take a singular verb.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "bcbf9098268a497b9c9fcca84732dfc2"
+        },
+        {
+            "question": "No nook or corner …………………………. left unexplored.",
+            "description": "Two or more singular subjects connected by or takes a singular verb.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "2dffe0d5430741ed8b55373a70543a50"
+        },
+        {
+            "question": "Either John or Sam ……………………….. to quit.",
+            "description": "Two or more singular subjects connected by either…or… take a singular verb.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "7e10e35dec704fcb8779eb4e371e56e3"
+        },
+        {
+            "question": "Either you or I ………………………. mistaken.",
+            "description": "When the subjects joined by or or nor are of different persons, the verb agrees in person with the subject nearest to it.",
+            "answers": [
+                "am",
+                "are",
+                "is"
+            ],
+            "correct": 0,
+            "id": "54ea784981764e9e81642f4b66fbefb6"
+        },
+        {
+            "question": "He is not to blame, nor ……………………… you.",
+            "description": "When the subjects joined by or or nor are of different persons, the verb agrees in person with the subject nearest to it.",
+            "answers": [
+                "is",
+                "are",
+                "have"
+            ],
+            "correct": 1,
+            "id": "3e9759c9783d4213877db19d8fb45289"
+        },
+        {
+            "question": "You and he ………………………… birds of the same feather.",
+            "description": "When two singular pronouns are connected by and, the verb is plural.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "adf1728ac34e4f68988e62f2d4754428"
+        },
+        {
+            "question": "My father and I ………………………. lived here for many years.",
+            "description": "When two nouns are connected by and, the verb is plural.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "8b077508dc7145adb7eb2edf58fe6a7c"
+        },
+        {
+            "question": "Neither praise nor censure ………………………. to bother him.",
+            "description": "Two or more singular subjects connected by neither … nor take a singular verb.",
+            "answers": [
+                "seem",
+                "seems"
+            ],
+            "correct": 1,
+            "id": "37c43a656aa747f19410e9045ac777e2"
+        }
+    ]
+}

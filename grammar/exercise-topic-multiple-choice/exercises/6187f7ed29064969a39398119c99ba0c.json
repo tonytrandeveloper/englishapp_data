@@ -1,0 +1,137 @@
+{
+    "id": "6187f7ed29064969a39398119c99ba0c",
+    "title": "Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "I have finished the job. / The job .............................. by me.",
+            "description": "",
+            "answers": [
+                "has finished",
+                "has been finished",
+                "had been finished"
+            ],
+            "correct": 1,
+            "id": "9c14ad4bdecc471b83b3291defbdaa7f"
+        },
+        {
+            "question": "The cat has drunk the milk. / The milk ............................ by the cat.",
+            "description": "",
+            "answers": [
+                "has drunk",
+                "has been drunk",
+                "had been drunk"
+            ],
+            "correct": 1,
+            "id": "8bb02d9296f74b25b2d30f679f2b4097"
+        },
+        {
+            "question": "The girls have plucked the flowers. / The flowers ...................... by her.",
+            "description": "",
+            "answers": [
+                "have plucked",
+                "have been plucked",
+                "had been plucked"
+            ],
+            "correct": 1,
+            "id": "a3ae5e9515f74c90813b3bdbcfda3e53"
+        },
+        {
+            "question": "I have watched that movie. / That movie .......................... by me.",
+            "description": "",
+            "answers": [
+                "have been watched",
+                "has been watched",
+                "had watched"
+            ],
+            "correct": 1,
+            "id": "4484915e1e164dff85395060c0885f28"
+        },
+        {
+            "question": "Peter has broken another window. / Another window ..................... by Peter.",
+            "description": "",
+            "answers": [
+                "has broken",
+                "has been broken",
+                "had been broken"
+            ],
+            "correct": 1,
+            "id": "cdb189ab40a94950b154a246069cd2f8"
+        },
+        {
+            "question": "I have written six letters. / Six letters ....................... by me.",
+            "description": "",
+            "answers": [
+                "have written",
+                "have been written",
+                "has been written"
+            ],
+            "correct": 1,
+            "id": "da84e8cacf40494fbbd87075378546f8"
+        },
+        {
+            "question": "Have you received the parcel? / ........................... by you?",
+            "description": "",
+            "answers": [
+                "Has the parcel been received",
+                "Have the parcel been received",
+                "Have the parcel received"
+            ],
+            "correct": 0,
+            "id": "11a9e3f7bb8c4d6c9c741e7c5ac34e3b"
+        },
+        {
+            "question": "Have they accepted the invitation? / Has the invitation ................ by them?",
+            "description": "",
+            "answers": [
+                "accepted",
+                "been accepted"
+            ],
+            "correct": 1,
+            "id": "74eba95dc13f4decacc4d7f7a73b293c"
+        },
+        {
+            "question": "I have known her for a long time. / She ........................ to me for a long time.",
+            "description": "",
+            "answers": [
+                "has known",
+                "has been known",
+                "is known"
+            ],
+            "correct": 1,
+            "id": "31bc586dd334491099cf3f3065444baa"
+        },
+        {
+            "question": "Our team has won the championship. / The championship ........................ by our team.",
+            "description": "",
+            "answers": [
+                "has won",
+                "has been won",
+                "have been won"
+            ],
+            "correct": 1,
+            "id": "51cef8ae9d5b46948d71734890e5734c"
+        },
+        {
+            "question": "She has mended her ways. / Her ways ................................. by her.",
+            "description": "",
+            "answers": [
+                "have mended",
+                "have been mended",
+                "has been mended"
+            ],
+            "correct": 1,
+            "id": "23755ce7f15b45a4b8c43c09ea0ae3ba"
+        },
+        {
+            "question": "I have cooked dinner. / Dinner ....................... by me.",
+            "description": "",
+            "answers": [
+                "has cooked",
+                "has been cooked",
+                "had been cooked"
+            ],
+            "correct": 1,
+            "id": "ad9a5b4af9294885b27d6647155b4a2f"
+        }
+    ]
+}

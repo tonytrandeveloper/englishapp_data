@@ -1,0 +1,76 @@
+{
+    "id": "1dcbaae269d54e61a52c6d2d1396f836",
+    "title": "Too...To And So...That",
+    "questions": [
+        {
+            "question": "He is ................................. poor to buy clothes.",
+            "description": "",
+            "answers": [
+                "too",
+                "so"
+            ],
+            "correct": 0,
+            "id": "7cf5bc1f4e2d490e8c0043e3b978b294"
+        },
+        {
+            "question": "He is ........................................ good a man to offend anyone.",
+            "description": "",
+            "answers": [
+                "so",
+                "too"
+            ],
+            "correct": 1,
+            "id": "52516c5854f542dc82f0fabf79461a6d"
+        },
+        {
+            "question": "I am ................................ busy to talk to you.",
+            "description": "",
+            "answers": [
+                "too",
+                "so"
+            ],
+            "correct": 0,
+            "id": "2aa5a355c09e4714a1702eba46aabff2"
+        },
+        {
+            "question": "I am ............................. tired that I cannot climb the steps.",
+            "description": "",
+            "answers": [
+                "so",
+                "too"
+            ],
+            "correct": 0,
+            "id": "63a12741ebaf4a959c975f6df93e4349"
+        },
+        {
+            "question": "The officer is ................................. honest that he will not take bribes.",
+            "description": "",
+            "answers": [
+                "so",
+                "too"
+            ],
+            "correct": 0,
+            "id": "ce110fa4da564cd1b6fce23b3e400ad6"
+        },
+        {
+            "question": "His grades are ..................................... low to secure admission in a prestigious college.",
+            "description": "",
+            "answers": [
+                "too",
+                "so"
+            ],
+            "correct": 0,
+            "id": "0572ef65fba24ca5944c79e4c6073793"
+        },
+        {
+            "question": "The problem is ........................ complex to be solved easily.",
+            "description": "",
+            "answers": [
+                "too",
+                "to"
+            ],
+            "correct": 0,
+            "id": "166d9e5f62694c37a842d776413c4c00"
+        }
+    ]
+}

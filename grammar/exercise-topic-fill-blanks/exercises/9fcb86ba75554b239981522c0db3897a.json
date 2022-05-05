@@ -1,0 +1,382 @@
+{
+    "id": "9fcb86ba75554b239981522c0db3897a",
+    "title": "A Little / A Few Exercise 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I have"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "a little"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "water left. There's enough to share."
+                }
+            ],
+            "id": "10b28081218e496ab383e8388463c6a6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I have"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "a few"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "good friends. I'm not lonely."
+                }
+            ],
+            "id": "cc087fa95e9e4d0d91bbbaffb2243b49"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He has"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "little"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "education. He can't read or write, and he can hardly count."
+                }
+            ],
+            "id": "ff0fe783426844038530e205867632f4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There are"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "few"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "people she really trusts. It's a bit sad."
+                }
+            ],
+            "id": "267a539361704cae83b95fbb97b40b60"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We've got"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "a little"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "time at the weekend. Would you like to meet?"
+                }
+            ],
+            "id": "8a5ab58cf50f446a9b53572960e64a50"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie gave us"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "a few"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "apples from her garden. Shall we share them?"
+                }
+            ],
+            "id": "3d63c6391cd64d72a0cf4855f79702d5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She has"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "little"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "self-confidence. She has a lot of trouble talking to new people."
+                }
+            ],
+            "id": "0d6b644b94e64d6d913d1d57eca86e99"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There are"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "few"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "women politicians in the UK. Many people think there should be more."
+                }
+            ],
+            "id": "9bdc6150c9e848c99042dfbc4e82fe06"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's a great pity, but the hospital has"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "little"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "medicine. They can't help many people."
+                }
+            ],
+            "id": "f464b919f1124879935bcfe204cc5b45"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I've got"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "a few"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "cakes to give away. Would you like one?"
+                }
+            ],
+            "id": "760ee8296586443180f0f6f485bd3d2a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There's"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "a little"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "milk left in the fridge. It should be enough for our coffee."
+                }
+            ],
+            "id": "057f33843ff74bdf9ca1da1e15b28e31"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Few"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "children from this school go on to university, unfortunately."
+                }
+            ],
+            "id": "6d0926e89df047218bb01b31b6f22535"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do you need information on English grammar? I have"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "a few"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "books on the topic if you would like to borrow them."
+                }
+            ],
+            "id": "9c6a621b96bb4337b174acf4fd8d501c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She's lucky. She has"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "few"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "problems."
+                }
+            ],
+            "id": "19d737c3c4d74d0f8ae552d74aafe3f0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "London has"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "little"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "sunshine in the winter. That's why so many British people go on holiday to sunny places!"
+                }
+            ],
+            "id": "f82555fa7a264393bb95aefcd4bf2624"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There's"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "a little"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "spaghetti left in the cupboard. Shall we eat it tonight?"
+                }
+            ],
+            "id": "e5b6a1c7f4bf42449d4758616a6c3527"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There are"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "few"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "programmes on television that I want to watch. I prefer to download a film or read a book."
+                }
+            ],
+            "id": "3d3ca4ff7a5e4962a5e72c8ac3a76245"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He has"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "little"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "free time. He hardly ever even manages to call his mother!"
+                }
+            ],
+            "id": "4c58d36037524b7ca3c5bfcf05832a61"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Unfortunately, I have"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "a few"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "problems at the moment."
+                }
+            ],
+            "id": "1811d049c7de4711b7018a6d244b42f8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Are you thirsty? There's"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "a little"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "juice left in this bottle, if you'd like it."
+                }
+            ],
+            "id": "1c8fa7c701ed42ff9da803c62d819565"
+        }
+    ]
+}

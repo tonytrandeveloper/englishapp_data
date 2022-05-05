@@ -1,0 +1,135 @@
+{
+    "id": "12ba9608a2d64174808d70e544574abc",
+    "title": "Confusing Words Exercise",
+    "questions": [
+        {
+            "question": "I …………………………….. him 1000 dollars.",
+            "description": "To lend is to loan. Lent is the past tense of lend.",
+            "answers": [
+                "lent",
+                "lended",
+                "borrowed"
+            ],
+            "correct": 0,
+            "id": "6d3c4c35336a42b4a16d56ca9d36a91a"
+        },
+        {
+            "question": "The cute smile …………………………. her face a childlike charm.",
+            "description": "",
+            "answers": [
+                "lended",
+                "lent",
+                "borrowed"
+            ],
+            "correct": 1,
+            "id": "dffc6cb4fc6143dbaa90dae3290ee977"
+        },
+        {
+            "question": "We …………………………. our full support to the project.",
+            "description": "Lend can also mean add or give.",
+            "answers": [
+                "borrowed",
+                "lent"
+            ],
+            "correct": 1,
+            "id": "0195827bc6574a47be1529aa6cdabd55"
+        },
+        {
+            "question": "Can you …………………………. me a few hundred dollars?",
+            "description": "To lend money is to loan money. ",
+            "answers": [
+                "lend",
+                "lent",
+                "borrow"
+            ],
+            "correct": 0,
+            "id": "c4f2541614c14a07b61b443440fab364"
+        },
+        {
+            "question": "Can I ……………………….. a hundred dollars from you until payday?",
+            "description": "You lend money to somebody you borrow money from somebody. ",
+            "answers": [
+                "lent",
+                "borrow",
+                "lend"
+            ],
+            "correct": 1,
+            "id": "4cf8d67b7e704692b126d19f0449805a"
+        },
+        {
+            "question": "You can ………………………… my car but you have to bring it back before 10 pm.",
+            "description": "",
+            "answers": [
+                "borrow",
+                "lend",
+                "lent"
+            ],
+            "correct": 0,
+            "id": "6b38380163d14f97bc95532357b3dae1"
+        },
+        {
+            "question": "My sister always ………………………… me when we play badminton.",
+            "description": "To beat somebody is to defeat them.",
+            "answers": [
+                "wins",
+                "beats",
+                "loses"
+            ],
+            "correct": 1,
+            "id": "f50ea21134c8456c9883eb64ab4cab1c"
+        },
+        {
+            "question": "I always ………………………….. when we play chess.",
+            "description": "Beat needs an object. Either win or lose can be used here with opposite meanings. ",
+            "answers": [
+                "beat",
+                "win",
+                "lose"
+            ],
+            "correct": 2,
+            "id": "cd7e9af208c744f397a41604213f370c"
+        },
+        {
+            "question": "The doctor …………………………. me to eat more fruits and vegetables.",
+            "description": "Advise is a verb advice is a noun.",
+            "answers": [
+                "adviced",
+                "advised"
+            ],
+            "correct": 1,
+            "id": "5c0ab33d1c924c9cace21fabf834035b"
+        },
+        {
+            "question": "………………………… my cat was such a harrowing experience for me.",
+            "description": "When you lose someone, you are unable to find them.",
+            "answers": [
+                "Losing",
+                "Loosing",
+                "Missing"
+            ],
+            "correct": 0,
+            "id": "4e8ca7b24df0462d8fd1fed16c71dc5f"
+        },
+        {
+            "question": "He ………………………… my vacuum cleaner and broke it.",
+            "description": "",
+            "answers": [
+                "borrowed",
+                "lent"
+            ],
+            "correct": 0,
+            "id": "992e2a9ac96640e084f97eb24054f108"
+        },
+        {
+            "question": "I terribly …………………………. my lost cat.",
+            "description": "To miss somebody is to be unhappy about their absence. ",
+            "answers": [
+                "miss",
+                "lose",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "8eacde36120c42cbb4e8fdcc7e8409de"
+        }
+    ]
+}

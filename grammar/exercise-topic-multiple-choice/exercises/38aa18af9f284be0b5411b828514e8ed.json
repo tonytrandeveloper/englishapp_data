@@ -1,0 +1,126 @@
+{
+    "id": "38aa18af9f284be0b5411b828514e8ed",
+    "title": "Infinitive With Or Without To",
+    "questions": [
+        {
+            "question": "I was not allowed ………………………. to them.",
+            "description": "Allow is followed by an infinitive with to. ",
+            "answers": [
+                "talk",
+                "to talk"
+            ],
+            "correct": 1,
+            "id": "77fe46d7ec36419687f0674ad14c74f8"
+        },
+        {
+            "question": "Please let me …………………………",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "explain",
+                "to explain"
+            ],
+            "correct": 0,
+            "id": "9d21770915144c83ae8ac62ad400adde"
+        },
+        {
+            "question": "You should ……………………….. with me.",
+            "description": "The infinitive is used without to after modals. ",
+            "answers": [
+                "come",
+                "to come"
+            ],
+            "correct": 0,
+            "id": "583dd13be93142f697c9da7691bae6db"
+        },
+        {
+            "question": "That story made me ………………………….",
+            "description": "Make is followed by an infinitive without to. ",
+            "answers": [
+                "cry",
+                "to cry"
+            ],
+            "correct": 0,
+            "id": "951722d93b0741d192b6a91f8184f8ec"
+        },
+        {
+            "question": "He was made ………………………….",
+            "description": "When make is used in the passive voice, it is followed by an infinitive with to.",
+            "answers": [
+                "to apologize",
+                "apologize"
+            ],
+            "correct": 0,
+            "id": "5f31215738654a6f9d7c48a878aee670"
+        },
+        {
+            "question": "Are you able …………………………….. the bird?",
+            "description": "Be able is followed by a to-infinitive. ",
+            "answers": [
+                "see",
+                "to see"
+            ],
+            "correct": 1,
+            "id": "156451069e7445a0a23df3fa8b532afc"
+        },
+        {
+            "question": "I won’t ………………………. it.",
+            "description": "The infinitive is used without to after modals.",
+            "answers": [
+                "buy",
+                "to buy"
+            ],
+            "correct": 0,
+            "id": "2fcd99ea5c51449ea7d41553043eff18"
+        },
+        {
+            "question": "I forgot .................... the check.",
+            "description": "Forget is followed by an infinitive with to.",
+            "answers": [
+                "sign",
+                "to sign"
+            ],
+            "correct": 1,
+            "id": "3a683a266c6e42d0af8ea9c9da56b7ad"
+        },
+        {
+            "question": "You need not …………………………….. about me.",
+            "description": "When need is used as an auxiliary verb, it is followed by an infinitive without to.",
+            "answers": [
+                "worry",
+                "to worry"
+            ],
+            "correct": 0,
+            "id": "f796cfb79abc48f790f0433f6bee4808"
+        },
+        {
+            "question": "You don’t need ………………………….. for me.",
+            "description": "When need is an ordinary verb, it is followed by an infinitive with to.",
+            "answers": [
+                "wait",
+                "to wait"
+            ],
+            "correct": 1,
+            "id": "90717066171848ffad20b1153cdc986e"
+        },
+        {
+            "question": "She refused ......................... with us.",
+            "description": "",
+            "answers": [
+                "come",
+                "to come"
+            ],
+            "correct": 1,
+            "id": "4b51c4a39d794c239354ab2343ef4b30"
+        },
+        {
+            "question": "She was forced …………………………",
+            "description": "Force is followed by an infinitive with to. ",
+            "answers": [
+                "confess",
+                "to confess"
+            ],
+            "correct": 1,
+            "id": "c5b3955def6343eb89994f463c0647bc"
+        }
+    ]
+}

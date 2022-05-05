@@ -1,0 +1,138 @@
+{
+    "id": "7d5756a866374327927889ec83c75520",
+    "title": "Active And Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "They have been informed by us. We …………………………… them.",
+            "description": "The active verb in the present perfect has the form: have/have + past participle.",
+            "answers": [
+                "are informed",
+                "have informed",
+                "informed"
+            ],
+            "correct": 1,
+            "id": "27301e7a72ee449f83c0fa8951f071ec"
+        },
+        {
+            "question": "The milk was drunk by the cat. The cat …………………………. the milk.",
+            "description": "Was drunk is the passive form of drank. ",
+            "answers": [
+                "has drunk",
+                "drank",
+                "drunk"
+            ],
+            "correct": 1,
+            "id": "3d6108cd53b14cfd9ec16b88ab6e107f"
+        },
+        {
+            "question": "The missing child has been found. They ………………………….. the missing child.",
+            "description": "Has been found is the passive form of has/have found. ",
+            "answers": [
+                "found",
+                "has found",
+                "have found"
+            ],
+            "correct": 2,
+            "id": "b5fef749d58646b2a5e7277d0fd1f247"
+        },
+        {
+            "question": "The injured were taken to hospital. They …………………………… the injured to hospital.",
+            "description": "Were taken is the passive form of took.",
+            "answers": [
+                "took",
+                "have taken",
+                "had taken"
+            ],
+            "correct": 0,
+            "id": "ea4a60a6631a46b5b7e69b1cc4e03f38"
+        },
+        {
+            "question": "The winners were praised by all. All people ………………………………. the winners.",
+            "description": "Were praised is the passive form of praised. ",
+            "answers": [
+                "have praised",
+                "praised",
+                "are praising"
+            ],
+            "correct": 1,
+            "id": "e088330c5c8b403ea95bfad09d207daf"
+        },
+        {
+            "question": "The hall is being decorated. They ……………………………… the hall.",
+            "description": "Is being decorated is the passive form of is/are decorating.",
+            "answers": [
+                "decorating",
+                "are decorating",
+                "have decorated"
+            ],
+            "correct": 1,
+            "id": "621e2962b01744f89f4e4ae8d6208965"
+        },
+        {
+            "question": "The man was bitten by the dog. The dog ……………………….. the man.",
+            "description": "Was bitten is the passive form of bit. ",
+            "answers": [
+                "bitten",
+                "has bitten",
+                "bit"
+            ],
+            "correct": 2,
+            "id": "466d5899c637443fabbdaaa1f7e61c28"
+        },
+        {
+            "question": "A large house is owned by her. She ……………………………. a large house.",
+            "description": "Is owned is the passive form of own/owns.",
+            "answers": [
+                "owns",
+                "is owning",
+                "has owned"
+            ],
+            "correct": 0,
+            "id": "be48e8d941424239a126356affef3536"
+        },
+        {
+            "question": "A laptop was bought by her. She ………………………….. a laptop.",
+            "description": "Was bought is the passive form of bought. ",
+            "answers": [
+                "bought",
+                "has bought",
+                "had bought"
+            ],
+            "correct": 0,
+            "id": "96d4c6edc48748a88edfe1a3c95eacad"
+        },
+        {
+            "question": "The match will be won by us. We …………………………….. the match.",
+            "description": "Will be won is the passive form of will win. ",
+            "answers": [
+                "will be winning",
+                "will win",
+                "would win"
+            ],
+            "correct": 1,
+            "id": "83ac82dcb9424f2981ed23b22db6415d"
+        },
+        {
+            "question": "The house is being built. They ……………………………. the house.",
+            "description": "Is being built is the passive form of is/are building. ",
+            "answers": [
+                "building",
+                "are building",
+                "are being built"
+            ],
+            "correct": 1,
+            "id": "6332d6e57a5645cd9855d35fdd0be84b"
+        },
+        {
+            "question": "It is being investigated. We …………………………………. it.",
+            "description": "Is being investigated is the passive form of is / are investigating. ",
+            "answers": [
+                "are investigating",
+                "are investigated",
+                "investigated"
+            ],
+            "correct": 0,
+            "id": "3077ea1c44004cc9b580ab6d8647dfa9"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "id": "a6eb2e68a8ed4c4a99ad05db746b6006",
+    "title": "Degree Modifiers Exercise",
+    "questions": [
+        {
+            "question": "She is ………………….. nuisance.",
+            "description": "",
+            "answers": [
+                "quite a",
+                "a quite",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "b506255ae57c4284ac941270a43f42d7"
+        },
+        {
+            "question": "The situation is ..................... .",
+            "description": "",
+            "answers": [
+                "very serious",
+                "very much serious",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "476e5cbd3101444cbe2e1f41386faf65"
+        },
+        {
+            "question": "It is ...................... cold.",
+            "description": "",
+            "answers": [
+                "very",
+                "much",
+                "very much"
+            ],
+            "correct": 0,
+            "id": "e2cc189cfb544386b748b2ecccaaab45"
+        },
+        {
+            "question": "She is ………………… than her husband.",
+            "description": "We can use 'much older' or 'very much older' here. ",
+            "answers": [
+                "much older",
+                "very much older",
+                "very older"
+            ],
+            "correct": 1,
+            "id": "87f5110f7c864a0294e231f5dd5ea5cc"
+        },
+        {
+            "question": "This movie is …………………. interesting.",
+            "description": "",
+            "answers": [
+                "quite",
+                "quite more",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ba7cb4608b7f4d82bd776a1a7936d511"
+        },
+        {
+            "question": "You are …………………..",
+            "description": "",
+            "answers": [
+                "too good",
+                "too much good",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "90ece56686074fc0bfc9561e206eb732"
+        },
+        {
+            "question": "I don’t care ..................... expensive it is.",
+            "description": "",
+            "answers": [
+                "how",
+                "how much",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "17dd6cf4775c4eae89b4e1d1d1e2e706"
+        },
+        {
+            "question": "Today is ..................... than yesterday.",
+            "description": "We can use 'much colder' or 'very much colder' here.",
+            "answers": [
+                "very colder",
+                "much colder",
+                "very much colder",
+                "All of the above"
+            ],
+            "correct": 2,
+            "id": "a9dc291c2fa54ed8ad883838d062e813"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": "e9ea6351590e4912991ab7bc17bbe6a6",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "I don't like ....................... of my physics teachers.",
+            "description": "Not either means the same as neither. The sentence given above can also be written as: I like neither of my physics teachers. ",
+            "answers": [
+                "either",
+                "neither",
+                "both"
+            ],
+            "correct": 0,
+            "id": "71621e65353f4ae49015c911ccd26fc6"
+        },
+        {
+            "question": "........................... people don't trust politicians.",
+            "description": "We use most of before a pronoun or a noun with a determiner. ",
+            "answers": [
+                "Most",
+                "Most of"
+            ],
+            "correct": 0,
+            "id": "96303e3bb8aa48a4bb709b837cb4148e"
+        },
+        {
+            "question": "Neither .......................................... the door.",
+            "description": "After either and neither we use a singular noun and a singular verb. ",
+            "answers": [
+                "keys open",
+                "key opens",
+                "key open"
+            ],
+            "correct": 1,
+            "id": "170debb17d314021a4bfac215d6e53ee"
+        },
+        {
+            "question": "Neither of .......................................... valid.",
+            "description": "After neither of, we use a plural noun and a singular verb. ",
+            "answers": [
+                "this argument is",
+                "these arguments is",
+                "these arguments are"
+            ],
+            "correct": 1,
+            "id": "93c537e5fd5a4933b0c65e9c7aa1cfb8"
+        },
+        {
+            "question": "....................... the shops are closed on Sundays.",
+            "description": "We use most before a noun without a determiner. ",
+            "answers": [
+                "Most",
+                "Most of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "6fafe888b6ca4f4ba9ad42c828587a66"
+        },
+        {
+            "question": "They spend ........................... their income on movies.",
+            "description": "We can leave out of after all, both and half. ",
+            "answers": [
+                "half",
+                "half of",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "834f956dee834187a8f1ff71494ec923"
+        },
+        {
+            "question": "................................. my friends wished me on my birthday.",
+            "description": "",
+            "answers": [
+                "No one of",
+                "None of",
+                "None"
+            ],
+            "correct": 1,
+            "id": "5079bab840b940d0a1459d3c1a271fc0"
+        },
+        {
+            "question": ".................. child was given a present.",
+            "description": "",
+            "answers": [
+                "Each",
+                "Each of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "619933e6b81e4a7bb5d8da39ce9d83a5"
+        },
+        {
+            "question": ".................................. his ideas are quite interesting.",
+            "description": "We can leave out 'of' after all when they are followed by nouns. ",
+            "answers": [
+                "All",
+                "All of",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "25cda905da5e4ef9bcd199a2f3bf8f70"
+        },
+        {
+            "question": "................................ my children are engineers.",
+            "description": "We can leave out 'of' after both when they are followed by nouns. ",
+            "answers": [
+                "Both",
+                "Both of",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c7ae659ab28e40c3b150d66839a2c68a"
+        },
+        {
+            "question": "His ideas are ............................ different from those of his peers.",
+            "description": "",
+            "answers": [
+                "little",
+                "less",
+                "least"
+            ],
+            "correct": 0,
+            "id": "8b0e05fbbad24608aef067d82b208331"
+        },
+        {
+            "question": "The new job isn't ............................... different from the old one.",
+            "description": "",
+            "answers": [
+                "many",
+                "much",
+                "most"
+            ],
+            "correct": 1,
+            "id": "ed833c9cde694e848e50c46c1ed161c8"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "id": "8447d018a74a416ea76bb4f04fcb6354",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The government should take immediate action, ………………… the problem of child labor should grow worse.",
+            "description": "",
+            "answers": [
+                "for",
+                "because",
+                "lest"
+            ],
+            "correct": 2,
+            "id": "fdf07a64b0744400b334daab22371c32"
+        },
+        {
+            "question": "I would like to spend …………………. working.",
+            "description": "",
+            "answers": [
+                "less my time",
+                "less of my time"
+            ],
+            "correct": 1,
+            "id": "59d54d299ab24e759668a5368f384974"
+        },
+        {
+            "question": "I was …………………. impressed by his behavior.",
+            "description": "",
+            "answers": [
+                "not the least",
+                "not in the least"
+            ],
+            "correct": 1,
+            "id": "fc3ad0d668ee42b7867da6929de58897"
+        },
+        {
+            "question": "She does not mind working late ………………..",
+            "description": "",
+            "answers": [
+                "the least",
+                "in the least"
+            ],
+            "correct": 1,
+            "id": "71834b8e9b14467ca8af4fde214e29c6"
+        },
+        {
+            "question": "………………….. holidays are often the most interesting.",
+            "description": "",
+            "answers": [
+                "The least expensive",
+                "Least expensive"
+            ],
+            "correct": 0,
+            "id": "a070e106f56e4fae93eeadc7d72d1319"
+        },
+        {
+            "question": "It is time you ………………….. to behave.",
+            "description": "",
+            "answers": [
+                "learn",
+                "learnt"
+            ],
+            "correct": 1,
+            "id": "fc8b51b18698414f9d58689025663be6"
+        },
+        {
+            "question": "…………………. have been pretty hectic for me.",
+            "description": "",
+            "answers": [
+                "The last days",
+                "The last few days"
+            ],
+            "correct": 1,
+            "id": "a1c95da89b024c1fb24bd469ebce987f"
+        },
+        {
+            "question": "This is the last letter you …………………. from me.",
+            "description": "",
+            "answers": [
+                "get",
+                "will get"
+            ],
+            "correct": 1,
+            "id": "2207ac58de60454c8b0be81171b8d668"
+        },
+        {
+            "question": "I will see you ………………….",
+            "description": "",
+            "answers": [
+                "in a few days",
+                "a few days later"
+            ],
+            "correct": 0,
+            "id": "3bbd19f228bb40c59249d8ca302672b1"
+        },
+        {
+            "question": "‘You’re late.’ ‘I ……………….’",
+            "description": "",
+            "answers": [
+                "know",
+                "know it"
+            ],
+            "correct": 0,
+            "id": "1e00d3693d144493905192379b0ae972"
+        }
+    ]
+}

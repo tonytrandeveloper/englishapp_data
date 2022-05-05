@@ -1,0 +1,126 @@
+{
+    "id": "7f28674f4ab744178b6af046d46fefdf",
+    "title": "Confusing words exercise",
+    "questions": [
+        {
+            "question": "Do you know ................................. Samuel lives?",
+            "description": "Where is a question word indicating place. Were is a primary auxiliary verb used to make the past continuous and simple past tense forms.",
+            "answers": [
+                "where",
+                "were"
+            ],
+            "correct": 0,
+            "id": "a0055f7723db4349b0697ac5fc65876f"
+        },
+        {
+            "question": "How many people ............................ there at the party?",
+            "description": "Where is a question word indicating place. Were is a primary auxiliary verb used to make the past continuous and simple past tense forms.",
+            "answers": [
+                "were",
+                "where"
+            ],
+            "correct": 0,
+            "id": "f1577312bf8c4ee681cd9f7042d37d18"
+        },
+        {
+            "question": "The dog has had ................................ breakfast.",
+            "description": "It's means it is or it has. Its is a possessive word like his or her.",
+            "answers": [
+                "it's",
+                "its"
+            ],
+            "correct": 1,
+            "id": "3b32f0eee84b4f97b4317542892e1ce7"
+        },
+        {
+            "question": "............................... time you stopped reading my letters.",
+            "description": "It's means it is or it has. Its is a possessive word like his or her.",
+            "answers": [
+                "Its",
+                "It's"
+            ],
+            "correct": 1,
+            "id": "a52f978a743f4dc1b4df0d38a710e268"
+        },
+        {
+            "question": "There is a .................................. in my socks.",
+            "description": "Whole means complete. It is similar to all. A hole is an opening in something.",
+            "answers": [
+                "whole",
+                "hole"
+            ],
+            "correct": 1,
+            "id": "363cfed74ff242978c2b4720000557f9"
+        },
+        {
+            "question": "I spent the .............................. week at home.",
+            "description": "Whole means complete. It is similar to all. A hole is an opening in something.",
+            "answers": [
+                "hole",
+                "whole"
+            ],
+            "correct": 1,
+            "id": "d6c379416ae641229abb4a6aa971adad"
+        },
+        {
+            "question": "It was a decision ............................... importance I didn't realize at that time.",
+            "description": "Whose is a possessive word meaning 'of which'. Who's is the contraction of who is or who has.",
+            "answers": [
+                "whose",
+                "who's"
+            ],
+            "correct": 0,
+            "id": "fd358348e0654650b476c4cd246eddba"
+        },
+        {
+            "question": "Do you know anybody ............................ going to Japan next month?",
+            "description": "Who's means who is or who has. Whose is a possessive word meaning 'of which'.",
+            "answers": [
+                "whose",
+                "who's"
+            ],
+            "correct": 1,
+            "id": "b8114e6d6f8b407ebd24e8ebaab1a3f2"
+        },
+        {
+            "question": "They have never invited us to ................................ parties.",
+            "description": "Their is a possessive word like his or here. There is the opposite of here. It indicates position. ",
+            "answers": [
+                "their",
+                "there"
+            ],
+            "correct": 0,
+            "id": "b1e955af78f445d98a4612a7a5231798"
+        },
+        {
+            "question": "Take a ................................... of paper and jot down this number.",
+            "description": "A piece is a portion separated from the whole. Peace is freedom from fear, anxiety or war.",
+            "answers": [
+                "peace",
+                "piece"
+            ],
+            "correct": 1,
+            "id": "9044a49403f743a18639d08f32c32f3b"
+        },
+        {
+            "question": "The war ...................................... oil prices.",
+            "description": "Affect is a verb. It has a past simple form - affected. Effect is a noun. It has a plural form - effects",
+            "answers": [
+                "affected",
+                "effected"
+            ],
+            "correct": 0,
+            "id": "9188ab765d604d70b8cefa4007bc0594"
+        },
+        {
+            "question": "The cold weather had an adverse ................................ on my health.",
+            "description": "Affect is a verb. Effect is a noun.",
+            "answers": [
+                "affect",
+                "effect"
+            ],
+            "correct": 1,
+            "id": "b7853b2d24a543c088e287feb1cb6967"
+        }
+    ]
+}

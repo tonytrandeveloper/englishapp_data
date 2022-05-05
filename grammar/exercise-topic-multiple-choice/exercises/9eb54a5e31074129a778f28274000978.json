@@ -1,0 +1,138 @@
+{
+    "id": "9eb54a5e31074129a778f28274000978",
+    "title": "Food Idioms Exercise",
+    "questions": [
+        {
+            "question": "The interview was as easy as ........................... and I am confident of getting the job.",
+            "description": "If something is as easy as pie, it is very easy.",
+            "answers": [
+                "pie",
+                "cake",
+                "sauce"
+            ],
+            "correct": 0,
+            "id": "a594d2deb479495884c5581b53f27503"
+        },
+        {
+            "question": "She seems to have a ................................. in every pie.",
+            "description": "To have a finger in every pie is to be involved in so many things. ",
+            "answers": [
+                "hand",
+                "finger",
+                "foot"
+            ],
+            "correct": 1,
+            "id": "9874426a2bbc4c73a61b7449018d5fbc"
+        },
+        {
+            "question": "I thought the exam would be hard but it was a piece of ................................",
+            "description": "If something is a piece of cake, it is very easy to do.",
+            "answers": [
+                "pie",
+                "cake",
+                "cream"
+            ],
+            "correct": 1,
+            "id": "14e7b13b47504ce3836db17526d9be7c"
+        },
+        {
+            "question": "Her dream of becoming a famous model remained a ................................ in the sky.",
+            "description": "A pie in the sky is an unrealistic dream.",
+            "answers": [
+                "star",
+                "pie",
+                "hole"
+            ],
+            "correct": 1,
+            "id": "45f87e344c7448a298c9189e8f6eeff9"
+        },
+        {
+            "question": "It was a half-............................ plan, so I was not surprised when it failed.",
+            "description": "A half baked plan is something that is not thought through. ",
+            "answers": [
+                "boiled",
+                "cooked",
+                "baked"
+            ],
+            "correct": 2,
+            "id": "9dcd1ecf032d48a58b9a9e994f15dddb"
+        },
+        {
+            "question": "My landlady is as ................................. as a fruitcake. I can't get on with her anymore.",
+            "description": "As nutty as a fruitcake means very crazy.",
+            "answers": [
+                "sour",
+                "nutty",
+                "sweet"
+            ],
+            "correct": 1,
+            "id": "ae7b5eb7704d400a9894a8e8e8ba3f4a"
+        },
+        {
+            "question": "They were selling clothes for ................................ at the garage sale.",
+            "description": "For peanuts means cheap.",
+            "answers": [
+                "doughnuts",
+                "peanuts",
+                "nuts"
+            ],
+            "correct": 1,
+            "id": "f5b705a7bcff458893e43202c119a676"
+        },
+        {
+            "question": "Although his project failed he was too proud to eat ...............................",
+            "description": "To eat crow is to admit that you made a mistake.",
+            "answers": [
+                "crow",
+                "chicken",
+                "hen"
+            ],
+            "correct": 0,
+            "id": "6392178fa3b744218c061938e80837cc"
+        },
+        {
+            "question": "If you are a rich kid you may be used to getting everything handed to you on a ............................... platter.",
+            "description": "",
+            "answers": [
+                "silver",
+                "gold",
+                "platinum"
+            ],
+            "correct": 0,
+            "id": "50c1957beebe4b7c8aa1b7d968c84118"
+        },
+        {
+            "question": "It is crucial to work hard. Keep in mind that there is no such thing as a free ..............................",
+            "description": "",
+            "answers": [
+                "breakfast",
+                "lunch",
+                "dinner"
+            ],
+            "correct": 1,
+            "id": "5928f4cfd2454f4389cb6dc57f32fb8b"
+        },
+        {
+            "question": "She would never have participated in that beauty contest if her parents hadn't ................................... her on.",
+            "description": "To egg someone on is to encourage them.",
+            "answers": [
+                "zeroed",
+                "egged",
+                "oiled"
+            ],
+            "correct": 1,
+            "id": "66c45f0f962145d09ce62ae31713eec5"
+        },
+        {
+            "question": "I need a job to bring home the ………………………..",
+            "description": "To bring home the bacon is to earn money to live. ",
+            "answers": [
+                "chicken",
+                "mutton",
+                "bacon"
+            ],
+            "correct": 2,
+            "id": "6fa8159049924405bd4e8e2908c69c46"
+        }
+    ]
+}

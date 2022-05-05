@@ -1,0 +1,137 @@
+{
+    "id": "b63ddd42e0a0498b9d3ed4b29278652d",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "She was anxious ……………………………… her husband hadn’t returned yet.",
+            "description": "Because gives the reason for something.",
+            "answers": [
+                "because",
+                "so",
+                "while"
+            ],
+            "correct": 0,
+            "id": "52c762f9adc2459eae2321f644c23afa"
+        },
+        {
+            "question": "……………………………… you miss another deadline, you will be sacked.",
+            "description": "If expresses a condition.",
+            "answers": [
+                "If",
+                "Unless",
+                "Whether"
+            ],
+            "correct": 0,
+            "id": "e55e68b6792c48e199ccb9e828c15908"
+        },
+        {
+            "question": "…………………………… he is old, he cannot walk properly.",
+            "description": "As gives the reason.",
+            "answers": [
+                "As",
+                "Though",
+                "Like"
+            ],
+            "correct": 0,
+            "id": "79f8fbfa795446dfbeaa7ebab4100185"
+        },
+        {
+            "question": "He is neither kind …………………………. friendly.",
+            "description": "Note the pattern neither...nor...",
+            "answers": [
+                "or",
+                "and",
+                "nor"
+            ],
+            "correct": 2,
+            "id": "6a979fe0d4c7456eb1b9b4592f9c276c"
+        },
+        {
+            "question": "I will not permit this …………………………… it is against my principles.",
+            "description": "Because indicates the reason.",
+            "answers": [
+                "because",
+                "hence",
+                "so"
+            ],
+            "correct": 0,
+            "id": "26cbc3fa8f92481b8dd5574e05d7d683"
+        },
+        {
+            "question": "You can go ……………………………. you have finished that report.",
+            "description": "",
+            "answers": [
+                "if",
+                "after",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "0a10025d353f4818b26a881d35cadb55"
+        },
+        {
+            "question": "……………………………. you are not feeling well, I will take you to the doctor.",
+            "description": "If expresses a condition.",
+            "answers": [
+                "If",
+                "Until",
+                "Whether"
+            ],
+            "correct": 0,
+            "id": "2ddf1cb56b254e5ca8018022292c685f"
+        },
+        {
+            "question": "………………………………… I pleaded for help, he didn’t move.",
+            "description": "Even though is used to emphasize a contrast.",
+            "answers": [
+                "Even if",
+                "Even though",
+                "If"
+            ],
+            "correct": 1,
+            "id": "9411d07233d546a0b431cb2882f08313"
+        },
+        {
+            "question": "She worked ................................... hard that her health deteriorated.",
+            "description": "We use so before an adjective.",
+            "answers": [
+                "so",
+                "such"
+            ],
+            "correct": 0,
+            "id": "fa5b1724c4ba46d2ad56d8ddc6d21feb"
+        },
+        {
+            "question": "The faster you run, ……………………………. you get tired.",
+            "description": "The comparative is used in both clauses in this structure. ",
+            "answers": [
+                "sooner",
+                "the sooner",
+                "the soon"
+            ],
+            "correct": 1,
+            "id": "cec9f0ad00e440deb1b3853a792aaf94"
+        },
+        {
+            "question": "…………………………. he was the most popular candidate, he got eliminated in the first round itself.",
+            "description": "Though is used to connect two contrasting ideas.",
+            "answers": [
+                "Though",
+                "Since",
+                "As"
+            ],
+            "correct": 0,
+            "id": "ec61b4f845544d1093e80ac54d365823"
+        },
+        {
+            "question": "This is the store ………………………….. they sell fish.",
+            "description": "Where means in which.",
+            "answers": [
+                "which",
+                "that",
+                "where"
+            ],
+            "correct": 2,
+            "id": "05db062347c64ba88b127ec1abb0843a"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "id": "27f4ab9fba2044ab8ab3e395318a8824",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "She seems nice. ………………… .., I don’t really like her.",
+            "description": "",
+            "answers": [
+                "Even so",
+                "Even though"
+            ],
+            "correct": 0,
+            "id": "49a615eb704e4686838ebb1ed0919be4"
+        },
+        {
+            "question": "…………………. I become a millionaire, I will always be a socialist.",
+            "description": "",
+            "answers": [
+                "Even if",
+                "Although"
+            ],
+            "correct": 0,
+            "id": "1f9ba64aeb6641f5920fa3872e2bcb19"
+        },
+        {
+            "question": "‘Are you interested in going to university?’ ‘Yes, I ………………’",
+            "description": "",
+            "answers": [
+                "would like",
+                "would like to"
+            ],
+            "correct": 1,
+            "id": "cabe6a25ded24e528cd4fce256df0a7e"
+        },
+        {
+            "question": "I’ll try to phone you …………………… the meeting.",
+            "description": "",
+            "answers": [
+                "in",
+                "during"
+            ],
+            "correct": 1,
+            "id": "a6dd447b9f0445358bc54736dd4d5bca"
+        },
+        {
+            "question": "I woke up …………………… the night.",
+            "description": "",
+            "answers": [
+                "in",
+                "during",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "eea239833ed34355b5a4d17119571647"
+        },
+        {
+            "question": "I couldn’t recognize him because he was dressed …………….. a dark suit.",
+            "description": "",
+            "answers": [
+                "in",
+                "with"
+            ],
+            "correct": 0,
+            "id": "6d7fc325a25840ec894f9b3a48aaccdb"
+        },
+        {
+            "question": "………………… the bad weather, the match was cancelled.",
+            "description": "",
+            "answers": [
+                "Because",
+                "Due to",
+                "In spite of"
+            ],
+            "correct": 1,
+            "id": "09c9e16fc19b4cc4b37573331d0b1f44"
+        },
+        {
+            "question": "I’ve been to ………………….. too many places recently.",
+            "description": "",
+            "answers": [
+                "rather",
+                "quite"
+            ],
+            "correct": 0,
+            "id": "7e0d5ff4ebd64f3a9d09278c0eb5e0b3"
+        },
+        {
+            "question": "It was a …………………. unpleasant experience.",
+            "description": "",
+            "answers": [
+                "quite",
+                "rather"
+            ],
+            "correct": 1,
+            "id": "41533f54493b49eca8528c35767cbf72"
+        },
+        {
+            "question": "He’s not ………………….. to be a soldier.",
+            "description": "",
+            "answers": [
+                "tall enough",
+                "enough tall"
+            ],
+            "correct": 0,
+            "id": "b8fe0d9b4f424064b45bd5273dc5ec63"
+        }
+    ]
+}

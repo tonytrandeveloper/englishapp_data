@@ -1,0 +1,134 @@
+{
+    "id": "74af9e2b5e1842e0bb6878200207b440",
+    "title": "Gap Filling Exercise",
+    "questions": [
+        {
+            "question": "His parents ………………………… when he was a child.",
+            "description": "Died is the past tense of die.",
+            "answers": [
+                "died",
+                "dead",
+                "dies"
+            ],
+            "correct": 0,
+            "id": "3d7d27cacf5343f5ae1566d067e5a08c"
+        },
+        {
+            "question": "He was declared ……………………….. on arrival.",
+            "description": "Dead is an adjective. Died is a verb. ",
+            "answers": [
+                "died",
+                "dead"
+            ],
+            "correct": 1,
+            "id": "0adb6849b8e74e10880c41617d8f4246"
+        },
+        {
+            "question": "I ………………………… in",
+            "description": "The simple past is used when we say when something happened.",
+            "answers": [
+                "am born",
+                "was born",
+                "have born"
+            ],
+            "correct": 1,
+            "id": "86ae028079ea47b18f63d95eaf21e7cb"
+        },
+        {
+            "question": "Let’s ……………………………. your plans.",
+            "description": "Discuss is one of those verbs that are not followed by a preposition.",
+            "answers": [
+                "discuss",
+                "discuss about"
+            ],
+            "correct": 0,
+            "id": "fae50d65ab214690a3b7d396a720ff5c"
+        },
+        {
+            "question": "Though she was in town, she didn’t ………………………… a visit.",
+            "description": "",
+            "answers": [
+                "pay to me",
+                "pay me"
+            ],
+            "correct": 1,
+            "id": "523de40ad3724859be7031b2f01cdeb2"
+        },
+        {
+            "question": "You haven’t …………………………… for the drinks.",
+            "description": "Paid is the past participle of pay. ",
+            "answers": [
+                "payed",
+                "paid",
+                "pay"
+            ],
+            "correct": 1,
+            "id": "80444e33af8d405fafd3a051cff2d224"
+        },
+        {
+            "question": "She is looking forward …………………………… a grandmother.",
+            "description": "Write to + ing form after look forward.",
+            "answers": [
+                "to become",
+                "to becoming",
+                "to becomes"
+            ],
+            "correct": 1,
+            "id": "4fc1b129139e4083bd3396daa0e51f33"
+        },
+        {
+            "question": "…………………………. big city New York is!",
+            "description": "Use what a before a noun + adjective.",
+            "answers": [
+                "How",
+                "What a",
+                "What"
+            ],
+            "correct": 1,
+            "id": "9f867fe0069047508ea34f8358c73972"
+        },
+        {
+            "question": "She didn’t tell me where …………………………. that night.",
+            "description": "The inverted word order is not used in indirect questions. ",
+            "answers": [
+                "she was",
+                "was she"
+            ],
+            "correct": 0,
+            "id": "d92e9ab1bf2d4181bb3760809db84588"
+        },
+        {
+            "question": "You ……………………… stop smoking.",
+            "description": "",
+            "answers": [
+                "had better",
+                "have better",
+                "better"
+            ],
+            "correct": 0,
+            "id": "3da5198ff00644b19cbd180774acdb3d"
+        },
+        {
+            "question": "If you applied in time, you …………………………… the job.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would/could + first form of the verb in the main clause.",
+            "answers": [
+                "can get",
+                "could get",
+                "could have got"
+            ],
+            "correct": 1,
+            "id": "f8c3d9578c954f5983765812e7f99a9d"
+        },
+        {
+            "question": "If I know the answer, I …………………………… tell you.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause.",
+            "answers": [
+                "will",
+                "would",
+                "could"
+            ],
+            "correct": 0,
+            "id": "4e2091e2d98c455eb9a1c228ab57f2e4"
+        }
+    ]
+}

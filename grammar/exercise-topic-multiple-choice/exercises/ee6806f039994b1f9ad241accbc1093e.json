@@ -1,0 +1,112 @@
+{
+    "id": "ee6806f039994b1f9ad241accbc1093e",
+    "title": "Subject-verb agreement quiz",
+    "questions": [
+        {
+            "question": "Our team ………………… going to lose the match.",
+            "description": "Collective nouns are normally used with singular verbs especially when we are talking about the group as a whole. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "39faccf887144a73996795d49d5e4cc9"
+        },
+        {
+            "question": "A number of people ………………… tried to find the treasure.",
+            "description": "We normally use plural verbs with expressions like 'a number of people' or 'most of us'.",
+            "answers": [
+                "has",
+                "have",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "b4116cbdef9442c4bd9fdfb04c233b02"
+        },
+        {
+            "question": "The majority of criminals …………………. non-violent.",
+            "description": "",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here."
+            ],
+            "correct": 1,
+            "id": "192b07cf2e004d7c974328d81ed6a66f"
+        },
+        {
+            "question": "A lot of social problems ………………… caused by poverty.",
+            "description": "If we use a plural noun after 'a lot of', the verb is also plural.",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "30505c93c1564641be5531c755cd0bf4"
+        },
+        {
+            "question": "A couple of my friends ………………… going to open a travel agency.",
+            "description": "",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "173df89f8b974272b722bac6f2cc20a4"
+        },
+        {
+            "question": "One of my friends ……………….. going to Venezuela.",
+            "description": "Here the subject is the singular expression 'one', so we need a singular verb here. ",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ef617268b7384d1e97aa64479530cbd9"
+        },
+        {
+            "question": "Wasps ..................... a serious problem in our garden.",
+            "description": "The noun 'wasps' is plural and hence it requires a plural verb.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "76e012c0bc7745eea128bdefa54f5978"
+        },
+        {
+            "question": "A good knowledge of three languages ..................... necessary for this job.",
+            "description": "Here the subject is the singular expression 'a good knowledge'.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "b7e67384557744cb85e05c900dc1ea7e"
+        },
+        {
+            "question": "The police ……………….. looking for a balding man in his forties.",
+            "description": "The noun 'police' is always used with plural verbs.",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "88a05999041a4908bf7599f3e902df18"
+        },
+        {
+            "question": "Many cattle ……………….. died because of the drought.",
+            "description": "The noun cattle is plural and hence it requires a plural verb.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "6ccddd5a791d400993529ba3d338d4ba"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "id": "25d5245da1364b5c8e8cce28e0b6abf0",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "One day scientists will ......................... find a cure for cancer.",
+            "description": "'Be able to' and 'can' can both be used to talk about ability. After will 'can' cannot be used. Only be able to is possible. ",
+            "answers": [
+                "can",
+                "able to",
+                "be able to",
+                "have been able to"
+            ],
+            "correct": 2,
+            "id": "fba4400b230e4f2a9fbbda87abbce55d"
+        },
+        {
+            "question": "You are interested in the offer, .........................?",
+            "description": "We use a negative tag after an affirmative statement. The auxiliary used in the statement is repeated in the question tag. ",
+            "answers": [
+                "are you",
+                "aren't you",
+                "do you",
+                "don't you"
+            ],
+            "correct": 1,
+            "id": "a7bcd3c052374cdaa760107d6b79d4e9"
+        },
+        {
+            "question": "I had never before met ......................... .",
+            "description": "The correct structure is 'so + adjective + a/an + noun'. ",
+            "answers": [
+                "so kind woman",
+                "a so kind woman",
+                "so a kind woman",
+                "so kind a woman"
+            ],
+            "correct": 3,
+            "id": "d000d3c68dc34f9d98a52db767e30da7"
+        },
+        {
+            "question": "I don’t know why they decided to split. They were ......................... in love with each other.",
+            "description": "Mad is an adjective. Madly is an adverb. We use adverbs to modify verbs. ",
+            "answers": [
+                "mad",
+                "madly",
+                "madden",
+                "badly"
+            ],
+            "correct": 1,
+            "id": "7ad80dc969984d29a5b79ed251c58bad"
+        },
+        {
+            "question": "She was ......................... injured in the crash.",
+            "description": "Deadly is an adjective. It goes before a noun. Fatal is also an adjective. Fatally is an adverb. ",
+            "answers": [
+                "fatal",
+                "fatally",
+                "deadly"
+            ],
+            "correct": 1,
+            "id": "8cf0d8a1a3f54fb5908ad40d9e7a8c43"
+        },
+        {
+            "question": "You can speak .......................... I won’t tell anyone what you say.",
+            "description": "Free means without payment. Freely means without restriction.",
+            "answers": [
+                "free",
+                "freely",
+                "with freedom"
+            ],
+            "correct": 1,
+            "id": "1bb39ee7c82e446a93ea14cc1cfe397d"
+        },
+        {
+            "question": "I very much enjoy ........................ .",
+            "description": "The verb enjoy can be followed by a noun/pronoun/-ing form. It cannot be followed by an infinitive.",
+            "answers": [
+                "swim",
+                "swimming",
+                "to swim"
+            ],
+            "correct": 1,
+            "id": "cc4e2ebbbecf4d5bbbce62202a0de947"
+        },
+        {
+            "question": "She would never ......................... if she hadn’t changed jobs.",
+            "description": "The sentence is in the type three conditional. Here we use a past perfect in the if-clause and would have + past participle in the result clause.",
+            "answers": [
+                "have promoted",
+                "be promoted",
+                "have been promoted"
+            ],
+            "correct": 2,
+            "id": "6cb7ecb48a6d4ed1b1dacb85a21508e6"
+        },
+        {
+            "question": "I don’t trust politicians. I never have, and I ......................... .",
+            "description": "Parallel structures are used here. ",
+            "answers": [
+                "will never",
+                "never will",
+                "never does",
+                "never would"
+            ],
+            "correct": 1,
+            "id": "d12ec92ff449440e8dedc21aaff08dae"
+        },
+        {
+            "question": "I am going to do my exams, and ......................... I am going to study medicine.",
+            "description": "After cannot be used alone as an adverb. Instead, we use the expression afterwards. ",
+            "answers": [
+                "after",
+                "afterward",
+                "afterwards"
+            ],
+            "correct": 2,
+            "id": "032e0f246c0e42c0b6072a753d820c94"
+        },
+        {
+            "question": "I expected to fail the exam, but I passed ......................... .",
+            "description": "After all can mean contrary to what was expected. ",
+            "answers": [
+                "at all",
+                "after all",
+                "nevertheless"
+            ],
+            "correct": 1,
+            "id": "7e8bf42b35944f81a503d8994a4cd4be"
+        },
+        {
+            "question": "When I was ......................... I was working.",
+            "description": "The structure is/am/are etc. + … age is used without a preposition",
+            "answers": [
+                "at your age",
+                "your age",
+                "of your age"
+            ],
+            "correct": 1,
+            "id": "294971ea36ad4ec6a2313defe8cb4811"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "id": "0debf8b54f0443b8926700f28c62bb6a",
+    "title": "Will vs. Would",
+    "questions": [
+        {
+            "question": "I .......................... come if I have time.",
+            "description": "When the verb in the if-clause is in the simple present tense, we use will + first form of the verb in the main clause.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "9524cef22bdf4e1ca041adae40c4e520"
+        },
+        {
+            "question": "....................................... you like some tea?",
+            "description": "We use would in polite offers.",
+            "answers": [
+                "Will",
+                "Would"
+            ],
+            "correct": 1,
+            "id": "a3ad4dc93a2444dabda3ab3a7d45ef6b"
+        },
+        {
+            "question": "I promise, I ................................. quit smoking.",
+            "description": "Will is used in promises.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "9076a2f5531f4450aac6a8eb0ae94abd"
+        },
+        {
+            "question": "'There is the doorbell.' 'I ............................. go.'",
+            "description": "Will is used to announce decisions that we make at the time of speaking.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "dda4d7a2bf3a4703b02a0cea3616ffa8"
+        },
+        {
+            "question": "I didn't expect that I ........................................ fail the test.",
+            "description": "When the main verb is in the past tense, we use would in the subordinate clause.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "07cb22738b64422e81e2ed76b6adeb43"
+        },
+        {
+            "question": "If I knew that you were in trouble, I ....................................... help you.",
+            "description": "When the verb in the if clause is in the simple past tense, we use would + infinitive in the main clause.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "1bd8d9c01c444bc887659ca100cb97a9"
+        },
+        {
+            "question": "I hope I ......................................... get the job.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "c7004ceba675441fa6320a7bf7f7fc3a"
+        },
+        {
+            "question": "I .................................. wake up early if there was a good reason to.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "d0c5f0025e844d61a4683a5d0fafa239"
+        },
+        {
+            "question": "Do you think she .................................... come if you invited her?",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "94970e2e634d439f8b1b2206e754a930"
+        },
+        {
+            "question": "I don't know whether I ..................................... have time tomorrow.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "7768f6f4848c445bb8e435e1578f9056"
+        },
+        {
+            "question": "I ..................................... call you when dinner is ready.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "e84b826061644dd18384e60ffae3007e"
+        },
+        {
+            "question": "Whom do you think ..................................... win?",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "4b64bb74fe42479fa229810681add243"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "bdc8b5839dd54c589b070e4377c8cf0c",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "He crashed his car shortly after he ………………………. it.",
+            "description": "The past perfect is used for the earlier of the two past actions. ",
+            "answers": [
+                "bought",
+                "had bought",
+                "has bought"
+            ],
+            "correct": 1,
+            "id": "c2b742eaba254ea3a828509643951e16"
+        },
+        {
+            "question": "I …………………….. my work before I went out to play.",
+            "description": "The simple past is also possible here, but the past perfect is considered more approrpriate. ",
+            "answers": [
+                "finished",
+                "had finished",
+                "have finished"
+            ],
+            "correct": 1,
+            "id": "25952756f7664f6f8bedfd902e1dca70"
+        },
+        {
+            "question": "He ……………………… ill for about a month before he died.",
+            "description": "The past perfect is used for an action or situation that started at some point in the past and continued up to another point. ",
+            "answers": [
+                "was",
+                "has been",
+                "had been"
+            ],
+            "correct": 2,
+            "id": "4ae0f129612b47efa7de6a7c721a13a9"
+        },
+        {
+            "question": "The show ………………………… before we reached the venue.",
+            "description": "",
+            "answers": [
+                "has begun",
+                "had begun",
+                "began"
+            ],
+            "correct": 1,
+            "id": "95e789116a3d4668b4dcae871c17f207"
+        },
+        {
+            "question": "No one took care of the children after their parents …………………………",
+            "description": "The simple past is also possible here but the past perfect is more appropriate. ",
+            "answers": [
+                "died",
+                "have died",
+                "had died"
+            ],
+            "correct": 2,
+            "id": "26e39a84cced4da5864eb61c66076581"
+        },
+        {
+            "question": "We ………………………….. here since",
+            "description": "The present perfect continuous is used to talk about an action or situation that started in the past and has continued up to the present. ",
+            "answers": [
+                "are living",
+                "were living",
+                "have been living",
+                "had been living"
+            ],
+            "correct": 2,
+            "id": "7443be8e7e0247c58941637bdaeb92b5"
+        },
+        {
+            "question": "He …………………………. here for 2 hours.",
+            "description": "",
+            "answers": [
+                "is waiting",
+                "was waiting",
+                "has been waiting"
+            ],
+            "correct": 2,
+            "id": "d93190bba327466ebcca02b64baa4fc9"
+        },
+        {
+            "question": "I ……………………… them for a long time.",
+            "description": "",
+            "answers": [
+                "am not meeting",
+                "have not met",
+                "do not meet"
+            ],
+            "correct": 1,
+            "id": "1eec2c8145534a01b471ef89fa9b83d1"
+        },
+        {
+            "question": "Although the driver was badly hurt, he could explain what ……………………….",
+            "description": "",
+            "answers": [
+                "happened",
+                "have happened",
+                "had happened"
+            ],
+            "correct": 2,
+            "id": "b0431a225b6d47ecb570fc504522111b"
+        },
+        {
+            "question": "Neither of the boys ………………………….. arrived.",
+            "description": "Use a singular verb after neither.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "d6fdcf0643494290af982ad1c7eea3bd"
+        },
+        {
+            "question": "One of the students ………………………… missing.",
+            "description": "Use a singular verb after one of.",
+            "answers": [
+                "are gone",
+                "have gone",
+                "has gone"
+            ],
+            "correct": 2,
+            "id": "41c951fb5be74aa49c68b899ef3e254a"
+        },
+        {
+            "question": "How they ................................. is a mystery.",
+            "description": "",
+            "answers": [
+                "escape",
+                "have escaped",
+                "escaped"
+            ],
+            "correct": 2,
+            "id": "96d8b5dc4985425eab0f59676d6c8a5b"
+        }
+    ]
+}

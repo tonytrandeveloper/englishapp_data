@@ -1,0 +1,116 @@
+{
+    "id": "e2404603384e47d3a3070ef34cec9480",
+    "title": "Kinds Of Nouns",
+    "questions": [
+        {
+            "question": "Always speak the truth. Truth is a/an ..................................",
+            "description": "",
+            "answers": [
+                "common noun",
+                "proper noun",
+                "abstract noun"
+            ],
+            "correct": 2,
+            "id": "5a7726d4ee6f4453a42dca270874c80d"
+        },
+        {
+            "question": "Honesty is the best policy. Honesty is a/an ...................................",
+            "description": "",
+            "answers": [
+                "collective noun",
+                "common noun",
+                "abstract noun"
+            ],
+            "correct": 2,
+            "id": "17b81c0e0dad4f86ab90d7af2d5a047a"
+        },
+        {
+            "question": "King Solomon was famous for his wisdom. Solomon is a/an ..........................................",
+            "description": "",
+            "answers": [
+                "proper noun",
+                "common noun",
+                "abstract noun"
+            ],
+            "correct": 0,
+            "id": "2e0ee2adeb4845e8ad8b6e6b2212f1cf"
+        },
+        {
+            "question": "A committee of five was appointed. Committee is a/an ......................................",
+            "description": "",
+            "answers": [
+                "common noun",
+                "collective noun",
+                "proper noun"
+            ],
+            "correct": 1,
+            "id": "7906565083574db994b18392c7c8b1d9"
+        },
+        {
+            "question": "We saw a fleet of ships in the harbour. Fleet is a/an ...........................................",
+            "description": "",
+            "answers": [
+                "common noun",
+                "collective noun",
+                "proper noun"
+            ],
+            "correct": 1,
+            "id": "449fb0c161b9497680b80f045e41f37d"
+        },
+        {
+            "question": "He gave me a bunch of grapes. Bunch is a/an .....................................",
+            "description": "",
+            "answers": [
+                "common noun",
+                "collective noun",
+                "abstract noun"
+            ],
+            "correct": 1,
+            "id": "eb310ac68b1f4cfabc160d368bad6fa8"
+        },
+        {
+            "question": "London is on the river Thames. Thames is a/an ........................................",
+            "description": "",
+            "answers": [
+                "proper noun",
+                "common noun",
+                "abstract noun"
+            ],
+            "correct": 0,
+            "id": "854950e379784b7bb3a5e09a8b114f57"
+        },
+        {
+            "question": "Cleanliness is next to godliness. Cleanliness is a/an ......................................",
+            "description": "",
+            "answers": [
+                "common noun",
+                "proper noun",
+                "abstract noun"
+            ],
+            "correct": 2,
+            "id": "4137064041af40c586e89220f01b3e7c"
+        },
+        {
+            "question": "Wisdom is better than riches. Wisdom is a/an ...........................................",
+            "description": "",
+            "answers": [
+                "collective noun",
+                "common noun",
+                "abstract noun"
+            ],
+            "correct": 2,
+            "id": "e2aefae34de5409b877220ba58efaab9"
+        },
+        {
+            "question": "Winston Churchill was one of the greatest Prime Ministers of England. Prime ministers is a/an .......................................",
+            "description": "",
+            "answers": [
+                "common noun",
+                "proper noun",
+                "abstract noun"
+            ],
+            "correct": 0,
+            "id": "40e2b95fa315464888e6c4d160a6c71a"
+        }
+    ]
+}

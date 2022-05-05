@@ -1,0 +1,386 @@
+{
+    "id": "c63e1cb6eb29428888c8d826c3fa5289",
+    "title": "Modal verbs of Probability 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Keiko always does really well on exams. She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must study"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) a lot."
+                }
+            ],
+            "id": "768ea034989f4c4281aaba1906e7a31a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That woman drives a very expensive car. She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must have"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a lot of money."
+                }
+            ],
+            "id": "3c9a402c49e24e96aaf2aed4ee663b97"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must have practised"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(practise) a lot before you gave your speech. It was really good."
+                }
+            ],
+            "id": "0c50aa12176b4198820a8fea551c5405"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When Lizzie got home yesterday there were flowers on the table. Her husband"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must have bought"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) them."
+                }
+            ],
+            "id": "ebf62013b62e4d318e793f6eb1f17bf5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where is my purse? I saw it earlier, so it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in this room."
+                }
+            ],
+            "id": "a2213a01a2074693a32e8e365c1868cd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Sarah couldn't find her glasses. She thought she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must have left"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) them at her office."
+                }
+            ],
+            "id": "42c7e76bd4c8411eaa4f3185cdc9c9b3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) cold outside. That man in the street is wearing a coat."
+                }
+            ],
+            "id": "52b16370a56b48ffbc1deaaf946bbd58"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "All my plants"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) dead! I forgot to water them before I went on holiday."
+                }
+            ],
+            "id": "7b0db096bf70468bb4c561e714defc8f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Susie is so late! She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must have missed"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(miss) the train!."
+                }
+            ],
+            "id": "1e46d6a8737a4e3fba2353d5e5d9253a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There's rubbish all over my garden! A fox"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must have been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in the bin."
+                }
+            ],
+            "id": "f594c4ad5adf40318aa3e976f6cebb8c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Anna has a huge library in her house. She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must love"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(love) books."
+                }
+            ],
+            "id": "c497bfecb207451383056bd673bdfd12"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Oh no, I don't have my keys! I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must have left"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) them in the taxi."
+                }
+            ],
+            "id": "67506341e5fe4202a8cd79359a035fc8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When Lucy got home, she found the ice cream had melted. It"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must have been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) too hot in the car."
+                }
+            ],
+            "id": "b1fcd1f9e75f4ac2b2285f24477a5efd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you haven't eaten all day, you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) hungry."
+                }
+            ],
+            "id": "1efdeab593e646e093416f498f4d405b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jimmy and Louisa"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) very tired. They have a new baby."
+                }
+            ],
+            "id": "4f203ec1b3d1494e938199e6f3df0a25"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must have rained"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(rain) a lot in the night. There are puddles everywhere."
+                }
+            ],
+            "id": "b5dfd8e257674f3082c89d3b3d74817c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) happy. His girlfriend just agreed to marry him."
+                }
+            ],
+            "id": "067fabe3aa084144a85a4b4312df76f3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What an amazing kitchen you've got! You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must like"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(like) cooking."
+                }
+            ],
+            "id": "7e5e940165244f5db1bb6acea018ac29"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must have eaten"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) all the biscuits! There are none left."
+                }
+            ],
+            "id": "cda1d13638b146548b090489048813ab"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I got up this morning, the kitchen was spotless. Lily"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "must have tidied"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(tidy) it before she went to bed last night."
+                }
+            ],
+            "id": "d3fcef7f82944fd2a691e0807d6e7d49"
+        }
+    ]
+}

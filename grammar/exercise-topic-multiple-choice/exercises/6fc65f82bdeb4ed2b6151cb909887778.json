@@ -1,0 +1,127 @@
+{
+    "id": "6fc65f82bdeb4ed2b6151cb909887778",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "The winter session ………………………. on December 5th.",
+            "description": "The simple present is sometimes used to talk about future events that are part of a time table.",
+            "answers": [
+                "starts",
+                "would start",
+                "start"
+            ],
+            "correct": 0,
+            "id": "d010723daf7545a08f4f2de00df490c4"
+        },
+        {
+            "question": "I will call you if I ……………………….. time.",
+            "description": "The simple present is often used in subordinate clauses with a future meaning.",
+            "answers": [
+                "will have",
+                "have",
+                "would have"
+            ],
+            "correct": 1,
+            "id": "533874e13ca44f658b79057d63fe2103"
+        },
+        {
+            "question": "……………………….. we call the police?",
+            "description": "Shall is used when asking for instructions.",
+            "answers": [
+                "Will",
+                "Shall",
+                "May"
+            ],
+            "correct": 1,
+            "id": "95b64cfa632543ebb00e23fe534e2227"
+        },
+        {
+            "question": "……………………….. you make me a cup of tea?",
+            "description": "Will is used to give instructions.",
+            "answers": [
+                "Will",
+                "Shall",
+                "May"
+            ],
+            "correct": 0,
+            "id": "c91808c450d0477c85b9859fdd5b06bd"
+        },
+        {
+            "question": "The plane ……………………….. at three o’clock.",
+            "description": "Either could be used here however, the simple present is more common. ",
+            "answers": [
+                "arrives",
+                "is arriving",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "a4a5543670194727ba7788dd9d2918f0"
+        },
+        {
+            "question": "By next January, we ………………………….. here for ten years.",
+            "description": "The future perfect is used to say that something will have been completed by a certain time in the future.",
+            "answers": [
+                "will be",
+                "will have been",
+                "would be"
+            ],
+            "correct": 1,
+            "id": "60aea18b1fa9467891d5bf42ee35aba5"
+        },
+        {
+            "question": "I promise I ……………………….. you this evening.",
+            "description": "Will is used in promises.",
+            "answers": [
+                "would phone",
+                "will phone",
+                "phone"
+            ],
+            "correct": 1,
+            "id": "4ded93bde9d944e180d01d914438e8c3"
+        },
+        {
+            "question": "Let’s have something to eat, …………………………. we?",
+            "description": "We use shall in question tags after let’s.",
+            "answers": [
+                "will",
+                "shall",
+                "could"
+            ],
+            "correct": 1,
+            "id": "714b229fdb9a49148ff7661b469ab9a6"
+        },
+        {
+            "question": "………………………….. a ghost?",
+            "description": "The present perfect is commonly used with the expressions ever, never, already etc.",
+            "answers": [
+                "Did you ever see",
+                "Have you ever seen",
+                "Do you ever see"
+            ],
+            "correct": 1,
+            "id": "12ee0617bd6a4d0db26e60c225c415d5"
+        },
+        {
+            "question": "I ………………………… James in the morning and he said that he was quitting.",
+            "description": "The simple past is the most normal tense for talking about finished events.",
+            "answers": [
+                "saw",
+                "have seen",
+                "had seen"
+            ],
+            "correct": 0,
+            "id": "29de881133324977add78cbc3c40984f"
+        },
+        {
+            "question": "She ………………………… all her life in India.",
+            "description": "The present perfect is used to mean up to now. ",
+            "answers": [
+                "lived",
+                "has lived",
+                "lives"
+            ],
+            "correct": 1,
+            "id": "439c0c366bfe4602b70ea820bc592471"
+        }
+    ]
+}

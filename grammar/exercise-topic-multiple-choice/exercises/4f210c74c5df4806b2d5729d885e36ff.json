@@ -1,0 +1,137 @@
+{
+    "id": "4f210c74c5df4806b2d5729d885e36ff",
+    "title": "Articles Exercise",
+    "questions": [
+        {
+            "question": "What kind of …………………… is it?",
+            "description": "When a common noun is used in its widest sense, it is used without an article.",
+            "answers": [
+                "bird",
+                "a bird",
+                "the bird"
+            ],
+            "correct": 0,
+            "id": "c9b681f0111246f480d7e5ce2c809274"
+        },
+        {
+            "question": "…………………….. is mortal.",
+            "description": "When a common noun is used in its widest sense, it is used without an article.",
+            "answers": [
+                "The man",
+                "A man",
+                "Man"
+            ],
+            "correct": 2,
+            "id": "1bfa728c1f034c07896178f0b12aefd3"
+        },
+        {
+            "question": "………………………. grows in many parts of India.",
+            "description": "Articles are omitted before material nouns.",
+            "answers": [
+                "Cotton",
+                "The cotton",
+                "A cotton"
+            ],
+            "correct": 0,
+            "id": "b524fac0d5a44c258f9b83a8615e2219"
+        },
+        {
+            "question": "……………………… is a useful metal.",
+            "description": "Articles are omitted before material nouns.",
+            "answers": [
+                "Iron",
+                "An iron",
+                "The iron"
+            ],
+            "correct": 0,
+            "id": "2c88c28fc8d74c2eb30f4b16fa8401d7"
+        },
+        {
+            "question": "He was ………………………….. of his age.",
+            "description": "Sometimes an article is used with proper nouns when they are used as common nouns.",
+            "answers": [
+                "Napoleon",
+                "A Napoleon",
+                "The Napoleon"
+            ],
+            "correct": 2,
+            "id": "3975804eb5a74f4a8ef5c86a7c457642"
+        },
+        {
+            "question": "Mumbai is ……………………….. of India.",
+            "description": "Sometimes an article is used with proper nouns when they are used as common nouns.",
+            "answers": [
+                "Manchester",
+                "a Manchester",
+                "The Manchester"
+            ],
+            "correct": 2,
+            "id": "8d09134037664c6da956bfb144aad36c"
+        },
+        {
+            "question": "……………………… is its own reward.",
+            "description": "Articles are usually omitted before abstract nouns.",
+            "answers": [
+                "The virtue",
+                "Virtue",
+                "A virtue"
+            ],
+            "correct": 1,
+            "id": "3db5ab909e244cee84737b5f4aeae0a8"
+        },
+        {
+            "question": "He is fluent in ……………………..",
+            "description": "Articles are omitted before the names of languages.",
+            "answers": [
+                "French",
+                "the French"
+            ],
+            "correct": 0,
+            "id": "25a0052e70894e689e91aafda9bd52f2"
+        },
+        {
+            "question": "My friend is still in ……………………….",
+            "description": "Articles are omitted before nouns like hospital and school when the reference is to the primary purpose of these places.",
+            "answers": [
+                "hospital",
+                "the hospital",
+                "a hospital"
+            ],
+            "correct": 0,
+            "id": "65b61f8b1e914542ad6c024c32ca7a2c"
+        },
+        {
+            "question": "I went to ……………………….. to see my friend.",
+            "description": "Articles are used before the nouns hospital and school when we are talking about these places as a building or structure.",
+            "answers": [
+                "hospital",
+                "the hospital",
+                "a hospital"
+            ],
+            "correct": 1,
+            "id": "953ea1662da744bc8819acef5f6c7c8d"
+        },
+        {
+            "question": "…………………….. has returned.",
+            "description": "Articles are omitted before names of relations.",
+            "answers": [
+                "Mother",
+                "The mother",
+                "A mother"
+            ],
+            "correct": 0,
+            "id": "9b2dbe32b70b4af2a22ed0fc3c367b78"
+        },
+        {
+            "question": "I met him at ……………………….",
+            "description": "Here the club is merely a meeting place and hence an article is used with that.",
+            "answers": [
+                "club",
+                "the club",
+                "a club"
+            ],
+            "correct": 2,
+            "id": "c08249382c5f40958200f9472612f831"
+        }
+    ]
+}

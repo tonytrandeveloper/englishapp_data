@@ -1,0 +1,113 @@
+{
+    "id": "ff8742a6ca5543fcaeb8ecd735c1f352",
+    "title": "Confusing Words Exercise",
+    "questions": [
+        {
+            "question": "Sam has ………………… on the bed all morning.",
+            "description": "",
+            "answers": [
+                "lain",
+                "lied",
+                "laid"
+            ],
+            "correct": 0,
+            "id": "d9608b14555c4b31b9ebb50775ce593b"
+        },
+        {
+            "question": "Alice says that she has already ………………… .. the table.",
+            "description": "",
+            "answers": [
+                "laid",
+                "lain",
+                "lied"
+            ],
+            "correct": 0,
+            "id": "9d3a899c2ee24e94bcceacaa3a2e8bdc"
+        },
+        {
+            "question": "The books were …………………… . on the table.",
+            "description": "",
+            "answers": [
+                "lied",
+                "lain",
+                "laid"
+            ],
+            "correct": 2,
+            "id": "d8048eeb5fac413abf24160795ee5a5e"
+        },
+        {
+            "question": "This time tomorrow I will be …………………. on the beach.",
+            "description": "",
+            "answers": [
+                "lying",
+                "lieing",
+                "lyeing"
+            ],
+            "correct": 0,
+            "id": "0a8de363f05e440db7ec5461dd8267f7"
+        },
+        {
+            "question": "While ……………………… in bed, I had an idea.",
+            "description": "",
+            "answers": [
+                "laying",
+                "lying"
+            ],
+            "correct": 1,
+            "id": "965a2a0efaa34652af4e63aa75757c98"
+        },
+        {
+            "question": "She always …………………… her books neatly on the table.",
+            "description": "",
+            "answers": [
+                "lays",
+                "lies",
+                "lains"
+            ],
+            "correct": 0,
+            "id": "aa55c02353554f399ae11b5ce169afec"
+        },
+        {
+            "question": "Don’t ………………… in bed all day.",
+            "description": "",
+            "answers": [
+                "lie",
+                "lay"
+            ],
+            "correct": 0,
+            "id": "9770f539c55446c4a3535f53dabd01ae"
+        },
+        {
+            "question": "I ………………….. down and closed my eyes.",
+            "description": "",
+            "answers": [
+                "lay",
+                "lie",
+                "lied"
+            ],
+            "correct": 0,
+            "id": "05d2faa29e474d2db7f28e674f35d1e0"
+        },
+        {
+            "question": "I must be …………………. weight.",
+            "description": "",
+            "answers": [
+                "losing",
+                "loosing",
+                "lousing"
+            ],
+            "correct": 0,
+            "id": "a47a3091fe2d48d0b9f1928b57185c89"
+        },
+        {
+            "question": "Did you …………………. cricket yesterday?",
+            "description": "",
+            "answers": [
+                "practice",
+                "practise"
+            ],
+            "correct": 1,
+            "id": "74e3a56e8c5f4949b37da16d5a8b8436"
+        }
+    ]
+}

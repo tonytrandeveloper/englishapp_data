@@ -1,0 +1,126 @@
+{
+    "id": "13f6dbf0fc2349218f80a03b1a8c4074",
+    "title": "Transitive Or Intransitive",
+    "questions": [
+        {
+            "question": "Let’s invite Bob and Sally.",
+            "description": "Here the verb invite is transitive because it has an object – Bob and Sally.",
+            "answers": [
+                "Invite is transitive",
+                "Invite is intransitive"
+            ],
+            "correct": 0,
+            "id": "291495a9a53a4feeb7d58ce1374ea106"
+        },
+        {
+            "question": "You have baffled me.",
+            "description": "Here the verb baffled is transitive because it has an object – me.",
+            "answers": [
+                "Baffled is transitive",
+                "Baffled is intransitive"
+            ],
+            "correct": 0,
+            "id": "3f8594622bc843308c34ec63a9ca2e58"
+        },
+        {
+            "question": "I usually sleep well.",
+            "description": "Here the verb sleep is intransitive because it does not have an object.",
+            "answers": [
+                "Sleep is transitive",
+                "Sleep is intransitive"
+            ],
+            "correct": 1,
+            "id": "c50c639139154b7088bf62b2cc871a9e"
+        },
+        {
+            "question": "Please come here.",
+            "description": "Here the verb come is intransitive because it does not have an object.",
+            "answers": [
+                "Come is transitive",
+                "Come is intransitive"
+            ],
+            "correct": 1,
+            "id": "f334406f60ad4f818708e6207647926e"
+        },
+        {
+            "question": "Our team has won the championship.",
+            "description": "Here the verb has won is transitive because it has an object – the championship",
+            "answers": [
+                "Has won is transitive",
+                "Has won is intransitive"
+            ],
+            "correct": 0,
+            "id": "6f91161a86904fbbb65e8368d50c3797"
+        },
+        {
+            "question": "I bought her some flowers.",
+            "description": "Here the verb bought is transitive because it has objects. Actually, it has two objects – her and flowers",
+            "answers": [
+                "Bought is transitive",
+                "Bought is intransitive"
+            ],
+            "correct": 0,
+            "id": "4418458b38974816a57f13e592c82779"
+        },
+        {
+            "question": "Marriage changed him for the better.",
+            "description": "Here the verb changed is transitive because it has an object – him.",
+            "answers": [
+                "Changed is transitive",
+                "Changed is intransitive"
+            ],
+            "correct": 0,
+            "id": "687be0ec51a442b89911eec3c6ca0fec"
+        },
+        {
+            "question": "Bob has changed a lot since he got married to Alice.",
+            "description": "Here the verb changed is intransitive because it does not have an object.",
+            "answers": [
+                "Changed is transitive",
+                "Changed is intransitive"
+            ],
+            "correct": 1,
+            "id": "41be3cc58b4c459fb9ca63e2d721b54a"
+        },
+        {
+            "question": "We had to put off our visit to France.",
+            "description": "Here put off is transitive because it has an object – our visit",
+            "answers": [
+                "Put off is transitive",
+                "Put off is intransitive"
+            ],
+            "correct": 0,
+            "id": "41324ebf3dad4823ac9f82cd754a0ab1"
+        },
+        {
+            "question": "You never cease to amaze me.",
+            "description": "Here amaze is transitive because it has an object – me.",
+            "answers": [
+                "Amaze is transitive",
+                "Amaze is intransitive"
+            ],
+            "correct": 0,
+            "id": "ee9de7174cc847bcbb0c23340f8fb450"
+        },
+        {
+            "question": "The car won’t start again this morning.",
+            "description": "Here start is intransitive because it does not have an object.",
+            "answers": [
+                "Start is transitive",
+                "Start is intransitive"
+            ],
+            "correct": 1,
+            "id": "3b979d8a769a474c9484a3e783c31549"
+        },
+        {
+            "question": "She is doing well.",
+            "description": "Here is doing is intransitive because it does not have an object. Well is an adverb.",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 1,
+            "id": "5ed4bcaccf7740318c990ece5479f670"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "id": "bbedd3dd85bd40bb80a6ade155125c87",
+    "title": "Pronouns Exercise",
+    "questions": [
+        {
+            "question": "When I have guests I myself cook dinner for ……………………",
+            "description": "A pronoun used as the object of a preposition should be in its object form.",
+            "answers": [
+                "they",
+                "them",
+                "themselves"
+            ],
+            "correct": 1,
+            "id": "71e63b87d86d4513a8a572baa3a2cc3b"
+        },
+        {
+            "question": "When she realized her mistake she laughed at ……………………",
+            "description": "The reflexive is used when the subject and the object refer to the same person.",
+            "answers": [
+                "her",
+                "herself"
+            ],
+            "correct": 1,
+            "id": "fec918bc0cf4412c995a67b1e8037045"
+        },
+        {
+            "question": "Susie prevented me from entering …………………….. room.",
+            "description": "The words her, his, their, your, our and my are possessive adjectives. They are used before nouns.",
+            "answers": [
+                "her",
+                "hers"
+            ],
+            "correct": 0,
+            "id": "032ebf98eb924eb0957be520c71e1b58"
+        },
+        {
+            "question": "She yelled at ………………………… without any provocation.",
+            "description": "A pronoun used as the object of a preposition should be in its object form.",
+            "answers": [
+                "I",
+                "me",
+                "myself"
+            ],
+            "correct": 1,
+            "id": "d15d269131d24eb0a5546995177ff8df"
+        },
+        {
+            "question": "That is ………………………….",
+            "description": "Possessive pronouns are words like mine, his, hers, theirs, ours, yours etc. They are used alone as subject complements. ",
+            "answers": [
+                "my",
+                "mine",
+                "myself"
+            ],
+            "correct": 1,
+            "id": "32828467783a4e6eb1d2c0e64e5199ca"
+        },
+        {
+            "question": "………………….. bag is this?",
+            "description": "",
+            "answers": [
+                "Who's",
+                "Whose"
+            ],
+            "correct": 1,
+            "id": "acb837b0d68b4d45a76fa63b16c55d30"
+        },
+        {
+            "question": "This is my car. Is that ………………………….?",
+            "description": "",
+            "answers": [
+                "your",
+                "yours"
+            ],
+            "correct": 1,
+            "id": "10a319833f4e4556a2f3813eddd0c817"
+        },
+        {
+            "question": "I couldn’t believe ……………………….. eyes.",
+            "description": "",
+            "answers": [
+                "my",
+                "myself",
+                "my own"
+            ],
+            "correct": 2,
+            "id": "3ee210f8aa844cd58a5ae78ef4399a55"
+        },
+        {
+            "question": "I did it …………………………. as there was no one to help me.",
+            "description": "The emphatic is used to emphasize an idea.",
+            "answers": [
+                "me",
+                "myself",
+                "myselves"
+            ],
+            "correct": 1,
+            "id": "326ab9f4d3c24bd5870896880ccb865a"
+        },
+        {
+            "question": "Please do it …………………………..",
+            "description": "",
+            "answers": [
+                "yourself",
+                "you",
+                "your"
+            ],
+            "correct": 0,
+            "id": "fd546f3e9b9a4341a69df7399cc0ca80"
+        },
+        {
+            "question": "I cut ………………………… while shaving.",
+            "description": "The reflexive is used when the subject and the object refer to the same person.",
+            "answers": [
+                "me",
+                "myself",
+                "myselves"
+            ],
+            "correct": 1,
+            "id": "43b9331630c443b59c5111e9e90d2a9c"
+        },
+        {
+            "question": "She admired ……………………………. in the mirror.",
+            "description": "The reflexive is used when the subject and the object refer to the same person.",
+            "answers": [
+                "her",
+                "herself",
+                "herselves"
+            ],
+            "correct": 1,
+            "id": "e85f80181a8b4025a460a4f610600347"
+        }
+    ]
+}

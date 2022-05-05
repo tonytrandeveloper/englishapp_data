@@ -1,0 +1,131 @@
+{
+    "id": "fbec2fbd2fb14a409aae4844a79cee82",
+    "title": "Article Or No Article",
+    "questions": [
+        {
+            "question": "I like to listen to old songs on .................................",
+            "description": "",
+            "answers": [
+                "radio",
+                "the radio",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "330426a435c14d92b0675a333230ef44"
+        },
+        {
+            "question": "She is studying law at .....................................",
+            "description": "Articles are not used with nouns referring to institutions when we are talking about the activity going on there. ",
+            "answers": [
+                "university",
+                "the university",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "503b7ed09bb54763aab58d9548bd5b21"
+        },
+        {
+            "question": "Who is playing .....................................?",
+            "description": "Articles are always used with the names of musical instruments. ",
+            "answers": [
+                "violin",
+                "the violin"
+            ],
+            "correct": 1,
+            "id": "c73878bfb3aa4c82a6e31ee8c6923a33"
+        },
+        {
+            "question": "I met him at .......................................",
+            "description": "Here the library is a meeting place. It is used with the article the.",
+            "answers": [
+                "library",
+                "the library"
+            ],
+            "correct": 1,
+            "id": "ff0903c10c3e49d1b205e39b0d8526bb"
+        },
+        {
+            "question": "I went to ....................................... to see them off.",
+            "description": "",
+            "answers": [
+                "airport",
+                "the airport"
+            ],
+            "correct": 1,
+            "id": "ca389a68bc574981b3889d310cb68e09"
+        },
+        {
+            "question": "I met .......................................... yesterday.",
+            "description": "Minister is a singular countable noun we need an article with it. Here the definite article the is used to give the impression that the listener knows which minister the speaker is talking about. ",
+            "answers": [
+                "minister",
+                "the minister"
+            ],
+            "correct": 1,
+            "id": "cd5ec2b9faa04519b065aeb3565b0a4d"
+        },
+        {
+            "question": "She lives in ........................................",
+            "description": "Articles are not used before place names. ",
+            "answers": [
+                "America",
+                "the America"
+            ],
+            "correct": 0,
+            "id": "2aca67855c04450fae768d33d83aa7a5"
+        },
+        {
+            "question": "Some of my friends have moved to .................................",
+            "description": "Articles are used with place names if they include the words United or Republic. ",
+            "answers": [
+                "USA",
+                "the USA"
+            ],
+            "correct": 1,
+            "id": "8c6a72783f5e43419ee7c3829a6b8d5d"
+        },
+        {
+            "question": "We cannot survive without ........................................",
+            "description": "Water is an uncountable noun. No article is used with it. ",
+            "answers": [
+                "water",
+                "the water",
+                "a water"
+            ],
+            "correct": 0,
+            "id": "a65d578eef0f42ed86474e67097c68fe"
+        },
+        {
+            "question": "Do you like .........................................?",
+            "description": "Cheese is uncountable also we are not talking about any particular cheese here so no article is used. ",
+            "answers": [
+                "cheese",
+                "a cheese",
+                "the cheese"
+            ],
+            "correct": 0,
+            "id": "782485c2bbba421ba4c3b7f81d4875e3"
+        },
+        {
+            "question": "The children are playing in .......................................",
+            "description": "We are talking about a particular park here so we use the.",
+            "answers": [
+                "park",
+                "the park"
+            ],
+            "correct": 1,
+            "id": "e042fd104c1047f8adcb7db2c659616e"
+        },
+        {
+            "question": "She was born in ......................................",
+            "description": "",
+            "answers": [
+                "Mexico",
+                "the Mexico",
+                "a Mexico"
+            ],
+            "correct": 0,
+            "id": "60d62c5c4bcc4d248a1037d45affd5ac"
+        }
+    ]
+}

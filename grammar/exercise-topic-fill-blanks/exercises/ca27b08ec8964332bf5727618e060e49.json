@@ -1,0 +1,306 @@
+{
+    "id": "ca27b08ec8964332bf5727618e060e49",
+    "title": "Past Simple Questions with 'be'",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / be / tired yesterday)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Were you tired yesterday?"
+                    ]
+                }
+            ],
+            "id": "0c4c1a3a6a454334bd1578756dc64012"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(the weather / be / good)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Was the weather good?"
+                    ]
+                }
+            ],
+            "id": "6b2d76ee2cf543bf9c6eaa81e53a6289"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / be / too noisy)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Were we too noisy?"
+                    ]
+                }
+            ],
+            "id": "123ded62759c4561aba02dbdb4e15e4a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / be / a doctor when he was young)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Was he a doctor when he was young?"
+                    ]
+                }
+            ],
+            "id": "de14cf2224fe433dacd308f1c18b69c6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / be / in the class last week)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Were they in the class last week?"
+                    ]
+                }
+            ],
+            "id": "91e8749b3a334f3da0cac44b6c2da16d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / be / a good student)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Was she a good student?"
+                    ]
+                }
+            ],
+            "id": "478f014663ef4aceb740cbfdff06fa25"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / be / on time)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Was I on time?"
+                    ]
+                }
+            ],
+            "id": "22dc42bf73404a8989e6629cdd19c943"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Julie and Lucy / be / at the meeting)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Were Julie and Lucy at the meeting?"
+                    ]
+                }
+            ],
+            "id": "ad834df507864c5582f91df0bd4b65c4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / be / in Paris)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Were we in Paris?"
+                    ]
+                }
+            ],
+            "id": "0f94cd2ec8b04ed49b446515e2e4a994"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you / be)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Where were you?"
+                    ]
+                }
+            ],
+            "id": "e77225357e1f4dea8938d79ba7d3c9ad"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / that noise / be)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What was that noise?"
+                    ]
+                }
+            ],
+            "id": "baa8f0f161814dd68549d2aed82698db"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(who / that man / be)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Who was that man?"
+                    ]
+                }
+            ],
+            "id": "ec4064d5bd0740a0aee523463e04e3bb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / the weekend / be)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How was the weekend?"
+                    ]
+                }
+            ],
+            "id": "3eb06055907b41d694891e7e7b66e1d6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / the money / be)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Where was the money?"
+                    ]
+                }
+            ],
+            "id": "186d1d1966fd4c98be778c54a6cdbcfa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / the door open / be)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Why was the door open?"
+                    ]
+                }
+            ],
+            "id": "e40179e94d9d4fb696bed2c9db25bfa5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(who / the teacher / be)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Who was the teacher?"
+                    ]
+                }
+            ],
+            "id": "defa8d34096f4637979440186d088caf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / your holiday / be)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How was your holiday?"
+                    ]
+                }
+            ],
+            "id": "3d9d1d339db24aa68943425ddfeee8c5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / the weather like / be)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What was the weather like?"
+                    ]
+                }
+            ],
+            "id": "ebef57773d44449da0aa70d4b7143070"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / the children awake / be)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Why were the children awake?"
+                    ]
+                }
+            ],
+            "id": "ffe1512b0b75438e94f297d0adf5bd9d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(John / be / at the party)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Was John at the party?"
+                    ]
+                }
+            ],
+            "id": "e1e430f01bae4946b2154cba01cfc3b0"
+        }
+    ]
+}

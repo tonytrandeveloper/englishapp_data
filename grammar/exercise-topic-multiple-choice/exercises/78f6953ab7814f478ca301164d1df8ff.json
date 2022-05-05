@@ -1,0 +1,138 @@
+{
+    "id": "78f6953ab7814f478ca301164d1df8ff",
+    "title": "Editing Exercise",
+    "questions": [
+        {
+            "question": "They went out despite of the rain.",
+            "description": "The correct preposition is despite.",
+            "answers": [
+                "out",
+                "of",
+                "the"
+            ],
+            "correct": 1,
+            "id": "3a5efac26f9c415c98e71d07f438ed71"
+        },
+        {
+            "question": "Sonia, who is my neighbor, she is a writer.",
+            "description": "A clause needs just one subject.",
+            "answers": [
+                "who",
+                "she",
+                "a"
+            ],
+            "correct": 1,
+            "id": "ea6c0d17e1e84a6180fbcadb728e1570"
+        },
+        {
+            "question": "No matter what that I do, he is never happy.",
+            "description": "",
+            "answers": [
+                "what",
+                "that",
+                "do"
+            ],
+            "correct": 1,
+            "id": "5e837f45e3ac43f08a35d052fa010f30"
+        },
+        {
+            "question": "I almost nearly wish I had stayed home.",
+            "description": "Nearly is similar to almost. It is mainly used to suggest progress towards a goal.",
+            "answers": [
+                "almost",
+                "nearly",
+                "had"
+            ],
+            "correct": 1,
+            "id": "61ab1bc50b1b445f9da99504c4a65cd4"
+        },
+        {
+            "question": "She is nearly never at home.",
+            "description": "We cannot use nearly with negative words like never.",
+            "answers": [
+                "nearly",
+                "never",
+                "at"
+            ],
+            "correct": 0,
+            "id": "05c72e9de2e9457aa8ced44bfbb707f0"
+        },
+        {
+            "question": "I have visited them a fortnight ago.",
+            "description": "We cannot use the present perfect with past time expressions like 'a fortnight ago'.",
+            "answers": [
+                "have",
+                "visited",
+                "a"
+            ],
+            "correct": 0,
+            "id": "811b0601f4ba49d3957f3497489e258b"
+        },
+        {
+            "question": "You had better not to disturb dad.",
+            "description": "After had better the infinitive is used without to.",
+            "answers": [
+                "had",
+                "better",
+                "to"
+            ],
+            "correct": 2,
+            "id": "c80c2f0d389c4268a3a3281527308cd6"
+        },
+        {
+            "question": "I want that you to tell me exactly what happened.",
+            "description": "The sentence should read: I want you to tell me exactly what happened.",
+            "answers": [
+                "that",
+                "to",
+                "what"
+            ],
+            "correct": 0,
+            "id": "baef1c3605144f9f94fb2d275d544ac1"
+        },
+        {
+            "question": "They made me to retract my statement.",
+            "description": "The infinitive is used without to after make.",
+            "answers": [
+                "made",
+                "to",
+                "my"
+            ],
+            "correct": 1,
+            "id": "50117fe9d7b1497087732537adc72db5"
+        },
+        {
+            "question": "As well as he breaking his leg, John hurt his arm.",
+            "description": "",
+            "answers": [
+                "as",
+                "he",
+                "his"
+            ],
+            "correct": 1,
+            "id": "a78f37bced604289ba052d845527dd0a"
+        },
+        {
+            "question": "The house where I live in is very small.",
+            "description": "We use where instead of that...in.",
+            "answers": [
+                "where",
+                "in",
+                "very"
+            ],
+            "correct": 1,
+            "id": "c488bfc5f29c4158a7cbc1dd3c1035b2"
+        },
+        {
+            "question": "I saw him to come out of the house.",
+            "description": "The infinitive is used without to after see.",
+            "answers": [
+                "to",
+                "of",
+                "the"
+            ],
+            "correct": 0,
+            "id": "60dd0ed1ac404d5b8fe6f500fdc88c66"
+        }
+    ]
+}

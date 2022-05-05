@@ -1,0 +1,142 @@
+{
+    "id": "65fcb7ae617e4b1a837343b6ab8a27e8",
+    "title": "Relative Pronouns Worksheet",
+    "questions": [
+        {
+            "question": "The man ……………………………. we met in the store is my neighbor.",
+            "description": "Whom and that are possible here. Who is also possible here in a less careful style. ",
+            "answers": [
+                "who",
+                "whom",
+                "that",
+                "All of these"
+            ],
+            "correct": 3,
+            "id": "c677835ee40446b78f7e84fc6922250e"
+        },
+        {
+            "question": "The girl …………………………….. paid for my drinks seemed rich.",
+            "description": "Either who or that can refer to people in identifying relative clauses. ",
+            "answers": [
+                "who",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "b9eadafb918b42c192146370ceb1388e"
+        },
+        {
+            "question": "Where is the child ……………………………… wanted an ice cream?",
+            "description": "Use who to refer to people and which to refer to things. ",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "2bdb222dd2ae4ccf9be85624f16f1a9e"
+        },
+        {
+            "question": "I have lost the watch …………………………… I bought yesterday.",
+            "description": "In identifying relative clauses either which or that can refer to things. ",
+            "answers": [
+                "that",
+                "which",
+                "who",
+                "what"
+            ],
+            "correct": 1,
+            "id": "9ebdb560589c4fa88a07d29e476d48aa"
+        },
+        {
+            "question": "The day …………………………….. my son was born is the happiest day of my life.",
+            "description": "When can mean on which.",
+            "answers": [
+                "that",
+                "when",
+                "which",
+                "on which"
+            ],
+            "correct": 3,
+            "id": "6d56dc1d31904a5f8df27659b9acdbea"
+        },
+        {
+            "question": "The man ……………………….. interviewed me was very knowledgeable.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "him"
+            ],
+            "correct": 0,
+            "id": "264f14b0567c49de838d40e7cba9242c"
+        },
+        {
+            "question": "He has four cars all of …………………………… are imported.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "what"
+            ],
+            "correct": 1,
+            "id": "4a2b491a8cae4882ab1de995dca1d2ef"
+        },
+        {
+            "question": "I talked to the guy …………………………… repaired my computer.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "27effe779dca4038bad21f98f735f1c0"
+        },
+        {
+            "question": "The man ………………………………. died in the accident was a rich merchant.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "2488c4a1f402480bae246b8b430d9a95"
+        },
+        {
+            "question": "The police arrested the man ……………………………. made the hoax call.",
+            "description": "",
+            "answers": [
+                "whom",
+                "who",
+                "what"
+            ],
+            "correct": 1,
+            "id": "54c526232cec41dba9d2e271ce89fe2b"
+        },
+        {
+            "question": "The boy ………………………….. leg is broken will need complete bed rest for at least six months.",
+            "description": "Whose can replace pronouns like his, her, their etc. ",
+            "answers": [
+                "that",
+                "which",
+                "whose",
+                "who's"
+            ],
+            "correct": 2,
+            "id": "514a592af22046bc947d1448cb5d9b41"
+        },
+        {
+            "question": "The girl ……………………………. opened the door was quite cute.",
+            "description": "Either who or that is possible here. ",
+            "answers": [
+                "that",
+                "which",
+                "who"
+            ],
+            "correct": 2,
+            "id": "ae31f030884347a4b979f4ea6fdd6451"
+        }
+    ]
+}

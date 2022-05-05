@@ -1,0 +1,129 @@
+{
+    "id": "dcf8d86262cb48c39fb42115c604ccbd",
+    "title": "Words Commonly Confused",
+    "questions": [
+        {
+            "question": "It is ……………….. good, but it could be better.",
+            "description": "Quite is a degree modifier. Quiet means making little or no noise.",
+            "answers": [
+                "quiet",
+                "quite"
+            ],
+            "correct": 1,
+            "id": "6d26bc5111184105ae26321855f13ff9"
+        },
+        {
+            "question": "I will have a ……………….. word with him.",
+            "description": "Quite is a degree modifier. Quiet means making little or no noise.",
+            "answers": [
+                "quiet",
+                "quite"
+            ],
+            "correct": 0,
+            "id": "517168ff7e2944a29e87843ca73c4aea"
+        },
+        {
+            "question": "I’m hot. Let’s find some ………………… to sit in.",
+            "description": "Shade means protection from the sun.",
+            "answers": [
+                "shade",
+                "shadow"
+            ],
+            "correct": 0,
+            "id": "59aa9aa8d5944366b6a8a74be2d6df35"
+        },
+        {
+            "question": "In the evening, your ……………… is longer than you are.",
+            "description": "Shadow is the dark picture made by an unlighted area.",
+            "answers": [
+                "shade",
+                "shadow"
+            ],
+            "correct": 1,
+            "id": "f218d65a26034820883c3cb532ad53d2"
+        },
+        {
+            "question": "I’m afraid it will take ………………… to repair the car.",
+            "description": "Some time means quite a lot of time\r\nSometime means one day\r\nSometimes is an adverb of frequency. It means on some occasions.",
+            "answers": [
+                "some time",
+                "sometime",
+                "sometimes"
+            ],
+            "correct": 0,
+            "id": "6daa0ad1599748149e74fcaf990280a6"
+        },
+        {
+            "question": "Let’s have dinner together ......................... next week.",
+            "description": "Some time means quite a lot of time\r\nSometime means one day\t\r\nSometimes is an adverb of frequency. It means on some occasions.",
+            "answers": [
+                "sometime",
+                "some time",
+                "sometimes"
+            ],
+            "correct": 0,
+            "id": "162cda1505fb4b05a31fc64061bc5897"
+        },
+        {
+            "question": "I ………………… went boating when I lived in Mumbai.",
+            "description": "Some time means quite a lot of time\r\nSometime means one day\t\r\nSometimes is an adverb of frequency. It means on some occasions.\t",
+            "answers": [
+                "sometime",
+                "some time",
+                "sometimes"
+            ],
+            "correct": 2,
+            "id": "4d6ef28b1d9a4e05aac532c4d558cdd0"
+        },
+        {
+            "question": "The plane arrived 30 minutes ……………..",
+            "description": "Early means before the expected time.",
+            "answers": [
+                "early",
+                "soon"
+            ],
+            "correct": 0,
+            "id": "07e74b3ee51f4290981fbeaea66caa0c"
+        },
+        {
+            "question": "What is the ………………. of the green dress?",
+            "description": "Price is what you pay if you buy something.",
+            "answers": [
+                "price",
+                "prize"
+            ],
+            "correct": 0,
+            "id": "57acfa40bcfa46c9bbbfebbd5b563513"
+        },
+        {
+            "question": "Who was the first woman to receive the Nobel …………… for literature?",
+            "description": "Prize is what you get if you win a competition.",
+            "answers": [
+                "price",
+                "prize"
+            ],
+            "correct": 1,
+            "id": "389630cb3fb24b47a3ce0c56e659e4aa"
+        },
+        {
+            "question": "What is your …………………. reason for wanting to be a politician?",
+            "description": "Principal = most important",
+            "answers": [
+                "principal",
+                "principle"
+            ],
+            "correct": 0,
+            "id": "6b97d762293d4c13a1c502936892fd4a"
+        },
+        {
+            "question": "She is a woman with very strong …………………",
+            "description": "Principle = moral rule",
+            "answers": [
+                "principals",
+                "principles"
+            ],
+            "correct": 1,
+            "id": "d58d3ef56c0e4d008b855f4cdfa5045e"
+        }
+    ]
+}

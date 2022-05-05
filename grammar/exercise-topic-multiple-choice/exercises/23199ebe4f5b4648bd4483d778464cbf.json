@@ -1,0 +1,138 @@
+{
+    "id": "23199ebe4f5b4648bd4483d778464cbf",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "She was hungry ………………………… she hadn’t eaten anything in a long time.",
+            "description": "Because gives the reason for something.",
+            "answers": [
+                "because",
+                "so",
+                "therefore"
+            ],
+            "correct": 0,
+            "id": "ae3aac14e037432f88baeac7c2da75f7"
+        },
+        {
+            "question": "……………………………… he is late, we will go without him.",
+            "description": "Either could be used here with different meanings. If expresses a condition. As gives the reason.",
+            "answers": [
+                "As",
+                "If",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "177e4b9ba1b347d28693148a05ba2c10"
+        },
+        {
+            "question": "…………………………… he is fat, he runs slowly.",
+            "description": "As gives the reason.",
+            "answers": [
+                "As",
+                "If",
+                "So"
+            ],
+            "correct": 0,
+            "id": "902aa2f9c84d4774b49cb3e8f90d621f"
+        },
+        {
+            "question": "He is neither intelligent …………………………….. hard working.",
+            "description": "Note the pattern neither...nor.",
+            "answers": [
+                "or",
+                "nor",
+                "and"
+            ],
+            "correct": 1,
+            "id": "668859676c9546688f5ecac91418fd76"
+        },
+        {
+            "question": "I can’t talk to you now ………………………….. I am busy.",
+            "description": "Because gives the reason for something.",
+            "answers": [
+                "because",
+                "so",
+                "hence"
+            ],
+            "correct": 0,
+            "id": "6bbf1bf795bd4a45a24cfddf88e07e3e"
+        },
+        {
+            "question": "You can watch TV …………………………….. you have finished your homework.",
+            "description": "",
+            "answers": [
+                "if",
+                "after",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ebeab3f0234843a095663112fb00c316"
+        },
+        {
+            "question": "……………………………. you are feeling cold, I will put the heating on.",
+            "description": "If expresses a condition.",
+            "answers": [
+                "If",
+                "Unless",
+                "Whether"
+            ],
+            "correct": 0,
+            "id": "96d3e818a2a845a2be1c4fee183f2cd2"
+        },
+        {
+            "question": "………………………………… I had a headache, I enjoyed the party.",
+            "description": "Even though is used to emphasize a contrast.",
+            "answers": [
+                "If",
+                "Even if",
+                "Even though"
+            ],
+            "correct": 2,
+            "id": "09fbd98719734f9c9e6df86882938970"
+        },
+        {
+            "question": "He spoke so fast ………………………….. I could not follow him.",
+            "description": "So shows the cause and that indicates the effect.",
+            "answers": [
+                "and",
+                "that",
+                "hence"
+            ],
+            "correct": 1,
+            "id": "5837aebf1a51420d8bf97e70f686e517"
+        },
+        {
+            "question": "The faster you run, …………………………. you get tired.",
+            "description": "The comparative is used in both clauses in this structure. The article 'the' cannot be omitted.",
+            "answers": [
+                "soon",
+                "sooner",
+                "the sooner"
+            ],
+            "correct": 2,
+            "id": "cfbb9aa0ccd549aaba4bbd26ea04a20d"
+        },
+        {
+            "question": "…………………………. he is the fastest runner, he finished last.",
+            "description": "Though is used to connect two contrasting ideas.",
+            "answers": [
+                "Though",
+                "As",
+                "Because"
+            ],
+            "correct": 0,
+            "id": "feaa722581ee42be9ff63fbc3f78069f"
+        },
+        {
+            "question": "This is the house …………………………… I live.",
+            "description": "Where means in which.",
+            "answers": [
+                "which",
+                "that",
+                "where"
+            ],
+            "correct": 2,
+            "id": "f4c29059af0e43a1b55ee25b00e444ec"
+        }
+    ]
+}

@@ -1,0 +1,306 @@
+{
+    "id": "47da1b1d8f284b869d6cee4f9fbcf126",
+    "title": "Present Simple Yes / No Questions",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / like cake)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you like cake?"
+                    ]
+                }
+            ],
+            "id": "5e5671e6cc3e4a8da9f5980cff56998c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / live in London)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Does she live in London?"
+                    ]
+                }
+            ],
+            "id": "1773e901ba4a4e04a98416759a795226"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / hate studying)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do they hate studying?"
+                    ]
+                }
+            ],
+            "id": "de0ccd2bb88f4cf8b0646951bbf21ae1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / drink tea every morning)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you drink tea every morning?"
+                    ]
+                }
+            ],
+            "id": "9a9134b1aa314b929f248550670da899"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / smoke)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you smoke?"
+                    ]
+                }
+            ],
+            "id": "510b9cf5863b42e98071947ff86d453b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / play tennis on Saturdays)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Does he play tennis on Saturdays?"
+                    ]
+                }
+            ],
+            "id": "156ff443b2c343769cc4ca34460650ac"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / go shopping at the weekend)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you go shopping at the weekend?"
+                    ]
+                }
+            ],
+            "id": "442a8dad9f764c77924b1905cf3f26d4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / drink alcohol)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you drink alcohol?"
+                    ]
+                }
+            ],
+            "id": "22d241b64fc34aafbacdc0a60ce3c7ea"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / work in an office?)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Does she work in an office?"
+                    ]
+                }
+            ],
+            "id": "92ac9f5ce25b4cb7b041c014260e3b0b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / study French?)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do they study French??"
+                    ]
+                }
+            ],
+            "id": "9f50e333fecf419a96519c2af898ae36"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / meet your friends on Fridays?)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you meet your friends on Fridays?"
+                    ]
+                }
+            ],
+            "id": "3f8b75933f9a4eae8155d6ab21349ff3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / read a lot?)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you read a lot?"
+                    ]
+                }
+            ],
+            "id": "46c546283dfa488f9a33c2d4f35b671f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(John / come from New Zealand)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Does John come from New Zealand?"
+                    ]
+                }
+            ],
+            "id": "3d17c1fc529f43e49ca65fbe5e52c3a5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / like pizza)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do they like pizza?"
+                    ]
+                }
+            ],
+            "id": "7daa0cb3010b4faca75a4089913050ee"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / arrive at 9 pm)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do we arrive at 9 pm?"
+                    ]
+                }
+            ],
+            "id": "2a2e0552730942e589c0e1b13171835b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(it / snow here in winter)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Does it snow here in winter?"
+                    ]
+                }
+            ],
+            "id": "24b1ff57cf8144188ea3287563cba504"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Lucy / study History)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Does Lucy study History?"
+                    ]
+                }
+            ],
+            "id": "849d53534d9147a993678e337be9c52f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / work as a teacher)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do I work as a teacher?"
+                    ]
+                }
+            ],
+            "id": "f567b2df855244c692afe5f223712a0c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / eat rice often)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Does he eat rice often?"
+                    ]
+                }
+            ],
+            "id": "cb293c693a2046168217b4d82f9299dd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / like coffee)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you like coffee?"
+                    ]
+                }
+            ],
+            "id": "da329c8da66f46c898c623c8f038bf20"
+        }
+    ]
+}

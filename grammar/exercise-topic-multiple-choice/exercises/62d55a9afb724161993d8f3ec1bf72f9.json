@@ -1,0 +1,137 @@
+{
+    "id": "62d55a9afb724161993d8f3ec1bf72f9",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "The consequence of his carelessness was ………………………… he failed.",
+            "description": "That can indicate the effect.",
+            "answers": [
+                "such that",
+                "that",
+                "so that"
+            ],
+            "correct": 1,
+            "id": "0db12e1f691041818de3e3091425c2d4"
+        },
+        {
+            "question": "…………………………….. I am successful does not necessarily make me happy.",
+            "description": "That clauses do not normally stand alone as subjects. We use the expression ‘the fact that’ instead of ‘that’.",
+            "answers": [
+                "That",
+                "The fact that",
+                "What"
+            ],
+            "correct": 1,
+            "id": "96fe9ba1b22140d594a9ef98a5c60e10"
+        },
+        {
+            "question": "…………………………. I shall stay is doubtful.",
+            "description": "",
+            "answers": [
+                "How long",
+                "How long for",
+                "What long"
+            ],
+            "correct": 0,
+            "id": "6c6adca24e9445baaf905fa51136abd2"
+        },
+        {
+            "question": "The news ………………………….. the captain was killed spread like wild fire.",
+            "description": "A noun clause can be used in apposition to a noun. In most cases, this is introduced by that.",
+            "answers": [
+                "that",
+                "of",
+                "what"
+            ],
+            "correct": 0,
+            "id": "05d848a9c4ad43c88f5964f3a806e9e4"
+        },
+        {
+            "question": "He sold the horse …………………………… belonged to his brother.",
+            "description": "In identifying relative clauses that and which can both refer to things or animals.",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "a079ea878eeb44e49eb70fa16f954679"
+        },
+        {
+            "question": "I have no pen …………………………… I can lend.",
+            "description": "That is common after words like no, none, nothing etc. ",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "f742d33be93c4869b47744ed3c9e10d0"
+        },
+        {
+            "question": "A man …………………………. is dead needs no comforts.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "0640543c4bbd43408d47bfb0e4a247ee"
+        },
+        {
+            "question": "The camel …………………………… was bought from Arabia is very big.",
+            "description": "In identifying relative clauses both which and that can refer to animals and things. ",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "09b102e0d5e34fe293cf72c0df680917"
+        },
+        {
+            "question": "I found the key …………………………. I had lost.",
+            "description": "We use which to refer to things. ",
+            "answers": [
+                "which",
+                "what",
+                "who"
+            ],
+            "correct": 0,
+            "id": "4bedc709f5ee49ef8656a7dfff5d31e3"
+        },
+        {
+            "question": "You can eat as much …………………………… you want.",
+            "description": "",
+            "answers": [
+                "as",
+                "what",
+                "than"
+            ],
+            "correct": 0,
+            "id": "ccee51b22d0a491bb1cdac566de3997d"
+        },
+        {
+            "question": "The master was annoyed …………………………. his servant had not carried out his orders.",
+            "description": "",
+            "answers": [
+                "so",
+                "that",
+                "because"
+            ],
+            "correct": 2,
+            "id": "2259f799763f4116b566caa284b8fa65"
+        },
+        {
+            "question": "……………………………. there is life, there is hope.",
+            "description": "As long as is used to indicate a condition. ",
+            "answers": [
+                "As long as",
+                "As soon as"
+            ],
+            "correct": 0,
+            "id": "42b8a903569b46d19cc0f8a0e16fc3ca"
+        }
+    ]
+}

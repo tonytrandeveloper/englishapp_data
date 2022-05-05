@@ -1,0 +1,138 @@
+{
+    "id": "410f78c13f8049b6a3c16428b17aa17f",
+    "title": "Gap Filling Exercise",
+    "questions": [
+        {
+            "question": "I ……………………….. a call from him in the morning.",
+            "description": "The past simple is more common with expressions like in the morning. ",
+            "answers": [
+                "received",
+                "have received",
+                "had received"
+            ],
+            "correct": 0,
+            "id": "a48811a842bc40a59e0adc66831e4963"
+        },
+        {
+            "question": "He told me what ……………………",
+            "description": "The past perfect is more appropriate to talk about the earlier of two past events. ",
+            "answers": [
+                "happened",
+                "had happened",
+                "has happened"
+            ],
+            "correct": 1,
+            "id": "813cc017dc0f49678ef91d82541db77e"
+        },
+        {
+            "question": "If I had gone to university, I ……………………… an attorney.",
+            "description": "In the third conditional we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "will become",
+                "would become",
+                "would have become"
+            ],
+            "correct": 2,
+            "id": "9acd6ede52fc47b0b793b453fbfafad7"
+        },
+        {
+            "question": "I heard them ………………………. in the other room.",
+            "description": "Either the gerund or the infinitive without to is possible here. ",
+            "answers": [
+                "talking",
+                "talk",
+                "to talk"
+            ],
+            "correct": 1,
+            "id": "ffcd814e94d04ce9b4ad894c1afaf3d6"
+        },
+        {
+            "question": "………………………….. the truth.",
+            "description": "",
+            "answers": [
+                "Speak",
+                "Talk",
+                "Tell"
+            ],
+            "correct": 0,
+            "id": "eb97732f955b4d45b7004d7b5049483e"
+        },
+        {
+            "question": "I would rather you ……………………… another job.",
+            "description": "The simple past is used after would rather. ",
+            "answers": [
+                "find",
+                "found",
+                "have found"
+            ],
+            "correct": 1,
+            "id": "d62bfc9f0f254c79b5755e0b6feb0ade"
+        },
+        {
+            "question": "It is high time he ……………………. smoking.",
+            "description": "The past simple is used after it is high time. ",
+            "answers": [
+                "quits",
+                "quit",
+                "will quit"
+            ],
+            "correct": 1,
+            "id": "2f84c7ffd64a42889d85bd5acab4121e"
+        },
+        {
+            "question": "When I met him yesterday I ……………………… him about my problems.",
+            "description": "",
+            "answers": [
+                "have told",
+                "had told",
+                "told"
+            ],
+            "correct": 2,
+            "id": "7a9f4c622a18423f8ecf099e977e8cfa"
+        },
+        {
+            "question": "He was acquitted ………………………. the charges levelled against him.",
+            "description": "",
+            "answers": [
+                "of",
+                "from",
+                "off"
+            ],
+            "correct": 0,
+            "id": "ac6d1592f65245e8bf8f351692c689dc"
+        },
+        {
+            "question": "We reached the theatre after the movie ………………………..",
+            "description": "The past perfect is used for the earlier of the two past actions.",
+            "answers": [
+                "began",
+                "had begun",
+                "has begun"
+            ],
+            "correct": 1,
+            "id": "7254c9be97ea478d936cd56c08ff8258"
+        },
+        {
+            "question": "I waited for him but he ………………………….",
+            "description": "",
+            "answers": [
+                "didn't came",
+                "didn't come",
+                "hadn't come"
+            ],
+            "correct": 1,
+            "id": "78c39f5e1030466e9427ca11c3b17ea3"
+        },
+        {
+            "question": "You haven’t returned the vacuum cleaner you …………………….. from me.",
+            "description": "",
+            "answers": [
+                "have borrowed",
+                "borrowed",
+                "borrow"
+            ],
+            "correct": 1,
+            "id": "53905142472a41cdbead80dc40b4bcad"
+        }
+    ]
+}

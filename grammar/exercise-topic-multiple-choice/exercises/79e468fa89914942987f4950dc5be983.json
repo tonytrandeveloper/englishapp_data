@@ -1,0 +1,88 @@
+{
+    "id": "79e468fa89914942987f4950dc5be983",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "We bought some mangoes ……………. we extracted the juice.",
+            "description": "",
+            "answers": [
+                "of which",
+                "with which",
+                "from which",
+                "at which"
+            ],
+            "correct": 2,
+            "id": "15b7c9647c574bff838f0474e3a7d070"
+        },
+        {
+            "question": "When the storm subsided, we ………………. the next village.",
+            "description": "",
+            "answers": [
+                "continued on to",
+                "continued to",
+                "were continued on to",
+                "continued on"
+            ],
+            "correct": 1,
+            "id": "00473438efb2450d99ed4bdaf500f1ae"
+        },
+        {
+            "question": "I managed to do ………………… in the test although I was not feeling ………………..",
+            "description": "",
+            "answers": [
+                "well, well",
+                "well, good",
+                "good, well",
+                "good, good"
+            ],
+            "correct": 0,
+            "id": "5be7a41e9f7c48b2bf1a21c09688a170"
+        },
+        {
+            "question": "Neither Jane nor …………………. have been to the opera.",
+            "description": "",
+            "answers": [
+                "I",
+                "me",
+                "he",
+                "him"
+            ],
+            "correct": 0,
+            "id": "6c9cf6b0da274f899bb5440e24e3e7df"
+        },
+        {
+            "question": "He thinks that ……………….. two can win the doubles match.",
+            "description": "",
+            "answers": [
+                "we",
+                "us",
+                "me",
+                "them"
+            ],
+            "correct": 0,
+            "id": "dedcbc9bf8ed49c2a2565e52e746223d"
+        },
+        {
+            "question": "Between you and ………………… I don’t trust her.",
+            "description": "",
+            "answers": [
+                "I",
+                "me",
+                "he"
+            ],
+            "correct": 1,
+            "id": "c527cf3e05a7402983ffc847309d25d6"
+        },
+        {
+            "question": "………………… by the rain the travelers took shelter under a tree.",
+            "description": "",
+            "answers": [
+                "Driving",
+                "Driven",
+                "Drove"
+            ],
+            "correct": 1,
+            "id": "983ab2cac854478084a04a8d24a373cd"
+        }
+    ]
+}

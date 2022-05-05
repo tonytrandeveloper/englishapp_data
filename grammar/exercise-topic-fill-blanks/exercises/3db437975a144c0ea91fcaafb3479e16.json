@@ -1,0 +1,326 @@
+{
+    "id": "3db437975a144c0ea91fcaafb3479e16",
+    "title": "Present Continuous Positive and Negative 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / study at the moment)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I'm studying at the moment.",
+                        "I am studying at the moment."
+                    ]
+                }
+            ],
+            "id": "fae4fd46a7c4472eb90afe5a8edfb0ce"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / sleep)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I'm not sleeping.",
+                        "I am not sleeping."
+                    ]
+                }
+            ],
+            "id": "4bb0e0eea5554d19be53c330033fbcff"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / play badminton tonight)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You're playing badminton tonight.",
+                        "You are playing badminton tonight."
+                    ]
+                }
+            ],
+            "id": "655d2958107848cd9a6bee3557c4af56"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / watch TV)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We're watching TV.",
+                        "We are watching TV."
+                    ]
+                }
+            ],
+            "id": "8c2d5e7113e74cf0af56cf80f73be9a4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / work in Spain)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She isn't working in Spain.",
+                        "She is not working in Spain."
+                    ]
+                }
+            ],
+            "id": "308d4714a8e444f49b9db129b9920ad2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / wait for the bus)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He isn't waiting for the bus.",
+                        "He is not waiting for the bus."
+                    ]
+                }
+            ],
+            "id": "cfc183cb47054fb192299b0aff133316"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / read)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They're reading.",
+                        "They are reading."
+                    ]
+                }
+            ],
+            "id": "abe4a521ce6049799a8be1e366113028"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / go to the cinema tonight)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We aren't going to the cinema tonight.",
+                        "We are not going to the cinema tonight."
+                    ]
+                }
+            ],
+            "id": "a7cb7605ca8b4b40aa9ca527b80539b8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / read the newspaper)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You aren't reading the newspaper.",
+                        "You are not reading the newspaper."
+                    ]
+                }
+            ],
+            "id": "1e657be21a96495cb17b63c1ee1b8e5f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / eat chocolate)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She's eating chocolate.",
+                        "She is eating chocolate."
+                    ]
+                }
+            ],
+            "id": "5860d6e3220f450cac4c73b45681e0c1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / live in Paris)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I'm not living in Paris.",
+                        "I am not living in Paris."
+                    ]
+                }
+            ],
+            "id": "27d66e21fb704f3cac961c7f6743b3fb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / study French)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We're studying French.",
+                        "We are studying French."
+                    ]
+                }
+            ],
+            "id": "f1203116bd1c4a4d9f8d46dcca990fcf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / leave now)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They aren't leaving now.",
+                        "They are not leaving now."
+                    ]
+                }
+            ],
+            "id": "0a408957cc0a4930aef0a896cba7adf2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / live in London)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They're living in London.",
+                        "They are living in London."
+                    ]
+                }
+            ],
+            "id": "2f22466410804b37b6f37a74c0353e25"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / work in a restaurant now)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He's working in a restaurant now.",
+                        "He is working in a restaurant now."
+                    ]
+                }
+            ],
+            "id": "6331087a72c64742b1b3c875aa1c7fe9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / meet my father at four)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I'm not meeting my father at four.",
+                        "I am not meeting my father at four."
+                    ]
+                }
+            ],
+            "id": "2794cac1caa443ebac343dc9a34e67ba"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / drink tea now)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She isn't drinking tea now.",
+                        "She is not drinking tea now."
+                    ]
+                }
+            ],
+            "id": "f8511ee11b794f01a7ee208678766eab"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / play the guitar)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She's playing the guitar.",
+                        "She is playing the guitar."
+                    ]
+                }
+            ],
+            "id": "f0db1d928e1b408ba32aef2c9eb57d89"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / cook)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We're cooking.",
+                        "We are cooking."
+                    ]
+                }
+            ],
+            "id": "8551b60a33a746549b0a27930760efab"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / walk to school now)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He's walking to school now.",
+                        "He is walking to school now."
+                    ]
+                }
+            ],
+            "id": "bb29f3de47d34b44ac3505db1aa9e2d4"
+        }
+    ]
+}

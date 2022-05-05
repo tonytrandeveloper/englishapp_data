@@ -1,0 +1,137 @@
+{
+    "id": "92a07c2c82aa416fa36a7647aff5b516",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "She was angry …………………… him for stealing her ideas.",
+            "description": "Angry with/at a person for doing something.",
+            "answers": [
+                "with",
+                "at",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "de28821c16b84120aca926d52d50d6c5"
+        },
+        {
+            "question": "She was angry …………………….. everyone.",
+            "description": "",
+            "answers": [
+                "with",
+                "at",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "8b5447d2bc934b9f93c006391ea414fe"
+        },
+        {
+            "question": "That voice is familiar ………………………… me.",
+            "description": "",
+            "answers": [
+                "to",
+                "for",
+                "with",
+                ""
+            ],
+            "correct": 0,
+            "id": "d25752a282cf42d09089be20e0666603"
+        },
+        {
+            "question": "A cock and bull story is ……………………………",
+            "description": "",
+            "answers": [
+                "an unbelievable story",
+                "an interesting story",
+                "a false story"
+            ],
+            "correct": 0,
+            "id": "ac669622fb77452d8588ab38ea4f9e09"
+        },
+        {
+            "question": "To move heaven and earth is to ………………………",
+            "description": "",
+            "answers": [
+                "pray to god",
+                "work hard",
+                "be happy"
+            ],
+            "correct": 1,
+            "id": "1621e9450da24fcdacfca8b0819d57d5"
+        },
+        {
+            "question": "To lead up the garden path is to ………………………",
+            "description": "",
+            "answers": [
+                "help",
+                "guide",
+                "cheat"
+            ],
+            "correct": 2,
+            "id": "d4ba76c2bf214f4fae28e5f3bc4d4330"
+        },
+        {
+            "question": "The juice in the cans …………………………. very delicious.",
+            "description": "Here the subject is the singular noun juice.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "906613f7f8154422b4f1ca5c451e1e83"
+        },
+        {
+            "question": "I wish I ……………………… a bird.",
+            "description": "Were is common after I wish to talk about unrealistic situations.",
+            "answers": [
+                "was",
+                "were",
+                "am"
+            ],
+            "correct": 1,
+            "id": "7817b7baa8354871aa74d3287a97280b"
+        },
+        {
+            "question": "The accused behaved as if he ………………………….. mad.",
+            "description": "Was is also possible here however, were is more common than was in an unreal comparison. ",
+            "answers": [
+                "is",
+                "was",
+                "were"
+            ],
+            "correct": 2,
+            "id": "b3504edf75ba40c0a75296db58e66736"
+        },
+        {
+            "question": "If I were you, I ………………………. to that proposal.",
+            "description": "In the second conditional, use a simple past tense in the if-clause and would + first form of the verb in the main clause.",
+            "answers": [
+                "will not agree",
+                "would not agree",
+                "would not have agreed"
+            ],
+            "correct": 1,
+            "id": "f65065e7e7ea4eca96abd2651240519c"
+        },
+        {
+            "question": "His mentor and benefactor …………………….. his professor.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "83f345ac7edb4187bcab3fa77aa6be33"
+        },
+        {
+            "question": "An assembly of churchgoers is a ……………………………",
+            "description": "",
+            "answers": [
+                "convocation",
+                "congregation",
+                "conflagration"
+            ],
+            "correct": 0,
+            "id": "a73a613120f0466fbdf30e12567506dd"
+        }
+    ]
+}

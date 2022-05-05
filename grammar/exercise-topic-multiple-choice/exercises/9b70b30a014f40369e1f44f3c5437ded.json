@@ -1,0 +1,138 @@
+{
+    "id": "9b70b30a014f40369e1f44f3c5437ded",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "In some of the villages they still ............................ electricity.",
+            "description": "We do not use the word miss to say that somebody hasn’t got something.",
+            "answers": [
+                "lack",
+                "miss",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "fa5e1bd95324403d90339d02870af68b"
+        },
+        {
+            "question": "She threw a glass at me, but .................................",
+            "description": "Lost is not used with this meaning. To miss is to fail to contact somebody.",
+            "answers": [
+                "missed",
+                "lacked",
+                "lost"
+            ],
+            "correct": 0,
+            "id": "d058f712e9324ca7a28ab1cdc948d746"
+        },
+        {
+            "question": "If we don’t hurry we will ................................ the train.",
+            "description": "Lost is not used with this meaning. To miss is to fail to contact somebody.",
+            "answers": [
+                "lose",
+                "miss",
+                "lack"
+            ],
+            "correct": 1,
+            "id": "6fb35678b9a3462199d2c902dedaf1b5"
+        },
+        {
+            "question": "When did you realize that the bag was ....................................?",
+            "description": "",
+            "answers": [
+                "missing",
+                "lost",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "d52c79ec27474e61878d9e365d4bde11"
+        },
+        {
+            "question": "The kitchen ought to .................................... these days.",
+            "description": "Somebody has to paint the kitchen. So we use a passive infinitive here.",
+            "answers": [
+                "paint",
+                "be painted",
+                "be painting"
+            ],
+            "correct": 1,
+            "id": "256d1b5063be468ca9628b1749b73586"
+        },
+        {
+            "question": "................................ university students have to borrow money these days.",
+            "description": "We use ‘more’ before a noun without a determiner.",
+            "answers": [
+                "More",
+                "More of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "dcbc06e8ad7b462fbe63d092909f58c6"
+        },
+        {
+            "question": "You ................................ be Anna’s sister – you look just like her.",
+            "description": "We can use must to express the conclusion that something is certain.",
+            "answers": [
+                "can",
+                "must",
+                "will"
+            ],
+            "correct": 1,
+            "id": "dfe93fc15a50469884120f0740888b37"
+        },
+        {
+            "question": "Do we need .............................. seats on the train?",
+            "description": "When need is used as an ordinary verb, it is followed by a to-infinitive.",
+            "answers": [
+                "reserve",
+                "to reserve",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f9876b76cbbc49aa91e28187390df67b"
+        },
+        {
+            "question": "You seldom work on Saturdays, .................................?",
+            "description": "We use an affirmative tag after negative expressions like seldom, hardly or rarely.",
+            "answers": [
+                "do you",
+                "don't you",
+                "did you"
+            ],
+            "correct": 0,
+            "id": "fc6bb895e6874c02b872ca74eacdc6ab"
+        },
+        {
+            "question": "................................... quick results when you learn a foreign language.",
+            "description": "We make negative imperatives with do not + infinitive.",
+            "answers": [
+                "Expect not",
+                "Do not expect",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f31ae3e76f524b399ad29fa9bf0c4759"
+        },
+        {
+            "question": "There is little point in asking him, ..............................?",
+            "description": "Clauses with little and few are followed by affirmative question tags.",
+            "answers": [
+                "is there",
+                "isn't there",
+                "does there"
+            ],
+            "correct": 0,
+            "id": "0094c0fa51e245c49e024398288de89c"
+        },
+        {
+            "question": "He has few reasons to quit, ...............................?",
+            "description": "Clauses with little and few are followed by affirmative question tags.",
+            "answers": [
+                "hasn't he",
+                "has he",
+                "does he"
+            ],
+            "correct": 1,
+            "id": "a05832959166468b8bfee6c0fc777e01"
+        }
+    ]
+}

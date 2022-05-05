@@ -1,0 +1,76 @@
+{
+    "id": "6e17fcae91ee478da385b39618f7e1a1",
+    "title": "Transitive And Intransitive Verbs Exercise",
+    "questions": [
+        {
+            "question": "Woodcutters ……………………….. trees.",
+            "description": "",
+            "answers": [
+                "fall",
+                "fell"
+            ],
+            "correct": 1,
+            "id": "c7664ceaad374b689bbc1b57d404c4b8"
+        },
+        {
+            "question": "………………………. still.",
+            "description": "",
+            "answers": [
+                "Lie",
+                "Lay"
+            ],
+            "correct": 0,
+            "id": "03ea586d23d94cb5aeab9ef3e537195f"
+        },
+        {
+            "question": "…………………………. the basket there.",
+            "description": "",
+            "answers": [
+                "Lay",
+                "Lie"
+            ],
+            "correct": 0,
+            "id": "76b5de3f382e4a62be6b97317621ae0f"
+        },
+        {
+            "question": "…………………………….. early with the lark.",
+            "description": "",
+            "answers": [
+                "Rise",
+                "Raise"
+            ],
+            "correct": 0,
+            "id": "17a372c7f3614338af70a26f687f776e"
+        },
+        {
+            "question": "……………………….. your hands.",
+            "description": "",
+            "answers": [
+                "Rise",
+                "Raise"
+            ],
+            "correct": 1,
+            "id": "74e98cd5e787426b8a2b339f36935b23"
+        },
+        {
+            "question": "…………………………. there.",
+            "description": "",
+            "answers": [
+                "Sit",
+                "Set"
+            ],
+            "correct": 0,
+            "id": "b3c0ccebd3a141ca9b34463cdf26fee5"
+        },
+        {
+            "question": "………………………… the lamp on the table.",
+            "description": "",
+            "answers": [
+                "Sit",
+                "Set"
+            ],
+            "correct": 1,
+            "id": "01e7e326f4ce49bd9c002b11c90fcf9d"
+        }
+    ]
+}

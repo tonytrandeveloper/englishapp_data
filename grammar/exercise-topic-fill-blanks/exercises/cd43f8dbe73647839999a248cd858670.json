@@ -1,0 +1,616 @@
+{
+    "id": "cd43f8dbe73647839999a248cd858670",
+    "title": "Past Simple or Past Continuous Exercise 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was sitting"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(sit) in a cafe when you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "called"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(call) ."
+                }
+            ],
+            "id": "715915aa4a754a9f8fe8c087cbe14d34"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "arrived"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) at the party, who"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) there?"
+                }
+            ],
+            "id": "e343bb62801d4a6399f9639229b0595a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Susie"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was watching"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(watch) a film when she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "heard"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(hear) the noise."
+                }
+            ],
+            "id": "a018c839337344869cba97cfc729f1f4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Yesterday I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "went"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the library, next I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a swim, later I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "met"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(meet) Julie for coffee."
+                }
+            ],
+            "id": "0331e850f47f41249a9706fbd0cb6475"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were playing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(play) tennis when John"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hurt"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(hurt) his ankle."
+                }
+            ],
+            "id": "c2fc0aec85d24fbbaae33f0c467e9f7a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were they doing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(they/do) at 10pm last night - it was really noisy?"
+                }
+            ],
+            "id": "7d285cc545bc4a878156ee737619c65b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was taking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(take) a shower when the telephone"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "rang"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(ring)."
+                }
+            ],
+            "id": "915caa75696141e8b4340a04a2980b30"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in the shower when the telephone"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "rang"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(ring)."
+                }
+            ],
+            "id": "f9e7fdd2aae7482a83f83d7ce119503f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "walked"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(walk) into the room, everyone"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(work)."
+                }
+            ],
+            "id": "3c2662f3927749e8a2ed1aaef3ee062e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) a day last September. The sun"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was shining"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(shine) and the birds"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were singing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(sing) . I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was walking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(walk) along the street when I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "met"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(meet) an old friend."
+                }
+            ],
+            "id": "b2295fac50074c94a4d4e9054e5e913a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was living"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in Russia when the Revolution"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "started"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(start)."
+                }
+            ],
+            "id": "16bf128811aa4c8ab427e6c9d4de125d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When her train"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "got"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get) to the station, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were waiting"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(wait) on the platform."
+                }
+            ],
+            "id": "74d083e50f8a46c1b477b78ce8f89180"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) so annoying! He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was always leaving"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(always leave) his things everywhere."
+                }
+            ],
+            "id": "ac202014455640688bb081b8f17b7ba2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "On holiday we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "visited"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(visit) Rome,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "saw"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(see) the Vatican, and"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "spent"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(spend) a few days at the beach."
+                }
+            ],
+            "id": "409d0f76a4854cfc834dfe94ff951f21"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were you standing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(stand) on a chair when I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "came"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(come) into the room?"
+                }
+            ],
+            "id": "dc716fd38091484ca46e086f11dc25b7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "lived"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in Germany when they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) young."
+                }
+            ],
+            "id": "e93cbf8e82544925b09a81b78cde9245"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 7pm yesterday, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were listening"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(listen) to music."
+                }
+            ],
+            "id": "a1dad85404094a80a16ba0a3db26c94b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "left"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) the house, it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was snowing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(snow)."
+                }
+            ],
+            "id": "9dff3e6619414508bc697284024c9ae9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(work) in a bank when he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "met"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(meet) his wife."
+                }
+            ],
+            "id": "e12aa8a7377f4238b6e84f3cf375b905"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were you doing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/do) when I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "called"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(call) you last night?"
+                }
+            ],
+            "id": "f5eab59f5acb4b2da980c42a89deedcd"
+        }
+    ]
+}

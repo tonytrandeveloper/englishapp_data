@@ -1,0 +1,138 @@
+{
+    "id": "26310db7c83f486ca591a8e9269929fe",
+    "title": "Degrees Of Comparison Exercise",
+    "questions": [
+        {
+            "question": "She is senior ................................... me by five years.",
+            "description": "The adjectives senior and junior are followed by the preposition to.",
+            "answers": [
+                "than",
+                "of",
+                "to"
+            ],
+            "correct": 2,
+            "id": "94fea8143b4444389bce5c04c43eca47"
+        },
+        {
+            "question": "My job is superior ..................................... yours.",
+            "description": "The adjectives superior and inferior are followed by the preposition to.",
+            "answers": [
+                "than",
+                "of",
+                "to"
+            ],
+            "correct": 2,
+            "id": "d52773baf93d41a5bd05bd21bab95353"
+        },
+        {
+            "question": "James is ........................................  his brother.",
+            "description": "We use the comparative to compare one person or thing with another person or thing.",
+            "answers": [
+                "tallest of",
+                "taller than",
+                "taller then"
+            ],
+            "correct": 1,
+            "id": "a2e0b007f45a4896a1018f168a805ec4"
+        },
+        {
+            "question": "She sings ......................................... as her sister.",
+            "description": "We use constructions with as...as... to say that two persons or things are similar.",
+            "answers": [
+                "as best",
+                "as well",
+                "better"
+            ],
+            "correct": 1,
+            "id": "ceb9fdcc5f6b4d2c91036b591648ec5d"
+        },
+        {
+            "question": "I earn as ..................................... money as you do.",
+            "description": "Adjectives or adverbs of the positive degree are used in this construction.",
+            "answers": [
+                "much",
+                "more",
+                "much more"
+            ],
+            "correct": 0,
+            "id": "38996d9333e04ca0bfbccaab7bc45b5c"
+        },
+        {
+            "question": "Samuel is ........................................ of the four boys.",
+            "description": "We use the superlative to compare one or thing with the group to which that person or thing also belongs.",
+            "answers": [
+                "taller than",
+                "tallest than",
+                "the tallest"
+            ],
+            "correct": 2,
+            "id": "49fadb9352e547c396ced45885cee192"
+        },
+        {
+            "question": "I am quite …………………………….. with what I have achieved.",
+            "description": "We use the positive adjective when there is no idea of comparison.",
+            "answers": [
+                "happy",
+                "happier",
+                "happiest"
+            ],
+            "correct": 0,
+            "id": "32271b4d752d41099908873778c7d90f"
+        },
+        {
+            "question": "This is …………………………… difficult problem I have ever encountered.",
+            "description": "We make the superlative form of difficult with most. The article the is used before superlative adjectives.",
+            "answers": [
+                "the more",
+                "the most",
+                "most"
+            ],
+            "correct": 1,
+            "id": "afb4738f2dd346d3b910ed4342626289"
+        },
+        {
+            "question": "You are …………………………… woman I have ever met.",
+            "description": "The superlative form of kind is kindest.",
+            "answers": [
+                "the kindest",
+                "the most kind",
+                "the most kindest"
+            ],
+            "correct": 0,
+            "id": "d68aea3ef16e4c7d9649a26bb5196cac"
+        },
+        {
+            "question": "This is as interesting …………………………. that.",
+            "description": "",
+            "answers": [
+                "than",
+                "as",
+                "so"
+            ],
+            "correct": 1,
+            "id": "f8b5557769e6467ba5112fb444f657f0"
+        },
+        {
+            "question": "I am …………………………….. in movies than concerts.",
+            "description": "",
+            "answers": [
+                "most interested",
+                "more interested",
+                "as interested"
+            ],
+            "correct": 1,
+            "id": "b04b33e45a6046c9a700397d1a1834f4"
+        },
+        {
+            "question": "You are no ............................................. him.",
+            "description": "",
+            "answers": [
+                "better of",
+                "better than",
+                "best of"
+            ],
+            "correct": 1,
+            "id": "7ef21cff9c3547f680c156cb74f6cac9"
+        }
+    ]
+}

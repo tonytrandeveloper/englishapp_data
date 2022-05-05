@@ -1,0 +1,138 @@
+{
+    "id": "64cc165c705449269f383ff8a35a7664",
+    "title": "Adjectives Exercise",
+    "questions": [
+        {
+            "question": "He is ………………….. than I expected.",
+            "description": "Later is the comparative form of late.",
+            "answers": [
+                "later",
+                "latter",
+                "late"
+            ],
+            "correct": 0,
+            "id": "eface0f2f2f84d74b691bc4cbdb306da"
+        },
+        {
+            "question": "He is ……………………… than prudent.",
+            "description": "When we compare two descriptions, we use more.",
+            "answers": [
+                "braver",
+                "more brave",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "67bd215ec8f648aaaa213fb5a141b7f0"
+        },
+        {
+            "question": "Janet is prettier than ……………………….. in the class.",
+            "description": "When two objects are compared with each other, the latter term of comparison must exclude the former.",
+            "answers": [
+                "any girl",
+                "any other girl",
+                "any girls"
+            ],
+            "correct": 1,
+            "id": "cfe0d2b57ff4444fbcfafe7020a321c3"
+        },
+        {
+            "question": "The ………………………. chapters are not very interesting.",
+            "description": "Latter is the opposite of former.",
+            "answers": [
+                "later",
+                "latter",
+                "last"
+            ],
+            "correct": 1,
+            "id": "5fbd32aea5fb48069ba732752486dbeb"
+        },
+        {
+            "question": "Ours is the ………………………… house on this street.",
+            "description": "Last indicates position. ",
+            "answers": [
+                "last",
+                "latest",
+                "lastest"
+            ],
+            "correct": 0,
+            "id": "9550d158845d455d87d739c570a46733"
+        },
+        {
+            "question": "Have you heard the ……………………….. news?",
+            "description": "Latest is used to talk about very recent things.",
+            "answers": [
+                "last",
+                "latest",
+                "later"
+            ],
+            "correct": 1,
+            "id": "6ec356e8d0be4c9ea1745f6a0bc88cd5"
+        },
+        {
+            "question": "She thinks her new job is much better than the ……………………. one.",
+            "description": "Last can mean the one before this one.",
+            "answers": [
+                "last",
+                "latest",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "7eefefcff586459dbe9954be95fd347d"
+        },
+        {
+            "question": "I am enjoying my ………………………. job.",
+            "description": "",
+            "answers": [
+                "last",
+                "latest",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e7ae754741e04fd78d235ad31f0dced3"
+        },
+        {
+            "question": "This is the ……………………. warning you get from me.",
+            "description": "",
+            "answers": [
+                "last",
+                "latest",
+                "lastest"
+            ],
+            "correct": 0,
+            "id": "6bebbdb0d85641e68addaa10c2daae7a"
+        },
+        {
+            "question": "Were you at the meeting ……………………. Monday?",
+            "description": "The expressions last month, last week, last Monday etc. are used without articles and prepositions.",
+            "answers": [
+                "last",
+                "latest",
+                "the last",
+                "on the last"
+            ],
+            "correct": 0,
+            "id": "140265f9e7b14363b8ad4119bcf44af5"
+        },
+        {
+            "question": "He is much ……………………. than his wife.",
+            "description": "We use old, older and oldest to talk of age.",
+            "answers": [
+                "elder",
+                "older"
+            ],
+            "correct": 1,
+            "id": "479a170b03614bfe9ea8e76b61b2ec45"
+        },
+        {
+            "question": "This is the ……………………….. mosque in India.",
+            "description": "Elder and eldest are used only of persons, not of animals or things.",
+            "answers": [
+                "eldest",
+                "oldest",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1ba791ff4d4b4804a706db95a338b8a2"
+        }
+    ]
+}

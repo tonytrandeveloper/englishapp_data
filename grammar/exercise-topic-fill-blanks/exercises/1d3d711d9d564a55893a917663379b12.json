@@ -1,0 +1,315 @@
+{
+    "id": "1d3d711d9d564a55893a917663379b12",
+    "title": "Present Continuous Mixed Exercise 2",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / go to the cinema later)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We're going to the cinema later.",
+                        "We are going to the cinema later."
+                    ]
+                }
+            ],
+            "id": "f1f8a05e1b3f4c72812be75be96d1943"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / work now)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They're working now.",
+                        "They are working now."
+                    ]
+                }
+            ],
+            "id": "e5e22494a6194119ad681381ba4c501a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / walk)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You aren't walking.",
+                        "You are not walking."
+                    ]
+                }
+            ],
+            "id": "f1cb2e816c89418a8d4fd5d9fce3c85b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / learn new things)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are they learning new things?"
+                    ]
+                }
+            ],
+            "id": "1a37a1972240469aa1ac21d4c6128dd5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(when / he / start work)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "When is he starting work?"
+                    ]
+                }
+            ],
+            "id": "0692d004dd9d44868037125641f584c2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / I / stay at home)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Why am I staying at home?"
+                    ]
+                }
+            ],
+            "id": "abad84c46ab34ec5858c6045fcf9d2e4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(it / get dark)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is it getting dark?"
+                    ]
+                }
+            ],
+            "id": "83578a9e4f7b430d9910683a4026b63f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / win)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We aren't winning.",
+                        "We are not winning."
+                    ]
+                }
+            ],
+            "id": "f10a5bc97bcc4355be197339b466afa3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / bring a cake)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They aren't bringing a cake.",
+                        "They are not bringing a cake."
+                    ]
+                }
+            ],
+            "id": "2959af69926542a988facc536e44656d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(the dog / not / play with a ball)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The dog isn't playing with a ball.",
+                        "The dog is not playing with a ball."
+                    ]
+                }
+            ],
+            "id": "ea63b56a5d924901a6bf732d951e22e4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / it / rain now)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Why is it raining now?"
+                    ]
+                }
+            ],
+            "id": "c72e0c2242514696aa0b180f7419f6ed"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / she / travel)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How is she travelling?"
+                    ]
+                }
+            ],
+            "id": "3237090ecb7d485c9e5b7811be9b8995"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you / work)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Where are you working?"
+                    ]
+                }
+            ],
+            "id": "50e903d8ff034d709c5610bcb5dfb2e4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / we / watch)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What are we watching?"
+                    ]
+                }
+            ],
+            "id": "dc0af604a02f4b00868f626a0559729f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / meet your friend at four)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You're meeting your friend at four.",
+                        "You are meeting your friend at four."
+                    ]
+                }
+            ],
+            "id": "674c7222ccf74229a222a11b055ce982"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / take too much cake)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Am I taking too much cake?"
+                    ]
+                }
+            ],
+            "id": "818cb0c31fca4f5d9d1045175bf6ffdb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / think)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you thinking?"
+                    ]
+                }
+            ],
+            "id": "5384fc2e1afa4658bf8fe0325522b5ef"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / study this evening)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We're studying this evening.",
+                        "We are studying this evening."
+                    ]
+                }
+            ],
+            "id": "a1bcb4501d854c5fba0841f8d6392e59"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Lucy and Steve / play the piano)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Lucy and Steve are playing the piano."
+                    ]
+                }
+            ],
+            "id": "99dc07850c954ea18ea13dd05b25cadf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Sarah / not / tell a story)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Sarah isn't telling a story.",
+                        "Sarah is not telling a story."
+                    ]
+                }
+            ],
+            "id": "4ea4c1c8dc5345839ea5e06bdc016890"
+        }
+    ]
+}

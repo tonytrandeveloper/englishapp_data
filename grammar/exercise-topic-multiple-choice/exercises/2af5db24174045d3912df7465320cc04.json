@@ -1,0 +1,131 @@
+{
+    "id": "2af5db24174045d3912df7465320cc04",
+    "title": "Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Each of the four boys …………………… clever.",
+            "description": "Use a singular verb after each and every.",
+            "answers": [
+                "is",
+                "are",
+                "were"
+            ],
+            "correct": 0,
+            "id": "574ca01215024309bf57d01f540e4230"
+        },
+        {
+            "question": "Neither of them …………………… there.",
+            "description": "Use a singular verb after each either and neither.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "80f581f81a774c568a7d85c9961f55e5"
+        },
+        {
+            "question": "…………………… books are lost.",
+            "description": "Possessives are Group A determiners. They cannot go before Group B determiners (all, some, any, either, neither etc.)",
+            "answers": [
+                "My all",
+                "All my",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3802a3fafdbc45a1bd19842630aae359"
+        },
+        {
+            "question": "The two brothers quarreled with ……………………….",
+            "description": "Each other is used to talk about two people or things.",
+            "answers": [
+                "one another",
+                "each other"
+            ],
+            "correct": 1,
+            "id": "770b7f5d6ca04ec18a61a62ada89ae54"
+        },
+        {
+            "question": "Your need is greater than …………………..",
+            "description": "Mine means my need here. ",
+            "answers": [
+                "my",
+                "me",
+                "mine"
+            ],
+            "correct": 2,
+            "id": "f020d36946004c4b98223f682eb535d8"
+        },
+        {
+            "question": "John and …………………… are friends.",
+            "description": "Pronouns used as subjects should be in their subject form.",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 0,
+            "id": "b075430a7a4040518cfc0c5c5c40be55"
+        },
+        {
+            "question": "Rahul and I …………………… cousins.",
+            "description": "When the subject is made up of two or more singular nouns, the verb should be plural.",
+            "answers": [
+                "am",
+                "are",
+                "is"
+            ],
+            "correct": 1,
+            "id": "2f947d44c9f94fb4ba58005c9fde9ff3"
+        },
+        {
+            "question": "He is older than …………………… am.",
+            "description": "",
+            "answers": [
+                "I",
+                "me",
+                "myself"
+            ],
+            "correct": 0,
+            "id": "acb2b44e86d445daa9dd811be177737b"
+        },
+        {
+            "question": "None of us …………………….. seen him.",
+            "description": "Singular verbs are more common after none.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "3f5df1e9278947daa3f2d7b99fee3f05"
+        },
+        {
+            "question": "My essay is better than …………………..",
+            "description": "Yours means your essay.",
+            "answers": [
+                "your",
+                "yours"
+            ],
+            "correct": 1,
+            "id": "4ab0ac11e4c045d5885c5c3221a9374f"
+        },
+        {
+            "question": "Every light …………………… out.",
+            "description": "Use a singular verb after every.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "ab8ce722c51a451c97a694d346603df2"
+        },
+        {
+            "question": "That boy of ……………………… has broken my window again.",
+            "description": "",
+            "answers": [
+                "your",
+                "yours"
+            ],
+            "correct": 1,
+            "id": "350225a61b6b4e2e9173a23869851697"
+        }
+    ]
+}

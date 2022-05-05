@@ -1,0 +1,109 @@
+{
+    "id": "a022c93741eb4c8fa7412c03a6d41b54",
+    "title": "Question Tags Exercise",
+    "questions": [
+        {
+            "question": "He pressed the seeds into the soil with his thumb, …………………..?",
+            "description": "",
+            "answers": [
+                "did he",
+                "didn't he",
+                "doesn't he"
+            ],
+            "correct": 1,
+            "id": "e8ddb403f13443bb94ebd11e4dab780c"
+        },
+        {
+            "question": "She delivered a splendid performance, ………………….?",
+            "description": "",
+            "answers": [
+                "did she",
+                "didn't she",
+                "does she"
+            ],
+            "correct": 1,
+            "id": "c002ee484b8342348489fd576d12da61"
+        },
+        {
+            "question": "They are studying the situation, ……………….?",
+            "description": "",
+            "answers": [
+                "are they",
+                "aren't they",
+                "do they"
+            ],
+            "correct": 1,
+            "id": "47d3b9595e1e4e838cfe063d6fa7145f"
+        },
+        {
+            "question": "She speaks English well, …………………?",
+            "description": "",
+            "answers": [
+                "does she",
+                "doesn't she",
+                "didn't she"
+            ],
+            "correct": 1,
+            "id": "b1ef9c7de5b64408b3e75c4d82913a26"
+        },
+        {
+            "question": "They recognized him instantly, …………….?",
+            "description": "",
+            "answers": [
+                "did they",
+                "didn't they",
+                "have they",
+                "had they"
+            ],
+            "correct": 1,
+            "id": "117981bee7e54545902015f0d5d96d54"
+        },
+        {
+            "question": "The singer kept the audience enthralled with his magical performance, ………………?",
+            "description": "",
+            "answers": [
+                "does he",
+                "doesn't he",
+                "did he",
+                "didn't he"
+            ],
+            "correct": 3,
+            "id": "e355f8466fcf4209a6e3e898373726d5"
+        },
+        {
+            "question": "She didn’t budge, ………………..?",
+            "description": "",
+            "answers": [
+                "did she",
+                "didn't she",
+                "does she"
+            ],
+            "correct": 0,
+            "id": "3191680f08e9491baa953b231d09d7ea"
+        },
+        {
+            "question": "It is the only thing that can save the city, ………………..?",
+            "description": "",
+            "answers": [
+                "is it",
+                "isn't it",
+                "was it",
+                "wasn't it"
+            ],
+            "correct": 1,
+            "id": "e669cd1406f84b5fad2952efa03f15d9"
+        },
+        {
+            "question": "I showed him my ticket, …………….?",
+            "description": "",
+            "answers": [
+                "did I",
+                "didn't I",
+                "do I",
+                "had I"
+            ],
+            "correct": 1,
+            "id": "c40a9af9c71d449388440ca1f0756ecf"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "id": "ebfbe84ca3cd4998a87298223bf57da6",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "We bought some mangoes ………………… we extracted the juice.",
+            "description": "",
+            "answers": [
+                "of which",
+                "from which",
+                "with which",
+                "by which"
+            ],
+            "correct": 1,
+            "id": "88f6150ea4074beba6e4b79146893af9"
+        },
+        {
+            "question": "When the storm subsided, we ……………….. our journey.",
+            "description": "",
+            "answers": [
+                "resumed to",
+                "resumed",
+                "resumed on"
+            ],
+            "correct": 1,
+            "id": "5b09991bef744f6cbf445fc513e85457"
+        },
+        {
+            "question": "If you can’t answer all the questions, you will need ………………. the text book.",
+            "description": "",
+            "answers": [
+                "to refer",
+                "to refer back",
+                "refer back",
+                "referring back"
+            ],
+            "correct": 0,
+            "id": "d64f631908d742878bed53a904c858be"
+        },
+        {
+            "question": "I managed to score ………………. in the test despite not feeling ………………….",
+            "description": "",
+            "answers": [
+                "well, good",
+                "good, good",
+                "well, well",
+                "good, well"
+            ],
+            "correct": 2,
+            "id": "8789d8181e554161ab4c8cf5ce16a1fc"
+        },
+        {
+            "question": "Neither Peter nor ………………… have been to the opera.",
+            "description": "",
+            "answers": [
+                "I",
+                "me",
+                "him",
+                "he"
+            ],
+            "correct": 0,
+            "id": "71775aa9efdb421cafc4ecfac218ba2d"
+        },
+        {
+            "question": "He thinks that ………………. two can win the doubles match.",
+            "description": "",
+            "answers": [
+                "me",
+                "we",
+                "us",
+                "them"
+            ],
+            "correct": 1,
+            "id": "80c8f52bdafc477092559a3eaaae3d63"
+        },
+        {
+            "question": "Between you and ……………… I don’t trust him.",
+            "description": "",
+            "answers": [
+                "I",
+                "me",
+                "he",
+                "we"
+            ],
+            "correct": 1,
+            "id": "b4da99bc5a944c029f2dfb3b5dcd5de8"
+        }
+    ]
+}

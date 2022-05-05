@@ -1,0 +1,138 @@
+{
+    "id": "6e7b878b83ee405b9e54771249a83abb",
+    "title": "Simple, Compound Or Complex",
+    "questions": [
+        {
+            "question": "We went out in spite of the rain.",
+            "description": "The given sentence has only one finite verb and hence one clause. So it is a simple sentence.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "07c4f2f9a9de458494290ca67590fe79"
+        },
+        {
+            "question": "Do you think she is ready?",
+            "description": "The given sentence has a main clause and a subordinate clause. Hence, it is a complex sentence. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "a78d60976f64432eaff108ea120d25eb"
+        },
+        {
+            "question": "I am anxious to contact him.",
+            "description": "The given sentence has only one finite verb and hence one clause. So it is a simple sentence.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "f1c439085b0e44858f25721dc2ec514a"
+        },
+        {
+            "question": "I noticed that he seemed to be drinking a lot.",
+            "description": "The given sentence has a main clause and a subordinate clause. Hence, it is a complex sentence. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "6ccc29dc9bb64c7e9178c6257e1aefb9"
+        },
+        {
+            "question": "He came to Sydney to look for work.",
+            "description": "The given sentence has only one finite verb and hence one clause. So it is a simple sentence.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "422323f5b9aa4a4585fd495312ce001c"
+        },
+        {
+            "question": "My father was bitten by a dog last week.",
+            "description": "The given sentence has only one finite verb and hence one clause. So it is a simple sentence.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "c0d1641d2c1b42f4823e3922b3284678"
+        },
+        {
+            "question": "I don’t know what I should do.",
+            "description": "The given sentence has a main clause and a subordinate clause. Hence, it is a complex sentence. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "a01e73be2b884410babd5fcf970149ba"
+        },
+        {
+            "question": "I neither smoke nor drink.",
+            "description": "The given sentence has two co-ordinate clauses connected by the correlative conjunction neither/nor. Hence it is a compound sentence.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "ff4e1462dd0f4ce8824603a8ce4da052"
+        },
+        {
+            "question": "I didn’t sing because she was there.",
+            "description": "The given sentence has a main clause and a subordinate clause. Hence, it is a complex sentence. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "a88ca13b60d44036884f4a7fb973085e"
+        },
+        {
+            "question": "You can stay or quit.",
+            "description": "The given sentence has two coordinate clauses connected by the coordinating conjunction or. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "cf928b2f19c8403f85987ffe52a932c4"
+        },
+        {
+            "question": "If it helps, I will lend you some money.",
+            "description": "",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "d5301005bc6d4d3a83e6d5529738c52e"
+        },
+        {
+            "question": "I knocked again and again but nobody opened the door.",
+            "description": "The given sentence has two coordinate clauses connected by the coordinating conjunction but. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "f6a5bb27519640b6a8416d5935d9dad6"
+        }
+    ]
+}

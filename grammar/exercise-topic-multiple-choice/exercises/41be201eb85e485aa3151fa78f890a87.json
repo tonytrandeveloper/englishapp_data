@@ -1,0 +1,150 @@
+{
+    "id": "41be201eb85e485aa3151fa78f890a87",
+    "title": "Parts Of Speech Exercise",
+    "questions": [
+        {
+            "question": "I have never had a better experience. Here 'never' is a/an .....................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "adverb",
+                "verb",
+                "preposition"
+            ],
+            "correct": 1,
+            "id": "a1f46f12e064480baeec021555b15240"
+        },
+        {
+            "question": "She has always been a nuisance. Here nuisance is a/an ...................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "adverb",
+                "noun",
+                "preposition"
+            ],
+            "correct": 2,
+            "id": "f350cb28e453434d9855e0815c5a170b"
+        },
+        {
+            "question": "I am tired of listening to his stupid instructions. Here stupid is a/an ...................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "adverb",
+                "verb",
+                "noun"
+            ],
+            "correct": 0,
+            "id": "e70e328337864df2a3a8b59f93047bce"
+        },
+        {
+            "question": "I am hoping to get a raise this year. Here 'this' is a/an ...................",
+            "description": "",
+            "answers": [
+                "pronoun",
+                "noun",
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0,
+            "id": "cb8931de41914bcbbcb672611847eb3a"
+        },
+        {
+            "question": "To watch him eating really gets on my nerves. Here 'gets' is a/an .......................",
+            "description": "",
+            "answers": [
+                "pronoun",
+                "adjective",
+                "verb",
+                "adverb"
+            ],
+            "correct": 2,
+            "id": "80946a84973449fd8afea6886c00588e"
+        },
+        {
+            "question": "It is nice to be sitting here with you. Here 'here' is a/an .........................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "adverb",
+                "verb",
+                "pronoun"
+            ],
+            "correct": 1,
+            "id": "5f321bbdbc9c440b9758639cd3584d08"
+        },
+        {
+            "question": "In spite of having a headache I enjoyed the movie. Here 'in spite of' is a/an ..................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "conjunction",
+                "preposition",
+                "verb"
+            ],
+            "correct": 2,
+            "id": "1c28a94f34e04b4fb3b2584694df8f6e"
+        },
+        {
+            "question": "He came to Chicago to look for work. Here 'work' is a/an .......................",
+            "description": "",
+            "answers": [
+                "preposition",
+                "noun",
+                "verb",
+                "conjunction"
+            ],
+            "correct": 1,
+            "id": "43a282723ba94096b6df7ab6b3e09285"
+        },
+        {
+            "question": "There is a bus stop in front of the school. Here 'in front of' is a/an ......................",
+            "description": "",
+            "answers": [
+                "conjunction",
+                "preposition",
+                "verb",
+                "noun"
+            ],
+            "correct": 1,
+            "id": "50bd995728b34d2ca35148c047193f3b"
+        },
+        {
+            "question": "He was driving very fast indeed. Here 'was driving' is a/an ...................",
+            "description": "",
+            "answers": [
+                "verb",
+                "noun",
+                "adverb",
+                "conjunction"
+            ],
+            "correct": 0,
+            "id": "365b7b4dac22491e81be461c96b3c3fe"
+        },
+        {
+            "question": "She sat facing me across the table. Here 'across' is a/an ....................",
+            "description": "",
+            "answers": [
+                "conjunction",
+                "preposition",
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "d7051658530449fba3a1606d44d831b9"
+        },
+        {
+            "question": "I made them give me my money back. Here 'them' is a .....................",
+            "description": "",
+            "answers": [
+                "noun",
+                "pronoun",
+                "conjunction",
+                "preposition"
+            ],
+            "correct": 1,
+            "id": "19fdbb5e73f04b5e9120c6a082864b64"
+        }
+    ]
+}

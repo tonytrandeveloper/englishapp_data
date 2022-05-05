@@ -1,0 +1,138 @@
+{
+    "id": "a6ce87abf8704280a869a6479b6b9890",
+    "title": "Would vs. Should",
+    "questions": [
+        {
+            "question": "If she left office at six, she ……………….. be here soon.",
+            "description": "We use should to indicate logical possibility.",
+            "answers": [
+                "would",
+                "should",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "cca01953b79a440ead66acee97cfdc79"
+        },
+        {
+            "question": "…………………………. I write to him?",
+            "description": "We use should to ask for a suggestion.",
+            "answers": [
+                "Would",
+                "Should",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1d56aeb265f9446f8dd99c944973f9a8"
+        },
+        {
+            "question": "She ……………………………. be informed.",
+            "description": "We use should to express necessity.",
+            "answers": [
+                "should",
+                "would",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "c58fb843f7e44cbb80d6ec416eac8e40"
+        },
+        {
+            "question": "You ………………………….. always speak the truth.",
+            "description": "We use should to express necessity.",
+            "answers": [
+                "would",
+                "should",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "26290a5cfb454a6ca9054ee50be71298"
+        },
+        {
+            "question": "You …………………………… talk back to your parents.",
+            "description": "",
+            "answers": [
+                "would not",
+                "should not",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "bb54f7ddf52244db833fadce74afd727"
+        },
+        {
+            "question": "I …………………………. bake a cake if I got time.",
+            "description": "In the second conditional, we use a past tense in the if-clause and would + infinitive in the main clause.",
+            "answers": [
+                "would",
+                "should",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "9f46d16e93694c1f91e1cb4ae9606c0b"
+        },
+        {
+            "question": "I ………………………………. be grateful if you could help me.",
+            "description": "Both would and should can be used with the first person pronouns with little difference of meaning.",
+            "answers": [
+                "would",
+                "should",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "8480cab6f99d4afbada3510589e379fd"
+        },
+        {
+            "question": "……………………………. you like some coffee?",
+            "description": "Would is used to make an offer sound more polite. ",
+            "answers": [
+                "Would",
+                "Should",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "b70cd0475e994dffba66645b6f3925da"
+        },
+        {
+            "question": "You ………………………… consult a financial advisor before investing your money.",
+            "description": "Should is used to tell people what they should do.",
+            "answers": [
+                "Would",
+                "Should",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "0d9dfdb5d7d1429084dff33434641e84"
+        },
+        {
+            "question": "I knew that I ………………………… quit smoking.",
+            "description": "",
+            "answers": [
+                "would",
+                "should",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1c7d24d6aef54239b0822c2001700f5c"
+        },
+        {
+            "question": "You …………………………… have wished her on her birthday.",
+            "description": "",
+            "answers": [
+                "should",
+                "would",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d7ef76ebc81e4864b244a222978fc7ee"
+        },
+        {
+            "question": "You ……………………………. have sent the letter.",
+            "description": "",
+            "answers": [
+                "would",
+                "should",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "05934cdccaa64c48bdcf0c8e1bb6eee2"
+        }
+    ]
+}

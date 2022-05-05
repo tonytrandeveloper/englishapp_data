@@ -1,0 +1,61 @@
+{
+    "id": "38873dc8844842ddb553f973eb1de364",
+    "title": "Direct And Indirect Speech Exercise",
+    "questions": [
+        {
+            "question": "James asked me ‘Did you see John yesterday?’",
+            "description": "",
+            "answers": [
+                "James asked me whether I did see John yesterday.",
+                "James asked me whether I had seen John the previous day.",
+                "James asked me whether I saw John the previous day."
+            ],
+            "correct": 1,
+            "id": "d82a454d58104f098f8fb21eed19ae51"
+        },
+        {
+            "question": "Susan said to Alice ‘Ann will leave for her native place tomorrow.’",
+            "description": "",
+            "answers": [
+                "Susan told Alice that Ann would leave for her native place the next day.",
+                "Susan told Alice that Ann will leave for her native place the next day.",
+                "Susan told to Alice that Ann would leave for her native place the next day."
+            ],
+            "correct": 0,
+            "id": "e0cb05af04a14e2da7cefd056db63ef4"
+        },
+        {
+            "question": "He said to me ‘Why are you working so hard?’",
+            "description": "",
+            "answers": [
+                "He asked me why are you working so hard.",
+                "He asked me why am I working so hard.",
+                "He asked me why I was working so hard."
+            ],
+            "correct": 2,
+            "id": "1e1264fbc84f405b97731fe3cc8195c1"
+        },
+        {
+            "question": "She told me ‘What a hot day!’",
+            "description": "",
+            "answers": [
+                "She told me that it was a hot day.",
+                "She exclaimed that it was a hot day.",
+                "She said that it was a cold day."
+            ],
+            "correct": 1,
+            "id": "cad06fa98fdf422ba5ea5d9b7689d503"
+        },
+        {
+            "question": "The boy said to the teacher ‘Could you please repeat the question?’",
+            "description": "",
+            "answers": [
+                "The boy politely asked the teacher if he could repeat the question.",
+                "The boy asked the teacher could he please repeat the question.",
+                "The boy asked the teacher to repeat the question."
+            ],
+            "correct": 0,
+            "id": "1de38a9dac524aa294fb566bf29caed0"
+        }
+    ]
+}

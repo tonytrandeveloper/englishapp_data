@@ -1,0 +1,75 @@
+{
+    "id": "db815170ddfe4f8ebc701585106197cb",
+    "title": "Intermediate Level Grammar Exercise",
+    "questions": [
+        {
+            "question": "No football team ....................... championship without defenders.",
+            "description": "",
+            "answers": [
+                "can't win a",
+                "can win a",
+                "can win no"
+            ],
+            "correct": 1,
+            "id": "b449287db74b4c17a90006f609d07bd2"
+        },
+        {
+            "question": "How many players ……………….. in a baseball team?",
+            "description": "",
+            "answers": [
+                "are there",
+                "there are",
+                "is there",
+                "there has"
+            ],
+            "correct": 0,
+            "id": "950256a657b841d6a50f57caad09e51f"
+        },
+        {
+            "question": "…………………., a deer leapt out in front of me.",
+            "description": "",
+            "answers": [
+                "While driving down the road",
+                "While I was driving down the road",
+                "I was driving down the road"
+            ],
+            "correct": 1,
+            "id": "446bedc0e18e4e10b917344a37a2e402"
+        },
+        {
+            "question": "The Turks .....................… Constantinople in 1453 and that was the end of the Byzantine Empire.",
+            "description": "",
+            "answers": [
+                "have captured",
+                "had captured",
+                "captured",
+                "captures"
+            ],
+            "correct": 2,
+            "id": "f098ee6ea4bd40f08fdf939546e5b31c"
+        },
+        {
+            "question": "Although it ………………….. for days, the cricket pitch was in perfect condition.",
+            "description": "",
+            "answers": [
+                "was raining",
+                "has been raining",
+                "is raining",
+                "had been raining"
+            ],
+            "correct": 3,
+            "id": "3544703652a44b55ab89dc5dd56dc9a9"
+        },
+        {
+            "question": ".......................Italian well, but she could not understand the Genoese dialect.",
+            "description": "",
+            "answers": [
+                "Maria speaks",
+                "As Maria speaks",
+                "Though Maria speaks"
+            ],
+            "correct": 0,
+            "id": "5388dcecf77248dfbacc9649dcb28b68"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "id": "e6bda6a91f2f478ea4d5f45cfa0b677f",
+    "title": "Adverbs Exercise",
+    "questions": [
+        {
+            "question": "She worked ………………….. and passed the examination.",
+            "description": "Hard is the adverb for this meaning.",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 0,
+            "id": "c59334c791cf427bbd0e6a46d0565580"
+        },
+        {
+            "question": "We ………………….. see a lion.",
+            "description": "Rarely means seldom. Scarcely and hardly have different meanings. ",
+            "answers": [
+                "rarely",
+                "scarcely",
+                "hardly"
+            ],
+            "correct": 0,
+            "id": "626e59361e0f43f8b80f30c704a54d84"
+        },
+        {
+            "question": "He narrated the incident in ………………………",
+            "description": "In detail means thoroughly.",
+            "answers": [
+                "detail",
+                "details"
+            ],
+            "correct": 0,
+            "id": "42ed83c205454bbd80c230fc1221938f"
+        },
+        {
+            "question": "He often comes …………………… to school.",
+            "description": "Late is the opposite of early. Lately means recently.",
+            "answers": [
+                "late",
+                "lately"
+            ],
+            "correct": 0,
+            "id": "ebbbedc369e648889dbf3177e3b2d9ab"
+        },
+        {
+            "question": "I really feel ……………………… about it.",
+            "description": "Badly means poorly.",
+            "answers": [
+                "badly",
+                "bad"
+            ],
+            "correct": 1,
+            "id": "d9ce030bde4445e2aeb39d1b8c13aa57"
+        },
+        {
+            "question": "He is …………………….. rich.",
+            "description": "",
+            "answers": [
+                "very",
+                "much",
+                "so"
+            ],
+            "correct": 0,
+            "id": "0c066223d30d4e1db621595c62ebf5f2"
+        },
+        {
+            "question": "The journey was ………………….. uncomfortable.",
+            "description": "Fairly means reasonably or satisfactorily. It is not normally used with negative ideas. ",
+            "answers": [
+                "rather",
+                "fairly",
+                "fair"
+            ],
+            "correct": 0,
+            "id": "b7192cd111884df285fd006f8089fada"
+        },
+        {
+            "question": "The lecture was …………………. boring",
+            "description": "Fairly is not normally used with negative ideas.",
+            "answers": [
+                "fairly",
+                "rather"
+            ],
+            "correct": 1,
+            "id": "50be819e574a406cb9f15e9b86318b96"
+        },
+        {
+            "question": "Hardly ……………………. had any rest for weeks.",
+            "description": "When a negative word comes at the beginning of the sentence, we use the inverted word order.",
+            "answers": [
+                "have I",
+                "I have"
+            ],
+            "correct": 0,
+            "id": "6b5b3dc9b94641eb95426b3926199700"
+        },
+        {
+            "question": "He is getting …………………….. day by day.",
+            "description": "We use the comparative form when an idea of progress is implied.",
+            "answers": [
+                "well",
+                "better",
+                "best"
+            ],
+            "correct": 1,
+            "id": "947454f22d2b40ae99ca3bb43cd530df"
+        },
+        {
+            "question": "He plays hockey very ……………………",
+            "description": "Good is an adjective well is an adverb.",
+            "answers": [
+                "well",
+                "good"
+            ],
+            "correct": 0,
+            "id": "4e4fe878a70f4eeca8c4cd900fbd1de6"
+        },
+        {
+            "question": "He is not ……………………. to go to school.",
+            "description": "When enough is an adverb, it goes after the adjective or adverb modified by it. ",
+            "answers": [
+                "enough old",
+                "old enough"
+            ],
+            "correct": 1,
+            "id": "7df6c66b9ba5496cbf4d03c7c44fcac4"
+        }
+    ]
+}

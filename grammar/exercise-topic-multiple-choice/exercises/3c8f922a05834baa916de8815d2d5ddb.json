@@ -1,0 +1,114 @@
+{
+    "id": "3c8f922a05834baa916de8815d2d5ddb",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "Are you going to ………………. with your brother while you are in town?",
+            "description": "",
+            "answers": [
+                "get in touch",
+                "getting in touch",
+                "have touch",
+                "having touch"
+            ],
+            "correct": 0,
+            "id": "75854a5e703f4fcc90030b17a927d4e8"
+        },
+        {
+            "question": "She was ……………… with embarrassment.",
+            "description": "",
+            "answers": [
+                "blue",
+                "red",
+                "green",
+                "pink"
+            ],
+            "correct": 1,
+            "id": "0ac4ccd3a1044addb1ffc6e876bed970"
+        },
+        {
+            "question": "It is Mark ………………. the phone. He wants to talk to you.",
+            "description": "",
+            "answers": [
+                "in",
+                "on",
+                "to",
+                "at"
+            ],
+            "correct": 1,
+            "id": "33f0c199d97944cdaba50bcdce3f048b"
+        },
+        {
+            "question": "Let’s …………………. your plans.",
+            "description": "",
+            "answers": [
+                "discuss",
+                "discuss about",
+                "discuss after",
+                "discuss into"
+            ],
+            "correct": 0,
+            "id": "101ce4adadff4e8585f47ac99f550783"
+        },
+        {
+            "question": "Which flight is she traveling ……………?",
+            "description": "",
+            "answers": [
+                "in",
+                "on",
+                "at",
+                "with"
+            ],
+            "correct": 1,
+            "id": "43ffb9734ed24c4d885a41a8a46a57ae"
+        },
+        {
+            "question": "I ……………….. him for a long time.",
+            "description": "",
+            "answers": [
+                "have known",
+                "knew",
+                "know",
+                "had known"
+            ],
+            "correct": 0,
+            "id": "54e6c74c29c647878cb4f7494cc3230d"
+        },
+        {
+            "question": "Heat ………………. bodies.",
+            "description": "",
+            "answers": [
+                "is expanding",
+                "expands",
+                "would expand",
+                "expanded"
+            ],
+            "correct": 1,
+            "id": "91a2f4feb371468f9ee53b8931393812"
+        },
+        {
+            "question": "The kettle ………………… Shall I make tea?",
+            "description": "",
+            "answers": [
+                "boils",
+                "is boiling",
+                "has been boiling",
+                "has boiled"
+            ],
+            "correct": 1,
+            "id": "d24bde9ecc22495c8181bb0b0d6df339"
+        },
+        {
+            "question": "I don’t have anything for you today. I ………………… tomorrow.",
+            "description": "",
+            "answers": [
+                "may have anything",
+                "may have something",
+                "have something",
+                "have anything"
+            ],
+            "correct": 1,
+            "id": "b8d1e693c87f4eb5b7ac43e44db798db"
+        }
+    ]
+}

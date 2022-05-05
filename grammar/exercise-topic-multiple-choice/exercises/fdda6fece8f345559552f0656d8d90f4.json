@@ -1,0 +1,105 @@
+{
+    "id": "fdda6fece8f345559552f0656d8d90f4",
+    "title": "However, In Spite Of, Because Of",
+    "questions": [
+        {
+            "question": "We went out ………………. the rain.",
+            "description": "",
+            "answers": [
+                "however",
+                "in spite of",
+                "although"
+            ],
+            "correct": 1,
+            "id": "d0bab433c1e04201ac157e6fe3317540"
+        },
+        {
+            "question": "She passed the exam ………………….. her teacher.",
+            "description": "",
+            "answers": [
+                "because",
+                "because of",
+                "however"
+            ],
+            "correct": 1,
+            "id": "2c4b536c4ef84601a4915650d29df7dc"
+        },
+        {
+            "question": "We went out ………………… it was snowing.",
+            "description": "",
+            "answers": [
+                "however",
+                "although",
+                "in spite of"
+            ],
+            "correct": 1,
+            "id": "36f83f38b597405f9f5d228f0dd15e6f"
+        },
+        {
+            "question": "She went to work ………………… the fact that she was ill.",
+            "description": "",
+            "answers": [
+                "however",
+                "although",
+                "in spite of"
+            ],
+            "correct": 2,
+            "id": "b25ad178ecd845a3bde612c77f726bdf"
+        },
+        {
+            "question": "…………………. she didn’t enjoy the film, I liked it.",
+            "description": "",
+            "answers": [
+                "Although",
+                "However",
+                "In spite of"
+            ],
+            "correct": 0,
+            "id": "5cab61c9e2684a638a6fb6c387b8641c"
+        },
+        {
+            "question": "…………………. expensive, the watch was very good.",
+            "description": "",
+            "answers": [
+                "Though",
+                "However",
+                "In spite of"
+            ],
+            "correct": 0,
+            "id": "68d03efea4a346e299102c47a0963289"
+        },
+        {
+            "question": "I arrived on time …………………. the others were late.",
+            "description": "",
+            "answers": [
+                "although",
+                "however",
+                "in spite of"
+            ],
+            "correct": 1,
+            "id": "68419e7fb62b4b8292bb2f5d37340da3"
+        },
+        {
+            "question": "We managed to do it, …………………. you were not there.",
+            "description": "",
+            "answers": [
+                "however",
+                "although",
+                "in spite of"
+            ],
+            "correct": 1,
+            "id": "38d1f91a245747edac11d7f2016e4a1b"
+        },
+        {
+            "question": "We managed to do it ………………… the fact that you were not there.",
+            "description": "",
+            "answers": [
+                "in spite of",
+                "however",
+                "though"
+            ],
+            "correct": 0,
+            "id": "6dcdf3f3580249e59655c8e0d1ca8dbd"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "2581fd08ffa1461981e169af85acf1a1",
+    "title": "Tenses",
+    "questions": [
+        {
+            "question": "We often ………………….. over the fields in the evening.",
+            "description": "",
+            "answers": [
+                "walks",
+                "walk",
+                "walking"
+            ],
+            "correct": 1,
+            "id": "d4b5a71c67304868a0095ff6c9633199"
+        },
+        {
+            "question": "According to the time table, the train …………………… at",
+            "description": "The simple present is commonly used to talk about time-tabled events. ",
+            "answers": [
+                "arrives",
+                "is arriving",
+                "arrive"
+            ],
+            "correct": 0,
+            "id": "cdefbb5fd0f6418aadbdd533a207c81e"
+        },
+        {
+            "question": "My dog …………………. everything. He is almost human.",
+            "description": "",
+            "answers": [
+                "understood",
+                "has understood",
+                "understands"
+            ],
+            "correct": 2,
+            "id": "f00ce5192ba142db872e034c537a4887"
+        },
+        {
+            "question": "We went out although it …………………….. a bit late.",
+            "description": "When the main verb is in the past tense, the verb in the subordinate clause too will be in the past tense.",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 1,
+            "id": "c5b73ebfec6f4062945c556f4076fdaa"
+        },
+        {
+            "question": "My feet were sore because my shoes …………………. badly.",
+            "description": "Fit and fitted are both possible here. ",
+            "answers": [
+                "fit",
+                "fitted",
+                "fits"
+            ],
+            "correct": 1,
+            "id": "8cbf32ec8a62492283859ec46be59a41"
+        },
+        {
+            "question": "I ……………………. my job because I was ill for six months.",
+            "description": "The simple past is the most common tense for talking about finished events. ",
+            "answers": [
+                "lose",
+                "had lost",
+                "lost"
+            ],
+            "correct": 2,
+            "id": "8f03d74f9d5a41b7a742b4862172fd5f"
+        },
+        {
+            "question": "During the holidays, I ………………….. a lot of reading.",
+            "description": "",
+            "answers": [
+                "did",
+                "have done",
+                "was doing"
+            ],
+            "correct": 0,
+            "id": "c756ae8378fa4c469f0e98f1516de7f8"
+        },
+        {
+            "question": "We ………………….. to Paris for the weekend.",
+            "description": "The present continuous is used to talk about a future event when the arrangement already exists.",
+            "answers": [
+                "are going",
+                "go",
+                "have gone"
+            ],
+            "correct": 0,
+            "id": "36e4111c398146aeb679ecb32aef4114"
+        },
+        {
+            "question": "She …………………………. to anyone.",
+            "description": "The present perfect is common with never and ever.",
+            "answers": [
+                "never apologized",
+                "has never apologized",
+                "have never apologized"
+            ],
+            "correct": 1,
+            "id": "b4f056215197470095c409f556467b6c"
+        },
+        {
+            "question": "You never ……………………… me finish a sentence.",
+            "description": "",
+            "answers": [
+                "lets",
+                "let",
+                "have let"
+            ],
+            "correct": 1,
+            "id": "1bb8dea6657448b3960e89961a9828f5"
+        },
+        {
+            "question": "I …………………….. cooking or cleaning.",
+            "description": "The simple present is used to talk about likes, dislikes etc. ",
+            "answers": [
+                "don’t enjoy",
+                "am not enjoying",
+                "doesn't enjoy"
+            ],
+            "correct": 0,
+            "id": "a662de728c814e41ac7757389a47fc43"
+        },
+        {
+            "question": "It ……………………… a long time since we met.",
+            "description": "The present perfect is used to indicate that an action or situation started in the past and has continued up to the present. ",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 2,
+            "id": "44acc33fb6a54b5e90eac4fbfd08adf8"
+        }
+    ]
+}

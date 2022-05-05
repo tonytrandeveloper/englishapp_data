@@ -1,0 +1,138 @@
+{
+    "id": "1816a3b0176845cc8e1a07dd3ac7b6eb",
+    "title": "Adjective + Preposition",
+    "questions": [
+        {
+            "question": "He has been married .................................. her for more than three decades.",
+            "description": "Married is followed by the preposition 'to'.",
+            "answers": [
+                "with",
+                "to",
+                "for"
+            ],
+            "correct": 1,
+            "id": "639ea20e25e74bf09ee2dca489eab1fd"
+        },
+        {
+            "question": "The Irish are very proud ..................................... their sense of humor.",
+            "description": "The adjective proud is followed by the preposition of.",
+            "answers": [
+                "about",
+                "of",
+                "in"
+            ],
+            "correct": 1,
+            "id": "5e39e6028b98459ca1249720ef372e20"
+        },
+        {
+            "question": "He is interested ..................................... the supernatural.",
+            "description": "Interested is followed by the preposition in. ",
+            "answers": [
+                "at",
+                "in",
+                "with"
+            ],
+            "correct": 1,
+            "id": "98e193e2ade44febb82afce87b3df021"
+        },
+        {
+            "question": "I am pleased ............................................. your promotion.",
+            "description": "Pleased is followed by the preposition about. ",
+            "answers": [
+                "for",
+                "about",
+                "with"
+            ],
+            "correct": 1,
+            "id": "3550544addce4fb58b5dfc2491fed713"
+        },
+        {
+            "question": "She was angry ........................................ me for revealing her secret.",
+            "description": "Angry is usually followed by the preposition. Sometimes at is also possible. ",
+            "answers": [
+                "on",
+                "with",
+                "to"
+            ],
+            "correct": 1,
+            "id": "6d7f2419b5da4890ad74f0438d5bdca4"
+        },
+        {
+            "question": "I am getting anxious ............................................. his health.",
+            "description": "Anxious about means worried about. ",
+            "answers": [
+                "for",
+                "to",
+                "about"
+            ],
+            "correct": 2,
+            "id": "a5b6cfcaab534187a432d87084977d00"
+        },
+        {
+            "question": "We are all anxious ............................................. an amicable solution to this problem.",
+            "description": "Anxious for means eager to have. ",
+            "answers": [
+                "about",
+                "to",
+                "for"
+            ],
+            "correct": 2,
+            "id": "cacd487f77ea4a94bc2a9c38ca971b0a"
+        },
+        {
+            "question": "She is anxious ....................................... reunite with her family.",
+            "description": "When anxious is followed by a to-infinitive, it means eager. The above sentence means: She is eager to reunite with her family. ",
+            "answers": [
+                "about",
+                "for",
+                "to"
+            ],
+            "correct": 2,
+            "id": "eef302fa9c0b4acb9821d7ecea6af0b4"
+        },
+        {
+            "question": "You can't be independent ...................................... your parents until you find a job.",
+            "description": "Independent is followed by of. ",
+            "answers": [
+                "for",
+                "of",
+                "from"
+            ],
+            "correct": 1,
+            "id": "dce2f6af83ee4183ae32f8f7fa64f502"
+        },
+        {
+            "question": "Why can't you be polite ....................................... him?",
+            "description": "Polite is followed by to.",
+            "answers": [
+                "with",
+                "to",
+                "at"
+            ],
+            "correct": 1,
+            "id": "693c4c4a895f45fdb6e5021e21730bd1"
+        },
+        {
+            "question": "Both parents are responsible ....................................... raising a child.",
+            "description": "Responsible is followed by for. ",
+            "answers": [
+                "to",
+                "for",
+                "about"
+            ],
+            "correct": 1,
+            "id": "fa9c17fc87aa421b8746c898c20ce205"
+        },
+        {
+            "question": "I feel really sorry ........................................... his wife.",
+            "description": "You feel sorry for a person. ",
+            "answers": [
+                "for",
+                "about",
+                "at"
+            ],
+            "correct": 0,
+            "id": "d9e662e089b049429fcb29aceb697e1b"
+        }
+    ]
+}

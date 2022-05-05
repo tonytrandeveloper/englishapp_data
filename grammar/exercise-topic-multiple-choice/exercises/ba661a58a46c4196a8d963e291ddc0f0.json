@@ -1,0 +1,140 @@
+{
+    "id": "ba661a58a46c4196a8d963e291ddc0f0",
+    "title": "Active and passive voice exercise",
+    "questions": [
+        {
+            "question": "The mall ................................... by the police on the orders of the mayor.",
+            "description": "When we say what happens to people and things we use the passive verb forms.",
+            "answers": [
+                "closed",
+                "had closed",
+                "was closed",
+                "have closed"
+            ],
+            "correct": 2,
+            "id": "3620f94f80ab49c69ab7b7619b330014"
+        },
+        {
+            "question": "She ................................. as an expert on parenting.",
+            "description": "When we say what people and things do, we use active verb forms. When we say what happens to people and things, we often use passive verb forms.",
+            "answers": [
+                "regards",
+                "is regarded",
+                "is regarding"
+            ],
+            "correct": 1,
+            "id": "6d925fb8e08f49a2b4a2f25033685469"
+        },
+        {
+            "question": "This book ................................. your life.",
+            "description": "When we say what people and things do, we use active verb forms. When we say what happens to people and things, we often use passive verb forms.",
+            "answers": [
+                "will change",
+                "change",
+                "have changed"
+            ],
+            "correct": 0,
+            "id": "bb59f0d7431044eeb439163a67fec7a7"
+        },
+        {
+            "question": "The furniture ............................... up for firewood.",
+            "description": "When we say what people and things do, we use active verb forms. When we say what happens to people and things, we often use passive verb forms.",
+            "answers": [
+                "broke",
+                "has broken",
+                "was broken"
+            ],
+            "correct": 2,
+            "id": "865eb979018a4ee48d1c3e882464e375"
+        },
+        {
+            "question": "French .......................... in France and several other countries in Europe.",
+            "description": "When we say what people and things do, we use active verb forms. When we say what happens to people and things, we often use passive verb forms.",
+            "answers": [
+                "speak",
+                "speaks",
+                "is spoken",
+                "has spoken"
+            ],
+            "correct": 2,
+            "id": "5dade9641b984112b7102a80b8d80f52"
+        },
+        {
+            "question": "The roof .................................. by a friend of mine.",
+            "description": "When we say what people and things do, we use active verb forms. When we say what happens to people and things, we often use passive verb forms. The option 'is repairing' is in the present continuous tense (active) and the option 'has repaired' is in the present perfect tense (active). Since something is being done to the roof, we need a passive verb form here. ",
+            "answers": [
+                "is repairing",
+                "is being repaired",
+                "has repaired"
+            ],
+            "correct": 1,
+            "id": "e18e9bc2332440ecbb04eee42b828ddb"
+        },
+        {
+            "question": "Small babies need to ........................................",
+            "description": "We need a passive verb here because the subject (small babies) is not the doer of the action. Something is being done to them.",
+            "answers": [
+                "take care of",
+                "be taken care of",
+                "taken care of"
+            ],
+            "correct": 1,
+            "id": "ca23617d9d304a31b4135ab31df20840"
+        },
+        {
+            "question": "Too many books ................................. about the World Wars.",
+            "description": "When we say what people and things do, we use active verb forms. When we say what happens to people and things, we often use passive verb forms.",
+            "answers": [
+                "have been written",
+                "have written",
+                "have been writing"
+            ],
+            "correct": 0,
+            "id": "aec5225c1e76495f929ddb4f66f2c0ca"
+        },
+        {
+            "question": "Before going to bed, she ................................. her books neatly on the table.",
+            "description": "We use the active voice when the subject is the doer of the action.",
+            "answers": [
+                "arrange",
+                "arranges",
+                "is arranged"
+            ],
+            "correct": 1,
+            "id": "c7edfad15a1843b48f07e0ea3e2ecd3f"
+        },
+        {
+            "question": "I have already .................................. his photo to the policeman.",
+            "description": "When the subject is the doer of the action, we need an active verb.",
+            "answers": [
+                "shown",
+                "been shown",
+                "being shown"
+            ],
+            "correct": 0,
+            "id": "1017efe72d674450802080f2b1f82990"
+        },
+        {
+            "question": "The curator ................................ us a collection of old manuscripts.",
+            "description": "Both 'showed' (simple past) and 'has shown' (present perfect) are possible here. Since the subject is the doer of the action, we need an active verb here. ",
+            "answers": [
+                "was shown",
+                "showed",
+                "has shown"
+            ],
+            "correct": 2,
+            "id": "121e37d7f4004f2c9df93e92304cfd7a"
+        },
+        {
+            "question": "Who ................................ my portrait?",
+            "description": "",
+            "answers": [
+                "is being painted",
+                "is being painting",
+                "is painting"
+            ],
+            "correct": 2,
+            "id": "fdc5193eeccc4fff895ae099111d24db"
+        }
+    ]
+}

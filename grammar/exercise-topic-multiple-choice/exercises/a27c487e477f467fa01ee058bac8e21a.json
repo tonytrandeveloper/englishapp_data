@@ -1,0 +1,118 @@
+{
+    "id": "a27c487e477f467fa01ee058bac8e21a",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "I saw a castle ........... was very beautiful.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "what"
+            ],
+            "correct": 1,
+            "id": "e7ec5fbe1801412e93f407521c0a3609"
+        },
+        {
+            "question": "I have a friend ....................... I like very much.",
+            "description": "",
+            "answers": [
+                "whom",
+                "him",
+                "which"
+            ],
+            "correct": 0,
+            "id": "2e9e0ee47e1a49558ab172ae2bfca44f"
+        },
+        {
+            "question": "The boy ......................... teased another boy was punished by the teacher.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "4924fb2818714b3ea0f1f3421e3c7877"
+        },
+        {
+            "question": "A leader ......................... is sincere is loved by his followers.",
+            "description": "",
+            "answers": [
+                "who",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "61c4f2b199fd44a88eb1486a63fe1f52"
+        },
+        {
+            "question": "We met a traveler ............................. told us many interesting stories.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "him"
+            ],
+            "correct": 0,
+            "id": "13333a13d1fe4711b8205a04dbcca973"
+        },
+        {
+            "question": "Air .................... is essential for life is present everywhere.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "what"
+            ],
+            "correct": 1,
+            "id": "09dbaa74ff8f4fb69af22d24bcb63909"
+        },
+        {
+            "question": "Those students ........................... had been wasting their time over trifles failed their test.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "they",
+                "them"
+            ],
+            "correct": 0,
+            "id": "9a80e041d98d4946a76ccca6d46843fc"
+        },
+        {
+            "question": "This is the house ............................. I purchased from Mathews.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "da8a42754b25460bb9186f1bcf307106"
+        },
+        {
+            "question": "This is the woman ....................... we were talking about.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "that",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "aa1add17cb084b769f02ca254e6287d0"
+        },
+        {
+            "question": "He is an author ....................... books are so popular.",
+            "description": "",
+            "answers": [
+                "whom",
+                "whose",
+                "who's"
+            ],
+            "correct": 1,
+            "id": "50cc0c90302e40e3b4032acf9bca0bd2"
+        }
+    ]
+}

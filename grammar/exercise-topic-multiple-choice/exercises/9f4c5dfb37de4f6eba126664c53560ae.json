@@ -1,0 +1,138 @@
+{
+    "id": "9f4c5dfb37de4f6eba126664c53560ae",
+    "title": "Part Of Speech Exercise",
+    "questions": [
+        {
+            "question": "The young woman kept the fast for 10 days. Here fast is a ……………..",
+            "description": "Here fast is the object of the verb kept. Only nouns can act as objects.",
+            "answers": [
+                "noun",
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0,
+            "id": "f86f03dbf1544088a2a8513acaa49cc7"
+        },
+        {
+            "question": "Muslims fast during the month of Ramazan. Here fast is a/an ………………",
+            "description": "Verbs are action words. ",
+            "answers": [
+                "adjective",
+                "adverb",
+                "verb"
+            ],
+            "correct": 2,
+            "id": "ce451bcc8c314b70b29fd41aa2d51f65"
+        },
+        {
+            "question": "He is the right man for this job. Here right is a/an …………………..",
+            "description": "Here right modifies the noun man. Adjectives are words used to modify nouns.",
+            "answers": [
+                "adjective",
+                "adverb",
+                "noun"
+            ],
+            "correct": 0,
+            "id": "71839b6dcc6140a09548204027bc0420"
+        },
+        {
+            "question": "God shall defend the right. Here right is a/an ……………………",
+            "description": "Here the expression the right is the object of the verb defend.",
+            "answers": [
+                "noun",
+                "adjective",
+                "verb"
+            ],
+            "correct": 0,
+            "id": "4547f7acfb0e4e9188e86133b33433f5"
+        },
+        {
+            "question": "There is not much truth in what he says. Here much is a/an ………………",
+            "description": "Here much is an adjective because it modifies the noun truth.",
+            "answers": [
+                "adjective",
+                "adverb",
+                "verb"
+            ],
+            "correct": 0,
+            "id": "0b8ab9af2c874648b0fa60159c91fdb9"
+        },
+        {
+            "question": "One day I met him at the library. Here one is a/an ……………….",
+            "description": "Here the adjective one modifies the noun day.",
+            "answers": [
+                "noun",
+                "adverb",
+                "adjective"
+            ],
+            "correct": 2,
+            "id": "523e87bb0ac1497a8be3784c7480a66e"
+        },
+        {
+            "question": "One would think he was crazy. Here one is a/an …………………..",
+            "description": "Here one is the subject of the verb would think. Only nouns can be subjects.",
+            "answers": [
+                "noun",
+                "preposition",
+                "conjunction"
+            ],
+            "correct": 0,
+            "id": "f361efb903b04fa794f79461f0491e3c"
+        },
+        {
+            "question": "At last he came round to their views. Here round is a/an ………………….",
+            "description": "Here round is an adverb because it modifies the verb came.",
+            "answers": [
+                "adjective",
+                "adverb",
+                "preposition"
+            ],
+            "correct": 1,
+            "id": "935a5b3fc8be4b9bbfd135208b7150bd"
+        },
+        {
+            "question": "I have not seen him since that fateful day. Here since is a/an …………………..",
+            "description": "",
+            "answers": [
+                "preposition",
+                "conjunction",
+                "adjective"
+            ],
+            "correct": 0,
+            "id": "c3c44f3074cd47efbecaea53e32f44ef"
+        },
+        {
+            "question": "He was poor so I helped him. Here so is a/an ………………….",
+            "description": "Here so is a conjunction because it connects the two clauses.",
+            "answers": [
+                "adverb",
+                "conjunction",
+                "preposition"
+            ],
+            "correct": 1,
+            "id": "e2555fc3e71c4c8abb9d9450cb4c79a3"
+        },
+        {
+            "question": "He is so brave. Here so is a/an ………………",
+            "description": "Here so is an adverb because it modifies the adjective brave. Only adverbs can modify adjectives.",
+            "answers": [
+                "adjective",
+                "adverb",
+                "conjunction"
+            ],
+            "correct": 1,
+            "id": "c7fea7b2f8954ba2ad82acf5972a3fb3"
+        },
+        {
+            "question": "Still waters run deep. Here still is a/an ………………..",
+            "description": "Here the word still modifies the noun waters. Only adjectives can modify nouns.",
+            "answers": [
+                "adverb",
+                "adjective",
+                "verb"
+            ],
+            "correct": 1,
+            "id": "5bee23d678544a96946535ef1c0427a0"
+        }
+    ]
+}

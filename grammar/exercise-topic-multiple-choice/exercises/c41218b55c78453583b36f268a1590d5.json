@@ -1,0 +1,126 @@
+{
+    "id": "c41218b55c78453583b36f268a1590d5",
+    "title": "There Is Or There Are",
+    "questions": [
+        {
+            "question": "There ……………………… a hole in my socks.",
+            "description": "When the noun that follows there is singular, the verb is singular.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "41bc77f03aaf42bb85de5769fd9ffdb1"
+        },
+        {
+            "question": "There ………………………….. lots of mangoes on the tree.",
+            "description": "When the noun that follows there is plural, the verb is plural.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "f19dadd089ab4e5a92fd106f55e8dc25"
+        },
+        {
+            "question": "There ………………………… many people in the waiting room.",
+            "description": "When the noun that follows there is plural, the verb is plural.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "bb61f86f9863479a9066b3a8befc758d"
+        },
+        {
+            "question": "There ………………………. a lot of people coming.",
+            "description": "When the noun that follows there is plural, the verb is plural.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "8a6f1e74e9e2465593613a40b8b65961"
+        },
+        {
+            "question": "There …………………………. lots of applicants.",
+            "description": "When the noun that follows there is plural, the verb is plural.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "0ffe2d3b6bf546ac8f1d5626077fa0cc"
+        },
+        {
+            "question": "There ……………………….. a lot of noise in the street.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "5749d0f002e84c3fbcfbb6ee45cc8763"
+        },
+        {
+            "question": "There ……………………….. two cops at the door.",
+            "description": "When the noun that follows there is plural, the verb is plural.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "b1e2e210799245bd8bdc34e19caf8ebf"
+        },
+        {
+            "question": "There ……………………………. some apples in the fridge.",
+            "description": "When the noun that follows there is plural, the verb is plural.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "c856cc93e78e4ce89bdb77d9c2819e73"
+        },
+        {
+            "question": "……………………….. there anybody at home?",
+            "description": "Use a singular verb with anybody.",
+            "answers": [
+                "Is",
+                "Are"
+            ],
+            "correct": 0,
+            "id": "12bc89effad04e178bbbb5875ba29e7c"
+        },
+        {
+            "question": "There ………………………. some people in the room.",
+            "description": "When the noun that follows there is plural, the verb is plural.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "6b6950648c314292ba52858530c7497a"
+        },
+        {
+            "question": "There ………………………. nothing left to do.",
+            "description": "Use a singular verb with nothing.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "8ea65801e5f247a6a1028647b911950c"
+        },
+        {
+            "question": "There ……………………….. no clean clothes to wear.",
+            "description": "When the noun that follows there is plural, the verb is plural.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "61fcefdd1b6b45b6acee503fc33da328"
+        }
+    ]
+}

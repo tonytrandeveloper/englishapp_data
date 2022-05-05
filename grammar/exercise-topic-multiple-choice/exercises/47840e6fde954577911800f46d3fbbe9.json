@@ -1,0 +1,138 @@
+{
+    "id": "47840e6fde954577911800f46d3fbbe9",
+    "title": "Other, Another And Others",
+    "questions": [
+        {
+            "question": "Could I have .......................... piece of cake?",
+            "description": "Another means extra or additional.",
+            "answers": [
+                "other",
+                "another",
+                "more"
+            ],
+            "correct": 1,
+            "id": "2161d8b027354a749e790b4ce7582e26"
+        },
+        {
+            "question": "He has bought ........................... watch.",
+            "description": "Another means extra or additional.",
+            "answers": [
+                "other",
+                "another",
+                "others"
+            ],
+            "correct": 1,
+            "id": "c7bfccf7fb65430b9821387f07261666"
+        },
+        {
+            "question": "We must love one ...........................",
+            "description": "We use another in the expression 'one another'.",
+            "answers": [
+                "other",
+                "another",
+                "others"
+            ],
+            "correct": 1,
+            "id": "ec72e15e5b0e4be6b0dc859ccb0f9ad4"
+        },
+        {
+            "question": "The two brothers love each ..........................",
+            "description": "We use other in the expressions 'each other'.",
+            "answers": [
+                "other",
+                "another",
+                "others"
+            ],
+            "correct": 0,
+            "id": "a0ea2d8c434a469f8e5d25ef0c774e86"
+        },
+        {
+            "question": "I would like .............................. cup of tea.",
+            "description": "Another is used with singular countable nouns.",
+            "answers": [
+                "other",
+                "another",
+                "others"
+            ],
+            "correct": 1,
+            "id": "22ca6b1a5f0d4186abf44e48fa3ebb11"
+        },
+        {
+            "question": "Would you like .............................. rice?",
+            "description": "We use more with plural and uncountable nouns. Another and other are not possible.",
+            "answers": [
+                "other",
+                "another",
+                "some more"
+            ],
+            "correct": 2,
+            "id": "0e25e4393e01468cbfbabf2b53794a0e"
+        },
+        {
+            "question": "The ................................. students have gone home.",
+            "description": "We use other before a plural noun. ",
+            "answers": [
+                "other",
+                "others",
+                "another"
+            ],
+            "correct": 0,
+            "id": "ae12549e8f154cd78233babec8a2483e"
+        },
+        {
+            "question": "Where are the .............................. books you borrowed from me?",
+            "description": "Other can mean besides this or these",
+            "answers": [
+                "other",
+                "others",
+                "another"
+            ],
+            "correct": 0,
+            "id": "eb273db7232d4fd8b5442ddbbab99468"
+        },
+        {
+            "question": "I don't like these. Have you got any ............................. colors?",
+            "description": "Other has no plural form before a noun.",
+            "answers": [
+                "other",
+                "others",
+                "another"
+            ],
+            "correct": 0,
+            "id": "90d47a69efa1489dbf3245b8d803128f"
+        },
+        {
+            "question": "She is writing ............................ book.",
+            "description": "",
+            "answers": [
+                "other",
+                "others",
+                "another"
+            ],
+            "correct": 2,
+            "id": "b676453ce7f84f3c8510f81494539b41"
+        },
+        {
+            "question": "You never think of ............................",
+            "description": "When other is used without a noun, it is used in its plural form.",
+            "answers": [
+                "other",
+                "others",
+                "another"
+            ],
+            "correct": 1,
+            "id": "146b7777223a49a1830176fd4b0b8b8b"
+        },
+        {
+            "question": "The meeting has been postponed. You must inform the .............................",
+            "description": "",
+            "answers": [
+                "other",
+                "others",
+                "another"
+            ],
+            "correct": 1,
+            "id": "091d1f75eb8f41be96160e53b11ff5ff"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "bc2d3514651449829af0d777baabdced",
+    "title": "Modal Auxiliary Verbs Quiz",
+    "questions": [
+        {
+            "question": "You ........................... slow down. (Order)",
+            "description": "Must shows strong obligation. It is also used to give orders. ",
+            "answers": [
+                "must",
+                "should",
+                "can"
+            ],
+            "correct": 0,
+            "id": "e704bf6620164fe4906e666839a7fe7e"
+        },
+        {
+            "question": "You ............................... go shopping this week.",
+            "description": "Need not shows lack of necessity. You have to use a to-infinitive after do not need.",
+            "answers": [
+                "need not",
+                "do not need",
+                "should not"
+            ],
+            "correct": 0,
+            "id": "fc52f162661c4ac2822e71a82a7c1839"
+        },
+        {
+            "question": ".................................. we throw a party next week?  (Make a suggestion)",
+            "description": "Shall we is used to make a suggestion. ",
+            "answers": [
+                "Shall",
+                "Will",
+                "Would"
+            ],
+            "correct": 0,
+            "id": "16e3d4210e8944db9743c1bddf65610c"
+        },
+        {
+            "question": "........................... I carry your bag? (Make an offer)",
+            "description": "Should I is used to make offers. ",
+            "answers": [
+                "Would",
+                "Should",
+                "Will"
+            ],
+            "correct": 1,
+            "id": "c9bbdf2fd3a749f2ac66f37c895e1951"
+        },
+        {
+            "question": "You .............................. vote unless you are  (Inability)",
+            "description": "Cannot shows present inability. ",
+            "answers": [
+                "cannot",
+                "should not",
+                "could not"
+            ],
+            "correct": 0,
+            "id": "ca9477d348154429a3f6daf3c8d460de"
+        },
+        {
+            "question": "You .............................. to wake me up early tomorrow. I am on holiday. (Lack of necessity)",
+            "description": "Before a to-infinitive, use do not need....",
+            "answers": [
+                "need not",
+                "do not need",
+                "must not"
+            ],
+            "correct": 1,
+            "id": "7fdac70dd1384efeb7ee9bd8b7248226"
+        },
+        {
+            "question": "You .............................. get that carpet cleaned. (Necessity)",
+            "description": "Should shows necessity.",
+            "answers": [
+                "should",
+                "would",
+                "might"
+            ],
+            "correct": 0,
+            "id": "6e3ffc92a3744bfeb3a8f116efd64017"
+        },
+        {
+            "question": "You ............................... pack so many clothes. We are only going for one day. (Lack of necessity)",
+            "description": "",
+            "answers": [
+                "need not",
+                "do not need",
+                "cannot"
+            ],
+            "correct": 0,
+            "id": "c94fdc1f335e4b4ca4c7add1e91ebf5f"
+        },
+        {
+            "question": "You ................................ smoke at work. (Prohibition)",
+            "description": "",
+            "answers": [
+                "cannot",
+                "should not",
+                "need not"
+            ],
+            "correct": 0,
+            "id": "910e44e9f75f448d9f28719f45de1acd"
+        },
+        {
+            "question": "I love music. I ............................. play the piano really well. (Ability)",
+            "description": "Can shows ability.",
+            "answers": [
+                "can",
+                "will",
+                "could"
+            ],
+            "correct": 0,
+            "id": "c99df0149d8e446386802d97e5abdcbd"
+        },
+        {
+            "question": "I lost my phone yesterday but I ................................ find it. (Ability)",
+            "description": "Could is not wrong here. To say that you managed to do something on one occasion, use be able to. ",
+            "answers": [
+                "was able to",
+                "can",
+                "could"
+            ],
+            "correct": 0,
+            "id": "464692a41a3a45878a958fa90c99973b"
+        },
+        {
+            "question": "She ............................. walk when she was just 8 months old. (Past ability)",
+            "description": "Use could to talk about past ability in general. ",
+            "answers": [
+                "can",
+                "could",
+                "was able to"
+            ],
+            "correct": 1,
+            "id": "f2520c8410c2492a805128df3d314d02"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "a4f5a735d63f44d6a1458a1c457ce538",
+    "title": "Modal Auxiliary Verbs Exercise",
+    "questions": [
+        {
+            "question": "She ……………………. come today. (complete certainty)",
+            "description": "Will shows certainty. ",
+            "answers": [
+                "won't",
+                "wouldn't",
+                "may not"
+            ],
+            "correct": 0,
+            "id": "525878a69366463b9fb2376647a1a4ae"
+        },
+        {
+            "question": "There is the phone. I …………………….. go. (willingness)",
+            "description": "Will shows willingness.",
+            "answers": [
+                "can",
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "e11d0465193948068db26e3b558f794a"
+        },
+        {
+            "question": "She ……………………….. be here soon. (possibility)",
+            "description": "Should can indicate possibility. ",
+            "answers": [
+                "should",
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "d9e623f23d304623aedbe31fbd685f16"
+        },
+        {
+            "question": "She ………………………… recognize you. (possibility)",
+            "description": "May indicates possibility. ",
+            "answers": [
+                "cannot",
+                "will not",
+                "may not"
+            ],
+            "correct": 2,
+            "id": "1e85778d825d4fa38935e1830b7fceca"
+        },
+        {
+            "question": "Who knows? I ………………………… be a millionaire one day. (weak possibility)",
+            "description": "Could and might indicate weak possibility. ",
+            "answers": [
+                "can",
+                "could",
+                "might"
+            ],
+            "correct": 2,
+            "id": "d2fd6966e7d94963abd0a1215558b1ce"
+        },
+        {
+            "question": "Glass ………………………… be blown. (Theoretical possibility)",
+            "description": "Can shows theoretical possibility. ",
+            "answers": [
+                "will",
+                "can",
+                "may"
+            ],
+            "correct": 1,
+            "id": "0983fa9737b943fb904e7af442e36faf"
+        },
+        {
+            "question": "All employees ………………………… arrive for work by 8 o’clock. (obligation)",
+            "description": "Should indicates obligation. ",
+            "answers": [
+                "should",
+                "could",
+                "would"
+            ],
+            "correct": 0,
+            "id": "1a176ac736d248599379f68b8c2ea6bf"
+        },
+        {
+            "question": "South India ………………………… be quite warm in April. (Habitual possibility)",
+            "description": "",
+            "answers": [
+                "will",
+                "may",
+                "can"
+            ],
+            "correct": 2,
+            "id": "5ee264659db248809961e2a4728fe3ea"
+        },
+        {
+            "question": "If she arrived now, we ………………………. ask her help. (Conditional possibility)",
+            "description": "",
+            "answers": [
+                "can",
+                "could",
+                "would"
+            ],
+            "correct": 1,
+            "id": "f1eee2f9cc4d4e6598b9cf09e9d1724e"
+        },
+        {
+            "question": "All children ………………………… be difficult. (Habitual possibility)",
+            "description": "",
+            "answers": [
+                "can",
+                "may",
+                "will"
+            ],
+            "correct": 0,
+            "id": "ce9072c6d0e24b38983ced7b6b2f98c1"
+        },
+        {
+            "question": "You ………………………… go now. (prohibition)",
+            "description": "",
+            "answers": [
+                "can't",
+                "must not",
+                "may not"
+            ],
+            "correct": 1,
+            "id": "6ce3c49283604d4fb7c16d793298ca45"
+        },
+        {
+            "question": "You …………………………. work on Sundays. (Absence of obligation)",
+            "description": "Need not shows absence of obligation.",
+            "answers": [
+                "should not",
+                "need not",
+                "may not"
+            ],
+            "correct": 1,
+            "id": "f3b524e543c34cf9ab9701d6ac0eac05"
+        }
+    ]
+}

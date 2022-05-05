@@ -1,0 +1,138 @@
+{
+    "id": "d3b350fe6cfe44efb9a9e314ed8965a9",
+    "title": "Modal Auxiliaries Exercise",
+    "questions": [
+        {
+            "question": "Anyone ………………………. do this. (Ability)",
+            "description": "We use can to express ability. ",
+            "answers": [
+                "can",
+                "may",
+                "will"
+            ],
+            "correct": 0,
+            "id": "539cb653f2c04b07ac6d5bb51f577a91"
+        },
+        {
+            "question": "I ……………………….. have married her if I had wanted to. (Unrealized past ability)",
+            "description": "Could have + past participle can be used to talk about past events that did not happen.",
+            "answers": [
+                "could",
+                "can",
+                "will"
+            ],
+            "correct": 0,
+            "id": "a0e45f185a81457994a84904d1aa17ab"
+        },
+        {
+            "question": "We ………………………. go swimming on the weekend. (Possibility)",
+            "description": "May is used to indicate possibility.",
+            "answers": [
+                "may",
+                "will",
+                "shall"
+            ],
+            "correct": 0,
+            "id": "165596660d02433f99c8bc73ab3a0879"
+        },
+        {
+            "question": "I was so angry I ………………………… have slapped him.",
+            "description": "Could have + past participle can be used to talk about past events that did not happen.",
+            "answers": [
+                "can",
+                "could",
+                "should"
+            ],
+            "correct": 1,
+            "id": "1bf1a816096e49c889826e1df88e5cfd"
+        },
+        {
+            "question": "One day, it ………………………. be possible to live on other planets. (Future prediction)",
+            "description": "We use will to simply predict future.",
+            "answers": [
+                "will",
+                "would",
+                "shall"
+            ],
+            "correct": 0,
+            "id": "17aab351b3544ee4b9cdbf2f2679fb4a"
+        },
+        {
+            "question": "Tropical areas ………………………… be very warm throughout the year. (Possibility)",
+            "description": "We use can to talk about theoretical possibility. ",
+            "answers": [
+                "can",
+                "may",
+                "might"
+            ],
+            "correct": 0,
+            "id": "1ab5d04533864f978061f177208f35c7"
+        },
+        {
+            "question": "Epidemics ……………………….. break out any day. (Theoretical possibility)",
+            "description": "We use can to talk about theoretical possibility. ",
+            "answers": [
+                "can",
+                "may",
+                "might"
+            ],
+            "correct": 0,
+            "id": "9f054f602a7246cbaca4487e5e01690d"
+        },
+        {
+            "question": "‘There is the doorbell.’ ‘Who ……………………………. it be?’",
+            "description": "",
+            "answers": [
+                "can",
+                "may",
+                "might"
+            ],
+            "correct": 0,
+            "id": "e77ab848cbf045558bf5333cef525e72"
+        },
+        {
+            "question": "‘Where is Janet?’ ‘She ………………………… be in the basement.’",
+            "description": "Can is not used to talk about logical possibility in affirmative sentences.",
+            "answers": [
+                "can",
+                "could",
+                "may"
+            ],
+            "correct": 2,
+            "id": "c09128b41b6e4f5ea6b5a665b53f8b8f"
+        },
+        {
+            "question": "‘What ………………………….. we do now?’",
+            "description": "Shall is used to ask for suggestions. ",
+            "answers": [
+                "will",
+                "can",
+                "shall"
+            ],
+            "correct": 2,
+            "id": "a1be5e927cb44f2794445b5ce5330f9d"
+        },
+        {
+            "question": "I ……………………….. see something over there.",
+            "description": "",
+            "answers": [
+                "may",
+                "can",
+                "might"
+            ],
+            "correct": 1,
+            "id": "b35a577333f74630ad9c70a73854696b"
+        },
+        {
+            "question": "I ………………………. help but laugh.",
+            "description": "",
+            "answers": [
+                "wouldn't",
+                "couldn't",
+                "shouldn't"
+            ],
+            "correct": 1,
+            "id": "86c1e2b205b546fb8229d7497409f18f"
+        }
+    ]
+}

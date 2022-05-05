@@ -1,0 +1,137 @@
+{
+    "id": "b3d238b50e8a45b8ac24a8d074e15704",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "She ……………………. every time a boy talks to her.",
+            "description": "The simple present is used to talk about habits. ",
+            "answers": [
+                "blushed",
+                "blushes",
+                "is blushing"
+            ],
+            "correct": 1,
+            "id": "a6f4abfea88c4f1e801723c9fa77ffff"
+        },
+        {
+            "question": "He boasted that he ……………………… the best swimmer in school.",
+            "description": "When the verb in the main clause is in the past tense, we use a past tense in the subordinate clause as well. ",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 1,
+            "id": "dcc5c52aa83442e2bfac4f4ce51ae39e"
+        },
+        {
+            "question": "She wore the bogus diamonds and …………………………… the real ones in the vault.",
+            "description": "Left is the past simple form of leave. ",
+            "answers": [
+                "leaved",
+                "left",
+                "was leaving"
+            ],
+            "correct": 1,
+            "id": "3cc6f1129c0b4ee388b64a8d36d03fe0"
+        },
+        {
+            "question": "More facts …………………………… to bolster your argument.",
+            "description": "",
+            "answers": [
+                "need",
+                "are needed",
+                "are needing"
+            ],
+            "correct": 1,
+            "id": "a811db4651584171851c0e654c2dd9b6"
+        },
+        {
+            "question": "If you order three books, you ……………………….. a fourth one as a bonus.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + first form of the verb in the main clause. ",
+            "answers": [
+                "will receive",
+                "would receive",
+                "would have received"
+            ],
+            "correct": 0,
+            "id": "635fc061e8164c17a078b785b2d0a5f1"
+        },
+        {
+            "question": "To reach the iron ore deposit, engineers had to ……………………. through solid rock.",
+            "description": "To bore is to drill or pierce. ",
+            "answers": [
+                "boor",
+                "bore",
+                "bear"
+            ],
+            "correct": 1,
+            "id": "13375715abfe4cb692d650910ce79002"
+        },
+        {
+            "question": "He ………………………….. for a boyish prank.",
+            "description": "We need a passive verb here because the subject is not the doer of the action. ",
+            "answers": [
+                "punished",
+                "was punished",
+                "has punished"
+            ],
+            "correct": 1,
+            "id": "112c356a44d04890b6a1eb488fb2c441"
+        },
+        {
+            "question": "He constantly brags about how well he …………………………. golf.",
+            "description": "In the simple present tense, the verb takes the marker -s when the subject is a singular noun or pronoun. ",
+            "answers": [
+                "play",
+                "plays",
+                "is playing"
+            ],
+            "correct": 1,
+            "id": "5defcfca010b4dc9baccf6748c1de5ee"
+        },
+        {
+            "question": "In general, rifles ……………………. smaller bores than shotguns.",
+            "description": "We use have with plural subjects and has with singular subjects. ",
+            "answers": [
+                "has",
+                "have",
+                "had"
+            ],
+            "correct": 1,
+            "id": "bea5b166afac45b9ba59b5e0737645ae"
+        },
+        {
+            "question": "In tennis you …………………….. the ball before the second bounce.",
+            "description": "Must shows strong obligation or compulsion. ",
+            "answers": [
+                "must return",
+                "can return",
+                "will return"
+            ],
+            "correct": 0,
+            "id": "01d73f1b50124774999f55b0a3172281"
+        },
+        {
+            "question": "I ………………………… a championship bout.",
+            "description": "The present perfect is common with the time expressions ever and never. ",
+            "answers": [
+                "never attended",
+                "have never attended"
+            ],
+            "correct": 1,
+            "id": "e79eac8ceeb3499f8537010379222323"
+        },
+        {
+            "question": "That little brat ………………………. spanking.",
+            "description": "",
+            "answers": [
+                "need",
+                "needs",
+                "is needing"
+            ],
+            "correct": 1,
+            "id": "6639f9f6ff52424580061ba18a8f9d41"
+        }
+    ]
+}

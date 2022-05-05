@@ -1,0 +1,72 @@
+{
+    "id": "4c51962c14714267a5ded07591488114",
+    "title": "Sentence Transformation Exercise",
+    "questions": [
+        {
+            "question": "It is kind of you to visit us.",
+            "description": "",
+            "answers": [
+                "How kind of you to visit us!",
+                "How kind it is of you to visit us!",
+                "What kind of you to visit us!"
+            ],
+            "correct": 0,
+            "id": "50d20f797efe49f9b51bb3869e42d338"
+        },
+        {
+            "question": "It was thoughtless of him to have left the door unlocked.",
+            "description": "",
+            "answers": [
+                "How thoughtless of him to have left the door unlocked!",
+                "What thoughtless of him to have left the door unlocked!",
+                "How thoughtless he was to have left the door unlocked!"
+            ],
+            "correct": 0,
+            "id": "a5a7f8554bee4d52ba6373be72701b4c"
+        },
+        {
+            "question": "It was impudent of the boy to behave like that.",
+            "description": "",
+            "answers": [
+                "How impudent the boy is to behave like that!",
+                "How impudent is the boy to behave like that!",
+                "How impudent of the boy to behave like that!"
+            ],
+            "correct": 2,
+            "id": "d75ce56a8ae3443eada7e02fd5cf88c4"
+        },
+        {
+            "question": "It was careless of him to leave the keys on the table.",
+            "description": "",
+            "answers": [
+                "What careless of him to leave the keys on the table!",
+                "How careless of him to leave the keys on the table!",
+                "How careless was he to leave the keys on the table!"
+            ],
+            "correct": 1,
+            "id": "6358305bdd9241999a9d207370b8fbc2"
+        },
+        {
+            "question": "It is naughty of the children to draw such pictures on the wall.",
+            "description": "",
+            "answers": [
+                "How naughty were the children to draw such pictures on the wall!",
+                "How naughty of the children to draw such pictures on the wall!",
+                "How naughty the children are to draw such pictures on the wall!"
+            ],
+            "correct": 1,
+            "id": "8529df1d14884029a0998be84c3d58db"
+        },
+        {
+            "question": "It was clever of you to solve the problem so quickly.",
+            "description": "",
+            "answers": [
+                "How clever of you to solve the problem so quickly!",
+                "How clever you are to solve the problem so quickly!",
+                "How clever were you to solve the problem so quickly!"
+            ],
+            "correct": 0,
+            "id": "0d5cc583ac4d4784b09523057a55327d"
+        }
+    ]
+}

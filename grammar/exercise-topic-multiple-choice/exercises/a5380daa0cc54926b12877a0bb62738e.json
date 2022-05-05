@@ -1,0 +1,109 @@
+{
+    "id": "a5380daa0cc54926b12877a0bb62738e",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The storm rocked the ship .............................",
+            "description": "",
+            "answers": [
+                "violent",
+                "violently"
+            ],
+            "correct": 1,
+            "id": "3fb5ef1d8790416f9bd38c213123c733"
+        },
+        {
+            "question": "The artist painstakingly worked ................................... his masterpiece.",
+            "description": "",
+            "answers": [
+                "on",
+                "at",
+                "with"
+            ],
+            "correct": 1,
+            "id": "96295a9a4d2f475e9257c92c4d8eefbc"
+        },
+        {
+            "question": "Dad ..................................... a free gift by the firm.",
+            "description": "",
+            "answers": [
+                "offered",
+                "was offered"
+            ],
+            "correct": 1,
+            "id": "804da3314ce546ce8195228786d84532"
+        },
+        {
+            "question": "I read in the paper that the burglar ....................................",
+            "description": "",
+            "answers": [
+                "had taught",
+                "had been taught"
+            ],
+            "correct": 1,
+            "id": "29a53c4c239d49a49bf31e5b46316dd0"
+        },
+        {
+            "question": "The crickets began their piercing calls ................................ nightfall.",
+            "description": "",
+            "answers": [
+                "at",
+                "on",
+                "in"
+            ],
+            "correct": 0,
+            "id": "6b16a5368fd2452e97d43838df4af2f0"
+        },
+        {
+            "question": "He wore a hat made ....................................... coconut fiber on his head.",
+            "description": "",
+            "answers": [
+                "with",
+                "of",
+                "from"
+            ],
+            "correct": 1,
+            "id": "cdd0a1ab9ab340a08fed22cc6fd009b5"
+        },
+        {
+            "question": "..................................... is very popular in many parts of the world.",
+            "description": "",
+            "answers": [
+                "Coffee",
+                "The coffee"
+            ],
+            "correct": 0,
+            "id": "e2763638d73542e6985a6cf9f1ac7162"
+        },
+        {
+            "question": "They could not explore the cave .................................. a torch.",
+            "description": "",
+            "answers": [
+                "unless",
+                "without"
+            ],
+            "correct": 1,
+            "id": "8708460641064ee3b6b4ab24084a041e"
+        },
+        {
+            "question": "The shed .................................... during the storm.",
+            "description": "",
+            "answers": [
+                "damaged",
+                "was damaged"
+            ],
+            "correct": 1,
+            "id": "6e3815e6d2e643c297a081149be2e3fb"
+        },
+        {
+            "question": "James sat next to the dog talking to ............................",
+            "description": "",
+            "answers": [
+                "him",
+                "himself"
+            ],
+            "correct": 1,
+            "id": "1aefa2adea3f496bab10807f220cd8cf"
+        }
+    ]
+}

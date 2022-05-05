@@ -1,0 +1,378 @@
+{
+    "id": "712cbb34711c40bbac7f8f0ddde9e08a",
+    "title": "Choose the Present Perfect Simple or Continuous 3",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Have you bought"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/buy) your train ticket yet?"
+                }
+            ],
+            "id": "31c382cd1ca14407b2ee5dc2d9b80957"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The kitchen is a complete mess! What"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "have the children been doing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(the children/do)?"
+                }
+            ],
+            "id": "dd2b7c981de441abaa84c3b16a081f0f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s been learning",
+                        "has been learning"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(learn) to drive for six years!"
+                }
+            ],
+            "id": "e7aed357be0d4123b442bb3d67ae9f7c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Amanda"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s already had",
+                        "has already had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(already/have) lunch, so she'll meet us later."
+                }
+            ],
+            "id": "3d6d2675fad043e3854706cf31bc0850"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How much coffee"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has she drunk"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/drink) this morning?"
+                }
+            ],
+            "id": "919dc1e428104309bec4bfa27f9add42"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Simon"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s written",
+                        "has written"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(write) three books."
+                }
+            ],
+            "id": "6ee4522cd732425ea077f27b0f558fb0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve done",
+                        "have done"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(do) everything I needed to do today! Hurray!"
+                }
+            ],
+            "id": "1756b4c26b8441dea82eef0c9b551011"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hasn't rained",
+                        "has not rained"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/rain) all summer, so the garden is dead."
+                }
+            ],
+            "id": "04a9dd2ccdcd49eaaf0b83d7ea62169b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve read",
+                        "have read"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(read) your book. Here it is, thank you."
+                }
+            ],
+            "id": "60ad2f34e97d4e6b8fb58eb0cac47322"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s forgotten",
+                        "has forgotten"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(forget) how to get to my house."
+                }
+            ],
+            "id": "3588a963bc274dc784d37ffd8a07ce2f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been working",
+                        "have been working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(work) in the garden all day and I need a rest."
+                }
+            ],
+            "id": "dd07238ff1014c5d8bb553ec91c84ef6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David feels great these days. He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s been getting",
+                        "has been getting"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get) up early lately."
+                }
+            ],
+            "id": "ab0b14ff88104b4fa74868d3cff57bd2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve always hated",
+                        "have always hated"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(always/hate) rush hour traffic."
+                }
+            ],
+            "id": "439a2309b3854620a3354b5be877bb66"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Recently, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been studying",
+                        "have been studying"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) a lot. My exams are in a few weeks."
+                }
+            ],
+            "id": "61604a2171c54a0e8fd5eee5d5599db5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been writing",
+                        "have been writing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(write) this book for months and months."
+                }
+            ],
+            "id": "08f8a930ad774dcb9081427360d3f858"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve always loved",
+                        "have always loved"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(always/love) chocolate."
+                }
+            ],
+            "id": "919ab116f17b4978a44e9ef5df8ea1ef"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve wanted",
+                        "have wanted"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(want) to go back to university for a long time."
+                }
+            ],
+            "id": "8202886b93614989b36c3f34164630d6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What's that delicious smell?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Have you been cooking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/cook)?"
+                }
+            ],
+            "id": "9e900fbefa3f4c959b296d7ea27266ad"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve watched",
+                        "have watched"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(watch) seven films this week!"
+                }
+            ],
+            "id": "d5b2dcd2844a46ec88566f6b1e0518af"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "aafbdecc25a4478999c5448761e87811",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "Take the umbrella with you in case it ........................",
+            "description": "In subordinate clauses we often use a present tense to refer to future.",
+            "answers": [
+                "will rain",
+                "is raining",
+                "rains"
+            ],
+            "correct": 2,
+            "id": "9c192820fb124145a9aabcfbe275d915"
+        },
+        {
+            "question": "The first time I ............................. there was last year.",
+            "description": "We use the simple past to simply state when something happened. ",
+            "answers": [
+                "have gone",
+                "had gone",
+                "went"
+            ],
+            "correct": 2,
+            "id": "8a1144020ad94db6a846b204fb827a04"
+        },
+        {
+            "question": "This is the village where I was ..........................",
+            "description": "Where means the same as in which.",
+            "answers": [
+                "born",
+                "born in",
+                "born at"
+            ],
+            "correct": 0,
+            "id": "69548358d4144a85b1bb7682acaac8cb"
+        },
+        {
+            "question": "She ............................... a couple of months ago.",
+            "description": "We cannot use the present perfect tense with a past time expression.",
+            "answers": [
+                "had got married",
+                "has got married",
+                "got married"
+            ],
+            "correct": 2,
+            "id": "4eee8eccfcb940209e7df1794a107648"
+        },
+        {
+            "question": "This is the man whom we met ..........................",
+            "description": "The relative pronoun serves as the subject or object of the relative clause. Hence we do not need another subject or object in the relative clause.",
+            "answers": [
+                "him",
+                "him there",
+                "there"
+            ],
+            "correct": 2,
+            "id": "2962476191a341468c0a39bb83fe251a"
+        },
+        {
+            "question": "I have warned you a ............................. not to do it.",
+            "description": "",
+            "answers": [
+                "hundred times",
+                "hundreds times",
+                "hundred of times"
+            ],
+            "correct": 0,
+            "id": "180455bb7de147d3b0459c8015a8e452"
+        },
+        {
+            "question": "I don't think ................................ she is interested in coming.",
+            "description": "That can introduce a noun clause. The conjunction so..that is mainly used to indicate the purpose.",
+            "answers": [
+                "that",
+                "as",
+                "so that"
+            ],
+            "correct": 0,
+            "id": "53a62f991f6d418cbafbf88fbe2c8b12"
+        },
+        {
+            "question": "She has got ............................. hair.",
+            "description": "Hair is uncountable. It cannot be used with the article a.",
+            "answers": [
+                "long",
+                "a long",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "c789e173d13b4f5f849da56fa1df7aad"
+        },
+        {
+            "question": "................................... the cold she insisted on going out.",
+            "description": "Despite or in spite of is possible here. ",
+            "answers": [
+                "Despite",
+                "Despite of",
+                "In spite of"
+            ],
+            "correct": 2,
+            "id": "f0e1018214ba46e7ac79ebb825de386d"
+        },
+        {
+            "question": "................................ she arrives, give her this message.",
+            "description": "Before a clause we use in case.",
+            "answers": [
+                "In case",
+                "In case of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "1ed8858a624649eeb8d1bf30d133d86e"
+        },
+        {
+            "question": "I haven't seen him since .............................",
+            "description": "There is no preposition or article before expressions like last week.",
+            "answers": [
+                "last week",
+                "the last week",
+                "in the last week"
+            ],
+            "correct": 0,
+            "id": "66151e3ede2d49c3bba66a0502e6c9da"
+        },
+        {
+            "question": "He ................................ school at the age of twelve.",
+            "description": "We cannot use the present perfect tense with time expressions referring to the past.",
+            "answers": [
+                "left",
+                "had left",
+                "has left"
+            ],
+            "correct": 0,
+            "id": "545cc77e15034b5c82532127a46ab88e"
+        }
+    ]
+}

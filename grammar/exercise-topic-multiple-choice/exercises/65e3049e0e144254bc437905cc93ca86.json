@@ -1,0 +1,138 @@
+{
+    "id": "65e3049e0e144254bc437905cc93ca86",
+    "title": "Time Expressions | Already, Yet, Still",
+    "questions": [
+        {
+            "question": "The servant has …………… left the house.",
+            "description": "Already means sooner than expected. ",
+            "answers": [
+                "already",
+                "yet",
+                "still"
+            ],
+            "correct": 0,
+            "id": "0c9752f5cf4d4417a95bbda079dfc72c"
+        },
+        {
+            "question": "A lot of lives have ……………………. been lost.",
+            "description": "Already means sooner than expected. Already refers to past or present.",
+            "answers": [
+                "just",
+                "yet",
+                "already"
+            ],
+            "correct": 2,
+            "id": "ba7cb60f90f446dfb93ee0be41e1aed1"
+        },
+        {
+            "question": "Have you ………………….. visited Australia?",
+            "description": "Ever means at any point of time.",
+            "answers": [
+                "yet",
+                "still",
+                "ever"
+            ],
+            "correct": 2,
+            "id": "08775d2fb96d476d853c49774e760694"
+        },
+        {
+            "question": "Why don’t you wear a coat ………………….. in winter?",
+            "description": "Even is used to emphasize extremes.",
+            "answers": [
+                "still",
+                "even",
+                "yet"
+            ],
+            "correct": 1,
+            "id": "687f64ffa6b04b61a45329aef00ecb7f"
+        },
+        {
+            "question": "He is …………………. late for work.",
+            "description": "Never means at no point of time.",
+            "answers": [
+                "ever",
+                "never",
+                "yet"
+            ],
+            "correct": 1,
+            "id": "c864dbd8135f45198a12df50e21dccca"
+        },
+        {
+            "question": "We have not ……………………. heard from them.",
+            "description": "Not yet is used to say that an expected thing is in the future. ",
+            "answers": [
+                "still",
+                "already",
+                "yet"
+            ],
+            "correct": 2,
+            "id": "616596701ee140d39480e844d4bb38de"
+        },
+        {
+            "question": "She is …………………. asleep.",
+            "description": "Still is used to talk about something that is not finished. ",
+            "answers": [
+                "still",
+                "yet",
+                "even"
+            ],
+            "correct": 0,
+            "id": "276c0cc445ce46998bb36c83d66f0c27"
+        },
+        {
+            "question": "I have been thinking for hours, but I …………………….. can’t decide.",
+            "description": "Still means something is not finished.",
+            "answers": [
+                "still",
+                "yet",
+                "already"
+            ],
+            "correct": 0,
+            "id": "122ed7dadc714be48684e13fb36a9ffc"
+        },
+        {
+            "question": "Have you ………………….. finished?",
+            "description": "Already means sooner than expected. ",
+            "answers": [
+                "already",
+                "yet",
+                "still"
+            ],
+            "correct": 0,
+            "id": "9d047b6e5fc24ce1a3e1751c1867ba03"
+        },
+        {
+            "question": "Have you called the supervisor, ……………………?",
+            "description": "In questions yet is used to ask whether something expected has happened. ",
+            "answers": [
+                "yet",
+                "already",
+                "still"
+            ],
+            "correct": 0,
+            "id": "5b3add30b3f5425a9e5debdedb781f12"
+        },
+        {
+            "question": "The oranges aren’t ripe …………………..",
+            "description": "Not yet is used to say that an expected thing is in the future. ",
+            "answers": [
+                "already",
+                "yet",
+                "still"
+            ],
+            "correct": 1,
+            "id": "7d31957059224937a308fb29e84966c9"
+        },
+        {
+            "question": "The guests have ………………….. arrived.",
+            "description": "Already means sooner than expected. ",
+            "answers": [
+                "already",
+                "still",
+                "yet"
+            ],
+            "correct": 0,
+            "id": "8e7b57c202d24e598244efd3c5278695"
+        }
+    ]
+}

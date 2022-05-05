@@ -1,0 +1,110 @@
+{
+    "id": "610768d428e94f0ebe33d9620f1997c1",
+    "title": "Tenses Review Exercise",
+    "questions": [
+        {
+            "question": "We …………………. the railway station before the train came.",
+            "description": "",
+            "answers": [
+                "have reached",
+                "had reached",
+                "will reach",
+                "would reach"
+            ],
+            "correct": 1,
+            "id": "1caabd06ee15491499b8e5ddbe098aa9"
+        },
+        {
+            "question": "His parents do not ..................... . with him.",
+            "description": "",
+            "answers": [
+                "live",
+                "lives",
+                "living"
+            ],
+            "correct": 0,
+            "id": "bcb031d6954f416a8cdf1bdb8c5d3979"
+        },
+        {
+            "question": "I .....................… working at this company for 25 years by next Christmas.",
+            "description": "",
+            "answers": [
+                "will be",
+                "will have been",
+                "am",
+                "would be"
+            ],
+            "correct": 1,
+            "id": "8cc3a51925684b25bdbb041a83a5aaca"
+        },
+        {
+            "question": "Peter ..................... 87 runs before rain interrupted the match.",
+            "description": "Scored is also possible here, but had scored is 'more correct'. ",
+            "answers": [
+                "has scored",
+                "had scored",
+                "scored",
+                "scores"
+            ],
+            "correct": 1,
+            "id": "1ba5574d8c1646919ecd8220eb372fb2"
+        },
+        {
+            "question": "I .....................…  him twice before he left for New York.",
+            "description": "",
+            "answers": [
+                "saw",
+                "have seen",
+                "had seen"
+            ],
+            "correct": 2,
+            "id": "2f69c98e5b0a439aa1fd18c893bd6a30"
+        },
+        {
+            "question": "When I visited her she ..................... bed-ridden for six months.",
+            "description": "",
+            "answers": [
+                "was",
+                "has been",
+                "had been"
+            ],
+            "correct": 2,
+            "id": "053aef9854b448288b1603cea733d61e"
+        },
+        {
+            "question": "I ..................... . school last year.",
+            "description": "",
+            "answers": [
+                "had left",
+                "have left",
+                "left",
+                "was leaving"
+            ],
+            "correct": 2,
+            "id": "b8c7b77c55734bb2a00521ff9b5ffeb3"
+        },
+        {
+            "question": "There .....................… a famine in Bengal in",
+            "description": "",
+            "answers": [
+                "has been",
+                "had been",
+                "was"
+            ],
+            "correct": 2,
+            "id": "42c87dc63cb148179169d84cce7fa4bb"
+        },
+        {
+            "question": "John has ..................... . home.",
+            "description": "",
+            "answers": [
+                "go",
+                "went",
+                "gone",
+                "going"
+            ],
+            "correct": 2,
+            "id": "829f1e1cfce544faa7b7035b3d4c61ed"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": "8252c0130fab48a7b841973e937f05e4",
+    "title": "Prepositions Exercise",
+    "questions": [
+        {
+            "question": "We went out ………………………. the rain.",
+            "description": "Write despite or in spite of",
+            "answers": [
+                "despite",
+                "despite of",
+                "in spite of"
+            ],
+            "correct": 0,
+            "id": "efeeb51e28344820b6913cf62d2f0449"
+        },
+        {
+            "question": "There is a library …………………………. my house.",
+            "description": "We use opposite to indicate position across a road/river.",
+            "answers": [
+                "in front of",
+                "opposite"
+            ],
+            "correct": 1,
+            "id": "eab61bc15f7c445b8b8470bf0afa2799"
+        },
+        {
+            "question": "She died ………………………… receiving the best medical care.",
+            "description": "In spite of is the opposite of because of. It is used to introduce an idea that contrasts with the idea mentioned before.",
+            "answers": [
+                "in spite of",
+                "despite of",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "afabaf8ff7fb4544bd5924569f5fc128"
+        },
+        {
+            "question": "He was promoted …………………………… his hard work.",
+            "description": "",
+            "answers": [
+                "because",
+                "because of",
+                "in spite of"
+            ],
+            "correct": 1,
+            "id": "5f903501ccfb4d51b243f070b4f2a4df"
+        },
+        {
+            "question": "He lost his job ………………………… working very hard.",
+            "description": "Despite and in spite of mean the same.",
+            "answers": [
+                "despite",
+                "in spite of",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "f918bfd67c4740c28e25cdc37a470035"
+        },
+        {
+            "question": "We arrive …………………………. Mumbai at midday.",
+            "description": "We always write in or at after arrive.",
+            "answers": [
+                "in",
+                "into",
+                "to"
+            ],
+            "correct": 0,
+            "id": "acaf1082255b443ea086197c2386d427"
+        },
+        {
+            "question": "The old woman sat down ………………………… the floor.",
+            "description": "We use in or on after sit down. On indicates position on the surface.",
+            "answers": [
+                "at",
+                "on",
+                "in"
+            ],
+            "correct": 1,
+            "id": "d6fbf9e9524343d9aa34ecf1061753f0"
+        },
+        {
+            "question": "When the princess kissed the frog, it changed ………………………… a handsome prince.",
+            "description": "Change is followed by into.",
+            "answers": [
+                "in",
+                "into",
+                "to"
+            ],
+            "correct": 1,
+            "id": "6e2af6aab15d458c8656e2cdaccf2627"
+        },
+        {
+            "question": "Can you translate this report …………………………. German?",
+            "description": "",
+            "answers": [
+                "in",
+                "to",
+                "into"
+            ],
+            "correct": 2,
+            "id": "772b387fbdcf4065b933a2e550b355dc"
+        },
+        {
+            "question": "The cat is ………………………….. the roof.",
+            "description": "We use on to indicate position on the surface.",
+            "answers": [
+                "on",
+                "in",
+                "at"
+            ],
+            "correct": 0,
+            "id": "c60a525896a34a8c8e9ae240a3e2aeeb"
+        },
+        {
+            "question": "I usually work from 10 …………………….. six.",
+            "description": "",
+            "answers": [
+                "to",
+                "until",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c838b81c5c4f4076867e0d447629fb3c"
+        },
+        {
+            "question": "A sedan can seat ……………………….. five people.",
+            "description": "We use up to to talk about quantity.",
+            "answers": [
+                "until",
+                "up to",
+                "as far as"
+            ],
+            "correct": 1,
+            "id": "2fcadc95ec7d4e04b25d87b016cdf8ca"
+        }
+    ]
+}

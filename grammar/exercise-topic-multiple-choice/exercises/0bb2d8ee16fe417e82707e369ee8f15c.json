@@ -1,0 +1,104 @@
+{
+    "id": "0bb2d8ee16fe417e82707e369ee8f15c",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "They were ………………………… at the thought of getting caught.",
+            "description": "",
+            "answers": [
+                "terror",
+                "terrorized",
+                "terrified"
+            ],
+            "correct": 2,
+            "id": "8d6578a0146946de85196cbca1aa51ae"
+        },
+        {
+            "question": "The filter ………………… the drinking water.",
+            "description": "",
+            "answers": [
+                "purify",
+                "purifies",
+                "purfiying"
+            ],
+            "correct": 1,
+            "id": "98fb8fccd13645738c43b702cc0218f2"
+        },
+        {
+            "question": "I couldn’t ................................... because of the loud noise coming from the streets.",
+            "description": "",
+            "answers": [
+                "concentrate",
+                "concentrated",
+                "concentrating"
+            ],
+            "correct": 0,
+            "id": "2c344d500bb84d18b55fe3321e35fa76"
+        },
+        {
+            "question": "It was ..................................... of him to oppose the chief of robbers.",
+            "description": "",
+            "answers": [
+                "courage",
+                "courageous",
+                "courageously"
+            ],
+            "correct": 1,
+            "id": "dd96a3f9daf14b6cab9c0dd54eda3c14"
+        },
+        {
+            "question": "In a situation like this we can’t say with ................................... what is going to happen next.",
+            "description": "",
+            "answers": [
+                "certain",
+                "certainly",
+                "certainty"
+            ],
+            "correct": 2,
+            "id": "a7476f2bba6f4836a34b6dcb14772227"
+        },
+        {
+            "question": "He had a ...................................... escape.",
+            "description": "",
+            "answers": [
+                "miracle",
+                "miraculous",
+                "miraculously"
+            ],
+            "correct": 1,
+            "id": "5feec26d91d048d4a3a5eb043a1b1071"
+        },
+        {
+            "question": "I was impressed by his .................................. performance.",
+            "description": "",
+            "answers": [
+                "splendid",
+                "splendidly",
+                "splendor"
+            ],
+            "correct": 1,
+            "id": "be7091292a014c6cbbe19e9f3370d80f"
+        },
+        {
+            "question": "He always wins because he is very ...................................",
+            "description": "",
+            "answers": [
+                "industry",
+                "industrious",
+                "industriously"
+            ],
+            "correct": 1,
+            "id": "4627bf3137ee4b86881d859cac3a1ffa"
+        },
+        {
+            "question": "He is a highly ....................................... person.",
+            "description": "",
+            "answers": [
+                "knowledge",
+                "knowledgeable"
+            ],
+            "correct": 1,
+            "id": "b83d689b10a24045a641cb9b8b5fda31"
+        }
+    ]
+}

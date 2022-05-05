@@ -1,0 +1,139 @@
+{
+    "id": "3fbd0032ba4f475ea72c85cc5374c459",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "This is the first time I ................................ a concert.",
+            "description": "We use the present perfect tense in expressions beginning with this is the first/second/third/last etc.'",
+            "answers": [
+                "see",
+                "have seen",
+                "saw",
+                "had seen"
+            ],
+            "correct": 1,
+            "id": "6d2af869b20b482abe88a5eb5779c51d"
+        },
+        {
+            "question": "This is ................................. gift I have ever bought.",
+            "description": "",
+            "answers": [
+                "most expensive",
+                "the most expensive",
+                "the more expensive"
+            ],
+            "correct": 1,
+            "id": "d7805a69596b488eb9f9f19998526482"
+        },
+        {
+            "question": "No one has seen him .......................... January.",
+            "description": "We use 'since' with the starting point of something. ",
+            "answers": [
+                "since",
+                "for",
+                "from"
+            ],
+            "correct": 0,
+            "id": "576d16873deb4fc5bf24424739426d83"
+        },
+        {
+            "question": "She succeeded at ....................... very first attempt.",
+            "description": "",
+            "answers": [
+                "a",
+                "the",
+                "No article is needed"
+            ],
+            "correct": 1,
+            "id": "c5f9a786ea4b475d8487b142635ea7ca"
+        },
+        {
+            "question": "I injured ........................ while playing football yesterday.",
+            "description": "We use the reflexive pronoun (myself, himself, herself etc) when the subject and the object of a verb refer to the same person or thing. ",
+            "answers": [
+                "me",
+                "myself",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "93348266ff72483cbabd2a6dd4db65f9"
+        },
+        {
+            "question": "Be a responsible citizen and ......................... your taxes.",
+            "description": "When you pay taxes you are giving a certain amount of money to the government. When you pay for something, you are giving money in exchange for something. ",
+            "answers": [
+                "pay",
+                "pay for",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "7293c8d751564faf846ea8e28aa41724"
+        },
+        {
+            "question": "I have .............................. the drinks.",
+            "description": "When you pay taxes you are giving a certain amount of money to the government. When you pay for something, you are giving money in exchange for something. ",
+            "answers": [
+                "paid",
+                "paid for",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f0bae6b7e3354a478720c1bc650338eb"
+        },
+        {
+            "question": "He hadn't ........................ his fee, so he could not write the exam.",
+            "description": "When you pay taxes you are giving a certain amount of money to the government. When you pay for something, you are giving money in exchange for something. ",
+            "answers": [
+                "paid",
+                "paid for",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "250f7ea9fc6d4662bece7745b52aa572"
+        },
+        {
+            "question": "Who .............................. the dinner?",
+            "description": "When you pay for something, you are giving money in exchange for something. For example, you can pay for the tickets, drinks or meals. ",
+            "answers": [
+                "paid",
+                "paid for",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e58be2fe1974454bbed82364b5b31d19"
+        },
+        {
+            "question": "If the rain .......................... I could take the dog out for a walk.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would / could + infinitive in the result clause.",
+            "answers": [
+                "stops",
+                "stopped",
+                "had stopped"
+            ],
+            "correct": 1,
+            "id": "7028afba8f144a2cb6a11ba4302635ba"
+        },
+        {
+            "question": "If I knew who did it, I .......................... his leg.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would / could + infinitive in the result clause.",
+            "answers": [
+                "will break",
+                "would break",
+                "would have broken"
+            ],
+            "correct": 1,
+            "id": "917260d4576e4e5da1f38d627923cfc2"
+        },
+        {
+            "question": "He ran as ....................... as he could.",
+            "description": "Quick is an adjective. Quickly is the adverb.",
+            "answers": [
+                "quick",
+                "quickly",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "59db26c6ef8b47f6914f3843c725d3b3"
+        }
+    ]
+}

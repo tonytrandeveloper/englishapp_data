@@ -1,0 +1,108 @@
+{
+    "id": "c7a7628337034c6a8a70908cb53a3f22",
+    "title": "Subject-Verb Agreement",
+    "questions": [
+        {
+            "question": "Plutarch’s Lives ……………. an interesting book.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "46af04e049cc4b8593ef26f08dce7103"
+        },
+        {
+            "question": "The United States ………………… one of the most influential countries in the world.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "f9a9821daac44890925c5022061a4206"
+        },
+        {
+            "question": "Thousand dollars …………… a huge sum.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "121a4f0eec924a118e2c0c199f347ef6"
+        },
+        {
+            "question": "Either you or I ………………. mistaken.",
+            "description": "",
+            "answers": [
+                "is",
+                "am",
+                "are"
+            ],
+            "correct": 1,
+            "id": "87e5af19b48c479b8a0181876f03e2ec"
+        },
+        {
+            "question": "The leader, as well has his followers, …………… arrested.",
+            "description": "",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "943351529e434f08b2a42920d83c350f"
+        },
+        {
+            "question": "Wool, as well as cotton, ………………… exported from India.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "123c36a21750474e8640166484f32948"
+        },
+        {
+            "question": "No news ……………… good news.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "bec79c52fd574f3b90b80cb770b9f868"
+        },
+        {
+            "question": "The king, with his ministers, …………….. coming.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "4132dde7ab834a55b1c2cd3fc5e48254"
+        },
+        {
+            "question": "Time and tide ………………. for none.",
+            "description": "",
+            "answers": [
+                "wait",
+                "waits",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "990aea86753745fc90aed9e58050f234"
+        },
+        {
+            "question": "The state of his affairs …………….. a cause for concern.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "0ac48fddf0854508a82b63ae8a71587d"
+        }
+    ]
+}

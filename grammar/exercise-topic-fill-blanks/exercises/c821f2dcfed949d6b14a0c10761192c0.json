@@ -1,0 +1,386 @@
+{
+    "id": "c821f2dcfed949d6b14a0c10761192c0",
+    "title": "Gerunds and Infinitives Exercise 2",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She delayed"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "getting"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get) out of bed."
+                }
+            ],
+            "id": "f1211558abbf48e6a1913b139181b84d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He demanded"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to speak"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(speak) to the manager."
+                }
+            ],
+            "id": "be88d20bbec54033bcc4b3d967e1d9ee"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I offered"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to help"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(help)."
+                }
+            ],
+            "id": "64d99e693c644c50aab748591198afa3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I miss"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "going"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the beach."
+                }
+            ],
+            "id": "94bb7365d31845c88221867ce6d308a7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We postponed"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "doing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(do)."
+                }
+            ],
+            "id": "6db0dbc0b28a4bf485f911882c0b6ee9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'd hate"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to arrive"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) too late."
+                }
+            ],
+            "id": "32a7240b098d4cfbb1a3592e008b7b67"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She admitted"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "stealing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(steal) the money."
+                }
+            ],
+            "id": "328b0949f40449b693d4633d8166f3ac"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I chose"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to work"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(work) here."
+                }
+            ],
+            "id": "6168070987fb4fe880c17efa85cfe5db"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She waited"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to buy"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) a drink."
+                }
+            ],
+            "id": "cdd12a3321a642e5bc16e178bb93bb21"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I really appreciate"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "being"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) on holiday."
+                }
+            ],
+            "id": "00cc97da7b154ca6a20eb64f52d6b8e8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I couldn't help"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "laughing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(laugh) ."
+                }
+            ],
+            "id": "55d0ff6a75f84991b1d02f71caaa8886"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It seems"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) raining."
+                }
+            ],
+            "id": "3c0bbbe969904fa4bbd555ceef162a36"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I considered"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "moving"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(move) to Spain."
+                }
+            ],
+            "id": "6fdbec13c9b64c9c9bca8697826401b7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They practised"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "speaking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(speak)."
+                }
+            ],
+            "id": "a9218c26a67e4ec4b46cff4ba98a2e0f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Finally I managed"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to finish"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(finish) the work."
+                }
+            ],
+            "id": "f1592ba371d54e668ca3f832469cb3ed"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I really can't stand"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "waiting"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(wait) for the bus."
+                }
+            ],
+            "id": "0b70a48ec99144bbba25fd95d05cc9a9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Unfortunately, we can't afford"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to buy"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) a new car this year."
+                }
+            ],
+            "id": "772399588a224f779364d897410f4402"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She risked"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "being"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) late."
+                }
+            ],
+            "id": "cce181731cd4419a84312bbfe4d28aaa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'd love"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to come"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(come) with you."
+                }
+            ],
+            "id": "1db7c9e7579a40d68b02aff7f4fce796"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I prepared"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "to go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) on holiday."
+                }
+            ],
+            "id": "82b6326440ab4596ade87495c849ae2d"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "id": "dc94577865db45f98877ea3b2ebdf972",
+    "title": "Sentence Correction Exercise",
+    "questions": [
+        {
+            "question": "The old woman grew stronger ....................... began to move about.",
+            "description": "",
+            "answers": [
+                "and",
+                "but",
+                "or"
+            ],
+            "correct": 0,
+            "id": "e0f719f7b6c64bfead4747beafca070f"
+        },
+        {
+            "question": "He had been walking for ..................... three miles.",
+            "description": "",
+            "answers": [
+                "near",
+                "nearly"
+            ],
+            "correct": 1,
+            "id": "aaa9d7b022f74d329e4660209ffd7b4e"
+        },
+        {
+            "question": "Do ....................... to our house.",
+            "description": "",
+            "answers": [
+                "come",
+                "came"
+            ],
+            "correct": 0,
+            "id": "040faee2552049ff9fa940b0a92a05fa"
+        },
+        {
+            "question": "He returned last year and we .................. quite happy to see him again.",
+            "description": "",
+            "answers": [
+                "are",
+                "were"
+            ],
+            "correct": 1,
+            "id": "bbecde1c5ffb4532b30ee788b4c3b69b"
+        },
+        {
+            "question": "Here is a ..................... of wisdom.",
+            "description": "",
+            "answers": [
+                "peace",
+                "piece"
+            ],
+            "correct": 1,
+            "id": "68efcf844dc2416990d81e88f0f40fb9"
+        },
+        {
+            "question": "I have ...................... a beautiful dress for you.",
+            "description": "",
+            "answers": [
+                "choosen",
+                "chose",
+                "chosen"
+            ],
+            "correct": 2,
+            "id": "6eb2bc51f9d443df84fd51b29a17c4a2"
+        },
+        {
+            "question": "They ..................... an area where the harvest had failed.",
+            "description": "",
+            "answers": [
+                "reached to",
+                "reached",
+                "reached at"
+            ],
+            "correct": 1,
+            "id": "79e45962b9b14571be6f26dedf9ace48"
+        },
+        {
+            "question": "...................... a beautiful picture it is!",
+            "description": "",
+            "answers": [
+                "What",
+                "How"
+            ],
+            "correct": 0,
+            "id": "122bd5936a964d7d8a4a512279f81b92"
+        },
+        {
+            "question": "The man ....................... his wife to look after their children.",
+            "description": "",
+            "answers": [
+                "told",
+                "told to"
+            ],
+            "correct": 0,
+            "id": "573e5fcfe28c4b869f2d2da53bcc05f6"
+        },
+        {
+            "question": "I have so ...................... to do.",
+            "description": "",
+            "answers": [
+                "many work",
+                "many works",
+                "much work"
+            ],
+            "correct": 2,
+            "id": "a87ada4f5c0f428287371a930dc1f1f7"
+        }
+    ]
+}

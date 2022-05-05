@@ -1,0 +1,367 @@
+{
+    "id": "56a208321442457bbeab9fb750dfe8c1",
+    "title": "Make or Do Exercise 2",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you'll"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "the dishes, I'll sweep the floor."
+                }
+            ],
+            "id": "6d6c3f639b9d455899aa6ba2151501b5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Thanks for"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "making"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "such lovely comments about my paintings! I'm really glad you like them."
+                }
+            ],
+            "id": "adf650228d4d4f0c9645d8c5e9a43925"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you call the manager please? I'd like to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a complaint."
+                }
+            ],
+            "id": "2fec97400a0b4ae1ba973d9431597b3b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I feel terrible! I really must"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "some more exercise! Will you come for a run with me tomorrow?."
+                }
+            ],
+            "id": "3d7aa54336e5481e885f90c4cd1fb7c6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He's volunteering at a homeless shelter because he wants to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "good."
+                }
+            ],
+            "id": "0b9ff7aefba94fa59ae0f6e34704fa8d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She needs to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a choice. Either move to Madrid or stay in London. She can't keep changing every week!."
+                }
+            ],
+            "id": "fe88e4664dcb4dd09670d805662983e9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Let's"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a date to meet and talk about your business idea. How about next Friday?."
+                }
+            ],
+            "id": "b685fd06ae3c40aaab4dbc34f5020799"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a decision to take the bus, but it was so delayed that he wished he'd taken the train."
+                }
+            ],
+            "id": "16dee746ed6240db9e8a6bd3e69d45b3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The child"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a face behind the teacher's back."
+                }
+            ],
+            "id": "b9112c1bef014ccfb14d6d393ac881a6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's freezing! Let's turn on the heating and"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a fire in the fireplace."
+                }
+            ],
+            "id": "b77b8836fcd74a9794be4ab28900b077"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm not going to go ice skating! I'd only fall over and"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a fool of myself."
+                }
+            ],
+            "id": "4347ce12d91043f198ee3a3648817f68"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you possibly"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "me a favour and bring dessert to my dinner party tomorrow?"
+                }
+            ],
+            "id": "43779af7f8434105950f4ea6c4535580"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When she was 40 she sold her business and"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a fortune. She now spends most of her time at the beach."
+                }
+            ],
+            "id": "4fa65dbdea494f69b1b5b6fa2b77dbc9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy helped the children to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "drawings of flowers."
+                }
+            ],
+            "id": "83814bf009f94e7d875b7e43fda16637"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jill has to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "three exams this week, so I don't think we'll see her until next week."
+                }
+            ],
+            "id": "36aa77b826e4413f96085f5cf38d2c2e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm fine, Mum! There's no need to call the doctor! Don't"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a fuss."
+                }
+            ],
+            "id": "59996439cfb04bd781b829ef34a5fbcc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a joke at the start of the meeting, but nobody laughed."
+                }
+            ],
+            "id": "31575768a414446abe454057b889b8d4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I really need to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "some shopping this afternoon. We have no food in the house at all."
+                }
+            ],
+            "id": "fd1c527cec494891adc04ed3dd64b5ee"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I haven't eaten chocolate for three weeks, but it hasn't"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "any difference to my weight."
+                }
+            ],
+            "id": "f6a86ffece0f4c7f9257c832b8db3628"
+        }
+    ]
+}

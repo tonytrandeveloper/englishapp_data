@@ -1,0 +1,116 @@
+{
+    "id": "c56351524d4243c18345fee1ad885d3f",
+    "title": "Both, Either, Neither",
+    "questions": [
+        {
+            "question": "...................... of them were ill so they stayed at home.",
+            "description": "",
+            "answers": [
+                "Both",
+                "Either",
+                "Neither"
+            ],
+            "correct": 0,
+            "id": "a0edd7f58fd64e72be819ebc13b880b7"
+        },
+        {
+            "question": "I didn’t like ..................... of these colors.",
+            "description": "",
+            "answers": [
+                "both",
+                "either",
+                "neither"
+            ],
+            "correct": 1,
+            "id": "e627a2afe7144d4c88efab4c154ae56e"
+        },
+        {
+            "question": "I can’t decide between these gowns. I like them ………………….",
+            "description": "",
+            "answers": [
+                "both",
+                "either",
+                "neither"
+            ],
+            "correct": 0,
+            "id": "87cae4a08995436f83e74cad5e53a46e"
+        },
+        {
+            "question": "..................... Angelina nor Jennifer turned up today.",
+            "description": "",
+            "answers": [
+                "Both",
+                "Neither",
+                "Either"
+            ],
+            "correct": 1,
+            "id": "8c5270b086a94fef9fa2ebdad23a7414"
+        },
+        {
+            "question": "You can take ………………….. the bus or the train.",
+            "description": "",
+            "answers": [
+                "either",
+                "neither",
+                "both"
+            ],
+            "correct": 0,
+            "id": "1b7f53d5b800412dae54e7dc1341283b"
+        },
+        {
+            "question": "I know you don’t like me. I don’t like you …………………",
+            "description": "",
+            "answers": [
+                "either",
+                "neither",
+                "both"
+            ],
+            "correct": 0,
+            "id": "523379cf7e804b06857777e3210fd734"
+        },
+        {
+            "question": "…………………. John nor Peter could solve the problem.",
+            "description": "",
+            "answers": [
+                "Neither",
+                "Either",
+                "Both"
+            ],
+            "correct": 0,
+            "id": "051103cd2b614cbf9927197a6fd8beaf"
+        },
+        {
+            "question": "..................... my parents enjoy riding.",
+            "description": "",
+            "answers": [
+                "Both",
+                "Neither",
+                "Either"
+            ],
+            "correct": 0,
+            "id": "d4f177c9d4c649c68aaf7ef81a7410cc"
+        },
+        {
+            "question": "She has invited us …………………",
+            "description": "",
+            "answers": [
+                "both",
+                "either",
+                "neither"
+            ],
+            "correct": 0,
+            "id": "faad7706e97c4d39b4caa5381105c27f"
+        },
+        {
+            "question": "She ………………… dances and sings.",
+            "description": "",
+            "answers": [
+                "both",
+                "either",
+                "neither"
+            ],
+            "correct": 0,
+            "id": "f65f35e0e5b44456b83bf4902fd64071"
+        }
+    ]
+}

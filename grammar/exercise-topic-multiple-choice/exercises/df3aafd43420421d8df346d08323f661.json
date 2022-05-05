@@ -1,0 +1,106 @@
+{
+    "id": "df3aafd43420421d8df346d08323f661",
+    "title": "Simple Present Or Present Continuous Tense",
+    "questions": [
+        {
+            "question": "I …………………. a nice time on this holiday.",
+            "description": "",
+            "answers": [
+                "have",
+                "am having"
+            ],
+            "correct": 1,
+            "id": "7cea430e367b42e4b8e2494a98d1a895"
+        },
+        {
+            "question": "She is Japanese. She ……………. from Tokyo.",
+            "description": "",
+            "answers": [
+                "comes",
+                "is coming"
+            ],
+            "correct": 0,
+            "id": "ff1a3a7e74a042718bc47fc878e6688c"
+        },
+        {
+            "question": "…………………. your stay here?",
+            "description": "",
+            "answers": [
+                "Are you enjoying",
+                "Do you enjoy"
+            ],
+            "correct": 0,
+            "id": "c7651dcd192447b4ba6f2cb8f1778188"
+        },
+        {
+            "question": "I …………………. on my computer at the moment.",
+            "description": "",
+            "answers": [
+                "work",
+                "am working"
+            ],
+            "correct": 1,
+            "id": "40977bb3120b44908925d4f5192127e4"
+        },
+        {
+            "question": "This semester, I ……………….. chemistry and physics.",
+            "description": "",
+            "answers": [
+                "study",
+                "am studying"
+            ],
+            "correct": 1,
+            "id": "50a32a54b87e45818636e67fdfc6a96b"
+        },
+        {
+            "question": "I ………………. my parents next week.",
+            "description": "",
+            "answers": [
+                "visit",
+                "am visiting"
+            ],
+            "correct": 1,
+            "id": "3fb61eb3e19c4551b37d7bfeaf429b0a"
+        },
+        {
+            "question": "She ………………… to go now.",
+            "description": "",
+            "answers": [
+                "wants",
+                "is wanting"
+            ],
+            "correct": 0,
+            "id": "369324ecf7cf415ead0fe57678f1383a"
+        },
+        {
+            "question": "Why ………………….. me?",
+            "description": "",
+            "answers": [
+                "don't you understand",
+                "aren't you understanding"
+            ],
+            "correct": 0,
+            "id": "13ba6d3ab23648f7934dbbc9c363e41c"
+        },
+        {
+            "question": "Smoking …………………. cancer.",
+            "description": "",
+            "answers": [
+                "is causing",
+                "causes"
+            ],
+            "correct": 1,
+            "id": "c28df8c33e314e60a1d3422a7831e008"
+        },
+        {
+            "question": "I ………………… a lot of films recently.",
+            "description": "",
+            "answers": [
+                "watch",
+                "am watching"
+            ],
+            "correct": 1,
+            "id": "2afe4674830e4f6d894d684b0b2115eb"
+        }
+    ]
+}

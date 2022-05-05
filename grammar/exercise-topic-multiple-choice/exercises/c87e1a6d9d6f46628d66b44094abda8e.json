@@ -1,0 +1,126 @@
+{
+    "id": "c87e1a6d9d6f46628d66b44094abda8e",
+    "title": "Simple Past Or Present Perfect",
+    "questions": [
+        {
+            "question": "He ................................ in Mumbai when he was a child.",
+            "description": "To simply state that something happened sometime ago, we use the simple past tense.",
+            "answers": [
+                "lived",
+                "has lived"
+            ],
+            "correct": 0,
+            "id": "9a95b4f3a9234f85888db050f572b7ca"
+        },
+        {
+            "question": "I ........................................... anything from her since Monday.",
+            "description": "The present perfect is used to talk about actions or situations that started in the past and has continued up to the present.",
+            "answers": [
+                "did not hear",
+                "have not heard"
+            ],
+            "correct": 1,
+            "id": "0816a6738f8c4671a4537c22621f0645"
+        },
+        {
+            "question": "The chief guest ...................................... a few minutes ago.",
+            "description": "To simply state that something happened sometime ago, we use the simple past tense.",
+            "answers": [
+                "arrived",
+                "has arrived"
+            ],
+            "correct": 0,
+            "id": "a99bfad2bb6448398464779d6117de7d"
+        },
+        {
+            "question": "They ............................................ the contract yesterday.",
+            "description": "To simply state that something happened sometime ago, we use the simple past tense.",
+            "answers": [
+                "signed",
+                "have signed"
+            ],
+            "correct": 0,
+            "id": "4d342789d8204822ac5a2ccb9036d31f"
+        },
+        {
+            "question": "The meeting ........................................... at 4 o'clock.",
+            "description": "To simply state that something happened sometime ago, we use the simple past tense.",
+            "answers": [
+                "started",
+                "have started"
+            ],
+            "correct": 0,
+            "id": "45a8a9392b2447a89787f392430d60c1"
+        },
+        {
+            "question": "I ................................................ him.",
+            "description": "We use the simple past to talk about a finished action that is in no way connected to the present.",
+            "answers": [
+                "didn't recognize",
+                "haven't recognized"
+            ],
+            "correct": 0,
+            "id": "72c43e35dbfb4f64b981a65bc573d11a"
+        },
+        {
+            "question": "I ............................................ working on the project.",
+            "description": "The present perfect is used to talk about finished events that still have some impact in the present. (I am free now.)",
+            "answers": [
+                "finished",
+                "have finished"
+            ],
+            "correct": 1,
+            "id": "0a7eb0b74ae74c59b7b5a513bb2092c5"
+        },
+        {
+            "question": "They .............................................. the project yesterday.",
+            "description": "To simply state that something happened sometime ago, we use the simple past tense.",
+            "answers": [
+                "finished",
+                "have finished"
+            ],
+            "correct": 0,
+            "id": "132a297a672d407a9648a8a5af13704c"
+        },
+        {
+            "question": "Somebody ............................................. their umbrella in the room.",
+            "description": "The present perfect is used to talk about finished events that still have some impact in the present. (The umbrella is still in the room.)",
+            "answers": [
+                "left",
+                "has left"
+            ],
+            "correct": 1,
+            "id": "9dc5f20b27604a7e9baa44405bf8efca"
+        },
+        {
+            "question": "........................... you ..................................... to Italy?",
+            "description": "The present perfect is common with ever and never.",
+            "answers": [
+                "Have, ever been",
+                "Did, ever go"
+            ],
+            "correct": 0,
+            "id": "8345265d43844721b2b1d8d332ec2089"
+        },
+        {
+            "question": "I ........................................... my keys so I cannot open the door.",
+            "description": "",
+            "answers": [
+                "lost",
+                "have lost"
+            ],
+            "correct": 1,
+            "id": "13fd881c962c44b2b3c37e4d69a4dfc0"
+        },
+        {
+            "question": "Nobody ......................................... the door although I rang the bell several times.",
+            "description": "To simply state that something happened sometime ago, we use the simple past tense.",
+            "answers": [
+                "opened",
+                "has opened"
+            ],
+            "correct": 0,
+            "id": "c7ae197b2a064330ab2c5dbf2323797b"
+        }
+    ]
+}

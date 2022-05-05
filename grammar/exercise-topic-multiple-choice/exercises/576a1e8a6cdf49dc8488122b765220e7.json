@@ -1,0 +1,97 @@
+{
+    "id": "576a1e8a6cdf49dc8488122b765220e7",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "He attributed his good health to his ...................... with nature.",
+            "description": "",
+            "answers": [
+                "communion",
+                "commitment",
+                "communication",
+                "company"
+            ],
+            "correct": 0,
+            "id": "ac8a10ef16334121a0bc21ca26e71bd1"
+        },
+        {
+            "question": "She is ...................... a career in writing.",
+            "description": "",
+            "answers": [
+                "keen for building",
+                "keen at building",
+                "keen on building"
+            ],
+            "correct": 2,
+            "id": "9a53744ebe524023940fc930a843bc98"
+        },
+        {
+            "question": "They ..................... . him to prison for five years.",
+            "description": "",
+            "answers": [
+                "sent",
+                "are sent",
+                "were sent",
+                "send"
+            ],
+            "correct": 0,
+            "id": "63c1aed2b83d4e0c8d77ef8dc03d0036"
+        },
+        {
+            "question": "Sometimes I wish ..................... .",
+            "description": "",
+            "answers": [
+                "I was never born",
+                "I had never born",
+                "I had never been born"
+            ],
+            "correct": 2,
+            "id": "ed37a3b82da54d4d86750fb6ab3d83df"
+        },
+        {
+            "question": "What ....................... if the train had been late?",
+            "description": "",
+            "answers": [
+                "will you do",
+                "would you do",
+                "would you have done"
+            ],
+            "correct": 2,
+            "id": "5bdf98f91b07499dae1d88a7b012f73a"
+        },
+        {
+            "question": "He ..................... understood.",
+            "description": "",
+            "answers": [
+                "can't be",
+                "was not able to be",
+                "won't be"
+            ],
+            "correct": 0,
+            "id": "ba348b050be74c7e90c397f167c0c050"
+        },
+        {
+            "question": "After marching through the foothill for two days, we found ourselves ....................... proper.",
+            "description": "",
+            "answers": [
+                "under the mountain",
+                "at the bottom of the mountain",
+                "at the base of the mountain"
+            ],
+            "correct": 2,
+            "id": "92437d53850d4ab5a69465927eaa29ee"
+        },
+        {
+            "question": "She smiled ..................... .",
+            "description": "",
+            "answers": [
+                "a friendly way",
+                "in a friendly way",
+                "friendly",
+                "friendlily"
+            ],
+            "correct": 1,
+            "id": "3d5d75d78fd84a74b107059cfd7c85da"
+        }
+    ]
+}

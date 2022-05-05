@@ -1,0 +1,108 @@
+{
+    "id": "f3799fbc1e624a6697ba57b38d8f3ac5",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The doctor suggested ........................................ take a vacation.",
+            "description": "",
+            "answers": [
+                "the patient to",
+                "that the patient should",
+                "that the patient to"
+            ],
+            "correct": 1,
+            "id": "28495d48e9bd4a38a50c3a8d438639c0"
+        },
+        {
+            "question": "Learning ........................................... isn’t easy.",
+            "description": "",
+            "answers": [
+                "French",
+                "the French"
+            ],
+            "correct": 0,
+            "id": "e8653a82c73642f4839ac03a8b3451bc"
+        },
+        {
+            "question": "I need .............................................. sleep.",
+            "description": "",
+            "answers": [
+                "good",
+                "a good"
+            ],
+            "correct": 1,
+            "id": "c05101df64b24bb18f12363c845e898f"
+        },
+        {
+            "question": "We had ............................................. time on the top of the mountain.",
+            "description": "",
+            "answers": [
+                "great",
+                "a great"
+            ],
+            "correct": 1,
+            "id": "a5c708d928814ad6895893dcac9f6e51"
+        },
+        {
+            "question": "I am going to the hospital to see a friend who has undergone .......................................... operation.",
+            "description": "",
+            "answers": [
+                "the",
+                "an",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "75f7b3cdd12342dba96840e6d60c58a4"
+        },
+        {
+            "question": "The more you read the ........................................... you understand.",
+            "description": "",
+            "answers": [
+                "less",
+                "lesser"
+            ],
+            "correct": 0,
+            "id": "d247aab1c0154407bb7ba1cf7e74618d"
+        },
+        {
+            "question": "On the way home, I saw an old beggar accompanied ............................................ a child.",
+            "description": "",
+            "answers": [
+                "by",
+                "with"
+            ],
+            "correct": 0,
+            "id": "33a4f81ba9754954a44f19f59767f816"
+        },
+        {
+            "question": "Will you please .................................................. me a copy of ‘The Old Man and the Sea’?",
+            "description": "",
+            "answers": [
+                "lend",
+                "borrow"
+            ],
+            "correct": 0,
+            "id": "fab8a5c9deb1470692f12cf34b399a5c"
+        },
+        {
+            "question": "The man who knocked ............................................. the door was a stranger.",
+            "description": "",
+            "answers": [
+                "on",
+                "at"
+            ],
+            "correct": 0,
+            "id": "54bf8b0826ce466388bb7b620a06d2bf"
+        },
+        {
+            "question": "What is the difference .............................................. these cars?",
+            "description": "",
+            "answers": [
+                "between",
+                "among"
+            ],
+            "correct": 0,
+            "id": "1d03e2a5d4b843abbfc8514766d69a5e"
+        }
+    ]
+}

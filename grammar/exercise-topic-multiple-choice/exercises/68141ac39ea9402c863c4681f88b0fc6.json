@@ -1,0 +1,96 @@
+{
+    "id": "68141ac39ea9402c863c4681f88b0fc6",
+    "title": "In Case And If",
+    "questions": [
+        {
+            "question": "I have bought a chicken ………………. the guests stay to dinner.",
+            "description": "",
+            "answers": [
+                "in case",
+                "if"
+            ],
+            "correct": 0,
+            "id": "5d28e6efb811422e84b504e7fe3ef8d4"
+        },
+        {
+            "question": "I always take an umbrella ………………. it rains.",
+            "description": "",
+            "answers": [
+                "in case",
+                "if"
+            ],
+            "correct": 0,
+            "id": "6d6a91e35d914066a5ee6eebdf5ba054"
+        },
+        {
+            "question": "………………… it rains, we will get wet.",
+            "description": "",
+            "answers": [
+                "If",
+                "In case"
+            ],
+            "correct": 0,
+            "id": "20434efe596442c8988efe7e62eb2709"
+        },
+        {
+            "question": "Please write down her address ………………. you don’t want to forget it.",
+            "description": "",
+            "answers": [
+                "in case",
+                "if"
+            ],
+            "correct": 1,
+            "id": "057d07c39ba6486b98c477fe07fdfaeb"
+        },
+        {
+            "question": "I wrote down her address ……………. I should forget it.",
+            "description": "",
+            "answers": [
+                "in case",
+                "if"
+            ],
+            "correct": 0,
+            "id": "9bd803da58fd4c6ebe1e7dabb1871dd4"
+        },
+        {
+            "question": "We will take her to another doctor ………………. she doesn’t get better.",
+            "description": "",
+            "answers": [
+                "if",
+                "in case"
+            ],
+            "correct": 0,
+            "id": "1ed2f0ad6cf742d7aedd8cad91f3bb18"
+        },
+        {
+            "question": "I am taking my umbrella ……………. it rains.",
+            "description": "",
+            "answers": [
+                "in case",
+                "if"
+            ],
+            "correct": 0,
+            "id": "376bc615ae704f5cb91e17b3ad175023"
+        },
+        {
+            "question": "I will open the umbrella ……………. it rains.",
+            "description": "",
+            "answers": [
+                "in case",
+                "if"
+            ],
+            "correct": 1,
+            "id": "7a37731f67814a25b21fc15d30fea7eb"
+        },
+        {
+            "question": "I have insured my house ………………. it catches fire.",
+            "description": "",
+            "answers": [
+                "in case",
+                "if"
+            ],
+            "correct": 0,
+            "id": "3c189ae00fe449f68a039bc37520bd9a"
+        }
+    ]
+}

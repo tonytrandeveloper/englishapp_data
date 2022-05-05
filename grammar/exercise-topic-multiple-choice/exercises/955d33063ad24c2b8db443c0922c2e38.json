@@ -1,0 +1,135 @@
+{
+    "id": "955d33063ad24c2b8db443c0922c2e38",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "‘I can’t swim.’ ‘……………………. can I.’",
+            "description": "After a negative statement, we can add another negative statement to it with neither or nor. ",
+            "answers": [
+                "Either",
+                "Neither",
+                "Nor"
+            ],
+            "correct": 2,
+            "id": "5fb0e8ea765d4d4981235e2924845290"
+        },
+        {
+            "question": "She is ……………………. a kind hearted woman.",
+            "description": "Use such before an adjective + noun.",
+            "answers": [
+                "so",
+                "such",
+                "very"
+            ],
+            "correct": 1,
+            "id": "584fd3e6f2b44151b4c18722bf898090"
+        },
+        {
+            "question": "He worked really hard so that he …………………… the first rank.",
+            "description": "When the verb in the main clause is in the past tense, might, would and could are common after so that.",
+            "answers": [
+                "might get",
+                "will get",
+                "may get"
+            ],
+            "correct": 0,
+            "id": "766acf6677e34d57a13b6fc6b521f633"
+        },
+        {
+            "question": "She owns …………………….. house in town.",
+            "description": "",
+            "answers": [
+                "other",
+                "an other",
+                "another"
+            ],
+            "correct": 2,
+            "id": "cec17efc49124f0db95170e3455c3ca4"
+        },
+        {
+            "question": "Where are …………………… kids?",
+            "description": "",
+            "answers": [
+                "other",
+                "the other",
+                "another"
+            ],
+            "correct": 1,
+            "id": "2be14e8d56b14db0bf33c1155da85c15"
+        },
+        {
+            "question": "I visit my grandparents ………………….. few weeks.",
+            "description": "Every can be used before plural expressions in measurements of frequency.",
+            "answers": [
+                "every",
+                "each",
+                "all"
+            ],
+            "correct": 0,
+            "id": "55f047634cbe466c882327a74ac6ff88"
+        },
+        {
+            "question": "Have you got a lot of ………………………….?",
+            "description": "Luggage does not have a plural form.",
+            "answers": [
+                "luggages",
+                "luggage"
+            ],
+            "correct": 1,
+            "id": "c8961c36e24d46938dea25a19aee75d8"
+        },
+        {
+            "question": "Sania and Rohan ………………………. to the same school.",
+            "description": "When two singular subjects are connected by and, they take a plural verb.",
+            "answers": [
+                "go",
+                "goes",
+                "going"
+            ],
+            "correct": 0,
+            "id": "6108d7d5c9e0444f934861e3f32807f3"
+        },
+        {
+            "question": "The father as well as his sons ……………………… been arrested for their alleged involvement in the crime.",
+            "description": "When two subjects are connected by and, the verb agrees with the former. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "a372b1f0e3024cdc96484e4aabce783c"
+        },
+        {
+            "question": "The cat along with her kittens ……………………… in the porch.",
+            "description": "When two nouns are connected by 'along with', the verb agrees with the former. ",
+            "answers": [
+                "are sleeping",
+                "is sleeping"
+            ],
+            "correct": 1,
+            "id": "d2393cfd0b2b4331aa74b4a5c3869185"
+        },
+        {
+            "question": "Between you and ………………………….., I don’t trust him.",
+            "description": "Between is a preposition. A pronoun used as the object of a preposition should be in its object form. ",
+            "answers": [
+                "I",
+                "me",
+                ""
+            ],
+            "correct": 1,
+            "id": "e6a3554dc5d6402c82fa6a7b170b99fb"
+        },
+        {
+            "question": "Start at once, so that you ……………………………. late for the meeting.",
+            "description": "",
+            "answers": [
+                "are not",
+                "will not be",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "2a09583aa8814970a1476348b50ef889"
+        }
+    ]
+}

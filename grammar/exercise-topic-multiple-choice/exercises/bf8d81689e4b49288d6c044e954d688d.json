@@ -1,0 +1,126 @@
+{
+    "id": "bf8d81689e4b49288d6c044e954d688d",
+    "title": "Infinitives Exercise",
+    "questions": [
+        {
+            "question": "I won’t let you …………………",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "go",
+                "to go"
+            ],
+            "correct": 0,
+            "id": "eebbdedd3752448baf5ab9883d916545"
+        },
+        {
+            "question": "He didn’t allow me …………………… for the drink.",
+            "description": "Allow is followed by an infinitive with to.",
+            "answers": [
+                "pay",
+                "to pay"
+            ],
+            "correct": 1,
+            "id": "76a8acd71dca4ccd8e475cdeecf1e58a"
+        },
+        {
+            "question": "You ought .................. peace with him.",
+            "description": "Ought is followed by a to-infinitive.",
+            "answers": [
+                "make",
+                "to make"
+            ],
+            "correct": 1,
+            "id": "78a110d5e46941ad8ce4b8b627c4f19d"
+        },
+        {
+            "question": "He quit his job because they made him …………………….. overtime.",
+            "description": "When made is used in the active voice, it is followed by an infinitive without to.",
+            "answers": [
+                "work",
+                "to work"
+            ],
+            "correct": 0,
+            "id": "f7f2bc72323b4c82ab0d078e073b313b"
+        },
+        {
+            "question": "He was made ……………………… harder and harder.",
+            "description": "When made is in the passive voice, it is followed by an infinitive with to.",
+            "answers": [
+                "work",
+                "to work"
+            ],
+            "correct": 1,
+            "id": "9e259b8af58849e2a13b0a6696645efc"
+        },
+        {
+            "question": "He is capable ……………………. the problem on his own.",
+            "description": "Capable is followed by of + ing form.",
+            "answers": [
+                "to solve",
+                "of solving"
+            ],
+            "correct": 1,
+            "id": "dfd49e43667842de9556fbb55a9cfb62"
+        },
+        {
+            "question": "You must not ……………………… this secret to anyone.",
+            "description": "The infinitive is used without to after modals.",
+            "answers": [
+                "reveal",
+                "to reveal"
+            ],
+            "correct": 0,
+            "id": "8666c0b35b274a99a148c997d136d787"
+        },
+        {
+            "question": "I forgot .................... the door.",
+            "description": "Forget is followed by an infinitive with to.",
+            "answers": [
+                "lock",
+                "to lock"
+            ],
+            "correct": 1,
+            "id": "77155aac79c74c3fbfda105d7f75853e"
+        },
+        {
+            "question": "You don't need ....................... about me.",
+            "description": "When need is used as an ordinary verb, it is followed by an infinitive with to.",
+            "answers": [
+                "worry",
+                "to worry"
+            ],
+            "correct": 1,
+            "id": "f54803be76674a20805b16455408fafb"
+        },
+        {
+            "question": "You need not …………………… for my drinks.",
+            "description": "When need is an auxiliary verb, it is followed by an infinitive without to.",
+            "answers": [
+                "pay",
+                "to pay"
+            ],
+            "correct": 0,
+            "id": "a9b2669965504179a7ac61c050215cdd"
+        },
+        {
+            "question": "She refused ......................... with me.",
+            "description": "",
+            "answers": [
+                "to come",
+                "come"
+            ],
+            "correct": 0,
+            "id": "4ff36aac584142a2b1e523c10c4d999e"
+        },
+        {
+            "question": "I was forced .......................",
+            "description": "Force is followed by an infinitive with to. ",
+            "answers": [
+                "apologize",
+                "to apologize"
+            ],
+            "correct": 1,
+            "id": "593d0a38d4794553bab24da6c901141c"
+        }
+    ]
+}

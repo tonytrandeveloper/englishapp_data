@@ -1,0 +1,108 @@
+{
+    "id": "47ddb4ab5e3a48d89d8574e94279d2f5",
+    "title": "Personal Pronouns Exercise",
+    "questions": [
+        {
+            "question": "I earn as much as …………………….. does.",
+            "description": "",
+            "answers": [
+                "he",
+                "him",
+                "his"
+            ],
+            "correct": 0,
+            "id": "a24284dcd275413fb587745ff8c74bce"
+        },
+        {
+            "question": "James and ……………………… were present at the venue.",
+            "description": "",
+            "answers": [
+                "I",
+                "me",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "6556e61aa9954e7dac4f5c84ede4c8fa"
+        },
+        {
+            "question": "Can you sing as well as …………………?",
+            "description": "",
+            "answers": [
+                "she",
+                "her"
+            ],
+            "correct": 1,
+            "id": "5cdab455800d4869a353ef98d84ecf9f"
+        },
+        {
+            "question": "Will you wait for Jane and …………………..?",
+            "description": "",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1,
+            "id": "88d6b2e098cb46299417babdb4b0eea7"
+        },
+        {
+            "question": "You know that as well as ………………………",
+            "description": "",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1,
+            "id": "15000c1ebbc7442e96e08daaebbac61f"
+        },
+        {
+            "question": "Between you and …………………. there are few secrets.",
+            "description": "",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1,
+            "id": "b44b4b9d37644d4b87f31256fbe6fed1"
+        },
+        {
+            "question": "We are not as rich as …………………………",
+            "description": "",
+            "answers": [
+                "they",
+                "them"
+            ],
+            "correct": 1,
+            "id": "2574aeb6f8b7442ba4f1402a3c71410f"
+        },
+        {
+            "question": "John is as old as ………………………….. am.",
+            "description": "",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 0,
+            "id": "23fc5394cd0b4657ac2f6f3779aef724"
+        },
+        {
+            "question": "He is known to my father and ………………………….",
+            "description": "",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1,
+            "id": "6a17d0d028b64282a8823ab82c06acd6"
+        },
+        {
+            "question": "She is as good as ……………………….",
+            "description": "",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 1,
+            "id": "5d95d354310c4cb9800abd737531e9c7"
+        }
+    ]
+}

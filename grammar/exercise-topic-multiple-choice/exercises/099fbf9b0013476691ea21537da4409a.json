@@ -1,0 +1,138 @@
+{
+    "id": "099fbf9b0013476691ea21537da4409a",
+    "title": "Question Tags Exercise",
+    "questions": [
+        {
+            "question": "He hasn’t arrived, ……………………..?",
+            "description": "Negative tags are used after affirmative sentences and non-negative tags are used after negative sentences. If the main sentence has an auxiliary it is repeated in the question tag.",
+            "answers": [
+                "has he",
+                "did he",
+                "hasn't he"
+            ],
+            "correct": 0,
+            "id": "f5b29e8308864909b3293ff463c71e4b"
+        },
+        {
+            "question": "Sam left in the morning, ……………………..?",
+            "description": "Negative tags are used after affirmative sentences and non-negative tags are used after negative sentences.\r\nIf the main sentence does not have an auxiliary, the tag is made with do, does or did.\r\n",
+            "answers": [
+                "did he",
+                "didn't he",
+                "hadn't he"
+            ],
+            "correct": 1,
+            "id": "2a7f6ca268e241b796765d6a364fa8eb"
+        },
+        {
+            "question": "You live with him, …………………………?",
+            "description": "Negative tags are used after affirmative sentences and non-negative tags are used after negative sentences.\r\nIf the main sentence does not have an auxiliary, the tag is made with do, does or did.\r\n",
+            "answers": [
+                "do you",
+                "don't you",
+                "didn't you"
+            ],
+            "correct": 1,
+            "id": "18faec6fe8c8492199eb660c5264c796"
+        },
+        {
+            "question": "He works hard, …………………………?",
+            "description": "Negative tags are used after affirmative sentences and non-negative tags are used after negative sentences.\r\nIf the main sentence does not have an auxiliary, the tag is made with do, does or did.\r\n",
+            "answers": [
+                "does he",
+                "doesn't he",
+                "did he"
+            ],
+            "correct": 1,
+            "id": "8198363975b448f1b4e81b560d3f5f03"
+        },
+        {
+            "question": "They recognized him, …………………………?",
+            "description": "",
+            "answers": [
+                "did they",
+                "didn't they",
+                "hadn't they"
+            ],
+            "correct": 1,
+            "id": "d667aa429dbb410381a23dd6add9962a"
+        },
+        {
+            "question": "He married his childhood sweet heart, ………………………..?",
+            "description": "Negative tags are used after affirmative sentences and non-negative tags are used after negative sentences.\r\nIf the main sentence does not have an auxiliary, the tag is made with do, does or did.\r\n",
+            "answers": [
+                "didn't he",
+                "did he",
+                "hadn't"
+            ],
+            "correct": 0,
+            "id": "6ff80eb0c18e4faeadd5b9df3aa5f2d6"
+        },
+        {
+            "question": "Edison was not a brilliant student, ………………………..?",
+            "description": "",
+            "answers": [
+                "was he",
+                "wasn't he",
+                "isn't he"
+            ],
+            "correct": 0,
+            "id": "49101e01f68f4bf8adbcc2c9b601cb24"
+        },
+        {
+            "question": "You slept the whole day yesterday, ………………………….?",
+            "description": "",
+            "answers": [
+                "did you",
+                "didn't you",
+                "hadn't you"
+            ],
+            "correct": 1,
+            "id": "f84e41857baa4da782091e73c7251a24"
+        },
+        {
+            "question": "Nobody called, ……………………………?",
+            "description": "",
+            "answers": [
+                "did they",
+                "didn't they",
+                "hadn't they"
+            ],
+            "correct": 0,
+            "id": "02079e279b8e4c51b10dd86adc54e437"
+        },
+        {
+            "question": "The children delivered a splendid performance, …………………………?",
+            "description": "",
+            "answers": [
+                "did they",
+                "didn't they",
+                "don't they"
+            ],
+            "correct": 1,
+            "id": "0f865d8fe6af4deaa1e53221633a405b"
+        },
+        {
+            "question": "He never helps anyone, ………………………..?",
+            "description": "Affirmative tags are used after negative words like never, nobody etc.",
+            "answers": [
+                "does he",
+                "doesn't he",
+                "didn't he"
+            ],
+            "correct": 0,
+            "id": "a92e9892a23144419f9e6b2de8441d75"
+        },
+        {
+            "question": "You never waste a single opportunity to criticize me, ……………………….?",
+            "description": "",
+            "answers": [
+                "do you",
+                "don't you",
+                "didn't you"
+            ],
+            "correct": 0,
+            "id": "9fb3aeb2328a4b7999775f67c25b5c23"
+        }
+    ]
+}

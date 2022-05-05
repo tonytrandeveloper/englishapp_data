@@ -1,0 +1,139 @@
+{
+    "id": "4fbbced4dae64556820454ce5420e6ca",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "I …………………… anything for hours.",
+            "description": "The present perfect is more common with the time expressions for and since.",
+            "answers": [
+                "am not eating",
+                "haven't eaten",
+                "didn't eat"
+            ],
+            "correct": 1,
+            "id": "463755766e3c4bd3b94a5353914d0750"
+        },
+        {
+            "question": "I believe that professionals ……………………. doctors and teachers are more useful than actors or singers.",
+            "description": "Either like or such as can be used to give examples. ",
+            "answers": [
+                "like",
+                "as",
+                "such as",
+                "Either like or such as"
+            ],
+            "correct": 3,
+            "id": "1a71ecbc9f484edab88736199fc0ac1d"
+        },
+        {
+            "question": "The child …………………… sits in that corner is my nephew.",
+            "description": "We use who to refer to people. ",
+            "answers": [
+                "who",
+                "whom",
+                "that",
+                "which"
+            ],
+            "correct": 0,
+            "id": "5189265b90dd4207b5b3a64dbb17b5ac"
+        },
+        {
+            "question": "You …………………… behave.",
+            "description": "All of these expressions indicate ideas such as obligation and necessity. ",
+            "answers": [
+                "ought to",
+                "should",
+                "must",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "7a7356e90b9647b68f9a80217f18623a"
+        },
+        {
+            "question": "You ......................... quit the job.",
+            "description": "Must is a modal auxiliary. Questions and negatives are made without do.",
+            "answers": [
+                "must not",
+                "do not must",
+                "must not to"
+            ],
+            "correct": 0,
+            "id": "5a0f117f752f4e3cb898459475b66763"
+        },
+        {
+            "question": "I haven’t got ……………………… friends.",
+            "description": "Not any means the same as no. ",
+            "answers": [
+                "no",
+                "any",
+                "none"
+            ],
+            "correct": 1,
+            "id": "fa8a60498b084e2182b2483cdac004aa"
+        },
+        {
+            "question": "I called him in the morning but he didn’t ……………………. the phone.",
+            "description": "Use the bare infinitive (v1) after do, does and did.",
+            "answers": [
+                "answer",
+                "answered",
+                "answering"
+            ],
+            "correct": 0,
+            "id": "969ba6a6170c40dd98a58eb229fa5a2b"
+        },
+        {
+            "question": "I don’t ……………………… agree with this view.",
+            "description": "",
+            "answers": [
+                "rather",
+                "quite",
+                "quiet"
+            ],
+            "correct": 1,
+            "id": "19c2394f9a324df19e637b0c925eeadf"
+        },
+        {
+            "question": "The situation is getting ……………………day by day.",
+            "description": "Worse is the comparative form of bad.",
+            "answers": [
+                "worse",
+                "worser",
+                "worst"
+            ],
+            "correct": 0,
+            "id": "8eab2b2ea291486bb6ceb810a181cf10"
+        },
+        {
+            "question": "I am now here ……………………. my mom.",
+            "description": "Because of is a preposition. It is used before a noun.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "a39d1373889b4959b5e770516e49d803"
+        },
+        {
+            "question": "Work …………………… the best of your ability.",
+            "description": "",
+            "answers": [
+                "to",
+                "for",
+                "with"
+            ],
+            "correct": 0,
+            "id": "cffb20df9d7c4694bd3af8307a98f8a5"
+        },
+        {
+            "question": "I went home …………………….. I was bored.",
+            "description": "Because is a conjunction. It is used to connect two clauses. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "b115dbc4778744cebd195c54421d28bd"
+        }
+    ]
+}

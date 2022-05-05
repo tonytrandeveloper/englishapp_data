@@ -1,0 +1,127 @@
+{
+    "id": "b4ef98e6f14748c59cea91f784fe3f78",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "He ............................... to that place every year.",
+            "description": "",
+            "answers": [
+                "go",
+                "goes",
+                "going"
+            ],
+            "correct": 1,
+            "id": "ee2f886113ab426fb859bd8ba08a1a1f"
+        },
+        {
+            "question": "Water .................................. at 100 degree Celsius.",
+            "description": "",
+            "answers": [
+                "boil",
+                "boils",
+                "boiling"
+            ],
+            "correct": 1,
+            "id": "bb4e013b885b4ed9b6497baafeacb48f"
+        },
+        {
+            "question": "My kids usually .................................. to school by bus.",
+            "description": "",
+            "answers": [
+                "go",
+                "goes",
+                "going"
+            ],
+            "correct": 0,
+            "id": "cf0e99be1c69403f829c97424773a715"
+        },
+        {
+            "question": "I ................................ a movie now.",
+            "description": "",
+            "answers": [
+                "watch",
+                "am watching",
+                "was watching"
+            ],
+            "correct": 1,
+            "id": "d829eb49a42a414d9ed33fc1c110e303"
+        },
+        {
+            "question": "We .................................... to Mumbai last year.",
+            "description": "",
+            "answers": [
+                "go",
+                "went",
+                "have gone"
+            ],
+            "correct": 1,
+            "id": "c585ed322acd4e2e8ec23f5adc4f47c2"
+        },
+        {
+            "question": "This bag ................................ flour.",
+            "description": "",
+            "answers": [
+                "contain",
+                "contains",
+                "containing"
+            ],
+            "correct": 1,
+            "id": "db55b05520234f858b44bbb24bde9770"
+        },
+        {
+            "question": "Now I ................................. of quitting the job.",
+            "description": "",
+            "answers": [
+                "think",
+                "am thinking",
+                "was thinking"
+            ],
+            "correct": 1,
+            "id": "bd12f5e7d1c148a78484432284149a69"
+        },
+        {
+            "question": "Birds ………………….............. in nests.",
+            "description": "",
+            "answers": [
+                "live",
+                "lives",
+                "living"
+            ],
+            "correct": 0,
+            "id": "0f408023afca47dcbc26cc64b9848b0c"
+        },
+        {
+            "question": "My sister ………………............... abroad.",
+            "description": "",
+            "answers": [
+                "work",
+                "works",
+                "working"
+            ],
+            "correct": 1,
+            "id": "b2687de599f042db90fb431f2424d0aa"
+        },
+        {
+            "question": "I …………………........ at the moment.",
+            "description": "",
+            "answers": [
+                "type",
+                "am typing",
+                "typing"
+            ],
+            "correct": 1,
+            "id": "963673fa154544b8a85982eb4719e7bd"
+        },
+        {
+            "question": "I ………………………...... such nonsense.",
+            "description": "",
+            "answers": [
+                "never heard",
+                "have never heard",
+                "am never hearing"
+            ],
+            "correct": 1,
+            "id": "a92c8d59cf334e00b0e753e14a4f5ccd"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "id": "20f929751f8a4c7d907c5b8cc9a543f6",
+    "title": "Confusing Words Exercise",
+    "questions": [
+        {
+            "question": "The minister spoke of the soul’s …………………………. life.",
+            "description": "Eternal means lasting forever.",
+            "answers": [
+                "eternal",
+                "ethereal"
+            ],
+            "correct": 0,
+            "id": "ff971690a33f48f6bbf693af339a8433"
+        },
+        {
+            "question": "Her ………………………………. beauty could not be captured by the greatest painter.",
+            "description": "Ethereal means celestial.",
+            "answers": [
+                "eternal",
+                "ethereal"
+            ],
+            "correct": 1,
+            "id": "1aa701c4e3f348febb370f7beb2b9db1"
+        },
+        {
+            "question": "Her ……………………………….. would not allow her to betray a friend.",
+            "description": "Ethics means moral code.",
+            "answers": [
+                "ethics",
+                "ethnics"
+            ],
+            "correct": 0,
+            "id": "a6e7097dad934dd1ac2c2ef805a20e8a"
+        },
+        {
+            "question": "Each country has its own ……………………………… costumes.",
+            "description": "Ethnic means cultural or native.",
+            "answers": [
+                "ethic",
+                "ethnic"
+            ],
+            "correct": 1,
+            "id": "33c655cc852b4cce92a64c37cc9029b8"
+        },
+        {
+            "question": "The politician’s …………………………….. answers infuriated the reporters.",
+            "description": "Evasive means elusive or misleading.",
+            "answers": [
+                "evasive",
+                "allusive",
+                "invasive"
+            ],
+            "correct": 0,
+            "id": "32facbc5ee934d588796396cda795eb8"
+        },
+        {
+            "question": "The procedure was only minimally …………………………….",
+            "description": "",
+            "answers": [
+                "evasive",
+                "invasive",
+                "elusive"
+            ],
+            "correct": 1,
+            "id": "f8fd1246d5d84dfaa5e4f4a284177da8"
+        },
+        {
+            "question": "An …………………………… spends much time alone.",
+            "description": "Introvert means private person.",
+            "answers": [
+                "introvert",
+                "introspective",
+                "intravert"
+            ],
+            "correct": 0,
+            "id": "c9735cdeecb146f480b833cd650d7a3c"
+        },
+        {
+            "question": "His …………………………………… sense of humor helped him through hard times.",
+            "description": "Invincible means unconquerable.",
+            "answers": [
+                "invisible",
+                "invincible",
+                "invinsible"
+            ],
+            "correct": 1,
+            "id": "f7b90a4d62ec49cb8a819d0cceb03c9f"
+        },
+        {
+            "question": "…………………………….. romantics are always falling in love.",
+            "description": "Inveterate means steadfast, diehard.",
+            "answers": [
+                "incorrigible",
+                "die-hard",
+                "inveterate",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "073d76e0c6a546a7b5e7a9b97ebce81a"
+        },
+        {
+            "question": "In an ……………………………. position, a 9 looks like a",
+            "description": "Inverted means upside down.",
+            "answers": [
+                "converted",
+                "inverted",
+                "perverted"
+            ],
+            "correct": 1,
+            "id": "06c485eec82b4f50b2dac1965e27e8c2"
+        },
+        {
+            "question": "The sinner ……………………………….. the Lord’s forgiveness.",
+            "description": "Invoke means call upon.",
+            "answers": [
+                "invoked",
+                "evoked"
+            ],
+            "correct": 0,
+            "id": "003288fd82954bcebd28c0a0c38bde51"
+        }
+    ]
+}

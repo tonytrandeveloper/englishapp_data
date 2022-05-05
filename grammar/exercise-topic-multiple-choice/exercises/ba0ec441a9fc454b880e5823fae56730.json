@@ -1,0 +1,137 @@
+{
+    "id": "ba0ec441a9fc454b880e5823fae56730",
+    "title": "Determiners and Pronouns Quiz",
+    "questions": [
+        {
+            "question": "I couldn't answer ............................... questions.",
+            "description": "Use many with a plural noun use every with a singular noun.",
+            "answers": [
+                "many",
+                "much",
+                "every"
+            ],
+            "correct": 0,
+            "id": "1d363c5434e446f1a27a71903b4bd3a1"
+        },
+        {
+            "question": "I haven't got ............................. money.",
+            "description": "Much and any are possible here with somewhat different meanings. Money is uncountable so it cannot be used with many.",
+            "answers": [
+                "much",
+                "many",
+                "any"
+            ],
+            "correct": 2,
+            "id": "a6c2745cb5fd4693a41c142f66f80a7f"
+        },
+        {
+            "question": "She has so ............................... wealth.",
+            "description": "Wealth is uncountable use much with it.",
+            "answers": [
+                "many",
+                "much"
+            ],
+            "correct": 1,
+            "id": "10ec93d431ff4b18b83dbca7a8de9242"
+        },
+        {
+            "question": "I don't have ............................... interest in politics.",
+            "description": "Many is not an adverb. It cannot modify an adjective. Some is used in affirmative clauses. ",
+            "answers": [
+                "any",
+                "many",
+                "some"
+            ],
+            "correct": 0,
+            "id": "8a7460ea7f4d46129be045462b1004dc"
+        },
+        {
+            "question": "You don't give me ............................ help.",
+            "description": "",
+            "answers": [
+                "any",
+                "many",
+                "some"
+            ],
+            "correct": 0,
+            "id": "f43128b14a054504b52ed9b1db9f9978"
+        },
+        {
+            "question": "Milk does not provide as .............................. nutrition as curd.",
+            "description": "Nutrition is an uncountable noun. Use much with it. ",
+            "answers": [
+                "many",
+                "much"
+            ],
+            "correct": 1,
+            "id": "d66d4b1f3bd04e7d857abd17f583e656"
+        },
+        {
+            "question": "I did ............................ work in ............................ time today.",
+            "description": "Less is the comparative form of little.",
+            "answers": [
+                "more, little",
+                "more, less",
+                "more, lesser"
+            ],
+            "correct": 1,
+            "id": "b5199e614d7440cdad0792515cc5fbf7"
+        },
+        {
+            "question": "You hardly eat ..................................",
+            "description": "Hardly is a negative word. You hardly eat anything means the same as you eat nothing. ",
+            "answers": [
+                "anything",
+                "something",
+                "nothing"
+            ],
+            "correct": 0,
+            "id": "70bf584b37584d678036cecc3eb49410"
+        },
+        {
+            "question": "Although I didn't know ............................. at the party, I had a good time.",
+            "description": "",
+            "answers": [
+                "anyone",
+                "someone",
+                "no one"
+            ],
+            "correct": 0,
+            "id": "7aa7c349c2224e54baf5c9830a9332b7"
+        },
+        {
+            "question": "You have ................................ problems than me.",
+            "description": "Use a comparative adjective before than. Fewer is the comparative form of few. It is used with plural nouns.",
+            "answers": [
+                "fewer",
+                "few",
+                "less",
+                "lesser"
+            ],
+            "correct": 0,
+            "id": "a49af727b2b842a9a69415b71fc1790f"
+        },
+        {
+            "question": "There isn’t …………………….. we can do.",
+            "description": "",
+            "answers": [
+                "many",
+                "any",
+                "much"
+            ],
+            "correct": 2,
+            "id": "79bb5fdc4aaf4d88983514196eed7008"
+        },
+        {
+            "question": "I have got .............................. water if you are thirsty.",
+            "description": "Little means hardly any water. A little indicates a small quantity. ",
+            "answers": [
+                "little",
+                "a little",
+                "few"
+            ],
+            "correct": 1,
+            "id": "99e25610e22348e3a11169d23aab259d"
+        }
+    ]
+}

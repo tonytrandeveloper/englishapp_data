@@ -1,0 +1,102 @@
+{
+    "id": "d29f22a68f0642a7808325ed65cc0c1a",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "This fabric is inferior ………………….. that.",
+            "description": "",
+            "answers": [
+                "than",
+                "to",
+                "from",
+                "off"
+            ],
+            "correct": 1,
+            "id": "90b49d7c509c4678b13c78ae76b0ecc9"
+        },
+        {
+            "question": "Do you like ....................... of meat pie?",
+            "description": "",
+            "answers": [
+                "this sort",
+                "these sorts",
+                "these sort",
+                "this sorts"
+            ],
+            "correct": 0,
+            "id": "2188a1c9b2484a9399a10984d8900275"
+        },
+        {
+            "question": "The book ....................... on the table.",
+            "description": "",
+            "answers": [
+                "was lain",
+                "was laid",
+                "was lied",
+                "has lied"
+            ],
+            "correct": 1,
+            "id": "98462ed87ea34216ad80cc8a289922bd"
+        },
+        {
+            "question": "The garden shears ..................... used to clip the hedges.",
+            "description": "",
+            "answers": [
+                "was",
+                "were",
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "0c733ccc09d54a0c9cf7d88ed816034b"
+        },
+        {
+            "question": "Each of the boys ....................... given a prize today.",
+            "description": "",
+            "answers": [
+                "was",
+                "were",
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "e50793eb80644f7d81f26e73c074c231"
+        },
+        {
+            "question": "A strimmer is a machine used ………………….. grass and weeds.",
+            "description": "",
+            "answers": [
+                "to cut",
+                "for cutting",
+                "to cutting",
+                "None of the above"
+            ],
+            "correct": 1,
+            "id": "fbcdaf310f964bff9096a97c807759c9"
+        },
+        {
+            "question": "To ………………….., he failed his exam.",
+            "description": "",
+            "answers": [
+                "noone's surprise",
+                "no one's surprise",
+                "no ones surprise",
+                "no ones' surprise"
+            ],
+            "correct": 1,
+            "id": "bd9ae8b219414f438515ad3cd180efa3"
+        },
+        {
+            "question": "The circus ..................... round of applause for the perfectly timed acrobatic stunt.",
+            "description": "",
+            "answers": [
+                "audience gave a well-deserved",
+                "audience received a well-deserved",
+                "audience did receive a well deserved",
+                "audience gave a well deserved"
+            ],
+            "correct": 0,
+            "id": "48a4ea0942ae4462bf8aade7f6729204"
+        }
+    ]
+}

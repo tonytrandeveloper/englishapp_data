@@ -1,0 +1,114 @@
+{
+    "id": "06c33098c3cd4f90909c29af1f939c2e",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The train is now …………………. the Victoria Terminus.",
+            "description": "",
+            "answers": [
+                "approaching at",
+                "approaching",
+                "approaching to",
+                "approaching on"
+            ],
+            "correct": 1,
+            "id": "c2cc5313b9664d6f979ef31812bdcb2c"
+        },
+        {
+            "question": "She ………………. her disapproval of the show by leaving the auditorium.",
+            "description": "",
+            "answers": [
+                "evinced",
+                "saw",
+                "envisaged",
+                "ensued"
+            ],
+            "correct": 0,
+            "id": "aca659dc66d04a8a9f0eb8ac073c683f"
+        },
+        {
+            "question": "Her questions must have provoked him for they ……………….. a bitter retort.",
+            "description": "",
+            "answers": [
+                "evoked",
+                "evinced",
+                "invoked",
+                "resulted"
+            ],
+            "correct": 0,
+            "id": "97fbf23515c549ed907be64daaa02649"
+        },
+        {
+            "question": "Her silence merely ……………….. the problem.",
+            "description": "",
+            "answers": [
+                "solved",
+                "improved",
+                "accelerated",
+                "exacerbated"
+            ],
+            "correct": 3,
+            "id": "8ea2cded6e9d4d26a47fe3cb69b44e42"
+        },
+        {
+            "question": "This book is an ..................... account of the author’s life.",
+            "description": "",
+            "answers": [
+                "exhausted",
+                "exhaustive",
+                "peripheral",
+                "attractive"
+            ],
+            "correct": 1,
+            "id": "7fa32a9254bf46d4acd219e8fa0e83d8"
+        },
+        {
+            "question": "They bought the apartment at an ………………….. price.",
+            "description": "",
+            "answers": [
+                "extreme",
+                "exorbitant",
+                "large",
+                "high"
+            ],
+            "correct": 1,
+            "id": "47b7aee5c27343bb97b9930d2d9069c8"
+        },
+        {
+            "question": "Her shameless affair is the ……………….. in the family cupboard.",
+            "description": "",
+            "answers": [
+                "secret",
+                "skeleton",
+                "lock",
+                "bone"
+            ],
+            "correct": 1,
+            "id": "553d3ce9e8f94ac7a407e3c50a20b425"
+        },
+        {
+            "question": "If we both put our ……………….. on the table it would be easier to come to an agreement.",
+            "description": "",
+            "answers": [
+                "cards",
+                "hands",
+                "plans",
+                "wallets"
+            ],
+            "correct": 0,
+            "id": "f024c06896b44f15ac2a25d04c737005"
+        },
+        {
+            "question": "That noise is driving me up the ………………….",
+            "description": "",
+            "answers": [
+                "wall",
+                "roof",
+                "hill",
+                "road"
+            ],
+            "correct": 0,
+            "id": "a3a06c2bf43e42ae8cb6f79a43f724ca"
+        }
+    ]
+}

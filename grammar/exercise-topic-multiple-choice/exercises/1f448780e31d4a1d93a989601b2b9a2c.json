@@ -1,0 +1,138 @@
+{
+    "id": "1f448780e31d4a1d93a989601b2b9a2c",
+    "title": "Active And Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "The message ……………………………….. delivered.",
+            "description": "The passive verb form is used when the subject is not the doer of the action.",
+            "answers": [
+                "has",
+                "has been",
+                "had"
+            ],
+            "correct": 1,
+            "id": "4c8aba3d35da4cb499c5f0758a9e71b9"
+        },
+        {
+            "question": "The messenger …………………………….. the message.",
+            "description": "Use the active verb form when the subject is the doer of the action.",
+            "answers": [
+                "has been delivered",
+                "has delivered",
+                "is delivered"
+            ],
+            "correct": 1,
+            "id": "fd9d942eeb344e268296a4272c972c03"
+        },
+        {
+            "question": "They ………………………….. the parcel in the morning.",
+            "description": "The present perfect cannot be used with definite past time expressions. ",
+            "answers": [
+                "sent",
+                "have sent",
+                "have been sent"
+            ],
+            "correct": 0,
+            "id": "a4360140460b40caaf41a0b7a65830c0"
+        },
+        {
+            "question": "He ……………………………. to leave.",
+            "description": "The passive form is used when the subject is not the doer of the action.",
+            "answers": [
+                "told",
+                "was told",
+                "has told"
+            ],
+            "correct": 1,
+            "id": "cc8ae136214b48eb8d4fa5e6cf35c8e5"
+        },
+        {
+            "question": "The culprit ……………………………",
+            "description": "Either the present perfect (passive) or simple past (passive) is possible here. ",
+            "answers": [
+                "has caught",
+                "has been caught",
+                "was caught"
+            ],
+            "correct": 2,
+            "id": "2a68e281a68744c78fd80946e259cf9d"
+        },
+        {
+            "question": "The suspect …………………………… to the crime.",
+            "description": "",
+            "answers": [
+                "has confessed",
+                "was confessed",
+                "has been confessed"
+            ],
+            "correct": 0,
+            "id": "e046bc23278a4d82b95b46d7b66251d1"
+        },
+        {
+            "question": "I …………………………….. the invite.",
+            "description": "The present perfect is used to give news. ",
+            "answers": [
+                "have been received",
+                "have received",
+                "had received"
+            ],
+            "correct": 1,
+            "id": "e52e17ae13f248c78851729c802cc00b"
+        },
+        {
+            "question": "The invites ……………………………..",
+            "description": "",
+            "answers": [
+                "have sent",
+                "have been sent",
+                "had sent"
+            ],
+            "correct": 1,
+            "id": "6f4ecea89d744f8686699a552462b4f3"
+        },
+        {
+            "question": "The kitten ……………………………. home yesterday.",
+            "description": "The present perfect cannot be used with past time expressions. ",
+            "answers": [
+                "has brought",
+                "was brought",
+                "has been brought"
+            ],
+            "correct": 1,
+            "id": "d565a003ce3145e29655b6f8b763ac1d"
+        },
+        {
+            "question": "I ……………………….. a cake for my daughter’s birthday.",
+            "description": "Either simple past or the present perfect is possible here. ",
+            "answers": [
+                "baked",
+                "was baked",
+                "have baked"
+            ],
+            "correct": 2,
+            "id": "a5b5884c95524ebdbf2d6d1604a8af6c"
+        },
+        {
+            "question": "I …………………………. her a necklace.",
+            "description": "",
+            "answers": [
+                "bought",
+                "was bought",
+                "have been bought"
+            ],
+            "correct": 0,
+            "id": "1a7c0234e8674066ae7592290c7fadd6"
+        },
+        {
+            "question": "She ……………………….. me some flowers.",
+            "description": "",
+            "answers": [
+                "sent",
+                "was sent",
+                "has been sent"
+            ],
+            "correct": 0,
+            "id": "543974cddc9c4d6daefb5dd41d8ef6a4"
+        }
+    ]
+}

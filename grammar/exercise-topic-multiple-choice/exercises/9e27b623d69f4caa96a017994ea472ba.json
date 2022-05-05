@@ -1,0 +1,138 @@
+{
+    "id": "9e27b623d69f4caa96a017994ea472ba",
+    "title": "Conditional Sentences Exercise",
+    "questions": [
+        {
+            "question": "If you help Rani, she ………………………… the exam.",
+            "description": "In the first conditional we use a simple present tense in the if-clause and will + first form of the verb in the main clause.",
+            "answers": [
+                "will pass",
+                "would pass",
+                "would have passed"
+            ],
+            "correct": 0,
+            "id": "6c3224f9954644a3a01fd4f87403d5a8"
+        },
+        {
+            "question": "Unless you …………………………. her, she will fail the test.",
+            "description": "",
+            "answers": [
+                "help",
+                "helped",
+                "had helped"
+            ],
+            "correct": 0,
+            "id": "e4a4b83c920b44e4a9829fb7eb4c21dd"
+        },
+        {
+            "question": "If Samuel ………………………. me, I will go to his place.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause.",
+            "answers": [
+                "invites",
+                "invited",
+                "had invited"
+            ],
+            "correct": 0,
+            "id": "a599e5b87ddd48ff8cfdd1df1e9de3fe"
+        },
+        {
+            "question": "If she arrived now, we ……………………………. her.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would/could + first form of the verb in the main clause.",
+            "answers": [
+                "can meet",
+                "could meet",
+                "could have met"
+            ],
+            "correct": 1,
+            "id": "ffabbb7722ff4de59c1ac7d8b0f70d4f"
+        },
+        {
+            "question": "If she ………………………… her money wisely, she wouldn’t be broke now.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would/could + first form of the verb in the main clause.",
+            "answers": [
+                "spends",
+                "spent",
+                "had spent"
+            ],
+            "correct": 1,
+            "id": "d1275c939e074efab65060b6db9b9209"
+        },
+        {
+            "question": "If I ………………………….. his phone number, I would call him.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would/could + first form of the verb in the main clause.",
+            "answers": [
+                "know",
+                "knew",
+                "had known"
+            ],
+            "correct": 1,
+            "id": "2e55c08b41104b9485985e80fe899c94"
+        },
+        {
+            "question": "If you come home, I ………………………….  you.",
+            "description": "",
+            "answers": [
+                "will protect",
+                "would protect",
+                "would have protected"
+            ],
+            "correct": 0,
+            "id": "a54cbaab3ceb4cee863f41c38f958c59"
+        },
+        {
+            "question": "If you ………………………………. to my advice, you would not have been in trouble.",
+            "description": "In the third conditional we use a past perfect tense in the if-clause and would have + past participle in the main clause.",
+            "answers": [
+                "listen",
+                "listened",
+                "had listened"
+            ],
+            "correct": 2,
+            "id": "8e8825a4501f4f528a16e2f981f5a82f"
+        },
+        {
+            "question": "If they ………………………….. us, we would have been in trouble.",
+            "description": "In the third conditional we use a past perfect tense in the if-clause and would have + past participle in the main clause.",
+            "answers": [
+                "see",
+                "saw",
+                "had seen"
+            ],
+            "correct": 2,
+            "id": "0a400f40cc5c4d38a701659d21fb0460"
+        },
+        {
+            "question": "If you ………………………….. respect, you get respect.",
+            "description": "",
+            "answers": [
+                "give",
+                "gave",
+                "had given"
+            ],
+            "correct": 0,
+            "id": "95966800ac60420e96ee0aa7204bccfb"
+        },
+        {
+            "question": "If she recognized you, why …………………………… she say Hi?",
+            "description": "",
+            "answers": [
+                "don't",
+                "didn't",
+                "hadn't"
+            ],
+            "correct": 1,
+            "id": "5eff868849e744409965fc51f5641c0f"
+        },
+        {
+            "question": "If you stop talking, I ……………………….. the news.",
+            "description": "",
+            "answers": [
+                "can listen to",
+                "could listen to",
+                "could have listened to"
+            ],
+            "correct": 0,
+            "id": "9348a9a6bf27488d81cb0caa533346c3"
+        }
+    ]
+}

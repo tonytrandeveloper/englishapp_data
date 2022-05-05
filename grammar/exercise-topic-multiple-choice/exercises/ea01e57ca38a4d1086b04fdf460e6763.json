@@ -1,0 +1,137 @@
+{
+    "id": "ea01e57ca38a4d1086b04fdf460e6763",
+    "title": "Irregular Verbs Exercise",
+    "questions": [
+        {
+            "question": "I .................................... the bell twice.",
+            "description": "Rang is the simple past of ring.",
+            "answers": [
+                "rang",
+                "ringed",
+                "rung"
+            ],
+            "correct": 0,
+            "id": "9d995af14e604080a78bc594f6ced413"
+        },
+        {
+            "question": "Have you ....................................... the violin?",
+            "description": "Brought is the simple past of bring.",
+            "answers": [
+                "bringed",
+                "brought"
+            ],
+            "correct": 1,
+            "id": "ed136ff871e841f8b369b1fcbd69bda6"
+        },
+        {
+            "question": "The cat has ....................................... the milk.",
+            "description": "Drunk is the past participle form of drink.",
+            "answers": [
+                "drank",
+                "drinked",
+                "drunk"
+            ],
+            "correct": 2,
+            "id": "eb35d4f8d7df45dfa582a0b754068625"
+        },
+        {
+            "question": "I have ..................................... the work.",
+            "description": "",
+            "answers": [
+                "did",
+                "done",
+                "do"
+            ],
+            "correct": 1,
+            "id": "5c9959ff2f1047068508a47ffbe89ab1"
+        },
+        {
+            "question": "They ...................................... a well in the backyard.",
+            "description": "Dug is the past simple and past participle of dig. ",
+            "answers": [
+                "dig",
+                "digged",
+                "dug"
+            ],
+            "correct": 2,
+            "id": "61530570e85940f9a9411395543a8701"
+        },
+        {
+            "question": "She ...................................... the clothes out.",
+            "description": "The past simple of wring is wrang or wrung. ",
+            "answers": [
+                "wringed",
+                "wrang",
+                "wrung"
+            ],
+            "correct": 2,
+            "id": "6065726681674a348caee82a3cf7e6b8"
+        },
+        {
+            "question": "He has ..................................... a lot on his children's education.",
+            "description": "Spent is the past simple and past participle form of spend.",
+            "answers": [
+                "spent",
+                "spend",
+                "spended"
+            ],
+            "correct": 0,
+            "id": "9bd5e975a70f4fc688669f44caf1f9f5"
+        },
+        {
+            "question": "How you have ....................................!",
+            "description": "",
+            "answers": [
+                "grew",
+                "growed",
+                "grown"
+            ],
+            "correct": 2,
+            "id": "88b0fa29ca9043b3b8f68a7ced8613b9"
+        },
+        {
+            "question": "I have ........................................ to Australia.",
+            "description": "We use been for finished visit. If somebody has gone to Australia, they are still in Australia. ",
+            "answers": [
+                "gone",
+                "been",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "78f59e9b723242a2914b5a549f6a7864"
+        },
+        {
+            "question": "The place ........................................ like a sewer.",
+            "description": "",
+            "answers": [
+                "stink",
+                "stinked",
+                "stank"
+            ],
+            "correct": 2,
+            "id": "b13d9df4142c45809d72227bc2f66f28"
+        },
+        {
+            "question": "Peter ......................................... under his breath.",
+            "description": "Sweared is possible in a careless style. ",
+            "answers": [
+                "sweared",
+                "swore",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "07b293b63e434aa58cf9efd6885ded7a"
+        },
+        {
+            "question": "They ......................................... the grains into powder.",
+            "description": "Ground is the past simple of grind. ",
+            "answers": [
+                "grinded",
+                "grounded",
+                "ground"
+            ],
+            "correct": 2,
+            "id": "bccea6ffc56743d1a2513eeab5c7af5c"
+        }
+    ]
+}

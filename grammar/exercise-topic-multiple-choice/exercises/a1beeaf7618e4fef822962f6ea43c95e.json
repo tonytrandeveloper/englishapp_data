@@ -1,0 +1,138 @@
+{
+    "id": "a1beeaf7618e4fef822962f6ea43c95e",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "I want to ask ............................. questions.",
+            "description": "A few means a small number few means almost none. ",
+            "answers": [
+                "few",
+                "a few",
+                "the few"
+            ],
+            "correct": 1,
+            "id": "dce0273f6dcd4373af9275fe25727022"
+        },
+        {
+            "question": ".............................. money that I had was not sufficient to buy tickets.",
+            "description": "",
+            "answers": [
+                "A few",
+                "A little",
+                "The little"
+            ],
+            "correct": 2,
+            "id": "f9faefe49ff04715a1fa5a12d535f510"
+        },
+        {
+            "question": "............................... little knowledge of German helped while I was in Switzerland.",
+            "description": "",
+            "answers": [
+                "Little",
+                "A little",
+                "The little"
+            ],
+            "correct": 2,
+            "id": "0db279afa86842a59a11a5aee60bc47e"
+        },
+        {
+            "question": "She hasn't got .............................. friends.",
+            "description": "Use many with plural nouns use some in affirmative clauses. ",
+            "answers": [
+                "much",
+                "many",
+                "some"
+            ],
+            "correct": 1,
+            "id": "ce9f7d5ec85e47e4a7bcf592770f9c2d"
+        },
+        {
+            "question": "................................. politicians are really honest.",
+            "description": "Use few with plural nouns. ",
+            "answers": [
+                "Little",
+                "Much",
+                "Few"
+            ],
+            "correct": 2,
+            "id": "0cf9c84c1ace4cb3841b60f73f504ae0"
+        },
+        {
+            "question": "He has ................................ interest in philosophy.",
+            "description": "Use much with uncountable nouns. ",
+            "answers": [
+                "many",
+                "any",
+                "much"
+            ],
+            "correct": 2,
+            "id": "4107ec319d354c3283a49691ae22fa08"
+        },
+        {
+            "question": "She hasn't got .................................. money.",
+            "description": "",
+            "answers": [
+                "some",
+                "much",
+                "many"
+            ],
+            "correct": 1,
+            "id": "ba45e3d8184b4e368e483c3ae4dfaccf"
+        },
+        {
+            "question": "Please give me .................................. more time.",
+            "description": "",
+            "answers": [
+                "some",
+                "little",
+                "any"
+            ],
+            "correct": 0,
+            "id": "0806d5bcd7ab4c879d407e1bbe14d510"
+        },
+        {
+            "question": "This is ................................. difficult than that.",
+            "description": "",
+            "answers": [
+                "more",
+                "most",
+                "much"
+            ],
+            "correct": 0,
+            "id": "0aea1c640c4d447680f44ffb403ae4ec"
+        },
+        {
+            "question": "Hunger is still rampant in ............................... parts of the world.",
+            "description": "",
+            "answers": [
+                "any",
+                "many",
+                "much"
+            ],
+            "correct": 1,
+            "id": "d8ad1f00abca44acb18ad23058fcc4be"
+        },
+        {
+            "question": "Suddenly ................................. lights went out.",
+            "description": "Use all with plural nouns.",
+            "answers": [
+                "all",
+                "every",
+                "whole"
+            ],
+            "correct": 0,
+            "id": "eec6e2785d334225b412982366698830"
+        },
+        {
+            "question": "I spent the .............................. day in bed.",
+            "description": "Whole goes after the all goes before the.",
+            "answers": [
+                "all",
+                "whole",
+                "every"
+            ],
+            "correct": 1,
+            "id": "643b4bc8ab7b4f328a8983506da24aaa"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "id": "1d68aa0e84af401eb95b8b6b64bbe8db",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "The science of ship-building was known to ancient Indians. / Ancient Indians ........................ the science of ship-building.",
+            "description": "",
+            "answers": [
+                "knew",
+                "known",
+                "had known"
+            ],
+            "correct": 0,
+            "id": "a5f5dfad13bd469faa7e0722b91004d5"
+        },
+        {
+            "question": "The sage looked at the boy with kind and understanding eyes.",
+            "description": "",
+            "answers": [
+                "Kind is an adverb",
+                "Kind is an adjective",
+                "Kind is a verb"
+            ],
+            "correct": 1,
+            "id": "9ae1d8ddfd8f48e68fa0d23d82fb0009"
+        },
+        {
+            "question": "How disgusting!",
+            "description": "",
+            "answers": [
+                "Imperative sentence",
+                "Declarative sentence",
+                "Exclamatory sentence",
+                "Interrogative sentence"
+            ],
+            "correct": 2,
+            "id": "53f7c849a0624c31b4f011933d70ec86"
+        },
+        {
+            "question": "The child was crying because it was hungry.",
+            "description": "",
+            "answers": [
+                "Because is a coordinating conjunction",
+                "Because is a subordinating conjunction",
+                "Because is an adverb"
+            ],
+            "correct": 1,
+            "id": "06aa89e0f14e4b569c828e15a0f61039"
+        },
+        {
+            "question": "Honest people always speak the truth.  (Identity the adverb)",
+            "description": "",
+            "answers": [
+                "honest",
+                "always",
+                "speak"
+            ],
+            "correct": 1,
+            "id": "84193f3b84f94d2eb226b7d1effdaf30"
+        },
+        {
+            "question": "Those cave paintings clearly show that ancient Indians knew the art of seafaring. (Identify the adverb)",
+            "description": "",
+            "answers": [
+                "those",
+                "clearly",
+                "ancient"
+            ],
+            "correct": 1,
+            "id": "b744fa94248a472fb9f78dfa39d07653"
+        },
+        {
+            "question": "A variety of mobile phones are available in the market. (Identify the tense and the voice)",
+            "description": "",
+            "answers": [
+                "Simple present tense - active",
+                "Simple present tense - passive",
+                "Present perfect tense - active",
+                "Present perfect tense - passive"
+            ],
+            "correct": 1,
+            "id": "1eb36748647144229db87a7daf170ada"
+        },
+        {
+            "question": "I will show you how ......................... the stars.",
+            "description": "",
+            "answers": [
+                "to read",
+                "reading",
+                "read"
+            ],
+            "correct": 0,
+            "id": "802b3cd568b24db5b150abb97a3b6abe"
+        },
+        {
+            "question": "These vessels are built by the most skilled craftsmen in the world. (State the degree of comparison used in the sentence)",
+            "description": "",
+            "answers": [
+                "Positive degree",
+                "Comparative degree",
+                "Superlative degree"
+            ],
+            "correct": 2,
+            "id": "99acc5f97c2149288032bc5251bfc953"
+        }
+    ]
+}

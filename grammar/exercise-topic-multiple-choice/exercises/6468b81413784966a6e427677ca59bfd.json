@@ -1,0 +1,116 @@
+{
+    "id": "6468b81413784966a6e427677ca59bfd",
+    "title": "Direct And Indirect Speech Exercise",
+    "questions": [
+        {
+            "question": "The stranger asked Harry if ........................... a clever boy.",
+            "description": "",
+            "answers": [
+                "was he",
+                "he was",
+                "he is"
+            ],
+            "correct": 1,
+            "id": "09dcd9e7d66c4924a3e16a1efb70c918"
+        },
+        {
+            "question": "The little girl asked me if I .................... in God.",
+            "description": "",
+            "answers": [
+                "believe",
+                "did believe",
+                "believed"
+            ],
+            "correct": 2,
+            "id": "301d175fc42a412c881953c565cd29b8"
+        },
+        {
+            "question": "The teacher asked the boy if he ................... the answer.",
+            "description": "",
+            "answers": [
+                "knows",
+                "does know",
+                "knew"
+            ],
+            "correct": 2,
+            "id": "54fcdddec4804eec9b00cabcc589cfe4"
+        },
+        {
+            "question": "The man asked the boy if he .................. there yesterday.",
+            "description": "",
+            "answers": [
+                "went",
+                "had gone",
+                "has gone"
+            ],
+            "correct": 1,
+            "id": "4db240edc1d44844b5ba2e179b6de60c"
+        },
+        {
+            "question": "Mr. Smith asked me if I ....................... to a zoo.",
+            "description": "",
+            "answers": [
+                "ever go",
+                "ever went",
+                "had ever been"
+            ],
+            "correct": 2,
+            "id": "dc7c2d58d1c242ccba28b8cb6f04ace4"
+        },
+        {
+            "question": "The old woman asked me if I ......................any difficulty in finding her address.",
+            "description": "",
+            "answers": [
+                "did have",
+                "have",
+                "had"
+            ],
+            "correct": 2,
+            "id": "c6fa2a2d3010464d8d540151a18d2e67"
+        },
+        {
+            "question": "I asked the boy if his father .................... to work.",
+            "description": "",
+            "answers": [
+                "did go",
+                "went",
+                "had gone"
+            ],
+            "correct": 2,
+            "id": "44b3b42513534f509aa303057a1c5bff"
+        },
+        {
+            "question": "The girl asked if she ..................... go home.",
+            "description": "",
+            "answers": [
+                "may",
+                "might",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "a855e6c2888c41849995ed15b779cdb6"
+        },
+        {
+            "question": "Mark asked if they ........................ invite John to the party.",
+            "description": "",
+            "answers": [
+                "would",
+                "should",
+                "can"
+            ],
+            "correct": 1,
+            "id": "175ecbf018284dfe9908d7c3ed92d72f"
+        },
+        {
+            "question": "John asked Peter if he ................... his new car.",
+            "description": "",
+            "answers": [
+                "has seen",
+                "saw",
+                "had seen"
+            ],
+            "correct": 2,
+            "id": "bfa339dd41d24779b0db0d6db7515448"
+        }
+    ]
+}

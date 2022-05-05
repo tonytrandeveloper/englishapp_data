@@ -1,0 +1,141 @@
+{
+    "id": "86e40fd0b4de4ea3a8b3a507b24d7075",
+    "title": "Sentence Agreement Exercise",
+    "questions": [
+        {
+            "question": "Every room …………….. been cleaned.",
+            "description": "We use every before a singular noun. The verb is also singular.",
+            "answers": [
+                "has",
+                "have",
+                "was"
+            ],
+            "correct": 0,
+            "id": "7631694722784986840bc9eab69e6f7f"
+        },
+        {
+            "question": "Each new day …………………. different.",
+            "description": "We use each before a singular noun. The verb is also singular.",
+            "answers": [
+                "is",
+                "are",
+                "has"
+            ],
+            "correct": 0,
+            "id": "b5f7b9b8a2454e75bdcf37b71f834635"
+        },
+        {
+            "question": "Natives of India …………….. black hair.",
+            "description": "Here the plural verb ‘have’ agrees with the plural subject ‘natives’.",
+            "answers": [
+                "has",
+                "have",
+                "having"
+            ],
+            "correct": 1,
+            "id": "cbdc843753824e71822f9b79208f8d85"
+        },
+        {
+            "question": "The climate of London …………….. not suit my health.",
+            "description": "Here the subject is the singular noun ‘climate’ and hence we use the singular verb ‘does’.",
+            "answers": [
+                "does",
+                "do",
+                "has"
+            ],
+            "correct": 0,
+            "id": "6dbe2b3f60e349f2af0040be97ca8e2b"
+        },
+        {
+            "question": "My sister and I ……………… pleased to accept your invitation.",
+            "description": "When two singular nouns are connected by ‘and’ the verb should be plural.",
+            "answers": [
+                "is",
+                "am",
+                "are"
+            ],
+            "correct": 2,
+            "id": "23ae126cbbd54f9fa955a98e0554dadb"
+        },
+        {
+            "question": "Each one of these apples …………….. red.",
+            "description": "We use a singular verb after each one and every one.",
+            "answers": [
+                "is",
+                "has",
+                "are",
+                "have"
+            ],
+            "correct": 0,
+            "id": "d2ca374859774051a463bd14d68ee0c8"
+        },
+        {
+            "question": "The whole class ……………… listening to the speech.",
+            "description": "The expression ‘the whole class’ indicates a single entity and therefore we use a singular verb with it.",
+            "answers": [
+                "was",
+                "were",
+                "have",
+                "has"
+            ],
+            "correct": 0,
+            "id": "97e6813a544a4e41ac890fc970765180"
+        },
+        {
+            "question": "My sister and my brother ……………… at the party.",
+            "description": "When two singular nouns are connected by and, they take a plural verb.",
+            "answers": [
+                "was",
+                "were",
+                "have"
+            ],
+            "correct": 1,
+            "id": "777ac85565ca4929b05f11c9f8a557ac"
+        },
+        {
+            "question": "She and I …………….. having dinner together.",
+            "description": "When two singular nouns are connected by and, they take a plural verb.",
+            "answers": [
+                "was",
+                "were",
+                "have"
+            ],
+            "correct": 1,
+            "id": "0b05944ed1764571ad7c3c82cfb82a9a"
+        },
+        {
+            "question": "Neither red nor green ……………… me.",
+            "description": "The verb is singular when 'neither' and 'nor' connect two singular nouns.",
+            "answers": [
+                "suit",
+                "suits",
+                "suiting"
+            ],
+            "correct": 1,
+            "id": "a9fefcf700964f2db3fb18ab75638a3c"
+        },
+        {
+            "question": "Either Jack or Peter ……………. to clean the room.",
+            "description": "When we connect two nouns with ‘either…or’, the verb agrees with the noun after ‘or’.",
+            "answers": [
+                "has",
+                "have",
+                "are"
+            ],
+            "correct": 0,
+            "id": "a0e452c2ca454071b27c4a1fcff463d6"
+        },
+        {
+            "question": "The President, as well as the Prime Minister, ……………… visiting Moscow.",
+            "description": "We can connect two subjects with as well as. If the first subject is singular, the verb is also singular.",
+            "answers": [
+                "is",
+                "are",
+                "have",
+                "has"
+            ],
+            "correct": 0,
+            "id": "84325ebadf8b4a0f985450e773961ee4"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "id": "d6e14527beb448ab904b875a0b478387",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "Shyam heard the weather report ………………. promptly cancelled the trip.",
+            "description": "",
+            "answers": [
+                "and",
+                "so",
+                "because"
+            ],
+            "correct": 0,
+            "id": "115ec2758fb847d783f1f9596fd1bb49"
+        },
+        {
+            "question": "New York is a prosperous city ………………. suffers from many symptoms of urban maladies.",
+            "description": "",
+            "answers": [
+                "so",
+                "and",
+                "because"
+            ],
+            "correct": 1,
+            "id": "01c3770e1a2048e7a79e2eb9b05b1317"
+        },
+        {
+            "question": "Mike became addicted to drinking – ........................................... that didn’t surprise anybody.",
+            "description": "",
+            "answers": [
+                "and",
+                "but"
+            ],
+            "correct": 0,
+            "id": "f8f7b40bfc9c43d8a876b1d8527cae2b"
+        },
+        {
+            "question": "............................................... you use your credit cards frequently, you will soon find yourself in deep debt.",
+            "description": "",
+            "answers": [
+                "If",
+                "Unless",
+                "Whether"
+            ],
+            "correct": 0,
+            "id": "790e040dc6d44104a3d0779abd0d7d9d"
+        },
+        {
+            "question": "Everybody ........................................... John was present.",
+            "description": "",
+            "answers": [
+                "and",
+                "but"
+            ],
+            "correct": 1,
+            "id": "7a08c506c55840278fa55ac13c440925"
+        },
+        {
+            "question": "You can work hard for this exam ......................................... you can fail.",
+            "description": "",
+            "answers": [
+                "or",
+                "unless",
+                "if"
+            ],
+            "correct": 0,
+            "id": "d29dd876eb55478180b0587b2e464be1"
+        },
+        {
+            "question": "................................................. she was the most popular candidate, she lost the election by a large margin.",
+            "description": "",
+            "answers": [
+                "Though",
+                "But",
+                "As"
+            ],
+            "correct": 0,
+            "id": "25970116057c4c99bbaccf0f5adef4a8"
+        },
+        {
+            "question": "That is neither ................................................. I said nor what I meant.",
+            "description": "",
+            "answers": [
+                "that",
+                "what"
+            ],
+            "correct": 1,
+            "id": "d8c8e4c8d4624793854b01d5f312d5fa"
+        },
+        {
+            "question": "Peter thought he would get the job ............................................ his father was on the company’s board of trustees.",
+            "description": "",
+            "answers": [
+                "for",
+                "because",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "bad4a683ca8e48809d514fdbf5f931c6"
+        },
+        {
+            "question": "I don’t know ............................................. I should study math or physics.",
+            "description": "",
+            "answers": [
+                "whether",
+                "weather"
+            ],
+            "correct": 0,
+            "id": "7df60b0f429547fca991e10eb322f2c0"
+        }
+    ]
+}

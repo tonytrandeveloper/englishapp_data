@@ -1,0 +1,161 @@
+{
+    "id": "b77d8fd8d5c645f28ab135b8ccc25400",
+    "title": "Question Tags Exercise",
+    "questions": [
+        {
+            "question": "You can sing well, ……………………?",
+            "description": "",
+            "answers": [
+                "can you",
+                "can't you",
+                "don't you"
+            ],
+            "correct": 1,
+            "id": "ff91b49da8494f8b9248a350cf63de92"
+        },
+        {
+            "question": "She came yesterday, ……………………?",
+            "description": "",
+            "answers": [
+                "hadn't she",
+                "did she",
+                "didn't she"
+            ],
+            "correct": 2,
+            "id": "5351d839b7584272b071bbc347573783"
+        },
+        {
+            "question": "Shut the door, .....................?",
+            "description": "",
+            "answers": [
+                "will you",
+                "won't you",
+                "can't you",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "0476b01ed7ca4192ae304dfb1c11c993"
+        },
+        {
+            "question": "Let’s have some tea, ……………………?",
+            "description": "",
+            "answers": [
+                "will we",
+                "shall we",
+                "should we"
+            ],
+            "correct": 1,
+            "id": "526c35122bd041009790ea94f47e7a6c"
+        },
+        {
+            "question": "She broke the glass, ……………………?",
+            "description": "",
+            "answers": [
+                "did she",
+                "didn't she",
+                "hadn't she"
+            ],
+            "correct": 1,
+            "id": "7e81617ec8c545ad90afdbd6cb777eb1"
+        },
+        {
+            "question": "He will come, ……………………?",
+            "description": "",
+            "answers": [
+                "will he",
+                "won't he",
+                "can't he"
+            ],
+            "correct": 1,
+            "id": "813a61f9c29544c586866a3137dcfe35"
+        },
+        {
+            "question": "He doesn’t have many friends, ……………………?",
+            "description": "",
+            "answers": [
+                "does he",
+                "doesn't he",
+                "do he"
+            ],
+            "correct": 0,
+            "id": "f2ee351259c84378ba061de75e353ee3"
+        },
+        {
+            "question": "He seldom watches films, ……………………?",
+            "description": "",
+            "answers": [
+                "does he",
+                "doesn't he",
+                "has he"
+            ],
+            "correct": 0,
+            "id": "0897774286854a118ee2ca793cb2272c"
+        },
+        {
+            "question": "I am free now, ……………………?",
+            "description": "",
+            "answers": [
+                "amn't I",
+                "aren't I",
+                "am I"
+            ],
+            "correct": 1,
+            "id": "a4607b176b654cb19c457c0a016fbb64"
+        },
+        {
+            "question": "He is a doctor, ……………………?",
+            "description": "",
+            "answers": [
+                "isn't he",
+                "is he",
+                "doesn't he"
+            ],
+            "correct": 0,
+            "id": "703679f9aedf444286f1a4246a0e65e9"
+        },
+        {
+            "question": "She is coming with us, ……………………?",
+            "description": "",
+            "answers": [
+                "is she",
+                "isn't she",
+                "hasn't she"
+            ],
+            "correct": 1,
+            "id": "60a3bcc5396844d8bd141c23ae1de181"
+        },
+        {
+            "question": "We won’t tolerate this, ………………… ..?",
+            "description": "",
+            "answers": [
+                "will we",
+                "won't we",
+                "would we"
+            ],
+            "correct": 0,
+            "id": "37c7e184b05b47598f8fa8dfaaaf28a5"
+        },
+        {
+            "question": "I didn’t expect this, …………………… .?",
+            "description": "",
+            "answers": [
+                "did I",
+                "didn't I",
+                "don't I"
+            ],
+            "correct": 0,
+            "id": "155427544f004f70b4fe0c81129f25a0"
+        },
+        {
+            "question": "He waited for an hour, …………………… ..?",
+            "description": "",
+            "answers": [
+                "did he",
+                "didn't he",
+                "don't he"
+            ],
+            "correct": 1,
+            "id": "16e128f6cd5348819fa5ec75ec7a49b1"
+        }
+    ]
+}

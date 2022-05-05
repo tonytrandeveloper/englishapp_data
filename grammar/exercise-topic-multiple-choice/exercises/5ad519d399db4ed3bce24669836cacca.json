@@ -1,0 +1,138 @@
+{
+    "id": "5ad519d399db4ed3bce24669836cacca",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "He is …………………..",
+            "description": "Died is the past tense of die. Dead is an adjective.",
+            "answers": [
+                "dead",
+                "died",
+                "dies"
+            ],
+            "correct": 0,
+            "id": "8efeacc30ccd493e96ceb92c21948e42"
+        },
+        {
+            "question": "The injured man had …………………….. by the time they took him to hospital.",
+            "description": "Died is the past participle of die.",
+            "answers": [
+                "dead",
+                "died",
+                "been dead"
+            ],
+            "correct": 1,
+            "id": "1b6247a27f1845acb3a671a70db97aa1"
+        },
+        {
+            "question": "She ……………………… acting at the age of five.",
+            "description": "The simple past is used when we say when something happened.",
+            "answers": [
+                "has started",
+                "starts",
+                "started"
+            ],
+            "correct": 2,
+            "id": "398e8830e837402b94ef1ee8bf569be9"
+        },
+        {
+            "question": "We spent hours ……………………… music and movies.",
+            "description": "Discuss is one of those verbs that are not followed by a preposition.",
+            "answers": [
+                "discussing",
+                "discussing of",
+                "discussing about"
+            ],
+            "correct": 0,
+            "id": "69a3abf8938742fa810260937ae3887f"
+        },
+        {
+            "question": "I have ……………………. for the drinks.",
+            "description": "Paid is the past participle of pay.",
+            "answers": [
+                "paid",
+                "pays",
+                "payed"
+            ],
+            "correct": 0,
+            "id": "b15dabf30fdd4d558ae955fe267cce26"
+        },
+        {
+            "question": "There are some advantages ……………………….. alone.",
+            "description": "When the clause begins with there are, write advantages + to + ing form/noun.",
+            "answers": [
+                "to living",
+                "to live",
+                "of living"
+            ],
+            "correct": 0,
+            "id": "2620278da4fc4c65aa02f885fcba807d"
+        },
+        {
+            "question": "It is high time you …………………….. a job.",
+            "description": "Use a simple past after it is time/it is high time.",
+            "answers": [
+                "find",
+                "found",
+                "to find"
+            ],
+            "correct": 1,
+            "id": "a94846efe02b4013821f588df78e33d5"
+        },
+        {
+            "question": "What a brilliant idea ………………………..!",
+            "description": "The inverted word order is used in exclamations.",
+            "answers": [
+                "is it",
+                "it was",
+                "it is"
+            ],
+            "correct": 2,
+            "id": "e32c8894ddb4412f9d991ea684f5f4b7"
+        },
+        {
+            "question": "I asked him why ………………………… crying.",
+            "description": "The inverted word order is used in indirect questions. ",
+            "answers": [
+                "was he",
+                "he was",
+                "where he"
+            ],
+            "correct": 1,
+            "id": "5959f86d0ea24a42b80460c48422575f"
+        },
+        {
+            "question": "You had better …………………………. for that job.",
+            "description": "Had better is used to give strong advice or warnings. Infinitive without to is used after had better. ",
+            "answers": [
+                "apply",
+                "applies",
+                "applied"
+            ],
+            "correct": 0,
+            "id": "0edb1d1b7a9649baa2bbabe64ceb1e20"
+        },
+        {
+            "question": "If she found out, we …………………………. in trouble.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + first form of the verb in the main clause.",
+            "answers": [
+                "would be",
+                "would have be",
+                "where be"
+            ],
+            "correct": 0,
+            "id": "09563696b8f54e57b5c55cb8b55bab4c"
+        },
+        {
+            "question": "If you do not leave at once, I ……………………….. the police.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause.",
+            "answers": [
+                "would call",
+                "will be calling",
+                "will call"
+            ],
+            "correct": 2,
+            "id": "5bf476cbd39e49c3aa54445cbe1f6bf0"
+        }
+    ]
+}

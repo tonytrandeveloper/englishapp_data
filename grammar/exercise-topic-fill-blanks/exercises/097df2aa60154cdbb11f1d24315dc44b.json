@@ -1,0 +1,262 @@
+{
+    "id": "097df2aa60154cdbb11f1d24315dc44b",
+    "title": "Defining Relative Clauses 2",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She bought the computer (her brother had recommended the computer)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She bought the computer her brother had recommended",
+                        "She bought the computer that her brother had recommended"
+                    ]
+                }
+            ],
+            "id": "54fc34b4b3794ce98cb3bb0c6d5db9f1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He lost the money (I had given him the money)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He lost the money I had given him",
+                        "He lost the money that I had given him"
+                    ]
+                }
+            ],
+            "id": "f09dceeb385f40f8b6dd15326dfb4c99"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We called the taxi company (Julie often uses the taxi company)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We called the taxi company Julie often uses",
+                        "We called the taxi company that Julie often uses"
+                    ]
+                }
+            ],
+            "id": "e31353e2e20c4ebfba72153bff325729"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John met a girl (I used to employ the girl)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "John met a girl I used to employ",
+                        "John met a girl that I used to employ"
+                    ]
+                }
+            ],
+            "id": "e594b378315b4f22bb744f96e4511c61"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy called the doctor (my mother knows the doctor)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Lucy called the doctor my mother knows",
+                        "Lucy called the doctor that my mother knows"
+                    ]
+                }
+            ],
+            "id": "31f40733c061405ca5f053c2eeeff457"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He brought a woman (I used to often meet the woman)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He brought a woman I used to often meet",
+                        "He brought a woman that I used to often meet"
+                    ]
+                }
+            ],
+            "id": "1586cb835f774d118cbf3483eaba72a7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We employed the lawyer (Julie recommended the lawyer)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We employed the lawyer Julie recommended",
+                        "We employed the lawyer that Julie recommended"
+                    ]
+                }
+            ],
+            "id": "6410f29e1958415e80cf810f328d30b6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The fruit is on the table (I bought the fruit)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The fruit I bought is on the table",
+                        "The fruit that I bought is on the table"
+                    ]
+                }
+            ],
+            "id": "33241751209943b2a6c8cb1120d83898"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The wallet belongs to John (Lucy found the wallet in the garden)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The wallet Lucy found in the garden belongs to John",
+                        "The wallet that Lucy found in the garden belongs to John"
+                    ]
+                }
+            ],
+            "id": "0b7a9db8e9754f0f9c389ddc80addcb9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The food was delicious (David cooked the food)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The food David cooked was delicious",
+                        "The food that David cooked was delicious"
+                    ]
+                }
+            ],
+            "id": "c1e0fa81a6754378833e0d9d5f82d1dd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The car was stolen (my father gave me the car)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The car my father gave me was stolen",
+                        "The car that my father gave me was stolen"
+                    ]
+                }
+            ],
+            "id": "c7f1bf6f890c4e5186e4e4b4be77c183"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The man was arrested (I reported the man to the police)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The man I reported to the police was arrested",
+                        "The man that I reported to the police was arrested"
+                    ]
+                }
+            ],
+            "id": "0d3a201b0e4e437aa0be22887290ff91"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The doctor was right (Lucy asked the doctor about her problem)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The doctor Lucy asked about her problem was right",
+                        "The doctor that Lucy asked about her problem was right"
+                    ]
+                }
+            ],
+            "id": "e6bf846544ad42299ce42cc06f5663da"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The waitress was very pretty (my brother dated the waitress)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The waitress my brother dated was very pretty",
+                        "The waitress that my brother dated was very pretty"
+                    ]
+                }
+            ],
+            "id": "fd8f6d699205478e91cdb60045279138"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The secretary is in the office (the boss likes the secretary)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The secretary the boss likes is in the office.",
+                        "The secretary that the boss likes is in the office."
+                    ]
+                }
+            ],
+            "id": "cc6cc69b6692471e975fccf692764734"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We ate the fruit (I bought the fruit)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We ate the fruit I bought",
+                        "We ate the fruit that I bought"
+                    ]
+                }
+            ],
+            "id": "96fd18164cbd443c817788a3f541af01"
+        }
+    ]
+}

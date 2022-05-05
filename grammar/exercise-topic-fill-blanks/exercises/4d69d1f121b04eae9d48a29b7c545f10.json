@@ -1,0 +1,317 @@
+{
+    "id": "4d69d1f121b04eae9d48a29b7c545f10",
+    "title": "Present Continuous Mixed Exercise 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / go home now)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She's going home now.",
+                        "She is going home now."
+                    ]
+                }
+            ],
+            "id": "3501d4a311dc4516b118be0eab090730"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / read a great book)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I'm reading a great book.",
+                        "I am reading a great book."
+                    ]
+                }
+            ],
+            "id": "23118cfedce74c8399d40782e5add39c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / wash her hair)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She isn't washing her hair.",
+                        "She is not washing her hair."
+                    ]
+                }
+            ],
+            "id": "8c9ae07352e34d28818119ad5d157d43"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(the cat / chase mice)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is the cat chasing mice?"
+                    ]
+                }
+            ],
+            "id": "2e986a29ab9c44a0a3ad1a94422a6b92"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / cry)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is she crying?"
+                    ]
+                }
+            ],
+            "id": "3d396dbecfeb48f09958da6737e3aa01"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / study Latin)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He isn't studying Latin.",
+                        "He is not studying Latin."
+                    ]
+                }
+            ],
+            "id": "fb15c7efde654f7987b7b0cd45c5e38f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / drive to London)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are we driving to London?"
+                    ]
+                }
+            ],
+            "id": "ba5853758b614fcd8858b24ea22aa864"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / watch TV)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are they watching TV?"
+                    ]
+                }
+            ],
+            "id": "d59a2df47e7f45fe88c4bf933db562c9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / she / go now)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Where is she going now?"
+                    ]
+                }
+            ],
+            "id": "b8210c5d02614c7eba1695341b8820e6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / leave now)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I'm not leaving now.",
+                        "I am not leaving now."
+                    ]
+                }
+            ],
+            "id": "f420236a49fd43369dbdd86e54892e69"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / run)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You aren't running.",
+                        "You are not running."
+                    ]
+                }
+            ],
+            "id": "9c2df962fc1840b9aa009aa5172dca08"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / he / leave)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Why is he leaving?"
+                    ]
+                }
+            ],
+            "id": "05a77e3193284fa5a40aad3f1432f9f8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / I / travel)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How am I travelling?"
+                    ]
+                }
+            ],
+            "id": "571ca0097e934d67a8f617a95b6b4909"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(it / not / rain)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "It isn't raining.",
+                        "It is not raining."
+                    ]
+                }
+            ],
+            "id": "731d8a64b09047d29ed34a602c53e8b1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(when / we / arrive)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "When are we arriving?"
+                    ]
+                }
+            ],
+            "id": "2775872437e0480dbdf724693133b15e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / they / stay)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Where are they staying?"
+                    ]
+                }
+            ],
+            "id": "f5a9311189db40cca2ac402a31c6c0bc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(it / rain)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "It's raining.",
+                        "It is raining."
+                    ]
+                }
+            ],
+            "id": "5b923f0b910743adb79f016b74ed513a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / come at six)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She's coming at six.",
+                        "She is coming at six."
+                    ]
+                }
+            ],
+            "id": "7be271b9d93f4063b611ec86ce83ce54"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / watch a film at the moment)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He's watching a film at the moment.",
+                        "He is watching a film at the moment."
+                    ]
+                }
+            ],
+            "id": "4913e6cd4c194723a7326960fa2fff1e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / sleep)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We aren't sleeping.",
+                        "We are not sleeping."
+                    ]
+                }
+            ],
+            "id": "0a38cb0a4117466a84e8e27a41db8565"
+        }
+    ]
+}

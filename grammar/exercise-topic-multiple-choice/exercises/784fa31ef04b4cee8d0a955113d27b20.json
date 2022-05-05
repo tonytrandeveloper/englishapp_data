@@ -1,0 +1,137 @@
+{
+    "id": "784fa31ef04b4cee8d0a955113d27b20",
+    "title": "Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Each of these …………………………… cricket well.",
+            "description": "After each of we use a plural noun and a singular verb.",
+            "answers": [
+                "boy plays",
+                "boys plays",
+                "boys play"
+            ],
+            "correct": 1,
+            "id": "a0069438ce9a4d8090fce7429d6f0c1d"
+        },
+        {
+            "question": "………………………………. to the party.",
+            "description": "We do not use both in negative clauses. Instead we use neither.",
+            "answers": [
+                "Both of them did not go",
+                "Neither of them go",
+                "Neither of them went"
+            ],
+            "correct": 2,
+            "id": "3c1e8eefeed84bb18872cca41bf01346"
+        },
+        {
+            "question": "……………………………….. to the party.",
+            "description": "All is not normally used before a negative verb.",
+            "answers": [
+                "We all did not go",
+                "None of us went"
+            ],
+            "correct": 1,
+            "id": "a711c51524e14b37a4f58c2c1c637b5d"
+        },
+        {
+            "question": "………………………………….. sing.",
+            "description": "All + noun is not normally used before a negative verb. Instead we use ‘not all + noun’.",
+            "answers": [
+                "All birds cannot",
+                "Not all birds can",
+                "None of the birds can"
+            ],
+            "correct": 1,
+            "id": "876fa787436f4bd0bca1328b78ae9980"
+        },
+        {
+            "question": "Each of my children …………………………… me dearly.",
+            "description": "After each of we use a singular verb.",
+            "answers": [
+                "love",
+                "loves",
+                "loving"
+            ],
+            "correct": 1,
+            "id": "38ce1c5532304c7bb630377db6919628"
+        },
+        {
+            "question": "…………………………… of the three roads lead to the station.",
+            "description": "We use each to speak of two people or things. To refer to more than two people or things, we use all.",
+            "answers": [
+                "Each",
+                "Both",
+                "All"
+            ],
+            "correct": 2,
+            "id": "d31e058047a046138523ed1cdb26f2be"
+        },
+        {
+            "question": "…………………………… books are lost.",
+            "description": "My is a Group A determiner and all is a Group B determiner. We do not normally put a Group A determiner before a Group B determiner. However, we can put a Group B determiner before a Group A determiner and in this case, we use of.\r\nOf can be left out after all.",
+            "answers": [
+                "My all",
+                "All my",
+                "All of my"
+            ],
+            "correct": 2,
+            "id": "b6636cc5800247569208121a13a637e1"
+        },
+        {
+            "question": "Let …………………………. get going.",
+            "description": "Let is a verb and a pronoun following it should be in its object form.",
+            "answers": [
+                "we",
+                "us",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "308c451884fe4fb8a4aa7929d4c406a1"
+        },
+        {
+            "question": "Your need is greater than ……………………………..",
+            "description": "Your need is a possessive expression and hence we need another possessive expression after than. Mine is a possessive word. ",
+            "answers": [
+                "me",
+                "my",
+                "mine"
+            ],
+            "correct": 2,
+            "id": "519d24cdb0cf4ef5a39dae097fe33a45"
+        },
+        {
+            "question": "………………………………. is responsible for his failure.",
+            "description": "",
+            "answers": [
+                "Only he",
+                "He alone",
+                "Only him"
+            ],
+            "correct": 1,
+            "id": "68109932e81e4d51a1f32c13a68bdaf5"
+        },
+        {
+            "question": "People starve when ………………………. have no money.",
+            "description": "We need a plural pronoun to refer to the plural noun people. We is not possible here because it includes the speaker as well. ",
+            "answers": [
+                "he",
+                "we",
+                "they"
+            ],
+            "correct": 2,
+            "id": "f85141f036f3420883fc3d9131974388"
+        },
+        {
+            "question": "My drawings are better than …………………………….",
+            "description": "My drawings cannot be better than my friend. They can only be better than the drawings of my friend. We express this idea by adding the expression ‘those of’ before the noun.",
+            "answers": [
+                "my friend",
+                "those of my friend",
+                "those of my friend's"
+            ],
+            "correct": 1,
+            "id": "b82833489a9f425d9bfbfe7beed1f43b"
+        }
+    ]
+}

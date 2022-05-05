@@ -1,0 +1,115 @@
+{
+    "id": "9cdb8eb714cd4ff6931b0edcc60b04fd",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "You must ................................ follow my instructions or resign.",
+            "description": "",
+            "answers": [
+                "either",
+                "neither",
+                "both"
+            ],
+            "correct": 0,
+            "id": "3b6af7a51c0a4a86a406aee31655a3e2"
+        },
+        {
+            "question": "Neither John ......................................... Sam could have done this.",
+            "description": "",
+            "answers": [
+                "or",
+                "nor"
+            ],
+            "correct": 1,
+            "id": "d6469f58e48240e792a42e2f49bf94f3"
+        },
+        {
+            "question": "The burglars ............................................ looted the shop but also set fire to it.",
+            "description": "",
+            "answers": [
+                "not only",
+                "not just",
+                "only"
+            ],
+            "correct": 0,
+            "id": "26c81da8c9ae4eee805390c8781625a6"
+        },
+        {
+            "question": "............................................. he is hurt he wants to play.",
+            "description": "",
+            "answers": [
+                "Though",
+                "As though",
+                "Even if"
+            ],
+            "correct": 0,
+            "id": "c5af146ac78248419e93911bec6fca6d"
+        },
+        {
+            "question": "He was ............................................... weak that he could barely stand.",
+            "description": "",
+            "answers": [
+                "so",
+                "very",
+                "too"
+            ],
+            "correct": 0,
+            "id": "c6291b25dd994a9cacb706d94c990f0b"
+        },
+        {
+            "question": "............................................ you give me the keys of the safe, you will be shot.",
+            "description": "",
+            "answers": [
+                "If",
+                "Unless",
+                "Without"
+            ],
+            "correct": 1,
+            "id": "49fa1df55ceb4eb399d2b45b11fd9e22"
+        },
+        {
+            "question": "He would ................................................ eat nor allow us to eat.",
+            "description": "",
+            "answers": [
+                "neither",
+                "either",
+                "nor"
+            ],
+            "correct": 0,
+            "id": "279cb8d9d06c49029bdb8644e16911e1"
+        },
+        {
+            "question": "The situation is not ......................................... difficult as people think.",
+            "description": "",
+            "answers": [
+                "so",
+                "very",
+                "too"
+            ],
+            "correct": 0,
+            "id": "d6bf2b4aee2d4835918e06537980159d"
+        },
+        {
+            "question": "The officer was ........................................ inefficient that he had to be sacked.",
+            "description": "",
+            "answers": [
+                "so",
+                "very",
+                "too"
+            ],
+            "correct": 0,
+            "id": "42dc674f507d428385444faaaf1292c2"
+        },
+        {
+            "question": "The task is ....................................... difficult that you can’t do it alone.",
+            "description": "",
+            "answers": [
+                "so",
+                "very",
+                "too"
+            ],
+            "correct": 0,
+            "id": "17b5f6a4cd104117a5909c701f3f0555"
+        }
+    ]
+}

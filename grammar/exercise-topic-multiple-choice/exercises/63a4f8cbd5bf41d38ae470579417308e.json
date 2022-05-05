@@ -1,0 +1,138 @@
+{
+    "id": "63a4f8cbd5bf41d38ae470579417308e",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "The traveler asked the stranger if he ...................................... the way to the nearest inn.",
+            "description": "When the main verb is in the past tense, we will most probably need a past tense in the subordinate clause. The past perfect is not possible here because we are not talking about the 'earlier past'.",
+            "answers": [
+                "knows",
+                "knew",
+                "had known"
+            ],
+            "correct": 1,
+            "id": "dcc8304ce575490d8f25a20960e3a7fa"
+        },
+        {
+            "question": "The dentist suggested ....................................... my toothpaste.",
+            "description": "Suggest is one of those verbs that cannot be followed by a to-infinitive. It can be followed by an -ing form or a that-clause.\r\n",
+            "answers": [
+                "me to change",
+                "changing",
+                "that I should change"
+            ],
+            "correct": 2,
+            "id": "49512fd507544357bfbb7d81ab4a866b"
+        },
+        {
+            "question": "The terrorist's attempt to ............................................. the bridge was foiled by the police.",
+            "description": "Blow up' means 'to destroy someone or something by explosion'.",
+            "answers": [
+                "blow out",
+                "blow up",
+                "blow over"
+            ],
+            "correct": 1,
+            "id": "ef5082c5087240dd9214fdb651d8b6be"
+        },
+        {
+            "question": "In his budget speech, the Finance Minister ................................. many bold reforms.",
+            "description": "'Bring forward' means 'to introduce someone or something'. ",
+            "answers": [
+                "brought in",
+                "brought up",
+                "brought forward"
+            ],
+            "correct": 2,
+            "id": "c65f2193b20e4e529d74ea3f6cbf416c"
+        },
+        {
+            "question": "The suspects are still ....................................",
+            "description": "'At large' means 'free uncaptured (usually said of criminals not in custody)'.",
+            "answers": [
+                "at sea",
+                "at large",
+                "at daggers drawn"
+            ],
+            "correct": 1,
+            "id": "cd0f9677a0eb481b81f438bfa351a8e6"
+        },
+        {
+            "question": "The dilapidated building was not .....................................",
+            "description": "We need an adjective (habitable) here the other two options are nouns. ",
+            "answers": [
+                "habitation",
+                "habitat",
+                "habitable"
+            ],
+            "correct": 2,
+            "id": "042939f2649243eda0cd54503734c19b"
+        },
+        {
+            "question": "....................................... of the three boys attended the class.",
+            "description": "Either and neither are used to speak of two people or things. ",
+            "answers": [
+                "Neither",
+                "Either",
+                "None"
+            ],
+            "correct": 2,
+            "id": "3cb65f94f52c46018a1918a36a061a37"
+        },
+        {
+            "question": "There were .................................. than twenty people present.",
+            "description": "Less is used with uncountable nouns and fewer is used with countable nouns. ",
+            "answers": [
+                "less",
+                "lower",
+                "fewer"
+            ],
+            "correct": 2,
+            "id": "a54ae20d8be746f9a93a6dc99d5c7c03"
+        },
+        {
+            "question": "Mumbai is ................................... of India.",
+            "description": "Articles are used with proper nouns used as epithets. ",
+            "answers": [
+                "Manchester",
+                "the Manchester",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3f27f192796c497da48fe7d39801bcd3"
+        },
+        {
+            "question": "There are no secrets between you and .................................",
+            "description": "Between is a preposition. A pronoun following a preposition should be in its object form. ",
+            "answers": [
+                "me",
+                "I",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "df75cb28b6aa451a9a99dec4f0ce3eff"
+        },
+        {
+            "question": ".................................. buses are supposed to depart at a certain hour, they are often late.",
+            "description": "Although is a conjunction we need a conjunction to connect two clauses. ",
+            "answers": [
+                "Although",
+                "However",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "c063f35aab3e47d48c85406dfb4f8148"
+        },
+        {
+            "question": "Have you received any .................................. so far?",
+            "description": "Information is uncountable and as such it does not have a plural form. ",
+            "answers": [
+                "information",
+                "informations",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "25f666e673684af8b570b76e9e202c6c"
+        }
+    ]
+}

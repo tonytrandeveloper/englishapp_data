@@ -1,0 +1,127 @@
+{
+    "id": "5ec36a2b5c244312b376b8b55ddce9eb",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Get me the file ………………………… is on the table.",
+            "description": "Either which or that can be used in identifying relative clauses to refer to things.",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "049a37d5cba24d9293a7833514ec53ec"
+        },
+        {
+            "question": "The house ………………………. she lived was very small.",
+            "description": "Where can mean in which.",
+            "answers": [
+                "where",
+                "which",
+                "that"
+            ],
+            "correct": 0,
+            "id": "b52cc5a9c53841319d83cc76050c2cd5"
+        },
+        {
+            "question": "The boy …………………………. fell into the well was rescued.",
+            "description": "We use who to refer to people when the relative pronoun is the subject of the relative clause.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "54455ad3ddd941d191d9fc64d57177d2"
+        },
+        {
+            "question": "The girl ………………………….. we met at the library is an aspiring writer.",
+            "description": "We use whom when the relative pronoun is the object of the relative clause.",
+            "answers": [
+                "who",
+                "whom",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "011bfa892f2b4129ab49aa5828b6a280"
+        },
+        {
+            "question": "Ravi, ……………………….. is my nephew, is  a brilliant student.",
+            "description": "That cannot be used in non-identifying relative clauses.",
+            "answers": [
+                "who",
+                "that",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "83588544ffa3405cb1c50915a1a2eb52"
+        },
+        {
+            "question": "This is the dog ………………………… I was talking about.",
+            "description": "Either that or which can refer to animals in identifying relative clauses.",
+            "answers": [
+                "that",
+                "which",
+                "what"
+            ],
+            "correct": 1,
+            "id": "61b83fc20ba94b1295b52bbb7e3b5b48"
+        },
+        {
+            "question": "The exhibition ………………………….. was held in the town hall attracted tens of thousands of people.",
+            "description": "",
+            "answers": [
+                "which",
+                "what",
+                "who"
+            ],
+            "correct": 0,
+            "id": "8367a16946b1408bae04d44c94a01685"
+        },
+        {
+            "question": "Where are the books ………………………. I left on the table?",
+            "description": "Either that or which can refer to things in identifying relative clauses.",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c5ed52f761f8457c8aa6c27ca3312314"
+        },
+        {
+            "question": "The man ………………………… car was stolen went to the police.",
+            "description": "",
+            "answers": [
+                "who",
+                "who's",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "0effe0067e8946cdafca1dfc4b8d8ff7"
+        },
+        {
+            "question": "I know a girl …………………………. brother serves in the army.",
+            "description": "",
+            "answers": [
+                "who",
+                "who's",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "57d3a59d288144679b8ebc468bb4aacb"
+        },
+        {
+            "question": "The rope ………………………… was old snapped.",
+            "description": "",
+            "answers": [
+                "which",
+                "what",
+                "who"
+            ],
+            "correct": 0,
+            "id": "d4b86b7a81a74fc59e77eca7a303364c"
+        }
+    ]
+}

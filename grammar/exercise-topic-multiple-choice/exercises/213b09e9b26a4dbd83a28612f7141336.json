@@ -1,0 +1,114 @@
+{
+    "id": "213b09e9b26a4dbd83a28612f7141336",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "It was .......................................... that we were well-equipped to repel the attack.",
+            "description": "",
+            "answers": [
+                "fortune",
+                "fortunate",
+                "fortunately"
+            ],
+            "correct": 1,
+            "id": "53f4cf1e57be41868b88bed9e7e162f4"
+        },
+        {
+            "question": "Francis Bacon was remarkably industrious and ....................................",
+            "description": "",
+            "answers": [
+                "intelligent",
+                "intelligence",
+                "intelligently"
+            ],
+            "correct": 0,
+            "id": "13b163c068494ba0b9bdff21227ad4fc"
+        },
+        {
+            "question": "He is very ....................................... of his wealth.",
+            "description": "",
+            "answers": [
+                "pride",
+                "proud",
+                "proudly"
+            ],
+            "correct": 1,
+            "id": "4e1d6ff7bf874233bd1f30731ea5e55c"
+        },
+        {
+            "question": "It is ...................................... that the conference will be held tomorrow.",
+            "description": "",
+            "answers": [
+                "probably",
+                "probability",
+                "probable"
+            ],
+            "correct": 2,
+            "id": "bb7b8e504c85402ebe28d99a5aefe431"
+        },
+        {
+            "question": "He who shirks labor cannot be ...................................",
+            "description": "",
+            "answers": [
+                "prosper",
+                "prosperous",
+                "prosperity"
+            ],
+            "correct": 1,
+            "id": "a07850b171a0422396ac07bd0771bfc1"
+        },
+        {
+            "question": "King Lear was not ....................................... enough to write to his estranged daughter.",
+            "description": "",
+            "answers": [
+                "courage",
+                "courageous",
+                "courageously"
+            ],
+            "correct": 1,
+            "id": "8ad7e663dabd4dc8827cb1b51a155775"
+        },
+        {
+            "question": "One of the soldiers was very ...................................",
+            "description": "",
+            "answers": [
+                "strong",
+                "strength",
+                "strongly"
+            ],
+            "correct": 0,
+            "id": "a2505c8a5e6648cd9bca983240038980"
+        },
+        {
+            "question": "He was a hardworking boy because he was ................................",
+            "description": "",
+            "answers": [
+                "poverty",
+                "poor",
+                "poorly"
+            ],
+            "correct": 1,
+            "id": "7e62ca22ce6d4685b4df02716735a593"
+        },
+        {
+            "question": "It is ...................................... that the Minister will be re-elected.",
+            "description": "",
+            "answers": [
+                "obvious",
+                "obviously"
+            ],
+            "correct": 0,
+            "id": "fc46786c057d43d2bd5be68fc9727681"
+        },
+        {
+            "question": "The healthy are the ....................................",
+            "description": "",
+            "answers": [
+                "wealthy",
+                "wealth"
+            ],
+            "correct": 0,
+            "id": "b1bc763e6bea4c7c930f54b16e10d30a"
+        }
+    ]
+}

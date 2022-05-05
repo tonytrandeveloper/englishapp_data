@@ -1,0 +1,129 @@
+{
+    "id": "d14efe5fcc7944fea4cd7b0a3a15d998",
+    "title": "Adjectives Exercise",
+    "questions": [
+        {
+            "question": "Of the two sisters, Susie is the ……………………..",
+            "description": "We do not normally use the superlative to talk about two people or things.",
+            "answers": [
+                "older",
+                "oldest"
+            ],
+            "correct": 0,
+            "id": "5fe2bc41d9f44d239d0c92aaea7300ec"
+        },
+        {
+            "question": "Mumbai is …………………………. from Kochi than Bangalore.",
+            "description": "Farther shows distance.",
+            "answers": [
+                "further",
+                "farther",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "50f37d86f4d94caa8f11629f7c27dc4a"
+        },
+        {
+            "question": "I want ……………………….. information.",
+            "description": "Further means additional.",
+            "answers": [
+                "farther",
+                "further"
+            ],
+            "correct": 1,
+            "id": "292dd619d3c64955824c833635b6d473"
+        },
+        {
+            "question": "Namita is my …………………….. sister.",
+            "description": "",
+            "answers": [
+                "elder",
+                "older",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "94516b40537a426b84c946aff9a7a306"
+        },
+        {
+            "question": "This painting is superior ……………………….. that.",
+            "description": "The adjectives superior, inferior, junior and senior are followed by to.",
+            "answers": [
+                "than",
+                "to",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "12b2f2daae104131b257a535d073cc03"
+        },
+        {
+            "question": "The injured were taken to the ………………………. hospital.",
+            "description": "Nearest indicates distance. Next indicates order.",
+            "answers": [
+                "nearest",
+                "next"
+            ],
+            "correct": 0,
+            "id": "500a619f23fc4b829c83d52b067e95af"
+        },
+        {
+            "question": "As soon as she finished one project, she started working on the ………………………",
+            "description": "",
+            "answers": [
+                "nearest",
+                "next"
+            ],
+            "correct": 1,
+            "id": "33d6b800e53e45a1b1e8b9d69a290f17"
+        },
+        {
+            "question": "You must act without any ……………………….. delay.",
+            "description": "",
+            "answers": [
+                "farther",
+                "further"
+            ],
+            "correct": 1,
+            "id": "db40f527164b4e9ba45ad575bae3ca30"
+        },
+        {
+            "question": "He is the ………………………. man in the town.",
+            "description": "",
+            "answers": [
+                "eldest",
+                "oldest"
+            ],
+            "correct": 1,
+            "id": "4cfe1c66851444ff8135eec2719c8079"
+        },
+        {
+            "question": "Is this the ……………………….. edition of this book?",
+            "description": "Latest means the most recent.",
+            "answers": [
+                "last",
+                "latest"
+            ],
+            "correct": 1,
+            "id": "c27b213286aa4d0da8ca53523c31f855"
+        },
+        {
+            "question": "He is the ………………………. of the two.",
+            "description": "",
+            "answers": [
+                "cleverer",
+                "cleverest"
+            ],
+            "correct": 0,
+            "id": "c84c8f6667144254b716eff106b009b5"
+        },
+        {
+            "question": "The meeting was attended by ………………………. parents.",
+            "description": "A few means some.",
+            "answers": [
+                "the few",
+                "a few"
+            ],
+            "correct": 1,
+            "id": "9221707a2ad84ec7be8f310b17d90f7d"
+        }
+    ]
+}

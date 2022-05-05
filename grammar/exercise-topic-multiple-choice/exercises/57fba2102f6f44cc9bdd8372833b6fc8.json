@@ -1,0 +1,72 @@
+{
+    "id": "57fba2102f6f44cc9bdd8372833b6fc8",
+    "title": "Parts Of Speech Exercise",
+    "questions": [
+        {
+            "question": "Which set of words are only nouns?",
+            "description": "",
+            "answers": [
+                "complexity, analysis, thesis, axis",
+                "ridiculous, sophisticated, anxious, complex",
+                "penance, science, monotonous, vibrancy"
+            ],
+            "correct": 0,
+            "id": "a22d03b50a884c359eced86f7113c4a3"
+        },
+        {
+            "question": "Which set of words are only adjectives?",
+            "description": "",
+            "answers": [
+                "kind, vibrant, luminance, eager",
+                "autonomous, eligible, warm, open",
+                "ridicule, ignore, captivate, enchant"
+            ],
+            "correct": 1,
+            "id": "1c92bc0b86c54ce7a39df2bda43e0e3d"
+        },
+        {
+            "question": "Which set of words are only verbs?",
+            "description": "",
+            "answers": [
+                "activate, annul, propagate, surrender",
+                "emulate, dilapidated, enamor, renounce",
+                "propaganda, verify, eagerly, overt"
+            ],
+            "correct": 0,
+            "id": "0d97df7e84744e3b9c902d2eed316d25"
+        },
+        {
+            "question": "Which set of words are only adverbs?",
+            "description": "",
+            "answers": [
+                "up, yesterday, hard, fatally",
+                "deadly, open, vast, thoroughly",
+                "privacy, provocatively, anxiously, well"
+            ],
+            "correct": 0,
+            "id": "a83bd9c309674efea64e4976d96586ff"
+        },
+        {
+            "question": "Which set of words are only conjunctions?",
+            "description": "",
+            "answers": [
+                "down, out, under, with",
+                "so, because, however, yet",
+                "and, but, or, because of"
+            ],
+            "correct": 1,
+            "id": "cb3d469cbd4043809dd53f55533bb22f"
+        },
+        {
+            "question": "Which set of words are only prepositions?",
+            "description": "",
+            "answers": [
+                "behind, into, when, as",
+                "between, over, across, to",
+                "from, while, whereas, near"
+            ],
+            "correct": 1,
+            "id": "b8007c35253c4a5792edc745c3e2fad4"
+        }
+    ]
+}

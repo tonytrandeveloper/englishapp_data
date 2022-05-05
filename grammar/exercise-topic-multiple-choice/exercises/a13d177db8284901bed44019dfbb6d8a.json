@@ -1,0 +1,116 @@
+{
+    "id": "a13d177db8284901bed44019dfbb6d8a",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "I would rather you ....................... home now.",
+            "description": "",
+            "answers": [
+                "go",
+                "went",
+                "had gone"
+            ],
+            "correct": 1,
+            "id": "26c018c7c5df4234bb741d63041d384a"
+        },
+        {
+            "question": "I would prefer to go in December ..................... in May.",
+            "description": "",
+            "answers": [
+                "rather",
+                "rather than",
+                "than"
+            ],
+            "correct": 1,
+            "id": "388ee2eea26f47548315183b59b90e3b"
+        },
+        {
+            "question": "I prefer starting early rather than ....................... everything to the last minute.",
+            "description": "",
+            "answers": [
+                "leave",
+                "to leave",
+                "leaving"
+            ],
+            "correct": 2,
+            "id": "d87e4ff01d344f299a5c385c7031f2c7"
+        },
+        {
+            "question": "I prefer to walk ...................... drive.",
+            "description": "",
+            "answers": [
+                "rather",
+                "rather than",
+                "than"
+            ],
+            "correct": 1,
+            "id": "6732868a80db4e6f8075c5a5e6fa685a"
+        },
+        {
+            "question": "I would rather you .................... in a hostel than in a hotel.",
+            "description": "",
+            "answers": [
+                "stay",
+                "stayed",
+                "staying"
+            ],
+            "correct": 1,
+            "id": "c3cb8e365bc7445088072c846f3435dc"
+        },
+        {
+            "question": "I would rather you ........................ a job.",
+            "description": "",
+            "answers": [
+                "find",
+                "found",
+                "have found"
+            ],
+            "correct": 1,
+            "id": "fef642dd501c4bd98eef47efc67f6b86"
+        },
+        {
+            "question": "He ........................ face the enemy than surrender.",
+            "description": "",
+            "answers": [
+                "rather",
+                "would rather",
+                "prefer"
+            ],
+            "correct": 1,
+            "id": "28d9fec58f284ed59c8be6b8dd98e7f7"
+        },
+        {
+            "question": "They would rather build a new house .................... repair the old one.",
+            "description": "",
+            "answers": [
+                "than",
+                "then",
+                "than to"
+            ],
+            "correct": 0,
+            "id": "870f6986a4214a738fae336ebb7e7036"
+        },
+        {
+            "question": "We would rather you ......................... to bed now.",
+            "description": "",
+            "answers": [
+                "go",
+                "went",
+                "have gone"
+            ],
+            "correct": 1,
+            "id": "4dab165ce2e54283b534b8dcb68d9bfd"
+        },
+        {
+            "question": "We would rather you .................... the work yourself.",
+            "description": "",
+            "answers": [
+                "do",
+                "did",
+                "had gone"
+            ],
+            "correct": 1,
+            "id": "fa13dc48875c471e8100960cf1bcfeee"
+        }
+    ]
+}

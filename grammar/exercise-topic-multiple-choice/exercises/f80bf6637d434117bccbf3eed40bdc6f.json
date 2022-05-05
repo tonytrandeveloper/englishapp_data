@@ -1,0 +1,128 @@
+{
+    "id": "f80bf6637d434117bccbf3eed40bdc6f",
+    "title": "Possessive Adjectives Exercise",
+    "questions": [
+        {
+            "question": "Have you seen ............................... new coat?",
+            "description": "",
+            "answers": [
+                "I",
+                "me",
+                "my"
+            ],
+            "correct": 2,
+            "id": "912223a25c6f46078f93e9991ff3bef7"
+        },
+        {
+            "question": "She has lost .................................... keys.",
+            "description": "",
+            "answers": [
+                "she",
+                "her",
+                "hers"
+            ],
+            "correct": 1,
+            "id": "c10bdd3fc29642a29463468a06ea61b3"
+        },
+        {
+            "question": "Can I have a look at ................................... paper?",
+            "description": "",
+            "answers": [
+                "you",
+                "your",
+                "yours"
+            ],
+            "correct": 1,
+            "id": "c1645cb0da724eb287aa2cf66d7f788d"
+        },
+        {
+            "question": "The dog has had ................................... breakfast.",
+            "description": "",
+            "answers": [
+                "it",
+                "its",
+                "it's"
+            ],
+            "correct": 1,
+            "id": "27005b19b0344ea3a4df6aac3be24760"
+        },
+        {
+            "question": "Do you know ................................... name?",
+            "description": "",
+            "answers": [
+                "she",
+                "her",
+                "hers"
+            ],
+            "correct": 1,
+            "id": "7838d70295ea46c1b20c699cf089c5c7"
+        },
+        {
+            "question": "What is ........................................ plan?",
+            "description": "",
+            "answers": [
+                "they",
+                "their",
+                "theirs"
+            ],
+            "correct": 1,
+            "id": "35569745bb2c4b41988f5c38710eba7a"
+        },
+        {
+            "question": "Can you give me ................................. address?",
+            "description": "",
+            "answers": [
+                "he",
+                "his",
+                "him"
+            ],
+            "correct": 1,
+            "id": "6a26c5ab68aa484c91e43e1f85fc4e20"
+        },
+        {
+            "question": "He stood there with his hands in ............................... pockets.",
+            "description": "",
+            "answers": [
+                "he",
+                "him",
+                "his"
+            ],
+            "correct": 2,
+            "id": "b877c433583f4f06958bbd77aebddfad"
+        },
+        {
+            "question": "I patted .................................. on the shoulder.",
+            "description": "",
+            "answers": [
+                "she",
+                "her",
+                "hers"
+            ],
+            "correct": 1,
+            "id": "e30be44e72724d0aa049c104451511ce"
+        },
+        {
+            "question": "I will agree to ....................................... suggestion if you lower the price.",
+            "description": "",
+            "answers": [
+                "you",
+                "your",
+                "yours"
+            ],
+            "correct": 1,
+            "id": "a57ab207e1714e56ac86bb0b78b49b56"
+        },
+        {
+            "question": "She is ................................... teacher.",
+            "description": "",
+            "answers": [
+                "we",
+                "us",
+                "ours",
+                "our"
+            ],
+            "correct": 3,
+            "id": "9fdc3cba7f664feeada82f0579e48f4f"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "efdbc2c2ef854b639219f6deba81407a",
+    "title": "Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "The living room .............................. now.",
+            "description": "We make the passive form of the present continuous tense with is/am/are + being + past participle.",
+            "answers": [
+                "is decorating",
+                "has decorated",
+                "is being decorated"
+            ],
+            "correct": 2,
+            "id": "cfc6ef08e236496e95183c67256b1d5c"
+        },
+        {
+            "question": "The Olympic Games .............................. every four years.",
+            "description": "They hold the Olympic Games every four years. The Olympic Games are held every four years. The passive form in the simple present tense is made with is/am/are + past participle.",
+            "answers": [
+                "are holding",
+                "are held",
+                "have hold"
+            ],
+            "correct": 1,
+            "id": "a93abc2f167f4912924d7b302fee0f19"
+        },
+        {
+            "question": "The patient ............................... on yesterday.",
+            "description": "The passive form of the simple past tense is made with was/were + past participle. ",
+            "answers": [
+                "has operated",
+                "was operated",
+                "was being operated."
+            ],
+            "correct": 1,
+            "id": "34fc37cbb47a434ca3e1389996d55087"
+        },
+        {
+            "question": "By the end of this week, the roof .............................",
+            "description": "They will repair the roof / The roof will be repaired. ",
+            "answers": [
+                "will repair",
+                "will be repaired",
+                "will be repairing"
+            ],
+            "correct": 1,
+            "id": "722bd51fb44c46458376733ff81f7652"
+        },
+        {
+            "question": "The house ............................... when it collapsed.",
+            "description": "",
+            "answers": [
+                "was renovating",
+                "was being renovated",
+                "was renovated"
+            ],
+            "correct": 1,
+            "id": "fd7fff749d324d349e4be46a67909548"
+        },
+        {
+            "question": "Criminals .................................. before they commit crimes.",
+            "description": "Criminals will not stop. They should be stopped. The passive form of should stop is should be stopped.",
+            "answers": [
+                "should stop",
+                "should be stopped",
+                "should be stopping"
+            ],
+            "correct": 1,
+            "id": "1e46cc34e21f402d8d00636056fefce5"
+        },
+        {
+            "question": "I .................................. by the aroma of the freshly baked cookies.",
+            "description": "The passive form of tempted is was tempted. ",
+            "answers": [
+                "was tempting",
+                "was tempted",
+                "have tempted"
+            ],
+            "correct": 1,
+            "id": "4310743ceec547e082f0df41545ccde8"
+        },
+        {
+            "question": "He .............................. to an uninhabited island.",
+            "description": "They deported him. He was deported. ",
+            "answers": [
+                "was deporting",
+                "deported",
+                "was deported"
+            ],
+            "correct": 2,
+            "id": "bab51e0412cd41479c6102be85dc3041"
+        },
+        {
+            "question": "The suspect .................................. by the police.",
+            "description": "The police are interrogating the suspect. / The suspect is being interrogated by the police. ",
+            "answers": [
+                "is interrogating",
+                "has interrogated",
+                "is being interrogated"
+            ],
+            "correct": 2,
+            "id": "3069b50780dc4942876ef3784ce3da31"
+        },
+        {
+            "question": "The old building ................................. by the municipal authorities.",
+            "description": "",
+            "answers": [
+                "was demolished",
+                "was demolishing",
+                "is demolishing"
+            ],
+            "correct": 0,
+            "id": "bb3bd366181c4e35905cff78ed317d75"
+        },
+        {
+            "question": "I ............................... to study physics at university.",
+            "description": "They encouraged me. / I was encouraged. ",
+            "answers": [
+                "encouraged",
+                "was encouraging",
+                "was encouraged"
+            ],
+            "correct": 2,
+            "id": "553cd7f70ffb4d2797562425112ba1fe"
+        },
+        {
+            "question": "The apples ...................................... when they are ripe.",
+            "description": "",
+            "answers": [
+                "are picking",
+                "are picked",
+                "have picked"
+            ],
+            "correct": 1,
+            "id": "be996baedf1c4e079644f23cef3a93a0"
+        }
+    ]
+}

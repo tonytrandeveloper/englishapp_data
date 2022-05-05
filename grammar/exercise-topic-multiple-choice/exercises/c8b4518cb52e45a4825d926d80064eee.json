@@ -1,0 +1,106 @@
+{
+    "id": "c8b4518cb52e45a4825d926d80064eee",
+    "title": "Few, A Few, Little, A Little",
+    "questions": [
+        {
+            "question": "We have got quite ………………… . friends there.",
+            "description": "",
+            "answers": [
+                "few",
+                "a few",
+                "a little"
+            ],
+            "correct": 1,
+            "id": "3448cf2fc7e44e83942fabadb25d1810"
+        },
+        {
+            "question": "Would you like to try ………………….. wine?",
+            "description": "",
+            "answers": [
+                "little",
+                "a little"
+            ],
+            "correct": 1,
+            "id": "51f1a0139af447f9affaba8f30e56203"
+        },
+        {
+            "question": "His theories are too complex that only ……………………… people understand them.",
+            "description": "",
+            "answers": [
+                "few",
+                "little",
+                "a few"
+            ],
+            "correct": 2,
+            "id": "7b56c9ce7ab34b86a1bf0d352df9adac"
+        },
+        {
+            "question": "You don’t need to go shopping. We have got …………………… eggs and some rice.",
+            "description": "",
+            "answers": [
+                "few",
+                "a few",
+                "little",
+                "a little"
+            ],
+            "correct": 1,
+            "id": "efe7be9b4b414f52bca69d00ca262fef"
+        },
+        {
+            "question": "Very …………………… . people can speak a foreign language perfectly.",
+            "description": "",
+            "answers": [
+                "few",
+                "less",
+                "little"
+            ],
+            "correct": 0,
+            "id": "8c661432d314423f944a380446a5d850"
+        },
+        {
+            "question": "………………… politicians are really honest.",
+            "description": "",
+            "answers": [
+                "Few",
+                "A few",
+                "Little"
+            ],
+            "correct": 0,
+            "id": "27c6fe8394a64cf18594de7c5e1d8a11"
+        },
+        {
+            "question": "‘Would you like some more soup?’ ‘Just ………………………, please.’",
+            "description": "",
+            "answers": [
+                "little",
+                "few",
+                "a little"
+            ],
+            "correct": 2,
+            "id": "1e1a5e78e4a1402fba2c0151f9b0607d"
+        },
+        {
+            "question": "Give the roses …………………… .. water every day, if you don’t want them to die.",
+            "description": "",
+            "answers": [
+                "little",
+                "a little",
+                "a few"
+            ],
+            "correct": 1,
+            "id": "ce6d4b9219354345a88815ec59e38a16"
+        },
+        {
+            "question": "We have got a ………………… steak, if you are really hungry.",
+            "description": "",
+            "answers": [
+                "little",
+                "a little",
+                "few",
+                "a few"
+            ],
+            "correct": 1,
+            "id": "f846b4ba1227493082e5ec7b6d2b4a58"
+        }
+    ]
+}

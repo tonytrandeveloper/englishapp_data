@@ -1,0 +1,139 @@
+{
+    "id": "4c491f4e852e4a759f323e7cf820c515",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Have you got a novel …………………………. is really interesting to read?",
+            "description": "‘That’ is possible in this case. ‘That’ can be used to refer to people and things in identifying relative clauses. An identifying relative clause introduces information that cannot be easily left out. ‘Which’ is possible in this case. ‘Which’ can be used to refer to things in both identifying and non-identifying relative clauses.",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "f17da5ef0fd34d15944f27fb6bfcc56e"
+        },
+        {
+            "question": "She has acted in a movie ……………………….. name I have forgotten.",
+            "description": "'Whose' is a possessive relative word, used to refer to both people and things. It can replace possessive relative pronouns 'his / her / its'. ",
+            "answers": [
+                "which",
+                "who's",
+                "whose",
+                "of which"
+            ],
+            "correct": 2,
+            "id": "cfa0663557554f1f92ef26e9638e738a"
+        },
+        {
+            "question": "He is married to a writer ………………………….. you may have heard.",
+            "description": "Note that the preposition always goes before ‘whom’. We can’t say: He is married to a writer whom you may have heard of.",
+            "answers": [
+                "whom",
+                "of whom",
+                "that"
+            ],
+            "correct": 1,
+            "id": "b011382a51ce48358cc3de45ce9c6c0a"
+        },
+        {
+            "question": "It was a meeting ……………………………. purpose I did not understand.",
+            "description": "Let's split the sentence into two. It was a meeting. I did not understand its purpose. When we combine these two sentences together, the relative pronoun should replace the pronoun 'its'. Since 'its' is in the possessive case, we need to use a possessive relative pronoun.",
+            "answers": [
+                "of which",
+                "which",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "8e2f43cd5247499bbd8de4ead0f13677"
+        },
+        {
+            "question": "We became friendly with some students ………………………… we met on the train.",
+            "description": "We became friendly with some students. We met them on the train. When we combine these two clauses into one, the relative pronoun should replace the object pronoun ‘them’. As you know, ‘who’ is in the nominative case. It is not possible here. Hence, we use ‘whom’. ‘That’ is also possible.We became friendly with some students whom we met on the train. OR We became friendly with some students that we met on the train.",
+            "answers": [
+                "that or which",
+                "that or who",
+                "that or whom"
+            ],
+            "correct": 2,
+            "id": "edc8363cd33f474a85efdf62768c9050"
+        },
+        {
+            "question": "Alice married her boyfriend, ……………………......… made her parents very unhappy.",
+            "description": "The relative pronoun ‘which’ can refer to an entire clause that comes before it.",
+            "answers": [
+                "that",
+                "what",
+                "which"
+            ],
+            "correct": 2,
+            "id": "fa1130c6654c4b6f878fe42fad15e3e3"
+        },
+        {
+            "question": "Mary, ………………………… teaches my daughter English, has moved to another city.",
+            "description": "Here the relative clause is not identifying. It does not identify the person Maya. She has already been identified by her name. ‘That’ cannot be used in non-identifying relative clauses. Therefore, we use who here.",
+            "answers": [
+                "who",
+                "that",
+                "which"
+            ],
+            "correct": 0,
+            "id": "e4ee496425834ca9b2726530fe133694"
+        },
+        {
+            "question": "I know a shop ……………………….. they sell imported perfumes.",
+            "description": "‘Where’ can be used to introduce relative clauses after nouns referring to place. The sentence ‘I know a shop where they sell imported perfumes’ means the same as ‘I know a shop at which they sell imported perfumes’.",
+            "answers": [
+                "that",
+                "where",
+                "which"
+            ],
+            "correct": 1,
+            "id": "ed6135cbd91f476bac9edde8b848480f"
+        },
+        {
+            "question": "It is the best film ……………………………… has ever been made about the French Revolution.",
+            "description": "After superlatives, we use ‘that’, not ‘which’.",
+            "answers": [
+                "that",
+                "which",
+                "what"
+            ],
+            "correct": 0,
+            "id": "639d3374e6cb42b9b2a1259002f3a543"
+        },
+        {
+            "question": "I have got something .......................................... belongs to you?",
+            "description": "After quantifiers like all, every, everything, some, something, any, anything, nothing, some, little, few, much and only `that` is more common than `which`.",
+            "answers": [
+                "that",
+                "which",
+                "what"
+            ],
+            "correct": 0,
+            "id": "a2c690445f67471d95a9e70fdac5cb7e"
+        },
+        {
+            "question": "I have got ................................................. I need.",
+            "description": "In modern English, we use 'what' instead of 'that which'. in this case 'what' means something like 'all that'",
+            "answers": [
+                "that",
+                "which",
+                "what"
+            ],
+            "correct": 2,
+            "id": "a47242ceb7ce49059ddd270efb650fca"
+        },
+        {
+            "question": "He was respected by the people with ………………………….. he worked.",
+            "description": "We require a relative pronoun in the objective case here.",
+            "answers": [
+                "what",
+                "that",
+                "whom"
+            ],
+            "correct": 2,
+            "id": "48349a4cd8e84343818741303271f3db"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "id": "bd30e84eb666467a9ed421c41d2db72a",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "There is still a glimmer of hope that the strike …………………………….. this week.",
+            "description": "The simple future is used to make predictions about the future.",
+            "answers": [
+                "ends",
+                "will end",
+                "would end"
+            ],
+            "correct": 1,
+            "id": "530954c073cc4058b3cdba0cb5c0ff6a"
+        },
+        {
+            "question": "Parents tend to gloss …………………………….. their children’s mistakes.",
+            "description": "To gloss over is to excuse or treat lightly.",
+            "answers": [
+                "out",
+                "over",
+                "up"
+            ],
+            "correct": 1,
+            "id": "1d8a8cf421084573a853b44cc6cf2f2e"
+        },
+        {
+            "question": "Be a good winner and don’t gloat ……………………………. your victory.",
+            "description": "To gloat over something is to brag about it.",
+            "answers": [
+                "up",
+                "over",
+                "out"
+            ],
+            "correct": 1,
+            "id": "dc00e1eb99574cefb6ec027da04b7a6a"
+        },
+        {
+            "question": "In fairy tales gnomes always …………………………….. hidden treasures.",
+            "description": "We use the simple present to talk about facts.",
+            "answers": [
+                "guard",
+                "are guarding",
+                "would guard"
+            ],
+            "correct": 0,
+            "id": "51c67eb794db41a7817f9976e473e155"
+        },
+        {
+            "question": "When something goes wrong, he always makes me the …………………………..",
+            "description": "To make someone the goat is to make them the fall guy or the victim.",
+            "answers": [
+                "goat",
+                "sheep",
+                "cow"
+            ],
+            "correct": 0,
+            "id": "7025afda0e374f08ac15e01a6f502c2d"
+        },
+        {
+            "question": "The king’s enemies ………………………….. a rebellion.",
+            "description": "To foment is to provoke.",
+            "answers": [
+                "fomented",
+                "fermented",
+                "fragmented"
+            ],
+            "correct": 0,
+            "id": "4346cf9027484f8fa8033e7e23e1ff82"
+        },
+        {
+            "question": "Walking a tightrope ……………………………. the falls was a foolhardy venture.",
+            "description": "",
+            "answers": [
+                "across",
+                "through",
+                "above"
+            ],
+            "correct": 0,
+            "id": "bd03876db80248929ace90739e98e3ab"
+        },
+        {
+            "question": "You should try to forbear ……………………………. saying such nasty things.",
+            "description": "To forebear from is to refrain from.",
+            "answers": [
+                "to",
+                "from",
+                "of"
+            ],
+            "correct": 1,
+            "id": "f06d4f7c1d094a148170a8f49838f1d3"
+        },
+        {
+            "question": "I forbid you …………………………………. out after midnight.",
+            "description": "",
+            "answers": [
+                "to stay",
+                "from staying",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "570af8ee29bc488ebfc13e1a50f90152"
+        },
+        {
+            "question": "The bridge had been built with ……………………………… labor.",
+            "description": "Forced labor means enforced labor. ",
+            "answers": [
+                "forced",
+                "forceful"
+            ],
+            "correct": 0,
+            "id": "854e237b96584dbdb5109e5ff9d25af0"
+        },
+        {
+            "question": "His speech was brief but …………………………..",
+            "description": "Forceful means powerful or strong.",
+            "answers": [
+                "forced",
+                "forcible",
+                "forceful"
+            ],
+            "correct": 2,
+            "id": "6c3214ccdb4649f1b986da6e4db96580"
+        },
+        {
+            "question": "The ………………………………… seizure of US sailors by British naval officers was one of the causes of the war of",
+            "description": "Forcible means brought about by force.",
+            "answers": [
+                "forcible",
+                "forceful"
+            ],
+            "correct": 0,
+            "id": "0f89e2225dce4e8482c6ccd4179d70d4"
+        }
+    ]
+}

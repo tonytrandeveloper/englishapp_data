@@ -1,0 +1,126 @@
+{
+    "id": "c6e59c7687bc4803bf3e36ae6cdc4102",
+    "title": "Adjective Or Adverb",
+    "questions": [
+        {
+            "question": "The ship is still afloat. Here afloat is an ……………………",
+            "description": "Here the word afloat says something about the noun ship. Hence it is an adjective. ",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0,
+            "id": "3d7ffc69698d4d0589be8c2c45134bc3"
+        },
+        {
+            "question": "She is the best mother in the world. Here best is an …………………………",
+            "description": "Here the word best modifies the noun mother.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0,
+            "id": "597e393adbb2473a9fadd8a030a7adfe"
+        },
+        {
+            "question": "She danced happily into the room. Here happily is an …………………………",
+            "description": "Happily is an adverb. It modifies the verb danced.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "04e85ebea8914ae2b5c037d57bac5698"
+        },
+        {
+            "question": "We bought the cheapest clothes in the shop. Here cheapest is an …………………………..",
+            "description": "Here cheapest modifies the noun clothes.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0,
+            "id": "c5ed67823b0f4c04896642765b3ee8e5"
+        },
+        {
+            "question": "I don’t remember him very well. Here very is an ………………………",
+            "description": "Here the adverb very modifies the adverb well. Only an adverb can modify another adverb.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "182d03c0bcf54a0eb274f5cf25968a19"
+        },
+        {
+            "question": "She smiled in a friendly way. Here friendly is an ……………………………",
+            "description": "Here friendly modifies the noun way. Only adjectives can modify nouns.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0,
+            "id": "cf2c4005eeae4660a20ee3f8996c89f3"
+        },
+        {
+            "question": "Her singing was lovely. Here lovely is an …………………………..",
+            "description": "Here the adjective lovely modifies the noun singing. Not all words ending in –ly are adverbs.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0,
+            "id": "bdb6fd28058f4f9ea90c6b8c6bbb9614"
+        },
+        {
+            "question": "Sorry I didn’t post the letter – I clean forgot. Here clean is an ………………………….",
+            "description": "Here clean modifies the verb forgot.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "d54e619cfcb54c239880ec339c6f159a"
+        },
+        {
+            "question": "He was dead drunk when he got home. Here dead is an ……………………….",
+            "description": "Here dead is an adverb because it modifies the adjective drunk. Only adverbs can modify adjectives.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "2503baa00755425dbdcf8d594a2bfd74"
+        },
+        {
+            "question": "The plane goes direct from Chicago to Atlanta without stopping. Here direct is an …………………………",
+            "description": "Here direct is an adverb because it modifies the verb goes.",
+            "answers": [
+                "adverb",
+                "adjective"
+            ],
+            "correct": 0,
+            "id": "77fa3adb15fa448983dd7b2664bc0dd0"
+        },
+        {
+            "question": "They sometimes must be bored. Here sometimes is an ………………………..",
+            "description": "",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "587c7d1ea11945c28a5db508eaf5a59e"
+        },
+        {
+            "question": "When did you last see your father? Here last is an ………………………….",
+            "description": "Words indicating time are adverbs.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "228cb8d434fe417a9448815edd870b25"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "id": "44ad798c761845899d266ae745525241",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "Both my sisters ………………………. married.",
+            "description": "Use a plural noun and a plural verb after both. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "02e1476b7a4d450ca141dab9522976c3"
+        },
+        {
+            "question": "She had a child holding on to each ………………………….",
+            "description": "Use a singular noun after each.",
+            "answers": [
+                "hand",
+                "hands"
+            ],
+            "correct": 0,
+            "id": "29efd797a049499db47114f4b6837fc4"
+        },
+        {
+            "question": "We should help ………………………….",
+            "description": "Use each other to talk about two people or things use one another to talk about more than two people or things. ",
+            "answers": [
+                "each other",
+                "one another"
+            ],
+            "correct": 1,
+            "id": "26e9773793404603b8170f04b89cfe10"
+        },
+        {
+            "question": "The two brothers love …………………………….",
+            "description": "",
+            "answers": [
+                "each other",
+                "one another"
+            ],
+            "correct": 0,
+            "id": "44a561e649c946069df72d30a5ec9304"
+        },
+        {
+            "question": "She is not as brilliant as ……………………………….",
+            "description": "Either him or he is is possible here. ",
+            "answers": [
+                "he",
+                "him",
+                "he is"
+            ],
+            "correct": 2,
+            "id": "1ed1c8deeeb941cfb6b279447995f396"
+        },
+        {
+            "question": "Your car is faster than …………………………..",
+            "description": "Your car is faster than mine means the same as your car is faster than my car. ",
+            "answers": [
+                "me",
+                "my",
+                "mine"
+            ],
+            "correct": 2,
+            "id": "ce88e40d701b47a88c0f33b8318aede5"
+        },
+        {
+            "question": "Your essay is better than ……………………………",
+            "description": "",
+            "answers": [
+                "her",
+                "hers",
+                "she"
+            ],
+            "correct": 1,
+            "id": "49120b7762c94f01bf14f5b941d6ae7f"
+        },
+        {
+            "question": "Both Sam and Manual ……………………………. arrived.",
+            "description": "Use a plural verb after both.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "2fb38cbcaa5c418ab6f72109edb435b5"
+        },
+        {
+            "question": "You and ……………………….. have nothing to fear.",
+            "description": "A pronoun used as the subject should be in its object form.",
+            "answers": [
+                "me",
+                "I",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1201b5392de147c3a797a0d63c4b369c"
+        },
+        {
+            "question": "None of us …………………………….. seen him since then.",
+            "description": "Use a singular verb after none.",
+            "answers": [
+                "have",
+                "has"
+            ],
+            "correct": 1,
+            "id": "82173d6450bd4f76a9fb637296fadd27"
+        },
+        {
+            "question": "This is better ………………………….. that.",
+            "description": "",
+            "answers": [
+                "than",
+                "to",
+                "then"
+            ],
+            "correct": 0,
+            "id": "09bbe86fbf6c482ba7b3c6bd7c3decce"
+        },
+        {
+            "question": "…………………………….. by friends, we lost all hope.",
+            "description": "",
+            "answers": [
+                "Deceived",
+                "Deceiving"
+            ],
+            "correct": 0,
+            "id": "65bcd951bdf74a6da203212e627a37d5"
+        }
+    ]
+}

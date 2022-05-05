@@ -1,0 +1,130 @@
+{
+    "id": "12116034650d4c58b80531cf3ed44a5d",
+    "title": "Adjective vs. Adverb",
+    "questions": [
+        {
+            "question": "Please drive ………………………………",
+            "description": "Use the adverb carefully to modify the verb drive. ",
+            "answers": [
+                "careful",
+                "carefully"
+            ],
+            "correct": 1,
+            "id": "683137366a53495dbf38bcd8d408364c"
+        },
+        {
+            "question": "How is your grandmother today? Is she any …………………………..?",
+            "description": "Use the comparative form when there is an idea of change. ",
+            "answers": [
+                "good",
+                "better",
+                "well"
+            ],
+            "correct": 1,
+            "id": "7329dd90cbe4499590a6dc2c58347f47"
+        },
+        {
+            "question": "She can speak English really ……………………………..",
+            "description": "We use the adverb well to modify the verb speak.",
+            "answers": [
+                "good",
+                "well"
+            ],
+            "correct": 1,
+            "id": "c1a05a5380ee44a6be622a1898ba612d"
+        },
+        {
+            "question": "She ……………………………… spoke anything.",
+            "description": "",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 1,
+            "id": "502e6a6e7ab349459eeec769a01bd1d8"
+        },
+        {
+            "question": "Despite working …………………………….., he couldn’t get the promotion.",
+            "description": "Hard can be an adjective and an adverb. Hardly is similar to scarcely. ",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 0,
+            "id": "a0ca6cbb7c4c4035a8ca3442fd4d9db9"
+        },
+        {
+            "question": "The cops ran ……………………………….. and soon caught the thief.",
+            "description": "Fast can be an adjective and an adverb. There is no such word as fastly.",
+            "answers": [
+                "fast",
+                "fastly"
+            ],
+            "correct": 0,
+            "id": "60de8978d7354345be18731777762dc7"
+        },
+        {
+            "question": "We …………………………….. see lions.",
+            "description": "Rarely is similar to seldom. Hardly is similar to scarcely.",
+            "answers": [
+                "rarely",
+                "hardly"
+            ],
+            "correct": 0,
+            "id": "d5d1a6cfaa8d4ae9a40e311f2b2a0308"
+        },
+        {
+            "question": "My dog can understand everything. He is …………………………. human.",
+            "description": "",
+            "answers": [
+                "almost",
+                "quite",
+                "rather"
+            ],
+            "correct": 0,
+            "id": "4634352aa427492ca10384e5f8c73118"
+        },
+        {
+            "question": "No …………………………… had she arrived than trouble started brewing.",
+            "description": "",
+            "answers": [
+                "sooner",
+                "soon",
+                "longer"
+            ],
+            "correct": 0,
+            "id": "94269f491c6b46d6b152687cf8890270"
+        },
+        {
+            "question": "The mother is ……………………………… waiting for her son to return.",
+            "description": "Here the adverb anxiously modifies the verb is waiting. ",
+            "answers": [
+                "anxious",
+                "anxiously"
+            ],
+            "correct": 1,
+            "id": "18433c83748549308abba03ed1fd6356"
+        },
+        {
+            "question": "All of a ………………………….. he appeared from nowhere.",
+            "description": "",
+            "answers": [
+                "sudden",
+                "suddenly"
+            ],
+            "correct": 0,
+            "id": "93b18528301745e1afef1421db9618fa"
+        },
+        {
+            "question": "Why are you speaking so ………………………………?",
+            "description": "Here the adverb loudly modifies the verb speaking. ",
+            "answers": [
+                "loud",
+                "loudly",
+                "aloud"
+            ],
+            "correct": 1,
+            "id": "2195a69003044591befe6b7115b7ae88"
+        }
+    ]
+}

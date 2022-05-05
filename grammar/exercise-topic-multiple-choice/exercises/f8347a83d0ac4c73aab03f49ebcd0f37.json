@@ -1,0 +1,115 @@
+{
+    "id": "f8347a83d0ac4c73aab03f49ebcd0f37",
+    "title": "Join Sentences With Conjunctions",
+    "questions": [
+        {
+            "question": "She is pretty ............................. intelligent.",
+            "description": "",
+            "answers": [
+                "as well",
+                "as well as",
+                "both"
+            ],
+            "correct": 1,
+            "id": "1336bd123d92415fba7304a85768b7fd"
+        },
+        {
+            "question": "He is greedy .......................................... dishonest.",
+            "description": "",
+            "answers": [
+                "as well as",
+                "as well",
+                "both"
+            ],
+            "correct": 0,
+            "id": "e98897c761a3434c89857b62faa2d924"
+        },
+        {
+            "question": "God made small things ............................................ great things.",
+            "description": "",
+            "answers": [
+                "as well as",
+                "as well",
+                "both"
+            ],
+            "correct": 0,
+            "id": "5e6f27b0387e4680996e0bfab4e28d51"
+        },
+        {
+            "question": "Neither Martin ................................................ his father is tall.",
+            "description": "",
+            "answers": [
+                "or",
+                "nor"
+            ],
+            "correct": 1,
+            "id": "43e18958f89048ea8f6a859d37547ee7"
+        },
+        {
+            "question": "She is .......................................... honest nor hard working.",
+            "description": "",
+            "answers": [
+                "neither",
+                "nor",
+                "either"
+            ],
+            "correct": 0,
+            "id": "433cc77e3cba4c179f01c636f79c5e6f"
+        },
+        {
+            "question": "................................................ they gave her the best treatment, they could not save her.",
+            "description": "",
+            "answers": [
+                "Although",
+                "However",
+                "In spite of"
+            ],
+            "correct": 0,
+            "id": "549e7c1d510d43c496b8cffbc82ab502"
+        },
+        {
+            "question": "............................................ she had the qualifications, she did not get the job.",
+            "description": "",
+            "answers": [
+                "Although",
+                "However",
+                "In spite of"
+            ],
+            "correct": 0,
+            "id": "c3685045745e4f37b8837b696a2cd4ae"
+        },
+        {
+            "question": "He was ill ........................................... he attended the meeting.",
+            "description": "",
+            "answers": [
+                "but",
+                "though",
+                "however"
+            ],
+            "correct": 0,
+            "id": "e193044e177a47aba8ca0dd3ecf85275"
+        },
+        {
+            "question": "........................................... the lawyer defended his client very well, he lost the case.",
+            "description": "",
+            "answers": [
+                "Though",
+                "However",
+                "In spite of"
+            ],
+            "correct": 0,
+            "id": "68b9a9556e404f3eb45d54b882ab0426"
+        },
+        {
+            "question": ".......................................... he is not educated, he possesses practical wisdom.",
+            "description": "",
+            "answers": [
+                "Though",
+                "However",
+                "In spite of"
+            ],
+            "correct": 0,
+            "id": "3587df71c29544c7b8d4e1543777cc3a"
+        }
+    ]
+}

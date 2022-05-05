@@ -1,0 +1,137 @@
+{
+    "id": "ecbaaba726ee4112b36d1e67343bdb35",
+    "title": "Indirect Speech Exercise",
+    "questions": [
+        {
+            "question": "He told me that he …………………………… me the other day.",
+            "description": "A past tense in the direct speech will become past perfect in the indirect speech.",
+            "answers": [
+                "saw",
+                "has seen",
+                "had seen"
+            ],
+            "correct": 2,
+            "id": "237d3b47ab5745f5aa348885813a6f09"
+        },
+        {
+            "question": "He said that he ……………………… permit that.",
+            "description": "Will in the direct speech becomes would in the indirect speech.",
+            "answers": [
+                "won't",
+                "wouldn't",
+                "can't"
+            ],
+            "correct": 1,
+            "id": "6b0159c31aa540a1be38d2e0def96d51"
+        },
+        {
+            "question": "The father told his son that he …………………………… him a nice gift.",
+            "description": "Present perfect in the direct speech becomes past perfect in the indirect speech.",
+            "answers": [
+                "bought",
+                "has bought",
+                "had bought"
+            ],
+            "correct": 2,
+            "id": "b13cb94941ef4da8bf7df0f87cbfe7c5"
+        },
+        {
+            "question": "My uncle told me that he ……………………… me a laptop.",
+            "description": "Will in the direct speech becomes would in the indirect speech.",
+            "answers": [
+                "will buy",
+                "would buy",
+                "shall buy"
+            ],
+            "correct": 1,
+            "id": "52147c6b5f1a4b729fb563db4aecf854"
+        },
+        {
+            "question": "He told me that he ………………………….. to move to Singapore.",
+            "description": "A simple present tense in the direct speech becomes simple past tense in the indirect speech.",
+            "answers": [
+                "wanted",
+                "wants",
+                "has wanted"
+            ],
+            "correct": 0,
+            "id": "31283c656c9449f1abfcfaaa5758d316"
+        },
+        {
+            "question": "The teacher advised them ……………………….. hard.",
+            "description": "Imperatives are reported with a to-infinitive. ",
+            "answers": [
+                "work",
+                "that work",
+                "to work"
+            ],
+            "correct": 2,
+            "id": "4345a7d2ebad43acb140a56a6d0f8c3f"
+        },
+        {
+            "question": "Sonia told Mathew that she ……………………………. all of her friends.",
+            "description": "Present perfect in the direct speech becomes past perfect in the indirect speech.",
+            "answers": [
+                "invited",
+                "has invited",
+                "had invited"
+            ],
+            "correct": 2,
+            "id": "907435daa7404bc08a292240738edf2c"
+        },
+        {
+            "question": "The manager told me that if I ………………………...... another deadline I would be sacked.",
+            "description": "A simple present in the direct speech becomes simple past in the indirect speech.",
+            "answers": [
+                "miss",
+                "missed",
+                "have missed"
+            ],
+            "correct": 1,
+            "id": "763b4499958341f584dcc7d53be95e9d"
+        },
+        {
+            "question": "The father told his son that he ……………………………… his parents.",
+            "description": "",
+            "answers": [
+                "has to obey",
+                "had to obey",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "d8e54d89062948d793e8dfc774c1200c"
+        },
+        {
+            "question": "He told me that he ……………………………… a strange experience the previous day.",
+            "description": "Had had is the past perfect of had. ",
+            "answers": [
+                "had",
+                "had had",
+                "has had"
+            ],
+            "correct": 1,
+            "id": "bf51d002e2c4458b9decfb38b53f1543"
+        },
+        {
+            "question": "I reminded him that his mother …………………………. for him anxiously.",
+            "description": "Will in the direct speech becomes would in the indirect speech.",
+            "answers": [
+                "will be waiting",
+                "would be waiting",
+                "can be waiting"
+            ],
+            "correct": 1,
+            "id": "04727d13a79a40f0849f9eff95683773"
+        },
+        {
+            "question": "The cop asked the man where ………………………….. going.",
+            "description": "Indirect questions have the normal word order. ",
+            "answers": [
+                "was he",
+                "he was"
+            ],
+            "correct": 1,
+            "id": "c6e9220999c3406f97646e19847b490b"
+        }
+    ]
+}

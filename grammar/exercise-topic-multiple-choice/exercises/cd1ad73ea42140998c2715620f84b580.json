@@ -1,0 +1,126 @@
+{
+    "id": "cd1ad73ea42140998c2715620f84b580",
+    "title": "Adjective Or Past Participle",
+    "questions": [
+        {
+            "question": "She was excited about the project.",
+            "description": "Excited is an adjective here and it acts as the complement of the verb was. ",
+            "answers": [
+                "Excited is an adjective",
+                "Excited is a past participle"
+            ],
+            "correct": 0,
+            "id": "e3b02e5c40a745c8b529a8440e51381e"
+        },
+        {
+            "question": "I watched an interesting movie yesterday.",
+            "description": "When ing forms are used before nouns they act as adjectives.\r\n",
+            "answers": [
+                "Interesting is an adjective",
+                "Interesting is a present participle"
+            ],
+            "correct": 0,
+            "id": "9b489f7d4c024da7a75e8704a8e4cb4f"
+        },
+        {
+            "question": "She was driving us crazy.",
+            "description": "When ing forms are used to form continuous tenses, they are used as participles. ",
+            "answers": [
+                "Driving is an adjective",
+                "Driving is a present participle"
+            ],
+            "correct": 1,
+            "id": "258f7f72e5d44433b18cdff0566067ae"
+        },
+        {
+            "question": "I hope you are fully recovered from your operation.",
+            "description": "Recovered is an adjective here. Participles are often used after the verb be. In this case, they complete the predicate and act as adjectives. ",
+            "answers": [
+                "Recovered is an adjective",
+                "Recovered is a past participle"
+            ],
+            "correct": 0,
+            "id": "6632ac9805c24cd2bb835c350e8c93ec"
+        },
+        {
+            "question": "Her idea seems exciting.",
+            "description": "Participles are often used as adjectives after be and other copular verbs. ",
+            "answers": [
+                "Exciting is an adjective",
+                "Exciting is a present participle"
+            ],
+            "correct": 0,
+            "id": "aafdb33c06b6478390aff347d6590575"
+        },
+        {
+            "question": "The children were screaming at the top of their voice.",
+            "description": "When ing forms are used to form continuous tenses, they act as present participles. ",
+            "answers": [
+                "Screaming is an adjective",
+                "Screaming is a present participle"
+            ],
+            "correct": 1,
+            "id": "f7ab0156d3254b13bd327f2d40236935"
+        },
+        {
+            "question": "I had warned you.",
+            "description": "When participles are used to form perfect tenses, they act as past participles. ",
+            "answers": [
+                "Warned is an adjective",
+                "Warned is a past participle"
+            ],
+            "correct": 1,
+            "id": "bf4a2fceddb447cfb29cf6aeb5fbae0f"
+        },
+        {
+            "question": "He was not expecting this.",
+            "description": "When participles are used to form continuous tenses, they act as present participles. ",
+            "answers": [
+                "Expecting is an adjective",
+                "Expecting is a present participle"
+            ],
+            "correct": 1,
+            "id": "fa259a3d5f9c42c0bc32732fa6869e57"
+        },
+        {
+            "question": "It was beginning to rain.",
+            "description": "When ing forms are used to form continuous tenses, they act as present participles. ",
+            "answers": [
+                "Beginning is an adjective",
+                "Beginning is a present participle"
+            ],
+            "correct": 1,
+            "id": "fe2845d823c04c8fab61cdfd00a45b79"
+        },
+        {
+            "question": "I did not enjoy the party because I was bored.",
+            "description": "Participles are often used after the verb be as adjectives. In this case, they complete the verb. ",
+            "answers": [
+                "Bored is an adjective",
+                "Bored is a past participle"
+            ],
+            "correct": 0,
+            "id": "4001b7396b3f4e60a41bffb02e696143"
+        },
+        {
+            "question": "They have not been able to find the missing child.",
+            "description": "When ing forms are used before nouns, they act as adjectives.",
+            "answers": [
+                "Missing is an adjective",
+                "Missing is a present participle"
+            ],
+            "correct": 0,
+            "id": "6c3dd60f90364a64ab407e5137dbf1f4"
+        },
+        {
+            "question": "She is retired now.",
+            "description": "Participles are often used after the verb be as adjectives. In this case, they complete the verb. ",
+            "answers": [
+                "Retired is an adjective",
+                "Retired is a past participle"
+            ],
+            "correct": 0,
+            "id": "0af88871b5194b119ffad1b43e136df2"
+        }
+    ]
+}

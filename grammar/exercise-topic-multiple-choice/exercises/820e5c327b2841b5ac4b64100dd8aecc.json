@@ -1,0 +1,138 @@
+{
+    "id": "820e5c327b2841b5ac4b64100dd8aecc",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "There was not a child in the class ……………………… did not weep.",
+            "description": "We use who to refer to people.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "8d515858f5494ba7b5b80e9de5576a96"
+        },
+        {
+            "question": "Uneasy lies the head ……………………… wears the crown.",
+            "description": "",
+            "answers": [
+                "that",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "6059e6ee7a5f44f09ba83fa5fc9f3575"
+        },
+        {
+            "question": "He is a writer ………………………….. I like.",
+            "description": "When the relative pronoun is the object of the verb in the relative clause we use whom.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 1,
+            "id": "55e7510f192a4c3f8f5e894a9b4c669d"
+        },
+        {
+            "question": "The house ………………………….. the fire broke out was completely destroyed.",
+            "description": "",
+            "answers": [
+                "there",
+                "where",
+                "which"
+            ],
+            "correct": 1,
+            "id": "483980eb11074ed78b75675df7c2621c"
+        },
+        {
+            "question": "The reason ……………………………… they parted ways is unclear.",
+            "description": "",
+            "answers": [
+                "why",
+                "which",
+                "that"
+            ],
+            "correct": 0,
+            "id": "0f1e55147afe4218ae3f8ace81e4b7cc"
+        },
+        {
+            "question": "He is the boy ………………………… won the first prize.",
+            "description": "",
+            "answers": [
+                "who",
+                "which",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "dea7a33e67c7402c83e6cc9b44fddf72"
+        },
+        {
+            "question": "He released the bird ………………………… flew away at once.",
+            "description": "We use which to refer to things, animals, birds etc.",
+            "answers": [
+                "which",
+                "who",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "47a571c118364cb1b13fd1ecf7f000a1"
+        },
+        {
+            "question": "On the day ………………………… he was born, I was the happiest mother in the world.",
+            "description": "",
+            "answers": [
+                "which",
+                "when",
+                "that"
+            ],
+            "correct": 1,
+            "id": "a2e4a0afc8144e11a453349cdbdffbc0"
+        },
+        {
+            "question": "Give me something ………………………….. I may eat.",
+            "description": "That is more common than which after something, anything, everything.",
+            "answers": [
+                "that",
+                "which",
+                "what"
+            ],
+            "correct": 0,
+            "id": "b8113b635ef8437689913e84d0885f92"
+        },
+        {
+            "question": "I have duties …………………………. I must perform.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "abbd56ba3be34bd49bffbc2a111901f0"
+        },
+        {
+            "question": "Childhood is the time ………………………….. the seeds of character are sown.",
+            "description": "",
+            "answers": [
+                "when",
+                "which",
+                "then"
+            ],
+            "correct": 0,
+            "id": "36a838e3ac334d758226e013afabca9e"
+        },
+        {
+            "question": "You can hardly expect any good work from men …………………………… are great boasters.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "3b2f68d0ca05417089d9b9eb4e45e8c4"
+        }
+    ]
+}

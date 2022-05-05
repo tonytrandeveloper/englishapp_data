@@ -1,0 +1,141 @@
+{
+    "id": "22cd4b72229e4821922a23d5b0a4bed7",
+    "title": "Conjunctions And Linkers Exercise",
+    "questions": [
+        {
+            "question": "I don't know ...................................... I would get the job.",
+            "description": "If or whether can introduce an indirect question.",
+            "answers": [
+                "if",
+                "whether",
+                "weather",
+                "unless"
+            ],
+            "correct": 1,
+            "id": "c7056780011d4fcab469651dd49fc6d2"
+        },
+        {
+            "question": "They cancelled the match .............................. bad weather.",
+            "description": "",
+            "answers": [
+                "because of",
+                "on account of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "e1afa5c9c8c044b4b343d426b9b0230c"
+        },
+        {
+            "question": "He still drives that old car ............................... he has enough money to buy a new car.",
+            "description": "Either though or even though is possible here. Even though is more emphatic than though.",
+            "answers": [
+                "though",
+                "even if",
+                "even though"
+            ],
+            "correct": 2,
+            "id": "ac8334f97a274b4ab97aaff9a8dfa7de"
+        },
+        {
+            "question": "I learned Spanish ............................... be able to find a job during my stay in Spain.",
+            "description": "Both expressions indicate purpose.",
+            "answers": [
+                "in order to",
+                "so as to",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "d92e1536665f4bc88536abd3ec0b83fd"
+        },
+        {
+            "question": "It seems .................................... somebody had opened the door.",
+            "description": "",
+            "answers": [
+                "as if",
+                "as though",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "188729c417404610b6ef5c51504691e3"
+        },
+        {
+            "question": "Break the glass ................................. fire.",
+            "description": "If is used before a clause. In case of and in the event of are used before a noun.",
+            "answers": [
+                "in case of",
+                "in the event of",
+                "if"
+            ],
+            "correct": 1,
+            "id": "68e33082b68144ac9538d7ab1160229b"
+        },
+        {
+            "question": "I ordered food online ................................. I didn't have enough time to cook.",
+            "description": "",
+            "answers": [
+                "as",
+                "because",
+                "though",
+                "Either as or because"
+            ],
+            "correct": 3,
+            "id": "ae54cdc06c944a4abc196dc85113ed59"
+        },
+        {
+            "question": "It rained several times ................................ the night.",
+            "description": "",
+            "answers": [
+                "in",
+                "during",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "a83dc77f191e4fb59abec70dac84e572"
+        },
+        {
+            "question": "We can't leave ............................... he returns.",
+            "description": "Till and until mean the same till is more common in an informal style. ",
+            "answers": [
+                "until",
+                "till",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "19d00dbf736d493ab4277d35cd105a56"
+        },
+        {
+            "question": "They couldn't save her .............................. their best efforts.",
+            "description": "Either despite or in spite of is possible here.",
+            "answers": [
+                "despite",
+                "in spite of",
+                "inspite of",
+                "despite of"
+            ],
+            "correct": 1,
+            "id": "c95a23d2046b42d98fbf4ef5c503dbe7"
+        },
+        {
+            "question": "………………………… hard you may try, you will not finish that task.",
+            "description": "However hard means the same as it doesn't matter how hard.",
+            "answers": [
+                "No matter",
+                "However",
+                "Though"
+            ],
+            "correct": 1,
+            "id": "3cc1f9bb9962414088ac3fff529b7dd5"
+        },
+        {
+            "question": "She looked pale ……………………………. she had seen a ghost.",
+            "description": "",
+            "answers": [
+                "as if",
+                "as though",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "36fcef1c8e634862be4b8efc017fc6fe"
+        }
+    ]
+}

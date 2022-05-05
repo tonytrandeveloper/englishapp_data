@@ -1,0 +1,78 @@
+{
+    "id": "7e83535a8c2c474ea3a9269e0b39d766",
+    "title": "Hear And Listen To",
+    "questions": [
+        {
+            "question": "Suddenly I ……………………… a loud noise.",
+            "description": "",
+            "answers": [
+                "heard",
+                "listened"
+            ],
+            "correct": 0,
+            "id": "c96f0bb0c67c4f69adaaeb2e631d6860"
+        },
+        {
+            "question": "Can you speak a bit louder? I can’t ………………… you.",
+            "description": "",
+            "answers": [
+                "hear",
+                "listen to"
+            ],
+            "correct": 0,
+            "id": "bbdedc45e73440d6906ec81bf1f42db0"
+        },
+        {
+            "question": "You can …………………… something without wanting to.",
+            "description": "",
+            "answers": [
+                "hear",
+                "listen to"
+            ],
+            "correct": 0,
+            "id": "71832c0ee5934c6d9d39c55d0701b568"
+        },
+        {
+            "question": "Though I ………………… .. them talking in the next room, I didn’t really …………………. what they were saying.",
+            "description": "",
+            "answers": [
+                "heard, listen to",
+                "heard, heard",
+                "heard, listened to"
+            ],
+            "correct": 0,
+            "id": "4f5cfe96cc4549baae0189ca5298b1f2"
+        },
+        {
+            "question": "I didn’t …………………… the calling bell because I was watching TV.",
+            "description": "",
+            "answers": [
+                "hear",
+                "listen to"
+            ],
+            "correct": 0,
+            "id": "8d7825dcec6b47499005ed3911df89a9"
+        },
+        {
+            "question": "………………….. carefully to what I am going to say.",
+            "description": "",
+            "answers": [
+                "Hear",
+                "Listen"
+            ],
+            "correct": 1,
+            "id": "818160028beb48399780b0b41f3f4847"
+        },
+        {
+            "question": "Did you ………………… the news yesterday?",
+            "description": "",
+            "answers": [
+                "hear",
+                "listen to",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "dbe3ae1846a54f6589684e72d11cef76"
+        }
+    ]
+}

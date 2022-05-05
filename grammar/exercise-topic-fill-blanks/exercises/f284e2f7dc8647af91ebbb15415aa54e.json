@@ -1,0 +1,306 @@
+{
+    "id": "f284e2f7dc8647af91ebbb15415aa54e",
+    "title": "Reported Yes/No Questions",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Am I late?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if she was late."
+                    ]
+                }
+            ],
+            "id": "2230c28358634c58a605c46e1764592d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is it cold outside?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if it was cold outside."
+                    ]
+                }
+            ],
+            "id": "8133535014c14da8835b882dde31e3c6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Are they in Paris?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if they were in Paris."
+                    ]
+                }
+            ],
+            "id": "61b04fec6b374e89beb4ec67100c404f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is the bus stop near the shopping centre?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if the bus stop was near the shopping centre."
+                    ]
+                }
+            ],
+            "id": "9bec6571fc2544ffbcd19dd1798d1451"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is the milk fresh?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if the milk was fresh."
+                    ]
+                }
+            ],
+            "id": "bf65db0fc7f8412bb0c3a00321a70f61"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Are you a doctor?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if I was a doctor."
+                    ]
+                }
+            ],
+            "id": "8e2e3ee87bcf4de6a250f34bca705230"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Are James and Lucy from France?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if James and Lucy were from France."
+                    ]
+                }
+            ],
+            "id": "bdc15e1b3ee7430e81e1a6efc084dfc5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is my brother in the garden?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if her brother was in the garden."
+                    ]
+                }
+            ],
+            "id": "cbe48abb9a994b2db25782adefccd39a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is the weather good in Shanghai in the summer?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if the weather was good in Shanghai in the summer."
+                    ]
+                }
+            ],
+            "id": "835e562464da438984f4677fd5cd8a2e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Does Julie drink tea?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if Julie drank tea."
+                    ]
+                }
+            ],
+            "id": "cdc67800433d4cac8b4a6648021110eb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do you like chocolate?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if I liked chocolate."
+                    ]
+                }
+            ],
+            "id": "114bedaa88da446abf44834ad43f57fb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do they own a flat?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if they owned a flat."
+                    ]
+                }
+            ],
+            "id": "886589477a4047dbb0086932992cc65d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Does David go to the cinema often?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if David went to the cinema often."
+                    ]
+                }
+            ],
+            "id": "cb642f054535448da316254dd38a2eef"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do the children study Chinese?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if the children studied Chinese."
+                    ]
+                }
+            ],
+            "id": "93fb95b4214a4ebfa59cc7476af35885"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do they go on holiday every summer?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if they went on holiday every summer."
+                    ]
+                }
+            ],
+            "id": "e81dc7953f014d0eb39621033136def5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Does your sister live in Stockholm?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if my sister lived in Stockholm."
+                    ]
+                }
+            ],
+            "id": "f9e91cb0e1a84f03bc07c7feb912eea9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do I talk too much?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if she talked too much."
+                    ]
+                }
+            ],
+            "id": "b614411784fd4fcfb1a4bcf44577066b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Does Jennifer want a new job?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if Jennifer wanted a new job."
+                    ]
+                }
+            ],
+            "id": "befb0355a0c748e2be1b3a49469bc1b4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Does it rain a lot in London?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if it rained a lot in London."
+                    ]
+                }
+            ],
+            "id": "f2b186589a404b1386144d0196edede6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is John at home?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if John was at home."
+                    ]
+                }
+            ],
+            "id": "1ab872d97e22407a8c5f725a039c4be1"
+        }
+    ]
+}

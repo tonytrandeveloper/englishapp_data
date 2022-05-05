@@ -1,0 +1,307 @@
+{
+    "id": "d865786f0ad742579b558fbca23a6225",
+    "title": "Passive with the Present Simple",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody sends emails."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Emails are sent"
+                    ]
+                }
+            ],
+            "id": "6ce32d7b85ba4ce1a4098ee38d5b4672"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody cuts the grass."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The grass is cut"
+                    ]
+                }
+            ],
+            "id": "d46bac4ec7014f94a3677b706f211d13"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody prefers chocolate."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Chocolate is preferred"
+                    ]
+                }
+            ],
+            "id": "7efd661473e048b8be24475cc18076a0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody often steals cars."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Cars are often stolen"
+                    ]
+                }
+            ],
+            "id": "4eff88dcd7c54c21814b32c2e4dfd823"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody plays loud music."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Loud music is played"
+                    ]
+                }
+            ],
+            "id": "190cca0f1bb7498cabd1c9064c8048d9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody speaks English here."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "English is spoken here"
+                    ]
+                }
+            ],
+            "id": "461c1891101c4391b89d2589bc3e7754"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody loves the London parks."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The London parks are loved"
+                    ]
+                }
+            ],
+            "id": "6b4660223b874a47a489ce4eee6fd869"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody wants staff."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Staff are wanted",
+                        "Staff is wanted"
+                    ]
+                }
+            ],
+            "id": "ea830e68c1244b2ea484c46d87133f7b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody writes articles."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Articles are written"
+                    ]
+                }
+            ],
+            "id": "f3ad0eb4c9fc4d689167a69494e15844"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody loves Julie."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Julie is loved"
+                    ]
+                }
+            ],
+            "id": "69c7b56703f04ba1a980f76aa97d1c7c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody reads a lot of books."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "A lot of books are read"
+                    ]
+                }
+            ],
+            "id": "fab778afb54e431eb17ef17152932ac8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody cooks dinner every day."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Dinner is cooked every day"
+                    ]
+                }
+            ],
+            "id": "e3b703a6d11b48c6ad09f4df9ac58097"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody delivers milk in the mornings."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Milk is delivered in the mornings"
+                    ]
+                }
+            ],
+            "id": "3dc7cf5ec1ed4776a7ee55d462e6346c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody buys flowers for the flat."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Flowers are bought for the flat"
+                    ]
+                }
+            ],
+            "id": "0a17bcba1b344a738fd2220be3e4aad5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody washes the cars every week."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The cars are washed every week"
+                    ]
+                }
+            ],
+            "id": "bcc0cde9326e4b84879e9fec9f7357e9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody writes a report every Friday."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "A report is written every Friday"
+                    ]
+                }
+            ],
+            "id": "1a3423f2ea64498d880519afc1d7771e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody fixes the roads."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The roads are fixed"
+                    ]
+                }
+            ],
+            "id": "2aa4932645654f01a864893710b6f715"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody builds new houses every year."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "New houses are built every year"
+                    ]
+                }
+            ],
+            "id": "11d1b4e009194baa88ee30be21bd0bf5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody sells vegetables in the market."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Vegetables are sold in the market"
+                    ]
+                }
+            ],
+            "id": "46d38f974b384f3686dd7afa6b921b57"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody cleans the office every day."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The office is cleaned every day"
+                    ]
+                }
+            ],
+            "id": "c1eee1f2005240d6863d26f23cbcabb0"
+        }
+    ]
+}

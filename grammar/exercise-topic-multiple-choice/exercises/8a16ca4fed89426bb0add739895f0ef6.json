@@ -1,0 +1,138 @@
+{
+    "id": "8a16ca4fed89426bb0add739895f0ef6",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "..................................... that report yet?",
+            "description": "The present perfect is more common with the expressions yet and already.",
+            "answers": [
+                "Have you finished",
+                "Did you finish",
+                "Do you finish"
+            ],
+            "correct": 0,
+            "id": "30ef7cfed9b94e69aaf55d0f338c085b"
+        },
+        {
+            "question": "No, I haven't finished that report. I .................................... on it.",
+            "description": "\r\nThe present continuous is used to talk about actions and situations that are going on at the moment of speaking.",
+            "answers": [
+                "work",
+                "have worked",
+                "am working"
+            ],
+            "correct": 2,
+            "id": "c943c25a21ae4d34907f1a2c58da6894"
+        },
+        {
+            "question": "It ..................................... be ready by evening.",
+            "description": "We use should to express logical possibility.",
+            "answers": [
+                "should",
+                "would",
+                "shall"
+            ],
+            "correct": 0,
+            "id": "474fb5cf1d2a47bcb56cfd1419b5be11"
+        },
+        {
+            "question": "This is the first time I ........................................ Amsterdam.",
+            "description": "The present perfect is more common with this is the first / second / last time ....",
+            "answers": [
+                "visited",
+                "have visited",
+                "am visiting"
+            ],
+            "correct": 1,
+            "id": "3b286f2753554982b6a1f5fbe5110a23"
+        },
+        {
+            "question": "She .................................... for hours.",
+            "description": "The present perfect continuous is used to talk about an action or situation that started in the past, has continued up to the present and is still continuing. ",
+            "answers": [
+                "has been knitting",
+                "is knitting",
+                "knits"
+            ],
+            "correct": 0,
+            "id": "1099d7dd60bc4d568075ca10851b9d1a"
+        },
+        {
+            "question": "We ........................................ in this town for ten years.",
+            "description": "The present perfect continuous is used to talk about an action or situation that started in the past, has continued up to the present and is still continuing. ",
+            "answers": [
+                "are living",
+                "have been living",
+                "live"
+            ],
+            "correct": 1,
+            "id": "0647d57064be4d7180933f263f595bca"
+        },
+        {
+            "question": "I ................................... ill last week.",
+            "description": "The simple past is used to talk about finished events in the past. ",
+            "answers": [
+                "was",
+                "have been",
+                "had been"
+            ],
+            "correct": 0,
+            "id": "4475c489090842ae8d654f8f04c98161"
+        },
+        {
+            "question": "...................................... you want to see the pictures of my holiday?",
+            "description": "",
+            "answers": [
+                "Do",
+                "Have",
+                "Does"
+            ],
+            "correct": 0,
+            "id": "8233889172fc46d48aeab60f354f84ae"
+        },
+        {
+            "question": "I ..................................... dinner before dad came home.",
+            "description": "The past perfect tense is used to talk about the earlier of two past events. \r\nSometimes we use the conjunctions before and after to show which action took place first. The use of the past perfect tense is optional in this case.\r\n",
+            "answers": [
+                "finished",
+                "had finished",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "07cdd3d9fefc4f15bfa1ea213d3d9332"
+        },
+        {
+            "question": "The boy ................................... before people came to rescue him.",
+            "description": "The past perfect tense is used to talk about the earlier of two past events. The simple past is also sometimes possible here.",
+            "answers": [
+                "drowned",
+                "had drowned",
+                "has drowned"
+            ],
+            "correct": 1,
+            "id": "9481118974d5435b9741dc2e870121f8"
+        },
+        {
+            "question": "He .................................... before he left.",
+            "description": "Sometimes we use the conjunctions before and after to show which action took place first. The use of the past perfect tense is optional in this case.",
+            "answers": [
+                "called",
+                "had called",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "248dd9e04f6b4460a61af092beb47b39"
+        },
+        {
+            "question": "I ..................................................... my lessons before I went out to play.",
+            "description": "",
+            "answers": [
+                "learnt",
+                "had learnt",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "6fd9f8d8859d4ee6a8bfb02486679227"
+        }
+    ]
+}

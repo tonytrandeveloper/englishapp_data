@@ -1,0 +1,137 @@
+{
+    "id": "b66a19b949874cbe89209b742f30f14a",
+    "title": "Gerund vs. Infinitive",
+    "questions": [
+        {
+            "question": "I hate …………………………… to wait for people who are always late.",
+            "description": "Either the infinitive or the gerund is possible here.",
+            "answers": [
+                "have",
+                "to have",
+                "having"
+            ],
+            "correct": 2,
+            "id": "4a355f6549ca4dc99fe6349cd1551cc6"
+        },
+        {
+            "question": "Could you tell me why you delayed ………………………….. the money?",
+            "description": "Delay is usually followed by an ing form. ",
+            "answers": [
+                "to send",
+                "sending",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1e79d032e0bf4a40851c444e54c5ba72"
+        },
+        {
+            "question": "The doctor asked him to give up …………………………",
+            "description": "Give up is usually followed by an ing form.",
+            "answers": [
+                "to smoke",
+                "smoke",
+                "smoking"
+            ],
+            "correct": 2,
+            "id": "60e39d3feacd4340acf8f680810e3684"
+        },
+        {
+            "question": "I encouraged her ………………………… again.",
+            "description": "",
+            "answers": [
+                "to try",
+                "trying",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "55015554ee5a46009b564b2a71afae71"
+        },
+        {
+            "question": "They told us …………………………..",
+            "description": "Tell is followed by a to-infinitive. ",
+            "answers": [
+                "stopping",
+                "to stop",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "bbdb0f4fd3de4b3692c3f1df26a17a8c"
+        },
+        {
+            "question": "I dislike people ……………………….. me what to do.",
+            "description": "Dislike is usually followed by an ing form.",
+            "answers": [
+                "to tell",
+                "telling",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "d5d01f82216d49eb822b313b0218c744"
+        },
+        {
+            "question": "I felt like …………………………. but I didn’t dare to.",
+            "description": "Feel like is usually followed by an ing form.",
+            "answers": [
+                "to laugh",
+                "laughing",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f57afd6d15fe4ca7bd90c40f364d0de3"
+        },
+        {
+            "question": "I can’t help …………………………. his courage.",
+            "description": "Can't help is followed by an ing form.",
+            "answers": [
+                "to admire",
+                "admiring",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "49df2469c631450abf12695f49b6b644"
+        },
+        {
+            "question": "We can’t risk …………………………. any more lives.",
+            "description": "Risk is usually followed by an ing form.",
+            "answers": [
+                "to lose",
+                "losing",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f00443e0b5dd40c7ab9f0c1743ddcd8a"
+        },
+        {
+            "question": "I tried to stop him from …………………………..",
+            "description": "Stop is followed by from + ing form.",
+            "answers": [
+                "to leave",
+                "leaving",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "53b727be733d4bee93ac0800f42db996"
+        },
+        {
+            "question": "We could not restrain him from …………………………..",
+            "description": "Restrain is followed by object + from + ing form.",
+            "answers": [
+                "to move",
+                "moving"
+            ],
+            "correct": 1,
+            "id": "30a3e5790fbf44ac94696c9d52d970e9"
+        },
+        {
+            "question": "My parents always motivated me .................................. big.",
+            "description": "Motivate is followed by an infinitive. ",
+            "answers": [
+                "dreaming",
+                "to dream",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "328fe6204b704e3199e438b3f5e83807"
+        }
+    ]
+}

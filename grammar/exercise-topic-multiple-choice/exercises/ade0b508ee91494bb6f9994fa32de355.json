@@ -1,0 +1,138 @@
+{
+    "id": "ade0b508ee91494bb6f9994fa32de355",
+    "title": "Conditional Clauses Exercise",
+    "questions": [
+        {
+            "question": "If you ................................. into James, tell him he owes me a drink.",
+            "description": "Should is sometimes used in the if-clause to suggest that something is very unlikely. ",
+            "answers": [
+                "run",
+                "should run",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "8e590b17948e4933bb9c1d34f1e7739f"
+        },
+        {
+            "question": "Would it be all right if I ......................................... some friends tonight?",
+            "description": "We use the second conditional in more polite requests. In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "bring",
+                "brought",
+                "had brought"
+            ],
+            "correct": 1,
+            "id": "c0fc1385269042659aae8e80c96419bf"
+        },
+        {
+            "question": "If I won this race, I would be delighted. Identify the conditional used in this sentence.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "75b1ce92e948478b94ce5e8a985071b0"
+        },
+        {
+            "question": "Which conditional is used to talk about past situations that did not happen?",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 2,
+            "id": "f55394066543416eb30eba0b6976e64e"
+        },
+        {
+            "question": "If my grandmother had been alive, she ........................................ 95 now.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "would be",
+                "would have been",
+                "will be"
+            ],
+            "correct": 1,
+            "id": "c4f4d001d4de44178318e5a240bff60f"
+        },
+        {
+            "question": "If you .......................................... nicely, I would have helped you.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "asks",
+                "asked",
+                "had asked"
+            ],
+            "correct": 2,
+            "id": "57ec9597475b43a3b7532e72b7f971be"
+        },
+        {
+            "question": "If I had gone to university, I .............................................. business.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "will study",
+                "would study",
+                "would have studied"
+            ],
+            "correct": 2,
+            "id": "4bddd0b1f85c40c8910956e1b4665e0c"
+        },
+        {
+            "question": "We ............................................ in trouble if she had recognized us.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "will be",
+                "would have been",
+                "had been"
+            ],
+            "correct": 1,
+            "id": "4ca32ce266db4daf9306fc454ed94989"
+        },
+        {
+            "question": "If I ....................................... a little taller, I could be a model.",
+            "description": "In the second conditional we often use were instead of was.",
+            "answers": [
+                "am",
+                "was",
+                "were"
+            ],
+            "correct": 2,
+            "id": "8a1590c36f7a465b901c086381a2b356"
+        },
+        {
+            "question": "If we don't have a map, we .................................... be able to get out of here.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause. ",
+            "answers": [
+                "won't",
+                "wouldn't",
+                "wouldn't have been"
+            ],
+            "correct": 0,
+            "id": "8954eeebe08449759c66a34f67ef8985"
+        },
+        {
+            "question": "Which conditional is used to talk about real and possible situations?",
+            "description": "We can use either  zero conditional or first conditional to talk about real situations. ",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional"
+            ],
+            "correct": 1,
+            "id": "b0b8bcb4c36248a2acb488dfe5078403"
+        },
+        {
+            "question": "In the zero conditional, we use a ...................................... tense in both clauses.",
+            "description": "",
+            "answers": [
+                "simple present",
+                "simple past",
+                "past perfect"
+            ],
+            "correct": 0,
+            "id": "1f047f65cb9e4b4197053ac94c4dc69a"
+        }
+    ]
+}

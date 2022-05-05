@@ -1,0 +1,105 @@
+{
+    "id": "fc497f32fc3747e78f4771011bd9c4ab",
+    "title": "So, Too, Very",
+    "questions": [
+        {
+            "question": "The day was …………………….. hot that we didn’t go out.",
+            "description": "",
+            "answers": [
+                "so",
+                "very",
+                "too"
+            ],
+            "correct": 0,
+            "id": "4daaa0c6d21b4b1786a859a337957c98"
+        },
+        {
+            "question": "The box was ………………….. heavy for me to lift.",
+            "description": "",
+            "answers": [
+                "too",
+                "so",
+                "very"
+            ],
+            "correct": 0,
+            "id": "483b57096ccc44129860eef5918ccb36"
+        },
+        {
+            "question": "The box was …………………. heavy that I could not lift it.",
+            "description": "",
+            "answers": [
+                "so",
+                "too",
+                "very"
+            ],
+            "correct": 0,
+            "id": "c21f43107afe4172b4ad7f8266e0eb5c"
+        },
+        {
+            "question": "The task was ………………… difficult.",
+            "description": "",
+            "answers": [
+                "too",
+                "very",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "e38894213d3246a6968a24d57a26f98b"
+        },
+        {
+            "question": "There were far …………………. many letters to answer.",
+            "description": "",
+            "answers": [
+                "too",
+                "so",
+                "very"
+            ],
+            "correct": 0,
+            "id": "1abb01ada1434dd09f99a1f0a2a0540e"
+        },
+        {
+            "question": "The watch was …………………. expensive that I didn’t buy it.",
+            "description": "",
+            "answers": [
+                "so",
+                "very",
+                "too"
+            ],
+            "correct": 0,
+            "id": "cbf6dc7923a54ab9825f6f6b621b0046"
+        },
+        {
+            "question": "My new car cost me …………………… much.",
+            "description": "",
+            "answers": [
+                "very",
+                "so",
+                "too"
+            ],
+            "correct": 2,
+            "id": "a89a15f5a6b547e4887378ee24b4c28d"
+        },
+        {
+            "question": "………………… many people attended the meeting.",
+            "description": "",
+            "answers": [
+                "So",
+                "Very",
+                "Too"
+            ],
+            "correct": 0,
+            "id": "89815186d93449b88af7bf4cb1008181"
+        },
+        {
+            "question": "I don’t like him because his manners are …………………… bad.",
+            "description": "",
+            "answers": [
+                "too",
+                "very",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c578d247483f4febb919af833de1d3ea"
+        }
+    ]
+}

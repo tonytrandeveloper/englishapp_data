@@ -1,0 +1,137 @@
+{
+    "id": "868c49be119048649dd66b8c17ebe3a0",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "That is not ………………… the color I wanted.",
+            "description": "Not quite can mean not exactly.",
+            "answers": [
+                "quite",
+                "quiet",
+                "rather"
+            ],
+            "correct": 0,
+            "id": "6a258c64918e4046b7572412022e6a13"
+        },
+        {
+            "question": "You eat ……………… too much.",
+            "description": "Rather can modify comparatives and too.",
+            "answers": [
+                "rather",
+                "quite",
+                "very"
+            ],
+            "correct": 0,
+            "id": "8a355b53aeef40f9a803811bdfde4859"
+        },
+        {
+            "question": "My mother would rather we …………….. to each other any more.",
+            "description": "After would rather, we use a past tense with a present or future meaning.",
+            "answers": [
+                "don't talk",
+                "won't talk",
+                "didn't talk"
+            ],
+            "correct": 2,
+            "id": "052a8f8f29f743a29870bfc3feacb430"
+        },
+        {
+            "question": "I will go and see the Prime Minister himself if I have to.",
+            "description": "When words like himself, herself and themselves are used to mean ‘that person and nobody else’, it is used as an emphatic pronoun.",
+            "answers": [
+                "Here himself is used as an emphatic pronoun.",
+                "Here himself is used as a reflexive pronoun."
+            ],
+            "correct": 0,
+            "id": "3a10b12c063a4bd8a7c10c81f37ba923"
+        },
+        {
+            "question": "I will never forget the day ……………… my daughter was born.",
+            "description": "When can mean on which.",
+            "answers": [
+                "when",
+                "on which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "96624b9e8fdf44c0ac930a1d68608f98"
+        },
+        {
+            "question": "This is Ms. Malini ………………. last year.",
+            "description": "The relative pronoun acts as the subject or object of the relative clause. It replaces words like he, him, her etc. ",
+            "answers": [
+                "who you met",
+                "whom you met",
+                "whom you met her"
+            ],
+            "correct": 1,
+            "id": "006e63c2e972431aa2ceb76e920c61f4"
+        },
+        {
+            "question": "……………… money he has comes from his wife’s family.",
+            "description": "The sentence ‘What money he has…’ means the same as ‘The money that he has…’",
+            "answers": [
+                "What",
+                "That",
+                "Which"
+            ],
+            "correct": 0,
+            "id": "4d5bbfeb94cb4aeea966a88cc55fffc7"
+        },
+        {
+            "question": "They saved hundreds of refugees, ………………… had been at sea for several days.",
+            "description": "",
+            "answers": [
+                "of whom some",
+                "some of whom",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "6a47773c27d7499d932bd7746bf29a47"
+        },
+        {
+            "question": "He turned the radio down ...................... he wouldn’t disturb the old lady downstairs.",
+            "description": "So that suggests a cause and effect relationship. ",
+            "answers": [
+                "so that",
+                "so as to",
+                "in order to"
+            ],
+            "correct": 0,
+            "id": "bfd02348e6b1409d96b228b89f6a7b10"
+        },
+        {
+            "question": "A lot of social problems ……………. caused by unemployment.",
+            "description": "If the noun following ‘a lot of’ is plural, the verb is also plural.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "15a3109395b64654addd26295e03e7eb"
+        },
+        {
+            "question": "I will lend it to you on condition that you ……………… it back tomorrow.",
+            "description": "In subordinate clauses we often use the present tense to refer to the future",
+            "answers": [
+                "will bring",
+                "bring",
+                "would bring"
+            ],
+            "correct": 1,
+            "id": "62eb4dcd029d43a5bcb98811b077c40f"
+        },
+        {
+            "question": "It doesn’t matter what you .................... with your time or money.",
+            "description": "Present tenses are common after expressions like it doesn’t matter and I don’t care.",
+            "answers": [
+                "do",
+                "does",
+                "have",
+                "will do"
+            ],
+            "correct": 0,
+            "id": "24b74af9b1ec4b3d8548b01e014819c2"
+        }
+    ]
+}

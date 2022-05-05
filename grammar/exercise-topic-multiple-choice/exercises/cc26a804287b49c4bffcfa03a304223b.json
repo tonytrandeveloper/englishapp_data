@@ -1,0 +1,138 @@
+{
+    "id": "cc26a804287b49c4bffcfa03a304223b",
+    "title": "Intermediate Level Grammar Exercise",
+    "questions": [
+        {
+            "question": "I wish I ……………….. sing.",
+            "description": "A past tense is used after wish to talk about unrealized hopes.",
+            "answers": [
+                "can",
+                "could",
+                "will be able to"
+            ],
+            "correct": 1,
+            "id": "cf592b0a157b4c9fac005097b4ae0f96"
+        },
+        {
+            "question": "She is tired ………………… hungry.",
+            "description": "As well as means both...and...",
+            "answers": [
+                "as well as",
+                "also",
+                "as well"
+            ],
+            "correct": 0,
+            "id": "8bb01473de3a4b91a296f301828959de"
+        },
+        {
+            "question": "The roses are very beautiful. Change into exclamatory.",
+            "description": "",
+            "answers": [
+                "How beautiful are the roses!",
+                "How beautiful the roses are!",
+                "What beautiful the roses are!"
+            ],
+            "correct": 1,
+            "id": "1862feb503474cbe8af44aa5e1dc7572"
+        },
+        {
+            "question": "You cannot help him. He ……………….. (Change into passive)",
+            "description": "",
+            "answers": [
+                "cannot helped",
+                "cannot be helped",
+                "cannot be helping"
+            ],
+            "correct": 1,
+            "id": "6f55da6099d641a18be266718cde7735"
+        },
+        {
+            "question": "We saw a …………………. of ships in the harbor.",
+            "description": "We say a fleet of ships. This is an example of a collective noun. ",
+            "answers": [
+                "pack",
+                "fleet",
+                "pride"
+            ],
+            "correct": 1,
+            "id": "cd77aeae6ff84cd1ab6332b145c9c294"
+        },
+        {
+            "question": "…………………. is thicker than water. (Complete the proverb.)",
+            "description": "The correct expression is blood is thicker than water.",
+            "answers": [
+                "Blood",
+                "Milk",
+                "Ink"
+            ],
+            "correct": 0,
+            "id": "3ddc917997304b68b4837082d042dc45"
+        },
+        {
+            "question": "We …………………….. at the party.",
+            "description": "",
+            "answers": [
+                "enjoyed",
+                "enjoyed ourselves",
+                "enjoyed us"
+            ],
+            "correct": 1,
+            "id": "8461c668aa6d476dad5c14991fde87b6"
+        },
+        {
+            "question": "The man said that he ……………………… to do a lot of work.",
+            "description": "When the main verb is in the past tense, the verb in the subordinate clause too should be in the past tense.",
+            "answers": [
+                "has",
+                "had",
+                "has had"
+            ],
+            "correct": 1,
+            "id": "1daf7013a3c34f73a00de9ba4728cafb"
+        },
+        {
+            "question": "If you write more clearly, everyone …………………. to read it.",
+            "description": "",
+            "answers": [
+                "read",
+                "reads",
+                "will be able to"
+            ],
+            "correct": 2,
+            "id": "77c0f7afd8294f35adebebea098d9c03"
+        },
+        {
+            "question": "You …………………. stop arguing with me.",
+            "description": "Had better is used to give strong advice. ",
+            "answers": [
+                "have better",
+                "had better",
+                "should better"
+            ],
+            "correct": 1,
+            "id": "aa168adb90c8413bb93a459507b0d48d"
+        },
+        {
+            "question": "There is hardly any water in the well, ……………………..?",
+            "description": "Hardly is a negative word affirmative tags are used after negative statements. ",
+            "answers": [
+                "is there",
+                "isn't there",
+                "was there"
+            ],
+            "correct": 0,
+            "id": "ddd6a281bb904a6f92fab985d1a2bd54"
+        },
+        {
+            "question": "At sixes and sevens means in a ………………………..",
+            "description": "",
+            "answers": [
+                "in a state of helplessness",
+                "in a state of confusion",
+                "in a state of shock"
+            ],
+            "correct": 1,
+            "id": "17c5a6c436174427ae2d79fa053fd829"
+        }
+    ]
+}

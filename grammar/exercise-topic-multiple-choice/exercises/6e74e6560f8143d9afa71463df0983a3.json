@@ -1,0 +1,138 @@
+{
+    "id": "6e74e6560f8143d9afa71463df0983a3",
+    "title": "Conditional Clauses Exercise",
+    "questions": [
+        {
+            "question": "If you ………………………. the glass, it will break.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + first form of the verb in the main clause. ",
+            "answers": [
+                "drop",
+                "dropped",
+                "had dropped"
+            ],
+            "correct": 0,
+            "id": "a8534fb874f34166ace487f937b204a2"
+        },
+        {
+            "question": "If you start now, you ………………………… there on time.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + first form of the verb in the main clause. ",
+            "answers": [
+                "will be",
+                "would be",
+                "would have been"
+            ],
+            "correct": 0,
+            "id": "61ce172484cb43169575d2f6359e4cfe"
+        },
+        {
+            "question": "If he ………………………….. more money, he will have to do more work.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + first form of the verb in the main clause. ",
+            "answers": [
+                "wants",
+                "wanted",
+                "had wanted"
+            ],
+            "correct": 0,
+            "id": "78876b7b5eee4ec781979badcf60cf05"
+        },
+        {
+            "question": "If you ………………………… him, please ask him to give me a call.",
+            "description": "",
+            "answers": [
+                "meet",
+                "met",
+                "had met"
+            ],
+            "correct": 0,
+            "id": "9bfc573eebdf4b3a97e67432da578762"
+        },
+        {
+            "question": "If you ………………………….. hurry up, you will be late for school.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + first form of the verb in the main clause. ",
+            "answers": [
+                "don't",
+                "didn't",
+                "hadn't"
+            ],
+            "correct": 0,
+            "id": "a847ccf252a64042b724c4afce0522f5"
+        },
+        {
+            "question": "If I ………………………… a million dollars, I could buy that home.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would/could/might + first form of the verb in the main clause.",
+            "answers": [
+                "have",
+                "had",
+                "had had"
+            ],
+            "correct": 1,
+            "id": "9cb3c8738b7649fcb2be4a382ffef2c5"
+        },
+        {
+            "question": "If it rained, my plants …………………………. happy.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would/could/might + first form of the verb in the main clause.",
+            "answers": [
+                "will be",
+                "would be",
+                "would have been"
+            ],
+            "correct": 1,
+            "id": "7876d372a82a4dcdac31c6e33bf1b7f3"
+        },
+        {
+            "question": "If I ……………………………. the Prime Minister, I would ban the sale of liquor.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would/could/might + first form of the verb in the main clause.",
+            "answers": [
+                "were",
+                "am",
+                "had been"
+            ],
+            "correct": 0,
+            "id": "8f26988b815547d1891e566fb8c5e6ea"
+        },
+        {
+            "question": "If I …………………………. the signal, I would have stopped.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause.",
+            "answers": [
+                "see",
+                "saw",
+                "had seen"
+            ],
+            "correct": 2,
+            "id": "ad9468b9f8454ae6ad55a86ea36b9d63"
+        },
+        {
+            "question": "If you had told me you were coming, I ……………………………… cooked something special.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause.",
+            "answers": [
+                "will have",
+                "would have",
+                "have"
+            ],
+            "correct": 1,
+            "id": "28fb4ceeabb445db9f91e4f88e3ec98b"
+        },
+        {
+            "question": "If they ………………………………… him early, they could have saved him.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause.",
+            "answers": [
+                "found",
+                "find",
+                "had found"
+            ],
+            "correct": 2,
+            "id": "71d5c260185f435eab71e4e2d8dfda94"
+        },
+        {
+            "question": "If he had fallen into the river, he ………………………………..",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause.",
+            "answers": [
+                "will drown",
+                "would drown",
+                "would have drowned"
+            ],
+            "correct": 2,
+            "id": "f3a86363839f4627b8d9e5f464f3f8be"
+        }
+    ]
+}

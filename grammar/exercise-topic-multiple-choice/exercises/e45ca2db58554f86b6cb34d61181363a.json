@@ -1,0 +1,138 @@
+{
+    "id": "e45ca2db58554f86b6cb34d61181363a",
+    "title": "Comparison Exercise",
+    "questions": [
+        {
+            "question": "This shade is ……………………….. than that shade?",
+            "description": "Use a comparative form before than.",
+            "answers": [
+                "darker",
+                "dark",
+                "darkest"
+            ],
+            "correct": 0,
+            "id": "ed4dbb2568a2406ca6f71ed29d4e88dc"
+        },
+        {
+            "question": "Have you got any shades ………………………… than this?",
+            "description": "Use a comparative form before than.",
+            "answers": [
+                "light",
+                "lighter",
+                "lightest"
+            ],
+            "correct": 1,
+            "id": "80a9ac151ab8456fa3f181d5711554b0"
+        },
+        {
+            "question": "I am the ……………………….. in my family.",
+            "description": "We use the superlative to compare one thing with the whole group to which it belongs. ",
+            "answers": [
+                "short",
+                "shortest",
+                "shorter"
+            ],
+            "correct": 1,
+            "id": "6185717f8d9343379f80f7bd6150d7b0"
+        },
+        {
+            "question": "We must buy a ……………………….. car. This is not fast enough.",
+            "description": "Faster is the comparative form of fast. ",
+            "answers": [
+                "fastest",
+                "more fast",
+                "faster"
+            ],
+            "correct": 2,
+            "id": "f24f5a633f324473b583ea703d8744c0"
+        },
+        {
+            "question": "You are the ……………………….. person I have ever known.",
+            "description": "Funniest is the superlative form of funny. ",
+            "answers": [
+                "most funny",
+                "funniest",
+                "funnyest"
+            ],
+            "correct": 1,
+            "id": "c14906bf14ae4f7086beef9dc7d93d84"
+        },
+        {
+            "question": "Can a cat be as ………………………… as a dog?",
+            "description": "We use the structure as…as… to say that two people or things are equal.",
+            "answers": [
+                "faithful",
+                "more faithful",
+                "most faithful"
+            ],
+            "correct": 0,
+            "id": "203059bb2a0143d8a30eb0424f06405d"
+        },
+        {
+            "question": "She spoke ………………………… than her opponent in the debate.",
+            "description": "More confidently is the comparative form of confidently. ",
+            "answers": [
+                "confidentlier",
+                "more confidently",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "6fc3b35d7aad44d99b8b2f4eb81869d1"
+        },
+        {
+            "question": "We haven’t reached the station yet. We need to walk ……………………….",
+            "description": "When we are talking about physical distance farther and further are both possible. ",
+            "answers": [
+                "farther",
+                "further",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "a704b21e6d9b4c9cb25b42a1c56e3330"
+        },
+        {
+            "question": "What is the ………………………. price you are willing to take?",
+            "description": "Least is the superlative form of little. ",
+            "answers": [
+                "least",
+                "little",
+                "last"
+            ],
+            "correct": 0,
+            "id": "4ed996397fc74e70850fb3915351ee1a"
+        },
+        {
+            "question": "Lead is ………………………… than any other metal.",
+            "description": "Heavier is the comparative form of heavy. ",
+            "answers": [
+                "heavyier",
+                "more heavy",
+                "heavier"
+            ],
+            "correct": 2,
+            "id": "e986a830d6f64c41be0e85744c8e6bce"
+        },
+        {
+            "question": "If you had run ………………………… you could have caught him.",
+            "description": "",
+            "answers": [
+                "fast",
+                "faster",
+                "fastest"
+            ],
+            "correct": 1,
+            "id": "c91a936989e04812876f77ea6d66db65"
+        },
+        {
+            "question": "You are ……………………….. than anybody I know.",
+            "description": "",
+            "answers": [
+                "stubborner",
+                "more stubborn",
+                "most stubborn"
+            ],
+            "correct": 1,
+            "id": "644126696cea4507ba0d938c3897ade0"
+        }
+    ]
+}

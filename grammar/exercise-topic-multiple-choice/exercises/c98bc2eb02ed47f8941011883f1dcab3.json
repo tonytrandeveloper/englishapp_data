@@ -1,0 +1,137 @@
+{
+    "id": "c98bc2eb02ed47f8941011883f1dcab3",
+    "title": "Present Simple Exercise",
+    "questions": [
+        {
+            "question": "What ................... they wear to work?",
+            "description": "In the simple present tense, we make questions and negatives with do and does. Do is used with plural nouns and pronouns. Does is used with singular nouns and pronouns.",
+            "answers": [
+                "do",
+                "does",
+                "has"
+            ],
+            "correct": 0,
+            "id": "7e7169b3470845e5897694017491603c"
+        },
+        {
+            "question": "She ……………. not talk much.",
+            "description": "In the simple present tense, we make questions and negatives with do and does. Do is used with plural nouns and pronouns. Does is used with singular nouns and pronouns.",
+            "answers": [
+                "do",
+                "does"
+            ],
+            "correct": 1,
+            "id": "7e538d65f7df463f9b838a2de299b71b"
+        },
+        {
+            "question": "Where ................... he work?",
+            "description": "He is singular in number. Therefore, we use does with it.",
+            "answers": [
+                "do",
+                "does",
+                "has"
+            ],
+            "correct": 1,
+            "id": "11cfc251492c4cc59eb788e209e3a2d1"
+        },
+        {
+            "question": "John .................. know much about sailing.",
+            "description": "John is singular. Therefore, we use does with it.",
+            "answers": [
+                "do not",
+                "does not",
+                "has not"
+            ],
+            "correct": 1,
+            "id": "a74dc09a208e48f69a399a9300baed75"
+        },
+        {
+            "question": "I ..................... not have the time or patience to cook a proper meal.",
+            "description": "We use do with the first person singular pronoun I.",
+            "answers": [
+                "do",
+                "does",
+                "has"
+            ],
+            "correct": 0,
+            "id": "8726fa9bcb474f3aa74cb098458a7b37"
+        },
+        {
+            "question": "I am too busy these days and I .................. manage to leave office on time.",
+            "description": "We use do with the first person singular pronoun I.",
+            "answers": [
+                "do not",
+                "does not",
+                "has not"
+            ],
+            "correct": 0,
+            "id": "93d4f63ab0384f9787b008c66eab8365"
+        },
+        {
+            "question": "................... Susie come here often?",
+            "description": "Susie is singular. So we use does with it.",
+            "answers": [
+                "Does",
+                "Do",
+                "Has"
+            ],
+            "correct": 0,
+            "id": "e7870aff5a0a4e4ca909ff9ee521d25b"
+        },
+        {
+            "question": ".................... you find Berlin's weather cold?",
+            "description": "The second person pronoun you takes the auxiliary do.",
+            "answers": [
+                "Does",
+                "Do",
+                "Has"
+            ],
+            "correct": 1,
+            "id": "db1d0ad4a9284600b19e52856baa49c7"
+        },
+        {
+            "question": "Raj .................... not smoke or drink.",
+            "description": "Raj is singular, so we use does with it.",
+            "answers": [
+                "does",
+                "do",
+                "has"
+            ],
+            "correct": 0,
+            "id": "14f1ee12db054171b2fce67a2fe7e2c0"
+        },
+        {
+            "question": ".................... she know what she is doing?",
+            "description": "",
+            "answers": [
+                "Does",
+                "Do",
+                "Has"
+            ],
+            "correct": 0,
+            "id": "412a0e118d6549efad78ec46e7f4a70f"
+        },
+        {
+            "question": "Why .................. they always get into trouble?",
+            "description": "They is plural, so we use the plural verb do with it. ",
+            "answers": [
+                "Has",
+                "Do",
+                "Does"
+            ],
+            "correct": 1,
+            "id": "aef456aab43445cfb058ae8edc7e1d04"
+        },
+        {
+            "question": "What .................... you like to watch on TV?",
+            "description": "",
+            "answers": [
+                "do",
+                "does",
+                "have"
+            ],
+            "correct": 0,
+            "id": "986e92de647d41c2ba4bb17740734e1c"
+        }
+    ]
+}

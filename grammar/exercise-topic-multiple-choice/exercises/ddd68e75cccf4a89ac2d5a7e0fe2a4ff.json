@@ -1,0 +1,133 @@
+{
+    "id": "ddd68e75cccf4a89ac2d5a7e0fe2a4ff",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "Don’t they teach any ………………………. at that school?",
+            "description": "The plural manners means social behaviour.",
+            "answers": [
+                "manner",
+                "manners",
+                "mannerism"
+            ],
+            "correct": 1,
+            "id": "1e4afad8e6444e7b861578ff7749e722"
+        },
+        {
+            "question": "Many are called but ………………………… are chosen.",
+            "description": "",
+            "answers": [
+                "few",
+                "fewer",
+                "less",
+                "little"
+            ],
+            "correct": 0,
+            "id": "2ab29b8025f845a3a7f4c3e4a6ad7bae"
+        },
+        {
+            "question": "The old mariner had sailed the seas …………………………. 40 years.",
+            "description": "We use for with duration.",
+            "answers": [
+                "for",
+                "since",
+                "from"
+            ],
+            "correct": 0,
+            "id": "81b50648b44246d6a59ca8215dbf6a5f"
+        },
+        {
+            "question": "………………………… are the true makers of history.",
+            "description": "The masses means the common people.",
+            "answers": [
+                "Masses",
+                "The masses",
+                "The mass"
+            ],
+            "correct": 1,
+            "id": "a8e07bf1572b4f669aeaa80b04a710ce"
+        },
+        {
+            "question": "He showed a …………………………… grasp of the problem.",
+            "description": "",
+            "answers": [
+                "masterful",
+                "masterly",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4472eab870ef4a27a251bd7e1e6cfa76"
+        },
+        {
+            "question": "Tie the package with a strong ……………………….",
+            "description": "A cord is a rope or ropelike something.",
+            "answers": [
+                "cord",
+                "chord"
+            ],
+            "correct": 0,
+            "id": "702714a9edae4b189255fa9dc93c8b4f"
+        },
+        {
+            "question": "If you play a few ………………………….. on the guitar, I will sing along.",
+            "description": "A chord is a string for a musical instrument or a combination of musical tones.",
+            "answers": [
+                "cords",
+                "chords"
+            ],
+            "correct": 1,
+            "id": "763460aed6b6486ba7a8c85466891cbc"
+        },
+        {
+            "question": "With the ……………………….. of all the employees the work was done on time.",
+            "description": "Cooperation means working together.",
+            "answers": [
+                "cooperation",
+                "corporation"
+            ],
+            "correct": 0,
+            "id": "dd3a5a24d4f4433aa65fac0a71409f75"
+        },
+        {
+            "question": "I don’t believe in …………………………. punishment but I would love to give that boy a spanking.",
+            "description": "Corporal means bodily or physical. Corporeal has a similar meaning but it is not used in this sense.",
+            "answers": [
+                "corporal",
+                "corporeal"
+            ],
+            "correct": 0,
+            "id": "0b09b379ebcd4674a88c87eb843df76a"
+        },
+        {
+            "question": "The coroner was called to examine the …………………………",
+            "description": "Corpse means dead body.",
+            "answers": [
+                "corpse",
+                "corps"
+            ],
+            "correct": 0,
+            "id": "ad36c93b4bf34068982c893c8c6a2e86"
+        },
+        {
+            "question": "The general’s decision to invade was a …………………………. mistake.",
+            "description": "Costly is an adjective.",
+            "answers": [
+                "costy",
+                "costly",
+                "cost"
+            ],
+            "correct": 1,
+            "id": "4bb7a362ab984a678125aebbc967707e"
+        },
+        {
+            "question": "Is the witness’s story …………………………?",
+            "description": "Credible means believable.",
+            "answers": [
+                "credible",
+                "creditable"
+            ],
+            "correct": 0,
+            "id": "0e1e1e1b0f5043559960bf4ffd5cc44b"
+        }
+    ]
+}

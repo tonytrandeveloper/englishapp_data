@@ -1,0 +1,129 @@
+{
+    "id": "0cd375f5c6d144e1b40e11e2c91c330d",
+    "title": "Agreements And Disagreements",
+    "questions": [
+        {
+            "question": "‘You don’t like him.’ ‘Yes, I ………………’",
+            "description": "Disagreements with negative statements are made with yes+ pronoun + auxiliary verb",
+            "answers": [
+                "do",
+                "don't"
+            ],
+            "correct": 0,
+            "id": "322ed1f37c974c9d85a109349f6ac65e"
+        },
+        {
+            "question": "‘She doesn’t have a job.’ ‘……………………, she doesn’t.’",
+            "description": "Agreements with negative statements are made with ‘No + pronoun + auxiliary + n’t / not’.",
+            "answers": [
+                "Yes",
+                "No"
+            ],
+            "correct": 1,
+            "id": "caa76f119b4a4bf5b10d7a87bfd9586d"
+        },
+        {
+            "question": "‘It is a great film.’ ‘No, it …………………..’",
+            "description": "Disagreements with affirmative statements are made with ‘No + pronoun + auxiliary + n’t/not’.",
+            "answers": [
+                "is",
+                "isn't"
+            ],
+            "correct": 1,
+            "id": "573d8765c36c40f898babc9e49c76ce4"
+        },
+        {
+            "question": "Rocky cannot swim. ……………………… can I.",
+            "description": "Negative additions to negative statements are made with nor / neither + auxiliary + subject.",
+            "answers": [
+                "So",
+                "Either",
+                "Neither"
+            ],
+            "correct": 2,
+            "id": "940a81378a224c378b64eb59b79c0c0e"
+        },
+        {
+            "question": "She wasn’t late but you ……………………..",
+            "description": "Affirmative additions to negative remarks are made with but + subject + auxiliary.",
+            "answers": [
+                "were",
+                "weren't"
+            ],
+            "correct": 0,
+            "id": "3036d439c88541a0b72c683225e4577a"
+        },
+        {
+            "question": "‘He is drunk.’ ‘No, he ……………………..’",
+            "description": "Disagreements with affirmative statements are made with ‘no + pronoun + auxiliary + n’t/not’.",
+            "answers": [
+                "is",
+                "isn't"
+            ],
+            "correct": 1,
+            "id": "b1fd0d50cbb8444f96e476edb5e24e41"
+        },
+        {
+            "question": "He can speak German very well. ……………………….. can I.",
+            "description": "Affirmative additions to affirmative remarks are made with so + auxiliary + pronoun.",
+            "answers": [
+                "So",
+                "Either",
+                "Neither"
+            ],
+            "correct": 0,
+            "id": "14eee8bef6f3497e9f4c1fccb70591c5"
+        },
+        {
+            "question": "‘He won’t come again.’ ‘Yes, he ………………………’",
+            "description": "Disagreements with negative statements are made with yes+ pronoun + auxiliary verb.",
+            "answers": [
+                "will",
+                "won't"
+            ],
+            "correct": 0,
+            "id": "b6a5a06d7d2646e9a13c116842b1e32c"
+        },
+        {
+            "question": "‘I didn’t break it.’ ‘Yes, you ……………………..’",
+            "description": "Disagreements with negative statements are made with yes+ pronoun + auxiliary verb",
+            "answers": [
+                "did",
+                "didn't"
+            ],
+            "correct": 0,
+            "id": "926a368431f3429eb3f03b16861df97a"
+        },
+        {
+            "question": "Tom wasn’t there. ………………………… was his brother.",
+            "description": "Negative additions to negative remarks are made with ‘nor / neither + auxiliary + subject’.",
+            "answers": [
+                "Neither",
+                "So",
+                "Either"
+            ],
+            "correct": 0,
+            "id": "83bc76a4bae842d7997175de9654a09b"
+        },
+        {
+            "question": "I loved the movie but my brother ………………………",
+            "description": "",
+            "answers": [
+                "did",
+                "didn't"
+            ],
+            "correct": 1,
+            "id": "2c0c96ee64244777825382116d5ea148"
+        },
+        {
+            "question": "‘You don’t know him.’ ‘Yes, I …………………………..’",
+            "description": "",
+            "answers": [
+                "do",
+                "didn't"
+            ],
+            "correct": 0,
+            "id": "229051bbe4a9493fb7d929bac2270661"
+        }
+    ]
+}

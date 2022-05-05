@@ -1,0 +1,140 @@
+{
+    "id": "65407e1a95574403bb98154df6cc6ba6",
+    "title": "Articles And Determiners Exercise",
+    "questions": [
+        {
+            "question": "Yesterday I had …………………….. strange experience.",
+            "description": "Use 'a' to mean one.",
+            "answers": [
+                "a",
+                "the",
+                "some",
+                ""
+            ],
+            "correct": 0,
+            "id": "0d30b75430b247b09f8a6eb32b6442c4"
+        },
+        {
+            "question": "I saw ……………………. German tourists in the store.",
+            "description": "Use some in affirmative sentences. ",
+            "answers": [
+                "a",
+                "some",
+                "any"
+            ],
+            "correct": 1,
+            "id": "1f9077592a304a44bcc33d2ddbc6103d"
+        },
+        {
+            "question": "He has ………………………….. keen eye for detail.",
+            "description": "",
+            "answers": [
+                "a",
+                "the",
+                "some"
+            ],
+            "correct": 0,
+            "id": "29a68bed124343909abec7ac8156306a"
+        },
+        {
+            "question": "He was ……………………… only child of …………………….. rich merchant.",
+            "description": "Write 'the only child'. A rich merchant means any rich merchant. The rich merchant means a particular merchant. ",
+            "answers": [
+                "the, a",
+                "a, a",
+                "the, the"
+            ],
+            "correct": 2,
+            "id": "11187e286e334f0895027e61cde581d3"
+        },
+        {
+            "question": "……………………… person who died yesterday was ……………………… heart patient.",
+            "description": "",
+            "answers": [
+                "The, a",
+                "a, a",
+                "a, the"
+            ],
+            "correct": 0,
+            "id": "01953a64e8db4f309cf27eef815b8bc7"
+        },
+        {
+            "question": "………………….. film that we saw yesterday was interesting.",
+            "description": "We are talking about a particular film here hence use the.",
+            "answers": [
+                "The",
+                "A",
+                "Some"
+            ],
+            "correct": 0,
+            "id": "1bdec36e0ae74384973537787a121f43"
+        },
+        {
+            "question": "……………………… tea is very strong. You must add ………………………. more milk to it.",
+            "description": "",
+            "answers": [
+                "A, some",
+                "The, some",
+                "The, the"
+            ],
+            "correct": 1,
+            "id": "f0add30257704a41af9e72f2d2b6a69d"
+        },
+        {
+            "question": "Can I have ……………………… apples?",
+            "description": "Some or a few is possible here.",
+            "answers": [
+                "some",
+                "an",
+                "few",
+                "a few"
+            ],
+            "correct": 3,
+            "id": "8b952de049ad41d9a3bd39c7679dcc1e"
+        },
+        {
+            "question": "I saw ……………………. elephant in ……………………. zoo.",
+            "description": "An elephant means 'one' elephant. It can be any elephant. When we say the elephant, we are talking about a particular elephant. ",
+            "answers": [
+                "a, the",
+                "an, the",
+                "the, the"
+            ],
+            "correct": 2,
+            "id": "7def9a6e34724c3b803630b8f998d281"
+        },
+        {
+            "question": "Don’t make ………………………. noise. I must get …………………….. sleep.",
+            "description": "",
+            "answers": [
+                "any, some",
+                "some, any",
+                "any, any"
+            ],
+            "correct": 0,
+            "id": "6bf85f6f5ad2459aa699db97f94ca6ca"
+        },
+        {
+            "question": "People ride camels in ………………………… desert.",
+            "description": "",
+            "answers": [
+                "a",
+                "the",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "aab175f0e0124ba3b057b7d3b468085d"
+        },
+        {
+            "question": "There is ……………………. school for …………………….. deaf in this city.",
+            "description": "The deaf means all deaf people. ",
+            "answers": [
+                "a, the",
+                "a, a",
+                "the, the"
+            ],
+            "correct": 0,
+            "id": "469bbb6824124572b3d0283581245c79"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "id": "d2101389e30f45cfa510198249083837",
+    "title": "Reported Speech Exercise",
+    "questions": [
+        {
+            "question": "I told him ………………… interfere with me.",
+            "description": "",
+            "answers": [
+                "to not",
+                "not to",
+                "to don't"
+            ],
+            "correct": 1,
+            "id": "cf09b985fe62428594ff50f7f0636c09"
+        },
+        {
+            "question": "She asked me ………………… at once.",
+            "description": "",
+            "answers": [
+                "leave",
+                "to leave",
+                "that I leave"
+            ],
+            "correct": 1,
+            "id": "7d20f3da6c7d4672ae58f3c212ec22f0"
+        },
+        {
+            "question": "I asked him if he …………………. finished the work.",
+            "description": "",
+            "answers": [
+                "has",
+                "have",
+                "had"
+            ],
+            "correct": 2,
+            "id": "6f2f14e58bbd4db487da81bee1280365"
+        },
+        {
+            "question": "The teacher asked us ………………… on time.",
+            "description": "",
+            "answers": [
+                "to be",
+                "for being"
+            ],
+            "correct": 0,
+            "id": "6a2b3030f41d42b3ae23bbd176b7b7d6"
+        },
+        {
+            "question": "He asked if he …………………. leave early.",
+            "description": "",
+            "answers": [
+                "can",
+                "could"
+            ],
+            "correct": 1,
+            "id": "9b47d971c36f4bcfa61bd13678207216"
+        },
+        {
+            "question": "They asked me ………………….. joining them.",
+            "description": "",
+            "answers": [
+                "that I was",
+                "if I was",
+                "if I am"
+            ],
+            "correct": 1,
+            "id": "39ad2071ef2c4b1387bb39905661f89a"
+        },
+        {
+            "question": "He …………………. me to come.",
+            "description": "",
+            "answers": [
+                "asked",
+                "asked me"
+            ],
+            "correct": 0,
+            "id": "e488cfafb37844cdbd6a51f384cc9b51"
+        },
+        {
+            "question": "She said that she ………………. anything from him.",
+            "description": "",
+            "answers": [
+                "hasn't heard",
+                "hadn't heard",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "868dfc67cb764043850ab0a82465e417"
+        },
+        {
+            "question": "She told me …………………. she wasn’t coming.",
+            "description": "",
+            "answers": [
+                "that",
+                "why",
+                "what"
+            ],
+            "correct": 1,
+            "id": "a6db473eb4644116a4ef318fd6a054b2"
+        },
+        {
+            "question": "I asked him what ………………….",
+            "description": "",
+            "answers": [
+                "was his problem",
+                "his problem was"
+            ],
+            "correct": 1,
+            "id": "54c14deaa15145058404d55cd94ca174"
+        }
+    ]
+}

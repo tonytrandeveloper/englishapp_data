@@ -1,0 +1,386 @@
+{
+    "id": "0175ed97f8ba4e27a7b5b06ac2ec14cd",
+    "title": "Adverbs or Adjectives 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John held the plate"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "carefully"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ". (careful / carefully)"
+                }
+            ],
+            "id": "ae76f693fa5c417ea467a8c591230846"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julia is a"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "careful"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "person. (careful / carefully)"
+                }
+            ],
+            "id": "6ab2c9aa1de945589887cedf9a0c5242"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I ran"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "quickly"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "to the station. (quick / quickly)"
+                }
+            ],
+            "id": "520992e82e0643379d7178f7da97f3d8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The journey was"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "quick"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ". (quick / quickly)"
+                }
+            ],
+            "id": "107954c479224e2f801b3c32e86024c9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You look"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "tired"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ". Didn't you sleep well? (tired / tiredly)"
+                }
+            ],
+            "id": "bdc3df48501c4b64ac32e8510eea713a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The baby rubbed her eyes"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "tiredly"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ". (tired / tiredly)"
+                }
+            ],
+            "id": "f2aefd8862644875b63d9b9afa7ad5d8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She sang"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "happily"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ". (happy / happily)"
+                }
+            ],
+            "id": "3f7a536948554327a1200589772cf254"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You sound"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "happy"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ". (happy / happily)"
+                }
+            ],
+            "id": "5387271639784f8dbf52826322b7031d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I speak English"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "well"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ". (well / good)"
+                }
+            ],
+            "id": "e4ed4e18234f45288eb43c70b861ca9b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Her English is"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "good"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ". (well / good)"
+                }
+            ],
+            "id": "eb959d4b74e3416dabb2336716bd9fb7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She cooks"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "terribly"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ". (terrible / terribly)"
+                }
+            ],
+            "id": "b9bf0daedb2a4117b0930010c3fe96f6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He is a"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "terrible"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "cook. (terrible / terribly)"
+                }
+            ],
+            "id": "a614d77156c94960a09a01cf39493f89"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The music was"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "beautiful"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ". (beautiful / beautifully)"
+                }
+            ],
+            "id": "4e895b9d312a435c920a70caf17c606d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She plays the piano"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "beautifully"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ". (beautiful / beautifully)"
+                }
+            ],
+            "id": "b788fa0c0b674c8ab7cd49fa84a4912a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That was a"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "clever"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "answer. (clever / cleverly)"
+                }
+            ],
+            "id": "f53e866566944cf29c312e669721b510"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She answered"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "cleverly"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ". (clever / cleverly)"
+                }
+            ],
+            "id": "c1db74e59e5448a39289b7c5de5b059a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Your flat seems"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "tidy"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "today. (tidy / tidily)"
+                }
+            ],
+            "id": "ddf53e8a75e34eb5a573ff102ecca0f6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He put the dishes away"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "tidily"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ". (tidy / tidily)"
+                }
+            ],
+            "id": "ffb71e30bbbd44e1874909c4c2d40618"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He spoke"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "warmly"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ". (warm / warmly)"
+                }
+            ],
+            "id": "0899f969c6204a808a2207cf426deb62"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She is a very"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "warm"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "person. (warm / warmly)"
+                }
+            ],
+            "id": "865f5d37b0d14e6ca12b0f7241d3337b"
+        }
+    ]
+}

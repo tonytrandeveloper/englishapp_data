@@ -1,0 +1,127 @@
+{
+    "id": "bd53ab6d12394d71bf641a961b221339",
+    "title": "Simple Present Or Present Perfect Tense Exercise",
+    "questions": [
+        {
+            "question": "I .....................… an old friend of mine yesterday.",
+            "description": "",
+            "answers": [
+                "meet",
+                "met",
+                "have met"
+            ],
+            "correct": 1,
+            "id": "9a42d7baf6e348088977a6a2ae50cb5a"
+        },
+        {
+            "question": "I ..................... all the plays of Shakespeare.",
+            "description": "",
+            "answers": [
+                "read",
+                "have read",
+                "had read"
+            ],
+            "correct": 1,
+            "id": "a03d7162cbec4ab2a264689c9561301c"
+        },
+        {
+            "question": "She ...................... in two films.",
+            "description": "",
+            "answers": [
+                "acted",
+                "has acted",
+                "have acted"
+            ],
+            "correct": 1,
+            "id": "0529e13270cf4aba949948f0e03ebea4"
+        },
+        {
+            "question": "I ....................... a ghost.",
+            "description": "",
+            "answers": [
+                "saw",
+                "see",
+                "have seen"
+            ],
+            "correct": 2,
+            "id": "dac25dec62de4e1198bfb4e6d3775ad6"
+        },
+        {
+            "question": "She ………………….. to help him.",
+            "description": "",
+            "answers": [
+                "refused",
+                "refuses",
+                "has refused"
+            ],
+            "correct": 0,
+            "id": "6c5fffef84f741409be58f23fece34df"
+        },
+        {
+            "question": "She …………………. home early.",
+            "description": "",
+            "answers": [
+                "leave",
+                "left",
+                "has left"
+            ],
+            "correct": 1,
+            "id": "1a412a116bd4476eb31bc3a911d92358"
+        },
+        {
+            "question": "Janet ...................... me a story the other day.",
+            "description": "",
+            "answers": [
+                "told",
+                "have told",
+                "tells"
+            ],
+            "correct": 0,
+            "id": "a136b7b0ce8544a69adcf6bd6fb5add5"
+        },
+        {
+            "question": "Maya and her family ...................... to Chicago last year.",
+            "description": "",
+            "answers": [
+                "move",
+                "moved",
+                "moves"
+            ],
+            "correct": 1,
+            "id": "766da24b7e354fd68a30f9803e6738c0"
+        },
+        {
+            "question": "I ..................... anything from them since then.",
+            "description": "",
+            "answers": [
+                "not hear",
+                "have not heard",
+                "did not hear"
+            ],
+            "correct": 1,
+            "id": "ad2ed85c125c49e9b336ab321c728dbb"
+        },
+        {
+            "question": "He ……………….. that he would not do it.",
+            "description": "",
+            "answers": [
+                "says",
+                "said",
+                "say"
+            ],
+            "correct": 1,
+            "id": "72b8b4597a0046d5b1149006457d2870"
+        },
+        {
+            "question": "Amir said nothing when he ………………. the news.",
+            "description": "",
+            "answers": [
+                "heard",
+                "have heard",
+                "has heard"
+            ],
+            "correct": 0,
+            "id": "3a54d8110d15471e81cae78a155e5044"
+        }
+    ]
+}

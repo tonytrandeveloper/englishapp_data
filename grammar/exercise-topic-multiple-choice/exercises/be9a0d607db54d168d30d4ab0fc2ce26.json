@@ -1,0 +1,133 @@
+{
+    "id": "be9a0d607db54d168d30d4ab0fc2ce26",
+    "title": "Noun Clause",
+    "questions": [
+        {
+            "question": "I often wonder ............................ he is getting on.",
+            "description": "",
+            "answers": [
+                "what",
+                "how",
+                "that"
+            ],
+            "correct": 1,
+            "id": "b68e86ec617a46c7b85dcab22ef9a144"
+        },
+        {
+            "question": "I want to know ..................................... she is angry with me.",
+            "description": "",
+            "answers": [
+                "that",
+                "why"
+            ],
+            "correct": 1,
+            "id": "0a7672ce99084505b46965e964d7c626"
+        },
+        {
+            "question": "He asked me ................................... I knew his name.",
+            "description": "",
+            "answers": [
+                "if",
+                "that",
+                "unless"
+            ],
+            "correct": 0,
+            "id": "002dd9eb9f2f49bba3b0c36e5ff7314c"
+        },
+        {
+            "question": "She said ........................................... she would not come.",
+            "description": "",
+            "answers": [
+                "if",
+                "that",
+                "whether"
+            ],
+            "correct": 1,
+            "id": "91035ef4f4bf4bb3b157f36bdbebe179"
+        },
+        {
+            "question": "I feel .................................. I will fail.",
+            "description": "",
+            "answers": [
+                "that",
+                "what"
+            ],
+            "correct": 0,
+            "id": "f9c7c6af4b5a47ffa557f686611fbb09"
+        },
+        {
+            "question": "I thought .................................... she would arrive.",
+            "description": "",
+            "answers": [
+                "that",
+                "what"
+            ],
+            "correct": 0,
+            "id": "f287f81882dc45f0afe031a12d21ed74"
+        },
+        {
+            "question": "...................................... you should cheat me hurts me.",
+            "description": "",
+            "answers": [
+                "What",
+                "That",
+                "Why"
+            ],
+            "correct": 1,
+            "id": "4ff8959e5c08496a9fd72b8eeb0173f8"
+        },
+        {
+            "question": "I don’t know ................................... I can get out of this mess.",
+            "description": "",
+            "answers": [
+                "that",
+                "how"
+            ],
+            "correct": 1,
+            "id": "9bbf2e2241f14ec993170445fa5eaa47"
+        },
+        {
+            "question": "I don’t know ...................................... he wants.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "if"
+            ],
+            "correct": 1,
+            "id": "75a4a5baef8a4704965f4bb2b7208cc4"
+        },
+        {
+            "question": "I went to see ..................................... had happened.",
+            "description": "",
+            "answers": [
+                "how",
+                "that",
+                "what"
+            ],
+            "correct": 2,
+            "id": "e5da49a89f1c4d6fb30e011f03a4315f"
+        },
+        {
+            "question": "Pay careful attention to ..................................... I am going to say.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "how"
+            ],
+            "correct": 1,
+            "id": "4996f794bfcd4cae8a27b8067fed0b58"
+        },
+        {
+            "question": "She told me ................................... she would be delighted to come.",
+            "description": "",
+            "answers": [
+                "as",
+                "that"
+            ],
+            "correct": 1,
+            "id": "30dc0f6a08cf4b80b71acb0ffc735572"
+        }
+    ]
+}

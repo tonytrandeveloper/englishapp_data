@@ -1,0 +1,106 @@
+{
+    "id": "ebbc3030e0f449f0a01b371ecae97a31",
+    "title": "Expect, Hope, And Wait",
+    "questions": [
+        {
+            "question": "We are ..................... for a lot of rain.",
+            "description": "",
+            "answers": [
+                "expecting",
+                "hoping",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "c02a0c1bfd8f4ef48272e887a6e8ba2a"
+        },
+        {
+            "question": "We are ...................... rain soon.",
+            "description": "",
+            "answers": [
+                "expecting",
+                "hoping",
+                "waiting"
+            ],
+            "correct": 0,
+            "id": "b45375d9f5e94756b1df8a42742740c4"
+        },
+        {
+            "question": "I am still …………………. to hear from him.",
+            "description": "",
+            "answers": [
+                "expecting",
+                "waiting",
+                "hoping",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "1cc154feb7cd4c12a70800303f054962"
+        },
+        {
+            "question": "My sister is ………………… a baby.",
+            "description": "",
+            "answers": [
+                "expecting",
+                "hoping",
+                "waiting"
+            ],
+            "correct": 0,
+            "id": "ede772b5172944349f805e65246d1ad6"
+        },
+        {
+            "question": "I ……………….. her at six, but she didn’t come.",
+            "description": "",
+            "answers": [
+                "waited",
+                "expected",
+                "hoped"
+            ],
+            "correct": 1,
+            "id": "715143586f2d439db5219134dd3e7fef"
+        },
+        {
+            "question": "I ………………….. for her until eight.",
+            "description": "",
+            "answers": [
+                "hoped",
+                "waited",
+                "expected"
+            ],
+            "correct": 1,
+            "id": "8d164df8c6c545d689566e428e973d4a"
+        },
+        {
+            "question": "We ………………… them to arrive in half an hour.",
+            "description": "",
+            "answers": [
+                "expect",
+                "wait",
+                "hope"
+            ],
+            "correct": 0,
+            "id": "387c40034b2d49299a661a0efd54c28d"
+        },
+        {
+            "question": "She is quite old – I ..................... her to be younger.",
+            "description": "",
+            "answers": [
+                "hoped",
+                "waited",
+                "expected"
+            ],
+            "correct": 2,
+            "id": "e4c53a88ba584a1d9eae676719872687"
+        },
+        {
+            "question": "We ....................... you can come and stay with us soon.",
+            "description": "",
+            "answers": [
+                "hope",
+                "expect",
+                "wait"
+            ],
+            "correct": 0,
+            "id": "c2c37a7d072b4321a9d0102ee00b42e1"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "id": "f72279ad294a496abd63a369139b8e25",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "It was my manager …………………… sent the parcel to James yesterday.",
+            "description": "In structures like these we can use the relative pronoun who or that to refer to a personal subject.",
+            "answers": [
+                "who",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "dbd5732cce654c4988fc38b750de1167"
+        },
+        {
+            "question": "It was the parcel …………………………. my brother sent to James yesterday.",
+            "description": "Who cannot be used to refer to an object.",
+            "answers": [
+                "that",
+                "who",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "b1c28ad79cf043319cd4f9a26028e1f7"
+        },
+        {
+            "question": "It is he …………………………. responsible.",
+            "description": "In a formal style we use subject pronoun + who + verb in this structure.",
+            "answers": [
+                "who is",
+                "that is"
+            ],
+            "correct": 0,
+            "id": "d070ddfea9854730a411651b0e7cedf8"
+        },
+        {
+            "question": "It is me ………………………… responsible.",
+            "description": "In an informal style we use ‘that + primary auxiliary’.",
+            "answers": [
+                "who am",
+                "that is",
+                "that am"
+            ],
+            "correct": 1,
+            "id": "634194e4e95d4954a1e792520d585afa"
+        },
+        {
+            "question": "It is you ………………………. in the wrong.",
+            "description": "In an informal style ‘that is’ is also possible here.",
+            "answers": [
+                "who are",
+                "that is",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "b328d1c09777471f838ec7ea50f2b4da"
+        },
+        {
+            "question": "……………………….. you need is rest.",
+            "description": "All that can mean what.",
+            "answers": [
+                "All",
+                "All that",
+                "What",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "e1800369537048a887e7675b59fd5f20"
+        },
+        {
+            "question": "……………………. I did was to touch the vase, and it broke.",
+            "description": "All that can mean what.",
+            "answers": [
+                "All",
+                "All that",
+                "What",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "aef7177be99f417ba2614df128e6005d"
+        },
+        {
+            "question": "………………………… where we live.",
+            "description": "",
+            "answers": [
+                "That is",
+                "There is",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "94d22b181f3d4ca58407db7c43a8473e"
+        },
+        {
+            "question": "The reason ………………………… I went to London was to see my cousin.",
+            "description": "Reason can be followed by why or that.",
+            "answers": [
+                "that",
+                "why",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "32fd25d5ecf44612ba02bd8e77b51670"
+        },
+        {
+            "question": "We moved to the countryside so that the children would have a garden …………………….",
+            "description": "In a less formal style we can use the infinitive + preposition instead of a relative pronoun. ",
+            "answers": [
+                "in which to play",
+                "to play in",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "aeabb419d1084650bfefd1e55ba031e2"
+        },
+        {
+            "question": "She was miserable unless she had people ……………………………….",
+            "description": "In a less formal style we can use the infinitive + preposition instead of a relative pronoun. ",
+            "answers": [
+                "with whom to talk",
+                "to talk to",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "0552e8841fbd4fe7ae682d25e5dbcccc"
+        },
+        {
+            "question": "Who is that girl …………………………. next to Peter?",
+            "description": "",
+            "answers": [
+                "sitting",
+                "who is sitting",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "af80ded0d36d460bad1ac8e125f1e456"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "d2a39a298e374d31b74ba32b2c3d6a1f",
+    "title": "Clauses Exercise",
+    "questions": [
+        {
+            "question": "The jury believed that the man was guilty.",
+            "description": "Here the clause ‘that the man was guilty’ is the object of the verb believed. Noun clauses act as the subject or object of the verb in the main clause.",
+            "answers": [
+                "Adjective clause",
+                "Noun clause",
+                "Adverb clause"
+            ],
+            "correct": 1,
+            "id": "f00071b48978407eaabd109f52b71247"
+        },
+        {
+            "question": "Come when you like.",
+            "description": "Here the clause ‘when you like’ modifies the noun come.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 2,
+            "id": "62d5f8729c1c4387b4afb8610a38b652"
+        },
+        {
+            "question": "I know the girl who won the prize.",
+            "description": "Here the clause ‘who won the prize’ modifies the noun girl. Adjective clauses give additional information about a noun or pronoun in the main clause.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 1,
+            "id": "ebedd81e8072450c8e6f9d6476f52fa9"
+        },
+        {
+            "question": "He confessed that he was guilty.",
+            "description": "Here the clause ‘that he was guilty’ is the object of the verb confessed.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 0,
+            "id": "f2a405607b904b8d89acdfcebbfe4d48"
+        },
+        {
+            "question": "I know you have great regard for him.",
+            "description": "Here the clause ‘you have great regard for him’ is the object of the verb know. ",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 0,
+            "id": "ab4aa9a257ff4a39b0617a6e1cc780a3"
+        },
+        {
+            "question": "Do you think that I am a fool?",
+            "description": "Here the clause ‘that I am a fool’ is the object of the verb think.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 0,
+            "id": "985f39097e5a485fbee58afbbbad4e4e"
+        },
+        {
+            "question": "Before I die I want to see Venice.",
+            "description": "Here the clause ‘before I die’ gives the time of the action mentioned in the main clause. Hence it is an adverb clause of time.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 2,
+            "id": "b9d2e5ee4b024e718e049e414f7a1bf5"
+        },
+        {
+            "question": "The hand that rocks the cradle rules the world.",
+            "description": "Here the clause ‘that rocks the cradle’ modifies the noun hand. ",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 1,
+            "id": "c77e76302fc64998910afeaee24245c8"
+        },
+        {
+            "question": "I know a boy whose father serves in the army.",
+            "description": "Here the clause ‘whose father serves in the army’ modifies the noun boy. ",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 1,
+            "id": "e5494d3f014946879fecb0608c69bafe"
+        },
+        {
+            "question": "I will not go until he arrives.",
+            "description": "Here the clause ‘until he arrives’ gives the time of the action mentioned in the main clause.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 2,
+            "id": "5d0cc24d28c7407390990fbb6ca4be72"
+        },
+        {
+            "question": "The coffee maker that I bought for my wife is expensive.",
+            "description": "Here the clause that I bought for my wife modifies the noun coffee maker.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 1,
+            "id": "08ca7240a4514c4ab5bc0b07f846a11e"
+        },
+        {
+            "question": "If you give respect, you get respect.",
+            "description": "Here the clause 'if you give respect' expresses a condition. Hence it is an adverb clause of condition. ",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 2,
+            "id": "798d1f654a7b4b06aef7c8910838fe31"
+        }
+    ]
+}

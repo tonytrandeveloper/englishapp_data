@@ -1,0 +1,140 @@
+{
+    "id": "a55534f992e64e8c8f0d4a0a36e6cbe1",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "I will not oppose your design. I cannot, ……………., approve it.",
+            "description": "However expresses a contrast between one sentence and the other.",
+            "answers": [
+                "but",
+                "however",
+                "thus",
+                "therefore"
+            ],
+            "correct": 1,
+            "id": "aecc6b27ec2444e9b76fdf4850ef0481"
+        },
+        {
+            "question": "He was obstinate ......................, he was punished.",
+            "description": "We use ‘therefore’ to join sentences in which one statement is inferred from the other.",
+            "answers": [
+                "however",
+                "therefore",
+                "but"
+            ],
+            "correct": 1,
+            "id": "1f09773f72a04e9ea52baa3d6316fe4a"
+        },
+        {
+            "question": "He failed, ………………., he persevered.",
+            "description": "Nevertheless expresses a contrast between one sentence and the other.",
+            "answers": [
+                "therefore",
+                "nevertheless",
+                "thus"
+            ],
+            "correct": 1,
+            "id": "886e34d2bc384b2bbfde9b29bc0440d6"
+        },
+        {
+            "question": "……………… a borrower nor a lender be.",
+            "description": "Note the pattern neither…nor.",
+            "answers": [
+                "Neither",
+                "Either",
+                "Or"
+            ],
+            "correct": 0,
+            "id": "0d9ffdb7faf048b0b0ea9aec5375bdef"
+        },
+        {
+            "question": "I was annoyed ………………. I kept quiet.",
+            "description": "All of these sentences can be used to express a contrast between one sentence and the other.",
+            "answers": [
+                "still",
+                "yet",
+                "but",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "284d58498fc44de688d97fb6b01c8935"
+        },
+        {
+            "question": "Make hay ……………… the sun shines.",
+            "description": "We can use while to say that two actions or situations go on at the same time.",
+            "answers": [
+                "while",
+                "until",
+                "unless"
+            ],
+            "correct": 0,
+            "id": "462dc5621ad04d71a1c9f1f30fd3051f"
+        },
+        {
+            "question": "Tired ………….. he was, I decided not to disturb him.",
+            "description": "As can mean because in this construction.",
+            "answers": [
+                "though",
+                "as",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "75708b8457924fe5859e1f9aa49b772d"
+        },
+        {
+            "question": "Bravely ……………….. they fought, they had no chance of winning.",
+            "description": "As and though can both mean ‘although’ in a special structure after an adjective or adverb.",
+            "answers": [
+                "as",
+                "though",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "de66e9ba4ad8417da42f4b6851eda538"
+        },
+        {
+            "question": "If A is equal to B and B is equal to C, …………….. A is equal to C.",
+            "description": "We can use ‘then’ to indicate a logical conclusion.",
+            "answers": [
+                "than",
+                "then",
+                "so"
+            ],
+            "correct": 1,
+            "id": "488792062c1b42139479fa48e24be37e"
+        },
+        {
+            "question": "I’m off on holiday, ……………… I won’t be seeing you for a while.",
+            "description": "So and then can both be used to mean ‘since that is so’. There is an important difference. Then is used when one speaker replies to another. Then is not normally used when the same speaker connects two ideas. ",
+            "answers": [
+                "so",
+                "then",
+                "than"
+            ],
+            "correct": 0,
+            "id": "7a556ea31f404fe59b8bb92bcd7fad73"
+        },
+        {
+            "question": "‘I will need the car.’ ‘………………. I suppose I will have to take a taxi.’",
+            "description": "So and then can both be used to mean ‘since that is so’. There is an important difference. Then is used when one speaker replies to another. Then is not normally used when the same speaker connects two ideas. So can be used in both situations. ",
+            "answers": [
+                "So",
+                "Then",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ff4b1dd08eda4292ac5ac50f6f1795d4"
+        },
+        {
+            "question": "I have come early …………….. I can talk to you.",
+            "description": "In an informal style, that can be dropped after so. ",
+            "answers": [
+                "so",
+                "so that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4298017fa2064afd8943ade986ba4878"
+        }
+    ]
+}

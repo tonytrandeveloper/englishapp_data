@@ -1,0 +1,359 @@
+{
+    "id": "87fd07aa4e194c089d5e710dfff563b0",
+    "title": "Linking Words of Reason (Because / Since / As / Due to / Owing to)",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We stayed inside"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "because of"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "the storm. (because / because of)"
+                }
+            ],
+            "id": "1e4aaa546b9c499d9c3a4bef62443735"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I wanted to stay longer"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "since"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "I was really enjoying the party. (since / because of)"
+                }
+            ],
+            "id": "03dea0aefc1d4063966fed6af32e1bca"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Amanda stayed at home"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "due to"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "her illness. (as / due to)"
+                }
+            ],
+            "id": "bc978993881e4277924ce800525f07ac"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Her lateness was"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "due to"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a terrible traffic jam. (due to / as)"
+                }
+            ],
+            "id": "a44275b96f114d4398cd1792dcd6b162"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Since",
+                        "since"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "flights are cheaper in the winter, we decided to travel then. (since / owing to)"
+                }
+            ],
+            "id": "02e85976ffd7436794cee091d8f17225"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "As",
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "she hated cats, she wasn't happy when her husband bought three. (as / because of)"
+                }
+            ],
+            "id": "75c1b181b57b4ee0b3b2763b8864b94e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John didn't go to work,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "owing to"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "his illness. (owing to / as)"
+                }
+            ],
+            "id": "eee913b0561f42a1b3b3bb1d1dc22e33"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Because",
+                        "because"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "Lucy was very tired, she went to bed early. (because / due to)"
+                }
+            ],
+            "id": "075f2b52f11a4669a0cf435ab2e81f79"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Owing to",
+                        "owing to"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "his late night, John missed his train. (because / owing to)"
+                }
+            ],
+            "id": "90805b28fd4747588e6348b3f3d7bcd5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy was very unhappy,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "for"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "she missed James. (for / owing to)"
+                }
+            ],
+            "id": "fdbd90880b154656ba7f444983902d86"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Due to"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "the terrible weather, we decided not to walk home. (as / due to)"
+                }
+            ],
+            "id": "ad9463d584a64f4eb2988cae0318f712"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I was very happy with my present"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "it was exactly what I wanted. (as / owing to)"
+                }
+            ],
+            "id": "3f44862fb4a94588bf8d49aaed0cf201"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Keiko ordered her meal without meat"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "since"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "she is a vegetarian. (due to / since)"
+                }
+            ],
+            "id": "f3ffb0e15101417498e65ecd917ca644"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I didn't want to leave"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "I was having a great time. (because of / as)"
+                }
+            ],
+            "id": "d340488821e04fd183e253b41ac69557"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Luca bought the shoes"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "since"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "they were perfect. (owing to / since)"
+                }
+            ],
+            "id": "3d3efcfabbce4e4c95c4ddcc53e4f384"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We were late for the plane"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "because of"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "the traffic. (because of / because)"
+                }
+            ],
+            "id": "213102c4f5b94b68aa9e290365b432ec"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "As",
+                        "as"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "it was really cold, I put on my gloves and my hat. (for / as)"
+                }
+            ],
+            "id": "cfe9ee84ebcc4782bd639fef7bf8949e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She couldn't come"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "because"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "she had to work. (due to / because)"
+                }
+            ],
+            "id": "65e74ad9acae48ab8a8582a4d58ebf42"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Owing to"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "its high price, we didn't rent the flat. (owing to / because)"
+                }
+            ],
+            "id": "38347197007d491ea33c669ae818b698"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Because of"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "his great cooking, we love going to dinner at Taka's house. (because of / since)"
+                }
+            ],
+            "id": "c4c26173500d445d80110e6a3cf7bb56"
+        }
+    ]
+}

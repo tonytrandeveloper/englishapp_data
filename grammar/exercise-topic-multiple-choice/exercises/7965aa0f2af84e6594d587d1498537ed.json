@@ -1,0 +1,81 @@
+{
+    "id": "7965aa0f2af84e6594d587d1498537ed",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "……………………….. being fined, he had his license revoked.",
+            "description": "Besides means in addition to.",
+            "answers": [
+                "Beside",
+                "Besides"
+            ],
+            "correct": 1,
+            "id": "f4dfbd1136f3430484b4723fd481602e"
+        },
+        {
+            "question": "It is ……………………. interesting.",
+            "description": "When present participles are used as adjectives, we use very with it.",
+            "answers": [
+                "much",
+                "very",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "02c5e15c241f4711be32a1f337e4c996"
+        },
+        {
+            "question": "I was ………………………….. interested in the lesson.",
+            "description": "When past participles are used as adjectives, we use much with it.",
+            "answers": [
+                "very",
+                "much",
+                ""
+            ],
+            "correct": 1,
+            "id": "5231d64bafb7493daa283c4a1d63ac5a"
+        },
+        {
+            "question": "I am ………………………. sorry to hear about your loss.",
+            "description": "Do not use quite in the sense of very.",
+            "answers": [
+                "very",
+                "much",
+                "quite"
+            ],
+            "correct": 0,
+            "id": "03e10e47e0d64e5e88e261097a015344"
+        },
+        {
+            "question": "I have eaten nothing …………………….. yesterday.",
+            "description": "Since is used before a noun/phrase denoting some point of time, and is preceded by a verb in the perfect tense.",
+            "answers": [
+                "since",
+                "from",
+                "for"
+            ],
+            "correct": 0,
+            "id": "d9591db2d30646a090e25bbdace8475b"
+        },
+        {
+            "question": "I commenced work ……………………. Monday.",
+            "description": "From is also used to give the starting point of something. It is used with all tenses.",
+            "answers": [
+                "since",
+                "from",
+                "for"
+            ],
+            "correct": 1,
+            "id": "e34e6805174f46478c1e950e2c360523"
+        },
+        {
+            "question": "I have never seen a more ……………………… match.",
+            "description": "",
+            "answers": [
+                "exciting",
+                "excited"
+            ],
+            "correct": 0,
+            "id": "e6282634ee0e4a5a8efbb357edaa05ba"
+        }
+    ]
+}

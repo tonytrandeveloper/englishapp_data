@@ -1,0 +1,136 @@
+{
+    "id": "810c89406a804f8581fee2530e30086c",
+    "title": "Conditionals Exercise",
+    "questions": [
+        {
+            "question": "If I were you I ............................................ pay 200 dollars for that coat.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause.",
+            "answers": [
+                "won't",
+                "wouldn't"
+            ],
+            "correct": 1,
+            "id": "d6f5e2a4d03843548c1e020429fbbb2e"
+        },
+        {
+            "question": "If you ............................................ red and green, you get yellow.",
+            "description": "In a zero conditional sentence, we use a simple present tense in both clauses. The zero conditional is used to talk about real situations.",
+            "answers": [
+                "mix",
+                "will mix",
+                "would mix"
+            ],
+            "correct": 0,
+            "id": "8736d051e6724d4c9d48764fe8ec4cb3"
+        },
+        {
+            "question": "If I had known about the consequences, I .............................................. it.",
+            "description": "In the third conditional we use a past perfect in the if-clause and would have + past participle in the main clause.",
+            "answers": [
+                "will never do",
+                "would never do",
+                "would never have done"
+            ],
+            "correct": 2,
+            "id": "707744c84a614fb28558278e0512adc0"
+        },
+        {
+            "question": "Unless you get enough rest, you .............................................. ill.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause.",
+            "answers": [
+                "will fall",
+                "would fall",
+                "would have fallen"
+            ],
+            "correct": 0,
+            "id": "1d019c7a15424290a83e907ad347e385"
+        },
+        {
+            "question": "............................................ I known, I would have helped.",
+            "description": "This is similar to 'If I had known, I would have helped'. In the third conditional, we use a past perfect tense in the if clause and would have  + past participle in the main clause.",
+            "answers": [
+                "Had",
+                "Were",
+                "Should"
+            ],
+            "correct": 0,
+            "id": "04c7bec134c844198969096ee8b968e7"
+        },
+        {
+            "question": "Unless you .............................................. gambling, you will face many problems.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause.",
+            "answers": [
+                "quit",
+                "will quit",
+                "would quit"
+            ],
+            "correct": 0,
+            "id": "956a7af979b94845a86b24cb199ae1b2"
+        },
+        {
+            "question": "If I knew her name, I .............................................. you.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause.",
+            "answers": [
+                "will tell",
+                "would tell",
+                "would have told"
+            ],
+            "correct": 1,
+            "id": "be217118e887472db4a00b99528a0bbc"
+        },
+        {
+            "question": "If she knew you, why .............................................. she say Hi?",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause.",
+            "answers": [
+                "don't",
+                "didn't",
+                "hadn't"
+            ],
+            "correct": 1,
+            "id": "6955d11429e24ca7beff984cc058a3ba"
+        },
+        {
+            "question": "................................................. your help, I would have been in real trouble.",
+            "description": "",
+            "answers": [
+                "But for",
+                "If only"
+            ],
+            "correct": 0,
+            "id": "db2509b4bc10454ca681e95dba2f9168"
+        },
+        {
+            "question": "I ............................................. retire if I won the lottery.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause.",
+            "answers": [
+                "will",
+                "would",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "7193d8b6379047f1bd4dc5b5a4d90611"
+        },
+        {
+            "question": "How .............................................. you react if you were in my position?",
+            "description": "",
+            "answers": [
+                "will",
+                "would",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1ba2ee4914284fc4bb83bb4f82d73e5a"
+        },
+        {
+            "question": "You will catch cold if you .......................................... out without a coat.",
+            "description": "",
+            "answers": [
+                "go",
+                "will go",
+                "went"
+            ],
+            "correct": 0,
+            "id": "141af2a110394b648a1908a073d5d2be"
+        }
+    ]
+}

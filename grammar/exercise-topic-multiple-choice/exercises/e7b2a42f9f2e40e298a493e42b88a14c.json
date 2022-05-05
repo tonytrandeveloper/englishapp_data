@@ -1,0 +1,137 @@
+{
+    "id": "e7b2a42f9f2e40e298a493e42b88a14c",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "You may come …………………………… you want.",
+            "description": "Whenever is used to mean that it does not matter when.",
+            "answers": [
+                "whenever",
+                "ever",
+                "whatever"
+            ],
+            "correct": 0,
+            "id": "c201c6c95837408fbec910aad71fb781"
+        },
+        {
+            "question": "…………………………. I was not there, I could not meet him.",
+            "description": "We use as to introduce the reason for something.",
+            "answers": [
+                "As",
+                "So",
+                "Though"
+            ],
+            "correct": 0,
+            "id": "0ceb31faff864eac9cd57edf6ee07b95"
+        },
+        {
+            "question": "She was late ………………………………. she could not watch the program.",
+            "description": "We use so to indicate the result or effect or the action mentioned in the previous clause.",
+            "answers": [
+                "so",
+                "because",
+                "as"
+            ],
+            "correct": 0,
+            "id": "bb02ed647e0d4a57b4cb03ff5b2b91ae"
+        },
+        {
+            "question": "……………………………. you broke the law you shall be punished.",
+            "description": "We use because to indicate the reason for something.",
+            "answers": [
+                "Because",
+                "So",
+                "Hence"
+            ],
+            "correct": 0,
+            "id": "93fcee33e17042328ca736d136dd1813"
+        },
+        {
+            "question": "He won the match …………………………. his injuries.",
+            "description": "Before a noun we use a preposition.",
+            "answers": [
+                "despite",
+                "though",
+                "however"
+            ],
+            "correct": 0,
+            "id": "a7f238757040497196a572ef4a93b1a1"
+        },
+        {
+            "question": "……………………………… he was suffering from injuries, he won the match.",
+            "description": "We use although to connect two contrasting ideas. Note that it is a conjunction and hence it is followed by a clause.",
+            "answers": [
+                "Although",
+                "In spite of",
+                "However"
+            ],
+            "correct": 0,
+            "id": "58897b03ff5d4671a3dccd41a0c08eb7"
+        },
+        {
+            "question": "He advanced …………………………….. he could.",
+            "description": "As far is used to indicate distance.",
+            "answers": [
+                "until",
+                "as",
+                "as far as"
+            ],
+            "correct": 2,
+            "id": "e126840200674452bab27eabba9e327e"
+        },
+        {
+            "question": "I waited for him ………………………….. 10 o’clock.",
+            "description": "Until is used to indicate time.",
+            "answers": [
+                "until",
+                "up to",
+                "as far as"
+            ],
+            "correct": 0,
+            "id": "0e734f6d9fd24de6a455fe103d447582"
+        },
+        {
+            "question": "…………………………… you have apologized, we will not take any further actions against you.",
+            "description": "We use since to introduce the reason for something.",
+            "answers": [
+                "Since",
+                "Hence",
+                "Thus"
+            ],
+            "correct": 0,
+            "id": "2989d5818df04e4eb277b0b4760bb866"
+        },
+        {
+            "question": "I will remain ………………………….. I am.",
+            "description": "",
+            "answers": [
+                "where",
+                "there",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "eeed23e920274b2394ab00370347da72"
+        },
+        {
+            "question": "…………………………….. I was younger, I could run faster.",
+            "description": "",
+            "answers": [
+                "When",
+                "Whenver"
+            ],
+            "correct": 0,
+            "id": "7099e7a2b2cb407f9fe150c3593e8fe7"
+        },
+        {
+            "question": "It was so dark ……………………………… I could not see anything.",
+            "description": "\r\nThe conjunction so..that is used to indicate cause and effect. \r\n",
+            "answers": [
+                "that",
+                "hence",
+                "thus"
+            ],
+            "correct": 0,
+            "id": "907128fa514c46acb5ec8d416d3f4461"
+        }
+    ]
+}

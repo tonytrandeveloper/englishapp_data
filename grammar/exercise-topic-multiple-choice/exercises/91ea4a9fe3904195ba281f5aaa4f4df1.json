@@ -1,0 +1,126 @@
+{
+    "id": "91ea4a9fe3904195ba281f5aaa4f4df1",
+    "title": "Will vs. Would",
+    "questions": [
+        {
+            "question": "I .......................... watch a movie if I have time.",
+            "description": "When the verb in the if-clause is in the simple present tense, we use will + first form of the verb in the main clause.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "281ff3f956bf420d96c15a4d26f55b39"
+        },
+        {
+            "question": "....................................... you like something to eat?",
+            "description": "We use would in polite offers.",
+            "answers": [
+                "Will",
+                "Would"
+            ],
+            "correct": 1,
+            "id": "4df2d5a35c014c1dab5edcc98520c645"
+        },
+        {
+            "question": "I promise, I ................................. not repeat this.",
+            "description": "Will is used in promises.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "70cb95df2df44a21878686337ebf7b89"
+        },
+        {
+            "question": "'I am starving.' 'I ............................. get you something to eat.'",
+            "description": "Will is used to announce decisions that we make at the time of speaking.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "826802dba4bb42d09ea2c233f963a30c"
+        },
+        {
+            "question": "I didn't think that I ........................................ pass the test.",
+            "description": "When the main verb is in the past tense, we use would in the subordinate clause.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "2531fb91066042248131c222055d9805"
+        },
+        {
+            "question": "If you asked me, I ....................................... help you.",
+            "description": "In the second conditional we use a simple past tense in the if-clause and would + first form of the verb in the main clause.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "6f3fce8fa33c4d6d91a3397a24a8d54c"
+        },
+        {
+            "question": "I hope I ......................................... pass the test.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "2fed09b3a5cf470a8de7a3e5bbf93645"
+        },
+        {
+            "question": "I .................................. stay up late if there was a good reason to.",
+            "description": "In the second conditional we use a simple past tense in the if-clause and would + first form of the verb in the main clause.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "e962f7a253e340f491109b072e2bd37a"
+        },
+        {
+            "question": "Do you think she .................................... help if we asked her?",
+            "description": "In the second conditional we use a simple past tense in the if-clause and would + first form of the verb in the main clause.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "18703d0a2cbc4b5ea9593d2bbd199eb5"
+        },
+        {
+            "question": "I don't know whether I ..................................... come or not.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "7fcfc13d031d4f7b8691f98d1a4fa386"
+        },
+        {
+            "question": "I ..................................... call you when I am ready.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "9c47575741de4611a6a81588dffd7053"
+        },
+        {
+            "question": "Whom do you think ..................................... win?",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "9e50f4d069d5478394ac92ae207dd605"
+        }
+    ]
+}

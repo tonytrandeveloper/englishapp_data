@@ -1,0 +1,143 @@
+{
+    "id": "d31aaab7b65e4e40ab3f6b37ba544747",
+    "title": "Phrasal Verbs With Turn, Stand, And Set",
+    "questions": [
+        {
+            "question": "The factory turns …………………. hundreds of bicycles every day.",
+            "description": "To turn out is to produce. ",
+            "answers": [
+                "off",
+                "on",
+                "out"
+            ],
+            "correct": 2,
+            "id": "47caae0f2c0d47ad97fb2488f0996fc1"
+        },
+        {
+            "question": "I did go to their place but they turned me ………………",
+            "description": "To turn somebody away is to refuse to allow them to enter a place. ",
+            "answers": [
+                "out",
+                "in",
+                "away",
+                "up"
+            ],
+            "correct": 2,
+            "id": "9fb1bd8d13f74d15a777b232a4969030"
+        },
+        {
+            "question": "They turned …………………. our offer.",
+            "description": "To turn something down is to reject it.",
+            "answers": [
+                "off",
+                "down",
+                "up"
+            ],
+            "correct": 1,
+            "id": "778df6623e0f471baa94398b5529cc44"
+        },
+        {
+            "question": "Her arrogance turned me ………………..",
+            "description": "To turn someone off is to make them feel bored or disgusted.",
+            "answers": [
+                "out",
+                "in",
+                "away",
+                "off"
+            ],
+            "correct": 3,
+            "id": "37f67dcae20648b4a2942a0e8be84dab"
+        },
+        {
+            "question": "I had invited all of my friends but none of them turned .....................",
+            "description": "To turn up is to put in an appearance.",
+            "answers": [
+                "out",
+                "up",
+                "in",
+                "off"
+            ],
+            "correct": 1,
+            "id": "a7e90c430ef242faa59c2d43c3fde575"
+        },
+        {
+            "question": "He turned ………………. to be a traitor.",
+            "description": "If something turns out, it proves to be the case.",
+            "answers": [
+                "on",
+                "out",
+                "in",
+                "off"
+            ],
+            "correct": 1,
+            "id": "7ee14c5f46c84a1e93b0c9d458431059"
+        },
+        {
+            "question": "The dog turned ………………. the visitor without any provocation.",
+            "description": "To turn on is to attack.",
+            "answers": [
+                "on",
+                "off",
+                "away",
+                "up"
+            ],
+            "correct": 0,
+            "id": "fcd8b13173de4811b9dd6b2d1a06e7b9"
+        },
+        {
+            "question": "We shall be invincible if we stand ………………… one another.",
+            "description": "To stand by someone is to support them.",
+            "answers": [
+                "on",
+                "by",
+                "out"
+            ],
+            "correct": 1,
+            "id": "e2023a193bfd4830b4014863deb1e2d4"
+        },
+        {
+            "question": "We must have the courage to stand …………………. for our rights.",
+            "description": "To stand up for something is to act in support of it.",
+            "answers": [
+                "out",
+                "up",
+                "over"
+            ],
+            "correct": 1,
+            "id": "1ce7b3c1095946abbc306a7b1e5e3bb4"
+        },
+        {
+            "question": "The High court set ………………….. the decree of the lower court.",
+            "description": "To set something aside is to annul a legal decision.",
+            "answers": [
+                "aside",
+                "on",
+                "off"
+            ],
+            "correct": 0,
+            "id": "331be52fcc274066b57e74f947815017"
+        },
+        {
+            "question": "He immediately set ...................... building a business.",
+            "description": "To set about is to start doing something with determination.",
+            "answers": [
+                "out",
+                "about",
+                "on"
+            ],
+            "correct": 1,
+            "id": "5bbd0a8a22b84c6ab842d875bb559a04"
+        },
+        {
+            "question": "We set ……………….. in the morning.",
+            "description": "To set off is to begin a journey.",
+            "answers": [
+                "on",
+                "about",
+                "off"
+            ],
+            "correct": 2,
+            "id": "0bbfd129bbe24e64a03ca1b0b3dc3406"
+        }
+    ]
+}

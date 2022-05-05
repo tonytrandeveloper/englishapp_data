@@ -1,0 +1,102 @@
+{
+    "id": "e6fa3bcb04724881b56371a8cea47aa5",
+    "title": "Conjunctions Or Prepositions",
+    "questions": [
+        {
+            "question": "…………………. I had a headache, I enjoyed the movie.",
+            "description": "",
+            "answers": [
+                "Although",
+                "Even if",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "c2a3ffbc38d1434592573a940d7ccf14"
+        },
+        {
+            "question": "We were late …………………. the rain.",
+            "description": "",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "5e5254faaa1546b99abcfff12df321ab"
+        },
+        {
+            "question": "We managed to reach on time ...................... the rain.",
+            "description": "",
+            "answers": [
+                "because",
+                "because of",
+                "in spite of"
+            ],
+            "correct": 2,
+            "id": "18586934c587443e86f5173368cb288a"
+        },
+        {
+            "question": "She went to work .....................… her illness.",
+            "description": "",
+            "answers": [
+                "despite",
+                "in spite",
+                "because"
+            ],
+            "correct": 0,
+            "id": "91f81b82e6a14d20b707080cf40d1956"
+        },
+        {
+            "question": "..................... his best efforts, he could not pass the test.",
+            "description": "",
+            "answers": [
+                "In spite of",
+                "Although",
+                "Because"
+            ],
+            "correct": 0,
+            "id": "37fbb48a179e4a5c9475afefee24df23"
+        },
+        {
+            "question": "The car is parked ....................... the post office.",
+            "description": "",
+            "answers": [
+                "in front of",
+                "before"
+            ],
+            "correct": 0,
+            "id": "aa6dd6c418ce4a7cb2406fe0b817f5f3"
+        },
+        {
+            "question": "I have bought a chicken ..................... Peter comes.",
+            "description": "",
+            "answers": [
+                "in case",
+                "if"
+            ],
+            "correct": 0,
+            "id": "d456a4e79cd24f99adaf834d8acf2681"
+        },
+        {
+            "question": "……………….. he hadn’t paid the fee, they cancelled his subscription.",
+            "description": "",
+            "answers": [
+                "Since",
+                "For",
+                "If"
+            ],
+            "correct": 0,
+            "id": "9e0e0c3f22474368943bb67f476c180f"
+        },
+        {
+            "question": "………………… his stellar performance, he could not advance to the next round.",
+            "description": "",
+            "answers": [
+                "Despite",
+                "In spite of",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "6bd9c1405e294f669dd1aa1e5d205492"
+        }
+    ]
+}

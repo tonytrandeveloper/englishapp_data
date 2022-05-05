@@ -1,0 +1,116 @@
+{
+    "id": "27a8e1e984db4edf9b8355e8730d655b",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "This is Jane ——————– works with my sister.",
+            "description": "",
+            "answers": [
+                "who",
+                "that",
+                "which"
+            ],
+            "correct": 0,
+            "id": "e79a8c0aea5b44a79729b3a9c0bdac6d"
+        },
+        {
+            "question": "The boy ———————— watch had been stolen complained to the police.",
+            "description": "",
+            "answers": [
+                "whom",
+                "whose",
+                "who's"
+            ],
+            "correct": 1,
+            "id": "437dd90a39f0489e964a29c5b3f9577b"
+        },
+        {
+            "question": "Mary had a little lamb ———————- fleece was as white as snow.",
+            "description": "",
+            "answers": [
+                "who",
+                "whose",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "36ba192ec2064c5cb04e468cd2dce971"
+        },
+        {
+            "question": "The house ———————- I live is very small.",
+            "description": "",
+            "answers": [
+                "that",
+                "where",
+                "which"
+            ],
+            "correct": 1,
+            "id": "b73ed9fb58b84e228c91cdbe58e1224d"
+        },
+        {
+            "question": "The castle ———————– stands on the hill is 500 years old.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "091af6c23cc74f9aa54858caeb48c601"
+        },
+        {
+            "question": "Do you know the man ———————– just walked in?",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "18bac4e1e412405e96895c3b20e91e77"
+        },
+        {
+            "question": "He ———————– laughs last laughs best.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "cbee00b44a604dc69501ac6a5311109c"
+        },
+        {
+            "question": "I have got the books ———————– you were looking for.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c9f5fc0ab2cb45ecb5db99393642e756"
+        },
+        {
+            "question": "Do you know the reason ————————- she hates me?",
+            "description": "",
+            "answers": [
+                "why",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "f3ea2373dc46421fb539ba1b4b61470a"
+        },
+        {
+            "question": "This is the road ————————- leads to the temple.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "6529d23964654e21b2deafc645c06055"
+        }
+    ]
+}

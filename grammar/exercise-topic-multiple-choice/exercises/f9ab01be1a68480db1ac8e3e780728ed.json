@@ -1,0 +1,138 @@
+{
+    "id": "f9ab01be1a68480db1ac8e3e780728ed",
+    "title": "Active And Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "They are preparing the report. / The report …………………………….. by them.",
+            "description": "In the present continuous tense, the passive form is made with is/are/am + being + past participle form of the verb.",
+            "answers": [
+                "is prepared",
+                "was prepared",
+                "is being prepared"
+            ],
+            "correct": 2,
+            "id": "ecdf9c4de96849bfa5b62c19c0a44624"
+        },
+        {
+            "question": "They took the child to hospital. / The child ………………………….. to hospital.",
+            "description": "In the simple past tense, the passive form is made with was/were + past participle form of the verb.",
+            "answers": [
+                "was taken",
+                "has taken",
+                "is taken"
+            ],
+            "correct": 0,
+            "id": "bf8d91d6a7ea4e57b4dfd9f75ce22e94"
+        },
+        {
+            "question": "She answered the question. / The question ………………………….. by her.",
+            "description": "In the simple past tense, the passive form is made with was/were + past participle form of the verb.",
+            "answers": [
+                "is answered",
+                "was answered",
+                "has answered"
+            ],
+            "correct": 1,
+            "id": "26a662f43af047edaef981cd508751e3"
+        },
+        {
+            "question": "She has written four novels. / Four novels ……………………………. by her.",
+            "description": "In the present perfect tense, the passive form is made with has/have + been + past participle form of the verb.",
+            "answers": [
+                "were written",
+                "have written",
+                "have been written"
+            ],
+            "correct": 2,
+            "id": "1dc20453da9548669bfde9a931809e06"
+        },
+        {
+            "question": "The chief guest gave away the prizes. / The prizes …………………………….. by the chief guest.",
+            "description": "In the simple past tense, the passive form is made with was/were + past participle form of the verb.",
+            "answers": [
+                "are given",
+                "were given",
+                "have been given"
+            ],
+            "correct": 1,
+            "id": "0753ccea64be47d6aa04ff6b6f9c935d"
+        },
+        {
+            "question": "The dacoit killed the traveler. / The traveler …………………………. by the dacoit.",
+            "description": "In the simple past tense, the passive form is made with was/were + past participle form of the verb.",
+            "answers": [
+                "has killed",
+                "was killed",
+                "had killed"
+            ],
+            "correct": 1,
+            "id": "64bdf1e3184844dea4ab80dc145ed4fd"
+        },
+        {
+            "question": "They robbed him at gunpoint. / He …………………………… at gunpoint.",
+            "description": "In the simple past tense, the passive form is made with was/were + past participle form of the verb.",
+            "answers": [
+                "is robbed",
+                "was being robbed",
+                "was robbed"
+            ],
+            "correct": 2,
+            "id": "6d631071e05d42199217e8a81bced38a"
+        },
+        {
+            "question": "He has won a lottery. / A lottery …………………………. by him.",
+            "description": "",
+            "answers": [
+                "was won",
+                "has been won",
+                "had been won"
+            ],
+            "correct": 1,
+            "id": "d38d118048d44854a27874548976afde"
+        },
+        {
+            "question": "They made all the furniture out of teak. / All the furniture …………………………. out of teak.",
+            "description": "In the simple past tense, the passive form is made with was/were + past participle form of the verb.",
+            "answers": [
+                "has been made",
+                "was made",
+                "had made"
+            ],
+            "correct": 1,
+            "id": "00a3501e2ce94aec8a72e350f4745df9"
+        },
+        {
+            "question": "She called me a liar. / I ……………………………… a liar.",
+            "description": "In the simple past tense, the passive form is made with was/were + past participle form of the verb.",
+            "answers": [
+                "called",
+                "am called",
+                "was called"
+            ],
+            "correct": 2,
+            "id": "f8683d55d4924ad6aeaa136e6b019d35"
+        },
+        {
+            "question": "He sells newspapers at the railway station. / Newspapers ………………………………… by him.",
+            "description": "In the simple present tense, the passive form is made with is/am/are + past participle form of the verb.",
+            "answers": [
+                "are sold",
+                "have sold",
+                "are being sold"
+            ],
+            "correct": 0,
+            "id": "4aee848c734042baaaac034c9abfa95b"
+        },
+        {
+            "question": "He bought the painting at an auction. / The painting …………………………… at an auction.",
+            "description": "In the simple past tense, the passive form is made with was/were + past participle form of the verb.",
+            "answers": [
+                "has bought",
+                "was bought",
+                "had been bought"
+            ],
+            "correct": 1,
+            "id": "d61dcf63ef0f425ca2bf8fcfb737d56d"
+        }
+    ]
+}

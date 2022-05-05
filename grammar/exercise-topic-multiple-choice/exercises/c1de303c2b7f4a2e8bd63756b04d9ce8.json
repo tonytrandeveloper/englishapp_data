@@ -1,0 +1,96 @@
+{
+    "id": "c1de303c2b7f4a2e8bd63756b04d9ce8",
+    "title": "Gerund Or Infinitive",
+    "questions": [
+        {
+            "question": "I tried ................................... a ticket, but they were all sold out.",
+            "description": "",
+            "answers": [
+                "to get",
+                "getting"
+            ],
+            "correct": 0,
+            "id": "ea872aceaeb74c3aad7852207314d382"
+        },
+        {
+            "question": "I tried ....................................... to the manager personally, but that didn’t help.",
+            "description": "",
+            "answers": [
+                "to speak",
+                "speaking"
+            ],
+            "correct": 1,
+            "id": "82397bc2a87b4d86bf5159dce584b7ff"
+        },
+        {
+            "question": "We regret ........................................... you that the flight has been cancelled.",
+            "description": "",
+            "answers": [
+                "to inform",
+                "informing"
+            ],
+            "correct": 0,
+            "id": "8b7ae3ab63e94b28a6f6e33d0f841d28"
+        },
+        {
+            "question": "The doctor has asked me to stop ...................................",
+            "description": "",
+            "answers": [
+                "to smoke",
+                "smoking"
+            ],
+            "correct": 1,
+            "id": "aaae51df51ad46859a3ec57ff4204c75"
+        },
+        {
+            "question": "She went on ......................................... a celebrated writer a few years later.",
+            "description": "",
+            "answers": [
+                "becoming",
+                "to become"
+            ],
+            "correct": 1,
+            "id": "8f92e5e42834433695a762404c330bf9"
+        },
+        {
+            "question": "I regret ....................................... so badly last night.",
+            "description": "",
+            "answers": [
+                "to behave",
+                "behaving"
+            ],
+            "correct": 1,
+            "id": "86bca584a5d5497fb6db81ceb3399182"
+        },
+        {
+            "question": "Remember ............................................ me up at 6 am.",
+            "description": "",
+            "answers": [
+                "to wake",
+                "waking"
+            ],
+            "correct": 0,
+            "id": "50a41b7516d34cf296237bcaff3a2b3d"
+        },
+        {
+            "question": "I forgot ...................................... the door before I left.",
+            "description": "",
+            "answers": [
+                "to lock",
+                "locking"
+            ],
+            "correct": 0,
+            "id": "84cb870db3a4419181100614b52f91ff"
+        },
+        {
+            "question": "I remember ......................................... the keys on the table.",
+            "description": "",
+            "answers": [
+                "to leave",
+                "leaving"
+            ],
+            "correct": 1,
+            "id": "8f4946f277ac4f2ab58a04531e4b370d"
+        }
+    ]
+}

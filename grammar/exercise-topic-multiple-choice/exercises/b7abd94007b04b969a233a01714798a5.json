@@ -1,0 +1,138 @@
+{
+    "id": "b7abd94007b04b969a233a01714798a5",
+    "title": "Nouns And Adjectives",
+    "questions": [
+        {
+            "question": "I have the ………………………. to visit New Zealand next month.",
+            "description": "",
+            "answers": [
+                "opportunity",
+                "possibility",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "93e3d78e674d4705a0922ed19312667b"
+        },
+        {
+            "question": "There is a/an …………………………. of my visiting New Zealand next month.",
+            "description": "We say there is a possibility of something happening. ",
+            "answers": [
+                "opportunity",
+                "possibility",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "a988f8e7d5394009a2436180c207f4ec"
+        },
+        {
+            "question": "She drove off in the ………………………...",
+            "description": "We put opposite before a noun to talk about one of a pair of things that naturally face each other. ",
+            "answers": [
+                "direction opposite",
+                "opposite direction",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "357f6b2aac974059bdef4ab64f2d47b4"
+        },
+        {
+            "question": "My brother is playing on the ………………………….",
+            "description": "We put opposite before a noun to talk about one of a pair of things that naturally face each other. ",
+            "answers": [
+                "side opposite",
+                "opposite side",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "63191a321910486e893b441afa5835f4"
+        },
+        {
+            "question": "Suddenly I noticed that the …………………………. was staring at me.",
+            "description": "We put opposite after the noun when it means ‘facing the speaker’.",
+            "answers": [
+                "opposite man",
+                "man opposite",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "2d4317fcf1634b1597cdd555fd9faffa"
+        },
+        {
+            "question": "I can read your mind like an ……………………….. book.",
+            "description": "We use open as the adjective. The past participle opened is not used as an adjective. ",
+            "answers": [
+                "open",
+                "opened",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "f31deb3073be4cff952c368a07d2c017"
+        },
+        {
+            "question": "Is the bank ……………………… on Saturdays?",
+            "description": "We use open as the adjective.",
+            "answers": [
+                "open",
+                "opened",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "791a406311404b0985658be6823a4702"
+        },
+        {
+            "question": "I cannot …………………………… this shoelace?",
+            "description": "We do not normally use open to talk about the unfastening of clothes.  Instead we use untie or undo. ",
+            "answers": [
+                "untie",
+                "undo",
+                "open"
+            ],
+            "correct": 1,
+            "id": "303cfe84bbb240499fe1cce9c42517b9"
+        },
+        {
+            "question": "Who left the taps …………………………?",
+            "description": "We do not normally use open with switches and taps.",
+            "answers": [
+                "open",
+                "turned on",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3b78ed42ec0a4c6f93b0b306c14438fe"
+        },
+        {
+            "question": "One of my ………………………. is an actor.",
+            "description": "After one of, we need a plural noun.",
+            "answers": [
+                "friend",
+                "friends",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "522a517f30c8448492273b10d5e781ab"
+        },
+        {
+            "question": "One of our pigs …………………………. disappeared.",
+            "description": "The verb is singular after one of.",
+            "answers": [
+                "has",
+                "have",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "0326346dcd4e49b4ad6d2ce0fb4a4a43"
+        },
+        {
+            "question": "I ……………………………yesterday when I was hiking.",
+            "description": "We do not use ‘often’ to mean ‘frequently on the same occasion’.",
+            "answers": [
+                "kept falling",
+                "fell several times",
+                "often fell"
+            ],
+            "correct": 1,
+            "id": "a9303f1923da46878c044f87e074ab43"
+        }
+    ]
+}

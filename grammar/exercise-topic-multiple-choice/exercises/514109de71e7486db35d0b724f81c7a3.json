@@ -1,0 +1,135 @@
+{
+    "id": "514109de71e7486db35d0b724f81c7a3",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "I would be surprised if he ........................",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "wins",
+                "won",
+                "had won"
+            ],
+            "correct": 1,
+            "id": "5c4a79f8791b4bf199319253a623284e"
+        },
+        {
+            "question": "If I had known, I ......................... you straightaway.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "will tell",
+                "would tell",
+                "would have told"
+            ],
+            "correct": 2,
+            "id": "d5b37aaaf79245cbb314a9eeea826446"
+        },
+        {
+            "question": "Rarely ................................ such a good film.",
+            "description": "When the sentence begins with expressions like rarely, hardly or only, the auxiliary verb goes before the subject. ",
+            "answers": [
+                "I have seen",
+                "Have I seen"
+            ],
+            "correct": 1,
+            "id": "ff568aa255cc45e9b0f793ba1c6db94e"
+        },
+        {
+            "question": "My father often ........................ a nap in the afternoon.",
+            "description": "We use the simple present tense to talk about facts, routines and habits. ",
+            "answers": [
+                "take",
+                "is taking",
+                "takes"
+            ],
+            "correct": 2,
+            "id": "a9201879a9ea406492e1aca51fd878a1"
+        },
+        {
+            "question": "If you don't want to go, you ...........................",
+            "description": "We use 'need not' to show the lack of obligation. ",
+            "answers": [
+                "mustn't",
+                "needn't"
+            ],
+            "correct": 1,
+            "id": "c9b029aa26634153a7b7d9f8db73e87d"
+        },
+        {
+            "question": "You don't need ........................... on Saturdays.",
+            "description": "When need is used as an ordinary verb, it is followed by an infinitive with to. ",
+            "answers": [
+                "work",
+                "to work"
+            ],
+            "correct": 1,
+            "id": "c134b98c5f594217a598ae9fd6854ec9"
+        },
+        {
+            "question": "You ..................................... on Saturdays.",
+            "description": "When need is used as a modal auxiliary, it is followed by an infinitive without to.",
+            "answers": [
+                "need not work",
+                "need not to work"
+            ],
+            "correct": 0,
+            "id": "0b30ab624f45413d86569c9f74c514c1"
+        },
+        {
+            "question": "If I ............................. you, I would accept this offer.",
+            "description": "Both 'was' and 'were' are possible here however, 'were' is preferred. ",
+            "answers": [
+                "am",
+                "were",
+                "was",
+                "had been"
+            ],
+            "correct": 2,
+            "id": "dc220c84d9d14482be0c3cca24055fbf"
+        },
+        {
+            "question": "You ............................... mend your ways.",
+            "description": "We use 'had better' to give strong advice. ",
+            "answers": [
+                "have better",
+                "had better",
+                "should better"
+            ],
+            "correct": 1,
+            "id": "b1577f00339c4b6692657bd32ae475bd"
+        },
+        {
+            "question": "She .............................. that she would come.",
+            "description": "After 'tell' we use a personal object. ",
+            "answers": [
+                "told",
+                "told me",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "60f9cad030c448ba92cfac86b5fd79f6"
+        },
+        {
+            "question": "I sent ....................... a letter yesterday.",
+            "description": "'Sent' is one of those verbs that can be followed by two objects - a direct object and an indirect object. When the indirect object goes first, there is no preposition. ",
+            "answers": [
+                "him",
+                "to him",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "207bb44931064a7c9aaf81258148aab6"
+        },
+        {
+            "question": "I sent flowers ..........................",
+            "description": "'Sent' is one of those verbs that can be followed by two objects - a direct object and an indirect object. When the direct object goes first, we use the preposition 'to' or 'for' before the indirect object. ",
+            "answers": [
+                "her",
+                "to her",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "5ad716461f264a8294e144e004d15a88"
+        }
+    ]
+}

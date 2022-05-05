@@ -1,0 +1,83 @@
+{
+    "id": "977854297dc348c5843cd8d45f813262",
+    "title": "Sentence Correction Exercise",
+    "questions": [
+        {
+            "question": "He was angry, ............................... I said nothing.",
+            "description": "",
+            "answers": [
+                "so",
+                "therefore",
+                "hence"
+            ],
+            "correct": 0,
+            "id": "88c80b5c3e00444da2448912e66c82e0"
+        },
+        {
+            "question": "This is my friend ....................................... works with me.",
+            "description": "",
+            "answers": [
+                "he",
+                "who",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "dac1c0af93044a9cbdbbb40a4bb02790"
+        },
+        {
+            "question": "................................. I was trying to concentrate, he was disturbing me.",
+            "description": "",
+            "answers": [
+                "Since",
+                "While",
+                "Whereas"
+            ],
+            "correct": 1,
+            "id": "d112875847bb43b3b566810f8cab0e4d"
+        },
+        {
+            "question": ".................................... I fired at the tiger, he shook my arm.",
+            "description": "",
+            "answers": [
+                "Since",
+                "As",
+                "Then"
+            ],
+            "correct": 1,
+            "id": "646c21dd7f35485180a053248f5083c8"
+        },
+        {
+            "question": "This is my house ................................. I live.",
+            "description": "",
+            "answers": [
+                "where",
+                "there",
+                "here"
+            ],
+            "correct": 0,
+            "id": "f5913b8a19c049a6b16a1813c38caf6e"
+        },
+        {
+            "question": "This is a nice book .................................. might interest you.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "100cedf41c704433921382a8988e0eda"
+        },
+        {
+            "question": "This is my cousin about ................................... I was telling you.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "that"
+            ],
+            "correct": 1,
+            "id": "6469a07391ae41d4b5267a9856d68abe"
+        }
+    ]
+}

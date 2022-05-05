@@ -1,0 +1,127 @@
+{
+    "id": "10338e79f7f6429e9706e830f0a3c195",
+    "title": "Simple Past And Present Perfect",
+    "questions": [
+        {
+            "question": "I ......................................... him since last week.",
+            "description": "The present perfect is common with the time expressions since and for.",
+            "answers": [
+                "did not see",
+                "have not seen"
+            ],
+            "correct": 1,
+            "id": "728db5828e3740f2b2e091d351b06487"
+        },
+        {
+            "question": "It .......................................... for hours.",
+            "description": "Use the present perfect if it is still raining. ",
+            "answers": [
+                "rained",
+                "has rained",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4f8c8220d1794c02b28692d4775c4ad0"
+        },
+        {
+            "question": "The train ...................................... 5 minutes ago.",
+            "description": "The simple past is used to talk about finished events.",
+            "answers": [
+                "has left",
+                "left"
+            ],
+            "correct": 1,
+            "id": "404f23a6ec1746a0b5001e2a6c3153cb"
+        },
+        {
+            "question": "She .......................................... from Madras University.",
+            "description": "The simple past is the most common tense for talking about past events.",
+            "answers": [
+                "graduated",
+                "has graduated"
+            ],
+            "correct": 0,
+            "id": "92b140486488488aa8e58332a3aa205e"
+        },
+        {
+            "question": "She ..................................... homeless since she lost her job.",
+            "description": "The present perfect is used to talk about actions or situations that started in the past and has continued up to the present. ",
+            "answers": [
+                "was",
+                "has been"
+            ],
+            "correct": 1,
+            "id": "0198426cf03940e8b7ae576eb94be4a4"
+        },
+        {
+            "question": "What ........................................ then?",
+            "description": "We use the simple past with time expressions referring to the past. ",
+            "answers": [
+                "did you do",
+                "have you done"
+            ],
+            "correct": 0,
+            "id": "0e17ea87b3434e4e8d1b5fc81577bc68"
+        },
+        {
+            "question": "I ...................................... the parcel in the morning.",
+            "description": "We use the simple past with past time expressions.",
+            "answers": [
+                "sent",
+                "have sent"
+            ],
+            "correct": 0,
+            "id": "dbf4932e5dd44096b84d36411c210f30"
+        },
+        {
+            "question": "I ........................................ the letters.",
+            "description": "When there is no time reference, we are more likely to use a present perfect for recently finished actions and situations.",
+            "answers": [
+                "posted",
+                "have posted"
+            ],
+            "correct": 1,
+            "id": "e012fc60bb394fefbab4053659259508"
+        },
+        {
+            "question": "They .......................................... the contract last week.",
+            "description": "",
+            "answers": [
+                "signed",
+                "have signed"
+            ],
+            "correct": 0,
+            "id": "2c4c39fa73174022b2eaae1b4fa2c629"
+        },
+        {
+            "question": "It ........................................ yesterday.",
+            "description": "We use the simple past with past time expressions. ",
+            "answers": [
+                "rained",
+                "has rained"
+            ],
+            "correct": 0,
+            "id": "cb1ec09ce809439d8910487a7a8f1c1a"
+        },
+        {
+            "question": "The train ............................................ yet.",
+            "description": "The present perfect is more common with the expressions yet, already etc.",
+            "answers": [
+                "did not arrive",
+                "has not arrived"
+            ],
+            "correct": 1,
+            "id": "d8878deff4dd4b89b345dc4a89f39a00"
+        },
+        {
+            "question": "I ......................................... to Australia.",
+            "description": "The present perfect is more common with the expressions never and ever. ",
+            "answers": [
+                "never went",
+                "have never been"
+            ],
+            "correct": 1,
+            "id": "d3aed60239b546ef8cabe3ecaad5dc11"
+        }
+    ]
+}

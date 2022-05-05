@@ -1,0 +1,138 @@
+{
+    "id": "40468bd034df48a7866f82c6e53b5c49",
+    "title": "Phrasal Verbs Exercie",
+    "questions": [
+        {
+            "question": "They broke ......................... over a silly fight.",
+            "description": "To break up is to end a relationship.",
+            "answers": [
+                "out",
+                "up",
+                "over"
+            ],
+            "correct": 1,
+            "id": "6622f63dec2648ab9e312ae7946964c6"
+        },
+        {
+            "question": "The prisoners who broke ................................. of prison have been caught.",
+            "description": " To break out of prison is to escape.",
+            "answers": [
+                "off",
+                "down",
+                "out"
+            ],
+            "correct": 2,
+            "id": "16612d19ba91459695ed36e5c2e508fa"
+        },
+        {
+            "question": "The sad news brought me ...........................",
+            "description": "To bring somebody down is to make them unhappy.",
+            "answers": [
+                "up",
+                "down",
+                "out"
+            ],
+            "correct": 1,
+            "id": "0d591781b0a64d38bd36a70b642c0d9a"
+        },
+        {
+            "question": "His uncle brought him ............................ after his parents died.",
+            "description": "To bring somebody up is to raise them.",
+            "answers": [
+                "out",
+                "up",
+                "over"
+            ],
+            "correct": 1,
+            "id": "d8ffb153c2344623ad20cffc28f15456"
+        },
+        {
+            "question": "My wife walked out of the room when I brought ............................... politics.",
+            "description": "To bring up a topic is to start discussing it.",
+            "answers": [
+                "over",
+                "up",
+                "in"
+            ],
+            "correct": 1,
+            "id": "0df35c7aaec1456aa6cb4939be641e65"
+        },
+        {
+            "question": "I had an upset stomach and brought ............................ my lunch in the wash room.",
+            "description": "To bring up food is to vomit it.",
+            "answers": [
+                "out",
+                "up",
+                "on"
+            ],
+            "correct": 1,
+            "id": "c696805960904e4ca3903e4c110c070b"
+        },
+        {
+            "question": "Ask him to call me ............................ when he returns.",
+            "description": "To call somebody back is to return a phone call.",
+            "answers": [
+                "back",
+                "up",
+                "in"
+            ],
+            "correct": 0,
+            "id": "31fc5f84ed954800b8958222d955b180"
+        },
+        {
+            "question": "Susie called the wedding ........................ when she realized that Jack was in a relationship with another woman.",
+            "description": "To call off wedding is to cancel it.",
+            "answers": [
+                "off",
+                "out",
+                "over"
+            ],
+            "correct": 0,
+            "id": "2f3f60e5a0bd4a87a87077a0e3eac9fd"
+        },
+        {
+            "question": "Janet called .......................... yesterday but I wasn't home.",
+            "description": "To call on somebody is to visit them.",
+            "answers": [
+                "on",
+                "in",
+                "up"
+            ],
+            "correct": 0,
+            "id": "cb424a0d10454fae8ada00da758b62f8"
+        },
+        {
+            "question": "Although I ran fast, I could not catch ......................... with them.",
+            "description": "To catch up with somebody is to get to the same point as they are.",
+            "answers": [
+                "off",
+                "up",
+                "over"
+            ],
+            "correct": 1,
+            "id": "12eae29b79884674bfb7d399ee0577eb"
+        },
+        {
+            "question": "She cheered ............................ when she heard that she had passed the exam.",
+            "description": "Cheer up = become happier",
+            "answers": [
+                "on",
+                "up",
+                "off"
+            ],
+            "correct": 1,
+            "id": "4519ebfe927143b5a495f64087e7b3ba"
+        },
+        {
+            "question": "If everyone chips ............................ we can finish the job by evening.",
+            "description": "To chip in is to help or contribute.",
+            "answers": [
+                "out",
+                "in",
+                "off"
+            ],
+            "correct": 1,
+            "id": "0014cd5c833f44058ece70579cb88069"
+        }
+    ]
+}

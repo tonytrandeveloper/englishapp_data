@@ -1,0 +1,133 @@
+{
+    "id": "b5e83abd73aa47fd98b83093556bf56a",
+    "title": "Reflexive And Emphatic Pronouns Exercise",
+    "questions": [
+        {
+            "question": "She put the bag next to ...............................",
+            "description": "Reflexive pronouns are not used after prepositions of place.",
+            "answers": [
+                "her",
+                "herself",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ee58f2064aa64ed6a9d3386dbad4d94d"
+        },
+        {
+            "question": "I helped ............................ to another drink.",
+            "description": "Help myself is a standard expression.",
+            "answers": [
+                "me",
+                "myself",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "a8c809500823449ead6272b1a82174d5"
+        },
+        {
+            "question": "He cut ............................. while shaving.",
+            "description": "When the subject and the object refer to the same person, the reflexive pronoun is used. ",
+            "answers": [
+                "him",
+                "himself",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "90bd5a247c92456b9512ed1f6cd9974e"
+        },
+        {
+            "question": "The manager ........................... told me this.",
+            "description": "The reflexive pronoun is often used for emphasis and then it is called the emphatic pronoun.",
+            "answers": [
+                "him",
+                "himself",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "82d83ef531bb4d159b452b964c93036c"
+        },
+        {
+            "question": "She looked quite pleased with ...............................",
+            "description": "The reflexive is used in the expression 'be pleased with'.",
+            "answers": [
+                "her",
+                "herself"
+            ],
+            "correct": 1,
+            "id": "a7190d6e539345d787c0ffe1cbdfa9f0"
+        },
+        {
+            "question": "I ............................ decorated the room.",
+            "description": "The emphatic pronoun is used for emphasis. ",
+            "answers": [
+                "myself",
+                "me"
+            ],
+            "correct": 0,
+            "id": "e0845f68199a4a37b4a236a577bb4f5e"
+        },
+        {
+            "question": "We enjoyed .............................. while we went camping last week.",
+            "description": "",
+            "answers": [
+                "us",
+                "ourselves",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "ce6f4d489020482b9b2efa9f68675e28"
+        },
+        {
+            "question": "She killed ............................... with a knife.",
+            "description": "When the subject and object refer to the same person, the reflexive is used. ",
+            "answers": [
+                "her",
+                "herself"
+            ],
+            "correct": 1,
+            "id": "c15bdc974274406fb6ed68c8e56b5ffd"
+        },
+        {
+            "question": "He does all the jobs ..................................",
+            "description": "",
+            "answers": [
+                "him",
+                "himself"
+            ],
+            "correct": 1,
+            "id": "02c5c2c9f31949cc9ef440cc9dca0d26"
+        },
+        {
+            "question": "I was told to do it ...............................",
+            "description": "",
+            "answers": [
+                "me",
+                "myself"
+            ],
+            "correct": 1,
+            "id": "c494d1de94cf4cf79410d94f8b68724a"
+        },
+        {
+            "question": "The Prime Minister ............................... answered the phone.",
+            "description": "The emphatic is used for emphasis.",
+            "answers": [
+                "himself",
+                "him",
+                "No pronoun is required"
+            ],
+            "correct": 0,
+            "id": "9843e568153941b684eef4f5362f2e22"
+        },
+        {
+            "question": "Although I don't speak English well, I can make ............................ understood.",
+            "description": "The reflexive is used in the expression 'make yourself  understood'.",
+            "answers": [
+                "me",
+                "myself",
+                "Either could be use here"
+            ],
+            "correct": 1,
+            "id": "5d00e171708647768cc09195cea2835b"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "3f880799f2894cb394c7355fc76bc5fe",
+    "title": "Simple Present Tense Exercise",
+    "questions": [
+        {
+            "question": "I usually ................................ at 6 am.",
+            "description": "",
+            "answers": [
+                "get up",
+                "got up",
+                "gets up"
+            ],
+            "correct": 0,
+            "id": "766f2c5059a84b9bbdf7a4cdd96a9000"
+        },
+        {
+            "question": "She .................................. from Germany.",
+            "description": "",
+            "answers": [
+                "is",
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "a9ecc607d5224a5588a692e88d2db4a4"
+        },
+        {
+            "question": "She .................................. not work with us.",
+            "description": "",
+            "answers": [
+                "does",
+                "do",
+                "has"
+            ],
+            "correct": 0,
+            "id": "723435470a6242409d9266e980c2e1ea"
+        },
+        {
+            "question": "Where ..................................... you live?",
+            "description": "",
+            "answers": [
+                "do",
+                "does",
+                "has"
+            ],
+            "correct": 0,
+            "id": "76878a2a656a47cdbfcfe5b59e29f941"
+        },
+        {
+            "question": "He ..................................... his parents every month.",
+            "description": "",
+            "answers": [
+                "visit",
+                "visits",
+                "visited"
+            ],
+            "correct": 1,
+            "id": "dc364f0d98424bcdbae3099dea605a04"
+        },
+        {
+            "question": "We ..................................... not eat fish or meat on Saturdays.",
+            "description": "",
+            "answers": [
+                "do",
+                "does",
+                "has"
+            ],
+            "correct": 0,
+            "id": "357dfa2d2f0a49d8a830d631475b91ba"
+        },
+        {
+            "question": "He usually ..................................... coffee in the morning.",
+            "description": "",
+            "answers": [
+                "drink",
+                "drinks",
+                "drank"
+            ],
+            "correct": 1,
+            "id": "561619e2f1b84df289ab5b566a4fbdbb"
+        },
+        {
+            "question": "He ...................................... to church every Sunday.",
+            "description": "",
+            "answers": [
+                "go",
+                "goes",
+                "went"
+            ],
+            "correct": 1,
+            "id": "e1197db623b2464ab7058849b35d7353"
+        },
+        {
+            "question": "He ............................... not smoke.",
+            "description": "",
+            "answers": [
+                "do",
+                "does",
+                "has"
+            ],
+            "correct": 1,
+            "id": "e6f02daf231147f39c3807db20d94e97"
+        },
+        {
+            "question": "I .................................... a shower before I go to bed.",
+            "description": "",
+            "answers": [
+                "take",
+                "takes",
+                "took"
+            ],
+            "correct": 0,
+            "id": "94a82a2911cd464da7bbcd06e1f15b3c"
+        },
+        {
+            "question": "How ....................................... you start a washing machine?",
+            "description": "",
+            "answers": [
+                "do",
+                "does",
+                "has"
+            ],
+            "correct": 0,
+            "id": "30b792319d7a447284aa81fa98498084"
+        },
+        {
+            "question": "I .......................................... not like to work on Sundays.",
+            "description": "",
+            "answers": [
+                "do",
+                "does",
+                "has"
+            ],
+            "correct": 0,
+            "id": "4b46ad43c12a4f928f3db5bd860da4a0"
+        }
+    ]
+}

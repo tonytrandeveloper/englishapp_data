@@ -1,0 +1,135 @@
+{
+    "id": "20b4c590d0644468a71d36029bd5328b",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "The eruption of the volcano is an ……………………… sight.",
+            "description": "Awesome means majestic or inspiring.",
+            "answers": [
+                "awesome",
+                "awful",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "391ab0aa8bd04871a73e69ed01a77476"
+        },
+        {
+            "question": "It was an ……………………… movie. I shouldn’t have watched it.",
+            "description": "Awful means bad, dreadful or terrible. ",
+            "answers": [
+                "awesome",
+                "awful",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "34cb9ab4f52941d28b38451dadf1806d"
+        },
+        {
+            "question": "He never took a ………………………. glance.",
+            "description": "Backward can be an adjective and an adverb. Backwards is an adverb.",
+            "answers": [
+                "backward",
+                "backwards",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "32463d6f2ae14afdbef35e91e9f41166"
+        },
+        {
+            "question": "Bacteria ………………………. in the air we breathe and the food we eat.",
+            "description": "Bacteria is a plural noun and should take a plural verb.",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e3dcf53bbe3e444ca3d23d559025055d"
+        },
+        {
+            "question": "I feel …………………….. enough to go to the hospital.",
+            "description": "When a person feels ill, he feels bad. ",
+            "answers": [
+                "bad",
+                "badly",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d8cde5a9af30473eabc43eb29012146e"
+        },
+        {
+            "question": "Don’t feel ………………………… about losing the match.",
+            "description": "When you feel sorry about something, you feel bad about it.",
+            "answers": [
+                "bad",
+                "badly",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "09bb6fc1fbd6462ca29d6ee3c91cd658"
+        },
+        {
+            "question": "The student was admonished for behaving ………………………. in the class.",
+            "description": "Badly means improperly. It is an adverb and modifies the verb behaving. ",
+            "answers": [
+                "bad",
+                "badly",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "08ad175ee4744d54922d07a309ad9415"
+        },
+        {
+            "question": "She wants a new job …………………………",
+            "description": "Badly can mean very much.",
+            "answers": [
+                "bad",
+                "badly",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "317717fb05944cc5a6999ba26e2b96d4"
+        },
+        {
+            "question": "Customs officers examined all ………………………. at the airport.",
+            "description": "Baggage is an uncountable noun. It does not have a plural form.",
+            "answers": [
+                "baggage",
+                "baggages",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "1885f495ace9488088c698c5a16d3fbb"
+        },
+        {
+            "question": "We watched the fight with ………………………. breath.",
+            "description": "Bait is a lure. Bated means held in.",
+            "answers": [
+                "baited",
+                "bated"
+            ],
+            "correct": 1,
+            "id": "07a52d27f98b4e96be5741d7f688afe3"
+        },
+        {
+            "question": "When the rescuers found the castaway, he ………………………… alive.",
+            "description": "Barely means almost not. It has a negative force and hence you cannot use another negative word with it.",
+            "answers": [
+                "was barely",
+                "was not barely"
+            ],
+            "correct": 0,
+            "id": "225be2d9205d444a969e3d0f30b5afbd"
+        },
+        {
+            "question": "She was so weak that she ....................................... hardly walk.",
+            "description": "Hardly has a negative meaning. ",
+            "answers": [
+                "could",
+                "could not"
+            ],
+            "correct": 0,
+            "id": "97e62a0241234338ab183c56faae829a"
+        }
+    ]
+}

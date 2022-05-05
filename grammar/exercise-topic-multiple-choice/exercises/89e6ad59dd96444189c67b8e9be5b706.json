@@ -1,0 +1,138 @@
+{
+    "id": "89e6ad59dd96444189c67b8e9be5b706",
+    "title": "Prepositions Exercise",
+    "questions": [
+        {
+            "question": "I met him ……………………… Monday.",
+            "description": "We use on before days.",
+            "answers": [
+                "on",
+                "in",
+                "at"
+            ],
+            "correct": 0,
+            "id": "41f307d4c1164c8f8fcc25af7b8b05d9"
+        },
+        {
+            "question": "They took him ……………………… the doctor.",
+            "description": "To indicates direction.",
+            "answers": [
+                "at",
+                "for",
+                "to"
+            ],
+            "correct": 2,
+            "id": "0413b9e25bf846de9ae5920d25532c53"
+        },
+        {
+            "question": "Regular exercise is beneficial ……………………… health.",
+            "description": "",
+            "answers": [
+                "on",
+                "to",
+                "with"
+            ],
+            "correct": 1,
+            "id": "83b926c7e0014f1984d98fe710619672"
+        },
+        {
+            "question": "There are many disadvantages ………………………….. living alone.",
+            "description": "",
+            "answers": [
+                "for",
+                "of",
+                "to"
+            ],
+            "correct": 2,
+            "id": "47ed555a46414cd69292ec384eda3c63"
+        },
+        {
+            "question": "The cat jumped ………………………… the wall.",
+            "description": "",
+            "answers": [
+                "across",
+                "over",
+                "through"
+            ],
+            "correct": 1,
+            "id": "6e1bc6c8c8f94f7791cba5d34d34f539"
+        },
+        {
+            "question": "She swam ………………………….. the river.",
+            "description": "Across indicates movement from one side to the other.",
+            "answers": [
+                "over",
+                "across",
+                "on"
+            ],
+            "correct": 1,
+            "id": "10b3703d1508451cb976af53b8a9a998"
+        },
+        {
+            "question": "You never listen ……………………….. me.",
+            "description": "",
+            "answers": [
+                "at",
+                "to",
+                "with"
+            ],
+            "correct": 1,
+            "id": "df11924e83b2464fbbb58353dab87f70"
+        },
+        {
+            "question": "Why are you staring ………………………. me like that?",
+            "description": "",
+            "answers": [
+                "on",
+                "with",
+                "at"
+            ],
+            "correct": 2,
+            "id": "a36df3b1c2934db9b8aef3440f8c1067"
+        },
+        {
+            "question": "He is rude …………………………. everyone.",
+            "description": "",
+            "answers": [
+                "at",
+                "with",
+                "to"
+            ],
+            "correct": 2,
+            "id": "4df132208b254e5aac1fb33eab689644"
+        },
+        {
+            "question": "You can’t expect her to dance ………………………. your tune.",
+            "description": "",
+            "answers": [
+                "with",
+                "to",
+                "for"
+            ],
+            "correct": 1,
+            "id": "6332142ee57c46c5af0531d39d60190d"
+        },
+        {
+            "question": "She recognized him ………………………. once.",
+            "description": "",
+            "answers": [
+                "at",
+                "by",
+                "for"
+            ],
+            "correct": 0,
+            "id": "01235d15d4cc4f6ba6dbaa290234b8cb"
+        },
+        {
+            "question": "He is enthusiastic …………………….. his profession.",
+            "description": "",
+            "answers": [
+                "for",
+                "of",
+                "about"
+            ],
+            "correct": 2,
+            "id": "66be139fcb9845d0842d7300ee7a3eec"
+        }
+    ]
+}

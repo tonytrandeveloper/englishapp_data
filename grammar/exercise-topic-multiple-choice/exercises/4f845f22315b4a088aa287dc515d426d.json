@@ -1,0 +1,111 @@
+{
+    "id": "4f845f22315b4a088aa287dc515d426d",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "There was ..................................... anything in the box.",
+            "description": "",
+            "answers": [
+                "hardly",
+                "almost",
+                "nearly"
+            ],
+            "correct": 0,
+            "id": "b316d6feac1f4ef0ab0036c8d5b93656"
+        },
+        {
+            "question": "There are ................................... books lying on the table.",
+            "description": "",
+            "answers": [
+                "a few",
+                "the few",
+                "a little"
+            ],
+            "correct": 0,
+            "id": "28f654b0866b47c79982394ae14a4d84"
+        },
+        {
+            "question": "........................................ on tip-toe, he reached for the apple.",
+            "description": "",
+            "answers": [
+                "Standing",
+                "Stood"
+            ],
+            "correct": 0,
+            "id": "725a03b5d7d040a7a1fa18154013028d"
+        },
+        {
+            "question": "Would you mind .................................. a bit?",
+            "description": "",
+            "answers": [
+                "moving",
+                "to move"
+            ],
+            "correct": 0,
+            "id": "672d80b8e9ac446886ba5333ecb7507b"
+        },
+        {
+            "question": "There .................................... two hundred children watching the game.",
+            "description": "",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "8a04018bba20498a9215b8084ac1e6a0"
+        },
+        {
+            "question": "You need not ......................................... the meeting on Monday.",
+            "description": "",
+            "answers": [
+                "attend",
+                "to attend"
+            ],
+            "correct": 0,
+            "id": "f3baaf5ef456418a828d6a832838e906"
+        },
+        {
+            "question": "He used ........................................ poems when he was a student.",
+            "description": "",
+            "answers": [
+                "writing",
+                "to write",
+                "to writing"
+            ],
+            "correct": 1,
+            "id": "95f9b9c777314d8b9a5f49408607ec62"
+        },
+        {
+            "question": "I .................................. have bought it.",
+            "description": "",
+            "answers": [
+                "don't need",
+                "needn't"
+            ],
+            "correct": 1,
+            "id": "1d6e4dc7804440608a3581be9b9c564a"
+        },
+        {
+            "question": "This is ........................................ any other Christmas gift I have ever had.",
+            "description": "",
+            "answers": [
+                "better then",
+                "the best",
+                "better than"
+            ],
+            "correct": 2,
+            "id": "3f52379b186b49988ba5ca1f8a0eb3d9"
+        },
+        {
+            "question": "She ....................................... plays for television.",
+            "description": "",
+            "answers": [
+                "not write",
+                "do not write",
+                "does not write"
+            ],
+            "correct": 2,
+            "id": "12ca107ec68e443ab6fbdfd22bf70ee9"
+        }
+    ]
+}

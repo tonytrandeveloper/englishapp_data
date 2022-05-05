@@ -1,0 +1,140 @@
+{
+    "id": "fb756f47acf745cfbb31629ad59ff39a",
+    "title": "Mixed Conditionals Exercise",
+    "questions": [
+        {
+            "question": "If I don't drink tea in the morning, I ............................. sleepy.",
+            "description": "We can use the zero or first conditional here because we are talking about a real and possible situation. In the zero conditional, we use a simple present tense in both clauses and in the first conditional, we use a simple present tense in the if-clause and will + infinitive in the result clause. ",
+            "answers": [
+                "feel",
+                "will feel",
+                "would feel",
+                "would have felt"
+            ],
+            "correct": 1,
+            "id": "5e992741daab4c9794e89afa1e055bae"
+        },
+        {
+            "question": "If she arrived, we ......................... her with open arms.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "will receive",
+                "would receive",
+                "would have received"
+            ],
+            "correct": 1,
+            "id": "c4d7bfdb1a0b421abcdbb0e6ad3eff48"
+        },
+        {
+            "question": "I ....................... you if you say that word again.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause. ",
+            "answers": [
+                "will beat",
+                "would beat",
+                "would have beaten"
+            ],
+            "correct": 0,
+            "id": "89d481d926c34e3d907ada54af5c62ed"
+        },
+        {
+            "question": "If I had been there, I ................................. you.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "will help",
+                "would help",
+                "would have helped"
+            ],
+            "correct": 2,
+            "id": "0715e8d7d18045fb977c460fa81829e7"
+        },
+        {
+            "question": "If I were you, I ............................... this.",
+            "description": "",
+            "answers": [
+                "won't buy",
+                "wouldn't buy",
+                "wouldn't have bought"
+            ],
+            "correct": 1,
+            "id": "e4422fcd79234e78beabec449d919c90"
+        },
+        {
+            "question": "If I had time, I ......................... dinner.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "will cook",
+                "would cook",
+                "would have cooked"
+            ],
+            "correct": 1,
+            "id": "2a360eaa431940bab1b41301a8705679"
+        },
+        {
+            "question": "I would handle the situation differently, if I ..................... angry.",
+            "description": "",
+            "answers": [
+                "am't",
+                "weren't",
+                "hadn't been"
+            ],
+            "correct": 1,
+            "id": "d852d20e7d0a4e35b458cf4859acbe5e"
+        },
+        {
+            "question": "If you heat ice, it ...........................",
+            "description": "In the zero conditional, we use a simple present tense in both clauses. ",
+            "answers": [
+                "melt",
+                "melts",
+                "will melt",
+                "would melt"
+            ],
+            "correct": 1,
+            "id": "e90a245c354c4fb3b40dd51bd85ea458"
+        },
+        {
+            "question": "If you had tried harder, you ...............................",
+            "description": "In the third conditional we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "will succeed",
+                "would succeed",
+                "would have succeeded"
+            ],
+            "correct": 2,
+            "id": "f008fe18c2a04d55a787617942a8fe64"
+        },
+        {
+            "question": "If you try hard enough, you .........................",
+            "description": "",
+            "answers": [
+                "will win",
+                "would win",
+                "would have won"
+            ],
+            "correct": 0,
+            "id": "e2fb4957ab6c4d23abca2a32c451fab1"
+        },
+        {
+            "question": "If she ....................... now, we can have dinner together.",
+            "description": "",
+            "answers": [
+                "arrives",
+                "arrived",
+                "would arrive"
+            ],
+            "correct": 0,
+            "id": "b6578d5495144e0595bf2e8895fafbbf"
+        },
+        {
+            "question": "If you ........................ there, you could meet him.",
+            "description": "",
+            "answers": [
+                "go",
+                "went",
+                "had gone"
+            ],
+            "correct": 1,
+            "id": "0ac54d00c47e4574bc36a0372e625737"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": "c8ba9366259e4de08384b793ea978658",
+    "title": "Gap Filling Exercise",
+    "questions": [
+        {
+            "question": "………………….. on tip-toes, she reached for the mango.",
+            "description": "She stood on tip-toes. She reached for the mango. We can combine these two sentences using the present participle.",
+            "answers": [
+                "Standing",
+                "Stood",
+                "Being stood"
+            ],
+            "correct": 0,
+            "id": "acb85c41641342bcb8043ca4ece02685"
+        },
+        {
+            "question": "…………………….. hungry, the child ate the food greedily.",
+            "description": "The child was hungry. The child ate the food greedily. We can combine these two sentences using being. Being hungry, the child ate the food greedily. ",
+            "answers": [
+                "Having",
+                "Being",
+                "Having been"
+            ],
+            "correct": 1,
+            "id": "be33e0ec2b3d4d379dc1d59fdb0533e5"
+        },
+        {
+            "question": "……………………….. his injury, he played exceptionally well.",
+            "description": "In spite of is a preposition. It is followed by an ing form or noun. ",
+            "answers": [
+                "In spite of",
+                "However",
+                "Although"
+            ],
+            "correct": 0,
+            "id": "665cf4ca3e0141fd83158eda089af804"
+        },
+        {
+            "question": "……………………. injured his knee, he cannot walk.",
+            "description": "",
+            "answers": [
+                "Having",
+                "Being",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "dcd5562ff41a46dfbe44aa0f38e8de4a"
+        },
+        {
+            "question": "…………………………. himself in deep debt, he lost all hope.",
+            "description": "",
+            "answers": [
+                "Finding",
+                "Being",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "4e3ec1a9396a4457b4c846dca1104223"
+        },
+        {
+            "question": "In the event of such a thing ………………………, I will resign.",
+            "description": "",
+            "answers": [
+                "happening",
+                "to happen"
+            ],
+            "correct": 0,
+            "id": "ee957858e71a405f9058c3c1b4829c8f"
+        },
+        {
+            "question": "He did not lose hope ……………………….. his repeated failures.",
+            "description": "All of these are possible here. ",
+            "answers": [
+                "despite",
+                "notwithstanding",
+                "in spite of",
+                "All of these"
+            ],
+            "correct": 3,
+            "id": "dcab42bd200a4d939e2ba2548aa42b8b"
+        },
+        {
+            "question": "…………………………. taking the tablet, I didn’t get any relief.",
+            "description": "",
+            "answers": [
+                "In spite of",
+                "Despite",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "31ce1b9a0ea9462f832109e39714f1ff"
+        },
+        {
+            "question": "………………………. pity for the mouse, the seer turned it into a beautiful girl.",
+            "description": "",
+            "answers": [
+                "Feeling",
+                "Being feeling",
+                "Feel"
+            ],
+            "correct": 0,
+            "id": "b0c0be3b14a54627802a713f42be79cb"
+        },
+        {
+            "question": "………………………….. tired, I lay down to sleep.",
+            "description": "I was tired. I lay down to sleep. We can combine these two sentences using being. ",
+            "answers": [
+                "Being",
+                "Having"
+            ],
+            "correct": 0,
+            "id": "85703bbf71b04f87b671a1241997e377"
+        },
+        {
+            "question": "…………………….. much blood, he struggled to stay awake.",
+            "description": "",
+            "answers": [
+                "Having lost",
+                "Being lost",
+                "Having losing"
+            ],
+            "correct": 0,
+            "id": "c46bd51727ca40c887d960322a9b2369"
+        },
+        {
+            "question": "God ………………………., we shall meet again.",
+            "description": "",
+            "answers": [
+                "wills",
+                "willing",
+                "being willing"
+            ],
+            "correct": 1,
+            "id": "d81334dbe9884bf78c7f569b9b1790d4"
+        }
+    ]
+}

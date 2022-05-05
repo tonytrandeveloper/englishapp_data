@@ -1,0 +1,138 @@
+{
+    "id": "cf3516557220497c8240442042a5ddd7",
+    "title": "Simple, Complex Vs. Compound",
+    "questions": [
+        {
+            "question": "Owing to his illness, he could not attend the meeting.",
+            "description": "A simple sentence has just one finite verb.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 0,
+            "id": "d67b2cae1ce04f3fa955941c3e6aa765"
+        },
+        {
+            "question": "The doctor said that I had to quit smoking.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1,
+            "id": "6062bfd2de9847628766d4029e6f243c"
+        },
+        {
+            "question": "That carpet needs to be cleaned.",
+            "description": "A simple sentence has just one finite verb.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 0,
+            "id": "2a07cc1681144b88be62c5457630303d"
+        },
+        {
+            "question": "Will you miss me when I am away?",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1,
+            "id": "e97735cd72584133aec17462697016ea"
+        },
+        {
+            "question": "I miss living in the mountains.",
+            "description": "A simple sentence has just one finite verb.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 0,
+            "id": "e4fbda5bdf584907ba9e404e207c9a68"
+        },
+        {
+            "question": "The missing girl was found at her aunt’s place.",
+            "description": "A simple sentence has just one finite verb.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 0,
+            "id": "89c8988537a84140acbebd731b4997da"
+        },
+        {
+            "question": "How they reached there is unknown.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1,
+            "id": "23cab9b0c38b4698b4bde4d55fa3f1cf"
+        },
+        {
+            "question": "She opened the book and started making notes.",
+            "description": "A compound sentence has two or more independent clauses of the same rank.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "714f56e2d40044838c0e53c352405928"
+        },
+        {
+            "question": "He is neither intelligent nor efficient.",
+            "description": "A compound sentence has two or more independent clauses of the same rank.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "a10a31c802454abea81cd2c40c3f6219"
+        },
+        {
+            "question": "The man told me to go away.",
+            "description": "A simple sentence has just one finite verb.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "ac6dd449916a461caa7c38257c6b91b7"
+        },
+        {
+            "question": "He stopped to say Hi.",
+            "description": "A simple sentence has just one finite verb.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "03d72d98fc6f4fd1a8d5cbb328926b60"
+        },
+        {
+            "question": "I must be losing weight.",
+            "description": "A simple sentence has just one finite verb.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "0f25d291ed514f8c97b10cb4ee48a4af"
+        }
+    ]
+}

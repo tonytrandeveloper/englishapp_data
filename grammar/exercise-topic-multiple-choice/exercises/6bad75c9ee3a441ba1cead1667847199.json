@@ -1,0 +1,111 @@
+{
+    "id": "6bad75c9ee3a441ba1cead1667847199",
+    "title": "Sentence Synthesis Exercise",
+    "questions": [
+        {
+            "question": "........................................ he is snobbish, I like him.",
+            "description": "",
+            "answers": [
+                "Though",
+                "But",
+                "Because"
+            ],
+            "correct": 0,
+            "id": "4da73af6b9f142849910cd5d15cef846"
+        },
+        {
+            "question": "Both my mother .......................................... father attended the wedding.",
+            "description": "",
+            "answers": [
+                "and",
+                "as well as"
+            ],
+            "correct": 0,
+            "id": "912fd17cd5784c2f9c0469c47383642a"
+        },
+        {
+            "question": "He has walked five miles, ...................................... he must be tired.",
+            "description": "",
+            "answers": [
+                "so",
+                "because"
+            ],
+            "correct": 0,
+            "id": "cfeb6b09ced84171bcd45dc441d238d6"
+        },
+        {
+            "question": "I went to the shop ......................................... bought a watch.",
+            "description": "",
+            "answers": [
+                "and",
+                "as well as"
+            ],
+            "correct": 0,
+            "id": "a2f75490e5c5453f8e64a1fe9af5304a"
+        },
+        {
+            "question": "You must be quiet .................................... you must leave the room.",
+            "description": "",
+            "answers": [
+                "and",
+                "but",
+                "or"
+            ],
+            "correct": 2,
+            "id": "df80b5def66345f4aca2948e1741f11f"
+        },
+        {
+            "question": "The prisoner fell down on his knees ........................................... begged for mercy.",
+            "description": "",
+            "answers": [
+                "and",
+                "or",
+                "as well"
+            ],
+            "correct": 0,
+            "id": "72f01c3fb9a54fd790dedfc1ffc591de"
+        },
+        {
+            "question": "................................... I left home early, I could not get to work on time.",
+            "description": "",
+            "answers": [
+                "Though",
+                "Even if",
+                "Because"
+            ],
+            "correct": 0,
+            "id": "3633a2c9a7f34f78a899180204c421aa"
+        },
+        {
+            "question": "Kabir works harder ......................................... Azim.",
+            "description": "",
+            "answers": [
+                "than",
+                "then"
+            ],
+            "correct": 0,
+            "id": "28489563ece94ee38ab22a67fe04b476"
+        },
+        {
+            "question": "You must start at once .......................................... you will be late.",
+            "description": "",
+            "answers": [
+                "or",
+                "but",
+                "and"
+            ],
+            "correct": 0,
+            "id": "b2ef2c4d6f734f94919af297bca57053"
+        },
+        {
+            "question": "I know ..................................... you are not interested in this offer.",
+            "description": "",
+            "answers": [
+                "what",
+                "that"
+            ],
+            "correct": 1,
+            "id": "6bc3d12f1261412d92bd2179c3931622"
+        }
+    ]
+}

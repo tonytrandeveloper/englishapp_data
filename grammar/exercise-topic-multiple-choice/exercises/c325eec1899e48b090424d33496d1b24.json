@@ -1,0 +1,114 @@
+{
+    "id": "c325eec1899e48b090424d33496d1b24",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "I waited for him until he …………………",
+            "description": "",
+            "answers": [
+                "comes",
+                "came",
+                "had come"
+            ],
+            "correct": 1,
+            "id": "51f2961d298f426eaf64914b2c7e3cd2"
+        },
+        {
+            "question": "As long as the rain ………………….., I stayed at home.",
+            "description": "",
+            "answers": [
+                "continues",
+                "continued",
+                "had continued"
+            ],
+            "correct": 1,
+            "id": "2a0b06aa5e7f4a2a976193a68491f6b2"
+        },
+        {
+            "question": "He ran as fast as he ………………….",
+            "description": "",
+            "answers": [
+                "can",
+                "could",
+                "may"
+            ],
+            "correct": 1,
+            "id": "d22344e6e24f4753803de5c2c63b070f"
+        },
+        {
+            "question": "He was so tired that he …………………. barely stand.",
+            "description": "",
+            "answers": [
+                "can",
+                "could",
+                "would"
+            ],
+            "correct": 1,
+            "id": "54e212d62bdd473c8b1be9385cc5b327"
+        },
+        {
+            "question": "Wherever he …………………, the people gathered to listen.",
+            "description": "",
+            "answers": [
+                "preaches",
+                "preached",
+                "would preach"
+            ],
+            "correct": 1,
+            "id": "2f29e83101f2497b8fc12b8f5dd29def"
+        },
+        {
+            "question": "He ………………. because he was in a hurry.",
+            "description": "",
+            "answers": [
+                "run",
+                "runs",
+                "ran"
+            ],
+            "correct": 2,
+            "id": "5853b3de182343cfbab00a0e1cc5b4c5"
+        },
+        {
+            "question": "Although he began late, he ………………… first.",
+            "description": "",
+            "answers": [
+                "was finishing",
+                "finished",
+                "had finished"
+            ],
+            "correct": 1,
+            "id": "ccb33b20809b4a7eb499697002d7eabc"
+        },
+        {
+            "question": "I asked him what I ……………….. do for him.",
+            "description": "",
+            "answers": [
+                "can",
+                "could"
+            ],
+            "correct": 1,
+            "id": "9430bc53277d4f309595605be7021362"
+        },
+        {
+            "question": "He said the he …………………. make another attempt.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "f799b87b3b97418a9c506940b1d6ee8f"
+        },
+        {
+            "question": "He rested his horse because it ……………….",
+            "description": "",
+            "answers": [
+                "limped",
+                "was limping",
+                "had limped"
+            ],
+            "correct": 1,
+            "id": "d54f03b155334448a6d0e0947b089fe4"
+        }
+    ]
+}

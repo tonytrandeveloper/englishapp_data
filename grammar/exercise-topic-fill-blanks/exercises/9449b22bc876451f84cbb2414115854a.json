@@ -1,0 +1,306 @@
+{
+    "id": "9449b22bc876451f84cbb2414115854a",
+    "title": "Passive in subordinate clauses",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I want someone to love me."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I want to be loved!"
+                    ]
+                }
+            ],
+            "id": "dffaa07417e143a8a40cfb7fb1af98d3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It seems that someone cleaned the office on Tuesday."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "It seems that the office was cleaned on Tuesday."
+                    ]
+                }
+            ],
+            "id": "b0b2b6a715a540f9934d2924ef48254a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Amy thinks that someone is reading to her son."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Amy thinks that her son is being read to."
+                    ]
+                }
+            ],
+            "id": "458c46d0202d45e2ac2d3684f5e18071"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I don't like people seeing me in my pyjamas."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't like being seen in my pyjamas."
+                    ]
+                }
+            ],
+            "id": "bb8858a0bd4b4811830cbaf7977a5317"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My little niece loves people chasing her."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "My little niece loves being chased."
+                    ]
+                }
+            ],
+            "id": "a9b987420a444eac805d17c17f93e45c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I understand that someone hit Greg."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I understand that Greg was hit."
+                    ]
+                }
+            ],
+            "id": "a8accd40c2994dabb467a22250d62077"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Is it the case that someone sent the report on time?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is it the case that the report was sent on time?"
+                    ]
+                }
+            ],
+            "id": "4f9c5ed473a14613ad8d774628dc1d5a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We avoided people seeing us."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We avoided being seen."
+                    ]
+                }
+            ],
+            "id": "a2f1c72df56f48b89800e44342a0ff7b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I think that someone built the house in 1814."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I think that the house was built in 1814."
+                    ]
+                }
+            ],
+            "id": "32fd5fde6aec45c6af87b3e9dd2f30aa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I understand that someone fired John."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I understand that John was fired."
+                    ]
+                }
+            ],
+            "id": "8f045b65a25045aeb9cde75243f87bc6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I like someone looking after me when I'm ill."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I like being looked after when I'm ill."
+                    ]
+                }
+            ],
+            "id": "c58dfaf2ae3e496d8eefaf234c54e173"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She hates people laughing at her."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She hates being laughed at."
+                    ]
+                }
+            ],
+            "id": "d79228f976f140b48855876fbb8060e6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It seems that someone lost the papers."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "It seems that the papers were lost."
+                    ]
+                }
+            ],
+            "id": "4a7d4acc702e49229e258de2f9e78587"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He thinks that someone is teasing Lucy."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He thinks that Lucy is being teased."
+                    ]
+                }
+            ],
+            "id": "ec8fc8d6a3ec49e5960eb0b059f094a4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I hope someone will examine me soon."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I hope to be examined soon."
+                    ]
+                }
+            ],
+            "id": "cd28469e9f414acd8034cfae4ec371d5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John would like someone to promote him."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "John would like to be promoted."
+                    ]
+                }
+            ],
+            "id": "52b44188e02844e790edc01d5f136bab"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The cat enjoys someone tickling him."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The cat enjoys being tickled."
+                    ]
+                }
+            ],
+            "id": "a04b0e2d391043d7ad8f64506f96ccdc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They claim that someone stole the money."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They claim that the money was stolen."
+                    ]
+                }
+            ],
+            "id": "0b51ddcbd08241b6ba5f23852d26017b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We imagined that the storm damaged the car."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We imagined that the car was damaged by the storm."
+                    ]
+                }
+            ],
+            "id": "58def9d7341b469e8704e53f4ed0367c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I believe that some is preparing food."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I believe that food is being prepared."
+                    ]
+                }
+            ],
+            "id": "959101770d24446b9562c64e0ee4dfa2"
+        }
+    ]
+}

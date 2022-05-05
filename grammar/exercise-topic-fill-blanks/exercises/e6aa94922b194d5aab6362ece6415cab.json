@@ -1,0 +1,308 @@
+{
+    "id": "e6aa94922b194d5aab6362ece6415cab",
+    "title": "Reported Speech Mixed Exercise 2",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Did you arrive before seven?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if I had arrived before seven.",
+                        "She asked me if I arrived before seven."
+                    ]
+                }
+            ],
+            "id": "8231ebf1e2b64f9898bf46ace2c6e7ea"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How was your holiday?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me how my holiday had been."
+                    ]
+                }
+            ],
+            "id": "b5dd878cc7c44e36b6f2b0f27dca4dde"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I would have visited the hospital, if I had known you were sick.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she would have visited the hospital, if she had known I was sick."
+                    ]
+                }
+            ],
+            "id": "3bc88627636e4f149c09370f5f4d25ce"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Don't touch!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me not to touch."
+                    ]
+                }
+            ],
+            "id": "96aeefafd0304c4388f069affb9d25f2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do you usually cook at home?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if I usually cooked at home."
+                    ]
+                }
+            ],
+            "id": "70f68e865f704404bc47ae85794fb2fb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They had never been to Scotland until last year.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that they had never been to Scotland until last year."
+                    ]
+                }
+            ],
+            "id": "5e7fbb8710c442f7915c9b802d9cce70"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Make sure you arrive early!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me to arrive early."
+                    ]
+                }
+            ],
+            "id": "26dcefe4b3c6409eb4e06980665f2645"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I should have studied harder for the exam.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she should have studied harder for the exam."
+                    ]
+                }
+            ],
+            "id": "5ccb157dc22649c5bec0251ece767f0c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Would you mind telling me how to get to the art gallery, please?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me how to get to the art gallery."
+                    ]
+                }
+            ],
+            "id": "8f988f1abfe240c7958a44a6e964f76a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Please don't forget my book.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me not to forget her book."
+                    ]
+                }
+            ],
+            "id": "e137f22fddbe4cf086567d5f9dc5f494"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Make sure you arrive at six!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me to arrive at six."
+                    ]
+                }
+            ],
+            "id": "0bb200d068ab4567ab1be55212689529"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Remember to study hard!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me to remember to study hard."
+                    ]
+                }
+            ],
+            "id": "96d2606db0344c1e9e1c4d1b0c399da3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Where do you want to eat tonight?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me where I wanted to eat tonight.",
+                        "She asked me where I wanted to eat that night."
+                    ]
+                }
+            ],
+            "id": "c3b9f5eb85f346e88b034ff17d2b95fa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I usually drink coffee in the mornings.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she usually drank coffee in the mornings."
+                    ]
+                }
+            ],
+            "id": "9b76d12d404546db9cc7b32b7d01b2ea"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do you like studying English?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if I liked studying English."
+                    ]
+                }
+            ],
+            "id": "3fd99540fed94c589704c2956eca06e4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'll come and help you on Saturday.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she would come and help me on Saturday."
+                    ]
+                }
+            ],
+            "id": "e6654c72aefe4e488128c48891fd3c95"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Please buy some bread on your way home.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to buy some bread on my way home."
+                    ]
+                }
+            ],
+            "id": "360acd78de5f482db08d99728de94644"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Please give this to John.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to give this to John."
+                    ]
+                }
+            ],
+            "id": "f309a506675b4d5a83244ccd20d737e3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Could you give me the glass on the table, please?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to give her the glass on the table."
+                    ]
+                }
+            ],
+            "id": "19f751d8d6094c6ab9dd661d23d742cd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Come quickly!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me to come quickly."
+                    ]
+                }
+            ],
+            "id": "28f2f5bccd0f41e4a2cba9b3ffd4a0ed"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "b0254649413342398940935f64511a12",
+    "title": "Degrees Of Comparison",
+    "questions": [
+        {
+            "question": "She was ………………………. than I thought.",
+            "description": "We use the comparative form before than.",
+            "answers": [
+                "tall",
+                "taller",
+                "tallest"
+            ],
+            "correct": 1,
+            "id": "28c7ee1392dd4079ab726c530f593875"
+        },
+        {
+            "question": "Although the house was …………………… I bought it.",
+            "description": "When there is no idea of comparison we use the positive form of the adjective. ",
+            "answers": [
+                "small",
+                "smaller",
+                "smallest"
+            ],
+            "correct": 0,
+            "id": "2af44d2659cd4ff8b446c200ccd2e9e0"
+        },
+        {
+            "question": "Is your grandmother any ………………………. today?",
+            "description": "The comparative form is used when change is indicated. ",
+            "answers": [
+                "good",
+                "better",
+                "best"
+            ],
+            "correct": 1,
+            "id": "66ead9acf254437b806cb55f7bdd1b70"
+        },
+        {
+            "question": "Russia is …………………………… country in the world.",
+            "description": "We use the superlative form of the adjective to compare a person/thing with the whole group to which that person/thing belongs. ",
+            "answers": [
+                "largest",
+                "the largest",
+                "the larger",
+                "larger"
+            ],
+            "correct": 1,
+            "id": "bc2e0926796a4ff7ac548c0a98902547"
+        },
+        {
+            "question": "She is …………………………. wonderful woman I have ever met.",
+            "description": "We make the superlative form of wonderful by adding the most. ",
+            "answers": [
+                "the more",
+                "the most",
+                "most"
+            ],
+            "correct": 1,
+            "id": "6562c3a1afe545c692bf3a490d688af0"
+        },
+        {
+            "question": "I do ……………………… work than you.",
+            "description": "More is the comparative form of much. ",
+            "answers": [
+                "more",
+                "much",
+                "most"
+            ],
+            "correct": 0,
+            "id": "602801d1082c4baa8b42b01a384d39ae"
+        },
+        {
+            "question": "She earns ………………………… than her husband.",
+            "description": "The comparative is used to compare one person or thing with another person or thing. ",
+            "answers": [
+                "more",
+                "much",
+                "most"
+            ],
+            "correct": 0,
+            "id": "f07a10347cf64c61a4d124d928f6c430"
+        },
+        {
+            "question": "We are not as ……………………….. as them.",
+            "description": "When there is no idea of comparison, we use the positive adjective. ",
+            "answers": [
+                "rich",
+                "richer",
+                "richest"
+            ],
+            "correct": 0,
+            "id": "165815fd86694c159af07074a2ff5066"
+        },
+        {
+            "question": "That was …………………….. unforgettable experience in my life.",
+            "description": "We use the with superlative adjectives. ",
+            "answers": [
+                "most",
+                "the most"
+            ],
+            "correct": 1,
+            "id": "7a54aa906a464a049bab0f4706bf77d0"
+        },
+        {
+            "question": "My sister has ……………………….. voice in my family.",
+            "description": "We use the superlative form of the adjective to compare a person/thing with the whole group to which that person/thing belongs. ",
+            "answers": [
+                "sweet",
+                "the sweetest",
+                "sweetest"
+            ],
+            "correct": 1,
+            "id": "851375c1dcd143cca4092795974c9b2c"
+        },
+        {
+            "question": "Which is ……………………….. bird in the world?",
+            "description": "We use the superlative form of the adjective to compare a person/thing with the whole group to which that person/thing belongs. ",
+            "answers": [
+                "the large",
+                "the larger",
+                "the largest"
+            ],
+            "correct": 2,
+            "id": "b0edf051c11b4e1c826ea0ce22609522"
+        },
+        {
+            "question": "Platinum is ……………………… precious metal.",
+            "description": "The superlative form of precious is most precious. ",
+            "answers": [
+                "the more",
+                "the most",
+                "the preciouest"
+            ],
+            "correct": 1,
+            "id": "e0039ee8880148478e80e9b62343a4ad"
+        }
+    ]
+}

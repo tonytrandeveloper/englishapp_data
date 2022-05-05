@@ -1,0 +1,111 @@
+{
+    "id": "b3790ef7ca0140e9b5d3c79e6a19d3ac",
+    "title": "Gap Fills",
+    "questions": [
+        {
+            "question": "The auditorium was ............................ with buntings.",
+            "description": "",
+            "answers": [
+                "decorating",
+                "decorated"
+            ],
+            "correct": 1,
+            "id": "688b29d295f44b6ba94b478fe869d82d"
+        },
+        {
+            "question": "Chairs ............................. neatly arranged in rows for the invitees.",
+            "description": "",
+            "answers": [
+                "are",
+                "were"
+            ],
+            "correct": 1,
+            "id": "6905749609364471950498f2588cc443"
+        },
+        {
+            "question": "The dais ........................ a beautiful backdrop.",
+            "description": "",
+            "answers": [
+                "was",
+                "has",
+                "had"
+            ],
+            "correct": 2,
+            "id": "d49844ac60ed4ab2b95e3ab36b9a84cd"
+        },
+        {
+            "question": "The principal .......................... the chief guest to the stage.",
+            "description": "",
+            "answers": [
+                "escorted",
+                "was escorted"
+            ],
+            "correct": 0,
+            "id": "e98e1cfbe0d14384aa4c8a1b6d6e0149"
+        },
+        {
+            "question": "When they .............................. their seats, two girls sang the prayer.",
+            "description": "",
+            "answers": [
+                "all occupied",
+                "were all occupied"
+            ],
+            "correct": 0,
+            "id": "3bab03da7489410b9caebcd26b711325"
+        },
+        {
+            "question": "After that the principal ............................ the annual report.",
+            "description": "",
+            "answers": [
+                "was reading",
+                "read"
+            ],
+            "correct": 1,
+            "id": "2cbe91ec19fc4d5393b999b38e5516cb"
+        },
+        {
+            "question": "Then the chief guest ........................... a brief speech.",
+            "description": "",
+            "answers": [
+                "made",
+                "was made",
+                "has made"
+            ],
+            "correct": 0,
+            "id": "866264d5ac484478873489aafa22cc82"
+        },
+        {
+            "question": "He .............................. the students to work hard.",
+            "description": "",
+            "answers": [
+                "was advising",
+                "has advised",
+                "advised"
+            ],
+            "correct": 2,
+            "id": "2a1d589707954eeeaa76860cd90d7af3"
+        },
+        {
+            "question": "He said that they should aim at success and ............................ credit to the school.",
+            "description": "",
+            "answers": [
+                "bring",
+                "bringing",
+                "brought"
+            ],
+            "correct": 0,
+            "id": "a3d8b41849134cc2b0ce5f6592751bed"
+        },
+        {
+            "question": "This ........................... by the prize distribution ceremony.",
+            "description": "",
+            "answers": [
+                "followed",
+                "was followed",
+                "has followed"
+            ],
+            "correct": 1,
+            "id": "2f93b94fccc543bc8403c58be563f037"
+        }
+    ]
+}

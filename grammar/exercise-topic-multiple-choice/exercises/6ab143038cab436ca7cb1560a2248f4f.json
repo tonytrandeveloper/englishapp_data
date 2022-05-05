@@ -1,0 +1,137 @@
+{
+    "id": "6ab143038cab436ca7cb1560a2248f4f",
+    "title": "Gap Filling Exercise",
+    "questions": [
+        {
+            "question": "I have ……………………. doubts.",
+            "description": "Use a few to refer to a small number.",
+            "answers": [
+                "few",
+                "a few",
+                "the few"
+            ],
+            "correct": 1,
+            "id": "6ab2df437b8c4a2bada36053949623fc"
+        },
+        {
+            "question": "She is junior ………………………… me.",
+            "description": "Use to after junior, senior, inferior, superior etc. ",
+            "answers": [
+                "than",
+                "with",
+                "to"
+            ],
+            "correct": 2,
+            "id": "fe38adcc51df4c8aac77d1d827f5c249"
+        },
+        {
+            "question": "No other language is  ……………………….. as Chinese.",
+            "description": "Use the positive adjective in the construction as...as...",
+            "answers": [
+                "as difficult",
+                "more difficult",
+                "most difficult"
+            ],
+            "correct": 0,
+            "id": "3c03dc0f98bd48318243334d644e9d05"
+        },
+        {
+            "question": "This is ……………………. than that.",
+            "description": "Cheaper is the comparative form of cheap.",
+            "answers": [
+                "more cheap",
+                "cheaper",
+                "more cheaper"
+            ],
+            "correct": 1,
+            "id": "36fa8dde7d9849638136a660e4cd4fe6"
+        },
+        {
+            "question": "…………………………… knowledge is always a dangerous thing.",
+            "description": "A little indicates a small quantity. ",
+            "answers": [
+                "Little",
+                "A little",
+                "The little"
+            ],
+            "correct": 1,
+            "id": "9d859818f7344fd8a2418fd9b88e7a80"
+        },
+        {
+            "question": "Of the two routes, this is ……………………………",
+            "description": "The comparative is used to speak of two things. ",
+            "answers": [
+                "shorter",
+                "the shorter",
+                "the shortest"
+            ],
+            "correct": 1,
+            "id": "f8ca412ab75d4d738a50c9d9873a698a"
+        },
+        {
+            "question": "I have ……………………… knowledge of politics.",
+            "description": "Little knowledge means almost no knowledge. ",
+            "answers": [
+                "little",
+                "the little",
+                "few"
+            ],
+            "correct": 0,
+            "id": "5c7979a8b0c848e0b2d3e66dba7e36b0"
+        },
+        {
+            "question": "This material is superior ……………………………… that.",
+            "description": "Use to instead of than after superior, inferior etc.",
+            "answers": [
+                "than",
+                "to",
+                "from"
+            ],
+            "correct": 1,
+            "id": "48360cfd27d841598d526672335ff7ba"
+        },
+        {
+            "question": "He is ……………………………… of the three brothers.",
+            "description": "The superlative is used to compare one person or thing with the whole group to which they belong. ",
+            "answers": [
+                "older",
+                "the older",
+                "the oldest",
+                "oldest"
+            ],
+            "correct": 2,
+            "id": "b32b00ac08af4dc9abb7946b9e3815ed"
+        },
+        {
+            "question": "We are not as rich as ……………………………",
+            "description": "Object pronouns are more common after as and than.",
+            "answers": [
+                "they",
+                "them"
+            ],
+            "correct": 1,
+            "id": "94a883d5471d43d7be39029e8d5a5edc"
+        },
+        {
+            "question": "Man is …………………………… animal.",
+            "description": "",
+            "answers": [
+                "the most intelligent",
+                "most intelligent",
+                "the more intelligent"
+            ],
+            "correct": 0,
+            "id": "cb9bccae2e1246a3b0e4a7630d162ce3"
+        },
+        {
+            "question": "……………………….. Indians speak English.",
+            "description": "Use many before a noun without a determiner. ",
+            "answers": [
+                "Many",
+                "Many of"
+            ],
+            "correct": 0,
+            "id": "189b7983d2ec4d7392423f2d01657302"
+        }
+    ]
+}

@@ -1,0 +1,577 @@
+{
+    "id": "543de2a4b4774dd1b8482c49db7060d3",
+    "title": "Phrasal Verbs Exercise 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Can you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "come up with"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(think of an idea) a better idea?"
+                }
+            ],
+            "id": "07efb9e46e7444bab60f216b071fe610"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "pointed out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(showed / mentioned) that the shops would be closed."
+                }
+            ],
+            "id": "8834d93d1d024354bd98ec8daaa9e306"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I wish I hadn't"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "taken on"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(become responsible for) so much work!"
+                }
+            ],
+            "id": "5725d11771f24c06aaa054cfd3ea971a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "went out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(went to an event) for dinner with my husband last night."
+                }
+            ],
+            "id": "a69591b1fb6e48e9b33b9ca522ac0463"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "came into"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(entered a place where the speaker is) the kitchen and made some tea."
+                }
+            ],
+            "id": "9dc42ec2465e4fd2ad05efb4f09e1feb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where did you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "grow up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(become an adult)?"
+                }
+            ],
+            "id": "d5ba45ffd1de4bb6899b99ba6f0473aa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'd love to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "set up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(arrange / create) my own business."
+                }
+            ],
+            "id": "26bd175a12654032b734be112ec54b3d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I really want to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "get out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(leave a building) of this office and go for a walk."
+                }
+            ],
+            "id": "4ed5d23f86fb44ccb2a6378400db0e74"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "As I arrived, he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "came out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(appeared from a place) of the door."
+                }
+            ],
+            "id": "4e5766d631764e4a94bcea1a22658b5b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "picked up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(got something from a place) some dinner on the way home."
+                }
+            ],
+            "id": "b76dccd2405648a58831a5af08d924ab"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "find out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get information) what time we need to arrive?"
+                }
+            ],
+            "id": "b61163357d2e4d5995dc504c353b14d0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I thought the conference was going to be boring, but it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "turned out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(in the end we discovered) to be quite useful."
+                }
+            ],
+            "id": "25969699c24a4e5bb15bf76c679b64e5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What time did you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "come back"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(return to a place where the speaker is) last night?"
+                }
+            ],
+            "id": "cc88c34d6dcb4c0fa0a8cb8d89355c9e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "came out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(appeared from a place) of the cafe and put on her gloves."
+                }
+            ],
+            "id": "bae35a01187e488395d7d857b9d2c136"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A performance"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "is going on"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(is happening) at the moment."
+                }
+            ],
+            "id": "c846ac03c69247f2bd0724aff5571715"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "got out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(left a car) of the car."
+                }
+            ],
+            "id": "bce4f91840ea402482279ad822bb0b77"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "went out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(went to an event) a lot at the weekend, so he's tired today."
+                }
+            ],
+            "id": "e87d0f68594d41f39ee9d0f57f55b16d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Can we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "set up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(arrange / create) a meeting next week?"
+                }
+            ],
+            "id": "93872c29bc6443e7966a1164244140ff"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Would anybody like to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "take on"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(become responsible for) this new client?"
+                }
+            ],
+            "id": "f509af816ae9476e9f044c4e900d6359"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "came back"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(returned to a place where the speaker is) before I left."
+                }
+            ],
+            "id": "6e92ed2a4aaa4ec29141ccd9845d0144"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's lovely watching my children"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "grow up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(become adults)."
+                }
+            ],
+            "id": "270c3272c57c4f0084f0ce5704c45b80"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "went back"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(returned to a place where the speaker is not) to school."
+                }
+            ],
+            "id": "4941415ea11346e29d122f4a7f329710"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "pointed out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(showed / mentioned) the stars to the children."
+                }
+            ],
+            "id": "1e47c7cef8904ab98c990dce28f5d0aa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "went back"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(returned to a place where the speaker is not) to Poland last year."
+                }
+            ],
+            "id": "8636d05a2ff84d379bb748cb33b3d92a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "came up with"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(thought of an idea) a solution."
+                }
+            ],
+            "id": "2a5de865d72e4fd5936944a1f456cc91"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "come in!"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(enter a place where the speaker is)."
+                }
+            ],
+            "id": "98a13996e408412faf0cd43f946bf132"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At the end of the film it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "turned out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(in the end we discovered) that John was a good guy."
+                }
+            ],
+            "id": "4b329c1ef4b1401899afffe5c069bb25"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "pick up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get someone from a place) Lucy later?"
+                }
+            ],
+            "id": "4a8ff7d67b8c41b5ad09f72404f943a2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We need to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "find out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get information) how much it costs."
+                }
+            ],
+            "id": "1452a60470ea4278b2bfc20747b20d07"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s going on",
+                        "is going on"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "('s happening)?"
+                }
+            ],
+            "id": "12d7a02dcdb84df5884b0cb71dc66524"
+        }
+    ]
+}

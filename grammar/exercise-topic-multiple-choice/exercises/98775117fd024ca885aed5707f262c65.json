@@ -1,0 +1,91 @@
+{
+    "id": "98775117fd024ca885aed5707f262c65",
+    "title": "Every And Every One",
+    "questions": [
+        {
+            "question": "I see her .....................",
+            "description": "",
+            "answers": [
+                "every days",
+                "every few days",
+                "every few day"
+            ],
+            "correct": 1,
+            "id": "e8958049295d48dfa8f0d1b637649352"
+        },
+        {
+            "question": "…………………. being painted.",
+            "description": "",
+            "answers": [
+                "Every room is",
+                "Every room are"
+            ],
+            "correct": 0,
+            "id": "1cf5849060d54cb8b0cb1d5681d7abc7"
+        },
+        {
+            "question": "His books are brilliant. I have read ………………..",
+            "description": "",
+            "answers": [
+                "every them",
+                "every one of they",
+                "every one of them"
+            ],
+            "correct": 2,
+            "id": "ac5601b3cf3944bab8072ad02d9e973a"
+        },
+        {
+            "question": "Every one of us ……………….. delighted to see him there.",
+            "description": "",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "c19a534c9bee43ed84ca371dfd705205"
+        },
+        {
+            "question": "His books are brilliant. Everyone ……………….. worth reading.",
+            "description": "",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "b9ee0a368fa74b998c353af89e2f2fbe"
+        },
+        {
+            "question": "....................... fly.",
+            "description": "",
+            "answers": [
+                "Every kind of bird cannot",
+                "Not every kind of bird can"
+            ],
+            "correct": 1,
+            "id": "10b6998e0c5e42b685646ccc68ddaaf8"
+        },
+        {
+            "question": "Every person made ....................... own travel arrangements",
+            "description": "",
+            "answers": [
+                "his",
+                "his or her",
+                "their",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "8bb8a0ea477c4d8293dff233e64ae4ca"
+        },
+        {
+            "question": "We have a meeting ......................",
+            "description": "",
+            "answers": [
+                "every three day",
+                "every three days"
+            ],
+            "correct": 1,
+            "id": "077d467d8d8e40cd93a9459f1ffa8fe0"
+        }
+    ]
+}

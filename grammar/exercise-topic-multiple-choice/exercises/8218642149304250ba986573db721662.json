@@ -1,0 +1,133 @@
+{
+    "id": "8218642149304250ba986573db721662",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "Everything ................................. she said is true.",
+            "description": "That clauses are common after all, every, everything etc.",
+            "answers": [
+                "that",
+                "what",
+                "which"
+            ],
+            "correct": 0,
+            "id": "22f07d9c157d4ac78172e2fd2de906fd"
+        },
+        {
+            "question": "Nobody .................................. there to help him.",
+            "description": "A singular verb is used after nobody.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "f1306726c77741ed82a8766b4eead24f"
+        },
+        {
+            "question": "Somebody wanted a drink, ....................................?",
+            "description": "We use they to refer to somebody in question tags.",
+            "answers": [
+                "did somebody",
+                "didn't somebody",
+                "didn't they"
+            ],
+            "correct": 2,
+            "id": "8a6545dc41804e67a863bbffd822700f"
+        },
+        {
+            "question": "Everyone of them ...................................... arrived.",
+            "description": "Use a singular verb after every and everyone.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "efc23ee7e2314ee8932d44c07767617e"
+        },
+        {
+            "question": "The thing ....................................... happened next horrified me.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "which"
+            ],
+            "correct": 0,
+            "id": "9e59d0b9fabb42f09d722ba0d5035f92"
+        },
+        {
+            "question": "...................................... she did cannot be justified.",
+            "description": "What means that which.",
+            "answers": [
+                "What",
+                "That",
+                "Which"
+            ],
+            "correct": 0,
+            "id": "b64d46f02b5843f0b5e6ef239a65632e"
+        },
+        {
+            "question": "He is ..................................... the best player in the team.",
+            "description": "",
+            "answers": [
+                "simple",
+                "simply"
+            ],
+            "correct": 1,
+            "id": "4619bedde1054d028de771826cf5ce22"
+        },
+        {
+            "question": "He ....................................... to office but he should be here soon.",
+            "description": "Has gone is used for incomplete visits. ",
+            "answers": [
+                "has been",
+                "has gone"
+            ],
+            "correct": 1,
+            "id": "4ec2c5e3fdc740699c4789f11dab7c51"
+        },
+        {
+            "question": "I have never .................................... to your country.",
+            "description": "Been is used for completed visits. ",
+            "answers": [
+                "gone",
+                "been"
+            ],
+            "correct": 1,
+            "id": "da540a6021cf4a14a8daf504a47b2913"
+        },
+        {
+            "question": "Winston Churchill is regarded ....................................... one of the best statesmen ever.",
+            "description": "Regard is used with as when it means have an opinion about somebody or something. ",
+            "answers": [
+                "as",
+                "to be",
+                "as to be"
+            ],
+            "correct": 0,
+            "id": "89ce1876375d40db9e0234e0de92672a"
+        },
+        {
+            "question": "It is considered ..................................... one of the best malls in town.",
+            "description": "",
+            "answers": [
+                "as",
+                "to be",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "8ffd4be12f7f404caa984905a17cdcbe"
+        },
+        {
+            "question": "Considered ...................................... a whole, the show was a success.",
+            "description": "",
+            "answers": [
+                "as",
+                "like",
+                "to be"
+            ],
+            "correct": 0,
+            "id": "83f38dfdf3e3477ea2d22384475a9c4b"
+        }
+    ]
+}

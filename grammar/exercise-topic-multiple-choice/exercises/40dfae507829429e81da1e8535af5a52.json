@@ -1,0 +1,138 @@
+{
+    "id": "40dfae507829429e81da1e8535af5a52",
+    "title": "Common Phrasal Verbs",
+    "questions": [
+        {
+            "question": "I am going to ask her ………………. to dinner tonight.",
+            "description": "To ask somebody out is to invite them on a date.",
+            "answers": [
+                "on",
+                "out",
+                "about"
+            ],
+            "correct": 1,
+            "id": "19d10cdb3c7a48acade6e266c6c27c04"
+        },
+        {
+            "question": "I won’t be able to get out before you back …………….. your car.",
+            "description": "To back up a car is to reverse it.",
+            "answers": [
+                "out",
+                "up",
+                "off"
+            ],
+            "correct": 1,
+            "id": "d8f63291cc934f1b94fd79635fc4979a"
+        },
+        {
+            "question": "My family didn’t back me ………………… over my decision to quit my job.",
+            "description": "To back somebody up is to support them.",
+            "answers": [
+                "out",
+                "up",
+                "in"
+            ],
+            "correct": 1,
+            "id": "57966a07ebe549e3b53c854ca4f8be35"
+        },
+        {
+            "question": "The car blew ……………… after it crashed into the tree.",
+            "description": "To blow up is to explode.",
+            "answers": [
+                "over",
+                "up",
+                "out"
+            ],
+            "correct": 1,
+            "id": "ce20c14d75f6454dbaa97d29ee868d95"
+        },
+        {
+            "question": "Can you blow this balloon ……………..?",
+            "description": "To blow up a balloon is to inflate it.",
+            "answers": [
+                "over",
+                "up",
+                "out"
+            ],
+            "correct": 1,
+            "id": "bb81e5da97634b1cbfabd0ef238b54c3"
+        },
+        {
+            "question": "The car broke ...................... in the storm.",
+            "description": "When things break down they stop functioning.",
+            "answers": [
+                "out",
+                "off",
+                "down"
+            ],
+            "correct": 2,
+            "id": "fe7dbbdd506241ed9df34e9aaefe71d1"
+        },
+        {
+            "question": "The woman broke …………………. when she learned that she had cancer.",
+            "description": "To break down is to cry.",
+            "answers": [
+                "up",
+                "down",
+                "out"
+            ],
+            "correct": 1,
+            "id": "6445fcce94ca4a0492a1d28b9cabe811"
+        },
+        {
+            "question": "If you find the task difficult, break it …………….. into smaller parts.",
+            "description": "To break something down is to divide it into smaller parts.",
+            "answers": [
+                "up",
+                "down",
+                "in"
+            ],
+            "correct": 1,
+            "id": "0e3575cbc267455db1eeaf11bb3fccc3"
+        },
+        {
+            "question": "The thieves broke ……………… through the back door.",
+            "description": "To break in is to enter a building forcibly.",
+            "answers": [
+                "in",
+                "into",
+                "out"
+            ],
+            "correct": 0,
+            "id": "094ce636dd434022aa08cf0d2ef7810c"
+        },
+        {
+            "question": "Susie has called ……………. her wedding.",
+            "description": "To call off wedding is to cancel it.",
+            "answers": [
+                "out",
+                "off",
+                "on"
+            ],
+            "correct": 1,
+            "id": "fed67f0db8254d0cb81565de6acc1ea8"
+        },
+        {
+            "question": "I desperately need someone to cheer me ……………..",
+            "description": "To cheer somebody up is to make them happy.",
+            "answers": [
+                "on",
+                "up",
+                "in"
+            ],
+            "correct": 1,
+            "id": "6deab9f4a2c84e0588fa805b14fe6355"
+        },
+        {
+            "question": "I came ……………… these old letters while organizing the closet.",
+            "description": "To come across something is to find it by chance. ",
+            "answers": [
+                "out",
+                "through",
+                "across"
+            ],
+            "correct": 2,
+            "id": "7c2ae931ff0748da9e2375f79466f5b2"
+        }
+    ]
+}

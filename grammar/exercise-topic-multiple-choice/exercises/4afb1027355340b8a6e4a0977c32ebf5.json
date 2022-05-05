@@ -1,0 +1,136 @@
+{
+    "id": "4afb1027355340b8a6e4a0977c32ebf5",
+    "title": "Irregular Verbs Exercise",
+    "questions": [
+        {
+            "question": "I .................................. the bell six times but no one opened the door.",
+            "description": "The past tense of ring is rang.",
+            "answers": [
+                "rang",
+                "ringed",
+                "rung"
+            ],
+            "correct": 0,
+            "id": "2ce2a6bb148a4b8b983793365ffec2ca"
+        },
+        {
+            "question": "Have you .................................. your violin?",
+            "description": "The past and past participle form of bring is brought.",
+            "answers": [
+                "bringed",
+                "brought"
+            ],
+            "correct": 1,
+            "id": "8141f7d140c64866a1daf75f1bbf5319"
+        },
+        {
+            "question": "The cat has ................................ all the milk.",
+            "description": "We need a past participle form after has, have and had. The past participle of drink is drunk.",
+            "answers": [
+                "drunk",
+                "drinked",
+                "drank"
+            ],
+            "correct": 0,
+            "id": "eb3cde5c6ef1444ab658ad759166185c"
+        },
+        {
+            "question": "Have you ...................................... your duty?",
+            "description": "The past participle of do is done. ",
+            "answers": [
+                "did",
+                "done"
+            ],
+            "correct": 1,
+            "id": "2cb9ab16a79e49b9bc9521a7ebdc30bc"
+        },
+        {
+            "question": "They ..................................... a deep well in the yard.",
+            "description": "The past and past participle of dig is dug.",
+            "answers": [
+                "digged",
+                "dug",
+                "dugged"
+            ],
+            "correct": 1,
+            "id": "997d4c425ce44c4faa4a626237041f8f"
+        },
+        {
+            "question": "You needn't have .................................... that much money on that coat.",
+            "description": "The past participle of spend is spent.",
+            "answers": [
+                "spend",
+                "spent",
+                "spended"
+            ],
+            "correct": 1,
+            "id": "a448dcf661ca4b27ac526c5d134b7502"
+        },
+        {
+            "question": "That shirt ................................. me 80 dollars.",
+            "description": "",
+            "answers": [
+                "cost",
+                "costed",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "679aa34eccfd4fbb85b187abe32294ec"
+        },
+        {
+            "question": "The soldiers ..................................... that they would never surrender.",
+            "description": "Swore is the past participle of swear.",
+            "answers": [
+                "swore",
+                "sworn",
+                "sweared"
+            ],
+            "correct": 0,
+            "id": "da4bffb2a09845afa1c8951c24b30a5f"
+        },
+        {
+            "question": "I got ...................................... in the traffic jam for two hours.",
+            "description": "Stuck is the past participle of stick. ",
+            "answers": [
+                "sticked",
+                "stuck",
+                "stucked"
+            ],
+            "correct": 1,
+            "id": "fba9e6db1a3e4a90879f4d4efcd81301"
+        },
+        {
+            "question": "He ......................................... fifty miles.",
+            "description": "Strode is the past tense of stride.",
+            "answers": [
+                "strided",
+                "strode",
+                "stroded"
+            ],
+            "correct": 1,
+            "id": "18f4985b602c488ba7ba3f0a5fb8bc28"
+        },
+        {
+            "question": "He has ........................................ up.",
+            "description": "",
+            "answers": [
+                "grew",
+                "grown",
+                "growed"
+            ],
+            "correct": 1,
+            "id": "a223d0eb0533494e95a7c71c33be3469"
+        },
+        {
+            "question": "He .................................... unconsciousness on the pavement.",
+            "description": "Lay is the past tense of lie.",
+            "answers": [
+                "lied",
+                "lay",
+                "laid"
+            ],
+            "correct": 1,
+            "id": "8e3f7cc9ce644ef79971f65dbcd80f21"
+        }
+    ]
+}

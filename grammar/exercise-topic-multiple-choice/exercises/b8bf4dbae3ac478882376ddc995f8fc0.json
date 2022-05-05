@@ -1,0 +1,127 @@
+{
+    "id": "b8bf4dbae3ac478882376ddc995f8fc0",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "The girl .................................... answered the phone was quite polite.",
+            "description": "We use who to refer to people and which to refer to things. When the relative pronoun is the subject of the relative clause we use who.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "d89f9786b5b64329a454897dfba2029a"
+        },
+        {
+            "question": "The woman ...................................... lives next door is an artist.",
+            "description": "We use who to refer to people and which to refer to things. When the relative pronoun is the subject of the relative clause we use who.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "43ade1b2d3aa4db8bfe80cb18b983b43"
+        },
+        {
+            "question": "Where is the man ...................................... ordered the cab?",
+            "description": "We use who to refer to people and which to refer to things. When the relative pronoun is the subject of the relative clause we use who.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "049c711e113e4a6da9b832d1b44d537f"
+        },
+        {
+            "question": "I have lost the paper on ...................................... I had written his address.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "what"
+            ],
+            "correct": 0,
+            "id": "baeb667d46594ba98996c585778dad99"
+        },
+        {
+            "question": "The day ............................................ I met her is the happiest day of my life.",
+            "description": "When can mean on which.",
+            "answers": [
+                "when",
+                "on which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "39731ad26bdd4fe6818e0d73b08246d3"
+        },
+        {
+            "question": "The man .............................................. interviewed me was quite helpful.",
+            "description": "That can refer to people in identifying relative clauses. ",
+            "answers": [
+                "who",
+                "which",
+                "that"
+            ],
+            "correct": 2,
+            "id": "0129ba35e692406bb7b644f442f3b398"
+        },
+        {
+            "question": "I have got four dogs all of ................................................... are quite friendly.",
+            "description": "",
+            "answers": [
+                "that",
+                "whom",
+                "which"
+            ],
+            "correct": 2,
+            "id": "6651d91c71ec48ad9b11975cbf7191c5"
+        },
+        {
+            "question": "You should talk to the people ........................................... placed this order.",
+            "description": "We use who to refer to people and which to refer to things. When the relative pronoun is the subject of the relative clause we use who.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "5a46e3f3f74348989890ca9dcebec887"
+        },
+        {
+            "question": "The driver ....................................... caused the accident was arrested.",
+            "description": "We use who to refer to people and which to refer to things. When the relative pronoun is the subject of the relative clause we use who.",
+            "answers": [
+                "who",
+                "which",
+                "what"
+            ],
+            "correct": 0,
+            "id": "0ee32d85997d47a5a199cfa926447086"
+        },
+        {
+            "question": "The police arrested the man ......................................... had stolen the jewels.",
+            "description": "We use who to refer to people and which to refer to things. When the relative pronoun is the subject of the relative clause we use who.",
+            "answers": [
+                "who",
+                "that",
+                "which"
+            ],
+            "correct": 1,
+            "id": "57b2e1ff21a34d69bb09fb56ae50cc3c"
+        },
+        {
+            "question": "The boy ....................................... leg is broken is sitting there.",
+            "description": "",
+            "answers": [
+                "who's",
+                "whose",
+                "which"
+            ],
+            "correct": 1,
+            "id": "cb0de46e3d364b52b247a0857ac9fc5b"
+        }
+    ]
+}

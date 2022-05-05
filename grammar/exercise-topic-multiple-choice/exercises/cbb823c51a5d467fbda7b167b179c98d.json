@@ -1,0 +1,135 @@
+{
+    "id": "cbb823c51a5d467fbda7b167b179c98d",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "By the time they found him, he .................................",
+            "description": "The past perfect is used to mean that something had already happened at the time we are talking about it.",
+            "answers": [
+                "died",
+                "had died",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "ed65e0d0f6db47a7b316f632b4fc664b"
+        },
+        {
+            "question": "He ..................................... many years ago.",
+            "description": "To simply state that something happened sometime ago we use the simple past tense.",
+            "answers": [
+                "died",
+                "had died",
+                "has died"
+            ],
+            "correct": 0,
+            "id": "cc390efd4fed44e885486bb2c98153ae"
+        },
+        {
+            "question": "By that time, everybody ........................................ asleep.",
+            "description": "",
+            "answers": [
+                "was",
+                "had been"
+            ],
+            "correct": 0,
+            "id": "acdd9d1cc20c44519380dfdd0ff61d59"
+        },
+        {
+            "question": "She told me that something ........................................ to him.",
+            "description": "A simple past tense in the direct speech changes to past perfect tense in the indirect speech.",
+            "answers": [
+                "happened",
+                "had happened",
+                "has happened"
+            ],
+            "correct": 1,
+            "id": "0d729b39d00040b2bc43924708de6865"
+        },
+        {
+            "question": "I ............................................ about it until you mentioned it.",
+            "description": "",
+            "answers": [
+                "didn't think",
+                "hadn't thought"
+            ],
+            "correct": 1,
+            "id": "1bbf8f5a79b041e09d67730f6e103858"
+        },
+        {
+            "question": "She ............................................. him at once.",
+            "description": "To simply state that something happened sometime ago we use the simple past tense.",
+            "answers": [
+                "has recognized",
+                "recognized",
+                "had recognized"
+            ],
+            "correct": 1,
+            "id": "cfd3970450954220ac55939e07ee604e"
+        },
+        {
+            "question": "I ....................................... him yesterday.",
+            "description": "To simply state that something happened sometime ago we use the simple past tense.",
+            "answers": [
+                "saw",
+                "have seen",
+                "had seen"
+            ],
+            "correct": 0,
+            "id": "66d8945693574d1990cb2dbec0ab88f4"
+        },
+        {
+            "question": "He ......................................... in",
+            "description": "We use the simple past to talk about people’s date or place of birth.",
+            "answers": [
+                "born",
+                "was born",
+                "had born"
+            ],
+            "correct": 1,
+            "id": "4c6616dce069454ab86bfb0aa826ed0e"
+        },
+        {
+            "question": "I ............................................... enough time to finish the job.",
+            "description": "",
+            "answers": [
+                "didn't get",
+                "hadn't got"
+            ],
+            "correct": 0,
+            "id": "c49aae66340f4aab94f8cfdf4433bd39"
+        },
+        {
+            "question": "When I arrived at the party, everybody .......................................... home.",
+            "description": "",
+            "answers": [
+                "went",
+                "has gone",
+                "had gone"
+            ],
+            "correct": 2,
+            "id": "7aacd78007ca4b0b8d189bb3dadc6df0"
+        },
+        {
+            "question": "I wondered who ........................................... the cat in.",
+            "description": "The past perfect is common after past verbs of saying and thinking.",
+            "answers": [
+                "let",
+                "had let",
+                "has let"
+            ],
+            "correct": 1,
+            "id": "655d6ffb60694adcaf2e0f5322f01ebc"
+        },
+        {
+            "question": "I thought I .......................................... the money.",
+            "description": "",
+            "answers": [
+                "sent",
+                "have sent",
+                "had sent"
+            ],
+            "correct": 2,
+            "id": "36db1040709a49078e030c8c93ddba64"
+        }
+    ]
+}

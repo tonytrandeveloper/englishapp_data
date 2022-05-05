@@ -1,0 +1,138 @@
+{
+    "id": "18d84d43a205412796024ad570e4ef43",
+    "title": "Tenses Worksheet",
+    "questions": [
+        {
+            "question": "We ……………………………….. here for two hours.",
+            "description": "Use the present perfect continuous tense to talk about an action or situation that started in the past and has continued up to the present and is still continuing. ",
+            "answers": [
+                "are waiting",
+                "have been waiting",
+                "wait"
+            ],
+            "correct": 1,
+            "id": "6c68b9eb69894628901ab7532594ddd6"
+        },
+        {
+            "question": "I ………………………….. to the movies once a month.",
+            "description": "Use the simple present to talk about habits, routines etc.",
+            "answers": [
+                "go",
+                "am going",
+                "have gone"
+            ],
+            "correct": 0,
+            "id": "682cb5fa4fb24a98a7524eaaf2d109e6"
+        },
+        {
+            "question": "The train …………………………… the station at",
+            "description": "Left is the past simple and past perfect form of leave. ",
+            "answers": [
+                "left",
+                "leaved",
+                "has leaved"
+            ],
+            "correct": 0,
+            "id": "6780d79eaaa341b2bd66e2380684ec12"
+        },
+        {
+            "question": "He ……………………………….. a few miles away from the railway station.",
+            "description": "Use the simple present to talk about permanent arrangements like living places. ",
+            "answers": [
+                "is living",
+                "has lived",
+                "lives"
+            ],
+            "correct": 2,
+            "id": "21fb8b050f824560bbc9d58aa2132ab5"
+        },
+        {
+            "question": "The road to the left ……………………………… to his house.",
+            "description": "Use the simple present to talk about facts. ",
+            "answers": [
+                "leads",
+                "is leading",
+                "leds"
+            ],
+            "correct": 0,
+            "id": "fd210015b6b04970a2d120136a2b1b39"
+        },
+        {
+            "question": "I …………………………….. here for two weeks.",
+            "description": "",
+            "answers": [
+                "will be",
+                "am",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "dbb3480c072f41d88fbaec010bbab4cc"
+        },
+        {
+            "question": "He …………………………….. in Mexico.",
+            "description": "",
+            "answers": [
+                "was born",
+                "is born",
+                "born"
+            ],
+            "correct": 0,
+            "id": "00a3c9eb83c7497691c037bb22276de0"
+        },
+        {
+            "question": "The train …………………………. early in the morning.",
+            "description": "The simple present is used to talk about future events that are part of a time table. ",
+            "answers": [
+                "arrives",
+                "is arriving",
+                "arrive"
+            ],
+            "correct": 0,
+            "id": "d616a371c3e44a41b65de8d5edfe09a6"
+        },
+        {
+            "question": "The weather …………………………… good today.",
+            "description": "",
+            "answers": [
+                "is",
+                "has",
+                "is being"
+            ],
+            "correct": 0,
+            "id": "48ec0203342a4ec2aada209bf905f738"
+        },
+        {
+            "question": "The students …………………………….. on a picnic yesterday.",
+            "description": "The present perfect cannot be used with past time expressions.",
+            "answers": [
+                "went",
+                "has been",
+                "has gone"
+            ],
+            "correct": 0,
+            "id": "fc082b7a6fa94e2b8a87eec38c727067"
+        },
+        {
+            "question": "I first ……………………………… her in a park.",
+            "description": "",
+            "answers": [
+                "met",
+                "meet",
+                "have met"
+            ],
+            "correct": 0,
+            "id": "6a41d3c1d44a449a8993a2aa6a9a71bf"
+        },
+        {
+            "question": "She ………………………… English really well.",
+            "description": "",
+            "answers": [
+                "speak",
+                "speaks",
+                "is speaking"
+            ],
+            "correct": 1,
+            "id": "b7e5f6652c5345a39e06b55458d3e4d4"
+        }
+    ]
+}

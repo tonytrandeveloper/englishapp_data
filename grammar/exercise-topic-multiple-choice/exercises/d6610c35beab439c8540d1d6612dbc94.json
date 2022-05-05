@@ -1,0 +1,116 @@
+{
+    "id": "d6610c35beab439c8540d1d6612dbc94",
+    "title": "Prepositions Exercise",
+    "questions": [
+        {
+            "question": "The boy walked ——————– the road.",
+            "description": "",
+            "answers": [
+                "along",
+                "on",
+                "in"
+            ],
+            "correct": 0,
+            "id": "8175bdbec6044493be30a545fe051456"
+        },
+        {
+            "question": "The river flows ——————- the bridge.",
+            "description": "",
+            "answers": [
+                "below",
+                "under",
+                "through"
+            ],
+            "correct": 1,
+            "id": "588d5561014b42d5866f82a04f389331"
+        },
+        {
+            "question": "The work was done —————– haste.",
+            "description": "",
+            "answers": [
+                "on",
+                "in",
+                "with"
+            ],
+            "correct": 1,
+            "id": "5f90585948494cefb384c5b15e2c158b"
+        },
+        {
+            "question": "He died —————– his country.",
+            "description": "",
+            "answers": [
+                "with",
+                "on",
+                "for"
+            ],
+            "correct": 2,
+            "id": "dd75e8e57f894ea88246ee19604b06cd"
+        },
+        {
+            "question": "The steam engine was invented —————— James Watt.",
+            "description": "",
+            "answers": [
+                "of",
+                "by",
+                "with"
+            ],
+            "correct": 1,
+            "id": "0e86f9316423456d954bf362e551ec45"
+        },
+        {
+            "question": "The robbers jumped —————– the compound wall.",
+            "description": "",
+            "answers": [
+                "on",
+                "across",
+                "over"
+            ],
+            "correct": 2,
+            "id": "712b8d7c6c484db19e0f57dfb6db10bd"
+        },
+        {
+            "question": "The village was destroyed —————— fire.",
+            "description": "",
+            "answers": [
+                "on",
+                "by",
+                "with"
+            ],
+            "correct": 1,
+            "id": "1b330928814a4803a5aade9c85383506"
+        },
+        {
+            "question": "He spoke —————- me —————— French.",
+            "description": "",
+            "answers": [
+                "with, in",
+                "to, in",
+                "at, in"
+            ],
+            "correct": 1,
+            "id": "738508470f1d40c5b85e3aa75028a61e"
+        },
+        {
+            "question": "They live —————— the same roof.",
+            "description": "",
+            "answers": [
+                "in",
+                "under",
+                "within"
+            ],
+            "correct": 1,
+            "id": "6efd08b1ddec4034bb55eb0bb5a5ee98"
+        },
+        {
+            "question": "I have not seen him ——————– last Wednesday.",
+            "description": "",
+            "answers": [
+                "for",
+                "since",
+                "from"
+            ],
+            "correct": 1,
+            "id": "d039aa2f0d08497d9a138f8e7d3ed3a3"
+        }
+    ]
+}

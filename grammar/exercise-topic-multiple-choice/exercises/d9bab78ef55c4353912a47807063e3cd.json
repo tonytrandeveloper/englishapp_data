@@ -1,0 +1,138 @@
+{
+    "id": "d9bab78ef55c4353912a47807063e3cd",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "He is rich ………………….. he is not happy.",
+            "description": "We use but to connect two contrasting ideas.",
+            "answers": [
+                "and",
+                "but",
+                "though"
+            ],
+            "correct": 1,
+            "id": "8d81243610c14ecc876550a24546f3ba"
+        },
+        {
+            "question": "He sells oranges …………………… mangoes.",
+            "description": "We use as well as to add.",
+            "answers": [
+                "as well",
+                "also",
+                "as well as"
+            ],
+            "correct": 2,
+            "id": "ef3a787da89d4cef90a961269a7c0c7d"
+        },
+        {
+            "question": "I honor him ………………… he is an honest man.",
+            "description": "We use because to give the reason.",
+            "answers": [
+                "though",
+                "so",
+                "because"
+            ],
+            "correct": 2,
+            "id": "5bd0d5a133424dbd9c6333909d49e884"
+        },
+        {
+            "question": "We decided to go out ……………….. it was very late.",
+            "description": "We use although to connect two contrasting ideas.",
+            "answers": [
+                "although",
+                "however",
+                "even if"
+            ],
+            "correct": 0,
+            "id": "f11defbc22f746d186e61b98fcf605a5"
+        },
+        {
+            "question": "He sat down ………………… he was tired.",
+            "description": "We use because to give the reason for something.",
+            "answers": [
+                "though",
+                "so",
+                "because"
+            ],
+            "correct": 2,
+            "id": "72b17e3a54e84ae99a316ce52d0d5e52"
+        },
+        {
+            "question": "You must be quiet …………………. you must leave the room.",
+            "description": "We use or to present an alternative.",
+            "answers": [
+                "or",
+                "while",
+                "but"
+            ],
+            "correct": 0,
+            "id": "809e8497c74b418295e2a3d90f47aaf7"
+        },
+        {
+            "question": "He is neither a knave ……………….. a fool.",
+            "description": "We can combine two negative ideas with neither…nor.",
+            "answers": [
+                "or",
+                "either",
+                "nor"
+            ],
+            "correct": 2,
+            "id": "fa0d0b4b6d244180aa53367a6eba7e8c"
+        },
+        {
+            "question": "I will come …………………. I have time.",
+            "description": "We use if to express a condition.",
+            "answers": [
+                "whether",
+                "if",
+                "unless"
+            ],
+            "correct": 1,
+            "id": "066089d2599943928e71885e3777ea11"
+        },
+        {
+            "question": "I went to the shop ……………….. bought some pens.",
+            "description": "We use and to merely add one statement to another.",
+            "answers": [
+                "and",
+                "to",
+                "as"
+            ],
+            "correct": 0,
+            "id": "c09ab896e6a0409f9e105a2c82d83a17"
+        },
+        {
+            "question": "I waited for him ………………… he arrived.",
+            "description": "We use until to show time.",
+            "answers": [
+                "until",
+                "without",
+                "if"
+            ],
+            "correct": 0,
+            "id": "e956def609654003bc69b8a199ea072b"
+        },
+        {
+            "question": "He bled so profusely ……………… he died.",
+            "description": "The conjunction so that can express cause and effect.",
+            "answers": [
+                "so",
+                "that",
+                "as"
+            ],
+            "correct": 1,
+            "id": "a1207dfadc1e468793cb461e309d1239"
+        },
+        {
+            "question": "You will not get the prize ……………….. you deserve it.",
+            "description": "We use unless to express a condition. It is similar to if not.",
+            "answers": [
+                "if",
+                "unless",
+                "whether"
+            ],
+            "correct": 1,
+            "id": "e56b96468b074c51a85060e7f2f5dbcd"
+        }
+    ]
+}

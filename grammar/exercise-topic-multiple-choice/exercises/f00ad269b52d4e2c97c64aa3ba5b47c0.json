@@ -1,0 +1,99 @@
+{
+    "id": "f00ad269b52d4e2c97c64aa3ba5b47c0",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "The battle of Haldighati ……………….  in the sixteenth century.",
+            "description": "",
+            "answers": [
+                "fight",
+                "fought",
+                "was fought",
+                "had fought"
+            ],
+            "correct": 2,
+            "id": "93900e4d766441c7aea28f02c791b0b2"
+        },
+        {
+            "question": "Last week, a cricket match for Prime Minister’s Drought Relief Fund ……………… at Jawahar Lal Nehru Stadium.",
+            "description": "",
+            "answers": [
+                "played",
+                "was played",
+                "has played",
+                "had played"
+            ],
+            "correct": 1,
+            "id": "c872f554ddb44306b4f866cf6df21df4"
+        },
+        {
+            "question": "The tomatoes ………………… when they were ripe.",
+            "description": "",
+            "answers": [
+                "picked",
+                "were picked",
+                "have been picked"
+            ],
+            "correct": 1,
+            "id": "9813fc3c3442457496693abe00d62d32"
+        },
+        {
+            "question": "Many people ………………. in the riots.",
+            "description": "",
+            "answers": [
+                "killed",
+                "have killed",
+                "were killed",
+                "were killing"
+            ],
+            "correct": 2,
+            "id": "81936893ed7e4e9eb23a9572856b8b09"
+        },
+        {
+            "question": "A young boy …………………. alive by the rioters.",
+            "description": "",
+            "answers": [
+                "burned",
+                "was burned",
+                "has burned"
+            ],
+            "correct": 1,
+            "id": "45cac488606a4ebc822756d073b41756"
+        },
+        {
+            "question": "Unauthorized huts in many parts of the city ………………..",
+            "description": "",
+            "answers": [
+                "demolished",
+                "have demolished",
+                "have been demolished"
+            ],
+            "correct": 2,
+            "id": "83bc06421ccc4fddb48677fd6369988a"
+        },
+        {
+            "question": "Ice cream ……………….. after dinner.",
+            "description": "",
+            "answers": [
+                "served",
+                "was served",
+                "has served",
+                "has been served"
+            ],
+            "correct": 1,
+            "id": "1c61faee442a4c019b502fb8e74d46d5"
+        },
+        {
+            "question": "The smugglers …………………",
+            "description": "",
+            "answers": [
+                "have arrested",
+                "arrested",
+                "had arrested",
+                "have been arrested"
+            ],
+            "correct": 3,
+            "id": "c0a2d172fc164cd6a88debb8c036b61a"
+        }
+    ]
+}

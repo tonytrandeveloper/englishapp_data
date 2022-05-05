@@ -1,0 +1,94 @@
+{
+    "id": "8c564bc32e6c420eb83920c19116ddf3",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "There is little ……………… good evidence for flying saucers.",
+            "description": "",
+            "answers": [
+                "if anything",
+                "if",
+                "if any"
+            ],
+            "correct": 2,
+            "id": "54a93dd8dd22454cbccecdea6c242c7b"
+        },
+        {
+            "question": "If it ………………. for the dogs, we wouldn’t have anything to talk about.",
+            "description": "Both 'wasn't' and 'weren't' are possible here. ",
+            "answers": [
+                "wasn't",
+                "weren't",
+                "hasn't"
+            ],
+            "correct": 1,
+            "id": "0b204a07da51490ba316035769df3b1d"
+        },
+        {
+            "question": "Had I realized what he meant, I ……………….. him.",
+            "description": "In third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "would slap",
+                "would have slapped",
+                "will have slapped"
+            ],
+            "correct": 1,
+            "id": "c091875d3ea44e34910cbb71b6982dfa"
+        },
+        {
+            "question": "I am not angry. ………………… I feel a little disappointed.",
+            "description": "",
+            "answers": [
+                "If any",
+                "If anything",
+                "If at all"
+            ],
+            "correct": 1,
+            "id": "c38d3435c7e04c399cfd382378b84195"
+        },
+        {
+            "question": "………………. we not cancelled our tickets, we would all have died in the crash.",
+            "description": "",
+            "answers": [
+                "Had",
+                "Have",
+                "If"
+            ],
+            "correct": 0,
+            "id": "90357c63ce8f4fa3a18d2be0ae6b333d"
+        },
+        {
+            "question": "How would we feel if this ………………. to our family?",
+            "description": "",
+            "answers": [
+                "happen",
+                "happened",
+                "will happen"
+            ],
+            "correct": 1,
+            "id": "d5c52dc19c4543b881550b79d23a27e6"
+        },
+        {
+            "question": "If you ……………… in doubt, ask for help.",
+            "description": "",
+            "answers": [
+                "are",
+                "were",
+                "had been"
+            ],
+            "correct": 0,
+            "id": "4a0d0fe7613342db8654de52e1d38b10"
+        },
+        {
+            "question": "You can borrow my bike …………………. you bring it back.",
+            "description": "",
+            "answers": [
+                "providing",
+                "provided",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "36a6ab5ac91b4e1db360ec7cc6989d51"
+        }
+    ]
+}

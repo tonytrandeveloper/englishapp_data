@@ -1,0 +1,115 @@
+{
+    "id": "9c9e9199917f40be877a5d2b182b2708",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "My mother ………………….. up at 5 am. (Habitual action in the past)",
+            "description": "",
+            "answers": [
+                "gets",
+                "got",
+                "used to get"
+            ],
+            "correct": 2,
+            "id": "f2f1d06798e842aeb5982c7d21f61640"
+        },
+        {
+            "question": "Worldly pleasures ………………….. temporary. (General truth)",
+            "description": "",
+            "answers": [
+                "are",
+                "were",
+                "have been"
+            ],
+            "correct": 0,
+            "id": "4518fe5f655b42fd915eeb0ead8c7257"
+        },
+        {
+            "question": "Portia …………………… that mercy is a divine quality. (General truth)",
+            "description": "",
+            "answers": [
+                "says",
+                "said",
+                "has said"
+            ],
+            "correct": 0,
+            "id": "82dcb2c63fdf451a9ae379d523deac78"
+        },
+        {
+            "question": "They …………………… for the program. (Action in progress)",
+            "description": "",
+            "answers": [
+                "have rehearsed",
+                "are rehearsing"
+            ],
+            "correct": 1,
+            "id": "6bf7e7c281444875b9feb497ae5167e7"
+        },
+        {
+            "question": "None of us …………………. Shakespeare.",
+            "description": "",
+            "answers": [
+                "saw",
+                "seen",
+                "have seen"
+            ],
+            "correct": 2,
+            "id": "e022e1dbe5a84ab0ae903f550df30fb1"
+        },
+        {
+            "question": "His father ………………… last month. (Completed action)",
+            "description": "",
+            "answers": [
+                "died",
+                "has died",
+                "had died"
+            ],
+            "correct": 0,
+            "id": "504c4126f5564ca1b20c6c32ae745114"
+        },
+        {
+            "question": "I ………………….. ready. (Action going on at the moment of speaking)",
+            "description": "",
+            "answers": [
+                "got",
+                "was getting",
+                "am getting"
+            ],
+            "correct": 2,
+            "id": "90ad7f3d44e34749923eb2625473dbbb"
+        },
+        {
+            "question": "When I was young, I …………………. football every day. (Habitual action in the past)",
+            "description": "",
+            "answers": [
+                "was playing",
+                "have played",
+                "used to play"
+            ],
+            "correct": 2,
+            "id": "044f2358b98849238a518cd89d5fa755"
+        },
+        {
+            "question": "When we …………………. a thief ………………….. into our house.",
+            "description": "",
+            "answers": [
+                "slept, broke",
+                "were sleeping, broke",
+                "are sleeping, breaks"
+            ],
+            "correct": 1,
+            "id": "f70660ca8fa942afa9452d8f2d28f6ab"
+        },
+        {
+            "question": "If I ………………… hard, I ………………… (Unfulfilled condition)",
+            "description": "",
+            "answers": [
+                "worked, would pass",
+                "had worked, would have passed",
+                "have worked, will have passed"
+            ],
+            "correct": 1,
+            "id": "4bac57a40d3e44a98fa6b4a651e1d587"
+        }
+    ]
+}

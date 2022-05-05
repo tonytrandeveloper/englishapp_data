@@ -1,0 +1,138 @@
+{
+    "id": "75626281bee547f2ad98d15b7596f054",
+    "title": "Prepositions of Time",
+    "questions": [
+        {
+            "question": "I will be here ........................... next week.",
+            "description": "We use 'for' to indicate duration. We use since to indicate the starting point of a situation. Until shows the ending point of a situation. ",
+            "answers": [
+                "since",
+                "for",
+                "until"
+            ],
+            "correct": 2,
+            "id": "c0eb1d6f49f84dc184ed9f760730f9e4"
+        },
+        {
+            "question": "The school reopens ........................ Monday.",
+            "description": "We use on before the days of the week. ",
+            "answers": [
+                "on",
+                "at",
+                "in"
+            ],
+            "correct": 0,
+            "id": "67aefdd5490d47a1af5c8655b427368c"
+        },
+        {
+            "question": "I invite my friends to dinner .......................... Christmas eve.",
+            "description": "",
+            "answers": [
+                "on",
+                "in",
+                "at"
+            ],
+            "correct": 0,
+            "id": "b37b7998aae14b63bd848bc19b4fa2f1"
+        },
+        {
+            "question": "They are getting married ........................ the tenth of August.",
+            "description": "",
+            "answers": [
+                "in",
+                "on",
+                "at"
+            ],
+            "correct": 1,
+            "id": "445ba5a762b0447db34c8f6e72dcb9cc"
+        },
+        {
+            "question": "They will be here from Monday ............................ Friday.",
+            "description": "Use the pattern from...to.",
+            "answers": [
+                "since",
+                "for",
+                "to"
+            ],
+            "correct": 2,
+            "id": "83fb9294bbe34b1a88248b4e3023d5a3"
+        },
+        {
+            "question": "He hasn't worked ......................... he lost his job.",
+            "description": "Since indicates the starting point of a situation. ",
+            "answers": [
+                "for",
+                "since",
+                "until"
+            ],
+            "correct": 1,
+            "id": "ccae24fcc9404a248c6119a91e8ca4a6"
+        },
+        {
+            "question": "The work won't be complete ........................... Friday.",
+            "description": "",
+            "answers": [
+                "since",
+                "for",
+                "until"
+            ],
+            "correct": 2,
+            "id": "d47a1bacfbfa4ed6ad0669b5a3b1e33b"
+        },
+        {
+            "question": "They are getting married ......................... the spring.",
+            "description": "We use 'in' before seasons. ",
+            "answers": [
+                "on",
+                "in",
+                "at"
+            ],
+            "correct": 1,
+            "id": "a17e74c656624ea3bf11d79708a62382"
+        },
+        {
+            "question": "It usually rains ....................... the month of July.",
+            "description": "We use 'in' before the names of months. ",
+            "answers": [
+                "in",
+                "on",
+                "at"
+            ],
+            "correct": 0,
+            "id": "1672e52b8e384df7a9b674190104491c"
+        },
+        {
+            "question": "You must leave ...................... evening.",
+            "description": "By evening means in the evening or before that. ",
+            "answers": [
+                "until",
+                "by",
+                "since"
+            ],
+            "correct": 1,
+            "id": "0b251d55d4924360be056ee1cf8753dd"
+        },
+        {
+            "question": "I waited for them ......................... evening and then I went home.",
+            "description": "Until and till mean the same. Until is more formal. ",
+            "answers": [
+                "until",
+                "till",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "9524177b936b43b39607341ff7b4ba4c"
+        },
+        {
+            "question": "She was absent ...................... a week.",
+            "description": "We use for to indicate duration. ",
+            "answers": [
+                "since",
+                "for",
+                "until"
+            ],
+            "correct": 1,
+            "id": "b82c0176be724a009cc731c38805f648"
+        }
+    ]
+}

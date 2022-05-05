@@ -1,0 +1,126 @@
+{
+    "id": "7b81e95398c040969b1e6234085a3256",
+    "title": "Enough As An Adjective And An Adverb",
+    "questions": [
+        {
+            "question": "I didn’t get …………………… to finish the report.",
+            "description": "When enough modifies a noun it goes before the noun modified by it.",
+            "answers": [
+                "enough time",
+                "time enough"
+            ],
+            "correct": 0,
+            "id": "bd015f9464824483adf7687551870e2d"
+        },
+        {
+            "question": "She doesn’t have …………………………. to buy an apartment.",
+            "description": "When enough modifies a noun it goes before the noun modified by it.",
+            "answers": [
+                "enough money",
+                "money enough"
+            ],
+            "correct": 0,
+            "id": "e1649e0c06b94c15a0e74f1cde76d2f1"
+        },
+        {
+            "question": "His work was not ……………………………",
+            "description": "When enough modifies an adjective or adverb, it goes after that adjective or adverb.",
+            "answers": [
+                "enough good",
+                "good enough"
+            ],
+            "correct": 1,
+            "id": "27ea0102b4b74f7f91230a78f4149041"
+        },
+        {
+            "question": "I couldn’t answer ……………………………. to pass the exam.",
+            "description": "When enough modifies a noun it goes before the noun modified by it.",
+            "answers": [
+                "questions enough",
+                "enough questions"
+            ],
+            "correct": 1,
+            "id": "5d314414037f4f33bf4d37fa921204d0"
+        },
+        {
+            "question": "Have you bought ……………………………….?",
+            "description": "When enough modifies a noun it goes before the noun modified by it.",
+            "answers": [
+                "eggs enough",
+                "enough eggs"
+            ],
+            "correct": 1,
+            "id": "d56e819577db4033937c84c4519478ab"
+        },
+        {
+            "question": "She doesn’t have …………………………. in the city.",
+            "description": "When enough modifies a noun it goes before the noun modified by it.",
+            "answers": [
+                "enough friends",
+                "friends enough"
+            ],
+            "correct": 0,
+            "id": "f70a3d6fee1c4d1f814de8eb0482724d"
+        },
+        {
+            "question": "The boy is not ………………………… to take care of his little sister.",
+            "description": "When enough modifies an adjective or adverb, it goes after that adjective or adverb.",
+            "answers": [
+                "enough old",
+                "old enough"
+            ],
+            "correct": 1,
+            "id": "be60a9cf48174ba9981633f03c1e9ee5"
+        },
+        {
+            "question": "She has ………………………….. to be a good teacher.",
+            "description": "",
+            "answers": [
+                "enough patience",
+                "patience enough"
+            ],
+            "correct": 0,
+            "id": "d676a602f6974222931df4935b467816"
+        },
+        {
+            "question": "The water wasn’t ………………………….. for a swim.",
+            "description": "When enough modifies an adjective or adverb, it goes after that adjective or adverb.",
+            "answers": [
+                "enough warm",
+                "warm enough"
+            ],
+            "correct": 1,
+            "id": "898f064dbb9a48929bb48f107deb30b1"
+        },
+        {
+            "question": "He was ………………………….. to help me.",
+            "description": "When enough modifies an adjective or adverb, it goes after that adjective or adverb.",
+            "answers": [
+                "enough kind",
+                "kind enough"
+            ],
+            "correct": 1,
+            "id": "f8a792b62bca494bab4bc41794a3526f"
+        },
+        {
+            "question": "He is not ………………………….. to be a wrestler.",
+            "description": "When enough modifies an adjective or adverb, it goes after that adjective or adverb.",
+            "answers": [
+                "enough strong",
+                "strong enough"
+            ],
+            "correct": 1,
+            "id": "bc32acae9a064d4cbc1c6d1b0395688c"
+        },
+        {
+            "question": "He is …………………………… to solve any puzzle.",
+            "description": "When enough modifies an adjective or adverb, it goes after that adjective or adverb.",
+            "answers": [
+                "enough clever",
+                "clever enough"
+            ],
+            "correct": 1,
+            "id": "4ca0dec547614f6d936ff6868ee860bd"
+        }
+    ]
+}

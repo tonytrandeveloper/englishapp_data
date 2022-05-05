@@ -1,0 +1,106 @@
+{
+    "id": "8a8ae9883fb74925be14893843cdf120",
+    "title": "Contractions Exercise",
+    "questions": [
+        {
+            "question": "She’s never been to the US.",
+            "description": "",
+            "answers": [
+                "She's = she has",
+                "She's = she is"
+            ],
+            "correct": 0,
+            "id": "2d8ba65ff936440687896dca3225d2e5"
+        },
+        {
+            "question": "There’s someone at the door.",
+            "description": "",
+            "answers": [
+                "There's = there is",
+                "There's =there has"
+            ],
+            "correct": 0,
+            "id": "0c827623b6e3498c8382c5e90c870da4"
+        },
+        {
+            "question": "The dog is happy. It’s had its breakfast.",
+            "description": "",
+            "answers": [
+                "It's = it is",
+                "It's = it has"
+            ],
+            "correct": 1,
+            "id": "0fbf5177de224a5990c008d4d9757f93"
+        },
+        {
+            "question": "He’s not interested in the offer.",
+            "description": "",
+            "answers": [
+                "He's = he is",
+                "He's = he has"
+            ],
+            "correct": 0,
+            "id": "dc1c103710d44eedbc0ffdbe0f3bcc65"
+        },
+        {
+            "question": "There’s a problem.",
+            "description": "",
+            "answers": [
+                "There's = there is",
+                "There's = there has"
+            ],
+            "correct": 0,
+            "id": "93a4dbdfac694c488e9f543a3bd796ca"
+        },
+        {
+            "question": "She’s from Mexico.",
+            "description": "",
+            "answers": [
+                "She's = she is",
+                "She's = she has"
+            ],
+            "correct": 0,
+            "id": "cd59ff3c2448461a8ffd7a780d9cbade"
+        },
+        {
+            "question": "He’s gone to the market.",
+            "description": "",
+            "answers": [
+                "He's = he has",
+                "He's = he is"
+            ],
+            "correct": 0,
+            "id": "87de52e3a3244f31b6c804c744a106b2"
+        },
+        {
+            "question": "It’s a sad state of affairs.",
+            "description": "",
+            "answers": [
+                "It's = it is",
+                "It's = it has"
+            ],
+            "correct": 0,
+            "id": "fdd3c5465cb54a7d9bd761d016a5988e"
+        },
+        {
+            "question": "There’s been an explosion near the temple.",
+            "description": "",
+            "answers": [
+                "There's = there is",
+                "There's = there has"
+            ],
+            "correct": 1,
+            "id": "f18bfaee56ed45e7bf11ed1bcbc92e8e"
+        },
+        {
+            "question": "She’s returned from her business tour.",
+            "description": "",
+            "answers": [
+                "She's = she has",
+                "She's = she is"
+            ],
+            "correct": 0,
+            "id": "23ff66fce7c148ec9f95cecc2b166c9f"
+        }
+    ]
+}

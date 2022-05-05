@@ -1,0 +1,149 @@
+{
+    "id": "dffc529a54244cdb81711365feb717ac",
+    "title": "Parts Of Speech Exercise",
+    "questions": [
+        {
+            "question": "She went to the market and bought some eggs. Here went is a ................................",
+            "description": "",
+            "answers": [
+                "verb",
+                "adverb",
+                "noun"
+            ],
+            "correct": 0,
+            "id": "9aaaeccde09846cea937ca4ede8b1199"
+        },
+        {
+            "question": "I want to go now. Here now is a/an ..............................",
+            "description": "",
+            "answers": [
+                "verb",
+                "adjective",
+                "adverb"
+            ],
+            "correct": 2,
+            "id": "d5ce045a8de14bacba07c36ad53d9064"
+        },
+        {
+            "question": "What are you doing there? Here there is a/an ..................................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "adverb",
+                "verb"
+            ],
+            "correct": 1,
+            "id": "485ec89dfed84507a8b99f8f19044fc1"
+        },
+        {
+            "question": "There is a mouse underneath the piano. Underneath is a/an ........................................",
+            "description": "",
+            "answers": [
+                "conjunction",
+                "preposition",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "3fdc9db50e244d3c829f3307f8829427"
+        },
+        {
+            "question": "Masons build houses. Masons is a/an .....................................",
+            "description": "",
+            "answers": [
+                "verb",
+                "adverb",
+                "noun"
+            ],
+            "correct": 2,
+            "id": "1fe1b142c84b488385b99fdc431385c7"
+        },
+        {
+            "question": "John is my best friend. Here John is a/an ........................................",
+            "description": "",
+            "answers": [
+                "Proper noun",
+                "Collective noun",
+                "Common noun"
+            ],
+            "correct": 0,
+            "id": "e932b5c164d9402b9b307ca29d666eba"
+        },
+        {
+            "question": "She looked up but didn’t see anything.  Here up is a/an ............................................",
+            "description": "",
+            "answers": [
+                "verb",
+                "adverb",
+                "conjunction"
+            ],
+            "correct": 1,
+            "id": "33382a83eb0c4587a9e7f4a6082264c0"
+        },
+        {
+            "question": "My family live in different parts of India.  Here family is a/an ..........................................",
+            "description": "",
+            "answers": [
+                "common noun",
+                "abstract noun",
+                "collective noun"
+            ],
+            "correct": 2,
+            "id": "c9fe4fc7a01e44dcbadd1925a3f6f472"
+        },
+        {
+            "question": "That was a difficult question. Here difficult is a/an ...........................................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "adverb",
+                "preposition"
+            ],
+            "correct": 0,
+            "id": "a1733777ab7b41528bb9dede32fac45f"
+        },
+        {
+            "question": "She was very impressed with her results. Here very is a/an ...............................................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "adverb",
+                "verb"
+            ],
+            "correct": 1,
+            "id": "4312f5f368cf41bf8ade1ff8e9663910"
+        },
+        {
+            "question": "Although she is poor, she is happy. Although is a/an ............................................",
+            "description": "",
+            "answers": [
+                "conjunction",
+                "preposition",
+                "verb"
+            ],
+            "correct": 0,
+            "id": "6d36b481ab36449a83ed9f1b8adea450"
+        },
+        {
+            "question": "Have we bought enough chairs? Enough is a/an ..............................................",
+            "description": "",
+            "answers": [
+                "adverb",
+                "adjective",
+                "preposition"
+            ],
+            "correct": 1,
+            "id": "32e6e6a9eb084f9c878f18933ec6b0d0"
+        },
+        {
+            "question": "The policeman didn’t run fast enough to catch the thief.  Here fast is a/an .........................................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "adverb",
+                "verb"
+            ],
+            "correct": 1,
+            "id": "fc4ebd1c64a74fa694e8288c06c8bd34"
+        }
+    ]
+}

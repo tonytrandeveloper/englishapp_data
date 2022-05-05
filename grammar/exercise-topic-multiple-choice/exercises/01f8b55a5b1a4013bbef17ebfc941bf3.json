@@ -1,0 +1,139 @@
+{
+    "id": "01f8b55a5b1a4013bbef17ebfc941bf3",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "We ………………………… a party in the afternoon.",
+            "description": "The present continuous is commonly used to talk about future events which have already been planned or decided.",
+            "answers": [
+                "throw",
+                "are throwing",
+                "would throw"
+            ],
+            "correct": 1,
+            "id": "6779f7825de045acab32268537a8cf13"
+        },
+        {
+            "question": "Dad ………………………….. for Germany tomorrow.",
+            "description": "The present continuous is commonly used to talk about future events which have already been planned or decided.",
+            "answers": [
+                "leaves",
+                "is leaving",
+                "leave"
+            ],
+            "correct": 1,
+            "id": "acc31a2c82554c50b9502283351c1925"
+        },
+        {
+            "question": "It ……………………………. later in the day.",
+            "description": "We use the simple future to talk about future events which are not already decided.",
+            "answers": [
+                "rains",
+                "will rain",
+                "is raining"
+            ],
+            "correct": 1,
+            "id": "2e6b0c78e42245b6b5d325ae78b26b7f"
+        },
+        {
+            "question": "I don’t think that I …………………………. the test.",
+            "description": "",
+            "answers": [
+                "pass",
+                "will pass",
+                "am passing"
+            ],
+            "correct": 1,
+            "id": "186fd9a01a23439e997da76f93142425"
+        },
+        {
+            "question": "They ……………………………. married in June.",
+            "description": "The present continuous is commonly used to talk about future events which have already been planned or decided.",
+            "answers": [
+                "will get",
+                "get",
+                "are getting"
+            ],
+            "correct": 2,
+            "id": "c9fc2eb27ff84c7b9c5ddd49dc1003a9"
+        },
+        {
+            "question": "If they offer a good salary, I ……………………………. that job.",
+            "description": "",
+            "answers": [
+                "am accepting",
+                "accept",
+                "will accept"
+            ],
+            "correct": 2,
+            "id": "dc5a34ade2514c6180b2af09e903e226"
+        },
+        {
+            "question": "If they find out, we ………………………………. be in trouble.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + first form of the verb in the main clause. ",
+            "answers": [
+                "will",
+                "would",
+                "could"
+            ],
+            "correct": 0,
+            "id": "c1cdf5ecceff4469a81b925f879dff4a"
+        },
+        {
+            "question": "You …………………………… never succeed.",
+            "description": "",
+            "answers": [
+                "will",
+                "shall",
+                "would"
+            ],
+            "correct": 0,
+            "id": "7c196bfb562146fa90182c3f3dce1d25"
+        },
+        {
+            "question": "I think our team …………………………….. win.",
+            "description": "",
+            "answers": [
+                "will",
+                "shall",
+                "can"
+            ],
+            "correct": 0,
+            "id": "6b0348be66574f40b24920c6bb42ae79"
+        },
+        {
+            "question": "I …………………………. not allow anyone to read my letters.",
+            "description": "Shall and will are common in offers, threats, promises and announcements of decisions.",
+            "answers": [
+                "would",
+                "shall",
+                "will"
+            ],
+            "correct": 2,
+            "id": "ea4e8d26328a4673bedd9d3ae9a34f83"
+        },
+        {
+            "question": "You ……………………………. pay for this.",
+            "description": "Shall and will are common in offers, threats, promises and announcements of decisions.",
+            "answers": [
+                "will",
+                "shall",
+                "can",
+                "would"
+            ],
+            "correct": 1,
+            "id": "209613b86fcf4bbcb307a709f8361eb4"
+        },
+        {
+            "question": "Why did you go swimming in that lake? You …………………………….. yourself.",
+            "description": "Could have + past participle is used to criticize people.",
+            "answers": [
+                "could kill",
+                "could have killed",
+                "will kill"
+            ],
+            "correct": 1,
+            "id": "723d39ac5066432dae7bdb0f2ba6aa01"
+        }
+    ]
+}

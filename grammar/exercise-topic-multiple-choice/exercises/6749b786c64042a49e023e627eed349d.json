@@ -1,0 +1,138 @@
+{
+    "id": "6749b786c64042a49e023e627eed349d",
+    "title": "For, In, From, and Since | Grammar Exercise",
+    "questions": [
+        {
+            "question": "I once studied the violin .......................... six months.",
+            "description": "Use for with periods of time. ",
+            "answers": [
+                "since",
+                "for",
+                "from"
+            ],
+            "correct": 1,
+            "id": "dff958de45544e408bc2a4138db95b19"
+        },
+        {
+            "question": "I have known him ........................... our school days.",
+            "description": "Since gives the starting point of an action or situation. ",
+            "answers": [
+                "for",
+                "since",
+                "from"
+            ],
+            "correct": 1,
+            "id": "284539cd6a3f461ab3b1894d01288988"
+        },
+        {
+            "question": "That house has been empty ......................... several years.",
+            "description": "Use for with a period of time. ",
+            "answers": [
+                "since",
+                "from",
+                "for"
+            ],
+            "correct": 2,
+            "id": "51b2ef0d6c2c4d9ea16bb98c512b3873"
+        },
+        {
+            "question": "How long have you been here ...........................?",
+            "description": "For shows duration. Use it with a period of time. ",
+            "answers": [
+                "since",
+                "for",
+                "from"
+            ],
+            "correct": 1,
+            "id": "aab7b58f76bc4ff7ac805ea6716bc8b0"
+        },
+        {
+            "question": "He has not been keeping good health ........................... he moved to the city.",
+            "description": "Since gives the starting point of something. ",
+            "answers": [
+                "since",
+                "for",
+                "from"
+            ],
+            "correct": 0,
+            "id": "66f55c7c7e474040868df1ab3b05a493"
+        },
+        {
+            "question": "I am going to my native place ........................... the summer.",
+            "description": "",
+            "answers": [
+                "for",
+                "since",
+                "from"
+            ],
+            "correct": 0,
+            "id": "2f067fc2aa474c34a46b08552cde1257"
+        },
+        {
+            "question": "They are getting married ............................. July.",
+            "description": "Use in before the names of months and seasons. ",
+            "answers": [
+                "from",
+                "since",
+                "in"
+            ],
+            "correct": 2,
+            "id": "6ce71deaf7714379b5e78aa4065fd7c4"
+        },
+        {
+            "question": "................................ now on, I am going to go jogging every day.",
+            "description": "From gives the starting point of an action or situation. We mainly use it with simple tenses. ",
+            "answers": [
+                "From",
+                "Since",
+                "For"
+            ],
+            "correct": 0,
+            "id": "98cb369fd3a844b5a1b7291575f04696"
+        },
+        {
+            "question": "The shop was open .......................... six in the morning.",
+            "description": "From is mainly used with simple tenses. Since is mainly used with perfect tenses. ",
+            "answers": [
+                "from",
+                "since",
+                "for"
+            ],
+            "correct": 0,
+            "id": "853ee88fcb4a4583a36ed672e2c2b3ee"
+        },
+        {
+            "question": "Trees shed their leaves ................................. autumn.",
+            "description": "Use in before the names of months and seasons. ",
+            "answers": [
+                "from",
+                "for",
+                "in"
+            ],
+            "correct": 2,
+            "id": "d916efed97a7448f901d87a9349c49f5"
+        },
+        {
+            "question": "I have been working .................................. 10 o'clock and I am getting tired.",
+            "description": "We mainly use since with perfect and perfect continuous tenses. ",
+            "answers": [
+                "from",
+                "since",
+                "for"
+            ],
+            "correct": 1,
+            "id": "f2fd69aaae7c455eaf4fad1cf2f5a187"
+        },
+        {
+            "question": "I have known her ......................... Monday.",
+            "description": "Use since with the starting point. ",
+            "answers": [
+                "from",
+                "since",
+                "for"
+            ],
+            "correct": 1,
+            "id": "e3dfffda03de4d1dada934f3e1306afc"
+        }
+    ]
+}

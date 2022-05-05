@@ -1,0 +1,386 @@
+{
+    "id": "ab61048f752945849519bffaf84aca28",
+    "title": "Present Simple Positive with 'be'",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "is"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) a teacher."
+                }
+            ],
+            "id": "53f20a2cd83e4643b0d7c9bca22756a6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "are"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) hungry."
+                }
+            ],
+            "id": "8dfea815690c456d9728572f4049fd46"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Luke"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "is"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) late."
+                }
+            ],
+            "id": "96f08312e6a44e60ba6b2baa0e78929c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "are"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) Spanish."
+                }
+            ],
+            "id": "e394f56c6d8e4b0393db8a3d7febde4b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "are"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) happy."
+                }
+            ],
+            "id": "8342dfed821d4c98b0c2f3b129519483"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "am"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) thirsty."
+                }
+            ],
+            "id": "ae8249eaee86442aac12796b7b276a27"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "is"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) cold."
+                }
+            ],
+            "id": "90221a9141784d5aa3b8542fc50bc709"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "is"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) German."
+                }
+            ],
+            "id": "0af3f26357344fa2a2b26428cbfcce2e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "is"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) early."
+                }
+            ],
+            "id": "07249f0935de412ca09383693d2bf53e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "are"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) tired."
+                }
+            ],
+            "id": "c2afcea0a18f44dcb0451456736e7e6c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "are"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) beautiful."
+                }
+            ],
+            "id": "ababb1a3d8fd4f50aad72c126cc50352"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "am"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) hot."
+                }
+            ],
+            "id": "e2b12a8b02e84ce6a0711ec71809aacc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "am"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) from London."
+                }
+            ],
+            "id": "8bf7b26368bc4835bcec323d0d0f422d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "are"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) a doctor."
+                }
+            ],
+            "id": "cc1126db06c34ba5bdc6a8219ad07c39"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Emily"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "is"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) my sister."
+                }
+            ],
+            "id": "799f9b1f39104db089e7590f62b6c1b9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "is"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in the garden."
+                }
+            ],
+            "id": "7fd802ee022042e9abc83680529b12d5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "are"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) on the bus."
+                }
+            ],
+            "id": "4c1435f83a664a55a8c7b0c938b0cf14"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "are"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) friends."
+                }
+            ],
+            "id": "979f2411d93d4ceea4bb5b19a8b6f81d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "am"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) 25 years old."
+                }
+            ],
+            "id": "8a8dfce8fea04ffc8934209aee43f7ec"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "is"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) sick."
+                }
+            ],
+            "id": "c9f0b4355f1b4da9b8acf7ed02dc82ac"
+        }
+    ]
+}

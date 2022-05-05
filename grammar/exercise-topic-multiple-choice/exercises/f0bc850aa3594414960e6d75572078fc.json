@@ -1,0 +1,128 @@
+{
+    "id": "f0bc850aa3594414960e6d75572078fc",
+    "title": "English Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "The plays of Oscar Wilde are celebrated for their ………………………….",
+            "description": "An epigram is a witty saying.",
+            "answers": [
+                "epigrams",
+                "epithets",
+                "epics"
+            ],
+            "correct": 0,
+            "id": "839d170c236d4f48967fb206cad13fc1"
+        },
+        {
+            "question": "The book’s ……………………………….. hints at what the author thinks the future will hold.",
+            "description": "Epilogue means concluding speech.",
+            "answers": [
+                "epigram",
+                "epilogue"
+            ],
+            "correct": 1,
+            "id": "04d435cb3031463f92f2849e4c65e881"
+        },
+        {
+            "question": "Money and good taste made her the ………………………………. of fashion.",
+            "description": "Epitome means embodiment.",
+            "answers": [
+                "epigram",
+                "epitome",
+                "epithet"
+            ],
+            "correct": 1,
+            "id": "e420ace7552d49ae861240fe3f2feaad"
+        },
+        {
+            "question": "He is in the ……………………………. position of being able to choose between two high paying jobs.",
+            "description": "Enviable means worthy of envy.",
+            "answers": [
+                "envious",
+                "enviable"
+            ],
+            "correct": 1,
+            "id": "7660bc22aa9240ea87e8340d1f050969"
+        },
+        {
+            "question": "The woman was too ………………………………. to enjoy her friend’s good fortune.",
+            "description": "Envious means jealous.",
+            "answers": [
+                "envious",
+                "enviable"
+            ],
+            "correct": 0,
+            "id": "981298f6bddf447a8236634d42c92c09"
+        },
+        {
+            "question": "Fold the letter and put it in an ……………………………..",
+            "description": "Envelop is a verb. Envelope means paper wrapper.",
+            "answers": [
+                "envelope",
+                "envelop"
+            ],
+            "correct": 0,
+            "id": "a0136e549cc8401db9222cfb9eb35015"
+        },
+        {
+            "question": "Florida has a more ……………………………… climate than Maine.",
+            "description": "Equable means consistent.",
+            "answers": [
+                "equable",
+                "equal"
+            ],
+            "correct": 0,
+            "id": "aed6c7db61514774b830ccbec22e340b"
+        },
+        {
+            "question": "The explosive situation was handled with ………………………………….. restraint.",
+            "description": "Eminent means extraordinary.",
+            "answers": [
+                "eminent",
+                "imminent"
+            ],
+            "correct": 0,
+            "id": "365c3872e4d24ade812244838dceb2fa"
+        },
+        {
+            "question": "Good transportation is needed for the …………………………….. growth of the county.",
+            "description": "Economic means monetary.",
+            "answers": [
+                "economic",
+                "economical"
+            ],
+            "correct": 0,
+            "id": "e73c3d16537f4072bb3a5d2054687e3d"
+        },
+        {
+            "question": "……………………………….. shoppers wait for special sales.",
+            "description": "Economical means thrifty.",
+            "answers": [
+                "Economic",
+                "Economical"
+            ],
+            "correct": 1,
+            "id": "6457b25a878543739c7e006a02eb7965"
+        },
+        {
+            "question": "The farmers felt the ……………………………….. of the drought for years.",
+            "description": "",
+            "answers": [
+                "effect",
+                "affect"
+            ],
+            "correct": 0,
+            "id": "846ee9e64ddc46a0a4ab3a689385f0fd"
+        },
+        {
+            "question": "The drought ………………………………… the crops.",
+            "description": "",
+            "answers": [
+                "effected",
+                "affected"
+            ],
+            "correct": 1,
+            "id": "6a21f7ac1f924a29867e732d4a3eae74"
+        }
+    ]
+}

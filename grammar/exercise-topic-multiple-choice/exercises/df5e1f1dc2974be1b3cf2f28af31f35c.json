@@ -1,0 +1,138 @@
+{
+    "id": "df5e1f1dc2974be1b3cf2f28af31f35c",
+    "title": "Prepositions Exercise",
+    "questions": [
+        {
+            "question": "We commenced work ………………… Monday.",
+            "description": "From indicates some point of time. It is used with all tenses.",
+            "answers": [
+                "since",
+                "in",
+                "from"
+            ],
+            "correct": 2,
+            "id": "0fabb22017504f35a020a8d58150c330"
+        },
+        {
+            "question": "He sat …………………….. a chair.",
+            "description": "We use on to speak of things at rest.",
+            "answers": [
+                "in",
+                "on",
+                "onto"
+            ],
+            "correct": 1,
+            "id": "8b4eee04b4514e26b7ef1f28125ad12c"
+        },
+        {
+            "question": "I slept ……………………… 11 o’clock.",
+            "description": "We use till to indicate time. We use up to to indicate distance or quantity.",
+            "answers": [
+                "till",
+                "until",
+                "up to"
+            ],
+            "correct": 1,
+            "id": "45296c42e93b44b9840a21c3acf5d21c"
+        },
+        {
+            "question": "I have not eaten anything ……………………… yesterday.",
+            "description": "Since denotes some point of time in the past. It is used with a perfect tense.",
+            "answers": [
+                "from",
+                "since",
+                "for"
+            ],
+            "correct": 1,
+            "id": "882abaaecb9346209311c028aa341535"
+        },
+        {
+            "question": "We walked …………………………. the end of the street.",
+            "description": "We use up to to talk about distance.",
+            "answers": [
+                "until",
+                "till",
+                "up to"
+            ],
+            "correct": 2,
+            "id": "c8e01080fb1846aa8ee54b5011fd4fb9"
+        },
+        {
+            "question": "An old feud existed ………………………. the two families.",
+            "description": "We use between to speak of two people or things.",
+            "answers": [
+                "between",
+                "among",
+                "with"
+            ],
+            "correct": 0,
+            "id": "bebe87e8e47c459cbd81fd59becca1e7"
+        },
+        {
+            "question": "The caravan must reach its destination …………………………… sunset.",
+            "description": "We use before to indicate time we use in front of to indicate position.",
+            "answers": [
+                "in",
+                "before",
+                "in front of"
+            ],
+            "correct": 1,
+            "id": "2fccdaad97544d098b6df94607aabe89"
+        },
+        {
+            "question": "I will return ……………………….. an hour.",
+            "description": "We use in before a noun denoting a period of time",
+            "answers": [
+                "in",
+                "by",
+                "on"
+            ],
+            "correct": 0,
+            "id": "74c9c6a4f3da4697a422cb1b0da51bf8"
+        },
+        {
+            "question": "I must start …………………….. dawn.",
+            "description": "",
+            "answers": [
+                "in",
+                "on",
+                "at"
+            ],
+            "correct": 2,
+            "id": "348a93504b5c46659b11e510a69eee4f"
+        },
+        {
+            "question": "I have been waiting for this moment …………………….. years.",
+            "description": "We use for to indicate duration.",
+            "answers": [
+                "since",
+                "from",
+                "for"
+            ],
+            "correct": 2,
+            "id": "b541d74d793c42fb8184a948b25dd7b4"
+        },
+        {
+            "question": "He is …………………… the top of the class.",
+            "description": "",
+            "answers": [
+                "at",
+                "on",
+                "in"
+            ],
+            "correct": 0,
+            "id": "9305c84a83064989894fdfe03bafe4c5"
+        },
+        {
+            "question": "That is the boy I was speaking ……………………..",
+            "description": "",
+            "answers": [
+                "on",
+                "of",
+                "over"
+            ],
+            "correct": 1,
+            "id": "386eb6f17b4248768de931b15d8cd67f"
+        }
+    ]
+}

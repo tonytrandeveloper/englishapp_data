@@ -1,0 +1,138 @@
+{
+    "id": "438fa162149a4080a842b5514b44ac6f",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "…………………….. their best efforts, they could not save him.",
+            "description": "Either despite or in spite of is possible here. ",
+            "answers": [
+                "Despite",
+                "In spite of",
+                "Though"
+            ],
+            "correct": 1,
+            "id": "2c82878e230540469f2612e293e32c5f"
+        },
+        {
+            "question": "……………………. she does not have impressive looks, she is confident.",
+            "description": "Though is a conjunction. Use it to introduce a clause. ",
+            "answers": [
+                "Though",
+                "However",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "179355c2548d44e7a20fb7269b2dda6d"
+        },
+        {
+            "question": "He has everything ……………………, he is not happy.",
+            "description": "However is a transitional adverb use a full stop or a semicolon before however. ",
+            "answers": [
+                "though",
+                "however",
+                "but"
+            ],
+            "correct": 1,
+            "id": "844bc9f576e04b0e9ff94db56cba5d1b"
+        },
+        {
+            "question": "They worked hard …………………….. they couldn’t meet the deadline.",
+            "description": "But is a conjunction connecting two independent clauses. ",
+            "answers": [
+                "but",
+                "though",
+                "despite"
+            ],
+            "correct": 0,
+            "id": "e4ab8aa9e7184c61aac44e1f1ab10614"
+        },
+        {
+            "question": "………………….. I have known her for a long time, we are not close friends.",
+            "description": "",
+            "answers": [
+                "Though",
+                "As",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "a6808314c11f447db56966661b74a2ed"
+        },
+        {
+            "question": "……………………. working hard, we couldn’t finish the job on time.",
+            "description": "Despite is a preposition. Use it before a noun or an ing form.",
+            "answers": [
+                "Despite",
+                "Though",
+                "However"
+            ],
+            "correct": 0,
+            "id": "06a9cefe1bec45f6bf2b7527ce32a0bd"
+        },
+        {
+            "question": "She has a good job ………………….., she never seems to have enough money.",
+            "description": "",
+            "answers": [
+                "however",
+                "though",
+                "but"
+            ],
+            "correct": 0,
+            "id": "da5addf1d41c43a6ac8851605f6cf638"
+        },
+        {
+            "question": "………………….. she is younger than me, I always look up to her.",
+            "description": "Though is a conjunction used to connect two contrasting ideas. ",
+            "answers": [
+                "Though",
+                "Despite",
+                "However"
+            ],
+            "correct": 0,
+            "id": "f9420b1bc0404612b25e455c987c9ab4"
+        },
+        {
+            "question": "She eats a lot ……………………, she does not gain weight.",
+            "description": "However is a transitional adverb. Use it after a full stop or a semicolon. ",
+            "answers": [
+                "however",
+                "though",
+                "but"
+            ],
+            "correct": 0,
+            "id": "c6586f8329b24f669c337f9de185bdab"
+        },
+        {
+            "question": "……………………… eating a lot, she does not gain weight.",
+            "description": "",
+            "answers": [
+                "Despite",
+                "Though",
+                "However"
+            ],
+            "correct": 0,
+            "id": "967b9feb9c944b668c3d96f09c2f8b0f"
+        },
+        {
+            "question": "………………………… she eats a lot, she does not gain weight.",
+            "description": "",
+            "answers": [
+                "Though",
+                "However",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "ce9c0c9c703d485387fad48f9ab2ab1a"
+        },
+        {
+            "question": "It might sound strange, ……………………. I don’t like cricket.",
+            "description": "But is used to connect two independent clauses expressing contrasting ideas. ",
+            "answers": [
+                "though",
+                "but",
+                "however"
+            ],
+            "correct": 1,
+            "id": "741954ca20004fe79e27c0db046e5a6e"
+        }
+    ]
+}

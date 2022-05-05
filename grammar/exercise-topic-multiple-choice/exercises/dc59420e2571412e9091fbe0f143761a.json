@@ -1,0 +1,105 @@
+{
+    "id": "dc59420e2571412e9091fbe0f143761a",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "When I ……………. from work in the evening, I ………………… the house locked. I did not know what to do.",
+            "description": "",
+            "answers": [
+                "returned, found",
+                "return, find",
+                "returned, was finding"
+            ],
+            "correct": 0,
+            "id": "09d93fa0a4314086bd35a5025ac377dd"
+        },
+        {
+            "question": "Have you heard the proverb that a stitch in time ……………. nine ?",
+            "description": "",
+            "answers": [
+                "save",
+                "saves",
+                "saved"
+            ],
+            "correct": 1,
+            "id": "15d0141769164ac2814f52a0dac2fb7d"
+        },
+        {
+            "question": "The teacher …………….. us a story to illustrate that honesty ……………….. a noble virtue.",
+            "description": "",
+            "answers": [
+                "told, was",
+                "told, is",
+                "had told, is"
+            ],
+            "correct": 1,
+            "id": "b6fb4396f26447dfbe3ec1454efa4afb"
+        },
+        {
+            "question": "He ………………. me yesterday if I …………………. him a few dollars.",
+            "description": "",
+            "answers": [
+                "asked, could lend",
+                "was asking, could lend",
+                "asked, can lend"
+            ],
+            "correct": 0,
+            "id": "21f5023e0c73438f8102f4f590ae0320"
+        },
+        {
+            "question": "They said that they ……………. the bus.",
+            "description": "",
+            "answers": [
+                "miss",
+                "missed",
+                "misses"
+            ],
+            "correct": 1,
+            "id": "ee884c1a8f124813bb06fe3a3d44f1df"
+        },
+        {
+            "question": "Do not quit this job till you ………………. another.",
+            "description": "",
+            "answers": [
+                "get",
+                "got",
+                "will get"
+            ],
+            "correct": 0,
+            "id": "5f52ea80928b45d2ab3ac8cb68582c40"
+        },
+        {
+            "question": "I ………………… a message as soon as I reached New York.",
+            "description": "",
+            "answers": [
+                "sent",
+                "send",
+                "will send"
+            ],
+            "correct": 0,
+            "id": "760bdd972b6e4764836a598dd7fe0f06"
+        },
+        {
+            "question": "Galileo …………….. that it ……………..  the earth that ………………… round the sun.",
+            "description": "",
+            "answers": [
+                "maintains, is, goes",
+                "maintained, was, went",
+                "has maintained, was, goes"
+            ],
+            "correct": 1,
+            "id": "09f7c84e76c14443aa6d2f47502a3093"
+        },
+        {
+            "question": "We ………………… what we …………………",
+            "description": "",
+            "answers": [
+                "believe, see",
+                "believe, saw",
+                "believed, see"
+            ],
+            "correct": 0,
+            "id": "a4c829a65b4142d9b33533220b645f5f"
+        }
+    ]
+}

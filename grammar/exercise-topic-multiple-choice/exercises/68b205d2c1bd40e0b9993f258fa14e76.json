@@ -1,0 +1,138 @@
+{
+    "id": "68b205d2c1bd40e0b9993f258fa14e76",
+    "title": "Omission | Grammar Exercise",
+    "questions": [
+        {
+            "question": "I might can be able to help.",
+            "description": "Can should be removed. The sentence should read: I might be able to help.",
+            "answers": [
+                "might",
+                "can",
+                "able"
+            ],
+            "correct": 1,
+            "id": "f1ad3d77b95d46d0899187c3b178eba9"
+        },
+        {
+            "question": "I came as much quickly as I could.",
+            "description": "Before adjectives and adverbs, as is used without much.",
+            "answers": [
+                "as",
+                "much",
+                "quickly"
+            ],
+            "correct": 1,
+            "id": "a346b3efc420467fa2f9cbf1f2350a5e"
+        },
+        {
+            "question": "I don’t care how much expensive that laptop is. I am going to buy it.",
+            "description": "Before adjectives and adverbs how is used without much.",
+            "answers": [
+                "how",
+                "much",
+                "that"
+            ],
+            "correct": 1,
+            "id": "8d37f11b05334222b889db87e9f72aad"
+        },
+        {
+            "question": "You are quite rather a nuisance.",
+            "description": "Quite and rather have very similar meanings. Use only one of them in a sentence.",
+            "answers": [
+                "quite",
+                "rather",
+                "Either quite or rather"
+            ],
+            "correct": 2,
+            "id": "a0ba4fee398e45a8a40285bacb601fe1"
+        },
+        {
+            "question": "Do not talk such a nonsense!",
+            "description": "Such is used without a before uncountable nouns.",
+            "answers": [
+                "Do",
+                "Such",
+                "A"
+            ],
+            "correct": 2,
+            "id": "6b0662b57b9e4c388424b950dc81f72f"
+        },
+        {
+            "question": "I have been to quite too many countries recently.",
+            "description": "Quite should be removed. Quite cannot modify too many or too much.",
+            "answers": [
+                "quite",
+                "too",
+                "many"
+            ],
+            "correct": 0,
+            "id": "6be5634003b94d8f9d3edf4e4bc0d7e0"
+        },
+        {
+            "question": "Most of people do not understand philosophy.",
+            "description": "We use most without of before a noun without a determiner.",
+            "answers": [
+                "Most",
+                "Of",
+                "Do"
+            ],
+            "correct": 1,
+            "id": "ccff6ca89d854a909e55c36ce3cdd35e"
+        },
+        {
+            "question": "I have read all six of novels by Jane Austen.",
+            "description": "Of is omitted before a noun without a determiner.",
+            "answers": [
+                "have",
+                "all",
+                "of"
+            ],
+            "correct": 2,
+            "id": "dc0cb6dabd1c4fedb59c1b5ebe05c3e7"
+        },
+        {
+            "question": "Although I was not interested in the lecture, but I sat through it.",
+            "description": "Although and but have very similar meanings. Use only one of them in a sentence.",
+            "answers": [
+                "although",
+                "but",
+                "Either although or but"
+            ],
+            "correct": 2,
+            "id": "c7d4e73e30a14dd38c8ca3038ab5c62f"
+        },
+        {
+            "question": "Though he started early but he arrived last.",
+            "description": "Though and but have very similar meanings. Use only one of them in a sentence.",
+            "answers": [
+                "though",
+                "but",
+                "Either though or but"
+            ],
+            "correct": 2,
+            "id": "2525eb730d2a4001b090c2098032bb2c"
+        },
+        {
+            "question": "It is a small house. Besides, it also needs a lot of repairs.",
+            "description": "Besides and also mean the same. Use only one of them in a sentence.",
+            "answers": [
+                "also",
+                "a",
+                "of"
+            ],
+            "correct": 0,
+            "id": "bd82af362c934e509040ac161ec8940b"
+        },
+        {
+            "question": "I will never forget meeting you on that afternoon.",
+            "description": "Prepositions are not normally used before expressions beginning with next or last. ",
+            "answers": [
+                "never",
+                "on",
+                "that"
+            ],
+            "correct": 1,
+            "id": "55a8fd2855254a599556cabe327dcec2"
+        }
+    ]
+}

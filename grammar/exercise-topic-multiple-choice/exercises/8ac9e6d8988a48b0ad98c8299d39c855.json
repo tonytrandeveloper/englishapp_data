@@ -1,0 +1,104 @@
+{
+    "id": "8ac9e6d8988a48b0ad98c8299d39c855",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "There is ……………… noise.",
+            "description": "",
+            "answers": [
+                "too much",
+                "too many",
+                "too"
+            ],
+            "correct": 0,
+            "id": "b0e729f7aa0f41b6a93b4e625d33b1bd"
+        },
+        {
+            "question": "………………… people do you need to help you?",
+            "description": "",
+            "answers": [
+                "How many",
+                "How much"
+            ],
+            "correct": 0,
+            "id": "92b89bfcd4fc45679aed7b83a0156498"
+        },
+        {
+            "question": "We have got …………………. time left.",
+            "description": "",
+            "answers": [
+                "very little",
+                "very few",
+                "little"
+            ],
+            "correct": 0,
+            "id": "c8c5d314565940898d6a8b3b35b2d795"
+        },
+        {
+            "question": "We met ………………….. people who spoke English.",
+            "description": "",
+            "answers": [
+                "rather",
+                "rather few",
+                "rather less"
+            ],
+            "correct": 1,
+            "id": "84dfa820843a4df4add6c4b4737b1b90"
+        },
+        {
+            "question": "Our firm does ………………….. of business in Africa.",
+            "description": "",
+            "answers": [
+                "quite lots",
+                "quite a lot",
+                "quite"
+            ],
+            "correct": 1,
+            "id": "aaecc052e32a4b6c86bcc9da9dab0297"
+        },
+        {
+            "question": "She speaks ...................... languages.",
+            "description": "",
+            "answers": [
+                "quite a few",
+                "quite few",
+                "quite a lot"
+            ],
+            "correct": 0,
+            "id": "79178382941844e8b6663187073b3d21"
+        },
+        {
+            "question": "You ate ………………… meat.",
+            "description": "",
+            "answers": [
+                "very much",
+                "too much",
+                "too"
+            ],
+            "correct": 1,
+            "id": "a1e495cb6f3b41db9e363732d6c50c8d"
+        },
+        {
+            "question": "………………….. do you want a car?",
+            "description": "",
+            "answers": [
+                "How many",
+                "How much",
+                "How far"
+            ],
+            "correct": 1,
+            "id": "f2ee21d172924d30ac1ca7e3cf8524f3"
+        },
+        {
+            "question": "..................... would it be to repair the roof?",
+            "description": "",
+            "answers": [
+                "How much job",
+                "How much of a job",
+                "How much of job"
+            ],
+            "correct": 1,
+            "id": "26ed5089379046559f272c63e9a94bea"
+        }
+    ]
+}

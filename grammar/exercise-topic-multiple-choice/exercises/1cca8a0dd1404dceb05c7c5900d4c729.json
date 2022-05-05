@@ -1,0 +1,138 @@
+{
+    "id": "1cca8a0dd1404dceb05c7c5900d4c729",
+    "title": "Present Continuous Tense Exercise",
+    "questions": [
+        {
+            "question": "Where …………………. you ..................... now?",
+            "description": "",
+            "answers": [
+                "is, go",
+                "are, going",
+                "have been, going"
+            ],
+            "correct": 1,
+            "id": "e9e1e2ec39a14fce995cdce0ba9fee39"
+        },
+        {
+            "question": "He ...................... . Don’t disturb him now.",
+            "description": "",
+            "answers": [
+                "is studying",
+                "are studying",
+                "has been studying"
+            ],
+            "correct": 0,
+            "id": "79809a62ca334656b66c2c3e546dcc42"
+        },
+        {
+            "question": "You ...................... on my feet.",
+            "description": "",
+            "answers": [
+                "stand",
+                "am standing",
+                "are standing"
+            ],
+            "correct": 2,
+            "id": "1698586c3aa44ac5960a2a5f945273b1"
+        },
+        {
+            "question": "Rani ..................... the plants.",
+            "description": "",
+            "answers": [
+                "is watering",
+                "am watering",
+                "are watering"
+            ],
+            "correct": 0,
+            "id": "985ed1a950754c1d8c62807d28187dee"
+        },
+        {
+            "question": "I .....................… to hear from them.",
+            "description": "",
+            "answers": [
+                "is waiting",
+                "am waiting",
+                "are waiting"
+            ],
+            "correct": 1,
+            "id": "94964c7a07dd455f9745b69528379166"
+        },
+        {
+            "question": "We ...................... for the test.",
+            "description": "",
+            "answers": [
+                "is preparing",
+                "are preparing",
+                "was preparing"
+            ],
+            "correct": 1,
+            "id": "8c54a6bc74404f298c3f2c162ecf9d06"
+        },
+        {
+            "question": "Radha ...................... a sweater for her daughter.",
+            "description": "",
+            "answers": [
+                "am knitting",
+                "is knitting",
+                "am knitting"
+            ],
+            "correct": 1,
+            "id": "36dc2086d389442ab7db91e1e2204f4f"
+        },
+        {
+            "question": "Rahul ………………….. his homework.",
+            "description": "",
+            "answers": [
+                "is doing",
+                "are doing",
+                "am doing"
+            ],
+            "correct": 0,
+            "id": "bf606343f7dc45c7bb6d533c293a8acf"
+        },
+        {
+            "question": "We ...................... for you.",
+            "description": "",
+            "answers": [
+                "is waiting",
+                "are waiting",
+                "am waiting"
+            ],
+            "correct": 1,
+            "id": "5e02cdcdfe85441f8d837c77bc2d2765"
+        },
+        {
+            "question": "The dog ..................... the cat.",
+            "description": "",
+            "answers": [
+                "is chasing",
+                "are chasing",
+                "am chasing"
+            ],
+            "correct": 0,
+            "id": "efc415e0debe4c4caaf80419eba342f4"
+        },
+        {
+            "question": "Mother ..................... a cake.",
+            "description": "",
+            "answers": [
+                "is baking",
+                "are baking",
+                "am baking"
+            ],
+            "correct": 0,
+            "id": "dc487646c9a545f48dc5ea14d1a8e926"
+        },
+        {
+            "question": "Father ..................... his bike.",
+            "description": "",
+            "answers": [
+                "is fixing",
+                "am fixing",
+                "are fixing"
+            ],
+            "correct": 0,
+            "id": "ddae3fcdd0e247ac8453416ff432ee07"
+        }
+    ]
+}

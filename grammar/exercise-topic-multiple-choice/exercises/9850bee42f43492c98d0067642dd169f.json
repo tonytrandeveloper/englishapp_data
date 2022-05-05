@@ -1,0 +1,108 @@
+{
+    "id": "9850bee42f43492c98d0067642dd169f",
+    "title": "Questions Exercise",
+    "questions": [
+        {
+            "question": ".............................. old is your sister?",
+            "description": "",
+            "answers": [
+                "How",
+                "How much"
+            ],
+            "correct": 0,
+            "id": "9a3744eabe3c459a813ebdf0bd5175da"
+        },
+        {
+            "question": "'................................... is your mother?' 'My mother is a doctor.'",
+            "description": "",
+            "answers": [
+                "What",
+                "Who"
+            ],
+            "correct": 0,
+            "id": "c5bb0f7dc5ab448886ece97f00240e55"
+        },
+        {
+            "question": ".................................. does your father work?",
+            "description": "",
+            "answers": [
+                "Which",
+                "Where"
+            ],
+            "correct": 1,
+            "id": "2933f8ced2a442bd87d4740b188f1a5f"
+        },
+        {
+            "question": ".................................. is your brother’s name?",
+            "description": "",
+            "answers": [
+                "What",
+                "Which"
+            ],
+            "correct": 0,
+            "id": "283540209d5f4b048403ee5734dd8f09"
+        },
+        {
+            "question": "................................ you like science fiction?",
+            "description": "",
+            "answers": [
+                "Do",
+                "Has",
+                "Does"
+            ],
+            "correct": 0,
+            "id": "79e9cb0aeaca4210ba288e4083786824"
+        },
+        {
+            "question": "................................. gave you this watch?",
+            "description": "",
+            "answers": [
+                "Who",
+                "Whom"
+            ],
+            "correct": 0,
+            "id": "0b9b72fa5e7a483d9d3e9180080aca5b"
+        },
+        {
+            "question": ".................................. do you spend your holidays?",
+            "description": "",
+            "answers": [
+                "What",
+                "Where"
+            ],
+            "correct": 1,
+            "id": "da3eabbdb72b48a39fe7ef26932a1bfd"
+        },
+        {
+            "question": "................................... is your favorite writer?",
+            "description": "",
+            "answers": [
+                "Which",
+                "What",
+                "Who"
+            ],
+            "correct": 2,
+            "id": "bccb259942974e229a531b67b8143669"
+        },
+        {
+            "question": "................................... you collect stamps?",
+            "description": "",
+            "answers": [
+                "Have",
+                "Do"
+            ],
+            "correct": 1,
+            "id": "f0ab5d822f594061976039c2132b1422"
+        },
+        {
+            "question": ".................................. brothers and sisters do you have?",
+            "description": "",
+            "answers": [
+                "How many",
+                "How much"
+            ],
+            "correct": 0,
+            "id": "9f23a9c462994085b95b7dabb368df85"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "id": "f79dfeb7ae0b4d04b50d9961f7a0772c",
+    "title": "Idioms With Colors",
+    "questions": [
+        {
+            "question": "I was …………………. with embarrassment when Maya shared my secret with her friends.",
+            "description": "",
+            "answers": [
+                "red",
+                "blue",
+                "yellow"
+            ],
+            "correct": 0,
+            "id": "245104c40b0449c09e1a0310520b4e09"
+        },
+        {
+            "question": "She was …………………. with envy when she heard that I had won the first prize in the competition.",
+            "description": "",
+            "answers": [
+                "red",
+                "green",
+                "blue"
+            ],
+            "correct": 1,
+            "id": "39c8da8fb6d542a09c330b848d5b24eb"
+        },
+        {
+            "question": "Eat plenty of fruits and vegetables to be in the ……………….. of health.",
+            "description": "",
+            "answers": [
+                "red",
+                "blue",
+                "pink"
+            ],
+            "correct": 2,
+            "id": "23107d66163846ac96e46d868f6120d0"
+        },
+        {
+            "question": "She turned …………….. with rage when she discovered that he had been cheating on her.",
+            "description": "",
+            "answers": [
+                "white",
+                "red",
+                "blue"
+            ],
+            "correct": 0,
+            "id": "a2dcc746b7384f3f99e4f59d85095f5f"
+        },
+        {
+            "question": "She was ………………….. with cold when we found her.",
+            "description": "",
+            "answers": [
+                "blue",
+                "red",
+                "green"
+            ],
+            "correct": 0,
+            "id": "392765b80d334b82b155d1a8099a0267"
+        },
+        {
+            "question": "Alice turned ……………….. with shock when she heard that her car had been stolen.",
+            "description": "",
+            "answers": [
+                "purple",
+                "grey",
+                "pink"
+            ],
+            "correct": 1,
+            "id": "18a3bc9f3ca6442b80af5b8dbfeecbc2"
+        },
+        {
+            "question": "Have you got anything to cheer me up? I have been feeling ………………… all day.",
+            "description": "",
+            "answers": [
+                "green",
+                "blue",
+                "white"
+            ],
+            "correct": 1,
+            "id": "a81049d5be894a0582562708ed545e7a"
+        }
+    ]
+}

@@ -1,0 +1,306 @@
+{
+    "id": "b8cb6da7958843dc815db8182f8c54d7",
+    "title": "Indirect Questions Exercise 1 (Present Simple Tense)",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where does she play tennis?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me where she plays tennis?"
+                    ]
+                }
+            ],
+            "id": "d9357b6ddf084769bbeb99c07409d283"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Does he live in Paris?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me if he lives in Paris?"
+                    ]
+                }
+            ],
+            "id": "c3cf3acd8faa4ec48f18a33f92d5e9bb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Is she hungry?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me if she is hungry?"
+                    ]
+                }
+            ],
+            "id": "ace5898c11224efb9b4f710f7f90a4c7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What is this?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me what this is?"
+                    ]
+                }
+            ],
+            "id": "0134970dc95845438f4298e55e2ad914"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do they work in Canada?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me if they work in Canada?"
+                    ]
+                }
+            ],
+            "id": "ae0ac78f531e47f3a9b2bd78509d7af2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When do John and Luke meet?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me when John and Luke meet?"
+                    ]
+                }
+            ],
+            "id": "955c5f8723a74f94b9ccefbfbd12076d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Is he a lawyer?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me if he is a lawyer?"
+                    ]
+                }
+            ],
+            "id": "85c1a94dbcd84a6286636cacbb965674"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When is the party?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me when the party is?"
+                    ]
+                }
+            ],
+            "id": "c6fdd78350cb473d9bf8cd0644777d39"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do they often go out?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me if they often go out?"
+                    ]
+                }
+            ],
+            "id": "728d0e3470d748e2b91e0d6d9fbb5b74"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What does he do at the weekend?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me what he does at the weekend?"
+                    ]
+                }
+            ],
+            "id": "591521b0d0174c8196ba255547f0c4fe"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Are the children on holiday this week?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me if the children are on holiday this week?"
+                    ]
+                }
+            ],
+            "id": "c616f1838ca540319999a93e4f503706"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who is she?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me who she is?"
+                    ]
+                }
+            ],
+            "id": "58dc1a00b77c4dc99677c9aa2833e8a4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why do you like travelling so much?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me why you like travelling so much?"
+                    ]
+                }
+            ],
+            "id": "b92f7e6076264b03a65d652b3f9d94f4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Does Lizzie like ice cream?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me if Lizzie likes ice cream?"
+                    ]
+                }
+            ],
+            "id": "2ab961c91ade40b686c16c7a81333fa8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Are they from Chile?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me if they are from Chile?"
+                    ]
+                }
+            ],
+            "id": "67263e8c5425419d9d8354f5e3d12e28"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where is the station?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me where the station is?"
+                    ]
+                }
+            ],
+            "id": "1df28c04fbc34dc1977741ca31aced85"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where do you study Chinese?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me where you study Chinese?"
+                    ]
+                }
+            ],
+            "id": "392e9bd17e9943e7a35b116c4ef06dc2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where is the nearest supermarket?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me where the nearest supermarket is?"
+                    ]
+                }
+            ],
+            "id": "835b710a92c14d3cb70824ff22511e12"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do you drink coffee?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me if you drink coffee?"
+                    ]
+                }
+            ],
+            "id": "71362c1c2b0f4de78fba2cdb72cda761"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Is Richard always late?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Can you tell me if Richard is always late?"
+                    ]
+                }
+            ],
+            "id": "b72d3355e1d740dda6e786f3f597c593"
+        }
+    ]
+}

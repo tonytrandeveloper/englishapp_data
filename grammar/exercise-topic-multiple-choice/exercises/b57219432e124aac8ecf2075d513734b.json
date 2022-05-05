@@ -1,0 +1,136 @@
+{
+    "id": "b57219432e124aac8ecf2075d513734b",
+    "title": "Adjective Or Adverb",
+    "questions": [
+        {
+            "question": "He runs ………………………..",
+            "description": "Fast can be an adjective and an adverb. There is no need for the word fastly.",
+            "answers": [
+                "fast",
+                "fastly",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "03195c3356ad48f4bc729c53fcdbbba7"
+        },
+        {
+            "question": "I can speak English ………………………….. than French.",
+            "description": "We need a comparative expression before than.",
+            "answers": [
+                "more fluent",
+                "more fluently",
+                "fluently"
+            ],
+            "correct": 1,
+            "id": "cfb80bd0d2db478fa09b7a468d714299"
+        },
+        {
+            "question": "The pretty girl smiled …………………………. at the guests.",
+            "description": "Here we use the adverb warmly to modify the verb smiled.",
+            "answers": [
+                "warm",
+                "warmly",
+                "more warmly"
+            ],
+            "correct": 1,
+            "id": "30746086816d4b5eab1d5c486d3d2b2f"
+        },
+        {
+            "question": "She looked ………………………….. than ever before.",
+            "description": "Happier is the comparative form of happy.",
+            "answers": [
+                "happy",
+                "more happy",
+                "happier"
+            ],
+            "correct": 2,
+            "id": "d33511e68b5d46ec88bc71140139ca3a"
+        },
+        {
+            "question": "Can you write more …………………………?",
+            "description": "Legible is an adjective. We need the adverb legibly to modify the verb write.",
+            "answers": [
+                "legible",
+                "legibly"
+            ],
+            "correct": 1,
+            "id": "1b13b3654823496a9fa9a2341f22d628"
+        },
+        {
+            "question": "Her performance was the ………………………. of all.",
+            "description": "Worst is the superlative form of bad.",
+            "answers": [
+                "worse",
+                "worser",
+                "worst"
+            ],
+            "correct": 2,
+            "id": "d69ddff4542b4c85ac822f2d1e721be2"
+        },
+        {
+            "question": "They handled the situation quite ………………………..",
+            "description": "We need the adverb sensibly to modify the verb handled. More cannot be used with quite.",
+            "answers": [
+                "sensible",
+                "sensibly",
+                "more sensibly"
+            ],
+            "correct": 1,
+            "id": "b4d2fd0d0a2e41ab8ae749692caacf95"
+        },
+        {
+            "question": "I have ………………………….. interest in politics.",
+            "description": "Little is the positive form of the adjective.",
+            "answers": [
+                "little",
+                "less",
+                "lesser"
+            ],
+            "correct": 0,
+            "id": "9d936a51192d43908051cb9be947eda1"
+        },
+        {
+            "question": "I earn …………………………. money than my mother.",
+            "description": "We use less with uncountable nouns and few with plural nouns.",
+            "answers": [
+                "little",
+                "less",
+                "least"
+            ],
+            "correct": 1,
+            "id": "3b3fc2ebe5f446089ed7f3257f7441b3"
+        },
+        {
+            "question": "This essay has …………………………. mistakes than the other.",
+            "description": "We use less with uncountable nouns and few/fewer with plural nouns.",
+            "answers": [
+                "fewer",
+                "lesser",
+                "less"
+            ],
+            "correct": 0,
+            "id": "2ed8e9f3098146b384b165f103879c65"
+        },
+        {
+            "question": "She works ……………………….. than her husband.",
+            "description": "",
+            "answers": [
+                "hard",
+                "harder",
+                "more hard"
+            ],
+            "correct": 1,
+            "id": "47b74512fb0140669b94e0facd344465"
+        },
+        {
+            "question": "He works …………………………… to support his family.",
+            "description": "Hard can be an adjective and an adverb. Hardly is similar to scarcely. ",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 0,
+            "id": "3e279fd8956f44f180bc52dfa311fd32"
+        }
+    ]
+}

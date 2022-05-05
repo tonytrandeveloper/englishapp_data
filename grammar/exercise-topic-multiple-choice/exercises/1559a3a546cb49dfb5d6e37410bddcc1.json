@@ -1,0 +1,89 @@
+{
+    "id": "1559a3a546cb49dfb5d6e37410bddcc1",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "She …………… wait for over two years.",
+            "description": "",
+            "answers": [
+                "made to",
+                "was made to",
+                "has made to",
+                "had made to"
+            ],
+            "correct": 1,
+            "id": "fcad9d0dfcbf4beea55bc5f512cb5689"
+        },
+        {
+            "question": "It ……………. during the whole of last week.",
+            "description": "",
+            "answers": [
+                "rained",
+                "has rained",
+                "was raining",
+                "has been raining"
+            ],
+            "correct": 0,
+            "id": "20369ca4cd7f444e869e9a6468561e39"
+        },
+        {
+            "question": "He would have accepted this proposal, if you ………….. more courteous.",
+            "description": "",
+            "answers": [
+                "were",
+                "have been",
+                "had been",
+                "are"
+            ],
+            "correct": 2,
+            "id": "0b67e4e85d05468e8d607ff4b772a3b2"
+        },
+        {
+            "question": "What I don’t understand is why they …………….. so long without lodging a complaint.",
+            "description": "",
+            "answers": [
+                "were waiting",
+                "waited",
+                "have waited",
+                "had waited"
+            ],
+            "correct": 1,
+            "id": "103530295aab4baea1b3394cbabc158f"
+        },
+        {
+            "question": "Should it prove to be true, I …………… resign from the committee.",
+            "description": "",
+            "answers": [
+                "should",
+                "would",
+                "shall",
+                "had to"
+            ],
+            "correct": 2,
+            "id": "8e57aa7b817948509dae706bf8d2dcd0"
+        },
+        {
+            "question": "If he drank less, he ………………. liver trouble.",
+            "description": "",
+            "answers": [
+                "wouldn't develop",
+                "won't develop",
+                "couldn't have developed"
+            ],
+            "correct": 0,
+            "id": "542de1a964374065b48ca6482f08474d"
+        },
+        {
+            "question": "Newton saw the apple ……………. to the ground.",
+            "description": "",
+            "answers": [
+                "fall",
+                "fell",
+                "fallen",
+                "to fall"
+            ],
+            "correct": 0,
+            "id": "f02ac104be46442c84fac0ea96ec7007"
+        }
+    ]
+}

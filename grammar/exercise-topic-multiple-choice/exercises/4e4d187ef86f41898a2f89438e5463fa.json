@@ -1,0 +1,83 @@
+{
+    "id": "4e4d187ef86f41898a2f89438e5463fa",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The laboratory is not only equipped with state-of-the-art scientific instruments …………………… . renowned scientists.",
+            "description": "",
+            "answers": [
+                "but also with",
+                "but also boasts of",
+                "but also boasts"
+            ],
+            "correct": 1,
+            "id": "405a52e7e6a14b5699f446657f482140"
+        },
+        {
+            "question": "……………………… your supporters’ confidence is as effective as this method.",
+            "description": "",
+            "answers": [
+                "No method for winning",
+                "No other method of winning",
+                "No other method for winning"
+            ],
+            "correct": 1,
+            "id": "51aba08584ce48f1bbd85666aa97b99e"
+        },
+        {
+            "question": "I did not like his comments on my book but I said nothing as I had agreed to keep quiet.",
+            "description": "",
+            "answers": [
+                "agreed",
+                "have agreed",
+                "had agreed"
+            ],
+            "correct": 2,
+            "id": "945f17811aee42c58768c04c2218f12f"
+        },
+        {
+            "question": "The report candidly admits that the investor confidence ……………………… considerably.",
+            "description": "",
+            "answers": [
+                "eroded",
+                "have eroded",
+                "has eroded"
+            ],
+            "correct": 2,
+            "id": "77dcf67c669f48b88b1aba9ab57197e2"
+        },
+        {
+            "question": "The child kept on crying while it ……………………",
+            "description": "",
+            "answers": [
+                "is bathed",
+                "was being bathed",
+                "is being bathed"
+            ],
+            "correct": 1,
+            "id": "6f52726d89844894936817b22197c26a"
+        },
+        {
+            "question": "As we approached the swamp, …………………….",
+            "description": "",
+            "answers": [
+                "frogs could be heard croaking",
+                "we could hear frogs croaking",
+                "frogs were heard croaking"
+            ],
+            "correct": 1,
+            "id": "33bb8f19cbb549038007877d704978bb"
+        },
+        {
+            "question": "Hold the rifle firmly against your shoulder, ……………………..",
+            "description": "",
+            "answers": [
+                "and then you should take careful aim",
+                "and then take careful aim",
+                "and then you have to take careful aim"
+            ],
+            "correct": 1,
+            "id": "0ef4b5684d8a406fbd704f9e75c757f5"
+        }
+    ]
+}

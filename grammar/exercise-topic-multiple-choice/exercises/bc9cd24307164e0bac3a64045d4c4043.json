@@ -1,0 +1,142 @@
+{
+    "id": "bc9cd24307164e0bac3a64045d4c4043",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "There is little water in the pond, …………………….?",
+            "description": "A non-negative tag is used after negative expressions like little.",
+            "answers": [
+                "isn't there",
+                "is there",
+                "does there"
+            ],
+            "correct": 1,
+            "id": "1902427e7dfe4488b18ea5797038578d"
+        },
+        {
+            "question": "What does the expression at sixes and sevens mean?",
+            "description": "To be at sixes and sevens is to be in a state of confusion. ",
+            "answers": [
+                "In a state of confusion",
+                "In a state of conflict",
+                "In a state of frustration"
+            ],
+            "correct": 0,
+            "id": "41c4311671274966bf751552558d2fb9"
+        },
+        {
+            "question": "The bell …………………….. for over two minutes.",
+            "description": "To talk about an action or situation that started in the past and has continued up to the present, use the present perfect continuous tense. ",
+            "answers": [
+                "has been ringing",
+                "have been ringing",
+                "had been ringing"
+            ],
+            "correct": 0,
+            "id": "b5e28240766e411a8530a44b78aa6140"
+        },
+        {
+            "question": "……………………. have you been waiting here?",
+            "description": "",
+            "answers": [
+                "How soon",
+                "How far",
+                "How long",
+                "How much"
+            ],
+            "correct": 2,
+            "id": "b8084825b9e54e71948d60bab7eecd2d"
+        },
+        {
+            "question": "Her children have all …………………….. and left home.",
+            "description": "The past participle form of grow is grown. The third form of the verb is used after has/have/had.",
+            "answers": [
+                "grew up",
+                "grown up",
+                "growned up"
+            ],
+            "correct": 1,
+            "id": "c62fe89892d84e96bd62c9575934f8d4"
+        },
+        {
+            "question": "No one came, …………………….?",
+            "description": "After no one, someone, anyone, we use they in tags.",
+            "answers": [
+                "did no one",
+                "didn't they",
+                "did they"
+            ],
+            "correct": 2,
+            "id": "1883877d8ec84fa085a0d07061f7d02f"
+        },
+        {
+            "question": "He said, ‘I have an important meeting tomorrow.’ Change into indirect speech.",
+            "description": "",
+            "answers": [
+                "He said that he has an important meeting the next day.",
+                "He said that he had an important meeting the next day.",
+                "He said that he has an important meeting tomorrow."
+            ],
+            "correct": 1,
+            "id": "9cf509b9053a4f0ebe3523f0513e436e"
+        },
+        {
+            "question": "If the road hadn’t been slippery, they ………………………. an accident.",
+            "description": "In the third conditional, use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "wouldn’t have had",
+                "wouldn't have",
+                "won't have"
+            ],
+            "correct": 0,
+            "id": "398cc43804f8404eb123a1c82a8cfe3b"
+        },
+        {
+            "question": "Sam, along with his friends, ………………….. on a holiday.",
+            "description": "Here the subject is the singular noun Sam.",
+            "answers": [
+                "is",
+                "are",
+                "were"
+            ],
+            "correct": 0,
+            "id": "16c6e2b691844c259d84f326dd42e67c"
+        },
+        {
+            "question": "Give the opposite of reckless",
+            "description": "",
+            "answers": [
+                "heedless",
+                "cautious",
+                "careless",
+                "ruthless"
+            ],
+            "correct": 1,
+            "id": "b7139816a2b14573bf93e305436407a9"
+        },
+        {
+            "question": "What does the expression faux pas mean?",
+            "description": "",
+            "answers": [
+                "Sacrilege",
+                "A grave mistake",
+                "A social blunder",
+                "A political blunder"
+            ],
+            "correct": 2,
+            "id": "74c0add406f54b22bca397b593ca8517"
+        },
+        {
+            "question": "You must be back ……………………. 8 o’clock.",
+            "description": "",
+            "answers": [
+                "under",
+                "within",
+                "by",
+                "in"
+            ],
+            "correct": 2,
+            "id": "955b34ac19db4c4fa34ca993effefb26"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "id": "5c6bbccf617a4759acf39c5ccc4e3de3",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "He …………………. at six o’clock.",
+            "description": "",
+            "answers": [
+                "is getting up",
+                "gets up"
+            ],
+            "correct": 1,
+            "id": "0724a3ad587446e68d56f6c28266d94a"
+        },
+        {
+            "question": "God ……………….. us all.",
+            "description": "",
+            "answers": [
+                "loves",
+                "is loving",
+                "love"
+            ],
+            "correct": 0,
+            "id": "4af782eb81044bd28bcdeb3602722b44"
+        },
+        {
+            "question": "My dad ………………… for Delhi tomorrow.",
+            "description": "",
+            "answers": [
+                "leaves",
+                "is leaving",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "6946c1b9d39845e4bfd9a8add3b7dc2a"
+        },
+        {
+            "question": "She ………………… a book now.",
+            "description": "",
+            "answers": [
+                "read",
+                "reads",
+                "is reading"
+            ],
+            "correct": 2,
+            "id": "27f30ae000b04045aaef749d1dabac64"
+        },
+        {
+            "question": "I ………………. just ……………….. a call from him.",
+            "description": "",
+            "answers": [
+                "am, receiving",
+                "have, received",
+                "have, been receiving"
+            ],
+            "correct": 1,
+            "id": "8e107fb1d71b455aa2c47d8f272518ef"
+        },
+        {
+            "question": "They ………………….. each other for five years.",
+            "description": "",
+            "answers": [
+                "know",
+                "are knowing",
+                "have known"
+            ],
+            "correct": 2,
+            "id": "ecb2d35709b844678318b56a4526fbd1"
+        },
+        {
+            "question": "I ………………… the Eiffel Tower.",
+            "description": "",
+            "answers": [
+                "see",
+                "have seen",
+                "had seen"
+            ],
+            "correct": 1,
+            "id": "8a1e47455f5146ff8ec036637c012fdd"
+        },
+        {
+            "question": "He …………………… in Singapore since",
+            "description": "",
+            "answers": [
+                "is working",
+                "has been working",
+                "had been working"
+            ],
+            "correct": 1,
+            "id": "480bcb8397dd48a29b22d1ea58f7c092"
+        },
+        {
+            "question": "The train ………………… five hours late.",
+            "description": "",
+            "answers": [
+                "arrived",
+                "is arrived",
+                "has been arrived"
+            ],
+            "correct": 0,
+            "id": "618b9eba193b4bb7b747fd200eb13133"
+        },
+        {
+            "question": "When I was a student, I ……………….. hard to pay my tuition fee.",
+            "description": "",
+            "answers": [
+                "was working",
+                "worked",
+                "have worked"
+            ],
+            "correct": 1,
+            "id": "8422e251439043a18da9bd9e81ea415e"
+        }
+    ]
+}

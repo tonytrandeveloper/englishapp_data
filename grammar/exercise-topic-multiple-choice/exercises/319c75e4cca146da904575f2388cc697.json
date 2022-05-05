@@ -1,0 +1,139 @@
+{
+    "id": "319c75e4cca146da904575f2388cc697",
+    "title": "Determiners Quiz",
+    "questions": [
+        {
+            "question": "He has visited ........................... continent on earth.",
+            "description": "Use every with a singular noun.",
+            "answers": [
+                "all",
+                "every",
+                "whole"
+            ],
+            "correct": 1,
+            "id": "7e577e8f115d4ac992ba3de73c321e02"
+        },
+        {
+            "question": "........................... the guests have arrived.",
+            "description": "Use all with a plural noun.",
+            "answers": [
+                "All",
+                "Every",
+                "Each"
+            ],
+            "correct": 0,
+            "id": "d2706f0d0e5c467ea3292835264362a8"
+        },
+        {
+            "question": "He has ............................... interest in politics.",
+            "description": "",
+            "answers": [
+                "no",
+                "not",
+                "any"
+            ],
+            "correct": 0,
+            "id": "306844f2f04047e29f628cd187a3bc7c"
+        },
+        {
+            "question": "We need ................................ people to help us.",
+            "description": "A few indicates a small number. Any is not possible here but some can be used.",
+            "answers": [
+                "a few",
+                "any",
+                "a little"
+            ],
+            "correct": 0,
+            "id": "55e425ae61874f689a50215d5809b86f"
+        },
+        {
+            "question": "................................... of my friends are atheists.",
+            "description": "All of these are possible here with different meanings. ",
+            "answers": [
+                "All",
+                "Some",
+                "A few",
+                "All of these"
+            ],
+            "correct": 3,
+            "id": "df2cf163cfef49e19b80687f593be218"
+        },
+        {
+            "question": "................................. child can solve this puzzle. It is so simple.",
+            "description": "Use a plural noun after some. ",
+            "answers": [
+                "Any",
+                "Some",
+                "No"
+            ],
+            "correct": 0,
+            "id": "a5a9288a7c5e402a97a34482efa915d4"
+        },
+        {
+            "question": "I didn't get .............................. answer correct.",
+            "description": "A plural noun should be used after some and few. ",
+            "answers": [
+                "any",
+                "some",
+                "few"
+            ],
+            "correct": 0,
+            "id": "cb82a58fe37c4aa7a0dae2e5b68cbeb7"
+        },
+        {
+            "question": "We have ............................... milk left.",
+            "description": "Either little or some is possible here with slightly different meanings. ",
+            "answers": [
+                "little",
+                "few",
+                "some"
+            ],
+            "correct": 2,
+            "id": "d919aab0b5ba42ea8afd3b01ae7945fe"
+        },
+        {
+            "question": "................................ effort is required to learn a foreign language.",
+            "description": "",
+            "answers": [
+                "Many",
+                "Much",
+                "Most"
+            ],
+            "correct": 1,
+            "id": "8bb2d82a77774d3f85cb51d41de8dc00"
+        },
+        {
+            "question": ".............................. people can speak a foreign language perfectly.",
+            "description": "Use few with a plural noun. Much and less are used with uncountable nouns.",
+            "answers": [
+                "Few",
+                "Less",
+                "Much"
+            ],
+            "correct": 0,
+            "id": "c2b4ab7864874afb9c4781a91c7166b4"
+        },
+        {
+            "question": "................................ child should go to school",
+            "description": "",
+            "answers": [
+                "Every",
+                "All",
+                "Most"
+            ],
+            "correct": 0,
+            "id": "202deefc2ae94504984be62d80d284d2"
+        },
+        {
+            "question": "There were very .................................. people at the wedding.",
+            "description": "Very few indicates a very small number.",
+            "answers": [
+                "few",
+                "less",
+                "some"
+            ],
+            "correct": 0,
+            "id": "6555acf08b2d49038cf3f5bcbe2f0580"
+        }
+    ]
+}

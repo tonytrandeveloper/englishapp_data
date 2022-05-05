@@ -1,0 +1,138 @@
+{
+    "id": "065f1dd6219744bbad178f8d97bbbf8d",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "The higher you climb ...............................................",
+            "description": "In this structure with two comparative expressions, we use the same pattern in both clauses. ",
+            "answers": [
+                "it gets colder",
+                "it is getting colder",
+                "the colder it gets"
+            ],
+            "correct": 2,
+            "id": "5af9c80c02694306bba6983cd929e1d1"
+        },
+        {
+            "question": "The more he reads, the ............................................. he understands.",
+            "description": "Less is the comparative form of little. Lesser means smaller. ",
+            "answers": [
+                "less",
+                "little",
+                "lesser"
+            ],
+            "correct": 0,
+            "id": "f73f7ef9f4714b619e24b9e5e7fc16e7"
+        },
+        {
+            "question": "The government should pay attention to the problems of .....................................................",
+            "description": "The unemployed means all unemployed people. The article 'the' is required in this expression. ",
+            "answers": [
+                "unemployed",
+                "the unemployed",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "0b73455162274a0a9e4ce359e46e1594"
+        },
+        {
+            "question": "They saw the criminal ....................................................... open the door.",
+            "description": "The infinitive is used without to after the verb see.",
+            "answers": [
+                "break",
+                "to break",
+                "broke"
+            ],
+            "correct": 0,
+            "id": "0bc68a1482e0487c8ad2d643eb160ef7"
+        },
+        {
+            "question": "The strike ........................................................ if the workers' demands had been granted.",
+            "description": "A passive verb is required here. In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "would have called off",
+                "would be called off",
+                "would have been called off"
+            ],
+            "correct": 2,
+            "id": "24b5dd0c07a64f1599ccf2d2de11f99b"
+        },
+        {
+            "question": "If you ........................................... more carefully, you wouldn't make so many mistakes.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "listened",
+                "listen",
+                "had listened"
+            ],
+            "correct": 0,
+            "id": "453675236b3c4a74b81978b8bccc0f18"
+        },
+        {
+            "question": "I consider ............................................... to have this opportunity of welcoming you.",
+            "description": "",
+            "answers": [
+                "a privilege",
+                "it a privilege",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f27bfc3b7fd24f8ab77b9d18cc84da1b"
+        },
+        {
+            "question": "The leader said that it would be unwise .............................................. the democratic demands of the people.",
+            "description": "Negative forms are usually made by putting not before the infinitive. ",
+            "answers": [
+                "to not accept",
+                "not to accept",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "60fc785bad8e4e9f97a39dba7c1f5ab9"
+        },
+        {
+            "question": "He said that the climate ................................................. his health.",
+            "description": "A past tense in the main clause is almost always followed by a past tense in the subordinate clause.",
+            "answers": [
+                "has affected",
+                "was affected",
+                "had affected"
+            ],
+            "correct": 2,
+            "id": "75cd6c8932614b8bb20c41a197aad6c9"
+        },
+        {
+            "question": "As soon as the clients .................................................., he locked up his office and went home.",
+            "description": "A past tense in the main clause is almost always followed by a past tense in the subordinate clause.",
+            "answers": [
+                "have left",
+                "were leaving",
+                "had left"
+            ],
+            "correct": 2,
+            "id": "4f5ce6388e004caa8253f14948007b21"
+        },
+        {
+            "question": "The leaning tower of Pisa ...................................................... more and more every year.",
+            "description": "We use the present perfect continuous to talk about an action or situation that started in the past and has continued up to the present. ",
+            "answers": [
+                "leans",
+                "is leaning",
+                "has been leaning"
+            ],
+            "correct": 2,
+            "id": "df0c5c755f494757afd98cb0eb7f5296"
+        },
+        {
+            "question": "He brushed ............................................. all the plans that I had carefully formulated.",
+            "description": "To brush something aside is to dismiss it. ",
+            "answers": [
+                "aside",
+                "up",
+                "on"
+            ],
+            "correct": 0,
+            "id": "117e751acf104042b2e9694ab455e924"
+        }
+    ]
+}

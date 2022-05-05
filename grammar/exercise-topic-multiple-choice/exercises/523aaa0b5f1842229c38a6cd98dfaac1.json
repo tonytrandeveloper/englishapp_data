@@ -1,0 +1,108 @@
+{
+    "id": "523aaa0b5f1842229c38a6cd98dfaac1",
+    "title": "Question Tags Exercise",
+    "questions": [
+        {
+            "question": "She isn’t coming, ......................?",
+            "description": "",
+            "answers": [
+                "is she",
+                "isn't she"
+            ],
+            "correct": 0,
+            "id": "808ab89871314b0d853e95bd2ea94a91"
+        },
+        {
+            "question": "Mary has arrived, .....................?",
+            "description": "",
+            "answers": [
+                "has she",
+                "hasn't she"
+            ],
+            "correct": 1,
+            "id": "eec6d8dc3ff5445598bf35cf27da4609"
+        },
+        {
+            "question": "He eats too much, ………………….?",
+            "description": "",
+            "answers": [
+                "does he",
+                "doesn't he"
+            ],
+            "correct": 1,
+            "id": "7b293c59db2547eb8f3a3f834ac6011c"
+        },
+        {
+            "question": "You should obey the rules, …………………..?",
+            "description": "",
+            "answers": [
+                "should you",
+                "shouldn't you"
+            ],
+            "correct": 1,
+            "id": "225099e11f3e4a8fb3495c30fb65c24a"
+        },
+        {
+            "question": "He is here, .......................?",
+            "description": "",
+            "answers": [
+                "is he",
+                "isn't he"
+            ],
+            "correct": 1,
+            "id": "2f737ac8f17c458886368990c76e5030"
+        },
+        {
+            "question": "He works hard, .....................?",
+            "description": "",
+            "answers": [
+                "does he",
+                "doesn't he"
+            ],
+            "correct": 1,
+            "id": "099114fcaa1f46ef86860974152dc553"
+        },
+        {
+            "question": "I hurt you, …………………..?",
+            "description": "",
+            "answers": [
+                "am I",
+                "didn't I",
+                "did I"
+            ],
+            "correct": 1,
+            "id": "e6192e36af9e4a08992734d3611e86dd"
+        },
+        {
+            "question": "You have finished, …………………..?",
+            "description": "",
+            "answers": [
+                "have you",
+                "haven't you"
+            ],
+            "correct": 1,
+            "id": "0884a353a79a4e5ca4e1c72cf70a425d"
+        },
+        {
+            "question": "He often comes late, .......................?",
+            "description": "",
+            "answers": [
+                "does he",
+                "doesn't he"
+            ],
+            "correct": 1,
+            "id": "75be03f7fe154b03a2d60df0a489a1d6"
+        },
+        {
+            "question": "Let’s go for a walk, ......................?",
+            "description": "",
+            "answers": [
+                "shall we",
+                "should we",
+                "may we"
+            ],
+            "correct": 0,
+            "id": "42a2b04dbd5d4ff592383bc3f7a60e16"
+        }
+    ]
+}

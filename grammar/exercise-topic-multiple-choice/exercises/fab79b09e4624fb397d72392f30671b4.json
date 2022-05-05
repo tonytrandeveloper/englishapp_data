@@ -1,0 +1,125 @@
+{
+    "id": "fab79b09e4624fb397d72392f30671b4",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "Do you enjoy ………………. models from clay?",
+            "description": "",
+            "answers": [
+                "to make",
+                "make",
+                "to making",
+                "making"
+            ],
+            "correct": 3,
+            "id": "2ee27b60f5974406a494c4a375488c69"
+        },
+        {
+            "question": "While holidaying in Sydney, Martin  …………….. a strong Australian accent.",
+            "description": "",
+            "answers": [
+                "caught",
+                "acquired",
+                "earned",
+                "gained"
+            ],
+            "correct": 1,
+            "id": "ceb181a2c0394ce995cbbad7e5ab19e6"
+        },
+        {
+            "question": "...................... he was, he played well.",
+            "description": "",
+            "answers": [
+                "Though tired",
+                "Tired though",
+                "As tired",
+                "Although tired"
+            ],
+            "correct": 1,
+            "id": "12f6fc76ec2c49e6ae05cc9b2b883de7"
+        },
+        {
+            "question": "………………. she was, she could not react at all.",
+            "description": "",
+            "answers": [
+                "Though shocked",
+                "Although shocked",
+                "Shocked as",
+                "As shocked"
+            ],
+            "correct": 2,
+            "id": "5897dae438ab4312baa563f0b0f9d0e4"
+        },
+        {
+            "question": "The front door was open, ……………… nobody was at home.",
+            "description": "",
+            "answers": [
+                "as",
+                "but",
+                "and",
+                "so"
+            ],
+            "correct": 1,
+            "id": "55d9b81c3c32456090a8378db36010bd"
+        },
+        {
+            "question": "The bell has already .......................",
+            "description": "",
+            "answers": [
+                "rang",
+                "ring",
+                "rung",
+                "ringing"
+            ],
+            "correct": 2,
+            "id": "5859fcd2993c4f969ec8ced8e29eaea8"
+        },
+        {
+            "question": "Stella ………………….. wait for her birthday.",
+            "description": "",
+            "answers": [
+                "can hardly",
+                "can't hardly",
+                "won't hardly",
+                "couldn't hardly"
+            ],
+            "correct": 0,
+            "id": "1b501716215e47d8bfdeb800dce31c8c"
+        },
+        {
+            "question": "There were ………………… students in the class than expected.",
+            "description": "",
+            "answers": [
+                "few",
+                "fewer",
+                "less",
+                "lesser"
+            ],
+            "correct": 1,
+            "id": "b9032c69d45a4d5685c1bc00f1c798c7"
+        },
+        {
+            "question": "I did ..................... work today than yesterday.",
+            "description": "",
+            "answers": [
+                "less",
+                "lesser",
+                "few",
+                "fewer"
+            ],
+            "correct": 0,
+            "id": "0ad2225d0e464559a0d25b91b83f3939"
+        },
+        {
+            "question": "Dad has …………………. on the sofa all morning.",
+            "description": "",
+            "answers": [
+                "lay",
+                "laid",
+                "lain"
+            ],
+            "correct": 2,
+            "id": "8c6d5205a97b4760a6db7b400f37bb4d"
+        }
+    ]
+}

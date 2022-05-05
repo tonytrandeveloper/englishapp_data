@@ -1,0 +1,306 @@
+{
+    "id": "8bf7380648364c0fac00c622ac0ad21d",
+    "title": "Ergative and Unaccusative Verbs",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What was happened?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What happened"
+                    ]
+                }
+            ],
+            "id": "e3f5ebbdc6924c2ea84aedf8898070a1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The mountain vanished."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                }
+            ],
+            "id": "95feaa3b763941ca96066d468e638fdb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The fog appeared."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                }
+            ],
+            "id": "65c2fd3b20f640e89351da62cd32a33f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The building destroyed."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The building was destroyed."
+                    ]
+                }
+            ],
+            "id": "20f9b434c81141e996704dd1ee1753e3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The flowers were died."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The flowers died."
+                    ]
+                }
+            ],
+            "id": "538b51a2652b44c8acc03e478e5a14fc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The dirt was disappeared."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The dirt disappeared."
+                    ]
+                }
+            ],
+            "id": "d8bc2b6163a74c8d9e88eeed7c2b468b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The answer emerged."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                }
+            ],
+            "id": "8839517851b846da910b3f5045bb6966"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The door opened."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                }
+            ],
+            "id": "68e0e2daf4034d7c9133a3f5b0831731"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The train was arrived."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The train arrived."
+                    ]
+                }
+            ],
+            "id": "1d7219de2ef144f0a4ee2759197c3f5a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The film started."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                }
+            ],
+            "id": "27cd293f78944e4cad31ed5e76c7bc69"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The window was closed."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                }
+            ],
+            "id": "48f21429924f45f98b507b1e2518d001"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The toy was broken."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                }
+            ],
+            "id": "4043c31c64ae498081dbc85d834bf807"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Interest rates were lowered."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                }
+            ],
+            "id": "3d5021aae1c64a88aa82b579d9aaef21"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The house built."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The house was built."
+                    ]
+                }
+            ],
+            "id": "e98527addc3549a1bf9c47e8011841a9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The ice melted."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                }
+            ],
+            "id": "d3979c587b2541e2b482f27a8a6c5b8e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The river froze."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                }
+            ],
+            "id": "9053ce0e94054bfeb3f5c9bc1568559e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The cake was risen."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The cake rose."
+                    ]
+                }
+            ],
+            "id": "d4ac5625ff03476ea794b29e85b6f281"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The events were occurred."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The events occurred."
+                    ]
+                }
+            ],
+            "id": "6f93cbd823e54722a920013985a808af"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The vase fell."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                }
+            ],
+            "id": "d88ad912c9eb44d8a61c856b6837e6e8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The tower demolished."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The tower was demolished."
+                    ]
+                }
+            ],
+            "id": "75ff949f95d34e50a6f50e11471a195d"
+        }
+    ]
+}

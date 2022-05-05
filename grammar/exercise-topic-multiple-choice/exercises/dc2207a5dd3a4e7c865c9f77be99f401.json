@@ -1,0 +1,138 @@
+{
+    "id": "dc2207a5dd3a4e7c865c9f77be99f401",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "The boy ……………………. the girl is guilty.",
+            "description": "The verb is singular when you connect two singular nouns with as well as. Or you can write 'The boy and the girl are guilty.'",
+            "answers": [
+                "and",
+                "but",
+                "as well as"
+            ],
+            "correct": 2,
+            "id": "1ef4e823fdf740dbbe4f0a991b537b31"
+        },
+        {
+            "question": "……………………… being rich, he does not help anyone.",
+            "description": "Despite is a preposition it is followed by a noun or ing form.",
+            "answers": [
+                "Though",
+                "Despite",
+                "However"
+            ],
+            "correct": 1,
+            "id": "7b786ff237104bd3b4924b14a593c435"
+        },
+        {
+            "question": "He tried hard ……………………, he could not succeed.",
+            "description": "However is not a conjunction use a semicolon or a full stop before however. ",
+            "answers": [
+                "though",
+                "however",
+                "even as"
+            ],
+            "correct": 1,
+            "id": "a247397a07f54cfc8c2f4e4f744c204a"
+        },
+        {
+            "question": "He won’t marry ………………………. he gets a good job.",
+            "description": "Until shows time.",
+            "answers": [
+                "until",
+                "up to",
+                "as long as"
+            ],
+            "correct": 0,
+            "id": "07b206545ef14913ab75541aee2bd2a3"
+        },
+        {
+            "question": "You must work hard ……………………. you will fail.",
+            "description": "Or presents an alternative.",
+            "answers": [
+                "and",
+                "or",
+                "unless"
+            ],
+            "correct": 1,
+            "id": "536e7bba20634cdcb7c76bdfdeda548f"
+        },
+        {
+            "question": "She ought to be here soon …………………….. she left office at",
+            "description": "For can mean because in a more formal style. ",
+            "answers": [
+                "for",
+                "because",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "fa46eb3a862f4e7a96a18ff6c11dcb81"
+        },
+        {
+            "question": "………………………. she is intelligent she is lazy.",
+            "description": "Though is a conjunction used to connect two contrasting ideas. ",
+            "answers": [
+                "Though",
+                "Despite",
+                "Even as"
+            ],
+            "correct": 0,
+            "id": "21c9d10e881a4379863cd2025d8654d5"
+        },
+        {
+            "question": "…………………… he was not feeling well, they took him to hospital.",
+            "description": "As gives the reason. ",
+            "answers": [
+                "Though",
+                "As",
+                "Hence"
+            ],
+            "correct": 1,
+            "id": "24856ab3581d4ac891c69a19215ea191"
+        },
+        {
+            "question": "Tomorrow is a holiday, ……………………. he will be at home.",
+            "description": "So gives the result.",
+            "answers": [
+                "as",
+                "so",
+                "hence"
+            ],
+            "correct": 1,
+            "id": "5fb3cb4aa2874dc1b290b5a7d562d6d0"
+        },
+        {
+            "question": "I last visited my parents five months …………………..",
+            "description": "",
+            "answers": [
+                "before",
+                "ago",
+                "past"
+            ],
+            "correct": 1,
+            "id": "6266fa58c4e34b29ae06189969ee056f"
+        },
+        {
+            "question": "This is the school ……………………. he studied.",
+            "description": "Where can mean in which. ",
+            "answers": [
+                "where",
+                "there",
+                "that"
+            ],
+            "correct": 0,
+            "id": "19189d0a5bba4e9689b07117467c9481"
+        },
+        {
+            "question": "It has been months …………………….. it rained.",
+            "description": "",
+            "answers": [
+                "since",
+                "from",
+                "for"
+            ],
+            "correct": 0,
+            "id": "603d1c54393e4da88ba74c1c4d513904"
+        }
+    ]
+}

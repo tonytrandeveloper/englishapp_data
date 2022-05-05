@@ -1,0 +1,132 @@
+{
+    "id": "c9f619b71ce2430f992b085a5ec408b7",
+    "title": "Gap Fills",
+    "questions": [
+        {
+            "question": "Both his parents …………………….. when he was sixteen.",
+            "description": "Died is the past tense of die.",
+            "answers": [
+                "dead",
+                "died"
+            ],
+            "correct": 1,
+            "id": "d721c2b99c8a41889dcf9395ae94a4e5"
+        },
+        {
+            "question": "The doctors declared him ……………………….. on arrival.",
+            "description": "Dead is an adjective. Died is a verb. ",
+            "answers": [
+                "died",
+                "dead"
+            ],
+            "correct": 1,
+            "id": "25655f2222904637a5d51b7525063cf4"
+        },
+        {
+            "question": "She ……………………….. in",
+            "description": "The simple past is used when we say when something happened.",
+            "answers": [
+                "graduated",
+                "has graduated",
+                "had graduated"
+            ],
+            "correct": 0,
+            "id": "44ac6294213940e3aace7aa9dd0d99db"
+        },
+        {
+            "question": "Whenever we meet we ……………………….. politics.",
+            "description": "Discuss is one of those verbs that are not followed by a preposition.",
+            "answers": [
+                "discuss",
+                "discuss about",
+                "discuss on"
+            ],
+            "correct": 0,
+            "id": "6593f09cebb440e09ab03bb2e8f72ae3"
+        },
+        {
+            "question": "If you have time, I will gladly ………………………… a visit.",
+            "description": "The expression pay someone a visit is the standard. ",
+            "answers": [
+                "make you",
+                "pay you",
+                "give you"
+            ],
+            "correct": 1,
+            "id": "be757e5fb662401f9673de9dcb981872"
+        },
+        {
+            "question": "She said that she had …………………………..",
+            "description": "Paid is the past and past participle of pay. ",
+            "answers": [
+                "payed",
+                "paid"
+            ],
+            "correct": 1,
+            "id": "7d4994cbe1c84d97829bbd6e85cc2aad"
+        },
+        {
+            "question": "I am looking forward ………………………….. from you.",
+            "description": "We use to + ing form/noun after look/looking forward. ",
+            "answers": [
+                "to hear",
+                "to hearing",
+                "for hearing"
+            ],
+            "correct": 1,
+            "id": "20adff0f28124504835e5907da2f3232"
+        },
+        {
+            "question": "How intelligent ………………………..!",
+            "description": "The inverted word order is used in exclamations.",
+            "answers": [
+                "is she",
+                "she is"
+            ],
+            "correct": 1,
+            "id": "95f49eba7c66497088638979b7ca6e09"
+        },
+        {
+            "question": "Tell me what ………………………….. doing there.",
+            "description": "The inverted word order is used in indirect questions. ",
+            "answers": [
+                "were you",
+                "you were"
+            ],
+            "correct": 1,
+            "id": "c15e16add2334a93a26d4b59e92b245c"
+        },
+        {
+            "question": "You ……………………… give me my money back.",
+            "description": "Had better is used to give strong advice or warnings.",
+            "answers": [
+                "have better",
+                "had better",
+                "better"
+            ],
+            "correct": 1,
+            "id": "b51dd4bae3fb4892a67a0eba334abf38"
+        },
+        {
+            "question": "If you went there, you …………………….. dead now.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + first form of the verb in the main clause.",
+            "answers": [
+                "will be",
+                "would be",
+                "would have been"
+            ],
+            "correct": 1,
+            "id": "87987b653cd2486595505ed326905c79"
+        },
+        {
+            "question": "If you do that again, I ………………………… kill you.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause. ",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "8fc4b67399f44c79ab2bef88fc700e8c"
+        }
+    ]
+}

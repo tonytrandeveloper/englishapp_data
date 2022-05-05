@@ -1,0 +1,138 @@
+{
+    "id": "f35ad677400740aea3aff1eca55640d2",
+    "title": "Comparison Of Adjectives",
+    "questions": [
+        {
+            "question": "This is …………………………. than that.",
+            "description": "Use a comparative adjective before than.",
+            "answers": [
+                "good",
+                "better",
+                "best"
+            ],
+            "correct": 1,
+            "id": "478c9a63803e45288f16243faf58e6bb"
+        },
+        {
+            "question": "She is ………………………….. than you.",
+            "description": "",
+            "answers": [
+                "intelligent",
+                "more intelligent",
+                "most intelligent"
+            ],
+            "correct": 1,
+            "id": "8cefc60511134045b014c2a1e9396703"
+        },
+        {
+            "question": "He is the …………………………. boy in the class.",
+            "description": "",
+            "answers": [
+                "clever",
+                "cleverer",
+                "cleverest"
+            ],
+            "correct": 2,
+            "id": "993917676079436f8a07be66f355c3c1"
+        },
+        {
+            "question": "These days, I am …………………………… than I used to be.",
+            "description": "Use a comparative adjective before than. ",
+            "answers": [
+                "happy",
+                "happier",
+                "happiest"
+            ],
+            "correct": 1,
+            "id": "c598b4aa0ed24b248778ae748d03733f"
+        },
+        {
+            "question": "This is ………………………… than that.",
+            "description": "",
+            "answers": [
+                "bright",
+                "brighter",
+                "more bright"
+            ],
+            "correct": 1,
+            "id": "589e1e8aaebd4de4a7ed67594abd89ba"
+        },
+        {
+            "question": "He is the …………………………… man in my village.",
+            "description": "The superlative is used to compare one person or thing to the whole group to which they/it belong(s).",
+            "answers": [
+                "old",
+                "older",
+                "oldest"
+            ],
+            "correct": 2,
+            "id": "b0a01400d64641ca974b9fcab5fe9817"
+        },
+        {
+            "question": "She earns …………………………… than me.",
+            "description": "",
+            "answers": [
+                "more",
+                "much",
+                "most"
+            ],
+            "correct": 0,
+            "id": "069a62b286704eadbf8498c3213186ff"
+        },
+        {
+            "question": "She looks …………………………… than she is.",
+            "description": "Use a comparative adjective before than.",
+            "answers": [
+                "young",
+                "younger",
+                "youngest"
+            ],
+            "correct": 1,
+            "id": "c13dbb580c9b447f87dbdca61f2c96d6"
+        },
+        {
+            "question": "This is as ………………………….. as that.",
+            "description": "Use a positive adjective in the structure as... as....",
+            "answers": [
+                "good",
+                "well",
+                "better"
+            ],
+            "correct": 0,
+            "id": "f366cf4bb9634703ac4d2a1bce517b58"
+        },
+        {
+            "question": "You are no …………………………… than him.",
+            "description": "Use a comparative expression before than.",
+            "answers": [
+                "wise",
+                "wiser",
+                "wisest"
+            ],
+            "correct": 1,
+            "id": "94982a4fa3f343559e2808da85f72947"
+        },
+        {
+            "question": "It is no ………………………….",
+            "description": "When there is no idea of comparison, use the positive adjective. ",
+            "answers": [
+                "good",
+                "better",
+                "best"
+            ],
+            "correct": 0,
+            "id": "7bb1ca0527cc445ea672d8128f8ed064"
+        },
+        {
+            "question": "How is your grandmother today? Is she any ……………………………?",
+            "description": "When change is implied, use the comparative form. ",
+            "answers": [
+                "good",
+                "better",
+                "best"
+            ],
+            "correct": 1,
+            "id": "3ec1af90ff264a6ea2e8bc23a640b7ea"
+        }
+    ]
+}

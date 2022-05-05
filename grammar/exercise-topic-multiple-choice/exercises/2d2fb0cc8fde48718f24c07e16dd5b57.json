@@ -1,0 +1,132 @@
+{
+    "id": "2d2fb0cc8fde48718f24c07e16dd5b57",
+    "title": "Gap Fills",
+    "questions": [
+        {
+            "question": "I prefer …………………. to riding.",
+            "description": "",
+            "answers": [
+                "walk",
+                "to walk",
+                "walking"
+            ],
+            "correct": 2,
+            "id": "f4188799f8e047a1a5e6e43328b70c15"
+        },
+        {
+            "question": "She enjoys …………………",
+            "description": "Enjoy is followed by a gerund. ",
+            "answers": [
+                "read",
+                "to read",
+                "reading"
+            ],
+            "correct": 2,
+            "id": "e1c3e0a136514b75a6ffe529dd22e19b"
+        },
+        {
+            "question": "I am not used to ………………… late.",
+            "description": "When to is a preposition, it is followed by an ing form.",
+            "answers": [
+                "work",
+                "working"
+            ],
+            "correct": 1,
+            "id": "42b7147c6e1d47f5bc6b1cee7001a0c2"
+        },
+        {
+            "question": "Do you mind my ………………….. here?",
+            "description": "Ing forms are used after do you mind and would you mind?",
+            "answers": [
+                "sit",
+                "to sit",
+                "sitting"
+            ],
+            "correct": 2,
+            "id": "0ff405c7ea8543a38ded021817a7a43d"
+        },
+        {
+            "question": "He is not used to …………………. hard.",
+            "description": "",
+            "answers": [
+                "work",
+                "working"
+            ],
+            "correct": 1,
+            "id": "e2e20ce67fb84571a2b6d2b1eac78b92"
+        },
+        {
+            "question": "I still remember ………………….. butterflies when I was young.",
+            "description": "Remember is followed by an ing form when the reference is to the past. ",
+            "answers": [
+                "to chase",
+                "chasing"
+            ],
+            "correct": 1,
+            "id": "67ebaba7e5b84e259672b06f3f756194"
+        },
+        {
+            "question": "Little girls enjoy ……………………. with dolls.",
+            "description": "Enjoy is followed by an ing form.",
+            "answers": [
+                "to play",
+                "playing"
+            ],
+            "correct": 1,
+            "id": "bc965fd3108f4b0398c1ce66749ad9d9"
+        },
+        {
+            "question": "Would you mind ………………….. a little?",
+            "description": "Ing forms are used after do you mind and would you mind.",
+            "answers": [
+                "to move",
+                "moving"
+            ],
+            "correct": 1,
+            "id": "303d213659f04faf993fd3a0e606d04f"
+        },
+        {
+            "question": "I forgot …………………… the letter.",
+            "description": "",
+            "answers": [
+                "posting",
+                "to post",
+                "to posting"
+            ],
+            "correct": 1,
+            "id": "4f1758f7dbff4a34b9fd0e70c193e9cd"
+        },
+        {
+            "question": "It is time he …………………..",
+            "description": "A past tense is used after it is time with a present meaning.",
+            "answers": [
+                "left",
+                "leave",
+                "leaving"
+            ],
+            "correct": 0,
+            "id": "715af6b8be2d47489bfbc81893e8f6fe"
+        },
+        {
+            "question": "It is not easy …………………. over the wall.",
+            "description": "",
+            "answers": [
+                "jumping",
+                "to jump"
+            ],
+            "correct": 1,
+            "id": "2946f163739949128c60232c6a872575"
+        },
+        {
+            "question": "I wish I …………………. taller.",
+            "description": "The past tense is used with a present meaning after I wish. Were is preferred to was in this structure. ",
+            "answers": [
+                "am",
+                "were",
+                "was"
+            ],
+            "correct": 1,
+            "id": "8619445cf41347279eb4cbe9c13a5002"
+        }
+    ]
+}

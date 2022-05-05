@@ -1,0 +1,131 @@
+{
+    "id": "b3e987f4a1c6453eb906ba7e7c52a27d",
+    "title": "Degrees Of Comparison",
+    "questions": [
+        {
+            "question": "Delhi is …………….. than Mumbai.",
+            "description": "",
+            "answers": [
+                "hot",
+                "hotter",
+                "hottest"
+            ],
+            "correct": 1,
+            "id": "45116f4d01364710ba602c881d17bc28"
+        },
+        {
+            "question": "…………….. youngest brother serves in the army.",
+            "description": "",
+            "answers": [
+                "My",
+                "Me",
+                "Mine"
+            ],
+            "correct": 0,
+            "id": "ee47eae4bbe64b0c9ad8bcce61d870bd"
+        },
+        {
+            "question": "We had ………………. most interesting experience during the picnic.",
+            "description": "",
+            "answers": [
+                "a",
+                "the",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "afca3d78e40b4645b5168fcd8c7f9225"
+        },
+        {
+            "question": "Mr. Ramesh is ……………….. most popular lecturer in our college.",
+            "description": "",
+            "answers": [
+                "a",
+                "the"
+            ],
+            "correct": 1,
+            "id": "f2ec0a6fa1bb4d7d8631e95ea4de58b0"
+        },
+        {
+            "question": "I am satisfied only with ………………… best.",
+            "description": "",
+            "answers": [
+                "a",
+                "the"
+            ],
+            "correct": 1,
+            "id": "7240391e236a468887ccb52ffaffe0d6"
+        },
+        {
+            "question": "Kodaikanal is one of the ……………… hill stations in South India.",
+            "description": "",
+            "answers": [
+                "lovely",
+                "lovelier",
+                "loveliest"
+            ],
+            "correct": 2,
+            "id": "4781d46463ed4892bb7f997ec9afdc8a"
+        },
+        {
+            "question": "The ………………… of the two brothers is getting married next month.",
+            "description": "",
+            "answers": [
+                "younger",
+                "youngest"
+            ],
+            "correct": 0,
+            "id": "bbcb38810ab14cbf810005968479d9c9"
+        },
+        {
+            "question": "This is ……………….. most useful book on the subject.",
+            "description": "",
+            "answers": [
+                "a",
+                "the"
+            ],
+            "correct": 1,
+            "id": "aac291fefcaf4069b04974b1bd9b8359"
+        },
+        {
+            "question": "I have not seen ………………… better film than this.",
+            "description": "",
+            "answers": [
+                "a",
+                "the"
+            ],
+            "correct": 0,
+            "id": "d9b4f7667e1e4e139a426c29a593ee6a"
+        },
+        {
+            "question": "Only the ………………. member can be elected the President.",
+            "description": "",
+            "answers": [
+                "old",
+                "older",
+                "oldest"
+            ],
+            "correct": 2,
+            "id": "c26b0a59bb2b423ea3afeb22679d5784"
+        },
+        {
+            "question": "This is ……………….. worst accident in recent times.",
+            "description": "",
+            "answers": [
+                "the",
+                "a"
+            ],
+            "correct": 0,
+            "id": "f5219391ff7444a38e26b540202e185e"
+        },
+        {
+            "question": "………………. Charles seemed to be covered with hair.",
+            "description": "",
+            "answers": [
+                "Most of",
+                "The most of"
+            ],
+            "correct": 0,
+            "id": "6a5d00d7b39e4137a3a89a713dc7fed3"
+        }
+    ]
+}

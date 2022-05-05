@@ -1,0 +1,117 @@
+{
+    "id": "44c4f55d5581437cbaca23c7beec6872",
+    "title": "Conjunctions And Relative Pronouns",
+    "questions": [
+        {
+            "question": "It is a question ............................................ nobody can answer.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "9f749fe827cf49108db7f8e87baf8253"
+        },
+        {
+            "question": "I stayed an extra night ............................................... I could see Merlin.",
+            "description": "",
+            "answers": [
+                "such that",
+                "so that",
+                "that"
+            ],
+            "correct": 1,
+            "id": "1f849b6e22874e70b457be7824d0a407"
+        },
+        {
+            "question": "...................................................... I was having a shower, I slipped on the floor.",
+            "description": "",
+            "answers": [
+                "Whereas",
+                "Since",
+                "While"
+            ],
+            "correct": 2,
+            "id": "fe87acce18224af2845c8ad74eeb8517"
+        },
+        {
+            "question": "..................................................... she was too angry to speak, Alice said nothing.",
+            "description": "",
+            "answers": [
+                "As",
+                "Because",
+                "Since",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "540a73bfdbcf4eb388d9369b5c1b9ece"
+        },
+        {
+            "question": "................................................ the coat was expensive, I bought it.",
+            "description": "",
+            "answers": [
+                "Although",
+                "Though",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "bc07e8e72a8e4d54a38d48fc1daf3fb4"
+        },
+        {
+            "question": "The house ............................................... I live is very small.",
+            "description": "",
+            "answers": [
+                "where",
+                "there",
+                "which"
+            ],
+            "correct": 0,
+            "id": "f7590dbfe2a54a30921e604d832646b5"
+        },
+        {
+            "question": "I will always remember the day ................................................ I first met you.",
+            "description": "",
+            "answers": [
+                "when",
+                "that",
+                "which"
+            ],
+            "correct": 1,
+            "id": "ab7e2b0d96894cfa906a79cb192503f3"
+        },
+        {
+            "question": "I have got a friend ........................................... serves in the army.",
+            "description": "",
+            "answers": [
+                "who",
+                "which",
+                "when"
+            ],
+            "correct": 0,
+            "id": "ebb6975017dc49078e4700dced7ce38d"
+        },
+        {
+            "question": "Cook slowly ..................................................... it is ready.",
+            "description": "",
+            "answers": [
+                "until",
+                "till",
+                "up to"
+            ],
+            "correct": 1,
+            "id": "8109c225f3574b3b8ff05a583c454338"
+        },
+        {
+            "question": "................................................... I will have time I am not sure at the moment.",
+            "description": "",
+            "answers": [
+                "Whether",
+                "Unless",
+                "Weather"
+            ],
+            "correct": 0,
+            "id": "db4097e5e78046d0b360a4e65ac697cc"
+        }
+    ]
+}

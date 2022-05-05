@@ -1,0 +1,132 @@
+{
+    "id": "8a40125af15848578b8fc410a93ddbbf",
+    "title": "Adjective Or Adverb",
+    "questions": [
+        {
+            "question": "Please write more …………………………",
+            "description": "Here the adverb legibly modifies the verb write. ",
+            "answers": [
+                "legible",
+                "legibly"
+            ],
+            "correct": 1,
+            "id": "8c39f9e9f7c04a9f9e2fd0ed174ea3e2"
+        },
+        {
+            "question": "How is your grandmother? Is she any …………………………..?",
+            "description": "Use the comparative form when there is an idea of change. ",
+            "answers": [
+                "good",
+                "better",
+                "best"
+            ],
+            "correct": 1,
+            "id": "f0f0b9d558ab4fa0b16aca48626fffe9"
+        },
+        {
+            "question": "He can speak …………………………… German.",
+            "description": "Here the adjective fluent modifies the noun German.",
+            "answers": [
+                "fluent",
+                "fluently"
+            ],
+            "correct": 0,
+            "id": "cab4f3529a304e05ab16abcbf2ae7c31"
+        },
+        {
+            "question": "The small house was …………………………… bigger than a hut.",
+            "description": "",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 1,
+            "id": "fc817b6c12fd4734a1f1cdd698f974e0"
+        },
+        {
+            "question": "She works the ………………………. when she does something for her family.",
+            "description": "Use the superlative form after the.",
+            "answers": [
+                "hard",
+                "harder",
+                "hardest"
+            ],
+            "correct": 2,
+            "id": "27bd0ae7ed194ad09e595cadd72569ad"
+        },
+        {
+            "question": "A car cannot carry as ………………………… people as a bus.",
+            "description": "Use the positive form of the adjective in the expression as...as... Use many with plural nouns and much with uncountable nouns. ",
+            "answers": [
+                "many",
+                "much",
+                "more"
+            ],
+            "correct": 0,
+            "id": "39d1fa75f10c4456a9bcb46d6f348900"
+        },
+        {
+            "question": "That was a …………………………… thing to do.",
+            "description": "",
+            "answers": [
+                "stupid",
+                "stupider",
+                "stupidest"
+            ],
+            "correct": 0,
+            "id": "cbb8bd940e8943b8868ad08d535ba3c9"
+        },
+        {
+            "question": "I ……………………….. watch action movies.",
+            "description": "Either rarely or seldom is possible here. ",
+            "answers": [
+                "rarely",
+                "rare",
+                "seldom"
+            ],
+            "correct": 2,
+            "id": "d5f7851ade624b2387eb9be4c611e6bd"
+        },
+        {
+            "question": "They waited ……………………………. for their father.",
+            "description": "Here the adverb anxiously modifies the verb waited. ",
+            "answers": [
+                "anxious",
+                "anxiously"
+            ],
+            "correct": 1,
+            "id": "293256c706d7484b803fcce05b2d0bfa"
+        },
+        {
+            "question": "All of a …………………………., a dark figure emerged in the hallway.",
+            "description": "",
+            "answers": [
+                "sudden",
+                "suddenly"
+            ],
+            "correct": 0,
+            "id": "ebc9a638683c4c69b0a310686fac51bb"
+        },
+        {
+            "question": "He ran as ………………………… as he could.",
+            "description": "Fast can be an adjective and an adverb. The positive form is used in the expression as...as...",
+            "answers": [
+                "fast",
+                "fastly",
+                "faster"
+            ],
+            "correct": 0,
+            "id": "8488664c1482432c8e316c87600a4877"
+        },
+        {
+            "question": "She looked …………………………",
+            "description": "Look is a copular verb. We use adjectives, not adverbs to modify copular verbs. ",
+            "answers": [
+                "sad",
+                "sadly"
+            ],
+            "correct": 0,
+            "id": "2c44a2c1fac84a91b6aec847cbf11a32"
+        }
+    ]
+}

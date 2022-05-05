@@ -1,0 +1,126 @@
+{
+    "id": "a4536d6e8c53448491693fe287b44b53",
+    "title": "Has Or Have",
+    "questions": [
+        {
+            "question": "My brother ………………………. a nice watch.",
+            "description": "The subject brother is a singular noun and hence we use has.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "d6213fe8208143db812a168fa4c40ec7"
+        },
+        {
+            "question": "My parents …………………….. bought a house in the countryside.",
+            "description": "The subject parents is a plural noun and hence we use have. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "5260321678db456e841ac834853ac192"
+        },
+        {
+            "question": "I …………………….. nothing to say.",
+            "description": "The first person singular pronoun 'I' takes the verb have.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "2d57f053c47046e2b6acb30ac89d63ae"
+        },
+        {
+            "question": "You ……………………… always been a great help.",
+            "description": "Both the singular and the plural form of the second person you take the verb have. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "a4d3fdcb8aa44546ad1564558469b96c"
+        },
+        {
+            "question": "What ……………………… you done?",
+            "description": "Both the singular and the plural form of the second person you take the verb have. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "5d5bbc3f15c24fd4b7c813c0309f85ef"
+        },
+        {
+            "question": "He ………………….. no idea what he is doing.",
+            "description": "The third person singular he takes has.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "34103d07f4a14c8795ff7f954854318e"
+        },
+        {
+            "question": "They …………………… agreed to come.",
+            "description": "The third person plural pronoun they takes have.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "b2ccbdb4a388404bb10930df5680edb5"
+        },
+        {
+            "question": "The puppy ……………………….. had its breakfast.",
+            "description": "Puppy is a singular noun and hence it takes has. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "6eda7c58904843e9b9de7a2ebd48fcd8"
+        },
+        {
+            "question": "The students ……………………….. rehearsed well.",
+            "description": "Students is a plural noun and hence it takes have.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "8920a7c533ca40a58f5eb010372b4142"
+        },
+        {
+            "question": "Sonia …………………… a lovely voice.",
+            "description": "Sonia is a singular noun and hence it takes has.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "6f553a317ed8487583b3e66124f7cdca"
+        },
+        {
+            "question": "My brothers ……………………….. decided to go camping.",
+            "description": "",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "83700d4dd11a4064b841f0ff16bc45ca"
+        },
+        {
+            "question": "The baby ……………………… been sleeping since morning.",
+            "description": "",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "a7b9ad0163a64723b37388157bef9cae"
+        }
+    ]
+}

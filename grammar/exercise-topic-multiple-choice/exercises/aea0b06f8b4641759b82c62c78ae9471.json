@@ -1,0 +1,139 @@
+{
+    "id": "aea0b06f8b4641759b82c62c78ae9471",
+    "title": "Gap Fills",
+    "questions": [
+        {
+            "question": "Please don’t use your nail …………. a screwdriver.",
+            "description": "We use ‘as’ to say what function a person or object has.",
+            "answers": [
+                "as",
+                "like",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "4623ff393a5b41e7b84852a6c813444a"
+        },
+        {
+            "question": "I don’t like people …………… me in the middle of the night.",
+            "description": "Like can be followed by an ing form or a to-infinitive.",
+            "answers": [
+                "to phone",
+                "phoning",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "e9d1f306db524013925a632b2cdacecc"
+        },
+        {
+            "question": "I will let you …………….. my holiday dates next week.",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "know",
+                "to know",
+                "knowing"
+            ],
+            "correct": 0,
+            "id": "d538fd871d094b55bf53a53b254cb4a1"
+        },
+        {
+            "question": "They kept watch all night lest the robbers ……………. come.",
+            "description": "Should is the only auxiliary that can be used after lest.",
+            "answers": [
+                "would",
+                "should",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3bc6258f6b274976aa322be23c5181d8"
+        },
+        {
+            "question": "I am going to ………….. down for a few minutes.",
+            "description": "To lie is to be horizontal.",
+            "answers": [
+                "lay",
+                "lie",
+                "lain"
+            ],
+            "correct": 1,
+            "id": "bd1adb6000db4954acba9ab4ac6995a9"
+        },
+        {
+            "question": "I earn ………………. in my family.",
+            "description": "The least is the superlative of little. It is used before uncountable nouns.",
+            "answers": [
+                "least",
+                "the least",
+                "fewest",
+                "the fewest"
+            ],
+            "correct": 1,
+            "id": "ea38767a238543379644f970265375e5"
+        },
+        {
+            "question": "Those who know the answer should ………….. their hands.",
+            "description": "We use raise with an object.",
+            "answers": [
+                "raise",
+                "rise",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "c0bb9f6939324133b256ad53259c5165"
+        },
+        {
+            "question": "She ……………. from her seat.",
+            "description": "To rise from your seat is to get up.",
+            "answers": [
+                "raised",
+                "rose",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "dfa7ba4a6cf1485fbb37f78f5096cbf1"
+        },
+        {
+            "question": "I am very sure ……………… the test.",
+            "description": "We use sure + infinitive  to talk about our own feelings.",
+            "answers": [
+                "to pass",
+                "of passing",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "a1b6d6ab961b48e3a7962d25badb58bc"
+        },
+        {
+            "question": "She seemed quite sure …………. the exam.",
+            "description": "Sure + of + ing is used to refer to the feelings of the person you are talking about.",
+            "answers": [
+                "to pass",
+                "of passing",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "650e8a728c6c4246b2d9004e8706c77c"
+        },
+        {
+            "question": "I am sorry ……………. my temper yesterday.",
+            "description": "Sorry + about/for + ing is used to talk about past things we regret.",
+            "answers": [
+                "about losing",
+                "for losing",
+                "to lose"
+            ],
+            "correct": 1,
+            "id": "6c85befb74dd49ee9f7917868da427a3"
+        },
+        {
+            "question": "I am sorry …………… you that you failed the test.",
+            "description": "Sorry + infinitive is used to apologize for current situations.",
+            "answers": [
+                "about telling",
+                "for telling",
+                "to tell"
+            ],
+            "correct": 2,
+            "id": "3fa5293f304648bb859e14166842f6fc"
+        }
+    ]
+}

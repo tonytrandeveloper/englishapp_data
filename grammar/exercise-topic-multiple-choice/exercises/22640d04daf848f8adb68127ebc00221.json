@@ -1,0 +1,160 @@
+{
+    "id": "22640d04daf848f8adb68127ebc00221",
+    "title": "If clauses | Gap Fills",
+    "questions": [
+        {
+            "question": "If you work hard you .....................…",
+            "description": "",
+            "answers": [
+                "will succeed",
+                "would succeed",
+                "succeeds"
+            ],
+            "correct": 0,
+            "id": "1ec85cdc9e3047c283e928d3b49cdc70"
+        },
+        {
+            "question": "If you do not leave now, you ..................... the last train.",
+            "description": "",
+            "answers": [
+                "will miss",
+                "would miss",
+                "will be missing"
+            ],
+            "correct": 0,
+            "id": "8f122d5859754a94b0a5c05cbb54d298"
+        },
+        {
+            "question": "If I had known her address, I ................... to her.",
+            "description": "",
+            "answers": [
+                "will write",
+                "would write",
+                "would have written"
+            ],
+            "correct": 2,
+            "id": "f9b6852dc00a476bbc5be7e51d49f5f2"
+        },
+        {
+            "question": "I ........................ a car if got my raise.",
+            "description": "",
+            "answers": [
+                "will buy",
+                "would buy",
+                "would have bought"
+            ],
+            "correct": 1,
+            "id": "d39ec68be89f418ea8c19099644d0997"
+        },
+        {
+            "question": "If you had been there, you ...................... them.",
+            "description": "",
+            "answers": [
+                "can see",
+                "could see",
+                "could have seen"
+            ],
+            "correct": 2,
+            "id": "618b1f2b669a4ff7ae5d540585cca416"
+        },
+        {
+            "question": "If he had applied for the post, he .................... the job.",
+            "description": "",
+            "answers": [
+                "will get",
+                "would get",
+                "would have got"
+            ],
+            "correct": 2,
+            "id": "28953ee7baa54158bde471261429944c"
+        },
+        {
+            "question": "If we hadn’t hired the taxi, we ..................... the train.",
+            "description": "",
+            "answers": [
+                "will miss",
+                "would miss",
+                "would have missed"
+            ],
+            "correct": 2,
+            "id": "2f311ea040764dc4b99842f469d65c22"
+        },
+        {
+            "question": "If he had studied well, he ...................... the test.",
+            "description": "",
+            "answers": [
+                "will pass",
+                "would pass",
+                "would have passed"
+            ],
+            "correct": 2,
+            "id": "64d896ba42784ed799471d4566260d7d"
+        },
+        {
+            "question": "If he had asked me, I .................... him.",
+            "description": "",
+            "answers": [
+                "will help",
+                "would help",
+                "would have helped"
+            ],
+            "correct": 2,
+            "id": "62abd94ee21146c5918e7dd93a1e46a7"
+        },
+        {
+            "question": "If the driver had been a little careful, the accident .....................",
+            "description": "",
+            "answers": [
+                "can be avoided",
+                "could have been avoided",
+                "could have avoided"
+            ],
+            "correct": 1,
+            "id": "06e56384181541159328ba43022bcbc2"
+        },
+        {
+            "question": "If I were the Prime Minister, I ....................education free.",
+            "description": "",
+            "answers": [
+                "will make",
+                "would make",
+                "would have made"
+            ],
+            "correct": 1,
+            "id": "f7f793404c264e9b92988f91048e8638"
+        },
+        {
+            "question": "If I were you, I .................... this.",
+            "description": "",
+            "answers": [
+                "won't permit",
+                "wouldn't permit",
+                "wouldn't have permitted"
+            ],
+            "correct": 1,
+            "id": "d5370889b6424792a7b77e46406f83b6"
+        },
+        {
+            "question": "If I were a millionaire, I ...................... very happy.",
+            "description": "",
+            "answers": [
+                "will be",
+                "would be",
+                "would have been"
+            ],
+            "correct": 1,
+            "id": "87cab2b2a5404e7b96f41a3ebb6bf3ad"
+        },
+        {
+            "question": "If I ..................... her, I would have invited her to my party.",
+            "description": "",
+            "answers": [
+                "see",
+                "saw",
+                "had seen"
+            ],
+            "correct": 2,
+            "id": "77fdf71fec764867809d4bd16e053311"
+        }
+    ]
+}

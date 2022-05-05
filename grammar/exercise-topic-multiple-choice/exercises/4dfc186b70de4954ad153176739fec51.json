@@ -1,0 +1,114 @@
+{
+    "id": "4dfc186b70de4954ad153176739fec51",
+    "title": "Much, Much Of, Many, Many Of",
+    "questions": [
+        {
+            "question": "………………….. them are vegetarians.",
+            "description": "",
+            "answers": [
+                "Many",
+                "Many of"
+            ],
+            "correct": 1,
+            "id": "3a5584cefcfe45b9adb2f06c16548539"
+        },
+        {
+            "question": "I have ………………….. work to do.",
+            "description": "",
+            "answers": [
+                "much",
+                "much of"
+            ],
+            "correct": 0,
+            "id": "0ac923b2660f4b8d947fc86827bf785a"
+        },
+        {
+            "question": "I don’t have ………………….. time.",
+            "description": "",
+            "answers": [
+                "much",
+                "much of"
+            ],
+            "correct": 0,
+            "id": "f2aade9f1d334bfa98969cb3c5b2f873"
+        },
+        {
+            "question": "There weren’t ………………… students in the class.",
+            "description": "",
+            "answers": [
+                "much",
+                "much of",
+                "many",
+                "many of"
+            ],
+            "correct": 2,
+            "id": "2419aa3c01d24e72be05a67bbd002ab6"
+        },
+        {
+            "question": "……………….. money has been wasted on this project.",
+            "description": "",
+            "answers": [
+                "Many",
+                "Much",
+                "Much of"
+            ],
+            "correct": 1,
+            "id": "e3cac6812eb04f589920e55ed914c1dc"
+        },
+        {
+            "question": "You didn’t eat ……………….. breakfast.",
+            "description": "",
+            "answers": [
+                "much",
+                "many",
+                "much of"
+            ],
+            "correct": 0,
+            "id": "3d365bae85c140af9a57cfdb4ab72348"
+        },
+        {
+            "question": "Not ………………. India is barren.",
+            "description": "",
+            "answers": [
+                "much",
+                "many",
+                "much of"
+            ],
+            "correct": 2,
+            "id": "ac492329a4bf40658c418afc78c1fafc"
+        },
+        {
+            "question": "You can’t see ………………… a country in a week.",
+            "description": "",
+            "answers": [
+                "much",
+                "many",
+                "much of"
+            ],
+            "correct": 2,
+            "id": "f598941b11c24772bffabe58702c0232"
+        },
+        {
+            "question": "How ………………….. you are going to be there?",
+            "description": "",
+            "answers": [
+                "many",
+                "many of",
+                "much"
+            ],
+            "correct": 1,
+            "id": "9b3977272f3043b682f8ee64777ae68c"
+        },
+        {
+            "question": "You can have as ……………….. milk as you want.",
+            "description": "",
+            "answers": [
+                "much",
+                "much of",
+                "many"
+            ],
+            "correct": 0,
+            "id": "e75722c56f194c69ad7adc16ca24e0c7"
+        }
+    ]
+}

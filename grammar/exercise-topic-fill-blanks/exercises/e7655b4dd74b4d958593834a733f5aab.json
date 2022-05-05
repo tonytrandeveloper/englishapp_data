@@ -1,0 +1,326 @@
+{
+    "id": "e7655b4dd74b4d958593834a733f5aab",
+    "title": "Present Simple Negative 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / like coffee)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't like coffee.",
+                        "I do not like coffee."
+                    ]
+                }
+            ],
+            "id": "6088703ae0dc4f94ba2cd2b7e4eb26e1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / live in Paris)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't live in Paris.",
+                        "I do not live in Paris."
+                    ]
+                }
+            ],
+            "id": "f2e6eacfc8534145ad03333acaab8ae4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / come from Spain)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She doesn't come from Spain.",
+                        "She does not come from Spain."
+                    ]
+                }
+            ],
+            "id": "dc929fbb095a4198a68d74b4437ca9dd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(John / not / work in a bank)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "John doesn't work in a bank.",
+                        "John does not work in a bank."
+                    ]
+                }
+            ],
+            "id": "9fa72d5012bb497eb531215d17fd494c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / get up at eight o'clock)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They don't get up at eight o'clock.",
+                        "They do not  get up at eight o'clock."
+                    ]
+                }
+            ],
+            "id": "9736966d4c724562ab01691b9ca0836c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / go to the cinema every Friday)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We don't go to the cinema every Friday.",
+                        "We do not go to the cinema every Friday."
+                    ]
+                }
+            ],
+            "id": "f4cc317667b44e4195d6f3b3984f2449"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / read the newspaper every day)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You don't read the newspaper every day.",
+                        "You do not read the newspaper every day."
+                    ]
+                }
+            ],
+            "id": "844fac04e702421b94bb4c3ed518ef09"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / go to school in France)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He doesn't go to school in France.",
+                        "He does not go to school in France."
+                    ]
+                }
+            ],
+            "id": "b03844055770424b8ecf35cd75d92576"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / watch TV in the evening)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We don't watch TV in the evening.",
+                        "We do not watch TV in the evening."
+                    ]
+                }
+            ],
+            "id": "54b201bc48cb4c8b9e2c128baa846f21"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / have a shower in the morning)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't have a shower in the morning.",
+                        "I do not have a shower in the morning."
+                    ]
+                }
+            ],
+            "id": "276bb283999141fe87d61aeffe7da8ad"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / drink tea every afternoon)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She doesn't drink tea every afternoon.",
+                        "She does not drink tea every afternoon."
+                    ]
+                }
+            ],
+            "id": "906eb81ec1764643a818f326b3c5db06"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / visit their parents at the weekend)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They don't visit their parents at the weekend.",
+                        "They do not visit their parents at the weekend."
+                    ]
+                }
+            ],
+            "id": "dd82a29180474eddbba2b292009e042f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / study English very often)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You don't study English very often.",
+                        "You do not study English very often."
+                    ]
+                }
+            ],
+            "id": "709ec85b08884dfb87d40833867f5077"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(it / not / rain here in the summer)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "It doesn't rain here in the summer.",
+                        "It does not rain here in the summer."
+                    ]
+                }
+            ],
+            "id": "bc35defe8b684d0083878b1bf417cfc6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / go out on Tuesday nights)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We don't go out on Tuesday nights.",
+                        "We do not go out on Tuesday nights."
+                    ]
+                }
+            ],
+            "id": "beaca0a4348149ea8c2c333a39cb1a63"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / like cabbage)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He doesn't like cabbage.",
+                        "He does not like cabbage."
+                    ]
+                }
+            ],
+            "id": "749e6c0cb4794df3b01323023ca00e63"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(the sun / not / go round the earth)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The sun doesn't go round the earth.",
+                        "The sun does not go round the earth."
+                    ]
+                }
+            ],
+            "id": "7bb2d1a9971f4d29b970ab0703b90cbc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / play the piano)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She doesn't play the piano.",
+                        "She does not play the piano."
+                    ]
+                }
+            ],
+            "id": "5fe422e48e2e4f7bae29903f3d18fc42"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / smoke)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't smoke.",
+                        "I do not smoke."
+                    ]
+                }
+            ],
+            "id": "05c67825bc484b679905a92ab3df21e7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Julie and Lucy / not / play football)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Julie and Lucy don't play football.",
+                        "Julie and Lucy do not play football."
+                    ]
+                }
+            ],
+            "id": "7b13d48b34bf491cb6de7a99f426a1b1"
+        }
+    ]
+}

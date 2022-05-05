@@ -1,0 +1,138 @@
+{
+    "id": "0f05e8ddc66342378cf0e5760d6b5b6a",
+    "title": "Present Tenses Exercise",
+    "questions": [
+        {
+            "question": "My parents ……………………….. near Chennai.",
+            "description": "We use the simple present to talk about permanent situations.",
+            "answers": [
+                "live",
+                "are living",
+                "have lived"
+            ],
+            "correct": 0,
+            "id": "38072bc5b10f4bd78b4a45ec490df933"
+        },
+        {
+            "question": "I ……………………….. my parents twice a month.",
+            "description": "The simple present tense is used to talk about things that happen regularly.",
+            "answers": [
+                "visit",
+                "am visiting",
+                "have visited"
+            ],
+            "correct": 0,
+            "id": "81b3fa27264a4a5e87e485f1d71dc3d3"
+        },
+        {
+            "question": "‘What are you doing there?’ ‘I …………………………….. TV.’",
+            "description": "We use the present continuous tense to talk about actions or events that are going on around now.",
+            "answers": [
+                "watch",
+                "am watching",
+                "have watched"
+            ],
+            "correct": 1,
+            "id": "f7d55e6c6e324b35999dfcfaca9c1dcf"
+        },
+        {
+            "question": "Watch carefully. First I …………………………. a cucumber and …………………………. it into small pieces.",
+            "description": "We use the simple present tense to talk about a series of actions that are completed as we speak.",
+            "answers": [
+                "am taking, am cutting",
+                "take, cut",
+                "am taking, cut"
+            ],
+            "correct": 1,
+            "id": "860955d37f3e4a598cd57014250056a7"
+        },
+        {
+            "question": "I will follow you wherever you ……………………………..",
+            "description": "When the main verb is in the future tense, we use a simple present tense in the subordinate clause.",
+            "answers": [
+                "will go",
+                "are going",
+                "go"
+            ],
+            "correct": 2,
+            "id": "893b8e2c85454f56aaa232688f7efda3"
+        },
+        {
+            "question": "I will call you if I ………………………… time.",
+            "description": "When the main verb is in the future tense, we use a simple present tense in the subordinate clause.",
+            "answers": [
+                "get",
+                "am getting",
+                "have got"
+            ],
+            "correct": 0,
+            "id": "6c95b17b1810459eba1985a25df1b57b"
+        },
+        {
+            "question": "What ………………………. snakes …………………….?",
+            "description": "The simple present tense is used to talk about permanent situations.",
+            "answers": [
+                "do, eat",
+                "are, eating",
+                "are, eat"
+            ],
+            "correct": 0,
+            "id": "ffc1048eb18d487aa06d5e3135543cba"
+        },
+        {
+            "question": "How ………………………… I ……………………… to the airport?",
+            "description": "The simple present tense is used when we ask for and give directions.",
+            "answers": [
+                "do, get",
+                "am, getting",
+                "do, getting"
+            ],
+            "correct": 0,
+            "id": "671ca98a6bb64fb19e21c1ce2cb3c69f"
+        },
+        {
+            "question": "I …………………………. this fragrance very much.",
+            "description": "The verb like is not normally used in the continuous form.",
+            "answers": [
+                "like",
+                "am liking",
+                "have liked"
+            ],
+            "correct": 0,
+            "id": "bc72b6287e524d99b794c4c4ee1c8747"
+        },
+        {
+            "question": "I will hit anybody who ………………………………. me names.",
+            "description": "When the main verb is in the future tense, we use a simple present tense in the subordinate clause to refer to the future.",
+            "answers": [
+                "calls",
+                "is calling",
+                "has called"
+            ],
+            "correct": 0,
+            "id": "dbd5622c7daf40c88241b5179a1defc7"
+        },
+        {
+            "question": "Why …………………………. she ……………………….. on the table?",
+            "description": "The present continuous is usually used to talk about temporary situations",
+            "answers": [
+                "does, stand",
+                "is, standing",
+                "does, standing"
+            ],
+            "correct": 1,
+            "id": "97200ea863024925a7efed8d74e3dbf5"
+        },
+        {
+            "question": "The temple …………………………. on a hill outside the town.",
+            "description": "The present simple is used to talk about permanent situations.",
+            "answers": [
+                "is standing",
+                "has stood",
+                "stands"
+            ],
+            "correct": 2,
+            "id": "74169612cc73441f8c1deacf6d88c51a"
+        }
+    ]
+}

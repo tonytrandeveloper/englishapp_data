@@ -1,0 +1,138 @@
+{
+    "id": "c40e5212f8b74b38be9357dfd278241e",
+    "title": "Kinds of Sentences | Grammar Exercise",
+    "questions": [
+        {
+            "question": "Mother was busy cooking for the guests who were arriving in the evening.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses. Clauses introduced by relative pronouns like who, which, that, whom and whose are subordinate clauses. ",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1,
+            "id": "f91d4a6d83e84e2d87c9acf8d4cde82b"
+        },
+        {
+            "question": "The person who was injured in the accident needed help immediately.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses. Clauses introduced by relative pronouns like who, which, that, whom and whose are subordinate clauses. ",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1,
+            "id": "9d7a908894544211a8787a11f587ced8"
+        },
+        {
+            "question": "Whatever you learn at school will help you in the future.",
+            "description": "Here the clause 'whatever you learn at school' is a subordinate noun clause. Sentences that contain subordinate clauses are complex sentences. ",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1,
+            "id": "e295062e1cff49e48809dfd60d4fe2cd"
+        },
+        {
+            "question": "Alice cooked dinner and Mike tidied the rooms.",
+            "description": "A compound sentence consists of two or more coordinate clauses. Clauses connected by the conjunctions and, so, but, or, for, nor etc are coordinate clauses. ",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 2,
+            "id": "7a1c7c17052b42959f56d75044046867"
+        },
+        {
+            "question": "I had a headache but I enjoyed the movie.",
+            "description": "A compound sentence consists of two or more coordinate clauses. Clauses connected by but are coordinate clauses. ",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 2,
+            "id": "9ae58ec23a604c09aaef456d6ebb4a43"
+        },
+        {
+            "question": "In spite of having a headache I enjoyed the movie.",
+            "description": "The above sentence has just one clause and hence it is a simple sentence.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 0,
+            "id": "1dae539e74ed4a1d933bb17c1c834ff0"
+        },
+        {
+            "question": "Although I had a headache, I enjoyed the movie.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses. Clauses introduced by the subordinating conjunctions though and although are subordinate clauses. ",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1,
+            "id": "54fdf4dd1100448aa384bb341d0265ca"
+        },
+        {
+            "question": "We cancelled the picnic because of the rain.",
+            "description": "The above sentence has just one finite verb and hence it is a simple sentence. ",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 0,
+            "id": "fd5c656b800c4eb29c9d2b19f6ab7a88"
+        },
+        {
+            "question": "He is either a fool or a lunatic.",
+            "description": "Clauses connected by the coordinating conjunction 'either...or' are coordinate clauses and hence the above sentence is a compound sentence. ",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 2,
+            "id": "7c76f706927244958e099830e2dae5da"
+        },
+        {
+            "question": "I don't know whether he will arrive.",
+            "description": "The above sentence has one main clause and one subordinate noun clause and hence it is a complex sentence. ",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1,
+            "id": "0dedf09e326c47c1ba3b06d71989e42d"
+        },
+        {
+            "question": "You should have asked me before using my computer.",
+            "description": "The above sentence has just one finite verb and hence one clause. So it is a simple sentence. ",
+            "answers": [
+                "Simple sentence",
+                "Compound sentence",
+                "Complex sentence"
+            ],
+            "correct": 0,
+            "id": "a97acad7b678402086ec6f305d81fe5d"
+        },
+        {
+            "question": "The girl who won the first prize is my neighbor's daughter.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses. Clauses introduced by relative pronouns like who, which, that, whom and whose are subordinate clauses. ",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1,
+            "id": "8c540d38f8504bb085dc58ae2af35d51"
+        }
+    ]
+}

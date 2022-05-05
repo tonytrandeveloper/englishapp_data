@@ -1,0 +1,139 @@
+{
+    "id": "ebab84393d8e4c8e8ec51dffeeb61f22",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "……………………. stringent antidrug laws, drug peddlers persist in selling narcotics.",
+            "description": "Despite is a preposition. It is followed by a noun.",
+            "answers": [
+                "Despite",
+                "However",
+                "Although"
+            ],
+            "correct": 0,
+            "id": "1cabc5216fa142bd97dc3f10802799ae"
+        },
+        {
+            "question": "……………………….. there are stringent antidrug laws, drug peddlers persist in selling narcotics.",
+            "description": "Although is used to connect two contrasting ideas. It is a conjunction and is followed by a clause.",
+            "answers": [
+                "Although",
+                "In spite of",
+                "However"
+            ],
+            "correct": 0,
+            "id": "a48a6c9a6d9849be9c983bf9747ccff8"
+        },
+        {
+            "question": "I knew no one at the party ……………………. that did not stop me from having a nice time.",
+            "description": "But is used to connect two contrasting ideas. Note that although usually goes at the beginning of a clause whereas but usually goes after the first clause.",
+            "answers": [
+                "however",
+                "although",
+                "but"
+            ],
+            "correct": 2,
+            "id": "aa16dac407b54fd1ac93b99fad679d4d"
+        },
+        {
+            "question": "………………………… my request for support, he did nothing.",
+            "description": "In spite of is used to connect two contrasting ideas. It is a preposition.",
+            "answers": [
+                "In spite of",
+                "But",
+                "Although",
+                ""
+            ],
+            "correct": 0,
+            "id": "4d01ae1df57e4c4b93a7c6a6f82b6270"
+        },
+        {
+            "question": "I insist that the project ………………………… cancelled",
+            "description": "Should is not normally used in the clause after insist.",
+            "answers": [
+                "be",
+                "is",
+                "should be"
+            ],
+            "correct": 0,
+            "id": "ccb5e0d389d54daa8ae32849faa4ca0d"
+        },
+        {
+            "question": "I recommend that the highway ……………………… moved to another area.",
+            "description": "Should is not normally used in the clause after insist.",
+            "answers": [
+                "is",
+                "be",
+                "should be"
+            ],
+            "correct": 1,
+            "id": "6342fad4943e45e38b4def9ec5f1e522"
+        },
+        {
+            "question": "He insisted …………………………. his attorney.",
+            "description": "Insist is followed by on + ing form.",
+            "answers": [
+                "to see",
+                "on seeing",
+                "to seeing"
+            ],
+            "correct": 1,
+            "id": "f772057513d44e8185d884aee700ebad"
+        },
+        {
+            "question": "……………………….. my childhood was peaceful, my adulthood is hectic and stressful.",
+            "description": "While is used to connect two contrasting ideas.",
+            "answers": [
+                "While",
+                "As",
+                "Since"
+            ],
+            "correct": 0,
+            "id": "1592f1bb3f574091a3dc0a8b6a092294"
+        },
+        {
+            "question": "A huge tree now stands …………………………. I planted a small seed.",
+            "description": "",
+            "answers": [
+                "there",
+                "where",
+                "when"
+            ],
+            "correct": 1,
+            "id": "06118a5a150f4e859ffff213b2b9ac14"
+        },
+        {
+            "question": "We started early ………………………… we wouldn’t get stuck in the traffic.",
+            "description": "So that and in order that indicate the purpose.",
+            "answers": [
+                "in order that",
+                "so that",
+                "in order to"
+            ],
+            "correct": 1,
+            "id": "b32e577068974979925eaa2df6c859af"
+        },
+        {
+            "question": "……………………….. his long legs, he is a good runner.",
+            "description": "Due to is similar to because of.",
+            "answers": [
+                "Due to",
+                "Although",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "1be49c1a5925497aa9fb5e3392d3014d"
+        },
+        {
+            "question": "I always try new things ……………………………….. my fears.",
+            "description": "",
+            "answers": [
+                "due to",
+                "despite",
+                "in spite"
+            ],
+            "correct": 1,
+            "id": "d842c4fbed4b482b9856489b586cfcd8"
+        }
+    ]
+}

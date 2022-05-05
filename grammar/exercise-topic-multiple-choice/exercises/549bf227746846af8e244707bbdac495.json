@@ -1,0 +1,127 @@
+{
+    "id": "549bf227746846af8e244707bbdac495",
+    "title": "Subject-Verb Agreement",
+    "questions": [
+        {
+            "question": "He and his wife ……………………….. arrived.",
+            "description": "Two or more singular nouns connected by and take a plural verb.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "889fe1e438f7405b80c7edca0df58cde"
+        },
+        {
+            "question": "Oil and water ……………………… not agree.",
+            "description": "Two or more singular nouns connected by and take a plural verb.",
+            "answers": [
+                "do",
+                "does"
+            ],
+            "correct": 0,
+            "id": "bf9c977c89e2424998ff858c64f16c5b"
+        },
+        {
+            "question": "My mentor and benefactor ………………………. no more.",
+            "description": "When two singular nouns refer to the same person, we use a singular verb.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "67035e074227477a99c05e4816072c55"
+        },
+        {
+            "question": "The secretary and the chairman ……………………………. present at the meeting.",
+            "description": "Here the articles used with the two nouns indicate that they refer to different people and hence we use a plural verb.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "3f470bd49482436a916572903a046fdf"
+        },
+        {
+            "question": "Each person …………………………. a vote.",
+            "description": "We use a singular noun and a singular verb after each.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "0398e679bbeb4c69b82cac02f84d727e"
+        },
+        {
+            "question": "Each day ………………………… its own challenges.",
+            "description": "We use a singular noun and a singular verb after each.",
+            "answers": [
+                "bring",
+                "brings"
+            ],
+            "correct": 1,
+            "id": "e1a5d61597ae4c57bf2c415b59aef4b8"
+        },
+        {
+            "question": "Neither Rahul nor Rohan ………………………… passed the exam.",
+            "description": "The verb is singular when two or more singular nouns are connected by nor.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "fd71aa3ccc994ac2b524852c75c1c3de"
+        },
+        {
+            "question": "Either Peter or James ………………………. left his umbrella in the classroom.",
+            "description": "The verb is singular when two or more singular nouns are connected by or.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "c6f18636a4b141caa7ab5f0f7aaa81b0"
+        },
+        {
+            "question": "Neither the manager nor his personal assistants ……………………… there.",
+            "description": "When the subjects joined by or or nor are of different number, the verb is plural. In this case, put the plural subject close to the verb.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "5d82c9d32a6541a7a8ed9055b2c4f761"
+        },
+        {
+            "question": "Neither he nor I ………………………… responsible for this.",
+            "description": "When the subjects connected by or or nor are of different persons, the verb agrees in person with the nearest subject.",
+            "answers": [
+                "is",
+                "are",
+                "am"
+            ],
+            "correct": 2,
+            "id": "650e3dcd4c05433c932c1477ec686453"
+        },
+        {
+            "question": "Neither you nor he ………………………… a good student.",
+            "description": "When the subjects connected by or or nor are of different persons, the verb agrees in person with the nearest subject.",
+            "answers": [
+                "are",
+                "is"
+            ],
+            "correct": 1,
+            "id": "47e6ea6d3aca455f8f6c53c2a436557b"
+        },
+        {
+            "question": "Everyone of them ……………………… there.",
+            "description": "We use a singular verb after every and everyone.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "e18b3c066efd40fc93437165c75d52ef"
+        }
+    ]
+}

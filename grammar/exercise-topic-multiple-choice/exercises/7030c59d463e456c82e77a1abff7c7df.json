@@ -1,0 +1,135 @@
+{
+    "id": "7030c59d463e456c82e77a1abff7c7df",
+    "title": "Reported Speech Exercise",
+    "questions": [
+        {
+            "question": "Grandmother said that she .................................. the party.",
+            "description": "When the reporting verb is in the past tense, we use a past tense in the reported speech to refer to past time.",
+            "answers": [
+                "doesn't like",
+                "hasn't liked",
+                "didn't like"
+            ],
+            "correct": 2,
+            "id": "665f697d8ba8420db139a0eb62aa5cb6"
+        },
+        {
+            "question": "I asked him if he .............................................. to come with me.",
+            "description": "When the reporting verb is in the past tense, we use a past tense in the reported speech to refer to past time.",
+            "answers": [
+                "wants",
+                "wanted",
+                "want"
+            ],
+            "correct": 1,
+            "id": "e874e7f968aa4191a6721cab929320bf"
+        },
+        {
+            "question": "I ...................................... her that she looked beautiful.",
+            "description": "Before a personal object we use tell.",
+            "answers": [
+                "told",
+                "said",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "a39be0b5bec34966a370eae98b0af75d"
+        },
+        {
+            "question": "He pretended that he .......................................... sing.",
+            "description": "When the reporting verb is in the past tense, we use a past tense in the reported speech to refer to past time.",
+            "answers": [
+                "can't",
+                "couldn't",
+                "doesn't"
+            ],
+            "correct": 1,
+            "id": "f45cc47219d944f585b892aa304674bc"
+        },
+        {
+            "question": "She said that she ............................................ on a  new project.",
+            "description": "When the reporting verb is in the past tense, we use a past tense in the reported speech to refer to past time.",
+            "answers": [
+                "is working",
+                "was working",
+                "has been working"
+            ],
+            "correct": 1,
+            "id": "477896a3201e4ef4b2cb4f972d7433c7"
+        },
+        {
+            "question": "She ............................................ she wouldn't come.",
+            "description": "The conjunction that can be dropped after common reporting verbs.",
+            "answers": [
+                "said",
+                "said that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "d6bc831dcb50426f967aed423d6fb1cd"
+        },
+        {
+            "question": "I ........................................... you are right.",
+            "description": "The conjunction that can be dropped after common reporting verbs.",
+            "answers": [
+                "think",
+                "think that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "47ea2e4c35c24bc190819355fea310b8"
+        },
+        {
+            "question": "I ...........................................  I hadn't applied for that job.",
+            "description": "The conjunction that cannot be dropped after replied.",
+            "answers": [
+                "replied",
+                "replied that",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1be8691274f64c419877675d2b164666"
+        },
+        {
+            "question": "He wanted to know what ......................................... doing there.",
+            "description": "In reported questions, the auxiliary verb goes after the subject.",
+            "answers": [
+                "was I",
+                "I was"
+            ],
+            "correct": 1,
+            "id": "6a191d3aa61647c9a90033596f830abe"
+        },
+        {
+            "question": "I asked where ........................................... staying.",
+            "description": "In reported questions, the auxiliary verb goes after the subject.",
+            "answers": [
+                "were they",
+                "they were"
+            ],
+            "correct": 1,
+            "id": "6c9395ec462e4604805ff8a9509e0057"
+        },
+        {
+            "question": "Nobody told me why .......................................... to leave.",
+            "description": "",
+            "answers": [
+                "had I",
+                "I had"
+            ],
+            "correct": 1,
+            "id": "4d194d4650064ae88d3d6b0150123fe7"
+        },
+        {
+            "question": "He suggested ................................................. find another job.",
+            "description": "We cannot use a to-infinitive after suggest.",
+            "answers": [
+                "that I find",
+                "me to find",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "555c1bb8d10a46c197764f3243a8f25c"
+        }
+    ]
+}

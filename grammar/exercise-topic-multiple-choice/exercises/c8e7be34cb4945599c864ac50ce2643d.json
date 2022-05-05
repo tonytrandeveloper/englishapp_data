@@ -1,0 +1,134 @@
+{
+    "id": "c8e7be34cb4945599c864ac50ce2643d",
+    "title": "Adjectives Quiz",
+    "questions": [
+        {
+            "question": "Melvin is …………………………. Edwin.",
+            "description": "Elder cannot be used predicatively (after a verb).",
+            "answers": [
+                "elder than",
+                "elder to",
+                "older than"
+            ],
+            "correct": 2,
+            "id": "dccdefb51ec34923b6b7acf5993894c5"
+        },
+        {
+            "question": "She is older ………………………….. her husband.",
+            "description": "Use than after older.",
+            "answers": [
+                "to",
+                "than"
+            ],
+            "correct": 1,
+            "id": "908bcb0f495c44f5acc01ce067b0fd1d"
+        },
+        {
+            "question": "She is junior ……………………….. me.",
+            "description": "The words junior and senior are followed by to.",
+            "answers": [
+                "than",
+                "to"
+            ],
+            "correct": 1,
+            "id": "e03f2aaa039e4afda87a7ea05a3f2890"
+        },
+        {
+            "question": "He earns more than …………………………..",
+            "description": "A subject pronoun is unusual after than.",
+            "answers": [
+                "me",
+                "I"
+            ],
+            "correct": 0,
+            "id": "34e3e8295b2d4d0db38575fc0499e2d1"
+        },
+        {
+            "question": "I prefer running ……………………….. jogging.",
+            "description": "Prefer should be followed by to.",
+            "answers": [
+                "than",
+                "over",
+                "to"
+            ],
+            "correct": 2,
+            "id": "4115ce7a32754b39b43a176f8fe2b47b"
+        },
+        {
+            "question": "That was ……………………….. experience in my life.",
+            "description": "Worst is the superlative form of bad.",
+            "answers": [
+                "the worse",
+                "the worst",
+                "the baddest"
+            ],
+            "correct": 1,
+            "id": "5f181ade1811457ab7117c852bf97b82"
+        },
+        {
+            "question": "I am older than ………………………….. is.",
+            "description": "We use a subject pronoun after than when the pronoun is followed by a verb. ",
+            "answers": [
+                "him",
+                "he"
+            ],
+            "correct": 1,
+            "id": "b0d7ca192d8a4f559e8209e513711125"
+        },
+        {
+            "question": "I prefer coffee ………………………….. tea.",
+            "description": "",
+            "answers": [
+                "than",
+                "to",
+                "over"
+            ],
+            "correct": 1,
+            "id": "e5d27f9eea2545129a258831e1061d5a"
+        },
+        {
+            "question": "He is ………………………… than I am.",
+            "description": "Worse is the comparative form of bad.",
+            "answers": [
+                "worse",
+                "worst",
+                "bad"
+            ],
+            "correct": 0,
+            "id": "eab94fe7b03e453e919fb25b53c5096c"
+        },
+        {
+            "question": "Humans are ……………………………. than animals.",
+            "description": "The comparative form of intelligent is more intelligent. ",
+            "answers": [
+                "more intelligent",
+                "intelligenter",
+                "most intelligent"
+            ],
+            "correct": 0,
+            "id": "0ae80278985f4164ae1865f782ba64cf"
+        },
+        {
+            "question": "He is ……………………………. of the two.",
+            "description": "",
+            "answers": [
+                "the cleverer",
+                "the cleverest",
+                "the clever"
+            ],
+            "correct": 0,
+            "id": "d7c7bd772ef74cf2aae7ff9816ec8588"
+        },
+        {
+            "question": "My ………………………….. brother is a soldier.",
+            "description": "Elder and older can both be used before nouns. ",
+            "answers": [
+                "elder",
+                "older",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "2ceb643ae0884ac8b4067ec57d486b71"
+        }
+    ]
+}

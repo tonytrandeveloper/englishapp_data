@@ -1,0 +1,318 @@
+{
+    "id": "7c5ecfd4deb145d581ab99135bd4096a",
+    "title": "Present Simple Mixed Exercise 2 with 'be'",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / hungry)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You're hungry.",
+                        "You are hungry."
+                    ]
+                }
+            ],
+            "id": "6b6af0d22f2141448d9f44586cd37a54"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / at home)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They aren't at home.",
+                        "They are not at home."
+                    ]
+                }
+            ],
+            "id": "77d49de7289e48a58132f172574fbfb8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(when / the party)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "When's the party?",
+                        "When is the party?"
+                    ]
+                }
+            ],
+            "id": "741dfd731a024da4b5ad64677ca9e47f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Julie and Ann / on the bus)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are Julie and Ann on the bus?"
+                    ]
+                }
+            ],
+            "id": "19a3f03b5c3245b486289a539c8571b6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / kind)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is she kind?"
+                    ]
+                }
+            ],
+            "id": "ebae6dc7cae14130b6dd93c0b8d27956"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / German)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are they German?"
+                    ]
+                }
+            ],
+            "id": "1b37c98efce74f98bceab84a3c0e81c0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / late)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you late?"
+                    ]
+                }
+            ],
+            "id": "67196116d2a740ce968d723ad2130182"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / early)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Am I early?"
+                    ]
+                }
+            ],
+            "id": "2cc0be1a57b44c59820ba93e994ebfda"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / from London)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you from London?"
+                    ]
+                }
+            ],
+            "id": "33966461024949628727b137dfbd8bda"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / sad)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They're sad.",
+                        "They are sad."
+                    ]
+                }
+            ],
+            "id": "1f3fb01aae334a4ba47906cffc6e1f94"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / beautiful)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She's beautiful.",
+                        "She is beautiful."
+                    ]
+                }
+            ],
+            "id": "d6ff52c6bf224dcaa4098fc66aa51497"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / in love)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We're in love.",
+                        "We are in love."
+                    ]
+                }
+            ],
+            "id": "df04a29525d34cae85b32acf09f70dc5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Where are you?"
+                    ]
+                }
+            ],
+            "id": "6bc177a9a02441f78940c44d5dbd9d7c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / happy)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I'm happy.",
+                        "I am happy."
+                    ]
+                }
+            ],
+            "id": "ef87128c009e4ee9825d01244b7ce97f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / this)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What's this?",
+                        "What is this?"
+                    ]
+                }
+            ],
+            "id": "6e6da73e104b4a0baeee84e6d14e5646"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / too hot)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I'm not too hot.",
+                        "I am not too hot."
+                    ]
+                }
+            ],
+            "id": "10a1d3a4903142fb863dd27a4fe81aa1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / called Julia)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She isn't called Julia.",
+                        "She is not called Julia."
+                    ]
+                }
+            ],
+            "id": "02629c8dd51e4e7e8d9b7c7caf1bacb4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how old / she)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How old is she?"
+                    ]
+                }
+            ],
+            "id": "190e5656b5cb41c1a90b5991b4100daf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what time / the train)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What time's the train?",
+                        "What time is the train?"
+                    ]
+                }
+            ],
+            "id": "7b9f7512ce094c908faa3c5d2f4d4ae9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / an accountant)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He isn't an accountant.",
+                        "He is not an accountant."
+                    ]
+                }
+            ],
+            "id": "9db3b24030264772b58849ce1b51b9cd"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": "11eb59e84fcb4320a2fe9632a81f9ec5",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "I like …………………… music.",
+            "description": "We cannot use every with uncountable nouns.",
+            "answers": [
+                "all",
+                "every",
+                "each"
+            ],
+            "correct": 0,
+            "id": "14ca76f29cd6483d9600c4a15bf3374c"
+        },
+        {
+            "question": "You have eaten ……………………… loaf.",
+            "description": "All is not normally used with a or an.",
+            "answers": [
+                "all",
+                "all a",
+                "a whole"
+            ],
+            "correct": 2,
+            "id": "e9b6c4454f5f49a9ada3d06e97c76830"
+        },
+        {
+            "question": "Under no circumstances ………………………… allowed in the pub.",
+            "description": "We use an inverted word order after negative expressions like ‘under no circumstances’.",
+            "answers": [
+                "children are",
+                "are children"
+            ],
+            "correct": 1,
+            "id": "1e7252966a774fb29fd69b2daa22268b"
+        },
+        {
+            "question": "The two sisters are very much ……………………….",
+            "description": "Alike means like each other. It is used in predicative positions.",
+            "answers": [
+                "like",
+                "alike",
+                "similar"
+            ],
+            "correct": 1,
+            "id": "42801eaf1136460cba3460a245c3c8d5"
+        },
+        {
+            "question": "I was here a year ………………………….",
+            "description": "We use ago to count back from the present.",
+            "answers": [
+                "ago",
+                "before",
+                "back"
+            ],
+            "correct": 0,
+            "id": "ee9826872424433cbf61841d23f1f0f4"
+        },
+        {
+            "question": "………………………… drug is 100 percent safe.",
+            "description": "We cannot start a new sentence with not any. Instead we use no.",
+            "answers": [
+                "No",
+                "Not any",
+                "None of"
+            ],
+            "correct": 0,
+            "id": "fa29ee6ba93a4332afd82d715bd16c60"
+        },
+        {
+            "question": "I think we should paint the wall …………………….. color.",
+            "description": "Another means an alternative.",
+            "answers": [
+                "an other",
+                "another",
+                "other"
+            ],
+            "correct": 1,
+            "id": "8704979a864c437390b8960cdd570395"
+        },
+        {
+            "question": "I am looking forward to being .................................",
+            "description": "",
+            "answers": [
+                "grandmother",
+                "the grandmother",
+                "a grandmother"
+            ],
+            "correct": 2,
+            "id": "8eac4397c54c47f0b89a98d1f0c97d89"
+        },
+        {
+            "question": "He has two children. …………………… of them are good at maths.",
+            "description": "Both is used to speak of two people or things.",
+            "answers": [
+                "All",
+                "Both",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "916372ebd4d349adac971426f7f259e2"
+        },
+        {
+            "question": "I will be here ……………………. four o’clock onwards.",
+            "description": "We do not use since to measure duration from the point of view of a future end-point.",
+            "answers": [
+                "from",
+                "since",
+                "for"
+            ],
+            "correct": 0,
+            "id": "991acd82488840dfa0b37012f60f091b"
+        },
+        {
+            "question": "I will phone you when I …………………….. time.",
+            "description": "In subordinate clauses, we normally use a present tense with a future meaning.",
+            "answers": [
+                "have",
+                "will have",
+                "would have"
+            ],
+            "correct": 0,
+            "id": "b52aed1705304c3596682dfd70a4257c"
+        },
+        {
+            "question": "I had no sooner closed the door …………………….. somebody knocked.",
+            "description": "We use than after sooner. ",
+            "answers": [
+                "than",
+                "when",
+                "before"
+            ],
+            "correct": 0,
+            "id": "40ddb63c06794ec2809f4a1c7270dbd0"
+        }
+    ]
+}

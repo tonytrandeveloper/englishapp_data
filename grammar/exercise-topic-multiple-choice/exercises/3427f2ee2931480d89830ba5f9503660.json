@@ -1,0 +1,138 @@
+{
+    "id": "3427f2ee2931480d89830ba5f9503660",
+    "title": "Exclamations Exercise",
+    "questions": [
+        {
+            "question": "How charming ……………………….!",
+            "description": "In exclamations the subject goes before the verb.",
+            "answers": [
+                "is she",
+                "she is",
+                "she does"
+            ],
+            "correct": 1,
+            "id": "bed1bb3ed11e4ace90dc2d3e00d31a29"
+        },
+        {
+            "question": "…………………….. lovely morning it is!",
+            "description": "Use what a before adjective + noun.",
+            "answers": [
+                "What a",
+                "How",
+                "How a"
+            ],
+            "correct": 0,
+            "id": "e1b49233a29642c797136edd9fd5a8df"
+        },
+        {
+            "question": "……………………… tall she has grown!",
+            "description": "Use how before an adjective without noun.",
+            "answers": [
+                "What a",
+                "How",
+                "How a"
+            ],
+            "correct": 1,
+            "id": "900b05f63cba43e1944b1b82397680ce"
+        },
+        {
+            "question": "…………………… beautiful house you have!",
+            "description": "Use what a before adjective + noun. ",
+            "answers": [
+                "How",
+                "What a",
+                "How"
+            ],
+            "correct": 1,
+            "id": "4ca179ba9fd84fa6827ef60702353897"
+        },
+        {
+            "question": "……………………… quickly the holidays passed!",
+            "description": "Use how before adjective or adverb.",
+            "answers": [
+                "What a",
+                "What",
+                "How"
+            ],
+            "correct": 2,
+            "id": "a2d896ebb95e42b9b897d6c19722e008"
+        },
+        {
+            "question": "……………………….. fool he is!",
+            "description": "Use what a before a noun or noun + adjective. Use how before an adjective or adverb.",
+            "answers": [
+                "How",
+                "How a",
+                "What a"
+            ],
+            "correct": 2,
+            "id": "1db2cd2fb75c4b9fa31e43710f13abda"
+        },
+        {
+            "question": "…………………. tragedy!",
+            "description": "",
+            "answers": [
+                "How a",
+                "What a",
+                "How"
+            ],
+            "correct": 1,
+            "id": "64aa3db8e3f14b52aae78795552d91ca"
+        },
+        {
+            "question": "…………………….. brilliant idea it was!",
+            "description": "",
+            "answers": [
+                "What",
+                "How",
+                "What a"
+            ],
+            "correct": 2,
+            "id": "99dc0b4a8976429cb83c54b02a6f9201"
+        },
+        {
+            "question": "……………………… clever girl she is!",
+            "description": "",
+            "answers": [
+                "What",
+                "How",
+                "What a"
+            ],
+            "correct": 2,
+            "id": "e620af866cbc48ff864178d6855890d0"
+        },
+        {
+            "question": "……………………… well she dances!",
+            "description": "",
+            "answers": [
+                "How",
+                "What",
+                "What a"
+            ],
+            "correct": 0,
+            "id": "634a6f389b8f42d09609579e79e71f61"
+        },
+        {
+            "question": "……………………… sweet the mangoes are!",
+            "description": "",
+            "answers": [
+                "How",
+                "What a",
+                "How a"
+            ],
+            "correct": 0,
+            "id": "177a20b86a7b4ce98ae58b1812f954ae"
+        },
+        {
+            "question": "……………………… beautifully she sings!",
+            "description": "",
+            "answers": [
+                "How",
+                "How a",
+                "What a"
+            ],
+            "correct": 0,
+            "id": "15c939f7c6a547ffa19883d4e7cc0867"
+        }
+    ]
+}

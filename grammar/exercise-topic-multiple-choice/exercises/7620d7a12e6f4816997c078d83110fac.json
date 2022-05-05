@@ -1,0 +1,138 @@
+{
+    "id": "7620d7a12e6f4816997c078d83110fac",
+    "title": "While Or During",
+    "questions": [
+        {
+            "question": "I watched several movies .......................... the summer vacation.",
+            "description": "During is a preposition. It is followed by a noun. While is a conjunction. It is followed by a clause. ",
+            "answers": [
+                "during",
+                "while",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "e354a0bfadb141b5ae106b995fbb1900"
+        },
+        {
+            "question": "I met Harry ........................ my stay in Germany.",
+            "description": "",
+            "answers": [
+                "during",
+                "while",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "e9630cbf1e4e4da6afd171ad83bad2e2"
+        },
+        {
+            "question": "My grandfather was in hospital ......................... the winter.",
+            "description": "During is used to say when something happens. ",
+            "answers": [
+                "during",
+                "while",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d17e2ab6fa0d4b7da490bd42bb67a38d"
+        },
+        {
+            "question": "I will phone you .......................... the meeting.",
+            "description": "",
+            "answers": [
+                "during",
+                "while",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "2e4aa16465d841bfb96164b06d4c666c"
+        },
+        {
+            "question": "I learned German .......................... I was working in Germany.",
+            "description": "While is a conjunction. It is followed by a clause. ",
+            "answers": [
+                "during",
+                "while",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "645808f3d281454fa7aa42db939af0e3"
+        },
+        {
+            "question": "It happened ........................ I was away.",
+            "description": "While is a conjunction. It is used to connect two clauses. ",
+            "answers": [
+                "while",
+                "during",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "e82c0c8cb59f4a3dae4c2706100d35f5"
+        },
+        {
+            "question": "The shop is closed .......................... the whole of June.",
+            "description": "We prefer during to talk about the whole of the period. ",
+            "answers": [
+                "during",
+                "while",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ef6baa303b0d4883a0f754fcc011b576"
+        },
+        {
+            "question": "I met Alice ......................... I was working in Seoul.",
+            "description": "We use while to connect two clauses. ",
+            "answers": [
+                "during",
+                "while",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e0c871ec82b74cc2a656bbc1a69e1821"
+        },
+        {
+            "question": "It happened .......................... the summer.",
+            "description": "We use during before a noun that acts as its object. ",
+            "answers": [
+                "during",
+                "while",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "901fcb5c8cdf4a32be87b4fb2883dfd6"
+        },
+        {
+            "question": "It rained ..................... the night.",
+            "description": "",
+            "answers": [
+                "during",
+                "while",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "a6f75a790e0b4c5f961a890bcd6bf1ab"
+        },
+        {
+            "question": "I fell asleep ....................... I was watching the film.",
+            "description": "Here 'while' connects the two clauses I fell asleep and I was watching the film. ",
+            "answers": [
+                "during",
+                "while",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "d168e0b7ab124fc9b96fd5d118c92897"
+        },
+        {
+            "question": "I met some wonderful people ...................... my stay in France.",
+            "description": "",
+            "answers": [
+                "during",
+                "while",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "3c6aeec2464c4470a5e81cab14b96411"
+        }
+    ]
+}

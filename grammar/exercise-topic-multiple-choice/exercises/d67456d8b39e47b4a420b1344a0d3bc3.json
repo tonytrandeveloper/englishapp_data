@@ -1,0 +1,127 @@
+{
+    "id": "d67456d8b39e47b4a420b1344a0d3bc3",
+    "title": "Verbs Worksheet",
+    "questions": [
+        {
+            "question": "The school ……………………… in September.",
+            "description": "The simple present is sometimes used to talk about future events that are part of a time table.",
+            "answers": [
+                "is reopening",
+                "reopens",
+                "will reopen"
+            ],
+            "correct": 1,
+            "id": "81d9730c757948ae8b09de5da027590a"
+        },
+        {
+            "question": "I will call the police if you ……………………. at once.",
+            "description": "The simple present is often used in subordinate clauses with a future meaning.",
+            "answers": [
+                "do not leave",
+                "will not leave",
+                "did not leave"
+            ],
+            "correct": 0,
+            "id": "445a1a9a53534252a06d799fd8f5b301"
+        },
+        {
+            "question": "……………………. we report this?",
+            "description": "Shall is used when asking for instructions.",
+            "answers": [
+                "Will",
+                "Shall",
+                "Would"
+            ],
+            "correct": 1,
+            "id": "8996862ca3884adcbcb91d9f255a2761"
+        },
+        {
+            "question": "……………………….. you help me with the homework?",
+            "description": "Will is used in requests for help.",
+            "answers": [
+                "Will",
+                "Shall",
+                "Should"
+            ],
+            "correct": 0,
+            "id": "b5e0ecce9063469f8b92a98100d7b73d"
+        },
+        {
+            "question": "The train ……………………… at",
+            "description": "The simple present is sometimes used to talk about future events that are part of a time table.",
+            "answers": [
+                "departs",
+                "is departing",
+                "would depart"
+            ],
+            "correct": 0,
+            "id": "6056844793bb479b81bbe952d51123ef"
+        },
+        {
+            "question": "By next January, I ……………………….. for fifteen years.",
+            "description": "The future perfect continuous is used to say that something will have been completed by a certain time in the future.",
+            "answers": [
+                "will teach",
+                "will be teaching",
+                "will have been teaching"
+            ],
+            "correct": 2,
+            "id": "735c553d5eb041e9b7c18c1782d14e3a"
+        },
+        {
+            "question": "I promise I ……………………….. you my money back.",
+            "description": "Will is used in promises.",
+            "answers": [
+                "will give",
+                "would give",
+                "am giving"
+            ],
+            "correct": 0,
+            "id": "36af662049ee4fb6bc88117e26ef6b23"
+        },
+        {
+            "question": "Let’s go somewhere quiet, …………………………. we?",
+            "description": "We use shall in question tags after let’s.",
+            "answers": [
+                "will",
+                "shall",
+                "can"
+            ],
+            "correct": 1,
+            "id": "91ef4316e9c14d6d974cbc1d09a4f4f2"
+        },
+        {
+            "question": "You ……………………… never …………………….. me with anything.",
+            "description": "The present perfect is commonly used with the expressions ever, never, already etc.",
+            "answers": [
+                "did, help",
+                "do, help",
+                "have, helped"
+            ],
+            "correct": 2,
+            "id": "a7294e7f121943b28637b9218849b545"
+        },
+        {
+            "question": "I ………………………… with a minor accident yesterday.",
+            "description": "The simple past is the most normal tense for talking about finished events.",
+            "answers": [
+                "met",
+                "have met",
+                "had met"
+            ],
+            "correct": 0,
+            "id": "8c7f21ac4f714501928c417664b6912d"
+        },
+        {
+            "question": "He …………………….. all his life in his native village.",
+            "description": "",
+            "answers": [
+                "has lived",
+                "has been living",
+                "is living"
+            ],
+            "correct": 0,
+            "id": "953e939130ce447da25867ebb4da565d"
+        }
+    ]
+}

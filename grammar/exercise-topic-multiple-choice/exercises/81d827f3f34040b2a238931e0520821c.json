@@ -1,0 +1,126 @@
+{
+    "id": "81d827f3f34040b2a238931e0520821c",
+    "title": "Adjective Or Adverb",
+    "questions": [
+        {
+            "question": "Are you ……………………. aware of the consequences of your action?",
+            "description": "Here the adverb fully modifies the adjective aware. ",
+            "answers": [
+                "fully",
+                "full"
+            ],
+            "correct": 0,
+            "id": "456418ba559f47989e641c2bf55386db"
+        },
+        {
+            "question": "The children performed really ……………………..",
+            "description": "Good is an adjective well is an adverb. Use the adverb well to modify the verb performed. ",
+            "answers": [
+                "good",
+                "well"
+            ],
+            "correct": 1,
+            "id": "c87feaafca6c4001b8c0bd96db214f43"
+        },
+        {
+            "question": "I was ………………………… impressed with her performance.",
+            "description": "Here the adverb really modifies the verb impressed.",
+            "answers": [
+                "real",
+                "really"
+            ],
+            "correct": 1,
+            "id": "aaa15cc0f0e24c84be1b59b2fa1b160f"
+        },
+        {
+            "question": "You ………………………… ate anything.",
+            "description": "",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 1,
+            "id": "aa1ead3e42324002a6c05633baa5e0c9"
+        },
+        {
+            "question": "A fast car goes ………………………….",
+            "description": "Fast can be adjective or adverb.",
+            "answers": [
+                "fast",
+                "fastly"
+            ],
+            "correct": 0,
+            "id": "c0444f1f4ec54f40a415bf8c40a1804e"
+        },
+        {
+            "question": "She works ……………………….. to make a living.",
+            "description": "Hardly is similar to scarcely. ",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 0,
+            "id": "dd45ebea5d9e43419f889a4662f7d27f"
+        },
+        {
+            "question": "The girl who answered the phone was very …………………………",
+            "description": "We use adjectives as subject complements. ",
+            "answers": [
+                "polite",
+                "politely"
+            ],
+            "correct": 0,
+            "id": "a05b523ea3584f4f9cf6593d1bdbb359"
+        },
+        {
+            "question": "She looks …………………………… attractive.",
+            "description": "Here the adverb incredibly modifies the adjective attractive. ",
+            "answers": [
+                "incredible",
+                "incredibly"
+            ],
+            "correct": 1,
+            "id": "b0d452da38a14631b7fb31b7696e5279"
+        },
+        {
+            "question": "He should be here …………………………...",
+            "description": "",
+            "answers": [
+                "soon",
+                "soonly"
+            ],
+            "correct": 0,
+            "id": "53c40ab4882c473c9c172a26033be716"
+        },
+        {
+            "question": "The girl looked …………………………",
+            "description": "Look is a copular verb copular verbs are modified by adjectives. ",
+            "answers": [
+                "anxious",
+                "anxiously"
+            ],
+            "correct": 0,
+            "id": "6902ce786718401597819d906eac3488"
+        },
+        {
+            "question": "………………………….. the lights went out.",
+            "description": "",
+            "answers": [
+                "Suddenly",
+                "Sudden"
+            ],
+            "correct": 0,
+            "id": "82e305f25b084ab4bd60a61c08b48cd5"
+        },
+        {
+            "question": "If I listen to ……………………….. music, I get a headache.",
+            "description": "Here the adjective loud modifies the noun music. ",
+            "answers": [
+                "loud",
+                "loudly"
+            ],
+            "correct": 0,
+            "id": "d76ac45027dd4ae78e2b0ef676a40788"
+        }
+    ]
+}

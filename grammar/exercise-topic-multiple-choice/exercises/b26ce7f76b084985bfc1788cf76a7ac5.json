@@ -1,0 +1,135 @@
+{
+    "id": "b26ce7f76b084985bfc1788cf76a7ac5",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "‘I can’t swim.’ ‘………………………. can I.’",
+            "description": "After a negative statement, we can add another negative statement to it using neither. ",
+            "answers": [
+                "So",
+                "Either",
+                "Neither"
+            ],
+            "correct": 2,
+            "id": "5d94606bc9c24e0fb099957589951a25"
+        },
+        {
+            "question": "She is ………………………….. beautiful.",
+            "description": "Too is not possible here it shows negative extremes. ",
+            "answers": [
+                "too",
+                "so",
+                "very"
+            ],
+            "correct": 2,
+            "id": "3066bb43eb6a43f0833b71948b55190d"
+        },
+        {
+            "question": "We started early so that we ……………………………… there before noon.",
+            "description": "When the main clause is in the past tense, might and would are common after so that.",
+            "answers": [
+                "reach",
+                "reached",
+                "might reach",
+                ""
+            ],
+            "correct": 2,
+            "id": "2817cbe4a1954d288cb5222a4612a4a3"
+        },
+        {
+            "question": "I waited for ……………………………. two hours, but he didn’t come.",
+            "description": "Another can be used with plural expressions of quantity.",
+            "answers": [
+                "more",
+                "other",
+                "another"
+            ],
+            "correct": 2,
+            "id": "6eaef77299844521b76949edd37a2d53"
+        },
+        {
+            "question": "Where are …………………………….. students?",
+            "description": "",
+            "answers": [
+                "another",
+                "other",
+                "the other"
+            ],
+            "correct": 2,
+            "id": "c32c70e7776c4f6194d1e22e8a1b7375"
+        },
+        {
+            "question": "I visit my grandparents ………………………….. two weeks.",
+            "description": "Every can be used before plural expressions in measurements of frequency.",
+            "answers": [
+                "all",
+                "every",
+                "each"
+            ],
+            "correct": 1,
+            "id": "0137a22d175c410b901f305950794e8e"
+        },
+        {
+            "question": "Have you got a lot of ……………………………….?",
+            "description": "Luggage does not have a plural form. ",
+            "answers": [
+                "luggage",
+                "luggages"
+            ],
+            "correct": 0,
+            "id": "e809868eef514f6ba4087218f249fb4e"
+        },
+        {
+            "question": "My dad and mom …………………………………. me to be a scientist.",
+            "description": "When we connect two singular subjects with and, the verb is plural. ",
+            "answers": [
+                "wants",
+                "want",
+                "wanting"
+            ],
+            "correct": 1,
+            "id": "7c081483a2ea4b49acb4f09ded4261cd"
+        },
+        {
+            "question": "The Prime Minister as well as his cabinet ministers ……………………………. to increase spending on defense.",
+            "description": "When we connect two nouns with as well as, the verb agrees with the former noun. ",
+            "answers": [
+                "want",
+                "wants"
+            ],
+            "correct": 1,
+            "id": "fc275bbafea64e23b187d7adf86a5998"
+        },
+        {
+            "question": "The woman along with her husband ………………………………… in the lobby.",
+            "description": "When we connect two nouns with along with, the verb agrees with the former. ",
+            "answers": [
+                "is waiting",
+                "are waiting"
+            ],
+            "correct": 0,
+            "id": "e5bf567898ec4f83a5ccbbfbde21e657"
+        },
+        {
+            "question": "You and I ……………………………… good friends.",
+            "description": "When we connect two pronouns with and, the verb should be plural. ",
+            "answers": [
+                "am",
+                "are"
+            ],
+            "correct": 1,
+            "id": "18f594da33ed4562ae15cc2fea5211aa"
+        },
+        {
+            "question": "It is time you ............................... a job.",
+            "description": "Use a simple past after it is time. ",
+            "answers": [
+                "find",
+                "have found",
+                "found"
+            ],
+            "correct": 2,
+            "id": "e96208720e7b4e919dace58b026475f1"
+        }
+    ]
+}

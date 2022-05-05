@@ -1,0 +1,127 @@
+{
+    "id": "697a241ef2c8407e82d9f6f669973cb4",
+    "title": "Spelling Exercise",
+    "questions": [
+        {
+            "question": "The rabbit .......................... across the field.",
+            "description": "To hop is to jump. The different forms of this verb are: hop / hopped / hopped",
+            "answers": [
+                "hopped",
+                "hoped"
+            ],
+            "correct": 0,
+            "id": "b9dbeabea316436b95e29496740a308f"
+        },
+        {
+            "question": "I was ........................... that you could lend me a pound.",
+            "description": "To hope is to expect and want something to happen. The different forms of this verb are: hope / hoping / hoped.",
+            "answers": [
+                "hoping",
+                "hopping"
+            ],
+            "correct": 0,
+            "id": "ffff94d44f3f4de1b97e02d1f39e2ca0"
+        },
+        {
+            "question": "She ........................ the skirt to match her blouse.",
+            "description": "To dye is to color. The different forms are: dye / dyeing / dyed",
+            "answers": [
+                "died",
+                "dyed"
+            ],
+            "correct": 1,
+            "id": "9669e4f7460848a9ab7d13e437462227"
+        },
+        {
+            "question": "The poor woman is ...........................",
+            "description": "",
+            "answers": [
+                "dying",
+                "dyeing"
+            ],
+            "correct": 0,
+            "id": "9b0e49ac9cf04771883234db54f056a9"
+        },
+        {
+            "question": "The rough surface of the floor made ........................ difficult.",
+            "description": "To mop is to clean by wiping. The different forms are: mop / mopping / mopped\r\n",
+            "answers": [
+                "mopping",
+                "moping"
+            ],
+            "correct": 0,
+            "id": "768b80b8c63a4d449044026f71291a58"
+        },
+        {
+            "question": "I slipped and .......................... an elbow.",
+            "description": "To scrape is to bruise. The different forms are: scrape / scraping / scraped",
+            "answers": [
+                "scrapped",
+                "scraped"
+            ],
+            "correct": 1,
+            "id": "606af17baea64731ab113c799251dd7b"
+        },
+        {
+            "question": "The witness .......................... to the jury.",
+            "description": "To lie is to speak falsely. The different forms of this word are: lie / lying / lied",
+            "answers": [
+                "lied",
+                "laid"
+            ],
+            "correct": 0,
+            "id": "7e61c7e2e2a64f9dbfde2159a211d6f0"
+        },
+        {
+            "question": "The king ............................ now in his final resting place.",
+            "description": "Lie can mean recline. The different forms of this verb are: lie / lies / lying / laid or lain",
+            "answers": [
+                "lays",
+                "lies"
+            ],
+            "correct": 1,
+            "id": "500f0bc23c604f0f82151b51b9110b5d"
+        },
+        {
+            "question": "I .......................... down on the couch yesterday.",
+            "description": "The past tense of lie (recline) is lay. ",
+            "answers": [
+                "lie",
+                "lay"
+            ],
+            "correct": 1,
+            "id": "ee1725e3682a459db4f6977ee61d57d8"
+        },
+        {
+            "question": "Please .................................. the plate down now.",
+            "description": "To lay is to put something down. The past tense of lay is laid.",
+            "answers": [
+                "lie",
+                "lay",
+                "lain"
+            ],
+            "correct": 1,
+            "id": "fa19bf57265b4a83b5a3f9a3025e16b5"
+        },
+        {
+            "question": "The tiles were .......................... in a geometric pattern.",
+            "description": "Laid is the past tense of lay. To lay is to place, arrange etc.",
+            "answers": [
+                "lied",
+                "laid"
+            ],
+            "correct": 1,
+            "id": "30c972a5b1f844d295fd305445cfb23e"
+        },
+        {
+            "question": "It is a mistake to .............................. too much emphasis on grades.",
+            "description": "To lay is to place, assign, put etc.",
+            "answers": [
+                "lie",
+                "lay"
+            ],
+            "correct": 1,
+            "id": "bc01a4381d7e4f7695e28e5286282856"
+        }
+    ]
+}

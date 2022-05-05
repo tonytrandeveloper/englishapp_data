@@ -1,0 +1,140 @@
+{
+    "id": "6420f07b8ecd4fb7b3f6a27ce1e33cc5",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "When the storm subsided, we ....................................... the next village.",
+            "description": "There is no need to use continued on to, because here the preposition 'on' repeats the same idea as 'continued'.",
+            "answers": [
+                "continued to",
+                "continued on",
+                "continued on to"
+            ],
+            "correct": 0,
+            "id": "f80039fa753444279ee9876ab2e2b300"
+        },
+        {
+            "question": "I managed to do ................................ in the test despite not feeling ................................",
+            "description": "Well is an adverb good is an adjective. Adjectives can only modify nouns adverbs can modify verbs, adjectives and other adverbs. ",
+            "answers": [
+                "well, good",
+                "well, well",
+                "good, good"
+            ],
+            "correct": 1,
+            "id": "84bdddc9e0884affa374e8adec19e7bf"
+        },
+        {
+            "question": "Neither Jane nor ................................. have been to the opera.",
+            "description": "After neither and nor, we use subject pronouns (he, I, she, they etc.), not object pronouns (him, me, her, them).",
+            "answers": [
+                "I",
+                "me",
+                "her"
+            ],
+            "correct": 0,
+            "id": "8f879aa37a1946938860474647665b06"
+        },
+        {
+            "question": "He thinks that ................................... two can win the doubles match.",
+            "description": "A pronoun that acts as the subject of a clause should be in the subject form. ",
+            "answers": [
+                "we",
+                "us",
+                "them"
+            ],
+            "correct": 0,
+            "id": "2e561bfccc374647bb2c4a2f8d258cef"
+        },
+        {
+            "question": ".................................... vividly, the lighting struck the tall building.",
+            "description": "The lightning flashed vividly. It struck the tall building. We can combine these two sentences using the present participle 'flashing'.",
+            "answers": [
+                "Flashing",
+                "Flashed",
+                "Having flashed"
+            ],
+            "correct": 0,
+            "id": "e3334200005b495d944244d4f3098958"
+        },
+        {
+            "question": "........................................ by rain we took shelter under a tree.",
+            "description": "We were driven by the rain. We took shelter under a tree. We can combine these two sentences using the past participle 'driven'.",
+            "answers": [
+                "Driving",
+                "Driven",
+                "Having driven"
+            ],
+            "correct": 1,
+            "id": "772ae470638c46339706dc78fb95492d"
+        },
+        {
+            "question": "She was given the best treatment. ................................... she died soon after.",
+            "description": "Despite this can act as a transitional adverb. It is used to present an idea that seems surprising in the light of the previous idea. ",
+            "answers": [
+                "Despite this",
+                "Even though",
+                "Though",
+                "By contrast"
+            ],
+            "correct": 0,
+            "id": "3447c87b19e64340aa4e3db27472a935"
+        },
+        {
+            "question": "Will you ...................................... the good tennis balls from the worn ones?",
+            "description": "Separate is enough to express this idea. ",
+            "answers": [
+                "separate",
+                "separate off",
+                "separate out"
+            ],
+            "correct": 0,
+            "id": "e6f5c2682a5e4c939b61e6dfb2f62a2a"
+        },
+        {
+            "question": "Do you like ....................................... of meat pie?",
+            "description": "The words kind, class, sort, type etc. are all singular and should be used with this or that to modify a singular noun. The words kinds, sorts etc. are used with these and those to modify a plural noun",
+            "answers": [
+                "this sort",
+                "this sorts",
+                "these sort",
+                "these sorts"
+            ],
+            "correct": 0,
+            "id": "0f5e1436d4e2410b9b21f78bba8c854c"
+        },
+        {
+            "question": "The garden ........................................... used to clip the hedge.",
+            "description": "Nouns like tongs, shears, tweezers, scissors etc. are always plural and should be used with plural verbs, unless of course the singular aspect is indicated by using `a pair of`.",
+            "answers": [
+                "shear was",
+                "shears were",
+                "shears was"
+            ],
+            "correct": 1,
+            "id": "0c439ef0783443358c9c0539934939ff"
+        },
+        {
+            "question": "A strimmer is a machine ......................................... grass and weeds.",
+            "description": "We use 'for + ing' to talk about the purpose of things. ",
+            "answers": [
+                "to cut",
+                "for cutting",
+                "to cutting"
+            ],
+            "correct": 1,
+            "id": "503fdb8dbb794f94a101845dbd1e61e1"
+        },
+        {
+            "question": "You .......................................... working hard.",
+            "description": "When there are two auxiliaries, the adverb typically goes between them. ",
+            "answers": [
+                "definitely have been",
+                "have been definitely",
+                "have definitely been"
+            ],
+            "correct": 2,
+            "id": "fa0e2f44a169485ea00881e0558698ec"
+        }
+    ]
+}

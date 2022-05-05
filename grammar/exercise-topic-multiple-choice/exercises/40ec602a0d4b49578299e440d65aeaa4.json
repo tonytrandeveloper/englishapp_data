@@ -1,0 +1,137 @@
+{
+    "id": "40ec602a0d4b49578299e440d65aeaa4",
+    "title": "Gap Filling Exercise",
+    "questions": [
+        {
+            "question": "At least six people have ……………….. in the explosion.",
+            "description": "Died is the past tense of die.",
+            "answers": [
+                "dies",
+                "died",
+                "dead"
+            ],
+            "correct": 1,
+            "id": "d891c8249685466cbce41f257b1edb1e"
+        },
+        {
+            "question": "By the time they found him, he was already ……………………….",
+            "description": "Dead is an adjective. Died is a verb. ",
+            "answers": [
+                "died",
+                "dead"
+            ],
+            "correct": 1,
+            "id": "efd264ce171a478cb143363d9b0ad6c9"
+        },
+        {
+            "question": "She …………………… in the morning.",
+            "description": "The simple past is used when we say when something happened.",
+            "answers": [
+                "left",
+                "has left",
+                "leaved"
+            ],
+            "correct": 0,
+            "id": "6b0d6d1650d94a06a2a7eef821bb1bd0"
+        },
+        {
+            "question": "Let’s ………………………. your plans.",
+            "description": "Discuss is one of those verbs that are not followed by a preposition.",
+            "answers": [
+                "discuss",
+                "discuss about",
+                "discuss over"
+            ],
+            "correct": 0,
+            "id": "ba1d4dc9ea2a4292ab45b2a7bfb2cba7"
+        },
+        {
+            "question": "I …………………… him a visit the other day.",
+            "description": "Paid is the past tense of pay.",
+            "answers": [
+                "payed",
+                "paid",
+                "have paid"
+            ],
+            "correct": 1,
+            "id": "17594711db1f4a5a8d58533c0a74f6f7"
+        },
+        {
+            "question": "You haven’t …………………….. for your drinks.",
+            "description": "",
+            "answers": [
+                "payed",
+                "paid",
+                "pay"
+            ],
+            "correct": 1,
+            "id": "50ab804b4b994a0c9a377cb61e288c32"
+        },
+        {
+            "question": "She …………………….. her dress and went out.",
+            "description": "To put on dress is to wear it. ",
+            "answers": [
+                "took on",
+                "put on",
+                "brought on"
+            ],
+            "correct": 1,
+            "id": "ef44f47881a6431ca7e690eb4be7a7c7"
+        },
+        {
+            "question": "What a brilliant idea ……………………..!",
+            "description": "The inverted word order is used in exclamations.",
+            "answers": [
+                "is it",
+                "it is",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "fa9d009f1c0242588708459438d17948"
+        },
+        {
+            "question": "Tell me why ………………………. to leave now.",
+            "description": "The inverted word order is used in indirect questions. ",
+            "answers": [
+                "want you",
+                "do you want",
+                "you want"
+            ],
+            "correct": 2,
+            "id": "5b860d0a61de4813b9fcfbef6ae07849"
+        },
+        {
+            "question": "You ……………………… listen to your doctor.",
+            "description": "Had better is used to give strong advice or warnings.",
+            "answers": [
+                "have better",
+                "had better",
+                "had to better"
+            ],
+            "correct": 1,
+            "id": "4c1afb4e13964501923759893a8db072"
+        },
+        {
+            "question": "If you started early, you …………………….. miss the bus.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + first form of the verb in the main clause.",
+            "answers": [
+                "won't",
+                "wouldn't",
+                "hadn't"
+            ],
+            "correct": 1,
+            "id": "673ee71d2eb84ca493a71e63a322670a"
+        },
+        {
+            "question": "A cousin of ………………….. is an actor.",
+            "description": "",
+            "answers": [
+                "me",
+                "my",
+                "mine"
+            ],
+            "correct": 2,
+            "id": "9701ef849a7c48c89efe72d8a84ae4eb"
+        }
+    ]
+}

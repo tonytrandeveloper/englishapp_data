@@ -1,0 +1,141 @@
+{
+    "id": "b11d20a2c69a49dba1889ed838e8df4e",
+    "title": "Grammar And Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "Which of the following is a synonym of read?",
+            "description": "",
+            "answers": [
+                "perusal",
+                "peruse",
+                "persuade",
+                "pertain"
+            ],
+            "correct": 1,
+            "id": "a2be6650605749c7a075ab60fb1f7fa9"
+        },
+        {
+            "question": "The original inhabitants of a state. Give one word",
+            "description": "",
+            "answers": [
+                "locals",
+                "migrants",
+                "aborigines",
+                "fugitives"
+            ],
+            "correct": 2,
+            "id": "5e836ea417b14a8cb4972c5822bea9e1"
+        },
+        {
+            "question": "I don’t want to argue ………………….. you.",
+            "description": "",
+            "answers": [
+                "to",
+                "with",
+                "at"
+            ],
+            "correct": 1,
+            "id": "a2c61431a61b496ba755857bfdc4e342"
+        },
+        {
+            "question": "I …………………… him in October.",
+            "description": "When we say when something happened, we use the simple past. ",
+            "answers": [
+                "met",
+                "have met",
+                "had met"
+            ],
+            "correct": 0,
+            "id": "64e493064e74412b96e4e838bc6ca3c6"
+        },
+        {
+            "question": "When I reached their home, they ……………………….",
+            "description": "To talk about the earlier of two past actions, we use the past perfect. ",
+            "answers": [
+                "already left",
+                "have already left",
+                "had already left"
+            ],
+            "correct": 2,
+            "id": "0c1f7b7cb6474521a16cd555b24be899"
+        },
+        {
+            "question": "You ……………………. consult a doctor.",
+            "description": "Had better or better had is  used to give strong advice.",
+            "answers": [
+                "have better",
+                "better",
+                "had better",
+                "better had"
+            ],
+            "correct": 3,
+            "id": "756f680612df41e892361cdd81db911e"
+        },
+        {
+            "question": "I am not late, ……………………?",
+            "description": "We use an affirmative tag after a negative statement. ",
+            "answers": [
+                "are I",
+                "am I",
+                "aren't I"
+            ],
+            "correct": 1,
+            "id": "757267f613024e3991b6f89cf14c4701"
+        },
+        {
+            "question": "She has written a story. Change into passive.",
+            "description": "In the present perfect we make the passive verb form with has/have + been + past participle form of the verb.",
+            "answers": [
+                "A story is written by her.",
+                "A story has written by her.",
+                "A story has been written by her."
+            ],
+            "correct": 2,
+            "id": "573e9d39d7b6475ba5f95c5fc005cf13"
+        },
+        {
+            "question": "It is no use ……………………. with her.",
+            "description": "An ing form is used after it is no use. ",
+            "answers": [
+                "to argue",
+                "arguing",
+                "to arguing"
+            ],
+            "correct": 1,
+            "id": "b0a9f10591c24e358757d3c3eece22bc"
+        },
+        {
+            "question": "You can take ……………………. of these roads to reach the station.",
+            "description": "Either means one or the other.",
+            "answers": [
+                "either",
+                "both",
+                "all"
+            ],
+            "correct": 0,
+            "id": "afbac3ced8cf4765b2694553e5c26117"
+        },
+        {
+            "question": "It has been a long time ……………………. I met him.",
+            "description": "",
+            "answers": [
+                "from",
+                "since",
+                "after"
+            ],
+            "correct": 1,
+            "id": "d40f905e842d407db6303ce4fdfd0700"
+        },
+        {
+            "question": "The firemen …………………… the fire in two hours.",
+            "description": "To put out is to extinguish. ",
+            "answers": [
+                "put off",
+                "put out",
+                "put up"
+            ],
+            "correct": 1,
+            "id": "8341de5ef47e437fad974618941def5b"
+        }
+    ]
+}

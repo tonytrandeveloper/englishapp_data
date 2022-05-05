@@ -1,0 +1,192 @@
+{
+    "id": "ed77ced49388465caa6c67cb32af0a75",
+    "title": "Active And Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "The job ...................... by me.",
+            "description": "",
+            "answers": [
+                "has finished",
+                "has been finished",
+                "had finished"
+            ],
+            "correct": 1,
+            "id": "0bd1b67311594341bc50cf7912776cc3"
+        },
+        {
+            "question": "This house .................... by them in",
+            "description": "",
+            "answers": [
+                "has built",
+                "has been built",
+                "was built"
+            ],
+            "correct": 2,
+            "id": "a88fd588e31c4d72827db8d8a7763277"
+        },
+        {
+            "question": "A new car ..................... by him.",
+            "description": "",
+            "answers": [
+                "has bought",
+                "has been bought",
+                "was being bought"
+            ],
+            "correct": 1,
+            "id": "fd4fabe56d994853918f9471ee9a10c9"
+        },
+        {
+            "question": "A letter ..................... by me.",
+            "description": "",
+            "answers": [
+                "has written",
+                "was written",
+                "have written"
+            ],
+            "correct": 1,
+            "id": "1246094073184c62b3727ac00b717fbc"
+        },
+        {
+            "question": "The parcel .................... on Monday.",
+            "description": "",
+            "answers": [
+                "is sent",
+                "has sent",
+                "was sent"
+            ],
+            "correct": 2,
+            "id": "597c7d91aae24df8816d62c6f15994b4"
+        },
+        {
+            "question": "The thief ....................... by the police yesterday.",
+            "description": "",
+            "answers": [
+                "has caught",
+                "has been caught",
+                "was caught"
+            ],
+            "correct": 2,
+            "id": "1190b80f3f4e4abdbaef15044fe45cd6"
+        },
+        {
+            "question": "A cake ....................... by her.",
+            "description": "",
+            "answers": [
+                "has baked",
+                "was baked",
+                "had baked"
+            ],
+            "correct": 1,
+            "id": "8625cd44e4b3487f9510b4847392478d"
+        },
+        {
+            "question": "A book ..................... by me.",
+            "description": "",
+            "answers": [
+                "has read",
+                "was read",
+                "have read"
+            ],
+            "correct": 1,
+            "id": "e115b627ba104d28bf65e889c94e54b8"
+        },
+        {
+            "question": "The beggar ...................... a five rupee coin",
+            "description": "",
+            "answers": [
+                "has given",
+                "was given",
+                "was being given"
+            ],
+            "correct": 1,
+            "id": "d19d39cdf36a48d9bdbf93134a24e82e"
+        },
+        {
+            "question": "The boy ........................ by the teacher.",
+            "description": "",
+            "answers": [
+                "was praising",
+                "was praised",
+                "has praised"
+            ],
+            "correct": 1,
+            "id": "4f740cec954a42bc964cbed13ff50be9"
+        },
+        {
+            "question": "The idea ..................... (by everyone).",
+            "description": "",
+            "answers": [
+                "has liked",
+                "was liked",
+                "was being liked"
+            ],
+            "correct": 1,
+            "id": "2f75ed27591c446d8b83abf181ec5400"
+        },
+        {
+            "question": "A song ....................... by Alice.",
+            "description": "",
+            "answers": [
+                "has sung",
+                "was sung",
+                "has being sung"
+            ],
+            "correct": 1,
+            "id": "c2838350f90b4d888d3232a7f7f773a3"
+        },
+        {
+            "question": "The farmer ....................... by the dog.",
+            "description": "",
+            "answers": [
+                "has bitten",
+                "was bitten"
+            ],
+            "correct": 1,
+            "id": "810b3ef77b97423d9c0dbdcc570374b9"
+        },
+        {
+            "question": "The roof ....................... by him.",
+            "description": "",
+            "answers": [
+                "has painted",
+                "has being painted",
+                "was being painted"
+            ],
+            "correct": 2,
+            "id": "9732dce12ccb4328b7e279e52bca6232"
+        },
+        {
+            "question": "Their exam ......................... by them.",
+            "description": "",
+            "answers": [
+                "has written",
+                "was being written",
+                "has being written"
+            ],
+            "correct": 1,
+            "id": "3a2956532fd6407195cf0d96dcc30677"
+        },
+        {
+            "question": "The first prize ...................... by our team.",
+            "description": "",
+            "answers": [
+                "will have won",
+                "will be won",
+                "have been won"
+            ],
+            "correct": 1,
+            "id": "8c2a31e387e04a5aae1b87df8c3e2b0b"
+        },
+        {
+            "question": "A story ........................ by me.",
+            "description": "",
+            "answers": [
+                "is being written",
+                "has being written",
+                "is writing"
+            ],
+            "correct": 0,
+            "id": "0840b2817e3548a4bcfe7b9f19ae34b0"
+        }
+    ]
+}

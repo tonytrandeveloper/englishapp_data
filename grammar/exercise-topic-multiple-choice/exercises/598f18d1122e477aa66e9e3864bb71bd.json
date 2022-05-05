@@ -1,0 +1,140 @@
+{
+    "id": "598f18d1122e477aa66e9e3864bb71bd",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "I will follow you wherever you ……………………….",
+            "description": "When both clauses refer to the future, we use a present tense in the subordinate clause to refer to future. ",
+            "answers": [
+                "will go",
+                "go",
+                "goes",
+                "went"
+            ],
+            "correct": 1,
+            "id": "b6c931c87e70445c8508443cde61785a"
+        },
+        {
+            "question": "I knew she ………………………. right.",
+            "description": "When the verb in the main clause is in the past tense, the verb in the subordinate clause too will usually be in the past tense. ",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 1,
+            "id": "fbbd13fb44a741399695289547d0aa67"
+        },
+        {
+            "question": "We …………………………. them next year.",
+            "description": "The present continuous is used to talk about pre-planned future events. ",
+            "answers": [
+                "visit",
+                "are visiting",
+                "have been visiting"
+            ],
+            "correct": 1,
+            "id": "71194091c4724ae8b2969239b805a8a7"
+        },
+        {
+            "question": "Does she know what …………………………..?",
+            "description": "In indirect questions, the verb goes after the subject. ",
+            "answers": [
+                "she is doing",
+                "is she doing",
+                "does she do",
+                ""
+            ],
+            "correct": 0,
+            "id": "981ed47f5ee644da85bbc7f6380bc93c"
+        },
+        {
+            "question": "He will lose his job if he ……………………….. another deadline.",
+            "description": "",
+            "answers": [
+                "miss",
+                "misses",
+                "will miss"
+            ],
+            "correct": 1,
+            "id": "b9397ed60e21481f82272b63263be211"
+        },
+        {
+            "question": "How soon ……………………….. you know your holiday dates?",
+            "description": "",
+            "answers": [
+                "do",
+                "will",
+                "have"
+            ],
+            "correct": 1,
+            "id": "473567382d5f4fdf9027689d98e3682a"
+        },
+        {
+            "question": "She ………………………….. to come with me.",
+            "description": "When there is no time reference, the present perfect is usually used to give news. ",
+            "answers": [
+                "has agreed",
+                "have agreed",
+                "has agree"
+            ],
+            "correct": 0,
+            "id": "53ff13f528b1428684abe38a73a88724"
+        },
+        {
+            "question": "We …………………………… away anything useful.",
+            "description": "The simple present is used to talk about facts, habits etc.",
+            "answers": [
+                "do not throw",
+                "does not throw",
+                "have not throw"
+            ],
+            "correct": 0,
+            "id": "d87dafceb3b24dca91e42fe7c314e300"
+        },
+        {
+            "question": "I ……………………… swimming yesterday,",
+            "description": "When we say when something happened, we use the simple past. ",
+            "answers": [
+                "went",
+                "was going",
+                "had gone"
+            ],
+            "correct": 0,
+            "id": "eedc277f49df4fd49f45246c8e22dad3"
+        },
+        {
+            "question": "She ……………………….. a boutique in the town.",
+            "description": "",
+            "answers": [
+                "has opened",
+                "has open",
+                "is opened"
+            ],
+            "correct": 0,
+            "id": "ef98448066244b3a933dcd2f0c7bc183"
+        },
+        {
+            "question": "They never found out what …………………………. to him.",
+            "description": "Either simple past or past perfect can be used here. ",
+            "answers": [
+                "happened",
+                "had happened",
+                "has happened"
+            ],
+            "correct": 1,
+            "id": "c63f393fc3e04aa783a5503f436f3dae"
+        },
+        {
+            "question": "My grandfather is eighty but he still …………………………. good health.",
+            "description": "",
+            "answers": [
+                "enjoy",
+                "is enjoying",
+                "enjoys"
+            ],
+            "correct": 2,
+            "id": "7a9712f54088427b83036d784b59f90f"
+        }
+    ]
+}

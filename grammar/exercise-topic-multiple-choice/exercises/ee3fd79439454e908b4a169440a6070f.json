@@ -1,0 +1,139 @@
+{
+    "id": "ee3fd79439454e908b4a169440a6070f",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "His ideas are little different ……………………….. those of his father.",
+            "description": "We generally use from after different.",
+            "answers": [
+                "from",
+                "of",
+                "with"
+            ],
+            "correct": 0,
+            "id": "04b1fc533af3411395ca345849f0e8a1"
+        },
+        {
+            "question": "The new job isn’t ……………………….. different from the old one.",
+            "description": "Different can be modified by little, any or not much. Many is not possible.",
+            "answers": [
+                "much",
+                "many",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "6c99b00b3dce41b989562ab9c3ec1d56"
+        },
+        {
+            "question": "This fragrance is ………………………….. different from that.",
+            "description": "Different can be modified by little. It cannot be modified by few.",
+            "answers": [
+                "little",
+                "few",
+                "least"
+            ],
+            "correct": 0,
+            "id": "bf337feb23d245379615e16364302c38"
+        },
+        {
+            "question": "He is ……………………………. older than his wife.",
+            "description": "We cannot use very to modify comparatives.",
+            "answers": [
+                "much",
+                "many",
+                "very"
+            ],
+            "correct": 2,
+            "id": "81e0cac3672641ada726d63c760a809a"
+        },
+        {
+            "question": "‘Do you know Orwell’s books?’ ‘I haven’t read ……………………….’",
+            "description": "In negative sentences we use any.",
+            "answers": [
+                "some",
+                "any",
+                "none"
+            ],
+            "correct": 1,
+            "id": "831786bf18f548888828633bdb955a66"
+        },
+        {
+            "question": "Economists doubt ……………………… prices will fall.",
+            "description": "We can use whether, if or that to introduce clauses after doubt.",
+            "answers": [
+                "whether",
+                "if",
+                "that",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "fd177d5b7294476996cfc8e242ed2bb5"
+        },
+        {
+            "question": "She was dressed ……………………….. a purple gown.",
+            "description": "The preposition in is used in this expression.",
+            "answers": [
+                "with",
+                "in",
+                "on"
+            ],
+            "correct": 1,
+            "id": "bf709173276047cba852b39b7754d6e3"
+        },
+        {
+            "question": "…………………………. her illness, she could not attend the conference.",
+            "description": "Due to and owing to can both mean because of.",
+            "answers": [
+                "Owing to",
+                "Due to",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "b0ddafdbdec941648e755437d907bbee"
+        },
+        {
+            "question": "She was in Mumbai ………………………… three weeks.",
+            "description": "We use for to indicate duration.",
+            "answers": [
+                "for",
+                "in",
+                "during"
+            ],
+            "correct": 0,
+            "id": "e3df8849e4e04ef08f30b14e1cf884d1"
+        },
+        {
+            "question": "The shop was closed ……………………….. the whole of May.",
+            "description": "We use during to talk about the whole of a period.",
+            "answers": [
+                "during",
+                "in",
+                "for"
+            ],
+            "correct": 0,
+            "id": "a6ed35c4056d4ef7a04e92e69217f745"
+        },
+        {
+            "question": "Come up and see me ....................................",
+            "description": "We use sometime or one day to refer to an indefinite time in the future. ",
+            "answers": [
+                "once",
+                "sometime",
+                "one day"
+            ],
+            "correct": 1,
+            "id": "e4a06743c5c244d5aaa6de03e0727980"
+        },
+        {
+            "question": "One of my friends ........................................ a scientist.",
+            "description": "After one of, the verb is singular. ",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "105f15b200f64a139bdf412d2c5662fe"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "id": "838dc1743427468280eeff8cf5866240",
+    "title": "Subject - Verb Agreement",
+    "questions": [
+        {
+            "question": "One of my friends ............................ in Romania.",
+            "description": "Here the subject is the singular expression one. ",
+            "answers": [
+                "live",
+                "lives"
+            ],
+            "correct": 1,
+            "id": "f7853e251dd14e089d56b0168dcb5cc5"
+        },
+        {
+            "question": "Each of the boys ............................... given a booklet.",
+            "description": "Use a singular verb after each and every. ",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "ccaf80a514414a6e9330bb25aa04e2b9"
+        },
+        {
+            "question": "Oil and water ............................... not mix.",
+            "description": "When we connect two singular subjects with and, the verb should be plural. ",
+            "answers": [
+                "do",
+                "does"
+            ],
+            "correct": 0,
+            "id": "70b47c6ae3a840f4b0575e4711a06303"
+        },
+        {
+            "question": "Slow and steady ................................ the race.",
+            "description": "When two singular nouns together express one idea, the verb is singular. ",
+            "answers": [
+                "wins",
+                "win"
+            ],
+            "correct": 0,
+            "id": "2f786d17a7b44e00b60bb3259c276136"
+        },
+        {
+            "question": "Either Sam or Maria ................................. responsible for this.",
+            "description": "When you connect two singular nouns with either/or, the verb is singular. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "0af9ff4583a64e429968b98c186997b3"
+        },
+        {
+            "question": "Either Samuel or his friends ............................... taken the money.",
+            "description": "When we connect a singular and a plural subject with either/or, the verb agrees with the subject nearest to it. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "a4e4db1a055a42019ee93c19ae6c5d9a"
+        },
+        {
+            "question": "There .................................. a lot of mangoes on the tree.",
+            "description": "When the noun following there is plural, the verb is plural. ",
+            "answers": [
+                "are",
+                "is"
+            ],
+            "correct": 0,
+            "id": "5713350112094d418ed3216a247e9401"
+        },
+        {
+            "question": "There .............................. a lot of work to do.",
+            "description": "When the noun following there is singular, the verb is singular. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "6a7f099e326d4552ae797db05cdf86a5"
+        },
+        {
+            "question": "Where .................................. you been all this while?",
+            "description": "",
+            "answers": [
+                "have",
+                "has"
+            ],
+            "correct": 0,
+            "id": "78af4b6574914d209d2d9a5ca9888b48"
+        },
+        {
+            "question": "The boss and her secretary ............................... lunch together.",
+            "description": "",
+            "answers": [
+                "eat",
+                "eats"
+            ],
+            "correct": 0,
+            "id": "c30209bae6844b5bad0ec18222ab88fe"
+        },
+        {
+            "question": "Neither of these hats .................................... your face.",
+            "description": "Use a singular verb after neither. ",
+            "answers": [
+                "suit",
+                "suits"
+            ],
+            "correct": 1,
+            "id": "3a7cf98f0b204b959777f2d8710c127e"
+        },
+        {
+            "question": "Everyone ..................................... honest people.",
+            "description": "Use a singular verb after everyone. ",
+            "answers": [
+                "respect",
+                "respects"
+            ],
+            "correct": 1,
+            "id": "7cdfd9401a984d69b98bd9091260c058"
+        }
+    ]
+}

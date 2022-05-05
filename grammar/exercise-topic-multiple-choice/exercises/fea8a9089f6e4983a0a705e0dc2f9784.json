@@ -1,0 +1,147 @@
+{
+    "id": "fea8a9089f6e4983a0a705e0dc2f9784",
+    "title": "Although, However, Despite, Though",
+    "questions": [
+        {
+            "question": "We went out .......................... the rain.",
+            "description": "Despite and in spite of are interchangeable. ",
+            "answers": [
+                "despite",
+                "in spite of",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c7401930b2234ad3886664ea76b0eab3"
+        },
+        {
+            "question": "She passed the test ............................... having a bad teacher.",
+            "description": "Although is a conjunction and despite is a preposition. As a preposition, despite can be followed by a noun or an ing form. ",
+            "answers": [
+                "although",
+                "however",
+                "despite",
+                "All of the above"
+            ],
+            "correct": 2,
+            "id": "a269f8b5c38b4c63bebd3f924e962121"
+        },
+        {
+            "question": "She passed the test .......................... she had a bad teacher.",
+            "description": "Although is a conjunction. It should be followed by a clause. ",
+            "answers": [
+                "although",
+                "despite",
+                "in spite of",
+                "however"
+            ],
+            "correct": 0,
+            "id": "fe0c563603a74eababa90b08638e925f"
+        },
+        {
+            "question": "....................... I had a headache, I enjoyed the party very much.",
+            "description": "Though and although are interchangeable. ",
+            "answers": [
+                "Though",
+                "Although",
+                "However",
+                "Either 'though' and 'although'"
+            ],
+            "correct": 3,
+            "id": "6e61f1ed33c14294b8db6e670fd7061d"
+        },
+        {
+            "question": "It was a good restaurant, ......................... expensive.",
+            "description": "",
+            "answers": [
+                "though",
+                "however",
+                "despite"
+            ],
+            "correct": 0,
+            "id": "48bc31e2f5b94460977bf592f8cbf74a"
+        },
+        {
+            "question": "The train was late ..................... I managed to arrive on time.",
+            "description": "However is a transitional adverb. It cannot connect two clauses. It goes at the beginning of a clause expressing an idea that contrasts with the previous clause.",
+            "answers": [
+                "however",
+                "though",
+                "although",
+                "despite"
+            ],
+            "correct": 0,
+            "id": "efcaaa3328714971b835d3fa151bdf1a"
+        },
+        {
+            "question": "........................... the train was late, I managed to reach on time.",
+            "description": "Although is a conjunction. It should be followed by a clause. ",
+            "answers": [
+                "Although",
+                "Despite",
+                "However"
+            ],
+            "correct": 0,
+            "id": "9b696239021242cfa6988b051f16a473"
+        },
+        {
+            "question": "They managed to finish the job .......................... there was no one to help them.",
+            "description": "Though and although are conjunctions used to connect two clauses. ",
+            "answers": [
+                "although",
+                "however",
+                "despite",
+                "in spite of"
+            ],
+            "correct": 0,
+            "id": "9e040b7a5ef945f6805ecb0442b5b1f6"
+        },
+        {
+            "question": "They finished the job ..................... the fact that they had no one to help them.",
+            "description": "Despite and in spite of are interchangeable. They are prepositions and can be followed by the expression 'the fact that'.",
+            "answers": [
+                "despite",
+                "in spite of",
+                "although",
+                "Either despite or in spite of"
+            ],
+            "correct": 3,
+            "id": "1dab124f88f8407ebf2034cc782dd14c"
+        },
+        {
+            "question": "................................ tired, he went on working.",
+            "description": "Though is a conjunction. It can connect two clauses. ",
+            "answers": [
+                "Though",
+                "although",
+                "despite",
+                "in spite of"
+            ],
+            "correct": 0,
+            "id": "2b6f2ae3588445e3ae8e20bbc408d9c3"
+        },
+        {
+            "question": "........................ hard I tried, I could not solve the puzzle.",
+            "description": "",
+            "answers": [
+                "Though",
+                "However",
+                "Despite",
+                "In spite of"
+            ],
+            "correct": 1,
+            "id": "20876879633d4a5a929371dae74827de"
+        },
+        {
+            "question": "........................ trying hard, I could not solve the puzzle.",
+            "description": "Despite can be followed by a noun or ing form. ",
+            "answers": [
+                "Despite",
+                "However",
+                "Though",
+                "Although"
+            ],
+            "correct": 0,
+            "id": "d098d869c8554a2d8146e78a5d751828"
+        }
+    ]
+}

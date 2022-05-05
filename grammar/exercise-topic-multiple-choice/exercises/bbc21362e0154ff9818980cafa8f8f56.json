@@ -1,0 +1,127 @@
+{
+    "id": "bbc21362e0154ff9818980cafa8f8f56",
+    "title": "Infinitive With Or Without To",
+    "questions": [
+        {
+            "question": "She didn't allow me .................................. for the drink.",
+            "description": "Allow is followed by an infinitive with to.",
+            "answers": [
+                "pay",
+                "to pay",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "7fbddca339ef4acfb59fce2336ed7391"
+        },
+        {
+            "question": "I won't let you .................................... my room.",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "to enter",
+                "enter"
+            ],
+            "correct": 1,
+            "id": "e8fa0f58b4df41cd9b61b2e313c69e35"
+        },
+        {
+            "question": "You ought .................................. a doctor.",
+            "description": "Ought is followed by an infinitive with to.",
+            "answers": [
+                "consult",
+                "to consult"
+            ],
+            "correct": 1,
+            "id": "7ec10ddf59c14fd2a890e7feacd6ffc2"
+        },
+        {
+            "question": "I was unable ................................... the question.",
+            "description": "Unable is followed by an infinitive with to. ",
+            "answers": [
+                "answer",
+                "to answer"
+            ],
+            "correct": 1,
+            "id": "155006ee4a4547b7ac1e9c4a6fd17b9e"
+        },
+        {
+            "question": "Mother made me ................................ the room.",
+            "description": "Make is followed by an infinitive without to.",
+            "answers": [
+                "clean",
+                "to clean"
+            ],
+            "correct": 0,
+            "id": "d4f286e8254e43748086e977d664bf60"
+        },
+        {
+            "question": "I forgot ................................. the car.",
+            "description": "Forget is followed by an infinitive with to.",
+            "answers": [
+                "to lock",
+                "lock"
+            ],
+            "correct": 0,
+            "id": "667dc8f08daf4ffbaf2804e86bc91f73"
+        },
+        {
+            "question": "I heard them ....................................... in the next room.",
+            "description": "Hear is followed by an infinitive without to.",
+            "answers": [
+                "talk",
+                "to talk"
+            ],
+            "correct": 0,
+            "id": "db871ad298b449fa8eea7390731b3ae3"
+        },
+        {
+            "question": "You needn't ....................................... for that drink.",
+            "description": "When need is a modal auxiliary, it is followed by an infinitive without to.",
+            "answers": [
+                "to pay",
+                "pay"
+            ],
+            "correct": 1,
+            "id": "2c3c8c7cb45942d6848eb6b44ed94a0e"
+        },
+        {
+            "question": "You don't need ...................................... for me.",
+            "description": "When need is an ordinary verb, it is followed by an infinitive with to.",
+            "answers": [
+                "wait",
+                "to wait"
+            ],
+            "correct": 1,
+            "id": "e500decd0dbc4a09bdc4045873c739e6"
+        },
+        {
+            "question": "I was forced ..................................",
+            "description": "",
+            "answers": [
+                "leave",
+                "to leave"
+            ],
+            "correct": 1,
+            "id": "fb82777421444ca7aa54e257247635e0"
+        },
+        {
+            "question": "You should encourage him .................................... another attempt.",
+            "description": "Encourage is followed by an infinitive with to.",
+            "answers": [
+                "make",
+                "to make"
+            ],
+            "correct": 1,
+            "id": "40e67eefd6e0444a8d7da4d1be9080c8"
+        },
+        {
+            "question": "He refused ..................................... to me.",
+            "description": "",
+            "answers": [
+                "talk",
+                "to talk"
+            ],
+            "correct": 1,
+            "id": "1d642b0fa9eb486fba975f82fd7f9ec3"
+        }
+    ]
+}

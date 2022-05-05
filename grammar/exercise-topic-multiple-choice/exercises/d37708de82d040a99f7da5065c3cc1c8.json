@@ -1,0 +1,134 @@
+{
+    "id": "d37708de82d040a99f7da5065c3cc1c8",
+    "title": "Direct And Indirect Speech Exercise",
+    "questions": [
+        {
+            "question": "I told him ................................. worry.",
+            "description": "To make negative infinitives we put not before to.",
+            "answers": [
+                "not to",
+                "to not"
+            ],
+            "correct": 0,
+            "id": "62068d4d032a4e6199a7a2c46bceb506"
+        },
+        {
+            "question": "The teacher advised us .................................. hard.",
+            "description": "Imperatives are reported with a to-infinitive. ",
+            "answers": [
+                "to work",
+                "working",
+                "to working"
+            ],
+            "correct": 0,
+            "id": "20db3669ad6f4aa6b6debca459c757f3"
+        },
+        {
+            "question": "She asked me if I ..................................... for the drinks.",
+            "description": "A present perfect in the direct speech becomes past perfect in the reported speech.",
+            "answers": [
+                "have paid",
+                "paid",
+                "had paid"
+            ],
+            "correct": 2,
+            "id": "27ae8f7816174020afefcc60eb45dbc4"
+        },
+        {
+            "question": "He told us ...................................... for him",
+            "description": "Imperatives are reported with a to-infinitive. ",
+            "answers": [
+                "to wait",
+                "to waiting",
+                "waiting"
+            ],
+            "correct": 0,
+            "id": "b8ab0647609f4804945474683879651f"
+        },
+        {
+            "question": "He told us ………………………………. about him.",
+            "description": "To make negative infinitives we put not before to.",
+            "answers": [
+                "to not worry",
+                "not to worry"
+            ],
+            "correct": 1,
+            "id": "b12b346773f247499c97d973b7c077f1"
+        },
+        {
+            "question": "He asked me if I …………………………… them.",
+            "description": "A simple present in the direct speech becomes simple past in the indirect speech.",
+            "answers": [
+                "know",
+                "knew",
+                "had known"
+            ],
+            "correct": 1,
+            "id": "9a040c56406f42dc84698286fd131be7"
+        },
+        {
+            "question": "I asked him if I …………………………… sit there.",
+            "description": "Can in the direct speech becomes could in the indirect speech.",
+            "answers": [
+                "can",
+                "could"
+            ],
+            "correct": 1,
+            "id": "745e351841ee4b718d40aa59132aa742"
+        },
+        {
+            "question": "They asked me ........................................ quitting my job.",
+            "description": "When a question is reported it has normal word order. That means the subject goes before the auxiliary verb.",
+            "answers": [
+                "that I was",
+                "if I was",
+                "if was I"
+            ],
+            "correct": 1,
+            "id": "dc2b06e953ba4255a2813c737fea0c33"
+        },
+        {
+            "question": "I told him ........................................ not interested.",
+            "description": "",
+            "answers": [
+                "what I was",
+                "that I was",
+                "that was I"
+            ],
+            "correct": 1,
+            "id": "8afac1f189644eb5935893fd37ebfb59"
+        },
+        {
+            "question": "She said that no one .......................................... her when she was in trouble.",
+            "description": "A simple past in the direct speech becomes past perfect in the indirect speech. ",
+            "answers": [
+                "helped",
+                "have helped",
+                "had helped"
+            ],
+            "correct": 2,
+            "id": "7cab0c2212204191a7c0b7ef14dbc3e8"
+        },
+        {
+            "question": "He asked me how ………………………….. react if I won the jackpot.",
+            "description": "",
+            "answers": [
+                "I would",
+                "would I"
+            ],
+            "correct": 0,
+            "id": "cfc2f07f0e2a406985eeeafac51e46d3"
+        },
+        {
+            "question": "They motivated her …………………………… again.",
+            "description": "",
+            "answers": [
+                "to try",
+                "to trying",
+                "trying"
+            ],
+            "correct": 0,
+            "id": "b11dae69f93341c798d26fad48cb4505"
+        }
+    ]
+}

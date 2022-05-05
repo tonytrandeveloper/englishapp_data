@@ -1,0 +1,135 @@
+{
+    "id": "20571f51c59e460dbc9476d8bb769638",
+    "title": "Intermediate Level Grammar Exercise",
+    "questions": [
+        {
+            "question": "The tornado …………………….. the house flat.",
+            "description": "Laid can mean knocked down.",
+            "answers": [
+                "lied",
+                "laid",
+                "lain"
+            ],
+            "correct": 1,
+            "id": "744cf29798a04d4d9257ce678fd88f68"
+        },
+        {
+            "question": "Of the two examples, I prefer the ……………………",
+            "description": "Latter is the opposite of former.",
+            "answers": [
+                "later",
+                "latter"
+            ],
+            "correct": 1,
+            "id": "78ff7a2618ed438991b76142c8fb17a7"
+        },
+        {
+            "question": "She is .......................... lazy to clean house.",
+            "description": "Note the pattern too...to...",
+            "answers": [
+                "too",
+                "so",
+                "very"
+            ],
+            "correct": 0,
+            "id": "e519810ce79e431381a8435e61591f25"
+        },
+        {
+            "question": "The situation was ……………………. absurd that it was laughable.",
+            "description": "Note the pattern so...that...",
+            "answers": [
+                "too",
+                "very",
+                "so"
+            ],
+            "correct": 2,
+            "id": "dc037a8a59644f55af1a478721993321"
+        },
+        {
+            "question": "Lean meat is ………………………… than fatty meat.",
+            "description": "Healthier is the comparative form of healthy. ",
+            "answers": [
+                "more healthy",
+                "healthier",
+                "more healthier"
+            ],
+            "correct": 1,
+            "id": "5048c49635a84e51a22b8cbc7e612534"
+        },
+        {
+            "question": "The boy ……………………… school in the middle of the year.",
+            "description": "Left is the past simple form of leave.",
+            "answers": [
+                "left",
+                "leaved",
+                "lefted"
+            ],
+            "correct": 0,
+            "id": "cc46718a1da94e0583215799dccbc5f4"
+        },
+        {
+            "question": "Our schedule leaves no ……………………… for unexpected delays.",
+            "description": "Leeway means flexibility. ",
+            "answers": [
+                "leeway",
+                "leevay"
+            ],
+            "correct": 0,
+            "id": "823a2298b45049b7a7408c42598f0bb4"
+        },
+        {
+            "question": "He is the legitimate ………………………. to the throne.",
+            "description": "",
+            "answers": [
+                "hair",
+                "heir",
+                "air"
+            ],
+            "correct": 1,
+            "id": "f23302825f824125aace88189cacd954"
+        },
+        {
+            "question": "We took a …………………… stroll after dinner.",
+            "description": "Leisure is a noun leisurely is the adjective. ",
+            "answers": [
+                "leisure",
+                "leisurely"
+            ],
+            "correct": 1,
+            "id": "32f3d5c1ac2b430db2c395f7d8907049"
+        },
+        {
+            "question": "Can you ………………………… me 10 dollars until payday?",
+            "description": "To lend is to loan.",
+            "answers": [
+                "lend",
+                "borrow",
+                "take"
+            ],
+            "correct": 0,
+            "id": "dffb222721ab48e0af30815ead5622a1"
+        },
+        {
+            "question": "The movie had ………………………. success than expected.",
+            "description": "Less is the comparative form of little. ",
+            "answers": [
+                "less",
+                "low",
+                "fewer"
+            ],
+            "correct": 0,
+            "id": "d2035d9dd1cf437bb219a25e7e1c66b5"
+        },
+        {
+            "question": "There were ……………………….. applications than expected.",
+            "description": "Fewer is used with plural nouns less is used with uncountable nouns. ",
+            "answers": [
+                "fewer",
+                "less",
+                "lesser"
+            ],
+            "correct": 0,
+            "id": "3770fdab37af495baedf805c2541db79"
+        }
+    ]
+}

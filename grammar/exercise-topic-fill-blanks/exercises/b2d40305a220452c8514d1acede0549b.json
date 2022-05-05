@@ -1,0 +1,406 @@
+{
+    "id": "b2d40305a220452c8514d1acede0549b",
+    "title": "Choose the Present Simple or Present Continuous Exercise 3",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s reading",
+                        "is reading"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(read) in the garden."
+                }
+            ],
+            "id": "16ba450a22684685bd293df960d94b57"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "are we having"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(we/have) for dinner tonight?"
+                }
+            ],
+            "id": "ba32dec862f845d8a07d60b2b393edd2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) two daughters."
+                }
+            ],
+            "id": "2e4a0a34cdcb4ab1b53d19a6850c7353"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'m staying",
+                        "am staying"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(stay) in Spain for two weeks this summer."
+                }
+            ],
+            "id": "2fb89dbd7d96471dacb9b87bb93732f1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He often"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "comes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(come) over for dinner."
+                }
+            ],
+            "id": "713978f03d194dd5a006830531187f1b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The class"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "begins"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(begin) at nine every day."
+                }
+            ],
+            "id": "937fe07fa26544728e0ce03814027e24"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "are you eating"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/eat) at the moment?"
+                }
+            ],
+            "id": "67bb39892fd84db4a84b4ef9c64c3ec7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "is Susie doing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(Susie/do) tomorrow?"
+                }
+            ],
+            "id": "679a48d495dd48f6a34240376525e8d1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "don't work",
+                        "do not work"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/work) on Sundays."
+                }
+            ],
+            "id": "51078125dd4c49a8824c2edfcbbf5201"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "isn't studying",
+                        "is not studying"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/study) now, she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s watching",
+                        "is watching"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(watch) TV."
+                }
+            ],
+            "id": "398a74ff2d8c4392bd5d3aeb61446119"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How often"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do you go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/go) to restaurants?"
+                }
+            ],
+            "id": "d57d51438e104c7d8d74162a9753e9bc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'m not going",
+                        "am not going"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) on holiday this summer."
+                }
+            ],
+            "id": "14b735a4a62e40dda1ce1229225107b5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm sorry, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "don't understand",
+                        "do not understand"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/understand)."
+                }
+            ],
+            "id": "af49ae80f453432c918eccf968fa6faa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s working",
+                        "is working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(work) as a waitress for a month."
+                }
+            ],
+            "id": "6ff0a5bac60b4497b2bed47c484541bb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "takes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(take) a salsa dancing class every Tuesday."
+                }
+            ],
+            "id": "a8e8f7cef93049beb91746257b19bf0c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s",
+                        "is"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) cold here in winter."
+                }
+            ],
+            "id": "a84a434ad2e4418791a8e69656c68fbe"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Take your umbrella, it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s raining",
+                        "is raining"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(rain)."
+                }
+            ],
+            "id": "b1b67c60a0ec495f922a1dcbc5093cd6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This cake"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "tastes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(taste) delicious."
+                }
+            ],
+            "id": "41d7642fcfd0442092d844c9ea177d83"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The bag"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "belongs"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(belong) to Jack."
+                }
+            ],
+            "id": "640700023d674103a46b27461cb7ffd0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "are you arriving"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/arrive) tonight?"
+                }
+            ],
+            "id": "d8b71898348446baa3cfae3fa4365ff9"
+        }
+    ]
+}

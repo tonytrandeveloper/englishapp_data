@@ -1,0 +1,66 @@
+{
+    "id": "ff57d16a3b6d40b1a92a8f3d1ec5b122",
+    "title": "Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "Alice resembles a Greek goddess.",
+            "description": "",
+            "answers": [
+                "A Greek goddess is resembled by Alice.",
+                "A Greek goddess is being resembled by Alice.",
+                "Alice is resembled by a Greek goddess.",
+                "None of the above"
+            ],
+            "correct": 3,
+            "id": "eef21685da7042febd5d03a24658d67b"
+        },
+        {
+            "question": "Everybody agreed with me.",
+            "description": "",
+            "answers": [
+                "I was agreed with by everybody.",
+                "Everybody was agreed with by me.",
+                "I was agreed by everybody.",
+                "None of these"
+            ],
+            "correct": 3,
+            "id": "729d2ab2e8dd45fb8acc2405c4caa29e"
+        },
+        {
+            "question": "This coat doesn’t fit me.",
+            "description": "",
+            "answers": [
+                "I am not fitted by this coat.",
+                "I do not fit this coat.",
+                "This coat is not fitted by me.",
+                "None of these"
+            ],
+            "correct": 3,
+            "id": "16be8e8f1dd64d418aa23148ec202c6f"
+        },
+        {
+            "question": "Mathews made a major error is the estimate.",
+            "description": "",
+            "answers": [
+                "A major error was made in the estimate by Mathews.",
+                "A major estimate was made in the error by Mathews.",
+                "A major error was being made in the estimate by Mathews.",
+                "A major error was estimated by Mathews."
+            ],
+            "correct": 0,
+            "id": "a458df998a7a48afb5a637a4bd35b6c6"
+        },
+        {
+            "question": "They say that his company is in trouble.",
+            "description": "",
+            "answers": [
+                "It is said that his company is in trouble.",
+                "That his company is in trouble is said by them.",
+                "His company is being said to be in trouble.",
+                "None of these"
+            ],
+            "correct": 0,
+            "id": "9e03874eb68e475ba3d4ff0617426742"
+        }
+    ]
+}

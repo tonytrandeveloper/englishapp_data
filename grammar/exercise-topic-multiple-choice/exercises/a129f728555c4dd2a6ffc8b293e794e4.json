@@ -1,0 +1,87 @@
+{
+    "id": "a129f728555c4dd2a6ffc8b293e794e4",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "He held the bag ………………… even though his arm hurt .......................",
+            "description": "",
+            "answers": [
+                "tightly, badly",
+                "tight, bad",
+                "tight, badly",
+                "tightly, bad"
+            ],
+            "correct": 0,
+            "id": "1f96d0e3a8cd420a8c11885e7a4a72f5"
+        },
+        {
+            "question": "..................... as fast as possible, we managed to reach on time.",
+            "description": "",
+            "answers": [
+                "Driving",
+                "Driven",
+                "Being driven",
+                "Having driving"
+            ],
+            "correct": 0,
+            "id": "6d9cd734645746c29ab0648acdae4e6a"
+        },
+        {
+            "question": "....................... much blood, the driver struggled with the controls.",
+            "description": "",
+            "answers": [
+                "Losing",
+                "Having lost",
+                "Lost",
+                "Being lost"
+            ],
+            "correct": 1,
+            "id": "b0203050b5474e1587f9c41b561c548b"
+        },
+        {
+            "question": "The men were charged with theft. ......................, they were suspected of committing a major crime in another state.",
+            "description": "",
+            "answers": [
+                "For instance",
+                "In the same way",
+                "In addition",
+                "Similarly"
+            ],
+            "correct": 2,
+            "id": "b0c30d9ac4ae49e18324c569a16cac91"
+        },
+        {
+            "question": "Smoking is dangerous. ....................... have you heard of the people who die of cancer because they smoke?",
+            "description": "",
+            "answers": [
+                "For instance",
+                "In addition",
+                "Similarly"
+            ],
+            "correct": 0,
+            "id": "d80afa8cca9f46ab872d1f683bff830b"
+        },
+        {
+            "question": "You will benefit ………………. the experience.",
+            "description": "",
+            "answers": [
+                "of",
+                "from",
+                "to"
+            ],
+            "correct": 1,
+            "id": "20e2e2eedf0f419a9672af32060ac373"
+        },
+        {
+            "question": "The train was late. ………………… I managed to get to the meeting on time.",
+            "description": "",
+            "answers": [
+                "Incidentally",
+                "Despite this",
+                "On the contrary"
+            ],
+            "correct": 1,
+            "id": "966fffb7a3514828aea49be94112bc43"
+        }
+    ]
+}

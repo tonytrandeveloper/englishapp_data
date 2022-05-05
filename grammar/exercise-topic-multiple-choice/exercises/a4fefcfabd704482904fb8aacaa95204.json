@@ -1,0 +1,120 @@
+{
+    "id": "a4fefcfabd704482904fb8aacaa95204",
+    "title": "Past Tense Exercise",
+    "questions": [
+        {
+            "question": "She …………….. school at fourteen.",
+            "description": "",
+            "answers": [
+                "left",
+                "was leaving",
+                "has left",
+                "had left"
+            ],
+            "correct": 0,
+            "id": "c4024a1d390142fe9101a53831bf3d0a"
+        },
+        {
+            "question": "I …………………. his letter a week ago.",
+            "description": "",
+            "answers": [
+                "was receiving",
+                "have received",
+                "received",
+                "had received"
+            ],
+            "correct": 2,
+            "id": "fb60bc1aae2941189f217592aceeffb4"
+        },
+        {
+            "question": "When I saw him, he ……………… chess.",
+            "description": "",
+            "answers": [
+                "was playing",
+                "played",
+                "has been playing",
+                "is playing"
+            ],
+            "correct": 0,
+            "id": "5e00024d0fec422da2f0a78cf7ce1628"
+        },
+        {
+            "question": "The guests ………………… before he reached home.",
+            "description": "",
+            "answers": [
+                "went",
+                "had gone",
+                "have gone"
+            ],
+            "correct": 1,
+            "id": "06ee1721a7e140088777c4ef6bdd2ed4"
+        },
+        {
+            "question": "The train had left before I ……………… the station.",
+            "description": "",
+            "answers": [
+                "have reached",
+                "reached",
+                "was reaching",
+                "had reached"
+            ],
+            "correct": 1,
+            "id": "02cfb85578b546639e4823a80361ef89"
+        },
+        {
+            "question": "I ……………… in the garage when John turned up.",
+            "description": "",
+            "answers": [
+                "worked",
+                "have been working",
+                "was working"
+            ],
+            "correct": 2,
+            "id": "5ae79839acf14c1796ddbdc07a6b7e6d"
+        },
+        {
+            "question": "When I opened the door, the cat ………………. out.",
+            "description": "",
+            "answers": [
+                "jumped",
+                "was jumping",
+                "has jumped"
+            ],
+            "correct": 0,
+            "id": "52aea380db2f43e7b0da3ac92642d437"
+        },
+        {
+            "question": "I ………………. when the lights went out.",
+            "description": "",
+            "answers": [
+                "read",
+                "was reading",
+                "have been reading"
+            ],
+            "correct": 1,
+            "id": "5b52038e51824d4eba7541ba44a4101e"
+        },
+        {
+            "question": "His father ………………. last year.",
+            "description": "",
+            "answers": [
+                "died",
+                "was dying",
+                "has died"
+            ],
+            "correct": 0,
+            "id": "7ef8dfa4928e4009a537adf9c7ecf80b"
+        },
+        {
+            "question": "Babar ………………. Rana Sanga in the battle.",
+            "description": "",
+            "answers": [
+                "defeated",
+                "was defeating",
+                "has defeated"
+            ],
+            "correct": 0,
+            "id": "2820ca5465d6405e9893e6d0064e5b25"
+        }
+    ]
+}

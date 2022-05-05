@@ -1,0 +1,128 @@
+{
+    "id": "4b457caab923433f838e150a0ef5b827",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "Grandpa …………………………. for a walk every morning.",
+            "description": "The simple present is used to talk about habitual actions.",
+            "answers": [
+                "goes",
+                "is going",
+                "will go"
+            ],
+            "correct": 0,
+            "id": "1a75e1a0ec8d4467b0f48b38587eeb3d"
+        },
+        {
+            "question": "All mothers ………………………… their children.",
+            "description": "We use the simple present to talk about general truths.",
+            "answers": [
+                "love",
+                "will love",
+                "would love"
+            ],
+            "correct": 0,
+            "id": "4d026c3b9e2f4d55b27b104af6413f9f"
+        },
+        {
+            "question": "The British once ………………………… India.",
+            "description": "The simple past is used to talk about finished events.",
+            "answers": [
+                "was ruling",
+                "ruled",
+                "rules"
+            ],
+            "correct": 1,
+            "id": "2c9ac3d4ff6e458c947fd344a5e1c14d"
+        },
+        {
+            "question": "Grandpa ………………………… to the temple yesterday.",
+            "description": "We used the simple past to say that something happened sometime ago.",
+            "answers": [
+                "has gone",
+                "went",
+                "had gone"
+            ],
+            "correct": 1,
+            "id": "3f4af2271ea94808b7c15d76c0d63d62"
+        },
+        {
+            "question": "I …………………………… something last night.",
+            "description": "",
+            "answers": [
+                "heard",
+                "was hearing",
+                "hears"
+            ],
+            "correct": 0,
+            "id": "9a3700571156417cb95cab50e0c5e86e"
+        },
+        {
+            "question": "He ……………………………. gently to the child.",
+            "description": "",
+            "answers": [
+                "speaks",
+                "spoke",
+                "speak"
+            ],
+            "correct": 1,
+            "id": "944fe6b82bfa4b29b55e7e7ba7daaf59"
+        },
+        {
+            "question": "The pond …………………………… up every summer.",
+            "description": "The simple present is used to talk about routines, habitual actions etc. ",
+            "answers": [
+                "dry",
+                "dries",
+                "dried"
+            ],
+            "correct": 1,
+            "id": "049d7b548029495bbc61c7f833eb09cb"
+        },
+        {
+            "question": "Humble words …………………………… others joy.",
+            "description": "",
+            "answers": [
+                "give",
+                "gives",
+                "gave"
+            ],
+            "correct": 0,
+            "id": "75584fe1f2024187aada7f5ffc8e478c"
+        },
+        {
+            "question": "He ………………………….. a living by mending shoes.",
+            "description": "We use the simple present to talk about people’s professions.",
+            "answers": [
+                "make",
+                "makes",
+                "is making"
+            ],
+            "correct": 1,
+            "id": "42ba329114cd479cb95a3ff7b218b362"
+        },
+        {
+            "question": "He …………………………… school at fourteen.",
+            "description": "We use the simple past to say that something happened in the past.",
+            "answers": [
+                "leave",
+                "was leaving",
+                "has left",
+                "left"
+            ],
+            "correct": 3,
+            "id": "20e2dd9eebe6454796f49b79d93f0074"
+        },
+        {
+            "question": "The puppy ………………………….. by a group of boys.",
+            "description": "",
+            "answers": [
+                "rescued",
+                "was rescued",
+                "has rescued"
+            ],
+            "correct": 1,
+            "id": "b9218f3a5463474b9821af3dab997f18"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "id": "68270bb14c8e49368e9de9f53f8d99f7",
+    "title": "Simple Present Or Present Continuous",
+    "questions": [
+        {
+            "question": "The summer term ………………….. on April 18th.",
+            "description": "",
+            "answers": [
+                "is starting",
+                "starts"
+            ],
+            "correct": 1,
+            "id": "0be4d16cbd6e46d7b62823857fedcad1"
+        },
+        {
+            "question": "My plane ………………. at",
+            "description": "",
+            "answers": [
+                "leaves",
+                "is leaving"
+            ],
+            "correct": 0,
+            "id": "197f008e5c1d4662aa21c3776caf99cf"
+        },
+        {
+            "question": "When …………………. in Bangkok?",
+            "description": "",
+            "answers": [
+                "is the train arriving",
+                "does the train arrive"
+            ],
+            "correct": 1,
+            "id": "d8432ad0f5fc4498ac50498c36e18386"
+        },
+        {
+            "question": "I will pay you back when I ………………….. a job.",
+            "description": "",
+            "answers": [
+                "will get",
+                "get",
+                "am getting"
+            ],
+            "correct": 1,
+            "id": "874485a732114e728a3a03a58e63bbb4"
+        },
+        {
+            "question": "I ………………… to the US next week.",
+            "description": "",
+            "answers": [
+                "go",
+                "am going"
+            ],
+            "correct": 1,
+            "id": "db51f7c125294c60abaf4d9b7c477bc0"
+        },
+        {
+            "question": "She ………………….. for a new job.",
+            "description": "",
+            "answers": [
+                "looks",
+                "is looking"
+            ],
+            "correct": 1,
+            "id": "4713ccecd9274a6a9f1e95762a1f449b"
+        },
+        {
+            "question": "Granny’s train ………………….. at",
+            "description": "",
+            "answers": [
+                "arrives",
+                "is arriving"
+            ],
+            "correct": 0,
+            "id": "8a0042397f394587b8c58236a9b9a333"
+        },
+        {
+            "question": "I will tell you if I ………………….. her name.",
+            "description": "",
+            "answers": [
+                "know",
+                "knew",
+                "will know"
+            ],
+            "correct": 0,
+            "id": "0cef28e33a8e48fbbe31f4bbf865fa81"
+        },
+        {
+            "question": "‘What ………………… there?’ ‘I …………………. a cake.’",
+            "description": "",
+            "answers": [
+                "do you do make",
+                "are you doing am making"
+            ],
+            "correct": 1,
+            "id": "d9bf8ca96ed34b069112421b9c14f551"
+        },
+        {
+            "question": "I ………………….. Lucia on Tuesday.",
+            "description": "",
+            "answers": [
+                "see",
+                "am seeing"
+            ],
+            "correct": 1,
+            "id": "3142de600c7045579ee6b4ae3090428b"
+        }
+    ]
+}

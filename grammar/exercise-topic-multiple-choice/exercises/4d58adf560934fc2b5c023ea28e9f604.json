@@ -1,0 +1,138 @@
+{
+    "id": "4d58adf560934fc2b5c023ea28e9f604",
+    "title": "Prepositions Exercise",
+    "questions": [
+        {
+            "question": "I met him ......................... a club.",
+            "description": "We use at to indicate position at a point.",
+            "answers": [
+                "in",
+                "on",
+                "at"
+            ],
+            "correct": 2,
+            "id": "a1914d39b21f42a4838e14f39e3014b8"
+        },
+        {
+            "question": "There is some water ......................... the bottle.",
+            "description": "We use in to indicate position inside something.",
+            "answers": [
+                "into",
+                "in",
+                "on"
+            ],
+            "correct": 1,
+            "id": "ca51aadfb4484ec5b571b2abdaeee1e7"
+        },
+        {
+            "question": "The car broke down .......................... the way to work.",
+            "description": "",
+            "answers": [
+                "in",
+                "to",
+                "on"
+            ],
+            "correct": 2,
+            "id": "a00ea3d4f76a4f1ea3e4bb0bd64068e1"
+        },
+        {
+            "question": "I read an interesting article ........................ the magazine.",
+            "description": "We say in a book or a magazine.",
+            "answers": [
+                "on",
+                "in",
+                "at"
+            ],
+            "correct": 1,
+            "id": "853990f0fc714afb9480ce5148a166c9"
+        },
+        {
+            "question": "She spent the whole day ............................. the bedroom.",
+            "description": "",
+            "answers": [
+                "on",
+                "at",
+                "in"
+            ],
+            "correct": 2,
+            "id": "3ee968cec1bb407a8ec82d9b3109e347"
+        },
+        {
+            "question": "If you are hungry, there is a banana ............................. the fridge.",
+            "description": "",
+            "answers": [
+                "within",
+                "in",
+                "on"
+            ],
+            "correct": 1,
+            "id": "b23935f932e24b948d60e356fd6126ab"
+        },
+        {
+            "question": "They are moving .............................. the suburbs.",
+            "description": "We use to to indicate direction.",
+            "answers": [
+                "for",
+                "to",
+                "at"
+            ],
+            "correct": 1,
+            "id": "beee8903d218453797d23580301bb332"
+        },
+        {
+            "question": "Could you take the children .............................. school?",
+            "description": "",
+            "answers": [
+                "at",
+                "for",
+                "to"
+            ],
+            "correct": 2,
+            "id": "473b6ab0ac5f40838e4b9cef7ba45816"
+        },
+        {
+            "question": "You can call me ................................ six.",
+            "description": "We use at with clock time.",
+            "answers": [
+                "on",
+                "at",
+                "in"
+            ],
+            "correct": 1,
+            "id": "f0f908956c5d41d09bfe14eef07959ec"
+        },
+        {
+            "question": "The Prime Minister spoke ............................ television last night.",
+            "description": "We use on with television.",
+            "answers": [
+                "on",
+                "in",
+                "for"
+            ],
+            "correct": 0,
+            "id": "dc6eae7f7ba140fab660d2189b38020e"
+        },
+        {
+            "question": "Can you recognize him ............................... this photo?",
+            "description": "",
+            "answers": [
+                "in",
+                "at",
+                "on"
+            ],
+            "correct": 0,
+            "id": "dc2e74fdc50546058a960e41f7ebbfbe"
+        },
+        {
+            "question": "Bangalore is ............................... the South of India.",
+            "description": "",
+            "answers": [
+                "at",
+                "in",
+                "on"
+            ],
+            "correct": 1,
+            "id": "ba07b1b075bd4ad983086e3b62272f07"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "id": "56743ba5bbd74d55ab311bd9518a3b7e",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "I ..................... . all novels written by Jane Austen.",
+            "description": "",
+            "answers": [
+                "read",
+                "have read",
+                "had read"
+            ],
+            "correct": 1,
+            "id": "6e28c0b7a7c2411e95cdcbe3089e5ebd"
+        },
+        {
+            "question": "She ...................... before I ………………… her place.",
+            "description": "",
+            "answers": [
+                "left, had reached",
+                "had left, had reached",
+                "had left, reached"
+            ],
+            "correct": 2,
+            "id": "5075accc42bb46d5862996b1b47fc44c"
+        },
+        {
+            "question": "She …..................... .. here for six months.",
+            "description": "",
+            "answers": [
+                "has stayed",
+                "has been staying",
+                "is staying"
+            ],
+            "correct": 1,
+            "id": "b73f8a65c83f4c1386d1dd6729fc2944"
+        },
+        {
+            "question": "I ..................... . to become a writer.",
+            "description": "",
+            "answers": [
+                "always wanted",
+                "have always wanted",
+                "am always wanting"
+            ],
+            "correct": 1,
+            "id": "a465113980c8460b83c8fed7e1738cb4"
+        },
+        {
+            "question": "Last night, there ……………….. an explosion near the castle.",
+            "description": "",
+            "answers": [
+                "has been",
+                "is",
+                "was",
+                "had been"
+            ],
+            "correct": 2,
+            "id": "7df206a93dcf4262b69e90a9f7b88863"
+        },
+        {
+            "question": "I ....................... her for a long time.",
+            "description": "",
+            "answers": [
+                "had known",
+                "have known",
+                "am knowing",
+                "know"
+            ],
+            "correct": 1,
+            "id": "5937eeb919804affa7e8090715847e6e"
+        },
+        {
+            "question": "He never ....................... to his native place.",
+            "description": "",
+            "answers": [
+                "returned",
+                "was returning",
+                "had returned"
+            ],
+            "correct": 0,
+            "id": "ec68ff2a9f1d411095c394570a7b4e73"
+        },
+        {
+            "question": "He ...................... by his grandparents.",
+            "description": "",
+            "answers": [
+                "raised",
+                "has raised",
+                "was raised",
+                "had raised"
+            ],
+            "correct": 2,
+            "id": "a0bbc894e04c47519e87d79e7361fd42"
+        }
+    ]
+}

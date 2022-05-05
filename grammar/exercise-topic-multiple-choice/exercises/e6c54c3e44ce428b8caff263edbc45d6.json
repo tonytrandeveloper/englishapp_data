@@ -1,0 +1,134 @@
+{
+    "id": "e6c54c3e44ce428b8caff263edbc45d6",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "It ………………….. not very expensive.",
+            "description": "It is singular subject. Hence we use is here.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "1da3a585f9a544ed83fc56f48320d741"
+        },
+        {
+            "question": "……………………… make a noise.",
+            "description": "The subject of an imperative sentence is you. Hence, we use don't here.",
+            "answers": [
+                "Don't",
+                "Won't",
+                "Doesn't"
+            ],
+            "correct": 0,
+            "id": "1d43641e8478475fb489b55c904bb802"
+        },
+        {
+            "question": "………………………… the books on the table.",
+            "description": "The subject of an imperative sentence is you. Hence, we use put here.",
+            "answers": [
+                "Put",
+                "Puts"
+            ],
+            "correct": 0,
+            "id": "ec18f98410644a558309e9e442a6e7d1"
+        },
+        {
+            "question": "She ……………………………. harder than anybody I know.",
+            "description": "We use the simple present to talk about facts.",
+            "answers": [
+                "work",
+                "works",
+                "is working"
+            ],
+            "correct": 1,
+            "id": "cc696c58089f48e3b31c6616ba1ed041"
+        },
+        {
+            "question": "He was an unscrupulous guy who ………………………….. do just about anything to make money.",
+            "description": "When the verb in the main clause is in the past tense, we use a past tense in the subordinate clause as well.",
+            "answers": [
+                "will",
+                "would",
+                "should"
+            ],
+            "correct": 1,
+            "id": "a02480e7c9b542df94426d101982051e"
+        },
+        {
+            "question": "She …………………………… a six figure salary.",
+            "description": "",
+            "answers": [
+                "is earning",
+                "earns",
+                "earn"
+            ],
+            "correct": 1,
+            "id": "b5be20c43c584b40b2090cd800a611bd"
+        },
+        {
+            "question": "She ………………………….. in the morning.",
+            "description": "When we say when something happened, we use the simple past.",
+            "answers": [
+                "arrived",
+                "has arrived",
+                "arrives"
+            ],
+            "correct": 0,
+            "id": "87093ff3dfb0427d8afdf5f03c48cf04"
+        },
+        {
+            "question": "We ……………………….. swimming yesterday.",
+            "description": "When we say when something happened, we use the simple past.",
+            "answers": [
+                "have gone",
+                "went",
+                "had gone"
+            ],
+            "correct": 1,
+            "id": "0c690a18873e42f9803d096555134c6f"
+        },
+        {
+            "question": "Heavy rains ……………………….. the city last week.",
+            "description": "When we say when something happened, we use the simple past.",
+            "answers": [
+                "lashed",
+                "have lashed",
+                "has lashed"
+            ],
+            "correct": 0,
+            "id": "ab7ffe1c808e433896719ae7e63bdc00"
+        },
+        {
+            "question": "I …………………………. them only once.",
+            "description": "We use the present perfect to talk about life experiences up to now.",
+            "answers": [
+                "have seen",
+                "saw",
+                "had seen"
+            ],
+            "correct": 0,
+            "id": "ad1082c5ca6043a68f1389dba54dd75b"
+        },
+        {
+            "question": "Does anybody know where …………………………….?",
+            "description": "",
+            "answers": [
+                "he is",
+                "is he"
+            ],
+            "correct": 0,
+            "id": "a070a008bf6341349490a387100213cb"
+        },
+        {
+            "question": "I knew I …………………………… a mistake.",
+            "description": "When the main verb is in the past tense, we use a past tense in the subordinate clause as well. ",
+            "answers": [
+                "was making",
+                "is making"
+            ],
+            "correct": 0,
+            "id": "4d7cccd1216041d4bd23d83e995c186a"
+        }
+    ]
+}

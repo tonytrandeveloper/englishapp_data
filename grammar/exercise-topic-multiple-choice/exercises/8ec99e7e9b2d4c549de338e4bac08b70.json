@@ -1,0 +1,136 @@
+{
+    "id": "8ec99e7e9b2d4c549de338e4bac08b70",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "Help me with this, ………………….?",
+            "description": "After imperatives, will you is used to ask people to do things.",
+            "answers": [
+                "will you",
+                "can't you",
+                "won't you"
+            ],
+            "correct": 0,
+            "id": "9703584207c948d288e819fe6dc64ab3"
+        },
+        {
+            "question": "Politics ……………………… a dirty game.",
+            "description": "Words like politics, science and mathematics are singular. ",
+            "answers": [
+                "are",
+                "is",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "bca4cb86721f41d382e71801c646e5d3"
+        },
+        {
+            "question": "The girls in this photo ………………………….. my cousins.",
+            "description": "Here the subject is the plural noun girls. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "fc93e7c1396e410f85b31c346b89441b"
+        },
+        {
+            "question": "I …………………………. my grandparents yesterday.",
+            "description": "To call on is to visit.",
+            "answers": [
+                "called up",
+                "called on",
+                "called out"
+            ],
+            "correct": 1,
+            "id": "0ba1eb48d03741f9ac7bd26a6a95cfb2"
+        },
+        {
+            "question": "Neither of these answers ………………………….. correct.",
+            "description": "Use a singular verb after either and neither. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "2b1a4a6403aa4e74a3f5786473473744"
+        },
+        {
+            "question": "I ……………………….. in Mumbai at that time.",
+            "description": "Use the simple past to talk about a completely finished event or situation. ",
+            "answers": [
+                "live",
+                "lived",
+                "have lived"
+            ],
+            "correct": 1,
+            "id": "306411ec79274664aac2ca0896738d15"
+        },
+        {
+            "question": "My application …………………………… by the company.",
+            "description": "In the simple past, the passive form is made with was/were + past participle form of the verb.",
+            "answers": [
+                "has rejected",
+                "was rejected",
+                "had been rejected"
+            ],
+            "correct": 1,
+            "id": "00482672b0b94fc283e9975ffb4b2cda"
+        },
+        {
+            "question": "I am writing a novel. A novel …………………………….. by me.",
+            "description": "The passive form of the present continuous is made with is/am/are + being + past participle.",
+            "answers": [
+                "is written",
+                "was written",
+                "is being written"
+            ],
+            "correct": 2,
+            "id": "9cafe69c607b4d70adb90133fef17e32"
+        },
+        {
+            "question": "Let’s …………………………….. your plans.",
+            "description": "Discuss is one of those verbs that cannot be followed by a preposition. ",
+            "answers": [
+                "discuss about",
+                "discuss",
+                "discuss on"
+            ],
+            "correct": 1,
+            "id": "8c6a72b9401e44dd9174595feb28384c"
+        },
+        {
+            "question": "That child …………………………….. neither of his parents.",
+            "description": "Resemble does not take a preposition. ",
+            "answers": [
+                "resembles to",
+                "resembles",
+                "resembles with"
+            ],
+            "correct": 1,
+            "id": "84b8eddf42d14797bca1b42a000b60b6"
+        },
+        {
+            "question": "We ……………………………. to hear from them for a long time.",
+            "description": "The present perfect continuous is used to talk about an action or situation that started in the past and has continued up to the present.",
+            "answers": [
+                "are waiting",
+                "have been waiting",
+                "were waiting"
+            ],
+            "correct": 1,
+            "id": "aed7b259996242dda2238ebbf7ebb796"
+        },
+        {
+            "question": "I ………………………….. all my life in India.",
+            "description": "The present perfect is more appropriate here. ",
+            "answers": [
+                "lived",
+                "have lived",
+                "am living"
+            ],
+            "correct": 1,
+            "id": "b958f218d0e44da080eb5bccc50a52c3"
+        }
+    ]
+}

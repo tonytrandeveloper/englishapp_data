@@ -1,0 +1,137 @@
+{
+    "id": "cc3f771c91ee472db6f53273cead9867",
+    "title": "Grammar And Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "If you had asked me, I …………………….. you.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "would tell",
+                "will tell",
+                "would have told"
+            ],
+            "correct": 2,
+            "id": "96eedb1824c54021b59269df685e03ec"
+        },
+        {
+            "question": "I heard them ……………………… down the stairs.",
+            "description": "Hear cannot be followed by a to-infinitive. ",
+            "answers": [
+                "go",
+                "to go",
+                "going"
+            ],
+            "correct": 2,
+            "id": "46e204c2a1da4b4ba6b96e7e28aa6c67"
+        },
+        {
+            "question": "Phone me when you ………………………. time.",
+            "description": "When the main clause is in the imperative, we use a present tense to refer to the future in the subordinate clause. ",
+            "answers": [
+                "have",
+                "will have",
+                "would have"
+            ],
+            "correct": 0,
+            "id": "88d3423b682e4ef2b8f0be79c66bda26"
+        },
+        {
+            "question": "I am ……………………….. a phone call from dad at 4 pm.",
+            "description": "Hoping and waiting are followed by for.",
+            "answers": [
+                "hoping",
+                "expecting",
+                "waiting"
+            ],
+            "correct": 1,
+            "id": "c367241b9908411d93897a1712a6e945"
+        },
+        {
+            "question": "I am ………………………. for my mother to come.",
+            "description": "Hoping is used with for.",
+            "answers": [
+                "waiting",
+                "expecting"
+            ],
+            "correct": 0,
+            "id": "04303c984aed4dc499f4e94cfda645b7"
+        },
+        {
+            "question": "You can trust him. He will never go …………………….. on his promise.",
+            "description": "To go back on a promise is to fail to keep it. ",
+            "answers": [
+                "down",
+                "back",
+                "off"
+            ],
+            "correct": 1,
+            "id": "ffdf0c94a0954ce082fbdf0a276bd053"
+        },
+        {
+            "question": "The ship hit an iceberg and went …………………..",
+            "description": "When a ship goes down, it sinks.",
+            "answers": [
+                "off",
+                "in",
+                "down"
+            ],
+            "correct": 2,
+            "id": "8038c8e1201b45b5ae5f0b67613c18ac"
+        },
+        {
+            "question": "We cannot go out until the wind goes …………………………",
+            "description": "When wind goes down, it becomes calm again.",
+            "answers": [
+                "off",
+                "out",
+                "down"
+            ],
+            "correct": 2,
+            "id": "29218e7b65a744c78e6c6fa4a9d86631"
+        },
+        {
+            "question": "You don’t need …………………….. the roof this year.",
+            "description": "When need is an ordinary verb, it is followed by an infinitive with to. ",
+            "answers": [
+                "repair",
+                "repairing",
+                "to repair"
+            ],
+            "correct": 2,
+            "id": "a3be190a26ac48248b2c1873f87a1082"
+        },
+        {
+            "question": "He will …………………………… start coming on time.",
+            "description": "You cannot use must after will. ",
+            "answers": [
+                "must",
+                "have to",
+                "need to"
+            ],
+            "correct": 2,
+            "id": "909e7600400b4e6bb0f3809c6baae51b"
+        },
+        {
+            "question": "There was ……………………… traffic that it took an hour to reach office.",
+            "description": "Much is unusual in affirmative clauses unless it is preceded by so. ",
+            "answers": [
+                "so",
+                "so much",
+                "much"
+            ],
+            "correct": 1,
+            "id": "874b53497677403f919880403e4c4ee7"
+        },
+        {
+            "question": "Good bye. See you ……………………...",
+            "description": "There is no preposition or article before next week, tomorrow, last year etc. ",
+            "answers": [
+                "next month",
+                "the next month",
+                "in the next month"
+            ],
+            "correct": 0,
+            "id": "51a171d6f6c145a686c7dc75644392e7"
+        }
+    ]
+}

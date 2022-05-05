@@ -1,0 +1,138 @@
+{
+    "id": "7c61023754dd4e9996ca66da24bbee06",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "As soon as she saw me she ……………………. towards me.",
+            "description": "When the main verb is in the past tense, the verb in the subordinate clause too will usually be in the past tense. ",
+            "answers": [
+                "rushed",
+                "was rushing",
+                "rushes"
+            ],
+            "correct": 0,
+            "id": "50710854574847deba4433778d05c57f"
+        },
+        {
+            "question": "He ………………………. in a bank.",
+            "description": "We use the simple present to talk about permanent situations. ",
+            "answers": [
+                "works",
+                "work",
+                "is working"
+            ],
+            "correct": 0,
+            "id": "c7d57e75b45148edb412cb75c3d68e86"
+        },
+        {
+            "question": "The injured ……………………….. to hospital.",
+            "description": "We use a passive verb here because the subject is not the doer of the action.",
+            "answers": [
+                "took",
+                "were taken",
+                "have taken"
+            ],
+            "correct": 1,
+            "id": "125392c1bc7243edb4b9cb1440d97ec7"
+        },
+        {
+            "question": "The child ……………………….. before rescuers managed to reach her.",
+            "description": "The past perfect is used to talk about the earlier of the two past actions. The simple past is also possible here because the order in which the actions took place is indicated using the conjunction before. ",
+            "answers": [
+                "died",
+                "had died",
+                "has died"
+            ],
+            "correct": 1,
+            "id": "9529988703f84fd2a2ba72d223e8afd2"
+        },
+        {
+            "question": "I ……………………………. her only once or twice.",
+            "description": "The present perfect is used with the meaning up until now.",
+            "answers": [
+                "met",
+                "have met",
+                "meet"
+            ],
+            "correct": 1,
+            "id": "df37a4dfbf9946c9a1daa3089defe751"
+        },
+        {
+            "question": "There ……………………………. a museum in that corner.",
+            "description": "Used to can indicate past habits and states.",
+            "answers": [
+                "used to be",
+                "was used to be",
+                "using to be"
+            ],
+            "correct": 0,
+            "id": "72d5a7641e684c3bae7fd80963c0de7d"
+        },
+        {
+            "question": "She …………………………… for a job since she left college.",
+            "description": "The present perfect continuous is used to talk about an action or situation that started in the past and has continued up to the present. ",
+            "answers": [
+                "has been searching",
+                "is searching",
+                "has searching"
+            ],
+            "correct": 0,
+            "id": "a22300c66a9e42c18652c0d30828b530"
+        },
+        {
+            "question": "Heat …………………………. bodies.",
+            "description": "",
+            "answers": [
+                "expand",
+                "expands",
+                "is expanding"
+            ],
+            "correct": 1,
+            "id": "b083cc03d15d422d9e737a7a54627ed1"
+        },
+        {
+            "question": "The earth ………………………. 365 days to revolve around the sun.",
+            "description": "The simple present is used to talk about facts. ",
+            "answers": [
+                "takes",
+                "took",
+                "has taken"
+            ],
+            "correct": 0,
+            "id": "d92f8dbddf7b4a9abdccf39c0c7c668a"
+        },
+        {
+            "question": "If I had run a bit faster, I …………………………… him.",
+            "description": "The simple present is used to talk about facts. ",
+            "answers": [
+                "can overtake",
+                "could overtake",
+                "could have overtaken"
+            ],
+            "correct": 2,
+            "id": "4404ea3324f84f89bd2c80a5bc7e50b2"
+        },
+        {
+            "question": "She ……………………… seem to be interested in the offer.",
+            "description": "",
+            "answers": [
+                "does not",
+                "do not",
+                "has not"
+            ],
+            "correct": 0,
+            "id": "88b98eb50f424077b736c0d764744cb8"
+        },
+        {
+            "question": "He ……………………………… any interest in politics.",
+            "description": "The present perfect is common with the time expressions always, ever, never etc.",
+            "answers": [
+                "never showed",
+                "has never shown",
+                "never show"
+            ],
+            "correct": 1,
+            "id": "c46dbd969a8d4716bdd1af62fc58b2da"
+        }
+    ]
+}

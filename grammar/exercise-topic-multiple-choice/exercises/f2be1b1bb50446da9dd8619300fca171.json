@@ -1,0 +1,127 @@
+{
+    "id": "f2be1b1bb50446da9dd8619300fca171",
+    "title": "Direct And Indirect Speech Exercise",
+    "questions": [
+        {
+            "question": "Ramesh said that he ....................... his homework.",
+            "description": "",
+            "answers": [
+                "finished",
+                "has finished",
+                "had finished"
+            ],
+            "correct": 2,
+            "id": "c12b3c12329148c3a0c94533ae4efe09"
+        },
+        {
+            "question": "The boy asked his mother ....................... he could watch TV.",
+            "description": "",
+            "answers": [
+                "if",
+                "that",
+                "weather"
+            ],
+            "correct": 0,
+            "id": "4db89d3a882645edbb7d4542fc066e4e"
+        },
+        {
+            "question": "The man asked the passerby if he ....................... help him.",
+            "description": "",
+            "answers": [
+                "will",
+                "would",
+                "can"
+            ],
+            "correct": 1,
+            "id": "ce47a6ef29764aadbfca43fac7cc43e6"
+        },
+        {
+            "question": "The girl said that I ........................ on her seat.",
+            "description": "",
+            "answers": [
+                "am sitting",
+                "was sitting",
+                "have been sitting"
+            ],
+            "correct": 1,
+            "id": "756a4b480fae405fb231db277842bfcb"
+        },
+        {
+            "question": "The man asked the boy where ........................",
+            "description": "",
+            "answers": [
+                "was he going",
+                "he was going",
+                "was going he"
+            ],
+            "correct": 1,
+            "id": "bccbbced44054a30bf77fc6dd0364f43"
+        },
+        {
+            "question": "The girl asked who ......................... her pen.",
+            "description": "",
+            "answers": [
+                "have taken",
+                "had taken",
+                "would take"
+            ],
+            "correct": 1,
+            "id": "ca1653fe93794703b865145e458db98b"
+        },
+        {
+            "question": "The teacher advised the students ..................... hard.",
+            "description": "",
+            "answers": [
+                "to work",
+                "working",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "315d1074a13149f08eba571bb477a3be"
+        },
+        {
+            "question": "The mother told the boy ..................... there.",
+            "description": "",
+            "answers": [
+                "to wait",
+                "waiting",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "59816d8c4ac648cca6decdf627e009fe"
+        },
+        {
+            "question": "The manager asked the clerk ........................... that file to the secretary.",
+            "description": "",
+            "answers": [
+                "to take",
+                "taking",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "1209aaffb781421686620f0e59b642a9"
+        },
+        {
+            "question": "The old man asked me if I ...................... help him.",
+            "description": "",
+            "answers": [
+                "will",
+                "would",
+                "can"
+            ],
+            "correct": 1,
+            "id": "6e5d71023dc74b079a3cec4fd8694138"
+        },
+        {
+            "question": "Ramesh said that he ...................... John the previous day.",
+            "description": "",
+            "answers": [
+                "have seen",
+                "had seen",
+                "would see"
+            ],
+            "correct": 1,
+            "id": "f1f802b5e33446cb8e6e4fcdf1798341"
+        }
+    ]
+}

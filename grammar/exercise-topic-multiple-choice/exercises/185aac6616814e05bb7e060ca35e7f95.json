@@ -1,0 +1,112 @@
+{
+    "id": "185aac6616814e05bb7e060ca35e7f95",
+    "title": "Hear And Listen To",
+    "questions": [
+        {
+            "question": "Did you …………….. the noise?",
+            "description": "",
+            "answers": [
+                "hear",
+                "listen"
+            ],
+            "correct": 0,
+            "id": "35389be656814cb29220cd81063ef805"
+        },
+        {
+            "question": "I was …………………. the news when they came.",
+            "description": "",
+            "answers": [
+                "hearing",
+                "listening to"
+            ],
+            "correct": 1,
+            "id": "11f7290fdea24bbab4173c5ec95247d1"
+        },
+        {
+            "question": "I can’t …………….. you. Can you talk a bit louder?",
+            "description": "",
+            "answers": [
+                "hear",
+                "listen",
+                "listen to"
+            ],
+            "correct": 0,
+            "id": "03c4d18745e94a26a483d2f8b3098dc3"
+        },
+        {
+            "question": "Please ……………… me.",
+            "description": "",
+            "answers": [
+                "hear",
+                "listen",
+                "listen to"
+            ],
+            "correct": 2,
+            "id": "e277581a6f9a47be8aef8803be4f155f"
+        },
+        {
+            "question": "Did you ………………… about the accident?",
+            "description": "",
+            "answers": [
+                "hear",
+                "listen"
+            ],
+            "correct": 0,
+            "id": "4b123b4bc0804b11b5ce340334acab11"
+        },
+        {
+            "question": "I don’t think we can trust him. I have ……………… several strange stories about him.",
+            "description": "",
+            "answers": [
+                "heard",
+                "listened to"
+            ],
+            "correct": 0,
+            "id": "f321e408ac2c441b8ef8c1c878f1e832"
+        },
+        {
+            "question": "You never ………………..  me.",
+            "description": "",
+            "answers": [
+                "listen",
+                "listen to",
+                "hear"
+            ],
+            "correct": 1,
+            "id": "a1d70419018647db840430d73378402c"
+        },
+        {
+            "question": "No one could …………………. what she said.",
+            "description": "",
+            "answers": [
+                "hear",
+                "listen",
+                "listen to"
+            ],
+            "correct": 0,
+            "id": "688519b602bb49de9590598032294c94"
+        },
+        {
+            "question": "We ……………….. the dogs barking outside.",
+            "description": "",
+            "answers": [
+                "heard",
+                "listened",
+                "listened to"
+            ],
+            "correct": 0,
+            "id": "12e0d53b18964b1a853004cc24a7d4ea"
+        },
+        {
+            "question": "When he speaks, everybody ………………..",
+            "description": "",
+            "answers": [
+                "listens",
+                "listens to",
+                "hears"
+            ],
+            "correct": 0,
+            "id": "8f9261fad9154438a22cc7e75e4aafd3"
+        }
+    ]
+}

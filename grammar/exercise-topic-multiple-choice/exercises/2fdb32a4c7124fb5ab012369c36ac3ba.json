@@ -1,0 +1,138 @@
+{
+    "id": "2fdb32a4c7124fb5ab012369c36ac3ba",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "This is the building ....................... is going to be demolished.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "88f566f1fe084ce2b0c99d4c29a92891"
+        },
+        {
+            "question": "The parcel ........................ reached me yesterday was sent by my mother.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "who"
+            ],
+            "correct": 1,
+            "id": "7be9caaeee4242d79249c9165c3fcc0c"
+        },
+        {
+            "question": "I met my uncle .......................... had just returned from Africa.",
+            "description": "",
+            "answers": [
+                "who",
+                "that",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "c15778db84bd4a16ae640094ee83fe65"
+        },
+        {
+            "question": "This is the house ............................ Jack built it.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "dd735a4091814baeba3e5355051751c6"
+        },
+        {
+            "question": "The boys ......................... were watching the match clasped heartily.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "41261f91fce14881bb8670c974713612"
+        },
+        {
+            "question": "The boy ........................ tells lies deserves to be punished.",
+            "description": "Either who or that is possible here.",
+            "answers": [
+                "who",
+                "that",
+                "which"
+            ],
+            "correct": 1,
+            "id": "6d70d3a8994641b98bf0f9434f669ae3"
+        },
+        {
+            "question": "I heard some news ................................ astonished me.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "30a8eb31dbe54615bf88e87d82a56dbe"
+        },
+        {
+            "question": "I know a man ............................ wears prosthetic legs.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "c1e3353210184f2ba94dd6b7fd38c0cf"
+        },
+        {
+            "question": "Give me the book ......................... is on the table.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "de9bcbf9303147b4abb84a41865e74f3"
+        },
+        {
+            "question": "We boarded a bus ....................... was full of people.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "2a02118b68594d6191ce418ea69a5177"
+        },
+        {
+            "question": "He has a friend ...................... is a clever artist.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "9958fe61b76c468fb66a0a1456904efd"
+        },
+        {
+            "question": "He is a well-known man ....................... generosity is the talk of the town.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "9454e70484724387901be40fb4442697"
+        }
+    ]
+}

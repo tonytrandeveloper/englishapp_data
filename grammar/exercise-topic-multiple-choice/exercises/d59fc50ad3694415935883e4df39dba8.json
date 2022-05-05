@@ -1,0 +1,136 @@
+{
+    "id": "d59fc50ad3694415935883e4df39dba8",
+    "title": "Conjunctions Quiz",
+    "questions": [
+        {
+            "question": "I will be ready ................... the time you return.",
+            "description": "By means not later than.",
+            "answers": [
+                "by",
+                "when",
+                "before"
+            ],
+            "correct": 0,
+            "id": "c5e81da0c29d4a55814b06043e4ec41e"
+        },
+        {
+            "question": "You must finish the job ...................... you leave.",
+            "description": "",
+            "answers": [
+                "before",
+                "by",
+                "when"
+            ],
+            "correct": 0,
+            "id": "6b6e6c902743437886c002e515b67a2c"
+        },
+        {
+            "question": "I screamed ..................... I saw the snake.",
+            "description": "The moment means as soon as.",
+            "answers": [
+                "a moment",
+                "the moment"
+            ],
+            "correct": 1,
+            "id": "64920cd9da6d43299b94a364586f06e8"
+        },
+        {
+            "question": "I hurt myself .................... I was hiking yesterday.",
+            "description": "While and when are used to talk about something that happened on one occasion.",
+            "answers": [
+                "while",
+                "whenever",
+                "when"
+            ],
+            "correct": 2,
+            "id": "781cc8deec554ee7b3f2d71bbf9c77a8"
+        },
+        {
+            "question": "I hurt myself ..................... I go hiking.",
+            "description": "",
+            "answers": [
+                "while",
+                "when",
+                "whenever"
+            ],
+            "correct": 2,
+            "id": "84407a993cdf46c9a13c76bc554903a8"
+        },
+        {
+            "question": "I will be ready when you ....................",
+            "description": "When both clauses refer to the future, we use a simple present tense in the subordinate clause.",
+            "answers": [
+                "arrive",
+                "will arrive",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "c3a3b0878f2d4ed89b4c4cca4c176c3e"
+        },
+        {
+            "question": "I stayed an extra day .............................. I could see more places.",
+            "description": "So that indicates purpose. ",
+            "answers": [
+                "hence",
+                "so that",
+                "therefore"
+            ],
+            "correct": 1,
+            "id": "73526c3268fc48fcb5fdd0853ab5ea8d"
+        },
+        {
+            "question": "...................... in doubt, read the instruction manual.",
+            "description": "",
+            "answers": [
+                "If",
+                "Whether"
+            ],
+            "correct": 0,
+            "id": "ebfc0fa17fa24de19297dd9f31678f37"
+        },
+        {
+            "question": "Cook on low flames ....................... the soup is ready.",
+            "description": "",
+            "answers": [
+                "until",
+                "up to",
+                "as long as"
+            ],
+            "correct": 0,
+            "id": "f2a2f05a20ed4d09aed53300dfb9441d"
+        },
+        {
+            "question": "..................... you know, I was never interested in this.",
+            "description": "",
+            "answers": [
+                "As",
+                "That",
+                "So"
+            ],
+            "correct": 0,
+            "id": "fd92855457124329b07a99dba6775b50"
+        },
+        {
+            "question": "The man ...................... she married was an old friend of mine.",
+            "description": "In identifying relative clauses both that and whom can be used to refer to people. ",
+            "answers": [
+                "whom",
+                "that",
+                "which"
+            ],
+            "correct": 1,
+            "id": "8a2939d80e8642c9aa700b05f9107454"
+        },
+        {
+            "question": "She always thanks me for the all favors ....................... I do her.",
+            "description": "A that -clause is more common after words like all or any. ",
+            "answers": [
+                "that",
+                "what",
+                "which"
+            ],
+            "correct": 0,
+            "id": "b39eeb135a3748a8bb0a182a9b6fa3ff"
+        }
+    ]
+}

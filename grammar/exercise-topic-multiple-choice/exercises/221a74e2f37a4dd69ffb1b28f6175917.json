@@ -1,0 +1,139 @@
+{
+    "id": "221a74e2f37a4dd69ffb1b28f6175917",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "We often ………………………. for long drives on the weekend.",
+            "description": "Use the simple present to talk about facts. ",
+            "answers": [
+                "go",
+                "goes",
+                "are going"
+            ],
+            "correct": 0,
+            "id": "b994ef8ae2cf4fbab0f80344be8ee1a9"
+        },
+        {
+            "question": "The Prime Minister ………………………. Russia in August.",
+            "description": "The present continuous is used to talk about a future event if the plan already exists. ",
+            "answers": [
+                "will visit",
+                "is visiting",
+                "visit"
+            ],
+            "correct": 1,
+            "id": "2cdabac4e3dc473bbc5d50f333ae9b1f"
+        },
+        {
+            "question": "Granny’s train ………………………… at",
+            "description": "The simple present is used to talk about a future event that is part of a time table. ",
+            "answers": [
+                "arrives",
+                "will arrive",
+                "is arriving"
+            ],
+            "correct": 0,
+            "id": "21eb60c26bca4fb5926d622e88877c74"
+        },
+        {
+            "question": "He always ………………………. his dogs before he has his breakfast.",
+            "description": "Use the simple present to talk about facts. ",
+            "answers": [
+                "feeds",
+                "is feeding",
+                "feed"
+            ],
+            "correct": 0,
+            "id": "b24f0887ad0b4bedbf4f1b381538db31"
+        },
+        {
+            "question": "We went out although it ……………………….. snowing.",
+            "description": "When the main verb is in the past tense, use a past tense in the subordinate clause as well. ",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 1,
+            "id": "98a06d4f7d844ef9874d2da6cc677cf6"
+        },
+        {
+            "question": "He ……………………… because he could not meet the target.",
+            "description": "A passive verb form is required here because the subject is not the doer of the action. They sacked him because he could not meet his target or He was sacked because he could not meet his target. ",
+            "answers": [
+                "sacked",
+                "was sacking",
+                "has sacked",
+                "was sacked"
+            ],
+            "correct": 3,
+            "id": "12a0617e4e5d46b7b7f4cf72e3768b84"
+        },
+        {
+            "question": "During the holidays, I ……………………. a lot of eating and sleeping.",
+            "description": "",
+            "answers": [
+                "does",
+                "did",
+                "had"
+            ],
+            "correct": 1,
+            "id": "a0fe7e2447fd414c95cf313bbb009956"
+        },
+        {
+            "question": "We …………………… to Thailand for the summer holidays.",
+            "description": "Use the present continuous to talk about a future event if the plan already exists.",
+            "answers": [
+                "go",
+                "are going",
+                "have gone"
+            ],
+            "correct": 1,
+            "id": "3f0f4d3a14e24c22b030d08e0bfb0a50"
+        },
+        {
+            "question": "She ……………………….. a favor of anybody.",
+            "description": "The present perfect is used to talk about time up to now. It is common with ever and never.",
+            "answers": [
+                "never ask",
+                "has never asked",
+                "was never asked"
+            ],
+            "correct": 1,
+            "id": "bd8fad7aff0047d7bb704d7529a999ee"
+        },
+        {
+            "question": "You never let me ................................. anything.",
+            "description": "",
+            "answers": [
+                "do",
+                "doing",
+                "to do"
+            ],
+            "correct": 0,
+            "id": "41021254311248f480d7e10c775c14b1"
+        },
+        {
+            "question": "I …………………….. taking care of very young children.",
+            "description": "Use the simple present to talk about likes and dislikes. ",
+            "answers": [
+                "don't enjoy",
+                "doesn't enjoy",
+                "am not enjoying"
+            ],
+            "correct": 0,
+            "id": "a3518d8755e14e13a0752fd1cfee3542"
+        },
+        {
+            "question": "He ………………………… at the gate for a long time.",
+            "description": "Use the present perfect to talk about an action or situation that started in the past and has continued up to the present. ",
+            "answers": [
+                "has been waiting",
+                "is waiting",
+                "waits"
+            ],
+            "correct": 0,
+            "id": "7c22ef4f04ed4fe696bfe4d27b9684e6"
+        }
+    ]
+}

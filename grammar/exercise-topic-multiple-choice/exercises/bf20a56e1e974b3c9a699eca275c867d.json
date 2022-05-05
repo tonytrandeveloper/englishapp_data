@@ -1,0 +1,137 @@
+{
+    "id": "bf20a56e1e974b3c9a699eca275c867d",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "Janet …………………………… in the countryside.",
+            "description": "The simple present is used to talk about permanent situations. ",
+            "answers": [
+                "lives",
+                "live",
+                "is living"
+            ],
+            "correct": 0,
+            "id": "2b25b4dc89ac4e9d97af7e7ea0120533"
+        },
+        {
+            "question": "She ……………………… feeding cats and dogs.",
+            "description": "The simple present is used to talk about people's likes, dislikes, habits, routines etc. ",
+            "answers": [
+                "enjoy",
+                "enjoys",
+                "is enjoying"
+            ],
+            "correct": 1,
+            "id": "c47b9b2e72eb419d8095f972913423fc"
+        },
+        {
+            "question": "Call me the moment you …………………………… the results.",
+            "description": "",
+            "answers": [
+                "get",
+                "gets",
+                "will get"
+            ],
+            "correct": 0,
+            "id": "a92b7a5183ae413483c8c76afbabe60c"
+        },
+        {
+            "question": "If only you hadn’t called the police, everything ………………………………….. all right.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause.",
+            "answers": [
+                "will be",
+                "would be",
+                "would have been"
+            ],
+            "correct": 2,
+            "id": "d2219ea1d96c430cb2e98f733cf3b37e"
+        },
+        {
+            "question": "If I were you, I ……………………….. that car serviced.",
+            "description": "In type 2 conditional, use a simple past in the if-clause and would + bare infinitive in the main clause.",
+            "answers": [
+                "will get",
+                "would get",
+                "would have got"
+            ],
+            "correct": 1,
+            "id": "723349491d104269902cb5cb66ac300d"
+        },
+        {
+            "question": "‘What are you doing?’ ‘I ………………………….. a bath.’",
+            "description": "The present continuous is used to talk about an ongoing action or situation. ",
+            "answers": [
+                "have",
+                "am having"
+            ],
+            "correct": 1,
+            "id": "f7ea6f56107748cbab417c23fdb5e28b"
+        },
+        {
+            "question": "We ……………………………. here for twenty years by next Christmas.",
+            "description": "",
+            "answers": [
+                "will be living",
+                "will have been living",
+                "would be living"
+            ],
+            "correct": 1,
+            "id": "967dd399d6234fd4b893d95220af46dc"
+        },
+        {
+            "question": "I ………………………….. them since Monday.",
+            "description": "",
+            "answers": [
+                "didn't see",
+                "haven't seen",
+                "hadn't seen"
+            ],
+            "correct": 1,
+            "id": "3ed1f59344924cbf90e644763c820c95"
+        },
+        {
+            "question": "I …………………………….. since morning and I am getting tired.",
+            "description": "The present perfect continuous is used to talk about an action or situation that started in the past and has continued up to the present.",
+            "answers": [
+                "am working",
+                "have been working",
+                "was working"
+            ],
+            "correct": 1,
+            "id": "74b75e36c3394ba1b005e1a71a2a213d"
+        },
+        {
+            "question": "They ……………………………. to their native place next week.",
+            "description": "The present continuous is used to talk about preplanned future events. ",
+            "answers": [
+                "move",
+                "are moving",
+                "will move"
+            ],
+            "correct": 1,
+            "id": "e48ae5b3f0c84c9d896dd756b5aad7c1"
+        },
+        {
+            "question": "She asked me if I ……………………………. her key.",
+            "description": "A present perfect in the direct question becomes past perfect in the reported question. ",
+            "answers": [
+                "saw",
+                "have seen",
+                "had seen"
+            ],
+            "correct": 2,
+            "id": "7f0b42a3ce5e4ba08dfb54f5d89d9b3f"
+        },
+        {
+            "question": "He ……………………………….. a shelter for sick and abandoned dogs and cats.",
+            "description": "",
+            "answers": [
+                "runs",
+                "is running",
+                "run"
+            ],
+            "correct": 0,
+            "id": "8677ec6b156c49ea9775449461b688a5"
+        }
+    ]
+}

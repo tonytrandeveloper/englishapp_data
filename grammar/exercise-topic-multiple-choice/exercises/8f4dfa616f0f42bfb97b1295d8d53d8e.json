@@ -1,0 +1,138 @@
+{
+    "id": "8f4dfa616f0f42bfb97b1295d8d53d8e",
+    "title": "Gerund Or Infinitive",
+    "questions": [
+        {
+            "question": "She advised him …………………………. medicine.",
+            "description": "Advise is followed by object + to-infinitive.",
+            "answers": [
+                "study",
+                "to study",
+                "studying"
+            ],
+            "correct": 1,
+            "id": "d2bfddf88161411fabb6ca547bc974e6"
+        },
+        {
+            "question": "They warned us …………………………….. late.",
+            "description": "The negative form of the infinitive is made by putting not before to.",
+            "answers": [
+                "to not be",
+                "not to be",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "6b59f86902164cf6bb0fefcac1150911"
+        },
+        {
+            "question": "Who taught you ……………………………..?",
+            "description": "Teach is followed by object + to-infinitive.",
+            "answers": [
+                "swim",
+                "to swim",
+                "swimming"
+            ],
+            "correct": 1,
+            "id": "c8a312af2755464fbd5996e8236ba401"
+        },
+        {
+            "question": "You must not miss ……………………………… him.",
+            "description": "Miss is followed by an ing form.",
+            "answers": [
+                "to see",
+                "see",
+                "seeing"
+            ],
+            "correct": 2,
+            "id": "ee3c2aa9c6ec4788ab17898c46cba4a0"
+        },
+        {
+            "question": "I cannot permit you ……………………………..",
+            "description": "Permit is followed by object + to-infinitive.",
+            "answers": [
+                "go",
+                "going",
+                "to go"
+            ],
+            "correct": 2,
+            "id": "4ac13cae601c417eae6be8a7cc88670a"
+        },
+        {
+            "question": "I suggest …………………………….. a doctor.",
+            "description": "Suggest is followed by an ing form.",
+            "answers": [
+                "consulting",
+                "to consult",
+                "consult"
+            ],
+            "correct": 0,
+            "id": "6717ae980293422fab97c5b1253b5b67"
+        },
+        {
+            "question": "I saw him ……………………………. over the wall.",
+            "description": "After see, we can use an ing form or an infinitive without to.",
+            "answers": [
+                "jump",
+                "jumping",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "a0693ada234c4a40b39cb118d9b8cdf5"
+        },
+        {
+            "question": "I can smell something …………………………",
+            "description": "Smell is followed by an ing form or an infinitive without to.",
+            "answers": [
+                "to burn",
+                "burning",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "c8ea6ec45baa417291372a321120722e"
+        },
+        {
+            "question": "She caught him ……………………………… her letters.",
+            "description": "Catch is followed by an ing form or an infinitive without to.",
+            "answers": [
+                "to read",
+                "reading",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "9ab3cbcfa05f40acb8c7ed32bf70c953"
+        },
+        {
+            "question": "She kept the fire ……………………………………",
+            "description": "Keep is followed by an ing form.",
+            "answers": [
+                "burning",
+                "to burn",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "5fdc8c23b07e4d08a8ac0566868d82a4"
+        },
+        {
+            "question": "They made him …………………………………..",
+            "description": "Make is followed by an infinitive without to.",
+            "answers": [
+                "to apologize",
+                "apologize",
+                "apologizing"
+            ],
+            "correct": 1,
+            "id": "216e940f36fb4afc96873a589c5d17f4"
+        },
+        {
+            "question": "We found the house ………………………….",
+            "description": "Here the meaning is passive – the house was deserted. Hence the past participle is used after find.",
+            "answers": [
+                "to desert",
+                "deserting",
+                "deserted"
+            ],
+            "correct": 2,
+            "id": "241b9bd0e5a244a8960da9dcb546cbe9"
+        }
+    ]
+}

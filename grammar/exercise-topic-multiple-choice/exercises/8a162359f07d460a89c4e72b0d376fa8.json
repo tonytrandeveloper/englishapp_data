@@ -1,0 +1,116 @@
+{
+    "id": "8a162359f07d460a89c4e72b0d376fa8",
+    "title": "Intransitive Phrasal Verbs Exercise",
+    "questions": [
+        {
+            "question": "The car …………………….. on the way to work.",
+            "description": "",
+            "answers": [
+                "broke down",
+                "broke off",
+                "broke away"
+            ],
+            "correct": 0,
+            "id": "c25b88848192485fb3ac772ae6a34ba9"
+        },
+        {
+            "question": "All songs in that film are …………………….. with youngsters.",
+            "description": "",
+            "answers": [
+                "catching on",
+                "catching up",
+                "catching off"
+            ],
+            "correct": 0,
+            "id": "be265f66e83b4596b62144afd4a9bd12"
+        },
+        {
+            "question": "I don’t want to …………………….. here ever again.",
+            "description": "",
+            "answers": [
+                "come back",
+                "come in",
+                "come on"
+            ],
+            "correct": 0,
+            "id": "67227786837945399f9405d7ef8f6773"
+        },
+        {
+            "question": "The thieves must have …………………….. through the back door.",
+            "description": "",
+            "answers": [
+                "come on",
+                "come in",
+                "come up"
+            ],
+            "correct": 1,
+            "id": "72c3ab0edd794c6ab065a244750b3250"
+        },
+        {
+            "question": "He was hit hard on the head, but …………………….. again after a few minutes.",
+            "description": "",
+            "answers": [
+                "came off",
+                "came at",
+                "came to"
+            ],
+            "correct": 2,
+            "id": "060af58fa78a4228b2950e675faaf504"
+        },
+        {
+            "question": "Julie had promised to …………………….., but she never did.",
+            "description": "",
+            "answers": [
+                "come in",
+                "come up",
+                "come over"
+            ],
+            "correct": 2,
+            "id": "209034a24a0747a787ef814333bd9b6f"
+        },
+        {
+            "question": "I absolutely like it when old friends ……………………..",
+            "description": "",
+            "answers": [
+                "drop at",
+                "drop by",
+                "drop off"
+            ],
+            "correct": 1,
+            "id": "83aa5633ea614225a2a00456743d7938"
+        },
+        {
+            "question": "He earns just enough to ……………………..",
+            "description": "",
+            "answers": [
+                "get by",
+                "get away",
+                "get off"
+            ],
+            "correct": 0,
+            "id": "c5dcbcfb948644aa851116b83522a5ff"
+        },
+        {
+            "question": "Granny tried to …………………….., but she couldn’t do it on her own.",
+            "description": "",
+            "answers": [
+                "get on",
+                "get up",
+                "get to"
+            ],
+            "correct": 1,
+            "id": "6eafa2d871694130b96375a9aea183a6"
+        },
+        {
+            "question": "I don’t want to …………………. to that country ever again.",
+            "description": "",
+            "answers": [
+                "go back",
+                "go away",
+                "go in"
+            ],
+            "correct": 0,
+            "id": "a09b34a9153f447199d23f39ebfb22e7"
+        }
+    ]
+}

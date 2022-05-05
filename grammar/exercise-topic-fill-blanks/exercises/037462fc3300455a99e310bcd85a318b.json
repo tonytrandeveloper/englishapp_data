@@ -1,0 +1,387 @@
+{
+    "id": "037462fc3300455a99e310bcd85a318b",
+    "title": "Future Continuous Questions",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will I be sitting"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(I/sit) here?"
+                }
+            ],
+            "id": "e81d36b287ca48f0bccfd3dfb1efd8cc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will John be using"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(John/use) the computer?"
+                }
+            ],
+            "id": "ea2ba936e5a9492e96d1862d9d67c55a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will Jane and Luke be discussing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(Jane and Luke/discuss) the new project?"
+                }
+            ],
+            "id": "5f73f6e187f04d94bc7a4b908f2eb66a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will we be working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(we/work) hard?"
+                }
+            ],
+            "id": "0a2b34caf75b4b72b2131466c3131b42"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will you be talking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/talk) on the telephone?"
+                }
+            ],
+            "id": "916e19ab96554967aac562d9a4238bdc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will she be sending"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/send) an email?"
+                }
+            ],
+            "id": "bce6347156344a749c6d0b5fe8e97ba6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will they be having"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(they/have) a meeting?"
+                }
+            ],
+            "id": "adf395b5fd3e4f0c939e9f47037ccc1a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will he be eating"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(he/eat) lunch?"
+                }
+            ],
+            "id": "f7c00b8ca93445fcb94ed571d8e49564"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will you be typing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/type)?"
+                }
+            ],
+            "id": "56749f453d0049ab816a9d3d0b8505e0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will he be making"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(he/make) coffee?"
+                }
+            ],
+            "id": "d13800faddf34fa097b8fa376f37655b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, where"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will I be waiting"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(I/wait)?"
+                }
+            ],
+            "id": "f614d9e3c1ef41b18ce4c161a06db559"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, what"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will you be doing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/do)?"
+                }
+            ],
+            "id": "21e74efae6754f09be195819d87076ce"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, why"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will he be studying"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(he/study)?"
+                }
+            ],
+            "id": "4c563e5dbe714cc3ad247596a7ca87e9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, how"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will she be travelling",
+                        "will she be traveling"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/travel)?"
+                }
+            ],
+            "id": "a100317901854215b6e45de387a317d3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, who"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will they be meeting"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(they/meet)?"
+                }
+            ],
+            "id": "0b453e90c4104f46b569fe5c69b88632"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, where"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will we be eating"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(we/eat)?"
+                }
+            ],
+            "id": "a6165ab1303c4ef8a6f7c28040d26df5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, what"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will you be watching"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/watch)?"
+                }
+            ],
+            "id": "36b3f8ca45694e80b2b496f2904f1702"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, why"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will he be driving"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(he/drive)?"
+                }
+            ],
+            "id": "5d853fd7f034472298c4147b575fa5d8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, what"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will she be cooking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/cook)?"
+                }
+            ],
+            "id": "e71126b3464b48f985400c134cc21617"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, why"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will they be sleeping"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(they/sleep)?"
+                }
+            ],
+            "id": "08cd82a984e54336b6c7b23198a9a0cc"
+        }
+    ]
+}

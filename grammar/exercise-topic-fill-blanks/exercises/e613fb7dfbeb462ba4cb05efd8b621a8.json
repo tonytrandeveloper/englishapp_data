@@ -1,0 +1,397 @@
+{
+    "id": "e613fb7dfbeb462ba4cb05efd8b621a8",
+    "title": "Future Simple or Present Simple Exercise 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'll call you when I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "arrive"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) at my hotel."
+                }
+            ],
+            "id": "ef73007173f1423687bb3880605d458d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll text",
+                        "will text"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(text) you as soon as he's on the bus."
+                }
+            ],
+            "id": "81d85efa039e452d80483293c4e7898e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Let's eat dinner when John"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "gets"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get) here."
+                }
+            ],
+            "id": "a4b9d806b8f94d43a3864b0ec1388283"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be",
+                        "will be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) late tomorrow evening, so I've booked a table at a restaurant for 10pm."
+                }
+            ],
+            "id": "9e3b3978849042d2a07c46e9361fd1c1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "As soon as I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'m",
+                        "am"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) able to, I'm going to get a new job."
+                }
+            ],
+            "id": "986aaf690d0742f7bc533ae9fd66b1f2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please wait here until the nurse"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "calls"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(call) you."
+                }
+            ],
+            "id": "09375a34a391481d96e65492da586833"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll get",
+                        "will get"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get) up early tomorrow morning and finish the report then."
+                }
+            ],
+            "id": "c47f1cdbc4784004bfb2e3e08a9c6501"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Before you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "leave"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) , please make sure you've locked the door."
+                }
+            ],
+            "id": "42dc64731ac34600bfde65eed79fd982"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll let",
+                        "will let"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(let) us know later, when she's ready to leave."
+                }
+            ],
+            "id": "eb4e3ffe37c4458295b6e4306416d8dd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I must clean my kitchen before my mother"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "gets"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get) here."
+                }
+            ],
+            "id": "5fd985a4c91e403e90b26e9435805037"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll come",
+                        "will come"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(come) to meet you at the station next weekend."
+                }
+            ],
+            "id": "4052611524714bf49f78b26c697ebae1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll wait",
+                        "will wait"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(wait) until you're finished - then we can go."
+                }
+            ],
+            "id": "75a31ab101374c0e8ce0c53e51d6cc5c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll study",
+                        "will study"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) until he knows all the answers."
+                }
+            ],
+            "id": "54994d1f3d354ac090213e7af3c5ea8b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She thinks that it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will rain",
+                        "'ll rain"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(rain) next weekend."
+                }
+            ],
+            "id": "0abad10942984ad98a692b66eb075749"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What do you want to do after the class"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "finishes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(finish)?"
+                }
+            ],
+            "id": "70ed3ba482d84754b954cfdbb0ae395b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I think that the Democrats"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will win",
+                        "'ll win"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(win) the next election."
+                }
+            ],
+            "id": "561764816bf7403280e1c2d8a4c3aee3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny will come here after she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "finishes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(finish) work."
+                }
+            ],
+            "id": "053ed88985be499dbd4a4aa4120191aa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She's going to look for a job as soon as she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "arrives"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) in London."
+                }
+            ],
+            "id": "bb267fc8b47d442381cc2b435ed8d7ea"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will give"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(give) up smoking!"
+                }
+            ],
+            "id": "08720391b7f940d2903aff9c652170ab"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll send",
+                        "will send"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(send) me an email before she leaves the office today."
+                }
+            ],
+            "id": "da67ebe6e9c44abfb492078da40bb16a"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "544ad2c0b88d44a8804a95498d4bc869",
+    "title": "Omission Of That",
+    "questions": [
+        {
+            "question": "Samuel ……………………… he was quitting.",
+            "description": "That can be omitted after common reporting verbs.",
+            "answers": [
+                "said",
+                "said that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "660b14cefce741afa22d2af60d5a0a57"
+        },
+        {
+            "question": "I ………………………. you are right.",
+            "description": "That can be omitted after common reporting verbs.",
+            "answers": [
+                "think",
+                "think that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "5789ce5b95124a2faaa5dfd3c5e18dcb"
+        },
+        {
+            "question": "The dentist ……………………….. I should change my toothbrush.",
+            "description": "That can be omitted after common reporting verbs.",
+            "answers": [
+                "suggested",
+                "suggested that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4e78e3e19c394292ba88d36930fd3a20"
+        },
+        {
+            "question": "Rahul ………………………. he was not interested in the offer.",
+            "description": "That cannot be dropped after replied.",
+            "answers": [
+                "replied",
+                "replied that",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "760663930642476e9a40b83ee311145b"
+        },
+        {
+            "question": "She ………………………… she was quitting.",
+            "description": "That cannot be dropped after shout.",
+            "answers": [
+                "shouted",
+                "shouted that",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "b0edb448bf1e477a8bc043424b56c3e9"
+        },
+        {
+            "question": "I agree with the ……………………. education should be free for all.",
+            "description": "That cannot be dropped after nouns.",
+            "answers": [
+                "opinion",
+                "opinion that",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "4741807b7edb4534adbe10877c896db4"
+        },
+        {
+            "question": "I’m ……………………….. you are safe.",
+            "description": "Some adjectives can be followed by that-clauses. That can be left out after common adjectives.",
+            "answers": [
+                "glad",
+                "glad that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "12265a9416594e01b1025c652b04e1d8"
+        },
+        {
+            "question": "We were …………………………… he lost.",
+            "description": "That can be dropped after common adjectives.",
+            "answers": [
+                "surprised",
+                "surprised that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "79d513c90ec644909a4bda66b2f94d19"
+        },
+        {
+            "question": "Come in quietly ……………………….. the child does not wake up.",
+            "description": "That can be left out in some common two-word conjunctions.",
+            "answers": [
+                "so",
+                "so that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "a7db3876410941d3ab66867cb3895ee2"
+        },
+        {
+            "question": "You can borrow my car ……………………….. you bring it back before midnight.",
+            "description": "That can be left out after provided.",
+            "answers": [
+                "provided",
+                "provided that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "f31e96a04dd14adba55b3b35acc2a30b"
+        },
+        {
+            "question": "This is the girl ………………………. met in the store.",
+            "description": "When that is the object of the relative clause it can be left out.",
+            "answers": [
+                "that we",
+                "we",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "e0fce1466ca44261b14d9f5d7a7ce4cc"
+        },
+        {
+            "question": "We were having such a nice time …………………….. extended the holiday by another two days.",
+            "description": "That can be left from such …. that.",
+            "answers": [
+                "that we",
+                "we",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4e72f8ade8d147bbbd3fc920374f8691"
+        }
+    ]
+}

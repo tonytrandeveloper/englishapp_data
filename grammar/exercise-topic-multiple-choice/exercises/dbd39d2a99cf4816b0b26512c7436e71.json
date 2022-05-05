@@ -1,0 +1,138 @@
+{
+    "id": "dbd39d2a99cf4816b0b26512c7436e71",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "Has she got …………… friends?",
+            "description": "Any is a Group B determiner. Group B determiners can be used directly before nouns without of.",
+            "answers": [
+                "any",
+                "any of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "a784ba0489fb4e64a5039813b80067a8"
+        },
+        {
+            "question": "……………….. children love stories.",
+            "description": "Most is a Group B determiner. Group B determiners can be used directly before nouns without of.",
+            "answers": [
+                "Most",
+                "Most of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "fe1fccd20a1c443ebc2cfbead6ff5713"
+        },
+        {
+            "question": "…………….. the shops are closed on Sundays.",
+            "description": "We use ‘most of’ before a noun with an article, possessive or demonstrative.",
+            "answers": [
+                "Most",
+                "Most of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "b8c4c7f985724866b875340f6d775186"
+        },
+        {
+            "question": "……………. philosophy is concerned with life after death.",
+            "description": "We use much of before place names and nouns that refer to a subject or activity.",
+            "answers": [
+                "Much",
+                "Much of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "9c844a0f13b74c2c9afda7e40668786c"
+        },
+        {
+            "question": "…………………. these blouses is loose for me.",
+            "description": "We need ‘of’ before a noun with a determiner. However, we cannot use every before of. We use every one.",
+            "answers": [
+                "Every of",
+                "Every",
+                "Every one of"
+            ],
+            "correct": 2,
+            "id": "1d17dee3146e489795248a3442a94b95"
+        },
+        {
+            "question": "…………. my friends smoke or drink.",
+            "description": "We cannot use ‘no’ before ‘of’. Instead we use none.",
+            "answers": [
+                "No",
+                "No of",
+                "None of"
+            ],
+            "correct": 2,
+            "id": "ddeb632be4a044c584493864f573559f"
+        },
+        {
+            "question": "…………….. his ideas are too complicated for me to understand.",
+            "description": "Before a noun with a determiner, all and all of can both be used.",
+            "answers": [
+                "All",
+                "All of",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4037d68390f243229e7e619967e4a9e5"
+        },
+        {
+            "question": "I have invited …………… them to my party.",
+            "description": "Before a pronoun we use all of.",
+            "answers": [
+                "all",
+                "all of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "14ab26f8e3d8440f94ec49767185ed68"
+        },
+        {
+            "question": "……………. these keys opens the door.",
+            "description": "We need ‘of’ before a noun with a determiner.",
+            "answers": [
+                "Neither",
+                "Neither of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "83723468bcf7480c8deace275d3ab1a5"
+        },
+        {
+            "question": "…………… my parents like traveling.",
+            "description": "Before a noun with a determiner both and both of can both be used.",
+            "answers": [
+                "Both",
+                "Both of",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "7693371a7746422b954391cedd4af609"
+        },
+        {
+            "question": "Janet earns …………… money in my family.",
+            "description": "The most is the superlative of much. Most is used without of before a noun with no determiner.",
+            "answers": [
+                "most",
+                "the most",
+                "the most of"
+            ],
+            "correct": 1,
+            "id": "1da544451a544aeabc47ecf3df9b078a"
+        },
+        {
+            "question": "You may take ……………… these shirts.",
+            "description": "",
+            "answers": [
+                "either",
+                "either of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "9cc34603fa694dd3bd63397d156ca21f"
+        }
+    ]
+}

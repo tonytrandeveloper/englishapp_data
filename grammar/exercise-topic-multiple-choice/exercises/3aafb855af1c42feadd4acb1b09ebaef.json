@@ -1,0 +1,123 @@
+{
+    "id": "3aafb855af1c42feadd4acb1b09ebaef",
+    "title": "Pronouns Exercise",
+    "questions": [
+        {
+            "question": "She ………………………….. cooked dinner.",
+            "description": "We use emphatic pronouns for emphasis.",
+            "answers": [
+                "herself",
+                "herselves"
+            ],
+            "correct": 0,
+            "id": "4a0ca3b2540d467ba040fda9bb8f619e"
+        },
+        {
+            "question": "I injured ………………………… while playing.",
+            "description": "The reflexive pronoun is used when the subject and object refer to the same person or thing.",
+            "answers": [
+                "me",
+                "myself"
+            ],
+            "correct": 1,
+            "id": "96a3b8dd5b604b15a7470bd2d051e7fc"
+        },
+        {
+            "question": "………………………… of these arguments is valid.",
+            "description": "Both should be followed by a plural verb.",
+            "answers": [
+                "Neither",
+                "Both"
+            ],
+            "correct": 0,
+            "id": "82c00a43e9164c06bf7a311d9f27f64f"
+        },
+        {
+            "question": "The girl lost a ring ………………………….. was made of gold.",
+            "description": "In identifying relative clauses both which and that can refer to things.",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "5299a43158734b409cba6dc9492e8e02"
+        },
+        {
+            "question": "This is my friend ……………………….. you met yesterday.",
+            "description": "Who is possible here in an informal style. ",
+            "answers": [
+                "whom",
+                "which",
+                "who"
+            ],
+            "correct": 0,
+            "id": "6b77c5f363b941c08e03cb5ecf35fc8b"
+        },
+        {
+            "question": "The tiger …………………………. was captured last month is now kept in a zoo.",
+            "description": "In identifying relative clauses both that and which can refer to animals.",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ed0e0a6fd7bf453c882f6d87e1cadd18"
+        },
+        {
+            "question": "I saw a man ………………………….. had lost his arms.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "whose"
+            ],
+            "correct": 0,
+            "id": "edfa601ad3ee4738b076bbbc74d57e4d"
+        },
+        {
+            "question": "Abraham Lincoln was the best President ………………………… ever ruled America.",
+            "description": "In identifying relative clauses, both who and that can refer to people. ",
+            "answers": [
+                "who",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "06b3c852aef5454282a4551a2ec57b1e"
+        },
+        {
+            "question": "The man ………………………… they caught was a thief.",
+            "description": "",
+            "answers": [
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "d68f109805f64c04bfaf04b7f9e9ec7d"
+        },
+        {
+            "question": "I saw a girl …………………………. eyes were green.",
+            "description": "Whose is a possessive relative pronoun. It can replace words like her, his etc. ",
+            "answers": [
+                "who's",
+                "whose",
+                "that"
+            ],
+            "correct": 1,
+            "id": "ca6705f9d9cc4eeaa545dd3c343316e1"
+        },
+        {
+            "question": "………………………….. of these methods work.",
+            "description": "Both is followed by a plural verb.",
+            "answers": [
+                "Either",
+                "Neither",
+                "Both"
+            ],
+            "correct": 2,
+            "id": "a55621c0fc85413fa12f0cc3be38e2da"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "2630f09a1d6543f2814cce39fc05209d",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "We …………………………… to Greece next summer.",
+            "description": "We use the present continuous tense to talk about pre-planned future events.",
+            "answers": [
+                "go",
+                "will go",
+                "are going"
+            ],
+            "correct": 2,
+            "id": "357263637d4a48859d161ed5bea20326"
+        },
+        {
+            "question": "I knew she ………………………….. before long.",
+            "description": "When the verb in the main clause is in the past tense, we use a past tense in the subordinate clause as well.",
+            "answers": [
+                "will arrive",
+                "would arrive",
+                "can arrive"
+            ],
+            "correct": 1,
+            "id": "310bca34609541809a9f9a2d2ca92b1d"
+        },
+        {
+            "question": "The Prime Minister ……………………………. London in December.",
+            "description": "We use the simple present to talk about plans and schedules.",
+            "answers": [
+                "visits",
+                "would visit",
+                "is to visit"
+            ],
+            "correct": 2,
+            "id": "34f7c409b2964085b5b675215117607d"
+        },
+        {
+            "question": "Phone me when you ………………………….",
+            "description": "In the subordinate clause we often use a present tense to refer to future.",
+            "answers": [
+                "arrive",
+                "will arrive",
+                "would arrive"
+            ],
+            "correct": 0,
+            "id": "1b9618b8826646468044da6c997dc09a"
+        },
+        {
+            "question": "‘I’m hungry.’ ‘I …………………………….. you something to eat.’",
+            "description": "We use the simple future to tell people about a decision as we make it.",
+            "answers": [
+                "will get",
+                "am getting",
+                "would get"
+            ],
+            "correct": 0,
+            "id": "ea28668490524ea296bb13b12611ad67"
+        },
+        {
+            "question": "…………………………… I open the window?",
+            "description": "Shall I is often used to ask for instructions. ",
+            "answers": [
+                "Shall",
+                "Will",
+                "Would"
+            ],
+            "correct": 0,
+            "id": "f8b4dbc3add449e7b0c2851c28c7d6c9"
+        },
+        {
+            "question": "I …………………………… you tonight.",
+            "description": "We use the simple future to announce our decisions.",
+            "answers": [
+                "will phone",
+                "would phone",
+                "am phoning"
+            ],
+            "correct": 0,
+            "id": "27f7476a810c4854be56869fa909dc7e"
+        },
+        {
+            "question": "I will pay you back when I …………………………….. a job.",
+            "description": "When the verb in the main clause is in the future tense, we use a present tense in the subordinate clause to refer to future.",
+            "answers": [
+                "will get",
+                "get",
+                "would get"
+            ],
+            "correct": 1,
+            "id": "e2c570cab0124ea89511282384fc9b64"
+        },
+        {
+            "question": "By next year, we …………………………………. here for twenty-five years.",
+            "description": "We use the future perfect to say that something will have been achieved by a certain time in the future.",
+            "answers": [
+                "will be",
+                "would be",
+                "will have been"
+            ],
+            "correct": 2,
+            "id": "f58592ec559e4d17ac1d9d1854a16b6c"
+        },
+        {
+            "question": "I ………………………….. break his neck.",
+            "description": "With the first person pronouns we use will in threats. ",
+            "answers": [
+                "will",
+                "shall",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "38fa5cb9e3fc4da1ab06aad3a4b0cc04"
+        },
+        {
+            "question": "I promise I ………………………………. do that again.",
+            "description": "We use will in promises.",
+            "answers": [
+                "don't do",
+                "won't do",
+                "can't do"
+            ],
+            "correct": 1,
+            "id": "96e3d9fb770c41689aba98cd38a456f3"
+        },
+        {
+            "question": "It is no use phoning them now – they ………………………………….. by now.",
+            "description": "The future perfect can also be used to predict the present. ",
+            "answers": [
+                "will leave",
+                "will have left",
+                "would have left"
+            ],
+            "correct": 1,
+            "id": "4638c9d0c85a41eb839a2bae2aa1fd41"
+        }
+    ]
+}

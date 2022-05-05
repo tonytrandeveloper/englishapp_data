@@ -1,0 +1,138 @@
+{
+    "id": "3c7bd42efbc5495fa3ebec367c2748ac",
+    "title": "Irregular Verbs Exercise",
+    "questions": [
+        {
+            "question": "I .......................... the bell twice but no one opened the door.",
+            "description": "Rang is the past tense of ring.",
+            "answers": [
+                "ring",
+                "rang",
+                "rung"
+            ],
+            "correct": 1,
+            "id": "008fa562028e4fa192ee3c58624f15e9"
+        },
+        {
+            "question": "Have you ............................ your violin?",
+            "description": "Brought is the past tense of bring.",
+            "answers": [
+                "bring",
+                "bringed",
+                "brought"
+            ],
+            "correct": 2,
+            "id": "5edc42ffcc944b11b17017d49b641985"
+        },
+        {
+            "question": "Your cat has ........................... all the milk.",
+            "description": "Drunk is the past participle form of drink. We use the past participle after drink.",
+            "answers": [
+                "drink",
+                "drank",
+                "drunk"
+            ],
+            "correct": 2,
+            "id": "cc6cb46fe5244b5cbe73463a4dfe90e1"
+        },
+        {
+            "question": "She ................................ the clothes dry.",
+            "description": "Wrung is the past tense of wring.",
+            "answers": [
+                "wring",
+                "wrung",
+                "wringed"
+            ],
+            "correct": 1,
+            "id": "590e33a25cec4d70a1fcb3682414b1d5"
+        },
+        {
+            "question": "They ............................... a deep well.",
+            "description": "Dug is the past tense of dig.",
+            "answers": [
+                "dig",
+                "dug",
+                "digged"
+            ],
+            "correct": 1,
+            "id": "623ca5adae3549fda7f5aec52cb010ef"
+        },
+        {
+            "question": "I ............................... the whole day in bed.",
+            "description": "Spent is the past tense of spend.",
+            "answers": [
+                "spend",
+                "spent",
+                "spended"
+            ],
+            "correct": 1,
+            "id": "3f9f2a78f50e4f00aa35ce8d3471a090"
+        },
+        {
+            "question": "The place ............................. of damp.",
+            "description": "The past tense of smell can be smelled or smelt. ",
+            "answers": [
+                "smelled",
+                "smelt",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "7ce02f447d0043d4b23cc623088597b6"
+        },
+        {
+            "question": "She ................................ like a star at the party.",
+            "description": "Shone is the past tense of shine.",
+            "answers": [
+                "shine",
+                "shined",
+                "shone"
+            ],
+            "correct": 2,
+            "id": "7be64fc9ce834c7a97347bdf0de612d6"
+        },
+        {
+            "question": "I .............................. some juice on the carpet.",
+            "description": "The past tense of spill is spilled or spilt.",
+            "answers": [
+                "spilled",
+                "spilt",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "0aecbef29a0c45a9bc6a2ac7d2caafa5"
+        },
+        {
+            "question": "Suddenly a brilliant idea ................................. me.",
+            "description": "Struck is the past tense of strike.",
+            "answers": [
+                "strike",
+                "struck",
+                "struk"
+            ],
+            "correct": 1,
+            "id": "ea96a9d7915c48e8a8929c3434c20f44"
+        },
+        {
+            "question": "He was wearing a ................................ shirt.",
+            "description": "Torn is the past tense of tear.",
+            "answers": [
+                "torn",
+                "tored",
+                "tore"
+            ],
+            "correct": 0,
+            "id": "c7a273bc89af47e5909259f988fbdce8"
+        },
+        {
+            "question": "I .............................. up hearing a noise.",
+            "description": "Woke is the past tense of wake.",
+            "answers": [
+                "waked",
+                "woke",
+                "woked"
+            ],
+            "correct": 1,
+            "id": "e56dcf930feb473b8d69cbc9f56f056d"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "f642d1f9a5cd433b9dfe2d4cd3beaace",
+    "title": "Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Whose bag is this? It is …………………………",
+            "description": "Mine is a possessive pronoun it is used alone. My is a possessive adjective. It is followed by a noun.",
+            "answers": [
+                "my",
+                "mine",
+                "me"
+            ],
+            "correct": 1,
+            "id": "0135ab5268ea4a83ae2f64fb676c4bfb"
+        },
+        {
+            "question": "He patted ………………………. on the back.",
+            "description": "When the subject and object refer to the same person, use the reflexive pronoun.",
+            "answers": [
+                "he",
+                "himself",
+                "him"
+            ],
+            "correct": 1,
+            "id": "85e39bb16507435990dace67c8a34b36"
+        },
+        {
+            "question": "Each one of .............................. narrated their own version of the story.",
+            "description": "Use an object pronoun after a preposition. ",
+            "answers": [
+                "they",
+                "them",
+                "their"
+            ],
+            "correct": 1,
+            "id": "b848ba7de6394c25bff65a7569b14d4e"
+        },
+        {
+            "question": "She asked me what ………………………… problem was.",
+            "description": "We use the possessive adjective my to modify the noun problem here. ",
+            "answers": [
+                "I",
+                "me",
+                "my"
+            ],
+            "correct": 2,
+            "id": "936d5384480a4dc292424518778af87e"
+        },
+        {
+            "question": "That child of ……………………………. has broken my window.",
+            "description": "",
+            "answers": [
+                "you",
+                "your",
+                "yours"
+            ],
+            "correct": 2,
+            "id": "17d298808b2a4d3787a062c2c2c981a6"
+        },
+        {
+            "question": "They elected …………………………. their leader.",
+            "description": "A pronoun used as the object of a verb should be in its object form.",
+            "answers": [
+                "he",
+                "him",
+                "his"
+            ],
+            "correct": 1,
+            "id": "8a54da10a45048d8a146e88b66e9d033"
+        },
+        {
+            "question": "I waited for ………………………… but they didn’t come.",
+            "description": "A pronoun used as the object of  preposition should be in its object form.",
+            "answers": [
+                "they",
+                "them",
+                "their"
+            ],
+            "correct": 1,
+            "id": "7fdce94562024fd5ac3ddbe9ae03425b"
+        },
+        {
+            "question": "She is taller than ……………………………. is.",
+            "description": "A pronoun used as the subject of a verb should be in its subject form.",
+            "answers": [
+                "he",
+                "him",
+                "his"
+            ],
+            "correct": 0,
+            "id": "1ebe71ccbb334b529c2a820934ad9559"
+        },
+        {
+            "question": "I don’t want to go with ………………………………",
+            "description": "",
+            "answers": [
+                "he",
+                "him",
+                "his"
+            ],
+            "correct": 1,
+            "id": "270d1fe591d7405fb09b5158f261e2f8"
+        },
+        {
+            "question": "Be careful or you will injure ……………………………",
+            "description": "When the subject and object refer to the same person, use the reflexive pronoun.",
+            "answers": [
+                "you",
+                "yourself",
+                "yours"
+            ],
+            "correct": 1,
+            "id": "d66a16f838ee4d90baf8ed4d128041df"
+        },
+        {
+            "question": "Please do it ………………………….",
+            "description": "",
+            "answers": [
+                "you",
+                "yourself",
+                "your"
+            ],
+            "correct": 1,
+            "id": "16f12ce205284c73873ed2252054bee2"
+        },
+        {
+            "question": "You are no better than ………………………….",
+            "description": "Object pronouns are more common after than and as. ",
+            "answers": [
+                "he",
+                "him",
+                "his"
+            ],
+            "correct": 1,
+            "id": "1bcf854375544736b3ad26b3a68f8585"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "id": "3c22edcdbc744de7ae7ad44ec79540f5",
+    "title": "Bring, Take And Fetch",
+    "questions": [
+        {
+            "question": "Don’t forget to …………………. these documents when you go to the bank.",
+            "description": "",
+            "answers": [
+                "take",
+                "bring",
+                "fetch"
+            ],
+            "correct": 0,
+            "id": "eb31fe445d14419c9d0bc2271e273636"
+        },
+        {
+            "question": "I’m ……………………. you to the doctor.",
+            "description": "",
+            "answers": [
+                "fetching",
+                "taking",
+                "bringing"
+            ],
+            "correct": 1,
+            "id": "ab2030a57c2e43458560ac9fff9a0768"
+        },
+        {
+            "question": "Can you ………………………… me some onions from the market?",
+            "description": "",
+            "answers": [
+                "take",
+                "fetch"
+            ],
+            "correct": 1,
+            "id": "62359016685444109820f400596c76cf"
+        },
+        {
+            "question": "It’s your turn to ……………………….. the kids to the park.",
+            "description": "",
+            "answers": [
+                "bring",
+                "take",
+                "fetch"
+            ],
+            "correct": 1,
+            "id": "7754cff545294fc799f658df5aee2110"
+        },
+        {
+            "question": "The villagers often have to walk miles to ………………………. water.",
+            "description": "",
+            "answers": [
+                "take",
+                "fetch"
+            ],
+            "correct": 1,
+            "id": "fdb5431280664ecba9785f1be88414c2"
+        },
+        {
+            "question": "Can you ....................................... me that file?",
+            "description": "",
+            "answers": [
+                "take",
+                "bring",
+                "fetch"
+            ],
+            "correct": 1,
+            "id": "2d94a8d5b83641f1ac279e4a0c2813dd"
+        },
+        {
+            "question": "I .......................................... my cellphone wherever I go.",
+            "description": "",
+            "answers": [
+                "bring",
+                "take",
+                "fetch"
+            ],
+            "correct": 1,
+            "id": "d1a2bda3bbf640458db94a5cfe3984b5"
+        },
+        {
+            "question": "I always ..................................... an umbrella when I go out.",
+            "description": "",
+            "answers": [
+                "bring",
+                "fetch",
+                "take"
+            ],
+            "correct": 2,
+            "id": "c504b23e2708438684485da6e8dc9f0a"
+        },
+        {
+            "question": "Go and ..................................... that ball.",
+            "description": "",
+            "answers": [
+                "bring",
+                "take",
+                "fetch"
+            ],
+            "correct": 2,
+            "id": "0ceb6d07b1a448a48e6c7751e65769bf"
+        }
+    ]
+}

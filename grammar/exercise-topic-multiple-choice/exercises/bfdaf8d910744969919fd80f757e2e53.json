@@ -1,0 +1,137 @@
+{
+    "id": "bfdaf8d910744969919fd80f757e2e53",
+    "title": "Simple Past Tense Exercise",
+    "questions": [
+        {
+            "question": "She ………………….. her fiancé at a library.",
+            "description": "Met is the past simple form of meet.",
+            "answers": [
+                "meet",
+                "meeted",
+                "met"
+            ],
+            "correct": 2,
+            "id": "d6bde1750335409681f301a517bd8665"
+        },
+        {
+            "question": "I …………………….. some apples yesterday.",
+            "description": "Bought is the past simple form of buy.",
+            "answers": [
+                "buyed",
+                "bought",
+                "buy"
+            ],
+            "correct": 1,
+            "id": "02f92fddff7044ca9ee7eadfa37f939c"
+        },
+        {
+            "question": "She …………………….. to remain a spinster.",
+            "description": "Chose is the past simple form of choose. ",
+            "answers": [
+                "choose",
+                "choosed",
+                "chose"
+            ],
+            "correct": 2,
+            "id": "6dbaca724df140deb9f3f8f8a14dd3ef"
+        },
+        {
+            "question": "The cat ……………………… out of the window.",
+            "description": "Ran is the past simple form of run.",
+            "answers": [
+                "run",
+                "runned",
+                "ran"
+            ],
+            "correct": 2,
+            "id": "0d1db8f6529f408f9b2bc1854571815c"
+        },
+        {
+            "question": "I ……………………… a terrible experience yesterday.",
+            "description": "Had is the past simple form of have. ",
+            "answers": [
+                "had",
+                "have had",
+                "had had"
+            ],
+            "correct": 0,
+            "id": "e0c6bb288dbe4a98a35a41ed6c3d3942"
+        },
+        {
+            "question": "She …………………….. across the river.",
+            "description": "Swam is the past simple form of swim. ",
+            "answers": [
+                "swam",
+                "swimmed",
+                "swamed"
+            ],
+            "correct": 0,
+            "id": "1d9f9a0938d64f889e4494d77fc1f4b7"
+        },
+        {
+            "question": "I ……………………… around but I ……………………… anyone.",
+            "description": "",
+            "answers": [
+                "turn, didn't saw",
+                "turned, didn't see",
+                "turned, didn't saw"
+            ],
+            "correct": 1,
+            "id": "a0e415103fce49a980465fc3f8b8b009"
+        },
+        {
+            "question": "She ………………………….. in a low voice.",
+            "description": "Spoke is the past simple form of speak.",
+            "answers": [
+                "speaked",
+                "spoke",
+                "spoked"
+            ],
+            "correct": 1,
+            "id": "442b43c6dc6643ea9a8e9e1a897b3f0f"
+        },
+        {
+            "question": "I ………………………… the vase accidentally.",
+            "description": "Broke is the past simple form of break.",
+            "answers": [
+                "breaked",
+                "brock",
+                "broke"
+            ],
+            "correct": 2,
+            "id": "15cc99407fa541e7afe04ddcd8b9ffed"
+        },
+        {
+            "question": "The bird ………………………… away.",
+            "description": "Flew is the past simple form of fly. ",
+            "answers": [
+                "flied",
+                "flew",
+                "flyed"
+            ],
+            "correct": 1,
+            "id": "543802a90b3446c9ba78ff1a70d64ba2"
+        },
+        {
+            "question": "I ………………………… the vegetables with a knife.",
+            "description": "Cut is the past and past participle form of cut. ",
+            "answers": [
+                "cut",
+                "cutted"
+            ],
+            "correct": 0,
+            "id": "05ea1bab19a940c79868a64581834df5"
+        },
+        {
+            "question": "She ………………………. the candle out.",
+            "description": "Blew is the past simple form of blow. ",
+            "answers": [
+                "blowed",
+                "blew",
+                "blewed"
+            ],
+            "correct": 1,
+            "id": "37907ae32a6440dea38323e424c0a967"
+        }
+    ]
+}

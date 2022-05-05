@@ -1,0 +1,133 @@
+{
+    "id": "42abf8b5548142c7995fa9c1cd937837",
+    "title": "More And Most",
+    "questions": [
+        {
+            "question": "We need …………………… time to repair the roof.",
+            "description": "We do not use of before a noun when there is no determiner (articles or possessives)",
+            "answers": [
+                "more",
+                "more of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "548a3ec03c53495bb9df39009c12b6ca"
+        },
+        {
+            "question": "It would be nice to explore ……………………….. the countryside.",
+            "description": "Before a noun with a determiner, we use more of.",
+            "answers": [
+                "more",
+                "more of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "c4e49471992047618f9b17c036fdebee"
+        },
+        {
+            "question": "Hundred years ago much ……………………….. America was covered with trees.",
+            "description": "Before personal and geographical names we use more of.",
+            "answers": [
+                "more",
+                "more of"
+            ],
+            "correct": 1,
+            "id": "04677c9735944a3fbcc1b8bdf6dde8ee"
+        },
+        {
+            "question": "One ………………………….. the missing sailors has been found.",
+            "description": "Before a noun with a determiner, we use more of.",
+            "answers": [
+                "more",
+                "more of"
+            ],
+            "correct": 1,
+            "id": "58e94ae747164f0a857652bf054b19e7"
+        },
+        {
+            "question": "You are …………………………….. a fool than I thought.",
+            "description": "Before a noun with a determiner, we use more of.",
+            "answers": [
+                "more",
+                "more of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "de7b2791972a47e3bc8e1e7c25672cc3"
+        },
+        {
+            "question": "As you get older you get ………………………",
+            "description": "In this structure we use a comparative in both clauses.",
+            "answers": [
+                "much tolerant",
+                "more tolerant",
+                "most tolerant"
+            ],
+            "correct": 1,
+            "id": "00593d6ed0354874b6ac473b8b376192"
+        },
+        {
+            "question": "………………………….. cheese is made from cow milk.",
+            "description": "Before a noun without a determiner, we use most.",
+            "answers": [
+                "Most",
+                "Most of",
+                "More"
+            ],
+            "correct": 0,
+            "id": "8ba12a50b01d41648a3376c4ef5da455"
+        },
+        {
+            "question": "……………………………. Indians are Hindus.",
+            "description": "Before a noun with a determiner, we use more of.",
+            "answers": [
+                "Most",
+                "Most of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "9286cb33917146d59273a3e90d5bddc6"
+        },
+        {
+            "question": "The British ruled …………………………. India for about 200 years.",
+            "description": "We use most of before geographical names.",
+            "answers": [
+                "most",
+                "most of"
+            ],
+            "correct": 1,
+            "id": "648662374106403697cd7cfb8e5d77f5"
+        },
+        {
+            "question": "…………………………….. my friends are non-smokers.",
+            "description": "Before a noun with a determiner, we use most of.",
+            "answers": [
+                "Most",
+                "Most of"
+            ],
+            "correct": 1,
+            "id": "ac0be74aa0df42f8bdd28da032009e3c"
+        },
+        {
+            "question": "…………………………….. us want a new system.",
+            "description": "Before pronouns we use most of.",
+            "answers": [
+                "Most",
+                "Most of"
+            ],
+            "correct": 1,
+            "id": "7de7e530468a46298406bdb33df3e873"
+        },
+        {
+            "question": "………………………….. children love chocolates.",
+            "description": "When most means ‘the majority of’, it is used without the.",
+            "answers": [
+                "Most",
+                "Most of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "bda76f02b04749da912c16e241149213"
+        }
+    ]
+}

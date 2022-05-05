@@ -1,0 +1,138 @@
+{
+    "id": "7e8980b2b3d94e22aba486bdeb92bf39",
+    "title": "Sentence Correction Exercise",
+    "questions": [
+        {
+            "question": "He went to work despite of his illness.",
+            "description": "Despite is the preposition. It does not take of after it. ",
+            "answers": [
+                "to",
+                "despite",
+                "of"
+            ],
+            "correct": 2,
+            "id": "006616b93b104566b4173d0e2d9a8f37"
+        },
+        {
+            "question": "Raju, who he is my best friend, is a writer.",
+            "description": "The relative pronoun acts as the subject or object of the relative clause. It replaces words like he, him, they, them etc. It is, therefore, wrong to repeat the pronoun in the relative clause. ",
+            "answers": [
+                "who",
+                "best",
+                "he"
+            ],
+            "correct": 2,
+            "id": "5e45b4737bf642b796543b51745acb8d"
+        },
+        {
+            "question": "No matter what that I do, I can't make her happy.",
+            "description": "",
+            "answers": [
+                "what",
+                "that",
+                "make"
+            ],
+            "correct": 1,
+            "id": "691b3cfd047541f8a7590421dba85d42"
+        },
+        {
+            "question": "She is busy at the work and won't be home before",
+            "description": "The correct expression is 'at work'.",
+            "answers": [
+                "at",
+                "the",
+                "be"
+            ],
+            "correct": 1,
+            "id": "aa37ab9d707a47e98f2fd44e964c45b2"
+        },
+        {
+            "question": "I have decided to quit my job a week ago.",
+            "description": "We do not use the present perfect tense with past time expressions like ago. ",
+            "answers": [
+                "have",
+                "to",
+                "a"
+            ],
+            "correct": 0,
+            "id": "ebfc5ec582ef4d4fa0ef93d72c3d362e"
+        },
+        {
+            "question": "You should complain of if you are not happy with the service you receive.",
+            "description": "The preposition of is not required here. ",
+            "answers": [
+                "of",
+                "if",
+                "with"
+            ],
+            "correct": 0,
+            "id": "b8b09b4d0b5148ce8601601d066e4c3e"
+        },
+        {
+            "question": "You had better not to wake him up when get home.",
+            "description": "Had better is followed by an infinitive without to. ",
+            "answers": [
+                "had",
+                "not",
+                "to"
+            ],
+            "correct": 2,
+            "id": "49232a1cefcd45e69e77614c0d73f701"
+        },
+        {
+            "question": "You should tell to me exactly what happened there.",
+            "description": "There is no preposition between tell and its object. ",
+            "answers": [
+                "should",
+                "to",
+                "what"
+            ],
+            "correct": 1,
+            "id": "175f391e80d54a419adb15d651acb0cb"
+        },
+        {
+            "question": "He is clever but he lacks of experience.",
+            "description": "The verb lack is followed by direct objects without prepositions. ",
+            "answers": [
+                "but",
+                "of",
+                "is"
+            ],
+            "correct": 1,
+            "id": "68acb052588d44ba8f90e5536211b708"
+        },
+        {
+            "question": "She does not resemble to either of her parents.",
+            "description": "Resemble is followed by direct objects without prepositions. ",
+            "answers": [
+                "does",
+                "to",
+                "of"
+            ],
+            "correct": 1,
+            "id": "2c8a5e0cf1f6415ea490b6b0466267d3"
+        },
+        {
+            "question": "I have written to every my friend I have.",
+            "description": "Every cannot be used with possessive adjectives. ",
+            "answers": [
+                "to",
+                "every",
+                "my"
+            ],
+            "correct": 2,
+            "id": "f42faf6aabca4246bd1e60a8ee83358f"
+        },
+        {
+            "question": "I don't speak of either French or German.",
+            "description": "",
+            "answers": [
+                "speak",
+                "of",
+                "either"
+            ],
+            "correct": 1,
+            "id": "c85d9ec3fcd5475bb798f842344fb0c5"
+        }
+    ]
+}

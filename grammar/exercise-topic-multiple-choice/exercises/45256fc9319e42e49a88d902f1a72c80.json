@@ -1,0 +1,133 @@
+{
+    "id": "45256fc9319e42e49a88d902f1a72c80",
+    "title": "Gerund Or Infinitive",
+    "questions": [
+        {
+            "question": "He is addicted ……………….",
+            "description": "Addicted is followed by to + ing form.",
+            "answers": [
+                "to gamble",
+                "to gambling"
+            ],
+            "correct": 1,
+            "id": "646fcae4eb5a4f61a69cbbe5a9e6e118"
+        },
+        {
+            "question": "He is averse ………………… cards.",
+            "description": "Averse is followed by to + ing form.",
+            "answers": [
+                "to play",
+                "to playing"
+            ],
+            "correct": 1,
+            "id": "e5cac5ef9a4b4cadbdb944261cc44522"
+        },
+        {
+            "question": "He went to London ……………… for work.",
+            "description": "",
+            "answers": [
+                "to look",
+                "for looking"
+            ],
+            "correct": 0,
+            "id": "16b27bb3939b4b848ab4d89f60773d3b"
+        },
+        {
+            "question": "I am bent ………………… the meeting.",
+            "description": "Bend is followed by on + ing form.",
+            "answers": [
+                "to attend",
+                "on bending"
+            ],
+            "correct": 1,
+            "id": "06bc3350be654cabb94b59f13b8dce93"
+        },
+        {
+            "question": "He advised us …………………. from that attempt.",
+            "description": "Advised is followed by a to-infinitive.",
+            "answers": [
+                "to desist",
+                "to desisting"
+            ],
+            "correct": 0,
+            "id": "4505801c5244492880e2e4756cd620cf"
+        },
+        {
+            "question": "I expect ……………….. them tomorrow.",
+            "description": "Expect is followed by a to-infinitive.",
+            "answers": [
+                "to meet",
+                "meeting",
+                "to meeting"
+            ],
+            "correct": 0,
+            "id": "51a7aed376d242b8a08362a05925593c"
+        },
+        {
+            "question": "I insisted ………………… my say.",
+            "description": "Insisted is followed by on + ing form.",
+            "answers": [
+                "to have",
+                "on having",
+                "to having"
+            ],
+            "correct": 1,
+            "id": "21d5aa5e7ca54a1ea6e84e33e6faca54"
+        },
+        {
+            "question": "They tried to stop me ………………...",
+            "description": "Stop is followed by from + leaving.",
+            "answers": [
+                "to leave",
+                "from leaving",
+                "to leaving"
+            ],
+            "correct": 1,
+            "id": "9f905075516543fe85cd7a5a64f510b1"
+        },
+        {
+            "question": "He intends …………………. a dictionary.",
+            "description": "Intend is followed by a to-infinitive.",
+            "answers": [
+                "to compile",
+                "at compiling",
+                "to compiling"
+            ],
+            "correct": 0,
+            "id": "acb867e4223c43f19b9a702a16a0d6e1"
+        },
+        {
+            "question": "It is hard ……………….. access to him.",
+            "description": "Hard is followed by an infinitive.",
+            "answers": [
+                "to get",
+                "to getting",
+                "for getting"
+            ],
+            "correct": 0,
+            "id": "46f9dab22e714c0c91b6b2a03bb989a3"
+        },
+        {
+            "question": "He is desirous ………………… the first prize.",
+            "description": "Desirous is followed by of + ing form.",
+            "answers": [
+                "to win",
+                "of winning",
+                "to winning"
+            ],
+            "correct": 1,
+            "id": "1b2d40dd31574fe9bcea53f3acd98961"
+        },
+        {
+            "question": "He was disqualified ………………. for exceeding the speed limit.",
+            "description": "",
+            "answers": [
+                "from driving",
+                "to drive",
+                "to driving"
+            ],
+            "correct": 0,
+            "id": "034e2dd981954a0490a6faaac8ed8f31"
+        }
+    ]
+}

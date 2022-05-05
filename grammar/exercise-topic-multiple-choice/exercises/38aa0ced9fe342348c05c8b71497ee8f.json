@@ -1,0 +1,129 @@
+{
+    "id": "38aa0ced9fe342348c05c8b71497ee8f",
+    "title": "Articles Exercise",
+    "questions": [
+        {
+            "question": "................................. is the capital of China.",
+            "description": "",
+            "answers": [
+                "Beijing",
+                "The Beijing"
+            ],
+            "correct": 0,
+            "id": "c91cfb31249547969f956bf1f156f363"
+        },
+        {
+            "question": "I first met your Dad at ...................................",
+            "description": "",
+            "answers": [
+                "Walmart",
+                "the Walmart"
+            ],
+            "correct": 0,
+            "id": "7a6f37be5e35474fac27def98017e834"
+        },
+        {
+            "question": "He has failed in ....................................",
+            "description": "",
+            "answers": [
+                "English",
+                "the English"
+            ],
+            "correct": 0,
+            "id": "34c1ae924e1d4a40b7fb968662a026c5"
+        },
+        {
+            "question": "She died of ...................................",
+            "description": "",
+            "answers": [
+                "malaria",
+                "the malaria"
+            ],
+            "correct": 0,
+            "id": "8dec9f41ef6247f3a456097da9adb146"
+        },
+        {
+            "question": "She is .......................................... singer I have heard.",
+            "description": "",
+            "answers": [
+                "best",
+                "the best"
+            ],
+            "correct": 1,
+            "id": "a28c24b77b2845a8991d959bb6156bc7"
+        },
+        {
+            "question": "The rose is ........................................ of all flowers.",
+            "description": "",
+            "answers": [
+                "sweetest",
+                "the sweetest"
+            ],
+            "correct": 1,
+            "id": "301404fbe1564af28b3ccd629242b804"
+        },
+        {
+            "question": "...................................... is mortal.",
+            "description": "",
+            "answers": [
+                "The man",
+                "Man",
+                "A man"
+            ],
+            "correct": 1,
+            "id": "7a445727c6f6487bb94a88559487951b"
+        },
+        {
+            "question": "You are in .....................................",
+            "description": "",
+            "answers": [
+                "a trouble",
+                "the trouble",
+                "trouble"
+            ],
+            "correct": 2,
+            "id": "6451dbe29ed04e4fa09c5e0f6d876fca"
+        },
+        {
+            "question": "You are making ....................................... progress.",
+            "description": "",
+            "answers": [
+                "a rapid",
+                "rapid"
+            ],
+            "correct": 1,
+            "id": "1c52b755f2e24ac58f6071506d08d4e6"
+        },
+        {
+            "question": "There is ..................................... scope for improvement.",
+            "description": "",
+            "answers": [
+                "a vast",
+                "vast",
+                "the vast"
+            ],
+            "correct": 1,
+            "id": "d2a3799cf7064995a7285cd3b9fc5df5"
+        },
+        {
+            "question": "Your words are not worth ...................................",
+            "description": "",
+            "answers": [
+                "penny",
+                "a penny"
+            ],
+            "correct": 1,
+            "id": "19f37386fc8146ada44a77638fb7ac8d"
+        },
+        {
+            "question": "Don’t make .......................................",
+            "description": "",
+            "answers": [
+                "noise",
+                "a noise"
+            ],
+            "correct": 1,
+            "id": "e7617d822f2a4c6a88456490fdfab62e"
+        }
+    ]
+}

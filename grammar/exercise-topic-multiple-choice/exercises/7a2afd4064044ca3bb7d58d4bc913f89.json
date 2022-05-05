@@ -1,0 +1,131 @@
+{
+    "id": "7a2afd4064044ca3bb7d58d4bc913f89",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "In case you …………………………… John, tell him that he still owes me a drink.",
+            "description": "",
+            "answers": [
+                "see",
+                "will see"
+            ],
+            "correct": 0,
+            "id": "25b0883fe9c643ae986b93821dfa6245"
+        },
+        {
+            "question": "You never say what you are thinking, ……………………………….?",
+            "description": "Non-negative tags are used after words like never, no, nobody etc.",
+            "answers": [
+                "do you",
+                "don't you"
+            ],
+            "correct": 0,
+            "id": "591f7530eb474bb7a51b04c014d08a72"
+        },
+        {
+            "question": "I ………………………………. beach holidays.",
+            "description": "In the simple present tense, questions and negatives are made with do.",
+            "answers": [
+                "like not",
+                "do not like"
+            ],
+            "correct": 1,
+            "id": "ef3f6392f2c944c484a8730beddc1aa4"
+        },
+        {
+            "question": "Did you …………………………….. swimming yesterday?",
+            "description": "After do, does and did, we use the infinitive without to.",
+            "answers": [
+                "go",
+                "gone",
+                "went"
+            ],
+            "correct": 0,
+            "id": "4e7a867ee33d42cf907474b600ee1a7d"
+        },
+        {
+            "question": "We need to know ……………………………… he is coming tomorrow.",
+            "description": "Whether is a question word used in indirect questions.",
+            "answers": [
+                "whether",
+                "that"
+            ],
+            "correct": 0,
+            "id": "ddbe8af718f64d16a5b55a5bdd89b491"
+        },
+        {
+            "question": "I promise I …………………………….. any more.",
+            "description": "We do not normally use the simple present to talk about the future.",
+            "answers": [
+                "don't smoke",
+                "won't smoke"
+            ],
+            "correct": 1,
+            "id": "5886a7485f034677888a75895bc9ec05"
+        },
+        {
+            "question": "I …………………………… my new job tomorrow.",
+            "description": "The simple present is used to refer to future events which are timetabled.",
+            "answers": [
+                "start",
+                "will start",
+                "starts"
+            ],
+            "correct": 0,
+            "id": "ab407efcde8244608469129ea35ff8f9"
+        },
+        {
+            "question": "I wasn’t …………………………… that she was there.",
+            "description": "Prepositions are not used before that.",
+            "answers": [
+                "aware",
+                "aware of"
+            ],
+            "correct": 0,
+            "id": "751da5815d1a4f33bc94d9be3173af5a"
+        },
+        {
+            "question": "I was surprised …………………………… his strength.",
+            "description": "",
+            "answers": [
+                "by",
+                "at",
+                "with"
+            ],
+            "correct": 1,
+            "id": "3afc4a208ac94364922ea925e73a0319"
+        },
+        {
+            "question": "The virus ……………………………….. thousands of people across the world.",
+            "description": "The present perfect is used to give news.",
+            "answers": [
+                "killed",
+                "has killed"
+            ],
+            "correct": 1,
+            "id": "f5c634d3cb8245e8ba9f59f68307cc9c"
+        },
+        {
+            "question": "The portrait …………………………….. by a famous artist.",
+            "description": "",
+            "answers": [
+                "painted",
+                "was painted",
+                "has painted"
+            ],
+            "correct": 1,
+            "id": "a8825bbc2c3145b087b60fecb3edd60e"
+        },
+        {
+            "question": "Aren’t you interested ……………………………… what happened to him?",
+            "description": "Interested can be followed by an -ing form or infinitive. This is common when we are talking about a wish to find out something.",
+            "answers": [
+                "in knowing",
+                "to know",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4f8c6f6558884a63bcdefddf5782e5e6"
+        }
+    ]
+}

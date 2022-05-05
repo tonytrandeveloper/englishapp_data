@@ -1,0 +1,376 @@
+{
+    "id": "04735517fef44246ada11b932fca0f9d",
+    "title": "Choose the Past Simple or Present Perfect Exercise 4",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve never been",
+                        "have never been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(never/go) to Vienna."
+                }
+            ],
+            "id": "87a0345b558a4bfdbe941f7ea6d29eb7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My great great grandfather"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) five sisters."
+                }
+            ],
+            "id": "ddfcc258fa8e4e7197ea238862df2e63"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "lived"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in Manila for a year when he was a student."
+                }
+            ],
+            "id": "3e1e19d0840e4747bbcb60731522d3b6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Oh no! I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve lost",
+                        "have lost"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(lose) my wallet!"
+                }
+            ],
+            "id": "57269a7b4cdc46d4a4e7fc66e228c8b1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Have you seen"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/see) Julie today?"
+                }
+            ],
+            "id": "b48b4aa54d604b01a3649f7ff625f3aa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At the weekend, they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "played"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(play) football, then they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "went"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to a restaurant."
+                }
+            ],
+            "id": "b472d3d22963497499a04b6bd5de0fe3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve read",
+                        "have read"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(read) six books this week."
+                }
+            ],
+            "id": "d9e5399b5b63439abd894f466785fb45"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Amy"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "lived"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in Portugal when she was young."
+                }
+            ],
+            "id": "ebcdebdf99044960872426a45d4bce4f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "visited"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(visit) her grandmother last month."
+                }
+            ],
+            "id": "82027f77938042be8fbced0a84728740"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The Vandals"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "invaded"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(invade) Rome in the year 455."
+                }
+            ],
+            "id": "a08ee158bb1d4b87bca47a7b988a4726"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s lived",
+                        "has lived"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in seven different countries, so she knows a lot about different cultures."
+                }
+            ],
+            "id": "846a4a4694e84bc091775c648491e3b1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "went"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the cinema last night."
+                }
+            ],
+            "id": "20843b2c53494c3f8cc75563e7835f64"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Ow! I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve cut",
+                        "have cut"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(cut) my finger!"
+                }
+            ],
+            "id": "82963b7da7234ac28632800f0ba85f08"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Have you seen"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/see) 'The King's Speech'?"
+                }
+            ],
+            "id": "49f2b1189b354d0789f547fff104c45a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s never understood",
+                        "has never understood"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(never/understand) the present perfect."
+                }
+            ],
+            "id": "16414fd805a04d938cb47611d1eda9b0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "broke"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(break) her leg the day before her exam."
+                }
+            ],
+            "id": "663db1d59f024137a06235a26612d275"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "saw"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(see) Oliver yesterday."
+                }
+            ],
+            "id": "10b7f42ac3e449a5a0992a0b99d26861"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s been",
+                        "has been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) here all morning."
+                }
+            ],
+            "id": "b2b3af7a50d44c708ac2077f3ebe6fcb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "King Henry the Eighth of England"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) six wives."
+                }
+            ],
+            "id": "6a1525f9ea2a4d25932f2d3d54b75491"
+        }
+    ]
+}

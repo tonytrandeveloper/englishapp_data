@@ -1,0 +1,138 @@
+{
+    "id": "fa71d69bf58a44c799a387b8e8989d2e",
+    "title": "Idioms Quiz",
+    "questions": [
+        {
+            "question": "The supervisor was fired because he had sticky ...................................",
+            "description": "When you have sticky fingers you are a thief.",
+            "answers": [
+                "arms",
+                "hands",
+                "fingers"
+            ],
+            "correct": 2,
+            "id": "f187ecf571ef4cda884dcb97680a4f80"
+        },
+        {
+            "question": "He really gave me a ............................................ for my money when we played poker yesterday. He almost beat me.",
+            "description": "To give someone a run for their money is to compete with them at their level and make it hard for them to succeed.",
+            "answers": [
+                "swim",
+                "sprint",
+                "run"
+            ],
+            "correct": 2,
+            "id": "26752979cfd145899cbdd0994e06a090"
+        },
+        {
+            "question": "Why are you being so ..........................................?  You don't even pay for your drinks.",
+            "description": "To be closefisted or hardfisted is to be stingy.",
+            "answers": [
+                "closefisted",
+                "hard-fisted",
+                "coldfisted"
+            ],
+            "correct": 1,
+            "id": "97d87bedec844046a4476f7a4944f261"
+        },
+        {
+            "question": "Whenever I eat out with my friends, I prefer to go ....................................",
+            "description": "To go Dutch is to pay for your own meal.",
+            "answers": [
+                "French",
+                "Spanish",
+                "Dutch"
+            ],
+            "correct": 2,
+            "id": "710969c169ca42f381de61c17c5435e3"
+        },
+        {
+            "question": "He had to ........................................... over a lot of money last month for violating traffic rules.",
+            "description": "To fork over a lot of money is to have to spend a lot of money. ",
+            "answers": [
+                "shell",
+                "fork",
+                "spoon"
+            ],
+            "correct": 1,
+            "id": "d569f8a2724e4708aa4a71c0fe177a01"
+        },
+        {
+            "question": "'Do you think you could lend me some money?' 'No, I am in the ..................................... this month'.",
+            "description": "When you are in the red, you lose more money than you make.",
+            "answers": [
+                "black",
+                "red",
+                "green"
+            ],
+            "correct": 1,
+            "id": "b566e08430bc493393c22a9265f42527"
+        },
+        {
+            "question": "The corrupt cops receive ............................................. for ignoring certain crimes.",
+            "description": "To receive kickbacks is to receive bribes.",
+            "answers": [
+                "paybacks",
+                "throwbacks",
+                "kickbacks"
+            ],
+            "correct": 2,
+            "id": "537d81f30369490caadad9ace6c5fa36"
+        },
+        {
+            "question": "We have been living hand to ........................................... since I lost my job.",
+            "description": "To live hand to mouth is to live without a lot of money.",
+            "answers": [
+                "head",
+                "face",
+                "mouth"
+            ],
+            "correct": 2,
+            "id": "7f8dd856f1834053bf5863fd3bca1ac0"
+        },
+        {
+            "question": "I don't earn much from my job as a freelance writer, but I can make ends ..........................................",
+            "description": "To make ends meet is to earn enough money to pay for food and bills.",
+            "answers": [
+                "end",
+                "close",
+                "meet"
+            ],
+            "correct": 2,
+            "id": "dddb87582a5b4401ac34eb61a22338b9"
+        },
+        {
+            "question": "Why are you looking upset? Keep your ...................................... up.",
+            "description": "To keep your chin up is to stay strong.",
+            "answers": [
+                "eyes",
+                "face",
+                "chin"
+            ],
+            "correct": 2,
+            "id": "31ebdfb3024c4330bce04863fb17776d"
+        },
+        {
+            "question": "'How are you doing in Singapore?' 'I'm still finding my .............................................'",
+            "description": "When you are finding your feet, you are adjusting to the new environment.",
+            "answers": [
+                "leg",
+                "feet",
+                "stand"
+            ],
+            "correct": 1,
+            "id": "4541269bd7d94f42b8e4387e47c0c43a"
+        },
+        {
+            "question": "I thought the interview would be difficult but it was a piece of ......................................................",
+            "description": "When something is a piece of cake it is easy to complete or accomplish.",
+            "answers": [
+                "candy",
+                "cake",
+                "bread"
+            ],
+            "correct": 1,
+            "id": "beeadec21ce948a4be635514895fd135"
+        }
+    ]
+}

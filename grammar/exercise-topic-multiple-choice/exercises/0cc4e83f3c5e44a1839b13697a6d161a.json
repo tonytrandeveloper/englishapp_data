@@ -1,0 +1,116 @@
+{
+    "id": "0cc4e83f3c5e44a1839b13697a6d161a",
+    "title": "Degrees of Comparison",
+    "questions": [
+        {
+            "question": "She is ………………… than her sister.",
+            "description": "",
+            "answers": [
+                "pretty",
+                "prettier",
+                "prettiest"
+            ],
+            "correct": 1,
+            "id": "66e3b0f8a8054cdab668fded36d0f44e"
+        },
+        {
+            "question": "Martha is a ………………….. girl.",
+            "description": "",
+            "answers": [
+                "nice",
+                "nicer",
+                "nicest"
+            ],
+            "correct": 0,
+            "id": "da58996257774fcab1e6dd9e8b56ee44"
+        },
+        {
+            "question": "Supriya is the …………………… girl in the class.",
+            "description": "",
+            "answers": [
+                "intelligent",
+                "more intelligent",
+                "most intelligent"
+            ],
+            "correct": 2,
+            "id": "d73272417cdf4f5e8a794e73d6480ac4"
+        },
+        {
+            "question": "Martin speaks English …………………..",
+            "description": "",
+            "answers": [
+                "well",
+                "better",
+                "best"
+            ],
+            "correct": 0,
+            "id": "60c51f8ee29847c9896a1b8e75aa45b1"
+        },
+        {
+            "question": "Russia is the …………………. country in the world.",
+            "description": "",
+            "answers": [
+                "big",
+                "bigger",
+                "biggest"
+            ],
+            "correct": 2,
+            "id": "ac6902aae42e4b56a445ebbbc374d802"
+        },
+        {
+            "question": "China is a ……………….. country.",
+            "description": "",
+            "answers": [
+                "big",
+                "bigger",
+                "biggest"
+            ],
+            "correct": 0,
+            "id": "8b053b645a094891b716681926ca4747"
+        },
+        {
+            "question": "China is ………………… than India.",
+            "description": "",
+            "answers": [
+                "big",
+                "bigger",
+                "biggest"
+            ],
+            "correct": 1,
+            "id": "0682676de974415d8dc109ab420ac5c8"
+        },
+        {
+            "question": "This is the ………………… book I have ever read.",
+            "description": "",
+            "answers": [
+                "interesting",
+                "more interesting",
+                "most interesting"
+            ],
+            "correct": 2,
+            "id": "6c3f0e0bba404ceeba8bf7052cd177e4"
+        },
+        {
+            "question": "I am …………………. than you.",
+            "description": "",
+            "answers": [
+                "smart",
+                "smarter",
+                "smartest"
+            ],
+            "correct": 1,
+            "id": "cc341a97aadd422b9a862b58ad96216b"
+        },
+        {
+            "question": "Take the ………………….. of the two routes.",
+            "description": "",
+            "answers": [
+                "short",
+                "shorter",
+                "shortest"
+            ],
+            "correct": 1,
+            "id": "a6b247340c2b4de08bfefb38670a8668"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "id": "d46110f0c3314099a3b2febc1e1c7c0b",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "I am thinking of changing ……………………",
+            "description": "When we talk about changing one thing for another, we often use change with a plural object.",
+            "answers": [
+                "job",
+                "jobs",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "cbb4599a447549c69b830c707935309d"
+        },
+        {
+            "question": "I don’t …………………….. whether I lose – I am happy with what I have achieved.",
+            "description": "Care is used without about before a conjunction. ",
+            "answers": [
+                "care",
+                "care about",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "a21c391b18c34794bdb33460e94a468c"
+        },
+        {
+            "question": "I don’t ………………………… the result.",
+            "description": "Before an object, we use care about.",
+            "answers": [
+                "care",
+                "care about",
+                "care for"
+            ],
+            "correct": 1,
+            "id": "4db5545604c94a90b4778f9c62d00ea6"
+        },
+        {
+            "question": "I don’t take more than 5 minutes to ………………………… ready.",
+            "description": "We do not use become to talk about deliberate actions.",
+            "answers": [
+                "get",
+                "become",
+                "turn"
+            ],
+            "correct": 0,
+            "id": "7e09f1e59ab84c38b99a4e54f0b5a8fd"
+        },
+        {
+            "question": "The village ……………………….. I live is not far from the town.",
+            "description": "\r\nThat can be used instead of which or whom. But it cannot be used instead of when or where.\r\n",
+            "answers": [
+                "that",
+                "where",
+                "which"
+            ],
+            "correct": 1,
+            "id": "6801cc1a5dfa4d60b090a182f0da3de4"
+        },
+        {
+            "question": "His recovery seemed …………………………",
+            "description": "After copular verbs, we use adjectives, not adverbs.",
+            "answers": [
+                "impossible",
+                "impossibly",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "022d867e2a2c4c27b9657dfd24f4196d"
+        },
+        {
+            "question": "I have bought …………………………..",
+            "description": "Some uncountable nouns are plural and do not have singular forms. Groceries is an example.",
+            "answers": [
+                "the grocery",
+                "a grocery",
+                "the groceries"
+            ],
+            "correct": 2,
+            "id": "dec3602dafb548a1aae7a04d1f5b2d0c"
+        },
+        {
+            "question": "The new job is not much different ………………………… the old one.",
+            "description": "From is generally used after different. In British English, to is also possible and in American English than is common.",
+            "answers": [
+                "from",
+                "than",
+                "to",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "f5b8f08a414b48efa6f5ed7a2938e26b"
+        },
+        {
+            "question": "I doubt ……………………….. she will come this evening.",
+            "description": "We can use if, whether or that to introduce the clauses after the verb doubt.",
+            "answers": [
+                "whether",
+                "if",
+                "that",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "2dbd93227f0a4228b976de94c84a27fd"
+        },
+        {
+            "question": "His success was ……………………….. his teacher.",
+            "description": "We can use due to after ‘be’. Owing to is not usually used like that.",
+            "answers": [
+                "due to",
+                "owing to",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "119b3c1db480484aa4d6e7f867ace0fd"
+        },
+        {
+            "question": "If you are not satisfied with their hospitality, you can go …………………………….",
+            "description": "Elsewhere means the same as somewhere else. It is slightly more formal. ",
+            "answers": [
+                "elsewhere",
+                "somewhere else",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "329f1b894cba40b8b046deb79ede0731"
+        },
+        {
+            "question": "She takes ………………………. trouble over her work.",
+            "description": "Especial is not normally used as an adjective.",
+            "answers": [
+                "special",
+                "especial",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "e42eeb760cfd498faa31d5ba40b86213"
+        }
+    ]
+}

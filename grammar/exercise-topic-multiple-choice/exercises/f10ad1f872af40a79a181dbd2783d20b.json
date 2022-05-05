@@ -1,0 +1,138 @@
+{
+    "id": "f10ad1f872af40a79a181dbd2783d20b",
+    "title": "Types of Sentences Exercise",
+    "questions": [
+        {
+            "question": "The girl looked at her brother and smiled.",
+            "description": "A compound sentence consists of two or more coordinate clauses. Clauses connected by and, but or or are coordinate clauses. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "b84e089004594df09cc2fbb8463d94a1"
+        },
+        {
+            "question": "Janet went to the library to borrow some books.",
+            "description": "The given sentence has just one finite verb and one clause. Infinitives are non-finites.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "7b6352a861654023b35d2988b0fd7aba"
+        },
+        {
+            "question": "The water was so cold that we could not swim in it.",
+            "description": "So…that… is a subordinating conjunction. A clause introduced by a subordinating conjunction is a subordinate clause.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "014910ca3f66441fbfd8446e0be6b701"
+        },
+        {
+            "question": "The little girl started crying when she couldn’t find her toy.",
+            "description": "'When' is a subordinating conjunction. Clauses introduced by subordinating conjunctions are subordinate clauses.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "27d81ace25e14687aac6da55fe3868f4"
+        },
+        {
+            "question": "I live in a large city.",
+            "description": "A simple sentence has just one clause. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "6dfaf36d95194c91824ccbec80bbf72b"
+        },
+        {
+            "question": "As soon as the bell rang, the children rushed out.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "742df579500f4957a9bbd28b47b2f962"
+        },
+        {
+            "question": "We saw a film which was based on the life of Nelson Mandela.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "091f87df4fce40bb8c33921cd04925f9"
+        },
+        {
+            "question": "His crude remarks offended me.",
+            "description": "A simple sentence has just one clause. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "83c29924577944b5b9952dda20c6f17c"
+        },
+        {
+            "question": "Jane and Alice had their dinner and went for a walk.",
+            "description": "A compound sentence has two or more coordinate clauses. Two clauses connected by ‘and’ are coordinate clauses. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "8287552eae7d4350abe895e3ec920248"
+        },
+        {
+            "question": "The boys and the girls were shouting loudly.",
+            "description": "The given sentence has just one clause. Therefore it is a simple sentence.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "081eb447d65845df9b3bb58e696e1bfe"
+        },
+        {
+            "question": "The customers were happy because they got what they wanted.",
+            "description": "Because is a subordinating conjunction. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "60e6fa3f6eca4678a8604953d95728f3"
+        },
+        {
+            "question": "The meeting was held in a room near the library.",
+            "description": "A simple sentence has just one clause. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "226ac1096686490cab41b8f4bd3f449f"
+        }
+    ]
+}

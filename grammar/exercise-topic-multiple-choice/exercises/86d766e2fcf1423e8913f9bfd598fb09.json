@@ -1,0 +1,126 @@
+{
+    "id": "86d766e2fcf1423e8913f9bfd598fb09",
+    "title": "Subject - Verb Agreement",
+    "questions": [
+        {
+            "question": "He asked me whether either of the applicants ……………….. suitable.",
+            "description": "We use a singular verb after either, neither, each, everyone and many a.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "4bb770e6038a4bd585b6b556e60a3f02"
+        },
+        {
+            "question": "Each of these minerals …………………. found in India.",
+            "description": "We use a singular verb after either, neither, each, everyone and many a.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "97c88177703341b095a948ccf3049065"
+        },
+        {
+            "question": "Many a man ……………………….. died at sea.",
+            "description": "We use a singular verb after either, neither, each, everyone and many a.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "79aac48d25c348c5a5d191a2420e37d6"
+        },
+        {
+            "question": "Either you or he ……………………… mistaken.",
+            "description": "We use a singular verb after either, neither, each, everyone and many a.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "81399b9b0bb94b6e828be5d82bc1b505"
+        },
+        {
+            "question": "Neither food nor water …………………….. given to the captives.",
+            "description": "When two singular nouns are connected by neither...nor, the verb is singular. ",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "8eb7f1af8b3d409f9a25ff91be5f64f1"
+        },
+        {
+            "question": "Physics …………………….. a branch of science.",
+            "description": "Names of subjects are always treated as singular.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "0716b53e618741bb93d2f443002f6c1f"
+        },
+        {
+            "question": "The news ……………………….. too good to be true.",
+            "description": "News is an uncountable noun in English and as such it is followed by a singular verb.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "de182e9b2ff24a7290e511b83f7acba9"
+        },
+        {
+            "question": "Plutarch’s Lives ……………………… an interesting story.",
+            "description": "When the plural noun is the name of a book, magazine or movie, it is followed by a singular verb.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "c8fca0bf24c64c3db8936a10e754f1a4"
+        },
+        {
+            "question": "The committee ……………………….. submitted its report.",
+            "description": "Collective nouns are usually treated as singular.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "1739989bb16148c6a2557ab2f8fe9c6c"
+        },
+        {
+            "question": "Six miles …………………………… a long distance.",
+            "description": "When the plural noun denotes some specific quantity or amount considered as a whole, the verb is usually singular.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "fb773a272b2f40579e8263c1c65f270e"
+        },
+        {
+            "question": "Justice as well as mercy …………………… it.",
+            "description": "When two nouns are connected with as well as, the verb agrees with the first noun.",
+            "answers": [
+                "allows",
+                "allow"
+            ],
+            "correct": 0,
+            "id": "19e151b6cc52413c901d8a2b48095f78"
+        },
+        {
+            "question": "The house with its contents …………………….. insured.",
+            "description": "When two nouns are connected with 'with', the verb agrees with the first noun.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "00d9f26490634c7b88445dbd6f2472fc"
+        }
+    ]
+}

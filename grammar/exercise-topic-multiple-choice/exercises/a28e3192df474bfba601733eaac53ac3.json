@@ -1,0 +1,136 @@
+{
+    "id": "a28e3192df474bfba601733eaac53ac3",
+    "title": "Simple Past Or Present Perfect",
+    "questions": [
+        {
+            "question": "I .................................. football when I was younger.",
+            "description": "We use used to to talk about past habits.",
+            "answers": [
+                "used to play",
+                "used to playing",
+                "was playing"
+            ],
+            "correct": 0,
+            "id": "0ebe5b219c464952a654baf490fe4c33"
+        },
+        {
+            "question": "She .................................... a few hours ago.",
+            "description": "To simply say that something happened sometime ago, we use the simple past.",
+            "answers": [
+                "left",
+                "has left",
+                "had left"
+            ],
+            "correct": 0,
+            "id": "58e72a641a5749068700325ade1c184e"
+        },
+        {
+            "question": "She ..................................... unhappy since she left college.",
+            "description": "To talk about an action or situation that started in the past and has continued up to the present, we use the present perfect tense.",
+            "answers": [
+                "was",
+                "is",
+                "has been"
+            ],
+            "correct": 2,
+            "id": "6f929cb863464c2884c3f7b5bbb7b92a"
+        },
+        {
+            "question": "I ........................................ in Dubai when I was a child.",
+            "description": "To simply say that something happened sometime ago, we use the simple past.",
+            "answers": [
+                "was living",
+                "lived",
+                "had lived"
+            ],
+            "correct": 1,
+            "id": "5af62f461a154c7f8f61876df02a7bfd"
+        },
+        {
+            "question": "He .......................................... another car last week.",
+            "description": "To simply say that something happened sometime ago, we use the simple past.",
+            "answers": [
+                "bought",
+                "has bought",
+                "had bought"
+            ],
+            "correct": 0,
+            "id": "727410fa9f5f4e84a27da86bb4fdcba3"
+        },
+        {
+            "question": "He ...................................... another car.",
+            "description": "When there is no time reference, we use the present perfect to talk about finished events.",
+            "answers": [
+                "bought",
+                "has bought",
+                "had bought"
+            ],
+            "correct": 1,
+            "id": "a3b2bcf9aac14ec791f21140fae3c8d3"
+        },
+        {
+            "question": "I ................................... my leg so I can't walk now.",
+            "description": "The present perfect is used to talk about a past event whose effect is still felt in the present.",
+            "answers": [
+                "broke",
+                "have broken",
+                "had broken"
+            ],
+            "correct": 1,
+            "id": "c928d6970cd24a44b93f8d50995a235a"
+        },
+        {
+            "question": "I ..................................... my ankle while playing football yesterday.",
+            "description": "To simply say that something happened sometime ago, we use the simple past.",
+            "answers": [
+                "injured",
+                "have injured",
+                "had injured"
+            ],
+            "correct": 0,
+            "id": "c8be0f69393c4f0fa8b5d3389e8b7e7c"
+        },
+        {
+            "question": "Thieves ......................................... into their home while they were away on vacation.",
+            "description": "To simply say that something happened sometime ago, we use the simple past.",
+            "answers": [
+                "have broken",
+                "broke",
+                "had broken"
+            ],
+            "correct": 1,
+            "id": "c87385bd5fa242fbb1bc487b445c0fd0"
+        },
+        {
+            "question": "I ........................................ her since June.",
+            "description": "We use the present perfect to talk about an action or situation that started in the past and has continued up to the present. ",
+            "answers": [
+                "have not seen",
+                "did not see"
+            ],
+            "correct": 0,
+            "id": "a2e6994c1c6743489a7f9bf7376459a8"
+        },
+        {
+            "question": "The parcel ..................................... yesterday.",
+            "description": "",
+            "answers": [
+                "delivered",
+                "was delivered",
+                "has delivered"
+            ],
+            "correct": 1,
+            "id": "af54aba24d034bbb93e60476bad57b64"
+        },
+        {
+            "question": "I ..................................... the project last week.",
+            "description": "",
+            "answers": [
+                "finished",
+                "have finished"
+            ],
+            "correct": 0,
+            "id": "b03a5023cbe04cd9a36f05ba542c27e3"
+        }
+    ]
+}

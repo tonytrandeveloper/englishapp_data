@@ -1,0 +1,291 @@
+{
+    "id": "3337e1d3963f40a1b9b90abe10e6ac53",
+    "title": "Indirect Questions Exercise 3 (Modal Verbs)",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Can she swim?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me if she can swim?"
+                    ]
+                }
+            ],
+            "id": "b568a63ac1eb4a2db05fb2e8e327e8cc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When can they come?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me when they can come?"
+                    ]
+                }
+            ],
+            "id": "f7c339c295cc4e90b98cb3c1c6adc81b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Ought I to work tomorrow?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me if I ought to work tomorrow?"
+                    ]
+                }
+            ],
+            "id": "2fee83bc2c4c46dfb9ffa6eec74b0a7a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why must she leave?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me why she must leave?"
+                    ]
+                }
+            ],
+            "id": "8514fafbb5a14c188fbf227bd1232426"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Must he cook tonight?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me if he must cook tonight?"
+                    ]
+                }
+            ],
+            "id": "700815881fe44679a72db9fd796079d6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why should I leave early?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me why I should leave early?"
+                    ]
+                }
+            ],
+            "id": "456af4508105433399e63acaa62b8e64"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How well can she swim?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me how well she can swim?"
+                    ]
+                }
+            ],
+            "id": "65be2efe0dd04361ba76b134a2186920"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why ought he to become a doctor?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me why he ought to become a doctor?"
+                    ]
+                }
+            ],
+            "id": "8677e9fb41c24bdca765a7b12131d98a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Can he work on Monday?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me if he can work on Monday?"
+                    ]
+                }
+            ],
+            "id": "e98d3fb7372741049d688575e62d3233"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why can't they leave now?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me why they can't leave now?"
+                    ]
+                }
+            ],
+            "id": "0ce1edbd8f88472e9f01e6569ea984d5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Should he get there before 7?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me if he should get there before 7?"
+                    ]
+                }
+            ],
+            "id": "71e7556ae2fa49a6a8383cc67ae22b6a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When should we go?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me when we should go?"
+                    ]
+                }
+            ],
+            "id": "6f9ddf161f404bcf8bb913f68b76adbe"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Can he come to the restaurant?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me if he can come to the restaurant?"
+                    ]
+                }
+            ],
+            "id": "5bee5f4a3f2e44a5a0c2c1e2cb9fbb38"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Must she leave?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me if she must leave?"
+                    ]
+                }
+            ],
+            "id": "56475e165d8e4d2b835b1747029ac7fb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What can't we bring onto the plane?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me what we can't bring onto the plane?"
+                    ]
+                }
+            ],
+            "id": "8cbfd8a2e58a45bfa87beac6a26d643d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Should I take this medicine?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me if I should take this medicine?"
+                    ]
+                }
+            ],
+            "id": "be748187b2f045ccabc2f2fa697e015c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who ought she to see?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me who she ought to see?"
+                    ]
+                }
+            ],
+            "id": "b3f93827d74c44ef86fc0a7e16b09f06"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Can they arrive before 6?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me if they can arrive before 6?"
+                    ]
+                }
+            ],
+            "id": "f083e867f04440cbb1edc7bd57a3acdc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When must he meet the boss?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could you tell me when he must meet the boss?"
+                    ]
+                }
+            ],
+            "id": "a9da0fbe44fd495d8f13e113f56495a7"
+        }
+    ]
+}

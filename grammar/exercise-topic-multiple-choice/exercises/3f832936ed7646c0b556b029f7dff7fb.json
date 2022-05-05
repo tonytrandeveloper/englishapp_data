@@ -1,0 +1,111 @@
+{
+    "id": "3f832936ed7646c0b556b029f7dff7fb",
+    "title": "Ever And Never | Grammar Exercise",
+    "questions": [
+        {
+            "question": "I have …………………. been to a foreign country.",
+            "description": "",
+            "answers": [
+                "ever",
+                "never"
+            ],
+            "correct": 1,
+            "id": "3d083fd9951145c4b4c5ab330ed507d0"
+        },
+        {
+            "question": "Have you …………………. seen her perform?",
+            "description": "",
+            "answers": [
+                "ever",
+                "never"
+            ],
+            "correct": 0,
+            "id": "c97df74cddfe44608792d79a022ce1e4"
+        },
+        {
+            "question": "Do you ……………….. go to Ireland on holiday?",
+            "description": "",
+            "answers": [
+                "ever",
+                "never"
+            ],
+            "correct": 0,
+            "id": "8fa4eb8812a14a5b93892ea4e56da9dd"
+        },
+        {
+            "question": "I shall ……………….. remember you.",
+            "description": "",
+            "answers": [
+                "always",
+                "ever"
+            ],
+            "correct": 0,
+            "id": "e45c53b3a0194bbaa85e9f30c27a8769"
+        },
+        {
+            "question": "Do you ………………… go to live concerts?",
+            "description": "",
+            "answers": [
+                "ever",
+                "never"
+            ],
+            "correct": 0,
+            "id": "f5c614e2ad064557902703a571629d14"
+        },
+        {
+            "question": "Nobody …………………. visits them.",
+            "description": "",
+            "answers": [
+                "ever",
+                "never",
+                "always"
+            ],
+            "correct": 0,
+            "id": "f7b189aa2ea3478db5f120e3cc6e2e6d"
+        },
+        {
+            "question": "I have ………………… seen a ghost.",
+            "description": "",
+            "answers": [
+                "ever",
+                "never",
+                "always"
+            ],
+            "correct": 1,
+            "id": "a74231c1aa424409991aaff69facbbbb"
+        },
+        {
+            "question": "I ………………….want to see you again.",
+            "description": "",
+            "answers": [
+                "ever",
+                "never",
+                "always"
+            ],
+            "correct": 1,
+            "id": "a7235f8bafe941598ae709b28ee909c3"
+        },
+        {
+            "question": "I don’t ………………. want to see you again.",
+            "description": "",
+            "answers": [
+                "ever",
+                "never",
+                "always"
+            ],
+            "correct": 0,
+            "id": "40dd3c201cef42cdb8baf0b0a38b7a81"
+        },
+        {
+            "question": "I hardly …………………. see my brother or sister.",
+            "description": "",
+            "answers": [
+                "ever",
+                "never",
+                "always"
+            ],
+            "correct": 0,
+            "id": "ae49b17500a84c2fbec8dcaddc0ced19"
+        }
+    ]
+}

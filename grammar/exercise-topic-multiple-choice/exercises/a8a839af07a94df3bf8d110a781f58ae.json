@@ -1,0 +1,133 @@
+{
+    "id": "a8a839af07a94df3bf8d110a781f58ae",
+    "title": "Gap Filling Exercise",
+    "questions": [
+        {
+            "question": "‘I can’t speak French.’ ‘……………………. can I.’",
+            "description": "Neither/nor + auxiliary + subject can be used to make a negative addition to a negative statement. ",
+            "answers": [
+                "Either",
+                "Neither",
+                "Nor"
+            ],
+            "correct": 2,
+            "id": "d01dc17eb4aa4d20922fba8bda92c6c8"
+        },
+        {
+            "question": "You are ………………………… generous.",
+            "description": "Either very or so can be used here.",
+            "answers": [
+                "too",
+                "so",
+                "very"
+            ],
+            "correct": 2,
+            "id": "0ad17ebff5314b89b7a61958779428ee"
+        },
+        {
+            "question": "We reserved the table in advance so that we …………………………. to wait.",
+            "description": "",
+            "answers": [
+                "will not have",
+                "would not have",
+                "could not have"
+            ],
+            "correct": 1,
+            "id": "bc5d2ce7c7844d2bb70115572612cbfe"
+        },
+        {
+            "question": "She has bought ……………………………. car.",
+            "description": "Another can mean different or an extra.",
+            "answers": [
+                "other",
+                "another"
+            ],
+            "correct": 1,
+            "id": "1b72fe0797ef41d68d88b919bf0de087"
+        },
+        {
+            "question": "Where is ……………………………… book you borrowed from me?",
+            "description": "",
+            "answers": [
+                "other",
+                "another",
+                "the other"
+            ],
+            "correct": 2,
+            "id": "1cf0e584e98b4e55a19631e7b586bc44"
+        },
+        {
+            "question": "Trains run ………………………….. ten minutes.",
+            "description": "Every can be used before plural expressions in measurements of frequency.",
+            "answers": [
+                "each",
+                "all",
+                "every"
+            ],
+            "correct": 2,
+            "id": "3e0d9e070dd741b9a0e869efb1c0e45b"
+        },
+        {
+            "question": "Manali is famous for its beautiful …………………………..",
+            "description": "Scenery does not have a plural form. ",
+            "answers": [
+                "scenery",
+                "sceneries"
+            ],
+            "correct": 0,
+            "id": "4936ba72e54d4bdbab264aee17b20644"
+        },
+        {
+            "question": "Sania and Rohan …………………………….. arrived.",
+            "description": "When two singular subjects are connected by and, they should be followed by a plural verb. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "a3a402d2b02c4622a9fc3011ad94bfd9"
+        },
+        {
+            "question": "The principal as well as the teachers …………………………. present at the meeting.",
+            "description": "When we connect two nouns with as well as, the verb agrees with the former in number and person.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "19e15be7b1d94b84b195930e1d64aee5"
+        },
+        {
+            "question": "The mother along with her daughters …………………………….. outside.",
+            "description": "When we connect two nouns with along with, the verb agrees with the former. ",
+            "answers": [
+                "are waiting",
+                "is waiting"
+            ],
+            "correct": 1,
+            "id": "abca11976d894c1db3ad89db3f418c00"
+        },
+        {
+            "question": "Between you and ………………………….., there are no secrets.",
+            "description": "A pronoun used as the object of a preposition should be in its object form. ",
+            "answers": [
+                "I",
+                "me",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1b4f51d5608b4ae1a9301baa853d6829"
+        },
+        {
+            "question": "Start at once, so that you ……………………………. miss the train.",
+            "description": "",
+            "answers": [
+                "do not",
+                "will not",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "968756723d6b406980b97c3ff43cce02"
+        }
+    ]
+}

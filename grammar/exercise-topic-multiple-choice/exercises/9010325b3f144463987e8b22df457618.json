@@ -1,0 +1,116 @@
+{
+    "id": "9010325b3f144463987e8b22df457618",
+    "title": "Concession And Contrast",
+    "questions": [
+        {
+            "question": "....................................... working hard, he couldn’t pass the test.",
+            "description": "",
+            "answers": [
+                "In spite of",
+                "Although",
+                "However"
+            ],
+            "correct": 0,
+            "id": "0bcec8c06abd47d8a5ffc93db27e8524"
+        },
+        {
+            "question": "....................................... it was late, we decided to go out.",
+            "description": "",
+            "answers": [
+                "Although",
+                "However",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "47dd0d6538674796acdda725cb92ba28"
+        },
+        {
+            "question": "............................................. being rich, she is not happy.",
+            "description": "",
+            "answers": [
+                "Despite",
+                "Although",
+                "However"
+            ],
+            "correct": 0,
+            "id": "f78ae427523f47638e0c72d801e1a2e4"
+        },
+        {
+            "question": "................................................. having a bad teacher, she passed her test.",
+            "description": "",
+            "answers": [
+                "In spite of",
+                "Although",
+                "However"
+            ],
+            "correct": 0,
+            "id": "ba6515738ab2416caaa2be7cc5c14679"
+        },
+        {
+            "question": "......................................... she lives next door, we rarely see each other.",
+            "description": "",
+            "answers": [
+                "However",
+                "Although",
+                "Despite"
+            ],
+            "correct": 1,
+            "id": "f3fd44d907b54eb296dbadc2b3cd8b7f"
+        },
+        {
+            "question": "............................................... facing many setbacks, he didn’t lose hope.",
+            "description": "",
+            "answers": [
+                "Although",
+                "However",
+                "In spite of"
+            ],
+            "correct": 2,
+            "id": "dd7f8d1ced784b34b58c4aef5a6127aa"
+        },
+        {
+            "question": "............................................ being a foreigner, she speaks English remarkably well.",
+            "description": "",
+            "answers": [
+                "In spite of",
+                "However",
+                "Although"
+            ],
+            "correct": 0,
+            "id": "05eb94112cde4f048985ca9bec43ac3d"
+        },
+        {
+            "question": "............................................. she earns a good salary, she finds it difficult to make both ends meet.",
+            "description": "",
+            "answers": [
+                "Although",
+                "However",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "ba25143e513144c59aff1d29aa891b3f"
+        },
+        {
+            "question": ".................................................. living close to her office, she is always late for work.",
+            "description": "",
+            "answers": [
+                "However",
+                "Though",
+                "In spite of"
+            ],
+            "correct": 2,
+            "id": "0a5b6e9d56a84d2b9572af1997e4350f"
+        },
+        {
+            "question": "................................................ working three jobs in a day, she makes it a point to spend quality time with her kids.",
+            "description": "",
+            "answers": [
+                "Although",
+                "However",
+                "In spite of"
+            ],
+            "correct": 2,
+            "id": "431e7b96ab574cf390aa707fe502db29"
+        }
+    ]
+}

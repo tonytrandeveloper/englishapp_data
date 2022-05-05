@@ -1,0 +1,126 @@
+{
+    "id": "10d4489ce1124aa8a19e7502d9297016",
+    "title": "Some vs. Any",
+    "questions": [
+        {
+            "question": "There are ................................... people I can’t stand.",
+            "description": "We use some in affirmative clauses. ",
+            "answers": [
+                "some",
+                "any"
+            ],
+            "correct": 0,
+            "id": "b40bcf432bff4a388e97b29a41d72ac4"
+        },
+        {
+            "question": "Is there ....................................... to do?",
+            "description": "Any, anything, anyone etc., are used in questions and negative sentences. ",
+            "answers": [
+                "anything",
+                "something"
+            ],
+            "correct": 0,
+            "id": "70ff39cef02e49f181fe5c398aff8c97"
+        },
+        {
+            "question": "I have .................................... doubts.",
+            "description": "We use some, someone, something etc., in affirmative clauses. ",
+            "answers": [
+                "any",
+                "some"
+            ],
+            "correct": 1,
+            "id": "d3e835fb2b5b48bb828c620e735b4777"
+        },
+        {
+            "question": "I would like ...................................... to help me with this.",
+            "description": "We use some, someone, something etc., in affirmative clauses. ",
+            "answers": [
+                "anyone",
+                "someone"
+            ],
+            "correct": 1,
+            "id": "6eba96244f614de79392eea060fe69ff"
+        },
+        {
+            "question": "Have you got ………………………….. problem?",
+            "description": "Any, anything, anyone etc., are used in questions and negative sentences. ",
+            "answers": [
+                "any",
+                "some"
+            ],
+            "correct": 0,
+            "id": "890394eaa05b4d3da2903fcbc9f89cce"
+        },
+        {
+            "question": "She doesn't do ………………………...",
+            "description": "Any, anything, anyone etc., are used in questions and negative sentences. ",
+            "answers": [
+                "something",
+                "anything"
+            ],
+            "correct": 1,
+            "id": "7db8b524261d4f65b4a35539c8b92d2c"
+        },
+        {
+            "question": "I don't need .................................... advice.",
+            "description": "Any, anything, anyone etc., are used in questions and negative sentences. ",
+            "answers": [
+                "anyone's",
+                "someone's"
+            ],
+            "correct": 0,
+            "id": "fe90a65adf7e434db1eb9b8fef702f0d"
+        },
+        {
+            "question": "Let’s eat ……………………….. Shall we?",
+            "description": "We use some, someone, something etc., in affirmative clauses. ",
+            "answers": [
+                "anything",
+                "something"
+            ],
+            "correct": 1,
+            "id": "3334ed0ec4184b379eca6306d9ebd28c"
+        },
+        {
+            "question": "You may take ............................... shirt.",
+            "description": "",
+            "answers": [
+                "any",
+                "some"
+            ],
+            "correct": 0,
+            "id": "6a6574d3e3364491a3d1f57b255d48ed"
+        },
+        {
+            "question": "I have read ………………………….. books on this subject.",
+            "description": "We use some, someone, something etc., in affirmative clauses. ",
+            "answers": [
+                "any",
+                "some"
+            ],
+            "correct": 1,
+            "id": "76e45dd7c9384b80ab815dacf987caf9"
+        },
+        {
+            "question": "Have you got …………………………… razors?",
+            "description": "Any, anything, anyone etc., are used in questions and negative sentences. ",
+            "answers": [
+                "any",
+                "some"
+            ],
+            "correct": 0,
+            "id": "260aaff0095c438a9604138301251dac"
+        },
+        {
+            "question": "I haven’t got ……………………… idea how this happened.",
+            "description": "Any, anything, anyone etc., are used in questions and negative sentences. ",
+            "answers": [
+                "any",
+                "some"
+            ],
+            "correct": 0,
+            "id": "0e7cb103459c4a14bc7abea3b7433f3f"
+        }
+    ]
+}

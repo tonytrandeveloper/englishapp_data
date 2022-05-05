@@ -1,0 +1,129 @@
+{
+    "id": "f9ff30bf7c514e938eac5c21087467ba",
+    "title": "Confusing Words Exercise",
+    "questions": [
+        {
+            "question": "The …………………………… condition of the country is not good.",
+            "description": "Economic means financial.",
+            "answers": [
+                "economic",
+                "economical"
+            ],
+            "correct": 0,
+            "id": "3a6519b39103400db12fbf05f53e6f1e"
+        },
+        {
+            "question": "Oxygen has no ………………………. at all.",
+            "description": "Odor means smell.",
+            "answers": [
+                "order",
+                "odor",
+                "oder"
+            ],
+            "correct": 1,
+            "id": "c8970d8b04f04f7f8df3f060c655de64"
+        },
+        {
+            "question": "John is the …………………………… to a large estate.",
+            "description": "Heir means the inheritor. ",
+            "answers": [
+                "hair",
+                "heir",
+                "heire"
+            ],
+            "correct": 1,
+            "id": "8dae501d8566435fb828126d172e0554"
+        },
+        {
+            "question": "It is better to ………………………. a car.",
+            "description": "",
+            "answers": [
+                "hire",
+                "hare"
+            ],
+            "correct": 0,
+            "id": "cc8820dd8dac4c9d97294c315fab2400"
+        },
+        {
+            "question": "An ………………………… vessel has nothing in it.",
+            "description": "When a space is empty, it has nothing in it. When a space is vacant, there are no people in it. ",
+            "answers": [
+                "empty",
+                "vacant"
+            ],
+            "correct": 0,
+            "id": "d45c9e81c09144eaa7896c12dead99fa"
+        },
+        {
+            "question": "Many seats in the theatre remained ……………………………. during the show.",
+            "description": "",
+            "answers": [
+                "empty",
+                "vacant"
+            ],
+            "correct": 1,
+            "id": "1018b31287e04004bf6d045217705bc8"
+        },
+        {
+            "question": "His ………………………. for his cause is remarkable.",
+            "description": "Zeal means enthusiasm.",
+            "answers": [
+                "seal",
+                "zeal",
+                "ceal"
+            ],
+            "correct": 1,
+            "id": "5a420a573ce24d8d918c20b88125d4be"
+        },
+        {
+            "question": "I agree with this argument to a great ………………………….",
+            "description": "Extent means degree/level.",
+            "answers": [
+                "extent",
+                "extend"
+            ],
+            "correct": 0,
+            "id": "bc0363d2a4144fa09e5569a574e98b89"
+        },
+        {
+            "question": "He was without any ………………………",
+            "description": "",
+            "answers": [
+                "vice",
+                "wise"
+            ],
+            "correct": 0,
+            "id": "4e7db1b50454466f910c70f6b02a59b4"
+        },
+        {
+            "question": "He ………………………. his hand.",
+            "description": "",
+            "answers": [
+                "extended",
+                "extented"
+            ],
+            "correct": 0,
+            "id": "75e0809b96974ae7ac05266f2942cb43"
+        },
+        {
+            "question": "What do you ……………………. to do now?",
+            "description": "Intend means plan.",
+            "answers": [
+                "intent",
+                "intend"
+            ],
+            "correct": 1,
+            "id": "cb3cf8986c254716b01b9c99e25624b8"
+        },
+        {
+            "question": "Their original ……………………….. was to file a complaint.",
+            "description": "Intent means intention. ",
+            "answers": [
+                "intent",
+                "intend"
+            ],
+            "correct": 0,
+            "id": "0294679a25a048d88be65a653a1e12d5"
+        }
+    ]
+}

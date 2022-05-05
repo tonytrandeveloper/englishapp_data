@@ -1,0 +1,116 @@
+{
+    "id": "8f52c040507b446899f7e6187c86c4a7",
+    "title": "Despite, In Spite Of, However, Although",
+    "questions": [
+        {
+            "question": "We went out ....................... the rain.",
+            "description": "",
+            "answers": [
+                "in spite",
+                "in spite of",
+                "despite of"
+            ],
+            "correct": 1,
+            "id": "dae99bb0ffc34d90b1eefb3fe63b4353"
+        },
+        {
+            "question": "She went on working ……………….. it was raining.",
+            "description": "",
+            "answers": [
+                "in spite of",
+                "although",
+                "despite"
+            ],
+            "correct": 1,
+            "id": "63d8048447024781ace35bade9d3fa9a"
+        },
+        {
+            "question": "She went to work ………………… the fact that it was a holiday.",
+            "description": "",
+            "answers": [
+                "despite",
+                "in spite of",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "92359f71c327418d8f61d56a79fc7c6a"
+        },
+        {
+            "question": "…………………. she didn’t like the cutlet, I enjoyed it very much.",
+            "description": "",
+            "answers": [
+                "Although",
+                "However",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "a75fc01cf7e1412b9cb70ec69276ac07"
+        },
+        {
+            "question": "I had invited him ………………….., he didn’t come.",
+            "description": "",
+            "answers": [
+                "despite",
+                "though",
+                "however"
+            ],
+            "correct": 2,
+            "id": "6b2ed98fff4d45438367b82cd88f4ca9"
+        },
+        {
+            "question": "It was fun, ………………… dangerous.",
+            "description": "",
+            "answers": [
+                "however",
+                "though",
+                "although"
+            ],
+            "correct": 1,
+            "id": "a7bbfe85b29443e58d076b85c16ba742"
+        },
+        {
+            "question": "I was late ………………. everybody else was on time.",
+            "description": "",
+            "answers": [
+                "although",
+                "despite",
+                "however"
+            ],
+            "correct": 2,
+            "id": "106f5c21b5054542abbe27be209148f7"
+        },
+        {
+            "question": "………………… I was late, everybody else was on time.",
+            "description": "",
+            "answers": [
+                "In spite of",
+                "Although",
+                "However"
+            ],
+            "correct": 1,
+            "id": "185ccc259f4840b2b2c0392adf3fabb5"
+        },
+        {
+            "question": "They managed to do it, ………………….. I was not there.",
+            "description": "",
+            "answers": [
+                "however",
+                "although",
+                "despite"
+            ],
+            "correct": 1,
+            "id": "e0222b8b944740909adca8d988e53ca2"
+        },
+        {
+            "question": "I went ………………… I had not been invited.",
+            "description": "",
+            "answers": [
+                "however",
+                "although",
+                "despite"
+            ],
+            "correct": 1,
+            "id": "d0a24233c9ac4560bd368c58b59d2d0b"
+        }
+    ]
+}

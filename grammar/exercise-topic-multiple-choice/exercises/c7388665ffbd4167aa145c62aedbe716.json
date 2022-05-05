@@ -1,0 +1,138 @@
+{
+    "id": "c7388665ffbd4167aa145c62aedbe716",
+    "title": "Active and Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "She will not recognize us. / We ………………………… by her.",
+            "description": "In the simple future tense we make the passive forms by putting the past participle form of the verb after will be.",
+            "answers": [
+                "will not recognize",
+                "will not being recognized",
+                "will not be recognized"
+            ],
+            "correct": 2,
+            "id": "15f52c9e46694299b0a133139a96ccf4"
+        },
+        {
+            "question": "They didn’t invite me, but I went anyway. / I ………………………… but I went anyway.",
+            "description": "In the simple past tense we make the passive form by putting was / were before the past participle form of the verb.",
+            "answers": [
+                "wasn't invited",
+                "wasn't being invited",
+                "wasn't inviting"
+            ],
+            "correct": 0,
+            "id": "daabe72e1d6d46429dc70fc2697769d4"
+        },
+        {
+            "question": "They broke up the table for firewood. / The table ………………………. up for firewood.",
+            "description": "\r\nIn the simple past tense we make the passive form by putting was / were before the past participle form of the verb.\r\n",
+            "answers": [
+                "broke",
+                "had broken",
+                "was broken"
+            ],
+            "correct": 2,
+            "id": "6da06a367a5d41c0913dc04d218fc8a9"
+        },
+        {
+            "question": "This book will change your life. / Your life ……………………….. by this book.",
+            "description": "In the simple future tense we make the passive forms by putting the past participle form of the verb after will be.",
+            "answers": [
+                "will be changing",
+                "will be changed",
+                "will have been changed"
+            ],
+            "correct": 1,
+            "id": "9437fb8ee9c7498cbfd8b5517f9d4c26"
+        },
+        {
+            "question": "She has won the first prize. / First prize …………………………. by her.",
+            "description": "\r\nIn the present perfect tense, we make the passive form by putting the past participle form of the verb after has/have + been.\r\n",
+            "answers": [
+                "has won",
+                "has been won",
+                "had been won"
+            ],
+            "correct": 1,
+            "id": "39653cdf6f7d46499df2683f19c0118b"
+        },
+        {
+            "question": "A friend of mine is repairing the car. / The car ……………………………. by a friend of mine.",
+            "description": "In the present continuous tense we make the passive form by putting is/am/are + being before the past participle form of the verb. ",
+            "answers": [
+                "is repairing",
+                "is repaired",
+                "is being repaired"
+            ],
+            "correct": 2,
+            "id": "a503ef276ea24c8a8145057a5493d111"
+        },
+        {
+            "question": "The immigration officer questioned us. / We …………………………. by the immigration officer.",
+            "description": "\r\nIn the simple past tense, we make the passive form by putting was/were before the past participle form of the verb.\r\n",
+            "answers": [
+                "were questioning",
+                "were questioned",
+                "were being questioned"
+            ],
+            "correct": 1,
+            "id": "cba05c5268744b17918393b3cfc05898"
+        },
+        {
+            "question": "They speak English in Nagaland. / English ……………………… in Nagaland.",
+            "description": "\r\nIn the simple present tense, we make the passive form by putting is/am/are before the past participle form of the verb.\r\n",
+            "answers": [
+                "is speaking",
+                "is spoken",
+                "is being spoken"
+            ],
+            "correct": 1,
+            "id": "ff88f655d62343b1977b7678a8460a9d"
+        },
+        {
+            "question": "His attitude shocked me. / I ……………………… by his attitude.",
+            "description": "\r\nIn the simple past tense, we make the passive form by putting was/were before the past participle form of the verb.\r\n",
+            "answers": [
+                "had shocked",
+                "had been shocked",
+                "was shocked"
+            ],
+            "correct": 2,
+            "id": "acb22cb519bf41b4a9a4caa9c4eeb9a6"
+        },
+        {
+            "question": "She had already sent the parcel. / The parcel ……………………………. by her.",
+            "description": "In the past perfect tense, we make the passive form by putting the past participle form of the verb after had been. ",
+            "answers": [
+                "has already been sent",
+                "had already been spent",
+                "was already spent"
+            ],
+            "correct": 1,
+            "id": "c1a4b90b96dc4db8854149c2529adace"
+        },
+        {
+            "question": "They will hire some people to do the job. / Some people ………………………… to do the job.",
+            "description": "In the simple future tense, we make passive forms by putting the past participle form of the verb after will be.",
+            "answers": [
+                "will be hiring",
+                "will have hired",
+                "will be hired"
+            ],
+            "correct": 2,
+            "id": "40c411160a1a4e56bec85abfd29a7329"
+        },
+        {
+            "question": "Her silence worries me. / I ……………………….. her silence.",
+            "description": "",
+            "answers": [
+                "am worrying about",
+                "am worried about",
+                "have worried about"
+            ],
+            "correct": 1,
+            "id": "b2e214187c8141ba8e1f5dc693396705"
+        }
+    ]
+}

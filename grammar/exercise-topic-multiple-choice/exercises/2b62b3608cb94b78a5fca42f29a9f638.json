@@ -1,0 +1,106 @@
+{
+    "id": "2b62b3608cb94b78a5fca42f29a9f638",
+    "title": "Gerund Or Infinitive",
+    "questions": [
+        {
+            "question": "I still remember …………. my first car.",
+            "description": "",
+            "answers": [
+                "to buy",
+                "buying"
+            ],
+            "correct": 1,
+            "id": "22ed10505daa47a29e54ad7f1fe93712"
+        },
+        {
+            "question": "Don’t forget …………………. the door when you leave.",
+            "description": "",
+            "answers": [
+                "locking",
+                "to lock"
+            ],
+            "correct": 1,
+            "id": "d662a2b938854fb9b8deb12562403368"
+        },
+        {
+            "question": "I enjoyed ……………… the movie.",
+            "description": "",
+            "answers": [
+                "watching",
+                "to watch"
+            ],
+            "correct": 0,
+            "id": "6bf98dfdde624990aad2636e3df523ae"
+        },
+        {
+            "question": "She avoided ………………… them because she was in a hurry to leave.",
+            "description": "",
+            "answers": [
+                "meeting",
+                "to meet"
+            ],
+            "correct": 0,
+            "id": "a9b12811aa394df69c7935219b82c672"
+        },
+        {
+            "question": "You promised ………………… me a diamond necklace for my birthday.",
+            "description": "",
+            "answers": [
+                "to buy",
+                "buying"
+            ],
+            "correct": 0,
+            "id": "5ec03e9da9244768886d2704858b4ff4"
+        },
+        {
+            "question": "She has agreed ………………….",
+            "description": "",
+            "answers": [
+                "to come",
+                "coming"
+            ],
+            "correct": 0,
+            "id": "f39ced0336134c1d87f4edcc509b478b"
+        },
+        {
+            "question": "I thanked them ………………… me out.",
+            "description": "",
+            "answers": [
+                "to help",
+                "for helping"
+            ],
+            "correct": 1,
+            "id": "0d551b16d66a4546a989377797d3a15c"
+        },
+        {
+            "question": "I expect him …………….. at 4 o’clock.",
+            "description": "",
+            "answers": [
+                "calling",
+                "to call"
+            ],
+            "correct": 1,
+            "id": "fc36e639cca34bc08a2f7320b17de3fb"
+        },
+        {
+            "question": "Would you like ………………… with us?",
+            "description": "",
+            "answers": [
+                "coming",
+                "to come"
+            ],
+            "correct": 1,
+            "id": "9602f8cfde624da2a84299aa83cfde40"
+        },
+        {
+            "question": "I don’t feel like ……………… it.",
+            "description": "",
+            "answers": [
+                "doing",
+                "to do"
+            ],
+            "correct": 0,
+            "id": "93825a4c4f704c0692d96548e4b401ff"
+        }
+    ]
+}

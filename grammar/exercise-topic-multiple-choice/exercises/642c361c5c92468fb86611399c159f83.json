@@ -1,0 +1,127 @@
+{
+    "id": "642c361c5c92468fb86611399c159f83",
+    "title": "Rob And Steal",
+    "questions": [
+        {
+            "question": "To get rich quickly, they decided to ........................... a bank.",
+            "description": "The object of rob is the person or the place that was the victim of the robbery.",
+            "answers": [
+                "steal",
+                "rob"
+            ],
+            "correct": 1,
+            "id": "026c190f84584686939f1ecdc5b8253a"
+        },
+        {
+            "question": "Someone ................................ a painting from the museum.",
+            "description": "The object of steal is the item stolen.",
+            "answers": [
+                "robbed",
+                "stole"
+            ],
+            "correct": 1,
+            "id": "75ce9f8b2ea3489297f7eae45f002e2f"
+        },
+        {
+            "question": "The boy complained that somebody had ............................. his bicycle.",
+            "description": "You steal something.",
+            "answers": [
+                "robbed",
+                "stolen"
+            ],
+            "correct": 1,
+            "id": "61507ee79ae94eee969764c3cd465811"
+        },
+        {
+            "question": "Someone ................................... my phone on the train.",
+            "description": "You steal something. You rob someone.",
+            "answers": [
+                "robbed",
+                "stole"
+            ],
+            "correct": 1,
+            "id": "b70a6735d384400d82e0c299c14c6a36"
+        },
+        {
+            "question": "The travelers were ................................... at knifepoint.",
+            "description": "",
+            "answers": [
+                "robbed",
+                "stolen"
+            ],
+            "correct": 0,
+            "id": "8b1bd39dda5e48bb919e11effdf543b7"
+        },
+        {
+            "question": "She accused me of ................................. her money.",
+            "description": "You steal an object. You rob a person or place. ",
+            "answers": [
+                "stealing",
+                "robbing"
+            ],
+            "correct": 0,
+            "id": "b6a772074176480caa74517b0eb55fa1"
+        },
+        {
+            "question": "The bandits ................................. the travelers.",
+            "description": "You rob a person.",
+            "answers": [
+                "robbed",
+                "stole"
+            ],
+            "correct": 0,
+            "id": "dadc085e31e2488db6706cc18b4d4972"
+        },
+        {
+            "question": "The thieves ................................ jewelry worth thousands of dollars.",
+            "description": "",
+            "answers": [
+                "stole",
+                "robbed"
+            ],
+            "correct": 0,
+            "id": "18821c8e316842e49dce1f88f1faa808"
+        },
+        {
+            "question": "Someone ............................. me on the train.",
+            "description": "",
+            "answers": [
+                "stole",
+                "robbed"
+            ],
+            "correct": 1,
+            "id": "f6b32acd24d5439b88b8a8311587c7da"
+        },
+        {
+            "question": "He was arrested for ………………………… the policeman’s helmet.",
+            "description": "",
+            "answers": [
+                "stealing",
+                "robbing"
+            ],
+            "correct": 0,
+            "id": "e8b268baf93f4e0fa2a48eb787b64985"
+        },
+        {
+            "question": "The bank was ……………………….. last night.",
+            "description": "",
+            "answers": [
+                "stolen",
+                "robbed"
+            ],
+            "correct": 1,
+            "id": "184eb506fd5f454ab3e6ffc6ae38cbae"
+        },
+        {
+            "question": "The house was ……………………… while the family was on vacation.",
+            "description": "To talk about a house we use burgle.",
+            "answers": [
+                "stolen",
+                "robbed",
+                "burgled"
+            ],
+            "correct": 2,
+            "id": "9514e9c97ce640c38811e02a740d5456"
+        }
+    ]
+}

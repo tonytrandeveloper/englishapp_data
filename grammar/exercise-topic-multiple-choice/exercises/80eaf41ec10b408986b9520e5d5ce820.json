@@ -1,0 +1,126 @@
+{
+    "id": "80eaf41ec10b408986b9520e5d5ce820",
+    "title": "Gerund Vs. Infinitive",
+    "questions": [
+        {
+            "question": "I am confident of ……………………….. the race.",
+            "description": "Use an ing form after a preposition.",
+            "answers": [
+                "winning",
+                "to win"
+            ],
+            "correct": 0,
+            "id": "6ab8e43e36874c109ce62a0ed4d96af5"
+        },
+        {
+            "question": "She insisted on ……………………….. with me.",
+            "description": "Use an ing form after a preposition. ",
+            "answers": [
+                "coming",
+                "to come"
+            ],
+            "correct": 0,
+            "id": "9e6c8de9929c42ebaa5514d8f6624a46"
+        },
+        {
+            "question": "You have no moral right ………………………… me.",
+            "description": "",
+            "answers": [
+                "questioning",
+                "to question"
+            ],
+            "correct": 1,
+            "id": "1e58a74200034d55b354a46c18baac16"
+        },
+        {
+            "question": "It is wrong …………………………. people.",
+            "description": "",
+            "answers": [
+                "judging",
+                "to judge"
+            ],
+            "correct": 1,
+            "id": "701b2efbb3254af1ba213a49973baed0"
+        },
+        {
+            "question": "I hope ……………………….. good marks.",
+            "description": "",
+            "answers": [
+                "to get",
+                "getting"
+            ],
+            "correct": 0,
+            "id": "f13de74737854b60976c47a3204a229e"
+        },
+        {
+            "question": "He is eager ………………………..",
+            "description": "",
+            "answers": [
+                "to leave",
+                "leaving"
+            ],
+            "correct": 0,
+            "id": "32d07615e5cb4cc2ab8a67ceac02959d"
+        },
+        {
+            "question": "They need someone ………………………… care of their dogs when they are away.",
+            "description": "",
+            "answers": [
+                "taking",
+                "to take"
+            ],
+            "correct": 1,
+            "id": "371227fef29e4fcfb1fa10d9d37b0ea7"
+        },
+        {
+            "question": "I warned him ………………………… careful.",
+            "description": "",
+            "answers": [
+                "being",
+                "to be"
+            ],
+            "correct": 1,
+            "id": "413af267a9c241fc9086dd71a9e33d12"
+        },
+        {
+            "question": "I expect my brother …………………………. at six.",
+            "description": "",
+            "answers": [
+                "calling",
+                "to call"
+            ],
+            "correct": 1,
+            "id": "59500de33c814463bd40fa54521d10a7"
+        },
+        {
+            "question": "She longs …………………………… her family.",
+            "description": "",
+            "answers": [
+                "meeting",
+                "to meet"
+            ],
+            "correct": 1,
+            "id": "50f32c13f87a4fc892ad8aa248f246c8"
+        },
+        {
+            "question": "I enjoy ……………………………. in the moonshine.",
+            "description": "Enjoy is followed by an ing form.",
+            "answers": [
+                "walking",
+                "to walk"
+            ],
+            "correct": 0,
+            "id": "7a6c9c9088b644c8a5f797a24e01f33a"
+        },
+        {
+            "question": "I was surprised ……………………….. him there.",
+            "description": "",
+            "answers": [
+                "finding",
+                "to find"
+            ],
+            "correct": 1,
+            "id": "8165f2e0df31480784efbf0355cda5dd"
+        }
+    ]
+}

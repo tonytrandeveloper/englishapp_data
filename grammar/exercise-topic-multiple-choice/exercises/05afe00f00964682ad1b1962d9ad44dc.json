@@ -1,0 +1,136 @@
+{
+    "id": "05afe00f00964682ad1b1962d9ad44dc",
+    "title": "Infinitive Complements Exercise",
+    "questions": [
+        {
+            "question": "She didn’t want ……………………",
+            "description": "Want is usually followed by object + infinitive. That-clauses are not normally used after want.",
+            "answers": [
+                "that I go",
+                "me to go",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e78d9393384e4873a7b454f5660b4e86"
+        },
+        {
+            "question": "They don’t allow ………………………….",
+            "description": "",
+            "answers": [
+                "that visitors access the library",
+                "visitors to access the library"
+            ],
+            "correct": 1,
+            "id": "7c9f88e5698643e4bcb11570fab23ef0"
+        },
+        {
+            "question": "I didn’t ask ………………………….. the tickets.",
+            "description": "That-clauses are unusual after ask.",
+            "answers": [
+                "that you buy",
+                "you to buy",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "ce63921d3c244d32b27e78c65091f8f3"
+        },
+        {
+            "question": "Why don’t you let me ………………………?",
+            "description": "Some verbs are followed by object + infinitive without to. Let is one of them.",
+            "answers": [
+                "explain",
+                "to explain",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "94a2918380154fa2b8c506ffe7fc21ea"
+        },
+        {
+            "question": "I watched the kids ………………………… in the garden.",
+            "description": "Watch is followed by object + infinitive without to.",
+            "answers": [
+                "play",
+                "to play",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ada4988ed70d47d59963eb25dc252cf1"
+        },
+        {
+            "question": "I heard her ………………………….. the door and go out.",
+            "description": "Heard is followed by an infinitive without to.",
+            "answers": [
+                "open",
+                "to open",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ce67701170f44323adac566df18f382e"
+        },
+        {
+            "question": "I suggested ………………………… consult a doctor.",
+            "description": "Suggest cannot be followed by object + infinitive.",
+            "answers": [
+                "her to",
+                "that she should",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "799ba89f45854d7da4f329954168cbb5"
+        },
+        {
+            "question": "You are advised ……………………………. early.",
+            "description": "Passive forms of advise can be followed by object + infinitive.",
+            "answers": [
+                "come",
+                "to come",
+                "that you should come"
+            ],
+            "correct": 1,
+            "id": "5813436dafeb4001af0ec38874c7939e"
+        },
+        {
+            "question": "Is it the first time ……………………………. here?",
+            "description": "Here the expression first time has no subject relationship with the following verb and hence the infinitive structure is not possible here.",
+            "answers": [
+                "for you to stay here",
+                "that you have stayed"
+            ],
+            "correct": 1,
+            "id": "b6fb2111da874f3196a3fa41f5a668c9"
+        },
+        {
+            "question": "She is the oldest athlete …………………… an Olympic medal.",
+            "description": "Superlatives can usually be followed by an infinitive structure. The meaning is very similar to an identifying relative clause.",
+            "answers": [
+                "ever to win",
+                "who has ever won",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "6b81c36c3c6e4adc9d0bb7a8d1c4bc75"
+        },
+        {
+            "question": "I saw him .................................... the money.",
+            "description": "After see, the infinitive is used without to. ",
+            "answers": [
+                "steal",
+                "to steal",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "6660ec94a49540ea98a6a4890c2bdd2c"
+        },
+        {
+            "question": "You don't look happy ....................................... me.",
+            "description": "Happy is followed by an infinitive with to. ",
+            "answers": [
+                "seeing",
+                "to see",
+                "to seeing"
+            ],
+            "correct": 1,
+            "id": "07ce3402744a4f8892a1faa0d967c6da"
+        }
+    ]
+}

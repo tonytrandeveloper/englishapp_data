@@ -1,0 +1,138 @@
+{
+    "id": "61c4f6cd4fa043f2b4e67ad411d6a0a2",
+    "title": "Conjunctions Quiz",
+    "questions": [
+        {
+            "question": "I was ill .......................... I didn't go to work.",
+            "description": "The conjunction 'so' shows the result whereas the conjunctions as and because show the cause.",
+            "answers": [
+                "so",
+                "because",
+                "as"
+            ],
+            "correct": 0,
+            "id": "9f64cd956c304ed19f4faf72be63fdbe"
+        },
+        {
+            "question": "You should get your license renewed at once ................... pay a fine.",
+            "description": "The conjunction 'or' is used to present alternatives.",
+            "answers": [
+                "or",
+                "nor",
+                "but"
+            ],
+            "correct": 0,
+            "id": "67fc5d852c044afcacf4fc373fb7d19f"
+        },
+        {
+            "question": ".......................... there is no demand for this type of book, I cannot place an order.",
+            "description": "The conjunctions as and since are used to give the reason.",
+            "answers": [
+                "Since",
+                "As",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "e0cf170806e440d9a31424f26765866c"
+        },
+        {
+            "question": "My grandfather has never flown in an airplane .......................... does he want to fly in one.",
+            "description": "Neither and nor can mean 'also not'. They can come at the beginning of a clause and are followed by an inverted word order.",
+            "answers": [
+                "neither",
+                "nor",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "f7fdcd45c5634cf0ad0918eae3ed9313"
+        },
+        {
+            "question": "I am very tired ................................ I have been working all day.",
+            "description": "",
+            "answers": [
+                "so",
+                "because",
+                "therefore"
+            ],
+            "correct": 1,
+            "id": "0e84188b7c9e4a05aaae8ac6d1fab245"
+        },
+        {
+            "question": "She not only gave us a fine dinner ......................... drove us back home.",
+            "description": "The correct expression is not only / but also.",
+            "answers": [
+                "but",
+                "but also",
+                "also"
+            ],
+            "correct": 1,
+            "id": "7a8c6e3fff994e7fb87a83141181d472"
+        },
+        {
+            "question": "Cold ............................. it was, we went out.",
+            "description": "After an adjective or adverb, as and though can be used to mean 'although'. Note that although is not possible in this structure. ",
+            "answers": [
+                "though",
+                "although",
+                "even though"
+            ],
+            "correct": 0,
+            "id": "f09cf2f042ba499f84950b875dd53e61"
+        },
+        {
+            "question": "I am not angry. ............................. anything I feel a little surprised.",
+            "description": "If can be used before non-assertive words like any, anything, ever and not.",
+            "answers": [
+                "If",
+                "Unless",
+                "Whether"
+            ],
+            "correct": 0,
+            "id": "3cd203ad4e1f45b788ab5f22ce028689"
+        },
+        {
+            "question": "The Kaziranga National Park is a World Heritage Site ....................... hosts two-thirds of the one-horned rhinoceros in the world.",
+            "description": "'That' is a relative pronoun but it is also possible here.",
+            "answers": [
+                "and",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "7655f1ddb72d4f8ab9d5ceb0b526e355"
+        },
+        {
+            "question": "August 31st is a national holiday ............................ everybody dances in the streets.",
+            "description": "When indicates time where indicates place. That cannot be used instead of when or where.",
+            "answers": [
+                "when",
+                "where",
+                "that"
+            ],
+            "correct": 0,
+            "id": "27fd5b7db08e4ab1a48ad99767e34f11"
+        },
+        {
+            "question": "Strange ............................ it may sound, I don't like watching cricket.",
+            "description": "After an adjective or an adverb, as and though can be used in a special structure. ",
+            "answers": [
+                "as",
+                "though",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "7b0a25e3910d4b61a1145e4226c4bc39"
+        },
+        {
+            "question": "We will get there ................................... you do.",
+            "description": "",
+            "answers": [
+                "sonner",
+                "as soon as",
+                "as soon than"
+            ],
+            "correct": 1,
+            "id": "465f533f3db94228939f93ed97f2b9c8"
+        }
+    ]
+}

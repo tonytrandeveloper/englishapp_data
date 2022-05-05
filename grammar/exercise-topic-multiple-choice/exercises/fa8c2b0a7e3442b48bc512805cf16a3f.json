@@ -1,0 +1,138 @@
+{
+    "id": "fa8c2b0a7e3442b48bc512805cf16a3f",
+    "title": "Conditional Clauses Exercise",
+    "questions": [
+        {
+            "question": "If I find the key I …………………….. it to you.",
+            "description": "In the first conditional, use a simple present tense in the if-clause and will + first form of the verb in the main clause. ",
+            "answers": [
+                "will give",
+                "would give",
+                "would have given"
+            ],
+            "correct": 0,
+            "id": "e5c14712383948edbc76fa7101b8716f"
+        },
+        {
+            "question": "If you ……………………… hard, you would get the first rank.",
+            "description": "In the second conditional, use a simple past tense in the if-clause and would / could / might + first form of the verb in the main clause. ",
+            "answers": [
+                "study",
+                "studied",
+                "had studied"
+            ],
+            "correct": 1,
+            "id": "a64828c5894048a09a3f925e3c8dc4a5"
+        },
+        {
+            "question": "If she finds out we ………………………. in trouble.",
+            "description": "",
+            "answers": [
+                "will be",
+                "would be",
+                "would have been"
+            ],
+            "correct": 0,
+            "id": "2bd178170e6c4f7fbc6210c0e9b7ef0a"
+        },
+        {
+            "question": "If it is late, we ……………………….. out now.",
+            "description": "",
+            "answers": [
+                "cannot go",
+                "could not go",
+                "could not have gone"
+            ],
+            "correct": 0,
+            "id": "032cc0f5c7d1423692c0586e08b7c0fb"
+        },
+        {
+            "question": "If you ………………………. non-stop, your health will suffer.",
+            "description": "",
+            "answers": [
+                "work",
+                "worked",
+                "had worked"
+            ],
+            "correct": 0,
+            "id": "2ee851f65f4a4863a42579848d04bd60"
+        },
+        {
+            "question": "If I had gone to university, I …………………………… a better job.",
+            "description": "In the third conditional use a past perfect tense in the if clause and would have + past participle in the main clause. ",
+            "answers": [
+                "can find",
+                "could find",
+                "could have found"
+            ],
+            "correct": 2,
+            "id": "072f4fce1ece4902bf6ae2db3120ff00"
+        },
+        {
+            "question": "If you ……………………….. that dog alone, it wouldn’t have bitten you.",
+            "description": "",
+            "answers": [
+                "leave",
+                "had left",
+                "left"
+            ],
+            "correct": 1,
+            "id": "79dcb45f14e94830a927410600b8a6d1"
+        },
+        {
+            "question": "If you had listened to me, you …………………………….. in trouble.",
+            "description": "",
+            "answers": [
+                "will not be",
+                "would not be",
+                "would not have been"
+            ],
+            "correct": 2,
+            "id": "3165ddef6019439e95e489cb6f0a8dcb"
+        },
+        {
+            "question": "If I ………………………. guests tomorrow, I will not be able to come with you.",
+            "description": "",
+            "answers": [
+                "have",
+                "had",
+                "will have"
+            ],
+            "correct": 0,
+            "id": "f2f4a2afe1104701874db86a5e030f67"
+        },
+        {
+            "question": "If you ………………………. a billionaire, how would you spend your money?",
+            "description": "",
+            "answers": [
+                "are",
+                "were",
+                "had been"
+            ],
+            "correct": 1,
+            "id": "b40797851f6443fe8e390e6c91ac0c26"
+        },
+        {
+            "question": "If I were you, I …………………………. this.",
+            "description": "",
+            "answers": [
+                "will not tolerate",
+                "would not tolerate",
+                "would not have tolerated"
+            ],
+            "correct": 1,
+            "id": "1cd89c03dbea4b4093669bdc92751573"
+        },
+        {
+            "question": "If you had asked me, I …………………………. you.",
+            "description": "",
+            "answers": [
+                "will tell",
+                "would tell",
+                "would have told"
+            ],
+            "correct": 2,
+            "id": "276ceb67c1a349a8a791e2cc20f8c854"
+        }
+    ]
+}

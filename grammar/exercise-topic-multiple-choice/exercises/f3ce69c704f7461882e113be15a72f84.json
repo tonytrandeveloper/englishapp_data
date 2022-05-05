@@ -1,0 +1,138 @@
+{
+    "id": "f3ce69c704f7461882e113be15a72f84",
+    "title": "Modals Exercise",
+    "questions": [
+        {
+            "question": "…………………….. you mind moving a bit?",
+            "description": "Would is used in polite requests.",
+            "answers": [
+                "Will",
+                "Would",
+                "Should"
+            ],
+            "correct": 1,
+            "id": "b2e4b363f62a462490b1f86ba4d7928d"
+        },
+        {
+            "question": "…………………… you lend me your vacuum cleaner?",
+            "description": "",
+            "answers": [
+                "Will",
+                "Shall",
+                "Should"
+            ],
+            "correct": 0,
+            "id": "a7fe7468fa6d43e0843f32a745dea69b"
+        },
+        {
+            "question": "You ……………………….. not repeat this.",
+            "description": "Shall can express an order when used with second and third person pronouns.",
+            "answers": [
+                "shall",
+                "may",
+                "might"
+            ],
+            "correct": 0,
+            "id": "092b75946b3341498fcf37a8cc50d403"
+        },
+        {
+            "question": "You ……………………….. pay for this.",
+            "description": "When used with second and third person pronouns, shall can indicate a threat.",
+            "answers": [
+                "shall",
+                "should",
+                "would"
+            ],
+            "correct": 0,
+            "id": "d62ce64d11854794902ec69c9a3d1f8e"
+        },
+        {
+            "question": "………………………… I call the doctor?",
+            "description": "",
+            "answers": [
+                "Should",
+                "Would",
+                "Will"
+            ],
+            "correct": 0,
+            "id": "1eeb7bfcc6324766b92e340848636249"
+        },
+        {
+            "question": "All students ………………………… submit their assignments by Friday.",
+            "description": "Should indicates obligation. ",
+            "answers": [
+                "would",
+                "should",
+                "could"
+            ],
+            "correct": 1,
+            "id": "53bbc073a22f4f33aec412a4b84cdb24"
+        },
+        {
+            "question": "You …………………………… leave early if you are not feeling well.",
+            "description": "Either can or may is possible here. ",
+            "answers": [
+                "can",
+                "may",
+                "will"
+            ],
+            "correct": 1,
+            "id": "536662e554a2453598542e959189a82d"
+        },
+        {
+            "question": "You ………………………….. not have done this to me.",
+            "description": "The expression should not have is used to criticize people for doing things.",
+            "answers": [
+                "would",
+                "should",
+                "will"
+            ],
+            "correct": 1,
+            "id": "38c6c9c4200e4245901d2168ed144e9c"
+        },
+        {
+            "question": "The workers asked if they ………………………… leave early.",
+            "description": "",
+            "answers": [
+                "would",
+                "can",
+                "could"
+            ],
+            "correct": 2,
+            "id": "fb4c6a906e21403d9e6c1198e079d6c6"
+        },
+        {
+            "question": "I ………………………… sing better when I was younger.",
+            "description": "We use could to indicate past ability.",
+            "answers": [
+                "should",
+                "would",
+                "could"
+            ],
+            "correct": 2,
+            "id": "d91e7f8b70e34368bee6aa00c0957e3d"
+        },
+        {
+            "question": "If I knew his name, I ………………………. tell you.",
+            "description": "In the second conditional we use a simple past in the if-clause and would + first form of the verb in the main clause.",
+            "answers": [
+                "will",
+                "would",
+                "should"
+            ],
+            "correct": 1,
+            "id": "545452433b5144b8b7aa76de5b996b85"
+        },
+        {
+            "question": "He hung up before I ............................. say a word.",
+            "description": "",
+            "answers": [
+                "can",
+                "could",
+                "would"
+            ],
+            "correct": 1,
+            "id": "e324491416814279a7c39c5774803222"
+        }
+    ]
+}

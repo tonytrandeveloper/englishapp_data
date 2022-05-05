@@ -1,0 +1,138 @@
+{
+    "id": "74ec9cae3ed042fab9efaac2b2d4f9a7",
+    "title": "Tag Questions Exercise",
+    "questions": [
+        {
+            "question": "You met Sam yesterday, ...................................?",
+            "description": "In the simple past tense, we make question tags with did. We use a negative tag after an affirmative sentence.",
+            "answers": [
+                "did you",
+                "didn't you",
+                "hadn't you"
+            ],
+            "correct": 1,
+            "id": "9061de7569474e3ca902390b0b93f7f3"
+        },
+        {
+            "question": "She can run a mile in 5 minutes, …………………………….?",
+            "description": "",
+            "answers": [
+                "can't she",
+                "can she",
+                "does she"
+            ],
+            "correct": 0,
+            "id": "2d6eae4feb9548678b1c952f9a09366b"
+        },
+        {
+            "question": "The child recognized her grandparents instantly, …………………………………?",
+            "description": "In the simple past tense, we make questions tags with did.",
+            "answers": [
+                "did she",
+                "didn't she",
+                "hadn't she"
+            ],
+            "correct": 1,
+            "id": "7d0a0bbb085f4dd9b115eae8c08766e7"
+        },
+        {
+            "question": "The man sells fruits in a local market, …………………………………..?",
+            "description": "In the simple present tense, we make question tags with do or does. Use do with plural subjects and use does with singular subjects. ",
+            "answers": [
+                "does he",
+                "doesn't he",
+                "hasn't he"
+            ],
+            "correct": 1,
+            "id": "2f46dbff9dc345fba52276c62230c9ca"
+        },
+        {
+            "question": "She said nothing, ……………………………………?",
+            "description": "Nothing is a negative word. Use an affirmative tag after it. ",
+            "answers": [
+                "didn't she",
+                "did she",
+                "hadn't she"
+            ],
+            "correct": 1,
+            "id": "aa4267cb25dc47e9a7365db1a9afa97f"
+        },
+        {
+            "question": "You didn’t see anything, ……………………………….?",
+            "description": "",
+            "answers": [
+                "did you",
+                "didn't you",
+                "hadn't you"
+            ],
+            "correct": 0,
+            "id": "31c1011f66784d94b45051bffb605df7"
+        },
+        {
+            "question": "Janet calls her parents every day, ………………………………..?",
+            "description": "In the simple present tense, we make question tags with do or does. ",
+            "answers": [
+                "does she",
+                "doesn't she",
+                "didn't she"
+            ],
+            "correct": 1,
+            "id": "db4fd19b77fd48e89021fc2cc798ebb1"
+        },
+        {
+            "question": "He has faced many setbacks in life, ………………………………..?",
+            "description": "",
+            "answers": [
+                "has he",
+                "hasn't he",
+                "didn't he"
+            ],
+            "correct": 1,
+            "id": "f840c8ed4bf2429a85d83d6a5064a1c9"
+        },
+        {
+            "question": "He is never late for work, ……………………………….?",
+            "description": "An affirmative tag is used after never.",
+            "answers": [
+                "is he",
+                "isn't he",
+                "hasn't he"
+            ],
+            "correct": 0,
+            "id": "5dcbda176d3846b99b211ffccc134bd7"
+        },
+        {
+            "question": "Help me, ……………………………………?",
+            "description": "After imperatives we use will you? or can't you? to ask people to do something. ",
+            "answers": [
+                "will you",
+                "do you",
+                "won't you"
+            ],
+            "correct": 0,
+            "id": "71e4f6d7a5584cb68af1bc78e6deac9d"
+        },
+        {
+            "question": "Come here, ……………………………?",
+            "description": "After imperatives we use will you? or can't you? to ask people to do something. ",
+            "answers": [
+                "will you",
+                "can't you",
+                "won't you"
+            ],
+            "correct": 1,
+            "id": "2824a886f79d4805a30c0d4c2fe5b57c"
+        },
+        {
+            "question": "There is hardly anything we can do, ………………………………..?",
+            "description": "An affirmative tag is used after hardly.",
+            "answers": [
+                "is there",
+                "isn't there",
+                "doesn't there"
+            ],
+            "correct": 0,
+            "id": "1ce86a72525242389d859694acfe2dd1"
+        }
+    ]
+}

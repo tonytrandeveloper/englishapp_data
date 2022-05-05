@@ -1,0 +1,139 @@
+{
+    "id": "16ed5e8f978240e4889780ec9c3b2d27",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "Let’s watch a movie, ……………………?",
+            "description": "Shall we is used in question tags after let's.",
+            "answers": [
+                "can we",
+                "shall we",
+                "should we"
+            ],
+            "correct": 1,
+            "id": "adcf221198de4de2aafa76dcde6b5761"
+        },
+        {
+            "question": "None of the students participated in the program, ……………………….?",
+            "description": "Affirmative tags are used after negative expressions like none, hardly, seldom etc. ",
+            "answers": [
+                "did they",
+                "didn't they",
+                "had they"
+            ],
+            "correct": 0,
+            "id": "7b9f05e0d85647f8a1ffe9eb9b2b2f43"
+        },
+        {
+            "question": "I bought a laptop. Change voice.",
+            "description": "In the simple past, the passive form is made with was/were + v3.",
+            "answers": [
+                "A laptop is bought by me.",
+                "A laptop was bought by me.",
+                "A laptop has been bought by me."
+            ],
+            "correct": 1,
+            "id": "5f43c9f0a0904d448b75b2271145a2d8"
+        },
+        {
+            "question": "She was cooking dinner. Change voice.",
+            "description": "In the past continuous, the passive form is made with was/were + being + v3.",
+            "answers": [
+                "Dinner was cooking her.",
+                "Dinner was cooked by her.",
+                "Dinner was being cooked by her."
+            ],
+            "correct": 2,
+            "id": "157fd14045f94b44ae53ce482ca07ecd"
+        },
+        {
+            "question": "She said to me, ‘I have lost faith in you.’ Change into indirect speech.",
+            "description": "",
+            "answers": [
+                "She told me she has lost faith in me.",
+                "She told me that she lost faith in me.",
+                "She told me that she had lost faith in me."
+            ],
+            "correct": 2,
+            "id": "26e659da68474ff9813eba2459d63dac"
+        },
+        {
+            "question": "If I hadn’t overslept, I …………………….. the train.",
+            "description": "In the third conditional, we use a past perfect tense in the if clause and would + have + past participle in the main clause. ",
+            "answers": [
+                "wouldn't have missed",
+                "wouldn't miss",
+                "won't miss"
+            ],
+            "correct": 0,
+            "id": "dfc580fd780e42a4a17161d6f1486acb"
+        },
+        {
+            "question": "Haste ……………………. waste.",
+            "description": "",
+            "answers": [
+                "creates",
+                "generates",
+                "produces",
+                "makes"
+            ],
+            "correct": 3,
+            "id": "d97b6929b98b4d329c41d6faddd1abdf"
+        },
+        {
+            "question": "The man along with his children ……………………… walking in the rain.",
+            "description": "When we connect two subject with along with, the verb agrees with the first subject. ",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "6e3d882418234521bad25edbf67ff94d"
+        },
+        {
+            "question": "Thousand dollars ……………………. not a small sum.",
+            "description": "",
+            "answers": [
+                "are",
+                "is",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "b5378bf321b8467684b293a075f5a080"
+        },
+        {
+            "question": "I …………………… the office at",
+            "description": "",
+            "answers": [
+                "left",
+                "have left",
+                "had left"
+            ],
+            "correct": 0,
+            "id": "13fef6bbc59142029685b9b6fa383ed7"
+        },
+        {
+            "question": "A person who works for somebody in order to learn a skill",
+            "description": "",
+            "answers": [
+                "assistant",
+                "freshman",
+                "disciple",
+                "apprentice"
+            ],
+            "correct": 3,
+            "id": "a32224ff05fc46ffa147b08cf48665c8"
+        },
+        {
+            "question": "He decided ………………….. the blue shirt.",
+            "description": "",
+            "answers": [
+                "to",
+                "for",
+                "on"
+            ],
+            "correct": 2,
+            "id": "1ba3e6ecd7e44867982a3209da3a0d97"
+        }
+    ]
+}

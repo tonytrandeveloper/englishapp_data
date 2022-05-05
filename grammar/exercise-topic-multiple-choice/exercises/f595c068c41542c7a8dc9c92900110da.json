@@ -1,0 +1,133 @@
+{
+    "id": "f595c068c41542c7a8dc9c92900110da",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "I would like to ask ……………………… questions.",
+            "description": "Use a few to refer to a small number.",
+            "answers": [
+                "few",
+                "a few",
+                "the few"
+            ],
+            "correct": 1,
+            "id": "8ab78fa837b84027b0e5868bd77fcf90"
+        },
+        {
+            "question": "I didn’t find …………………………… there.",
+            "description": "Use any, anyone, anybody, anything etc. in questions and negatives. ",
+            "answers": [
+                "no one",
+                "anyone",
+                "someone"
+            ],
+            "correct": 1,
+            "id": "4a4d26a9d25e4fc8b9e5a97ce7c0cd0a"
+        },
+        {
+            "question": "Very …………………………… politicians are really honest.",
+            "description": "",
+            "answers": [
+                "few",
+                "a few",
+                "the few"
+            ],
+            "correct": 0,
+            "id": "276d1c4e2f8a4186be396c3df111977a"
+        },
+        {
+            "question": "Only ………………………… politicians are really honest.",
+            "description": "There is not much difference between only a few and very few.",
+            "answers": [
+                "few",
+                "a few",
+                "the few"
+            ],
+            "correct": 1,
+            "id": "3edab4f5c2164cdc8d219a38990b4f7d"
+        },
+        {
+            "question": "………………………… agreed to come with me.",
+            "description": "Either someone or no one is possible here. Note that the meanings are different. ",
+            "answers": [
+                "Someone",
+                "Anyone",
+                "No one"
+            ],
+            "correct": 2,
+            "id": "7cbc6fff5c7442d99956ebf3f3f04d37"
+        },
+        {
+            "question": "She doesn’t have ………………………… friends.",
+            "description": "Use many before a plural noun.",
+            "answers": [
+                "many",
+                "much"
+            ],
+            "correct": 0,
+            "id": "31f9eff4fd784cdcaba53423d85c63f4"
+        },
+        {
+            "question": "I had …………………………… to help me.",
+            "description": "No one means the same as not anyone.",
+            "answers": [
+                "anyone",
+                "no one"
+            ],
+            "correct": 1,
+            "id": "cf96effbfb854fa1be1786fefd95b974"
+        },
+        {
+            "question": "There are …………………………….. birds on the tree.",
+            "description": "Use some in affirmative sentences. ",
+            "answers": [
+                "some",
+                "any"
+            ],
+            "correct": 0,
+            "id": "d58ee2ef01524eb4a5bcc891bf788669"
+        },
+        {
+            "question": "Does …………………………. know the answer?",
+            "description": "",
+            "answers": [
+                "someone",
+                "anyone",
+                "no one"
+            ],
+            "correct": 1,
+            "id": "45cf3d69f99846bfba6b1925f8e72b10"
+        },
+        {
+            "question": "I would like to find …………………………… books on western philosophy.",
+            "description": "",
+            "answers": [
+                "some",
+                "any"
+            ],
+            "correct": 0,
+            "id": "22173bca55624c06926f6cbdcedd28d8"
+        },
+        {
+            "question": "I don’t have ……………………….. money.",
+            "description": "",
+            "answers": [
+                "many",
+                "much"
+            ],
+            "correct": 1,
+            "id": "4fa841ca554d46df95be36945da1dd08"
+        },
+        {
+            "question": "Does ………………………. know where she lives?",
+            "description": "",
+            "answers": [
+                "anybody",
+                "somebody",
+                "nobody"
+            ],
+            "correct": 0,
+            "id": "af669e25bea84124938bcb5737d9a89b"
+        }
+    ]
+}

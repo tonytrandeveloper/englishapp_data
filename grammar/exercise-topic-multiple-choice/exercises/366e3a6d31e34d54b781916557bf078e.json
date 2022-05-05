@@ -1,0 +1,138 @@
+{
+    "id": "366e3a6d31e34d54b781916557bf078e",
+    "title": "Active And Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "The letters ................................ in the morning.",
+            "description": "A passive verb is required here because the subject is not the doer of the action. ",
+            "answers": [
+                "posted",
+                "have posted",
+                "were posted"
+            ],
+            "correct": 2,
+            "id": "438b91ae30504aae9cb3eab50a46f031"
+        },
+        {
+            "question": "She .................................... of our decision.",
+            "description": "A passive verb is required here because the subject is not the doer of the action. ",
+            "answers": [
+                "has informed",
+                "informed",
+                "has been informed"
+            ],
+            "correct": 2,
+            "id": "a6ef71a1d1bc4e90ae67ef1d5c9f2af7"
+        },
+        {
+            "question": "The old man .................................... alone for many years.",
+            "description": "Either the present perfect or the present perfect continuous tense is possible here.",
+            "answers": [
+                "has been living",
+                "has been lived",
+                "has lived"
+            ],
+            "correct": 2,
+            "id": "b6b57b7e711e47afab2a506f163d8cb2"
+        },
+        {
+            "question": "His kind words ................................ me.",
+            "description": "An active verb is required here because the subject is the doer of action. ",
+            "answers": [
+                "were encouraged",
+                "encouraged",
+                "were being encouraging"
+            ],
+            "correct": 1,
+            "id": "479185e3af734d8ba6db6d5e2f398bf8"
+        },
+        {
+            "question": "I .................................... by his kind words.",
+            "description": "A passive verb is required here because the subject is not the doer of the action. ",
+            "answers": [
+                "encouraged",
+                "was encouraged",
+                "was encouraging"
+            ],
+            "correct": 1,
+            "id": "053d1f4b6518485c8c4d1b26a99933ed"
+        },
+        {
+            "question": "He .................................... everything in detail.",
+            "description": "",
+            "answers": [
+                "explained",
+                "was explained",
+                "has been explained"
+            ],
+            "correct": 0,
+            "id": "319a09b75d8441889f5b253fafb8303e"
+        },
+        {
+            "question": "Everything ................................. in detail.",
+            "description": "A passive verb is required here because the subject is not the doer of the action. ",
+            "answers": [
+                "explained",
+                "was explained",
+                "has explained"
+            ],
+            "correct": 1,
+            "id": "766a1e6e6e4d441cafb3e3f398eaa44f"
+        },
+        {
+            "question": "She ................................. him instantly.",
+            "description": "",
+            "answers": [
+                "recognized",
+                "has been recognized",
+                "was recognized"
+            ],
+            "correct": 0,
+            "id": "fb151b3dd9b0468aa2cf6b7c86e08a73"
+        },
+        {
+            "question": "He ...................................",
+            "description": "A passive verb is required here because the subject is not the doer of the action. ",
+            "answers": [
+                "instantly deported",
+                "has instantly deported",
+                "was instantly deported"
+            ],
+            "correct": 2,
+            "id": "d90246e1b0bc436e8e817f20148d27bc"
+        },
+        {
+            "question": "I .................................. unawares.",
+            "description": "",
+            "answers": [
+                "caught",
+                "was caught",
+                "have caught"
+            ],
+            "correct": 1,
+            "id": "b4da21b7bb9844c985b788663d957c47"
+        },
+        {
+            "question": "She ................................ into the room happily.",
+            "description": "",
+            "answers": [
+                "danced",
+                "was danced",
+                "has danced"
+            ],
+            "correct": 0,
+            "id": "b7c0bd3742594016a074b329fdaf9e99"
+        },
+        {
+            "question": "She ................................ aback.",
+            "description": "",
+            "answers": [
+                "took",
+                "was taken",
+                "has taken"
+            ],
+            "correct": 1,
+            "id": "668826c3603b47f2bde94e1bcc922c5a"
+        }
+    ]
+}

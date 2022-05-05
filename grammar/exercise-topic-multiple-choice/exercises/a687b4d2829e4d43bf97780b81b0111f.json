@@ -1,0 +1,137 @@
+{
+    "id": "a687b4d2829e4d43bf97780b81b0111f",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The council ……………………………. of ten members.",
+            "description": "Council is a singular subject, so write consists. ",
+            "answers": [
+                "consists",
+                "consisting",
+                "consist"
+            ],
+            "correct": 0,
+            "id": "96b4f69bb51b4efdbb7bc70e1e04e4e6"
+        },
+        {
+            "question": "Later on he ………………………….. his mistake.",
+            "description": "",
+            "answers": [
+                "realized",
+                "has realized",
+                "was realized"
+            ],
+            "correct": 0,
+            "id": "9e65acc21af54380b47cd4e9c3f9f73f"
+        },
+        {
+            "question": "He asked ………………………… my name was.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "which"
+            ],
+            "correct": 1,
+            "id": "2461dd60d2b44be1a0d20b0474400efc"
+        },
+        {
+            "question": "I ……………………….. them for help.",
+            "description": "",
+            "answers": [
+                "asked",
+                "asked to"
+            ],
+            "correct": 0,
+            "id": "8ce486ffc7c04b9da3165d93afd106a1"
+        },
+        {
+            "question": "This is the key I was ………………………….",
+            "description": "To look for something is to search for it. ",
+            "answers": [
+                "looking",
+                "searching",
+                "seeing",
+                "looking for"
+            ],
+            "correct": 3,
+            "id": "b850a0a46c514e0fa5cebe52c67b2c5f"
+        },
+        {
+            "question": "I …………………………. him to go.",
+            "description": "We use tell before a personal object. ",
+            "answers": [
+                "said",
+                "told",
+                "spoke"
+            ],
+            "correct": 1,
+            "id": "80ad162d7ad14c3a861a2b734d6efbe4"
+        },
+        {
+            "question": "He is used to ………………………….",
+            "description": "Use an ing form after used to.",
+            "answers": [
+                "smoke",
+                "smoking"
+            ],
+            "correct": 1,
+            "id": "a9643b9e88714d17a36baa9d5f76188f"
+        },
+        {
+            "question": "He ………………………. the red shirt.",
+            "description": "",
+            "answers": [
+                "choose",
+                "chose",
+                "chosen"
+            ],
+            "correct": 1,
+            "id": "ace9b92b8b2e4d84b3e967020c937c77"
+        },
+        {
+            "question": "I would prefer to starve ………………………….. to beg.",
+            "description": "",
+            "answers": [
+                "than",
+                "rather",
+                "rather than"
+            ],
+            "correct": 2,
+            "id": "0a79ae6d6b974de081dea38d372f17b5"
+        },
+        {
+            "question": "He ……………………………. sitting there.",
+            "description": "",
+            "answers": [
+                "objected to my",
+                "objected me",
+                "objected with my"
+            ],
+            "correct": 0,
+            "id": "512dcc772b1f4773b7643d3f58e272d7"
+        },
+        {
+            "question": "I want to …………………………. for a while.",
+            "description": "To lie down is to recline.",
+            "answers": [
+                "lie down",
+                "lay down",
+                "lain down"
+            ],
+            "correct": 0,
+            "id": "65d3c54caf6545639d21d63b92c62d45"
+        },
+        {
+            "question": "If they informed me earlier, I ………………………… the function.",
+            "description": "In the second conditional, use a simple past tense in the if-clause and would/could/might + first form of the verb in the main clause. ",
+            "answers": [
+                "could attend",
+                "can attend",
+                "could have attended"
+            ],
+            "correct": 0,
+            "id": "65f8fa66aaa14b7caa4d29b35328d2e3"
+        }
+    ]
+}

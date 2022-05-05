@@ -1,0 +1,106 @@
+{
+    "id": "2ae6d578681e4c748ee7e63a8183cdec",
+    "title": "Short Answers Exercise",
+    "questions": [
+        {
+            "question": "‘Have you got a light?’ ‘Yes, ………………………………….’",
+            "description": "",
+            "answers": [
+                "I have",
+                "I've"
+            ],
+            "correct": 0,
+            "id": "73c8ddecbb824bf9855d9a423b538f68"
+        },
+        {
+            "question": "‘Do you know the answer?’ ‘No, …………………………..’",
+            "description": "",
+            "answers": [
+                "I do not",
+                "I don't"
+            ],
+            "correct": 1,
+            "id": "e888135855764c50b05f811690eaf931"
+        },
+        {
+            "question": "‘Will you give me a hand?’ ‘Yes, ……………………….’",
+            "description": "",
+            "answers": [
+                "I will",
+                "I'll"
+            ],
+            "correct": 0,
+            "id": "c291defed3ee4bfbb90ce83397ec2d8d"
+        },
+        {
+            "question": "‘Can you help me with the homework?’ ‘No, ………………………’",
+            "description": "",
+            "answers": [
+                "I cannot",
+                "I can't"
+            ],
+            "correct": 1,
+            "id": "bf767e04823b4d5aaa170e4d27073a92"
+        },
+        {
+            "question": "‘Can I borrow your car?’ ‘No, …………………………….’",
+            "description": "",
+            "answers": [
+                "you cannot",
+                "you can't"
+            ],
+            "correct": 1,
+            "id": "da3d4a78304c467f9bcd9f74a2e52547"
+        },
+        {
+            "question": "‘Was the film interesting?’ ‘Yes, …………………………’",
+            "description": "",
+            "answers": [
+                "it was",
+                "it's"
+            ],
+            "correct": 0,
+            "id": "8454c7a6e5aa4cb2af01ca9db1d368c2"
+        },
+        {
+            "question": "‘Does she like flowers?’ ‘Yes, …………………………..’",
+            "description": "",
+            "answers": [
+                "she does",
+                "she's"
+            ],
+            "correct": 0,
+            "id": "8cbbae654ac640b79df6189e7a0883a7"
+        },
+        {
+            "question": "‘Can I use your computer?’ ‘Yes, ……………………….’",
+            "description": "",
+            "answers": [
+                "you can",
+                "you can't"
+            ],
+            "correct": 0,
+            "id": "fc70d99d6efa4dc3b170c92380b834da"
+        },
+        {
+            "question": "‘Should we tell her?’ ‘No, ………………………..’",
+            "description": "",
+            "answers": [
+                "we shouldn't",
+                "we should not"
+            ],
+            "correct": 0,
+            "id": "cd7898fb52534c5387f427747ec24773"
+        },
+        {
+            "question": "‘Should I wait?’ ‘No, ………………………..’",
+            "description": "",
+            "answers": [
+                "you shouldn't",
+                "you should not"
+            ],
+            "correct": 0,
+            "id": "fe9b9d311b0b43f1a766c80b75a14a67"
+        }
+    ]
+}

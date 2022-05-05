@@ -1,0 +1,138 @@
+{
+    "id": "277feaf05afb417085f898941e8aafb5",
+    "title": "Subordinate Clauses Exercise",
+    "questions": [
+        {
+            "question": "Here is the money that you lent me.",
+            "description": "Here the subordinate clause ‘that you lent me’ modifies the noun money. Hence it is an adjective clause.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 1,
+            "id": "8733aa2e60e34bf1b98067a5170cb8b1"
+        },
+        {
+            "question": "The person who leaves last should put the lights out.",
+            "description": "Here the subordinate clause ‘who leaves last’ modifies the noun person.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 1,
+            "id": "71ef3d9f37a249d284f9acca07fbbe07"
+        },
+        {
+            "question": "This is the house that I told you about.",
+            "description": "Here the subordinate clause ‘that I told you about’ modifies the noun house.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 1,
+            "id": "0ca45997a21043889a713f5c40535d3d"
+        },
+        {
+            "question": "People are sleeping out on the streets because there are not enough houses.",
+            "description": "Here the subordinate clause ‘because there are no enough houses’ gives the reason for the action mentioned in the main clause. Hence it is an adverb.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 2,
+            "id": "7e5f37af91c2401b8426111f4c47944b"
+        },
+        {
+            "question": "I knew that I should write to her, but I forgot.",
+            "description": "Here the subordinate clause ‘that I should write to her’ is the object of the verb knew. Hence it is a noun clause.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 0,
+            "id": "117785b5283b4aae8dda4477557e9949"
+        },
+        {
+            "question": "Does anyone know where Janet lives?",
+            "description": "Here the subordinate clause ‘where Janet lives’ acts as the object of the verb know. Hence it is a noun clause. ",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 0,
+            "id": "70953e8da30842bb8e2052ebf5b3fcbc"
+        },
+        {
+            "question": "James replied that he was feeling better.",
+            "description": "Here the subordinate clause ‘that he was feeling better’ acts as the object of the verb replied. Hence it is a noun clause. ",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 0,
+            "id": "ee74a9be41fe4c57873df0cf13429821"
+        },
+        {
+            "question": "Come in quietly so that she does not hear you.",
+            "description": "Here the subordinate clause ‘so that she does not hear you’ gives the purpose of the action mentioned in the main clause. Hence it is a subordinate adverb clause. ",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 2,
+            "id": "9eb958aab3074db9af2000747f1034f5"
+        },
+        {
+            "question": "I always knew that I could trust you.",
+            "description": "Here the subordinate clause ‘that I could trust you’ acts as the object of the verb knew. Hence it is a noun clause. ",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 0,
+            "id": "04f32975045547b1951137733a893d5c"
+        },
+        {
+            "question": "The scales broke when I was weighing myself this morning.",
+            "description": "Here the subordinate clause ‘when I was weighing myself this morning’ gives the time of the action mentioned in the main clause. Hence it is an adverb clause of time.",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 2,
+            "id": "e9ff30070cec4ec38bf9271549bf2df2"
+        },
+        {
+            "question": "If you are ever in London, come and see me.",
+            "description": "This is an adverb clause of condition because it expresses a condition. ",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 2,
+            "id": "87374eabbf1c4206a0749ce0ae08f399"
+        },
+        {
+            "question": "The woman who was sitting behind the reception desk gave me a big smile.",
+            "description": "Here the subordinate clause ‘who was sitting behind the reception desk’ modifies the noun woman. Hence it is an adjective clause. ",
+            "answers": [
+                "Noun clause",
+                "Adjective clause",
+                "Adverb clause"
+            ],
+            "correct": 1,
+            "id": "dd40ac64ef7b4a4780f8a6be0af32236"
+        }
+    ]
+}

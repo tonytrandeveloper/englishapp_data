@@ -1,0 +1,137 @@
+{
+    "id": "0b3eb5f4cb134475ab42cafdf3d4e0c1",
+    "title": "Adjectives Exercise",
+    "questions": [
+        {
+            "question": "He is ………………… than his neighbors.",
+            "description": "",
+            "answers": [
+                "rich",
+                "richer",
+                "richest"
+            ],
+            "correct": 1,
+            "id": "a9de50248aa443ae95fbdb8c46fc8aec"
+        },
+        {
+            "question": "The brides were much ……………… than the grooms.",
+            "description": "",
+            "answers": [
+                "young",
+                "younger",
+                "youngest"
+            ],
+            "correct": 1,
+            "id": "fc76190af44f42668494eda1a08efee8"
+        },
+        {
+            "question": "He is too ………………… to be taught.",
+            "description": "",
+            "answers": [
+                "intelligent",
+                "more intelligent",
+                "most intelligent"
+            ],
+            "correct": 0,
+            "id": "07c13b7f6eba473f983474a8220b2fcb"
+        },
+        {
+            "question": "He is ………………… than I thought him to be.",
+            "description": "",
+            "answers": [
+                "clever",
+                "cleverer",
+                "cleverest"
+            ],
+            "correct": 1,
+            "id": "ccc19ba2184a441bb64503c76a758794"
+        },
+        {
+            "question": "When the old woman became …………………, she began to move about.",
+            "description": "",
+            "answers": [
+                "stronger",
+                "more strong"
+            ],
+            "correct": 0,
+            "id": "02ece0d736704021a5b6fc6ca71a401a"
+        },
+        {
+            "question": "He is much ………………… now.",
+            "description": "",
+            "answers": [
+                "good",
+                "better",
+                "best"
+            ],
+            "correct": 1,
+            "id": "b169f90a95414132bb9441be20270514"
+        },
+        {
+            "question": "The offer was too ………………… to be true.",
+            "description": "",
+            "answers": [
+                "good",
+                "better",
+                "best"
+            ],
+            "correct": 0,
+            "id": "8f0fc87b1ffd45d2987c3b341de1ca9f"
+        },
+        {
+            "question": "He fishes with ………………… success than I do.",
+            "description": "",
+            "answers": [
+                "great",
+                "greater",
+                "greatest"
+            ],
+            "correct": 1,
+            "id": "449098f1d0854ae288d86429da3883fa"
+        },
+        {
+            "question": "Shakespeare is the ………………… playwright in English.",
+            "description": "",
+            "answers": [
+                "great",
+                "greater",
+                "greatest"
+            ],
+            "correct": 2,
+            "id": "eb484128836646aea88b52bd98c64f80"
+        },
+        {
+            "question": "The pain was ………………… than he could bear.",
+            "description": "",
+            "answers": [
+                "much",
+                "more",
+                "most"
+            ],
+            "correct": 1,
+            "id": "ace2e719fdb149649787308ddfede638"
+        },
+        {
+            "question": "The ………………… thing of all was that his son was rude to him.",
+            "description": "",
+            "answers": [
+                "bad",
+                "worse",
+                "worst"
+            ],
+            "correct": 2,
+            "id": "fcff129f798c4d658907becb821a3b3b"
+        },
+        {
+            "question": "Jane was the ………………… player of the two.",
+            "description": "",
+            "answers": [
+                "good",
+                "better",
+                "best"
+            ],
+            "correct": 1,
+            "id": "2ebfdf88233f47fe80e245da15208b16"
+        }
+    ]
+}

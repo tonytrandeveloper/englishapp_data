@@ -1,0 +1,126 @@
+{
+    "id": "411bf449ca7b4fdc9259584374f41281",
+    "title": "Gerund vs. Infinitive",
+    "questions": [
+        {
+            "question": "She will be happy ………………………….. you.",
+            "description": "",
+            "answers": [
+                "helping",
+                "to help"
+            ],
+            "correct": 1,
+            "id": "f199ec4207f04fce993daa09d1eb81e8"
+        },
+        {
+            "question": "Would you mind ………………………. me a cup of coffee?",
+            "description": "An ing form is used after would you mind?",
+            "answers": [
+                "to get",
+                "getting"
+            ],
+            "correct": 1,
+            "id": "588be70639f14a46817f332443c5b07c"
+        },
+        {
+            "question": "Do you mind ……………………….. overtime?",
+            "description": "An ing form is used after do you mind.",
+            "answers": [
+                "to work",
+                "working"
+            ],
+            "correct": 1,
+            "id": "3e9a90eefa0443fbb7f0f3ee26999f7f"
+        },
+        {
+            "question": "I was told …………………………",
+            "description": "A to-infinitive is used after tell.",
+            "answers": [
+                "quitting",
+                "to quit"
+            ],
+            "correct": 1,
+            "id": "14babce633094f1eae795c5b162c4580"
+        },
+        {
+            "question": "The teacher encouraged the students ……………………….. harder.",
+            "description": "Encourage is followed by object + to-infinitive. ",
+            "answers": [
+                "working",
+                "to work"
+            ],
+            "correct": 1,
+            "id": "331773aa01a84e46a65e82201f3a8fe6"
+        },
+        {
+            "question": "It would be a mistake for you ……………………….. him.",
+            "description": "",
+            "answers": [
+                "to ignore",
+                "ignoring"
+            ],
+            "correct": 0,
+            "id": "7766d051b43245248a7c0a0aa039f357"
+        },
+        {
+            "question": "I have never had anyone ……………………….. me.",
+            "description": "",
+            "answers": [
+                "to help",
+                "helping"
+            ],
+            "correct": 0,
+            "id": "21f42a2523a547ff814173fb4f64f8c3"
+        },
+        {
+            "question": "I regret ………………………. you that your flight has been cancelled.",
+            "description": "Regret + infinitive is used to announce bad news. ",
+            "answers": [
+                "informing",
+                "to inform"
+            ],
+            "correct": 1,
+            "id": "f0cd2b6c35204638adfeef7b30520134"
+        },
+        {
+            "question": "You should not have waited so long ………………………….. looking for another job.",
+            "description": "",
+            "answers": [
+                "to start",
+                "starting"
+            ],
+            "correct": 0,
+            "id": "4204cad80ee848d4bbc1eccea27a2433"
+        },
+        {
+            "question": "He enjoys ………………………… on long drives.",
+            "description": "Enjoy is followed by an ing form.",
+            "answers": [
+                "to go",
+                "going"
+            ],
+            "correct": 1,
+            "id": "d1b172f340ba4caebf6897ba5587b29b"
+        },
+        {
+            "question": "It is important ……………………………. to them.",
+            "description": "Important is followed by an infinitive. ",
+            "answers": [
+                "talking",
+                "to talk"
+            ],
+            "correct": 1,
+            "id": "cd5ddf18d2274a099f23b4f44f827e48"
+        },
+        {
+            "question": "She is likely ……………………….. this evening.",
+            "description": "Likely is followed by a to-infinitive.",
+            "answers": [
+                "coming",
+                "to come"
+            ],
+            "correct": 1,
+            "id": "f4100457603c44b3a467982d4a23edf7"
+        }
+    ]
+}

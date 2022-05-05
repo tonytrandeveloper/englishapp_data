@@ -1,0 +1,136 @@
+{
+    "id": "accbc93c0e01423fb634573635a4a0e7",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "…………………. a loud noise, the thief ran away.",
+            "description": "",
+            "answers": [
+                "Hearing",
+                "Heard"
+            ],
+            "correct": 0,
+            "id": "fe83f3cdf55a4f9e8d955dc65930c708"
+        },
+        {
+            "question": "He is ……………….. fat to run fast.",
+            "description": "Note the pattern too...to...",
+            "answers": [
+                "too",
+                "so"
+            ],
+            "correct": 0,
+            "id": "225c65a87aac4381840a75008bf92086"
+        },
+        {
+            "question": "………………….. he left home early, he reached school late.",
+            "description": "Although is used to connect two contrasting ideas. ",
+            "answers": [
+                "As",
+                "Although",
+                "Because"
+            ],
+            "correct": 1,
+            "id": "711f5f1f755b4567a996569586dd383e"
+        },
+        {
+            "question": "Vicky ……………….. was once my student is now an acclaimed writer.",
+            "description": "That cannot be used to refer to people in non-identifying relative clauses. ",
+            "answers": [
+                "that",
+                "who",
+                "which"
+            ],
+            "correct": 1,
+            "id": "3df001d3d08c4cda92dce8336140ff03"
+        },
+        {
+            "question": "………………… being faster, the hare could not beat the tortoise in the race.",
+            "description": "We use a preposition before an ing form. ",
+            "answers": [
+                "Despite",
+                "Although",
+                "However"
+            ],
+            "correct": 0,
+            "id": "541f98bf42344de3867eb2b70c9ca8ae"
+        },
+        {
+            "question": "…………………… hard you may work, you cannot beat him.",
+            "description": "However means the same as no matter how.",
+            "answers": [
+                "Though",
+                "However",
+                "Despite"
+            ],
+            "correct": 1,
+            "id": "ede7480a1792413b905879aad3060154"
+        },
+        {
+            "question": "7……………………… his poor health, he still goes to work regularly.",
+            "description": "Either despite or in spite of can be used here. ",
+            "answers": [
+                "In spite of",
+                "Although",
+                "Despite"
+            ],
+            "correct": 2,
+            "id": "ece506c0e57a432088f72f87a038ec04"
+        },
+        {
+            "question": "………………… you hurry up, you will miss the train.",
+            "description": "Unless is similar to if not. ",
+            "answers": [
+                "Unless",
+                "If",
+                "In case"
+            ],
+            "correct": 0,
+            "id": "f8f050426a3547dba95f74484d75d41d"
+        },
+        {
+            "question": "The faster you run, ………………….. you get tired.",
+            "description": "In this structure, the + comparative is used in both clauses. ",
+            "answers": [
+                "sooner",
+                "the sooner",
+                "the more soon"
+            ],
+            "correct": 1,
+            "id": "75724036c4444f6ea11397f256a5a1a5"
+        },
+        {
+            "question": "The apples ………………… I bought yesterday are very good.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "33865b4fb3cb49ee80c2cb8ccac567dd"
+        },
+        {
+            "question": "The weather …………………. fine, we went for a walk.",
+            "description": "",
+            "answers": [
+                "is",
+                "being",
+                "was"
+            ],
+            "correct": 1,
+            "id": "27771b93e826451b9b608ff1f7ee8a18"
+        },
+        {
+            "question": "……………………. he was suffering from fever, he could not attend the class.",
+            "description": "As gives the reason.",
+            "answers": [
+                "If",
+                "As",
+                "Though"
+            ],
+            "correct": 1,
+            "id": "99e322b7adbc404c9d70b9229770e15c"
+        }
+    ]
+}

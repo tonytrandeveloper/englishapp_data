@@ -1,0 +1,86 @@
+{
+    "id": "c8df8a69e7954552b7dd58089111b8fa",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "The tremors from India’s nuclear tests …………………. before the finger-pointing began in Washington.",
+            "description": "",
+            "answers": [
+                "have barely subsided",
+                "had barely subsided",
+                "was barely subsided"
+            ],
+            "correct": 1,
+            "id": "795be088a8bc436cad9060d698b34711"
+        },
+        {
+            "question": "For centuries we ..................... to cure the ills of the world.",
+            "description": "",
+            "answers": [
+                "are trying",
+                "have been trying",
+                "had been trying",
+                "were trying"
+            ],
+            "correct": 1,
+            "id": "20a49142666a41cc829523ca98cf9803"
+        },
+        {
+            "question": "……………….. from work, she often stops at a bookstore.",
+            "description": "",
+            "answers": [
+                "On her way home",
+                "By her way home",
+                "At her way home"
+            ],
+            "correct": 0,
+            "id": "0912e5cd2cbe47c8876691c5967ae9fb"
+        },
+        {
+            "question": "………………… the reality, they would not have signed the documents.",
+            "description": "",
+            "answers": [
+                "If had they known",
+                "If they had known",
+                "If they knew",
+                "If they would have known"
+            ],
+            "correct": 1,
+            "id": "b8a50ff2673e449f8b593a4afb8fd89f"
+        },
+        {
+            "question": "His ……………….. always creates a good impact.",
+            "description": "",
+            "answers": [
+                "courteous behavior",
+                "behaving courteously",
+                "courteous behaving with"
+            ],
+            "correct": 0,
+            "id": "756afe73fdaa4c169b8c3b8fe1294fce"
+        },
+        {
+            "question": "The thieves ………………….., before the police arrived.",
+            "description": "",
+            "answers": [
+                "have already escaped",
+                "had already escaped",
+                "were escaped",
+                "had already been escaped"
+            ],
+            "correct": 1,
+            "id": "22fc1c2de6094eabaa3e513a663ce751"
+        },
+        {
+            "question": "Your statement that you ………………… his motive cannot be trusted.",
+            "description": "",
+            "answers": [
+                "had totally unaware of",
+                "were totally unaware of",
+                "were total unaware of"
+            ],
+            "correct": 1,
+            "id": "c34e64f774204c469357f31ed1eca2e7"
+        }
+    ]
+}

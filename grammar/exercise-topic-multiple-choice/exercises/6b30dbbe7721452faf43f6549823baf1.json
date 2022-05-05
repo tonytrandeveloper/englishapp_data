@@ -1,0 +1,137 @@
+{
+    "id": "6b30dbbe7721452faf43f6549823baf1",
+    "title": "Simple Present Or Present Continuous Tense",
+    "questions": [
+        {
+            "question": "Martin ……………….. in his garage.",
+            "description": "We use the present continuous to talk about actions and situations that are going on at the moment of speaking.",
+            "answers": [
+                "work",
+                "works",
+                "is working",
+                "are working"
+            ],
+            "correct": 2,
+            "id": "b57edbd8d4dd431ca83839b148b8a805"
+        },
+        {
+            "question": "Martin ………………. fixing things.",
+            "description": "The simple present is used to talk about our habits, preferences, hobbies etc.",
+            "answers": [
+                "enjoy",
+                "enjoys",
+                "is enjoying"
+            ],
+            "correct": 1,
+            "id": "d8f7c89eef36445fae8a5e6f2021feab"
+        },
+        {
+            "question": "What ………………… for breakfast?",
+            "description": "If the arrangement already exists, we use the present continuous to talk about the future.",
+            "answers": [
+                "do we have",
+                "are we having",
+                "does we have"
+            ],
+            "correct": 1,
+            "id": "09233e53882e4d29bffc783910216c58"
+        },
+        {
+            "question": "I ……………….. France this summer.",
+            "description": "If the arrangement already exists, we use the present continuous to talk about the future.",
+            "answers": [
+                "visit",
+                "am visiting",
+                "are visiting"
+            ],
+            "correct": 1,
+            "id": "35683581900948d99a94b1c39dac5272"
+        },
+        {
+            "question": "I ………………. France every summer.",
+            "description": "We use the simple present to talk about our habits and routines.  ",
+            "answers": [
+                "visit",
+                "visits",
+                "am visiting"
+            ],
+            "correct": 0,
+            "id": "6b3a4d3dd157464ea90bca8aeb3c4820"
+        },
+        {
+            "question": "………………….. on any new projects at the moment?",
+            "description": "We use the present continuous to talk about actions and situations that are going on at the moment of speaking.",
+            "answers": [
+                "Do you work",
+                "Are you working",
+                "Is you working"
+            ],
+            "correct": 1,
+            "id": "9c89cb5c94f54357af3a359afba62bf1"
+        },
+        {
+            "question": "……………. on Sundays?",
+            "description": "The question is about habits or routines.",
+            "answers": [
+                "Do you work",
+                "Are you working",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ea4fb9c094b74e47ab8e7444889b6799"
+        },
+        {
+            "question": "How often ……………….. ?",
+            "description": "The question is about habits or routines.",
+            "answers": [
+                "are you working out",
+                "do you work out"
+            ],
+            "correct": 1,
+            "id": "0815b055d4ae43d981324a9618c3c60b"
+        },
+        {
+            "question": "Susie …………….. here often.",
+            "description": "The statement is about habits or routines. ",
+            "answers": [
+                "come",
+                "comes",
+                "is coming"
+            ],
+            "correct": 1,
+            "id": "e3c70ff3f696461faa70976f83987095"
+        },
+        {
+            "question": "………………. with us to the movies?",
+            "description": "The question is about arrangement that already exists.",
+            "answers": [
+                "Do you come",
+                "Are you coming"
+            ],
+            "correct": 1,
+            "id": "2006c6e57fb34f309ef175cf13c6df2a"
+        },
+        {
+            "question": "………………. what ……………..?",
+            "description": "",
+            "answers": [
+                "Is she knowing, she is doing",
+                "Does she know, she does",
+                "Does she know, she is doing"
+            ],
+            "correct": 2,
+            "id": "9cf28d3ef3804d0cbf7f92b3427b1497"
+        },
+        {
+            "question": "How ………………. a washing machine?",
+            "description": "",
+            "answers": [
+                "are you starting",
+                "do you start",
+                "does you start"
+            ],
+            "correct": 1,
+            "id": "6e6f5b35a0e5470ebb58ea40cccf0b0c"
+        }
+    ]
+}

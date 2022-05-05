@@ -1,0 +1,106 @@
+{
+    "id": "3e7ce628cbd34795ac82dc136a067c75",
+    "title": "Active and Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "A small hut ……………….. at a distance.",
+            "description": "",
+            "answers": [
+                "seen",
+                "sees",
+                "was seen"
+            ],
+            "correct": 2,
+            "id": "7301bafa60ca427db9230488fcb5a2e4"
+        },
+        {
+            "question": "The winners ………………….. at the function.",
+            "description": "",
+            "answers": [
+                "felicitated",
+                "were felicitated",
+                "were felicitating"
+            ],
+            "correct": 1,
+            "id": "ceb24e00258e4565857e7cb474ffe0eb"
+        },
+        {
+            "question": "The missing boy .....................…",
+            "description": "",
+            "answers": [
+                "has traced",
+                "has been traced",
+                "has been tracing"
+            ],
+            "correct": 1,
+            "id": "cdc3339c2eb2412cb5b834effd1811e3"
+        },
+        {
+            "question": "She has never ………………… any interest in politics.",
+            "description": "",
+            "answers": [
+                "showed",
+                "seen",
+                "shown"
+            ],
+            "correct": 2,
+            "id": "0215ca34c0b54964b094f5e074faeaeb"
+        },
+        {
+            "question": "I am ………………… with your performance.",
+            "description": "",
+            "answers": [
+                "impressed",
+                "impressing",
+                "impress"
+            ],
+            "correct": 0,
+            "id": "afb5ee62ec0c4b028eabc675b76469ca"
+        },
+        {
+            "question": "The thieves ………………….. behind the bushes.",
+            "description": "",
+            "answers": [
+                "hid",
+                "hide",
+                "hiding"
+            ],
+            "correct": 0,
+            "id": "41f17cdf99924076a19ac51610805e94"
+        },
+        {
+            "question": "The patient ………………. to another hospital when his health deteriorated.",
+            "description": "",
+            "answers": [
+                "moved",
+                "was moved",
+                "was moving"
+            ],
+            "correct": 1,
+            "id": "477d01cb677a4a8da39b02cdb6db6484"
+        },
+        {
+            "question": "The women ………………. an alarm when they saw the big cat.",
+            "description": "",
+            "answers": [
+                "raised",
+                "were raising",
+                "have raised",
+                "were raised"
+            ],
+            "correct": 0,
+            "id": "cf08bea0cb6c4f33ba437f11aea7faf7"
+        },
+        {
+            "question": "I ……………….. a letter from an old friend in the morning.",
+            "description": "",
+            "answers": [
+                "received",
+                "was receiving",
+                "was received"
+            ],
+            "correct": 0,
+            "id": "871ce0a617a8484ea658d5a7fdcb9a2a"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "b94443f3c0f44b09bf8c594d8798933f",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "His father ....................... last night.",
+            "description": "",
+            "answers": [
+                "die",
+                "has died",
+                "had died",
+                "died"
+            ],
+            "correct": 3,
+            "id": "e28d5b47c7694b79b9636bcca523502a"
+        },
+        {
+            "question": "We ………………….. Susie 3 weeks ago.",
+            "description": "",
+            "answers": [
+                "visited",
+                "have visited",
+                "had visited"
+            ],
+            "correct": 0,
+            "id": "d002f504fc6b4351b34f040d47508e50"
+        },
+        {
+            "question": "The sun ...................... when we went out.",
+            "description": "",
+            "answers": [
+                "shone",
+                "is shining",
+                "was shining"
+            ],
+            "correct": 2,
+            "id": "5c68e15f236e45a492d5df5192cdde45"
+        },
+        {
+            "question": "I saw him ..................... the lamp.",
+            "description": "",
+            "answers": [
+                "steal",
+                "stole",
+                "to steal"
+            ],
+            "correct": 0,
+            "id": "22d25a678efd4dfc9310971c56ae5605"
+        },
+        {
+            "question": "Yesterday I ………………….. a new cellphone because my old one …………………. stolen.",
+            "description": "",
+            "answers": [
+                "buy, is",
+                "bought, has been",
+                "bought, had been",
+                "bought, was"
+            ],
+            "correct": 2,
+            "id": "18f9a93643dd4d34ad80d2d4a7809219"
+        },
+        {
+            "question": "He thanked me for what I …………………..",
+            "description": "",
+            "answers": [
+                "did",
+                "have done",
+                "had done"
+            ],
+            "correct": 2,
+            "id": "1bb67a9cab944df9a79b591cb03b8ed9"
+        },
+        {
+            "question": "I ..................... here for the last two years.",
+            "description": "",
+            "answers": [
+                "lived",
+                "have been living",
+                "am living"
+            ],
+            "correct": 1,
+            "id": "fa3f4cb48607423ab50c378b295a4aea"
+        },
+        {
+            "question": "They ………………… an apartment in New York two years ago.",
+            "description": "",
+            "answers": [
+                "bought",
+                "have bought",
+                "had bought"
+            ],
+            "correct": 0,
+            "id": "9dea00c8f9624496ae073903bc1d7cda"
+        },
+        {
+            "question": "I usually ....................... the newspaper in the morning.",
+            "description": "",
+            "answers": [
+                "read",
+                "am reading",
+                "will read"
+            ],
+            "correct": 0,
+            "id": "e589be2d5dbf4de8a97d6e6798c6174c"
+        },
+        {
+            "question": "Ever since I ..................... my home state in 1995, I …………………. living here.",
+            "description": "",
+            "answers": [
+                "leave, am",
+                "left, am",
+                "left, have been"
+            ],
+            "correct": 2,
+            "id": "71247eae6b7242d4a384feb44f3c8e7f"
+        }
+    ]
+}

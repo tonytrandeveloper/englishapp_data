@@ -1,0 +1,106 @@
+{
+    "id": "5d53b5d600e1477b90e78148d5e5602e",
+    "title": "Adjectives And Adverbs",
+    "questions": [
+        {
+            "question": "The fish tasted …………………..",
+            "description": "",
+            "answers": [
+                "awful",
+                "awfully"
+            ],
+            "correct": 0,
+            "id": "c458b5feaf044b98a6fbadba45b17292"
+        },
+        {
+            "question": "It is …………………. cold.",
+            "description": "",
+            "answers": [
+                "bitter",
+                "bitterly"
+            ],
+            "correct": 1,
+            "id": "8c84f00cb8ef493fa857af95bf0fed3f"
+        },
+        {
+            "question": "This novel is …………………. interesting.",
+            "description": "",
+            "answers": [
+                "too",
+                "very"
+            ],
+            "correct": 1,
+            "id": "8ad55370f49249b28814277cc80a0df1"
+        },
+        {
+            "question": "I am ………………… glad to meet you.",
+            "description": "",
+            "answers": [
+                "very",
+                "much"
+            ],
+            "correct": 0,
+            "id": "a2f5d10fbbbc4389aa85edfa5e1110e9"
+        },
+        {
+            "question": "I could not find it ………………….",
+            "description": "",
+            "answers": [
+                "anywhere",
+                "nowhere"
+            ],
+            "correct": 0,
+            "id": "b8a5ab50be7d407aad9e1092167ec39e"
+        },
+        {
+            "question": "The child ate the sweets …………………",
+            "description": "",
+            "answers": [
+                "greedy",
+                "greedily"
+            ],
+            "correct": 1,
+            "id": "dbe8549685574fc3ab550a759578746c"
+        },
+        {
+            "question": "You will pay …………………. for your mistakes.",
+            "description": "",
+            "answers": [
+                "dear",
+                "dearly"
+            ],
+            "correct": 1,
+            "id": "4f68d382b8954c999479c930abf1c4d1"
+        },
+        {
+            "question": "I don’t know ………………….. about him.",
+            "description": "",
+            "answers": [
+                "anything",
+                "nothing"
+            ],
+            "correct": 0,
+            "id": "dc5bdb81d7ba480b9a8a42f3053aeb5c"
+        },
+        {
+            "question": "I haven’t got ………………… money.",
+            "description": "",
+            "answers": [
+                "any",
+                "no"
+            ],
+            "correct": 0,
+            "id": "84a7fd40512f4ae484ca97031d6f366f"
+        },
+        {
+            "question": "He was driving …………………. fast.",
+            "description": "",
+            "answers": [
+                "unusual",
+                "unusually"
+            ],
+            "correct": 1,
+            "id": "cd90d11901644eaca875f66ad6cebdab"
+        }
+    ]
+}

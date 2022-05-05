@@ -1,0 +1,87 @@
+{
+    "id": "eed503a88d1643599c796aadf80c3f3a",
+    "title": "No Sooner Than Exercise",
+    "questions": [
+        {
+            "question": "No sooner ...................................... the sun risen than the fog disappeared.",
+            "description": "",
+            "answers": [
+                "did",
+                "had"
+            ],
+            "correct": 1,
+            "id": "b5a7db6a717d4a6492ff35d9764ebaf4"
+        },
+        {
+            "question": "No sooner .................................... I finished my studies than I got a good job.",
+            "description": "",
+            "answers": [
+                "had",
+                "did"
+            ],
+            "correct": 0,
+            "id": "2f81ef0f934844ae90bf273a19220383"
+        },
+        {
+            "question": "No sooner ........................................ I put the phone down than it started ringing again.",
+            "description": "",
+            "answers": [
+                "did",
+                "had",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "b1ed99829d064a83907e0a855340beb3"
+        },
+        {
+            "question": "No sooner ............................................ they meet than they fell in love with each other.",
+            "description": "",
+            "answers": [
+                "did",
+                "had"
+            ],
+            "correct": 0,
+            "id": "5f18098d32574cc4acfe2f1c4360861d"
+        },
+        {
+            "question": "No sooner ........................................ the sun disappeared below the horizon than darkness began to envelop the planet.",
+            "description": "",
+            "answers": [
+                "had",
+                "did"
+            ],
+            "correct": 0,
+            "id": "73665947f922474e923017d822403210"
+        },
+        {
+            "question": "No sooner ......................................... he fire the gun than the tiger sprang on him.",
+            "description": "",
+            "answers": [
+                "did",
+                "had"
+            ],
+            "correct": 0,
+            "id": "a318e79f91aa4316b37035fab67d98e6"
+        },
+        {
+            "question": "No sooner ............................................ the police left the scene than trouble started brewing again.",
+            "description": "",
+            "answers": [
+                "did",
+                "had"
+            ],
+            "correct": 1,
+            "id": "9470128b0c104a30ae2ef03092496c6a"
+        },
+        {
+            "question": "No sooner ....................................... he see the police than he ran away.",
+            "description": "",
+            "answers": [
+                "did",
+                "had"
+            ],
+            "correct": 0,
+            "id": "dc6dc1a00b8c4b02b49a29bab37cac5c"
+        }
+    ]
+}

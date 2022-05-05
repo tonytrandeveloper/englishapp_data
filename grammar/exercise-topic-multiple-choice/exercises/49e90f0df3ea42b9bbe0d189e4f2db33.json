@@ -1,0 +1,138 @@
+{
+    "id": "49e90f0df3ea42b9bbe0d189e4f2db33",
+    "title": "Common Idioms",
+    "questions": [
+        {
+            "question": "I am not surprised that she doesn't have any friends. She is as sour as ..............................",
+            "description": "If a person is as sour as vinegar, they are very disagreeable.",
+            "answers": [
+                "grapes",
+                "vinegar",
+                "tamarind"
+            ],
+            "correct": 1,
+            "id": "76cef23c3b764783ba7a5a973fdd1fc1"
+        },
+        {
+            "question": "She has so many friends because she is as sweet as ................................",
+            "description": "If you are as sweet as honey, you are a very sweet person.",
+            "answers": [
+                "milk",
+                "cookies",
+                "honey"
+            ],
+            "correct": 2,
+            "id": "06788d0423db4e55b794facbee63916a"
+        },
+        {
+            "question": "I don't have a sweet ......................... I rarely eat desserts.",
+            "description": "To have a sweet tooth is to have a love for sugary foods.",
+            "answers": [
+                "tongue",
+                "mouth",
+                "tooth"
+            ],
+            "correct": 2,
+            "id": "55f27be85317402699c77a9e312668fa"
+        },
+        {
+            "question": "I appreciate his integrity and honesty. He is a .............................. of the earth type person.",
+            "description": "This is an expression used to refer to sincere and decent people.",
+            "answers": [
+                "salt",
+                "sugar",
+                "spice"
+            ],
+            "correct": 0,
+            "id": "4208c9f718e24ed3803c9b9b5092ce9b"
+        },
+        {
+            "question": "His latest book is selling like .................................",
+            "description": "If something sells like hotcakes, it sells quickly.",
+            "answers": [
+                "hot potatoes",
+                "hot cakes",
+                "hot buns"
+            ],
+            "correct": 1,
+            "id": "c86e3cbac68541f687e32847fc1537a2"
+        },
+        {
+            "question": "You should have just told me the truth. There was no need to ............................... it.",
+            "description": "To sugarcoat is to present bad news in such a way that it sounds less unpleasant.",
+            "answers": [
+                "frame",
+                "sugarcoat",
+                "sugar"
+            ],
+            "correct": 1,
+            "id": "dd0fa14894d54fb995872faca7b55f67"
+        },
+        {
+            "question": "Take every piece of news you find online with a grain of ...............................",
+            "description": "To take something with a pinch of salt is to view it with some skepticism.",
+            "answers": [
+                "salt",
+                "sugar",
+                "spice"
+            ],
+            "correct": 0,
+            "id": "c015192f0ef94128adc13a0fd8d7e014"
+        },
+        {
+            "question": "It is time he proved that he is worth his ...............................",
+            "description": "When you are worth your salt you are competent at what you do.",
+            "answers": [
+                "sugar",
+                "salt",
+                "water"
+            ],
+            "correct": 1,
+            "id": "f6a676d10b96481b9ac3c20b57ff77b9"
+        },
+        {
+            "question": "She was the .................................. of her mother's eye.",
+            "description": "",
+            "answers": [
+                "mango",
+                "apple",
+                "cherry"
+            ],
+            "correct": 1,
+            "id": "10769aa8b9bc4256a892ebecbb242e27"
+        },
+        {
+            "question": "In the end his hard work bore .................................... and he became a successful musician.",
+            "description": "To bear fruit is to get favorable results.",
+            "answers": [
+                "flower",
+                "fruit",
+                "result"
+            ],
+            "correct": 1,
+            "id": "d2587b9414344540bf45f4af7d045154"
+        },
+        {
+            "question": "The car won't start again. I think I bought a ...............................",
+            "description": "To buy a lemon is to buy something worthless.",
+            "answers": [
+                "melon",
+                "lemon",
+                "nut"
+            ],
+            "correct": 1,
+            "id": "0bc9377a04954b9bacc8007ffe8dfa4e"
+        },
+        {
+            "question": "Don't compare a race car with a tiny hatchback. That is like comparing apples to ................................",
+            "description": "To compare apples to oranges is to compare things that are totally different.",
+            "answers": [
+                "mangoes",
+                "cherries",
+                "oranges"
+            ],
+            "correct": 2,
+            "id": "ce4b428c861640068ac2b766d41c79b7"
+        }
+    ]
+}

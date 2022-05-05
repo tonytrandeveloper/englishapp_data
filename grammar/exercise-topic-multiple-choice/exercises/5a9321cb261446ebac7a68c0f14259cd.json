@@ -1,0 +1,105 @@
+{
+    "id": "5a9321cb261446ebac7a68c0f14259cd",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The pyramids …………………… . around 400 AD.",
+            "description": "",
+            "answers": [
+                "built",
+                "were built",
+                "had built"
+            ],
+            "correct": 1,
+            "id": "344babdbb53845f89f3b15a643235ef4"
+        },
+        {
+            "question": "Positive hydrogen atoms ………………….. to negative oxygen atoms.",
+            "description": "",
+            "answers": [
+                "attracted",
+                "are attracted",
+                "have attracted"
+            ],
+            "correct": 1,
+            "id": "b2d85b1d45ff483ca9175e8599d13d8d"
+        },
+        {
+            "question": "I …………………… a whole lot of information.",
+            "description": "",
+            "answers": [
+                "am send",
+                "have send",
+                "have been sent"
+            ],
+            "correct": 2,
+            "id": "3b01b4e0aa7f4e4db5ff8a1bef90955c"
+        },
+        {
+            "question": "We ………………….. him an invitation.",
+            "description": "",
+            "answers": [
+                "have sent",
+                "are sent",
+                "have been sending"
+            ],
+            "correct": 0,
+            "id": "555c8ed8c9bf4f22a81f9dfd4613f922"
+        },
+        {
+            "question": "I ……………………… in",
+            "description": "",
+            "answers": [
+                "am born",
+                "was born",
+                "had been born"
+            ],
+            "correct": 1,
+            "id": "9e499e10470b49948e8b401678f67b0a"
+        },
+        {
+            "question": "My shoes …………………",
+            "description": "",
+            "answers": [
+                "are wearing out",
+                "are being worn out",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "6583a560aad74dca991d2db912234032"
+        },
+        {
+            "question": "She likes ……………………",
+            "description": "",
+            "answers": [
+                "looked at",
+                "looking at",
+                "being looked at"
+            ],
+            "correct": 2,
+            "id": "13a77a3001bd44a89d537f9809dd05b2"
+        },
+        {
+            "question": "Young children …………………",
+            "description": "",
+            "answers": [
+                "need to take care of",
+                "need to be taken care of",
+                "need taken care of"
+            ],
+            "correct": 1,
+            "id": "8cc41c1811f345608ed793d571eff295"
+        },
+        {
+            "question": "I hate ………………………",
+            "description": "",
+            "answers": [
+                "making a fool of",
+                "being made a fool of",
+                "being a fool of"
+            ],
+            "correct": 1,
+            "id": "83074dcfae9d4a6bbdae94b82e4900a6"
+        }
+    ]
+}

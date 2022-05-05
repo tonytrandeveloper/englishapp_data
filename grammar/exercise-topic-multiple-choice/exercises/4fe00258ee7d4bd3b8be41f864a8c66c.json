@@ -1,0 +1,140 @@
+{
+    "id": "4fe00258ee7d4bd3b8be41f864a8c66c",
+    "title": "Intermediate Level Grammar Exercise",
+    "questions": [
+        {
+            "question": "What you did …………………. wrong.",
+            "description": "Here the subject is the noun clause 'what you did'. When the subject is a clause, the verb is singular. ",
+            "answers": [
+                "is",
+                "are",
+                "have been"
+            ],
+            "correct": 0,
+            "id": "b6f8325b180a48f2a6a966a2e59daabe"
+        },
+        {
+            "question": "Walk carefully lest you ………………….. slip.",
+            "description": "Should is the only auxiliary that can be used after lest. ",
+            "answers": [
+                "may",
+                "would",
+                "should"
+            ],
+            "correct": 2,
+            "id": "0cfff76967394f918aa6f7ab534914f5"
+        },
+        {
+            "question": "I was not invited …………………….. her birthday party.",
+            "description": "",
+            "answers": [
+                "to",
+                "for",
+                "of"
+            ],
+            "correct": 0,
+            "id": "be8a35e20b524a30b53d4697b442fb8b"
+        },
+        {
+            "question": "If he had received medical attention in time, he ………………………",
+            "description": "In the third conditional we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "will survive",
+                "would survive",
+                "would have survived"
+            ],
+            "correct": 2,
+            "id": "8f99bd459cdf4f1a997f8040dd3dae19"
+        },
+        {
+            "question": "Which of the following words does not have a plural form?",
+            "description": "",
+            "answers": [
+                "bat",
+                "bear",
+                "equipment",
+                "vehicle"
+            ],
+            "correct": 2,
+            "id": "f6bdacab650940ad891c0e32b4c5ffc4"
+        },
+        {
+            "question": "Trespassing is prohibited. Here trespassing is a ………………….",
+            "description": "When an -ing form is used as a subject, it is a gerund.",
+            "answers": [
+                "participle",
+                "infinitive",
+                "gerund"
+            ],
+            "correct": 2,
+            "id": "3366ba3477c84668b47f9520c4b9c46f"
+        },
+        {
+            "question": "He stood …………………… the gate.",
+            "description": "",
+            "answers": [
+                "before",
+                "beside",
+                "besides",
+                "in front of"
+            ],
+            "correct": 3,
+            "id": "f8eebc6af42c4c35ba1531578ba626ac"
+        },
+        {
+            "question": "Nobody came, ……………………?",
+            "description": "Use an affirmative tag after negative expressions like nobody and hardly.",
+            "answers": [
+                "did anybody",
+                "did they",
+                "didn't they"
+            ],
+            "correct": 1,
+            "id": "e1a9b6d9125b4dd8878f0b0d520d08f7"
+        },
+        {
+            "question": "Neither the manager nor his secretary ……………………. present.",
+            "description": "",
+            "answers": [
+                "was",
+                "were",
+                "has"
+            ],
+            "correct": 0,
+            "id": "744d5ba8fefd4a3eaa4488ebe2c7ff8b"
+        },
+        {
+            "question": "To smell a rat is to ………………….",
+            "description": "",
+            "answers": [
+                "feel a foul smell",
+                "suspect deception",
+                "spread rumors"
+            ],
+            "correct": 1,
+            "id": "e596a7a4771a44408d0ecb1c445bb608"
+        },
+        {
+            "question": "Send this letter by registered post. Change into passive",
+            "description": "",
+            "answers": [
+                "Letter be sent by registered post",
+                "Let this letter be sent by registered post",
+                "Letter should be spent by registered post"
+            ],
+            "correct": 1,
+            "id": "09894fe7187c445a814b79a95da65416"
+        },
+        {
+            "question": "My father ………………… at 30 every day.",
+            "description": "",
+            "answers": [
+                "is waking up",
+                "wakes up",
+                "woke up"
+            ],
+            "correct": 1,
+            "id": "09bffe82eeca40da8b7f22d6064d618a"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "id": "bbcf74c5e8fa4bb1abdea4a82f6c5392",
+    "title": "Conditional Sentences",
+    "questions": [
+        {
+            "question": "If I were you, I ………………… tolerate this.",
+            "description": "",
+            "answers": [
+                "will not",
+                "would not",
+                "would not have"
+            ],
+            "correct": 1,
+            "id": "857c4728949e4c9389b4711aa38d8aac"
+        },
+        {
+            "question": "If she asked more politely, he …………………. her.",
+            "description": "",
+            "answers": [
+                "will help",
+                "would help",
+                "would have helped"
+            ],
+            "correct": 1,
+            "id": "67b01dcd7e7b49e081a778a77940be19"
+        },
+        {
+            "question": "If she ………………… there, she wouldn’t have been killed.",
+            "description": "",
+            "answers": [
+                "didn't go",
+                "hasn't gone",
+                "hadn't gone"
+            ],
+            "correct": 2,
+            "id": "f7cd83a7304e4204b95fa4a67bea1a52"
+        },
+        {
+            "question": "If I …………………. about his predicament, I would have helped him.",
+            "description": "",
+            "answers": [
+                "know",
+                "knew",
+                "had known"
+            ],
+            "correct": 2,
+            "id": "1a66c1017264443f8a1ee2dc18e57301"
+        },
+        {
+            "question": "Should he be late, we …………………. to start without him.",
+            "description": "",
+            "answers": [
+                "will have",
+                "would have"
+            ],
+            "correct": 0,
+            "id": "0ffbb2006ea7463dae425b907fe98101"
+        },
+        {
+            "question": "I ………………….. in bad trouble, if she hadn’t helped me.",
+            "description": "",
+            "answers": [
+                "will be",
+                "would be",
+                "would have been"
+            ],
+            "correct": 2,
+            "id": "856db3b4bb744e93be7ba2f12717eaa1"
+        },
+        {
+            "question": "If I had another $500, I ………………… a car.",
+            "description": "",
+            "answers": [
+                "can buy",
+                "could buy"
+            ],
+            "correct": 1,
+            "id": "c9330b4e206145578397baf9b5deb2d2"
+        },
+        {
+            "question": "If you did that, you ………………….. probably be in trouble.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "4e2776385c754d7480706f345ac1fb78"
+        },
+        {
+            "question": "If you like it, ………………….. you buy it?",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "9554beebd6ee476ba759aacc72a5bfa9"
+        },
+        {
+            "question": "If you should happen to finish early, …………………. you give me a ring?",
+            "description": "",
+            "answers": [
+                "will",
+                "would",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "a2778c5fe1964be287a8e301fdfcb8a0"
+        }
+    ]
+}

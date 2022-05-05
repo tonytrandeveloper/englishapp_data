@@ -1,0 +1,131 @@
+{
+    "id": "1d87f733c51f47e38b6ff486e594cae8",
+    "title": "Singular And Plural Nouns",
+    "questions": [
+        {
+            "question": "He weighs nine ……………………….",
+            "description": "When the word score is used after a numeral, it does not have the plural form.",
+            "answers": [
+                "stone",
+                "stones",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d261bc55edd94370b908157923869a72"
+        },
+        {
+            "question": "That car cost me five ……………………… dollars.",
+            "description": "When numerals like hundred and thousand are used after another numeral, they do not have the plural form.",
+            "answers": [
+                "thousand",
+                "thousands"
+            ],
+            "correct": 0,
+            "id": "3d5091cba2d147a6aae4219220d30a61"
+        },
+        {
+            "question": "I bought three ……………………… oranges.",
+            "description": "When dozen is used after a numeral, it does not have a plural form.",
+            "answers": [
+                "dozen",
+                "dozens"
+            ],
+            "correct": 0,
+            "id": "c0bedb4f82044853b829e2712b0910e1"
+        },
+        {
+            "question": "India won by …………………………. and three runs.",
+            "description": "The noun innings is always used in the singular.",
+            "answers": [
+                "innings",
+                "an inning",
+                "an innings"
+            ],
+            "correct": 2,
+            "id": "17a7c5033d744bf8be700b4e957e6d7a"
+        },
+        {
+            "question": "His ………………………… small but he has no debt.",
+            "description": "When means has the meaning of wealth, it is used in the plural.",
+            "answers": [
+                "mean is",
+                "means is",
+                "means are"
+            ],
+            "correct": 2,
+            "id": "43d30269238747239cb0bb64dfd21769"
+        },
+        {
+            "question": "……………………….. not only destroy our property but also carry disease.",
+            "description": "The collective noun vermin is singular in form but it is always used as a plural noun.",
+            "answers": [
+                "Vermin",
+                "Vermins"
+            ],
+            "correct": 0,
+            "id": "d8eff18b1bab4e3ca492bd71858573b6"
+        },
+        {
+            "question": "The ………………………….. needs repairs.",
+            "description": "The possessive case is chiefly used with the names of living things.",
+            "answers": [
+                "house roof",
+                "house's roof",
+                "roof of the house"
+            ],
+            "correct": 2,
+            "id": "19bf21f1d1264030b1066dc0375e09cb"
+        },
+        {
+            "question": "He has no ……………………….. for his parents.",
+            "description": "Respect means regard respects means compliments.",
+            "answers": [
+                "respect",
+                "respects"
+            ],
+            "correct": 1,
+            "id": "d86f79f6037840bf9bcf8428833f3dc7"
+        },
+        {
+            "question": "Both countries have withdrawn their ………………………..",
+            "description": "Force means strength forces means troops.",
+            "answers": [
+                "force",
+                "forces"
+            ],
+            "correct": 1,
+            "id": "03cb6d6c1a2d43059141fd54cc6ba2e1"
+        },
+        {
+            "question": "Why are you always putting on ……………………….?",
+            "description": "Airs can mean affected manners.",
+            "answers": [
+                "air",
+                "airs"
+            ],
+            "correct": 1,
+            "id": "26bcc7a859294edfbbe6772d0abd3a45"
+        },
+        {
+            "question": "We must all stand up for the common ……………………",
+            "description": "The common good means the interests of all.",
+            "answers": [
+                "good",
+                "goods"
+            ],
+            "correct": 1,
+            "id": "0c0e707f66b14841a0bc0334d4cbcae7"
+        },
+        {
+            "question": "He wouldn’t listen to my ………………………",
+            "description": "Advice means counsel advices can mean information.",
+            "answers": [
+                "advice",
+                "advices",
+                "advise"
+            ],
+            "correct": 0,
+            "id": "8d9719f4335949259e741a80d2289d28"
+        }
+    ]
+}

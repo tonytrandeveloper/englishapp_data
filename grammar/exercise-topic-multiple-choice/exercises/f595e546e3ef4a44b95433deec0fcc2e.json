@@ -1,0 +1,125 @@
+{
+    "id": "f595e546e3ef4a44b95433deec0fcc2e",
+    "title": "Degrees of Comparison",
+    "questions": [
+        {
+            "question": "Rahul’s composition is ……………… than that of Rohan.",
+            "description": "Better is the comparative form of good.",
+            "answers": [
+                "better",
+                "more good",
+                "gooder"
+            ],
+            "correct": 0,
+            "id": "76ecced707af43969e8eb0f9c6a1cc96"
+        },
+        {
+            "question": "The new mansion is …………………. than the old one.",
+            "description": "We make the comparative form of splendid by putting more before it.",
+            "answers": [
+                "splendid",
+                "more splendid",
+                "most splendid"
+            ],
+            "correct": 1,
+            "id": "016e3b4035b843788d99f95bc577cb69"
+        },
+        {
+            "question": "She is ………………. than most of her neighbors.",
+            "description": "We use a comparative form before than. Wealthier is the comparative form of wealthy.",
+            "answers": [
+                "wealthy",
+                "wealthier",
+                "wealthiest"
+            ],
+            "correct": 1,
+            "id": "589aa2f783d941a6b16fb2ff08c96904"
+        },
+        {
+            "question": "It was the ………………… day of my life.",
+            "description": "We use a superlative adjective after the. Saddest is the superlative form of sad.",
+            "answers": [
+                "sad",
+                "sadder",
+                "saddest"
+            ],
+            "correct": 2,
+            "id": "25643af7002e4d4fa5c0b53eb85b57dd"
+        },
+        {
+            "question": "Gold is more precious than ……………….. metal.",
+            "description": "When two objects are compared with each other, the latter term of comparison must exclude the former.",
+            "answers": [
+                "any",
+                "all",
+                "any other"
+            ],
+            "correct": 2,
+            "id": "1011a5528a784ac78e0b9d148b656343"
+        },
+        {
+            "question": "She earns as ………………… as I do.",
+            "description": "We use the positive adjective in the structure as…as.",
+            "answers": [
+                "much",
+                "more",
+                "most"
+            ],
+            "correct": 0,
+            "id": "babf6a201cf1430688fef78bff6bbbf1"
+        },
+        {
+            "question": "He arrived ……………….. than I expected.",
+            "description": "Later is the comparative form of late.",
+            "answers": [
+                "later",
+                "latter"
+            ],
+            "correct": 0,
+            "id": "2a707ff8bd4841e39924e504a7db6e16"
+        },
+        {
+            "question": "Ours is the ………………. house on this street.",
+            "description": "Last can indicate position. Latest cannot express this idea.",
+            "answers": [
+                "last",
+                "later",
+                "latest"
+            ],
+            "correct": 0,
+            "id": "446788c9e6e747e593c02574643540c2"
+        },
+        {
+            "question": "This is the ……………… church in India.",
+            "description": "Eldest is only used to speak of people.",
+            "answers": [
+                "old",
+                "older",
+                "oldest"
+            ],
+            "correct": 2,
+            "id": "037678056fab47ab8fd34035aec7f956"
+        },
+        {
+            "question": "The princess was ………………….. than her brother.",
+            "description": "We make the comparative form of courageous with more.",
+            "answers": [
+                "courageous",
+                "more courageous",
+                "most courageous"
+            ],
+            "correct": 1,
+            "id": "32d6a314768441e994f41e115e852662"
+        },
+        {
+            "question": "Mumbai is ……………… from the equator than Chennai.",
+            "description": "Farther means more distant. Further means additional.",
+            "answers": [
+                "farther",
+                "further"
+            ],
+            "correct": 0,
+            "id": "9958af18309d4c8bbbea00e28a8cf64b"
+        }
+    ]
+}

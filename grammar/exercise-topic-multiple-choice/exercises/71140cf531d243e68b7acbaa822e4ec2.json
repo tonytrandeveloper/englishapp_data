@@ -1,0 +1,137 @@
+{
+    "id": "71140cf531d243e68b7acbaa822e4ec2",
+    "title": "Another, Other And Others",
+    "questions": [
+        {
+            "question": "He has bought ............................... home.",
+            "description": "Another means an extra.",
+            "answers": [
+                "other",
+                "others",
+                "another"
+            ],
+            "correct": 2,
+            "id": "c3c87b5d9a0f4d2ca5dd0ab2dc89e8d9"
+        },
+        {
+            "question": "Where are the ......................................?",
+            "description": "Others is the plural form of other. It is normally used alone without a noun.",
+            "answers": [
+                "other",
+                "others",
+                "another"
+            ],
+            "correct": 1,
+            "id": "114cd0bb15434cc2934317bc8f8e0c48"
+        },
+        {
+            "question": "Show me the ....................................... hand?",
+            "description": "Before a noun other has no plural form.",
+            "answers": [
+                "other",
+                "another",
+                "others"
+            ],
+            "correct": 0,
+            "id": "5a3aa72e3ae34e1e8ed19a8a2aecb6ff"
+        },
+        {
+            "question": "Can I have ................................... cup of coffee?",
+            "description": "Another means an extra.",
+            "answers": [
+                "other",
+                "others",
+                "another"
+            ],
+            "correct": 2,
+            "id": "3bb42170e9634694a974be17e4a7e636"
+        },
+        {
+            "question": "We must love one .....................................",
+            "description": "",
+            "answers": [
+                "other",
+                "another"
+            ],
+            "correct": 1,
+            "id": "ccf65610ef9d4366b6a3d7c9d7fc8df6"
+        },
+        {
+            "question": "The two brothers love each .................................",
+            "description": "",
+            "answers": [
+                "other",
+                "another",
+                "others"
+            ],
+            "correct": 0,
+            "id": "e5149792431b4336a254af18a20582a9"
+        },
+        {
+            "question": "I can't find the ...................................... photos.",
+            "description": "Before a noun other has no plural form.",
+            "answers": [
+                "other",
+                "others",
+                "another"
+            ],
+            "correct": 0,
+            "id": "4b695101719647ff8e50672ea3637f15"
+        },
+        {
+            "question": "Raju has arrived but the ........................................ haven't.",
+            "description": "Others is the plural form of other. It is normally used alone without a noun.",
+            "answers": [
+                "other",
+                "others",
+                "another"
+            ],
+            "correct": 1,
+            "id": "7a57f55308ee4d0c9994c4cef25d946c"
+        },
+        {
+            "question": "You won't get ....................................... chance.",
+            "description": "Another means an extra.",
+            "answers": [
+                "other",
+                "another",
+                "others"
+            ],
+            "correct": 1,
+            "id": "e59686f359b94037b55bb58879a1e56b"
+        },
+        {
+            "question": "Do you have any ........................................ colors?",
+            "description": "Other is similar to different.",
+            "answers": [
+                "other",
+                "others",
+                "another"
+            ],
+            "correct": 0,
+            "id": "977951144e5e4fe5b1e93b3fb61cdb5e"
+        },
+        {
+            "question": "You can take this. I will take the ................................... one.",
+            "description": "Other is similar to different.",
+            "answers": [
+                "other",
+                "others",
+                "another"
+            ],
+            "correct": 0,
+            "id": "f6e12a3b480f42f5b5ef3564c7404fa5"
+        },
+        {
+            "question": "You should water the plants every ......................................... day.",
+            "description": "",
+            "answers": [
+                "other",
+                "others",
+                "another"
+            ],
+            "correct": 0,
+            "id": "361db265e2884db7b4cb6268f7001ae3"
+        }
+    ]
+}

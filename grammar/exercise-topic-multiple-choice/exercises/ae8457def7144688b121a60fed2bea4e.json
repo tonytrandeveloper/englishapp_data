@@ -1,0 +1,127 @@
+{
+    "id": "ae8457def7144688b121a60fed2bea4e",
+    "title": "English Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "Helping that family was a very ………………………… thing to do.",
+            "description": "Humane means the quality of being kind towards others.",
+            "answers": [
+                "human",
+                "humane"
+            ],
+            "correct": 1,
+            "id": "02def206e81c4b3eb0ee9e952c914e22"
+        },
+        {
+            "question": "We all belong to the ……………………………… race.",
+            "description": "Human race means mankind.",
+            "answers": [
+                "humane",
+                "human"
+            ],
+            "correct": 1,
+            "id": "57eaa62ede5b4ac795fc04bf4fdeaa7d"
+        },
+        {
+            "question": "The team’s …………………………… is on the rise.",
+            "description": "Morale is the level of confidence.",
+            "answers": [
+                "morale",
+                "moral"
+            ],
+            "correct": 0,
+            "id": "27685719885045209ffca53b97020225"
+        },
+        {
+            "question": "He was an honest, ………………………………. man.",
+            "description": "Moral is the principle of right and wrong.",
+            "answers": [
+                "moral",
+                "morale"
+            ],
+            "correct": 0,
+            "id": "bcd2cdaf9e824d14a8a4676dfacbdd98"
+        },
+        {
+            "question": "A warm smile …………………………. up her face.",
+            "description": "Either lighted or lit is possible here. ",
+            "answers": [
+                "lighted",
+                "lited",
+                "lit"
+            ],
+            "correct": 2,
+            "id": "95b95018632c4cffbc4e609426e68317"
+        },
+        {
+            "question": "The children ……………………………. from the train.",
+            "description": "",
+            "answers": [
+                "lighted",
+                "alighted"
+            ],
+            "correct": 1,
+            "id": "69c8785633134b008fb98d454170348d"
+        },
+        {
+            "question": "I call my mother …………………………………",
+            "description": "Every day means daily.",
+            "answers": [
+                "every day",
+                "everyday"
+            ],
+            "correct": 0,
+            "id": "c56e6f1f5b38480984a1a1763212c43c"
+        },
+        {
+            "question": "……………………………… chores like cooking and cleaning consume much of my time.",
+            "description": "Everyday means day to day.",
+            "answers": [
+                "Everyday",
+                "Every day"
+            ],
+            "correct": 0,
+            "id": "0cdbfdf319ef4e6eb8848b2172708d20"
+        },
+        {
+            "question": "Tell me the amount in ………………………. figures.",
+            "description": "",
+            "answers": [
+                "round",
+                "around"
+            ],
+            "correct": 0,
+            "id": "3b0f57b5698d43d4b57ad3787ad35b9a"
+        },
+        {
+            "question": "No country can be overly dependent on foreign ……………………………….",
+            "description": "Aid means assistance.",
+            "answers": [
+                "aid",
+                "aide"
+            ],
+            "correct": 0,
+            "id": "6a93d0b54a1741b7bdca95a557f18e8c"
+        },
+        {
+            "question": "I couldn’t meet the President but I did talk to his …………………………….",
+            "description": "",
+            "answers": [
+                "aid",
+                "aide"
+            ],
+            "correct": 1,
+            "id": "871b2a0f173645a2b2a715f9360df2e8"
+        },
+        {
+            "question": "This medicine is ……………………………… at alleviating the pain.",
+            "description": "",
+            "answers": [
+                "effective",
+                "efficient"
+            ],
+            "correct": 0,
+            "id": "9039b68e36a249b3845e803d723bdb99"
+        }
+    ]
+}

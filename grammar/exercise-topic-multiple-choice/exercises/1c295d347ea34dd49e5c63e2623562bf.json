@@ -1,0 +1,66 @@
+{
+    "id": "1c295d347ea34dd49e5c63e2623562bf",
+    "title": "Adjective Or Adverb Exercise",
+    "questions": [
+        {
+            "question": "Our team played .................................. yesterday.",
+            "description": "",
+            "answers": [
+                "well",
+                "good"
+            ],
+            "correct": 0,
+            "id": "76ebaccc085841c0b3b5d4d1436d57ce"
+        },
+        {
+            "question": "We have not gathered .................................... enough flowers.",
+            "description": "",
+            "answers": [
+                "near",
+                "nearly"
+            ],
+            "correct": 1,
+            "id": "7ad73daa70f041aa95437c9ce229dbcf"
+        },
+        {
+            "question": "The old woman was walking ........................................ past.",
+            "description": "",
+            "answers": [
+                "slow",
+                "slowly"
+            ],
+            "correct": 1,
+            "id": "915fc5a88dad49a5b53ff50c18e92a60"
+        },
+        {
+            "question": "Come to my office as .......................................... as possible.",
+            "description": "",
+            "answers": [
+                "quick",
+                "quickly"
+            ],
+            "correct": 1,
+            "id": "6e0ea4bab723463ca4830b55c1e018d0"
+        },
+        {
+            "question": "We had a .................................... great time at the party.",
+            "description": "",
+            "answers": [
+                "real",
+                "really"
+            ],
+            "correct": 1,
+            "id": "bdf1559aae42410f93907ea595324ead"
+        },
+        {
+            "question": "Sophia won the first prize ............................................",
+            "description": "",
+            "answers": [
+                "easy",
+                "easily"
+            ],
+            "correct": 1,
+            "id": "52f983983c6749868ddd10ff3597287e"
+        }
+    ]
+}

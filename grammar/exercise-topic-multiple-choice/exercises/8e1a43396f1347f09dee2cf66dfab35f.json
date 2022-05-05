@@ -1,0 +1,116 @@
+{
+    "id": "8e1a43396f1347f09dee2cf66dfab35f",
+    "title": "Present Tenses Exercise",
+    "questions": [
+        {
+            "question": "My father …………………. for a walk in the morning. (Habitual action)",
+            "description": "",
+            "answers": [
+                "go",
+                "goes",
+                "is going"
+            ],
+            "correct": 1,
+            "id": "9b7ac5e02b564565a2a83def16a48045"
+        },
+        {
+            "question": "I ………………….. coffee in the morning. (Habitual action)",
+            "description": "",
+            "answers": [
+                "drink",
+                "drinks",
+                "am drinking"
+            ],
+            "correct": 0,
+            "id": "1393b18431a34e01a773f401cc29c277"
+        },
+        {
+            "question": "Flowers ..................... in the spring. (Fact)",
+            "description": "",
+            "answers": [
+                "bloom",
+                "blooms",
+                "are blooming"
+            ],
+            "correct": 0,
+            "id": "07ef30f6ce2745a5bc9cdd92c34ba830"
+        },
+        {
+            "question": "Birds ..................... their nests in trees. (General truth)",
+            "description": "",
+            "answers": [
+                "makes",
+                "make",
+                "are making"
+            ],
+            "correct": 1,
+            "id": "64a1caef9ecd4b3e985651348cf7a70c"
+        },
+        {
+            "question": "The pigeon .....................… the art of nest-making.",
+            "description": "",
+            "answers": [
+                "not know",
+                "do not know",
+                "does not know"
+            ],
+            "correct": 2,
+            "id": "acc6cd170b40427780a01df55907e8bb"
+        },
+        {
+            "question": "Deciduous trees .....................… their leaves in the autumn.",
+            "description": "",
+            "answers": [
+                "shed",
+                "sheds",
+                "shedding"
+            ],
+            "correct": 0,
+            "id": "e03ff16c6d1c4567b50381c85ff4ddcc"
+        },
+        {
+            "question": "Nobody ...................... dishonest people. (Fact)",
+            "description": "",
+            "answers": [
+                "like",
+                "likes",
+                "is liking"
+            ],
+            "correct": 1,
+            "id": "217c2668d74f4f299c671bbc4f14a83f"
+        },
+        {
+            "question": "Peter .....................…… in a factory.",
+            "description": "",
+            "answers": [
+                "work",
+                "works",
+                "is working"
+            ],
+            "correct": 1,
+            "id": "dc27d6bdbb1f4182865107619d47ae30"
+        },
+        {
+            "question": "My sister ..................... . abroad. (Fact)",
+            "description": "",
+            "answers": [
+                "live",
+                "lives",
+                "is living"
+            ],
+            "correct": 1,
+            "id": "6a3475273e204b148a882242171c6081"
+        },
+        {
+            "question": "I ..................... .. best in the morning.",
+            "description": "",
+            "answers": [
+                "work",
+                "works",
+                "am working"
+            ],
+            "correct": 0,
+            "id": "db4523e511284f56b115a504f1bb514a"
+        }
+    ]
+}

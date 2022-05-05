@@ -1,0 +1,171 @@
+{
+    "id": "a6244194a2124ef094bc62a44b733ada",
+    "title": "Identify The Tenses",
+    "questions": [
+        {
+            "question": "She is teaching her students.",
+            "description": "",
+            "answers": [
+                "Present continuous tense",
+                "Present perfect",
+                "Simple present"
+            ],
+            "correct": 0,
+            "id": "81d989d57e1c42289c35df2fa60ab181"
+        },
+        {
+            "question": "We have been waiting for them.",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Present perfect",
+                "Present perfect continuous tense"
+            ],
+            "correct": 2,
+            "id": "e70b9089b8bb4b7c80114ab335906c26"
+        },
+        {
+            "question": "He eats with his left hand.",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Present continuous",
+                "Present perfect"
+            ],
+            "correct": 0,
+            "id": "5e45651c5bb7419897de4689470d9a13"
+        },
+        {
+            "question": "We have learnt our lessons.",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Present perfect",
+                "Past perfect"
+            ],
+            "correct": 1,
+            "id": "2e78f09537a84ad6997acc6e909f844f"
+        },
+        {
+            "question": "He has had his breakfast.",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Present perfect",
+                "Past perfect"
+            ],
+            "correct": 1,
+            "id": "7f80a7bf9cda4127899f1ca2383346e0"
+        },
+        {
+            "question": "The chief guest addressed the gathering.",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Simple past",
+                "Past perfect"
+            ],
+            "correct": 1,
+            "id": "07a716f7126e49a4b25fbea7c4cd6f69"
+        },
+        {
+            "question": "They had been walking.",
+            "description": "",
+            "answers": [
+                "Simple past",
+                "Past continuous",
+                "Past perfect continuous"
+            ],
+            "correct": 2,
+            "id": "205decaac9e64fa9904a1aff96323340"
+        },
+        {
+            "question": "They will have learnt their lessons.",
+            "description": "",
+            "answers": [
+                "Simple future",
+                "Future continuous",
+                "Future perfect"
+            ],
+            "correct": 2,
+            "id": "38e7141bb08a491da989dc00ddae89b0"
+        },
+        {
+            "question": "They will be having fun.",
+            "description": "",
+            "answers": [
+                "Simple future",
+                "Future continuous",
+                "Future perfect"
+            ],
+            "correct": 1,
+            "id": "7dce07b78de740369fc90209a94c3a74"
+        },
+        {
+            "question": "We are waiting for them.",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Present continuous",
+                "Present perfect"
+            ],
+            "correct": 1,
+            "id": "c406288d9b4a49c78190acf2c8b4cae8"
+        },
+        {
+            "question": "I didn’t sleep well.",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Simple past",
+                "Past continuous"
+            ],
+            "correct": 1,
+            "id": "3caaa25da0da4a13bed328525ae2226f"
+        },
+        {
+            "question": "She works at a factory.",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Present continuous",
+                "Present perfect"
+            ],
+            "correct": 0,
+            "id": "4486cec74f874b76b3b2b983a775a802"
+        },
+        {
+            "question": "He had sought the permission of his boss.",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Simple past",
+                "Past perfect"
+            ],
+            "correct": 2,
+            "id": "e125ed0a9810431182e7be1808bd97d2"
+        },
+        {
+            "question": "She had been running for hours.",
+            "description": "",
+            "answers": [
+                "Present continuous",
+                "Past continuous",
+                "Past perfect continuous"
+            ],
+            "correct": 2,
+            "id": "5acd63d96533410f8aed9a14819261b7"
+        },
+        {
+            "question": "We are learning our lessons.",
+            "description": "",
+            "answers": [
+                "Present continuous",
+                "Past continuous",
+                "Present perfect continuous"
+            ],
+            "correct": 0,
+            "id": "c098406d1cbf4888bf606ecdcfaa89d6"
+        }
+    ]
+}

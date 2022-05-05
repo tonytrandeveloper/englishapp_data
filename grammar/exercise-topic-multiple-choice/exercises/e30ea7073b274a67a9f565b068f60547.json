@@ -1,0 +1,137 @@
+{
+    "id": "e30ea7073b274a67a9f565b068f60547",
+    "title": "Modal Auxiliary Verbs Exercise",
+    "questions": [
+        {
+            "question": "He …………………. be at home. I am not sure.",
+            "description": "We use may to express possibility.",
+            "answers": [
+                "may",
+                "can",
+                "will"
+            ],
+            "correct": 0,
+            "id": "ad257845ca884d7d9a0a233ebde66868"
+        },
+        {
+            "question": "……………………. I borrow your car?",
+            "description": "In an informal style, may is also possible here.",
+            "answers": [
+                "Can",
+                "May",
+                "Will"
+            ],
+            "correct": 1,
+            "id": "d0958f512dc744d6bca2d23118fa9e5c"
+        },
+        {
+            "question": "I ……………………… climb that mountain when I was young.",
+            "description": "We use could to talk about past ability.",
+            "answers": [
+                "can",
+                "could",
+                "might"
+            ],
+            "correct": 1,
+            "id": "6d7b7c034b51450393a44d0d45194ddc"
+        },
+        {
+            "question": "It …………………….. be true.",
+            "description": "We do not use can in affirmative sentences to talk about possibility.",
+            "answers": [
+                "can",
+                "could",
+                "will"
+            ],
+            "correct": 1,
+            "id": "f501e164fbc045ea9a45867d28145547"
+        },
+        {
+            "question": "She wondered whether it ………………………. be true.",
+            "description": "",
+            "answers": [
+                "can",
+                "could",
+                "might"
+            ],
+            "correct": 1,
+            "id": "89ce76093e2c43fd852cf296c1e7274d"
+        },
+        {
+            "question": "You ……………………… not enter my house again. (Order)",
+            "description": "Shall can be used with second and third person pronouns to express a command, promise or threat.",
+            "answers": [
+                "will",
+                "shall",
+                "may"
+            ],
+            "correct": 1,
+            "id": "6b9894868a2544448fbc1633846893af"
+        },
+        {
+            "question": "…………………….. I help you?",
+            "description": "Shall is used in polite offers of help.",
+            "answers": [
+                "Shall",
+                "Will",
+                "Would"
+            ],
+            "correct": 0,
+            "id": "4e7319d11c6344458b28a4c3464c26d3"
+        },
+        {
+            "question": "……………………… I get you something to drink?",
+            "description": "",
+            "answers": [
+                "Shall",
+                "Will",
+                "Would"
+            ],
+            "correct": 0,
+            "id": "b32975ab1d6641938dd5c395e2f89079"
+        },
+        {
+            "question": "If it ………………………. rain, we will cancel the picnic.",
+            "description": "Should is often used in conditional clauses to express a supposition that may not be true.",
+            "answers": [
+                "would",
+                "should",
+                "could"
+            ],
+            "correct": 1,
+            "id": "7f9ab0c40acf414d97b73b0f933e7c22"
+        },
+        {
+            "question": "I ……………………….. have my way in this matter.",
+            "description": "Must indicates strong determination.",
+            "answers": [
+                "will",
+                "must",
+                "shall"
+            ],
+            "correct": 1,
+            "id": "9c51858b02c441b0ba10dc67de7fc0db"
+        },
+        {
+            "question": "He ……………………….. not wait for me.",
+            "description": "When need is a modal auxiliary, it does not take –s in the third person singular.",
+            "answers": [
+                "need",
+                "needs",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "f770c5e26e3a45f7b75be1d5c6e3b855"
+        },
+        {
+            "question": ".................................... we wait for him?",
+            "description": "",
+            "answers": [
+                "Would",
+                "Should"
+            ],
+            "correct": 1,
+            "id": "fff6010e12e94f82be3e25adaafa2aef"
+        }
+    ]
+}

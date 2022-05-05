@@ -1,0 +1,138 @@
+{
+    "id": "4c8d91de3c9b44be83975c30c33f551a",
+    "title": "Adjectives Exercise",
+    "questions": [
+        {
+            "question": "I will talk to you …………………..",
+            "description": "Later refers to time latter refers to position or order.",
+            "answers": [
+                "later",
+                "latter",
+                "last"
+            ],
+            "correct": 0,
+            "id": "25f4022d51834d86b51538ea2d657be5"
+        },
+        {
+            "question": "Of the two options, the ……………………… is more viable.",
+            "description": "Latter is the opposite of former.",
+            "answers": [
+                "later",
+                "latter",
+                "last"
+            ],
+            "correct": 1,
+            "id": "323f92ec26db4f1e911da248edfa7e4e"
+        },
+        {
+            "question": "The …………………….. chapter is very interesting.",
+            "description": "",
+            "answers": [
+                "later",
+                "latter",
+                "last"
+            ],
+            "correct": 2,
+            "id": "2ee16c2e9c034864a415d29adfdc8dfb"
+        },
+        {
+            "question": "She is ……………………… than her husband.",
+            "description": "Elder and eldest are not used predicatively.",
+            "answers": [
+                "older",
+                "elder"
+            ],
+            "correct": 0,
+            "id": "b39e26da33194dbea030b3aad38f7e6b"
+        },
+        {
+            "question": "This is the ……………………….. building in the city.",
+            "description": "Elder and eldest are only used of people. ",
+            "answers": [
+                "eldest",
+                "oldest",
+                "elder",
+                "older"
+            ],
+            "correct": 1,
+            "id": "6db1db979f8f477e97c8a69d2774afd9"
+        },
+        {
+            "question": "Mumbai is ……………………….. from Kochi than Mangalore.",
+            "description": "Farther shows distance.",
+            "answers": [
+                "farther",
+                "further",
+                "far"
+            ],
+            "correct": 0,
+            "id": "3d6ba687312248cd9e43a7fbcb1f063a"
+        },
+        {
+            "question": "How far is the ………………………. railway station from here?",
+            "description": "Nearest denotes distance.",
+            "answers": [
+                "near",
+                "nearest",
+                "next"
+            ],
+            "correct": 1,
+            "id": "f58c06831cfa4a949520aa18e5c92dab"
+        },
+        {
+            "question": "Cats are inferior ……………………….. dogs in intelligence.",
+            "description": "The adjectives inferior, superior, junior and senior take the preposition to, not than. ",
+            "answers": [
+                "with",
+                "to",
+                "than"
+            ],
+            "correct": 1,
+            "id": "f893baea539647deb450607e8c030967"
+        },
+        {
+            "question": "There is ………………………….. water in the well.",
+            "description": "Little means hardly any or not much.",
+            "answers": [
+                "litle",
+                "few",
+                "the little"
+            ],
+            "correct": 0,
+            "id": "0594dc9fcd07403084f7ee52f31e32fe"
+        },
+        {
+            "question": "Can you give me ……………………… water?",
+            "description": "A little means some. ",
+            "answers": [
+                "little",
+                "a little",
+                "a few"
+            ],
+            "correct": 1,
+            "id": "c201c5788de947799c30c8f9c2aa13c7"
+        },
+        {
+            "question": "…………………………. knowledge is a dangerous thing.",
+            "description": "",
+            "answers": [
+                "A little",
+                "Little",
+                "The little"
+            ],
+            "correct": 0,
+            "id": "951f1d9c6049438d8d0fda85a25cbe35"
+        },
+        {
+            "question": "……………………… knowledge of carpentry that he possessed proved to be helpful.",
+            "description": "The little means not much, but the whole of that much. ",
+            "answers": [
+                "Little",
+                "A little",
+                "The little"
+            ],
+            "correct": 2,
+            "id": "00231e8e85d344db8c4c1965d8418beb"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "id": "e6dd3dc53f9e4b4f9a9317c4c1b61fb6",
+    "title": "Transitive Vs. Intransitive",
+    "questions": [
+        {
+            "question": "The child slept soundly.",
+            "description": "Here the verb slept has no object.",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 1,
+            "id": "1ba8eeb1f5ca484d850e9c6afa881abc"
+        },
+        {
+            "question": "The girl smiled sweetly.",
+            "description": "Here the verb smiled has no object. ",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 1,
+            "id": "6f661015e12d4165950ccef7d8fe9aa5"
+        },
+        {
+            "question": "The lion caught the mouse in his paws.",
+            "description": "Here the verb caught has an object - the mouse. ",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0,
+            "id": "28ff68b250f14242aa3833c8ed482c02"
+        },
+        {
+            "question": "The bowler took two wickets.",
+            "description": "Here the verb took has an object - two wickets",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0,
+            "id": "21e4ec73f67443eba3c1f30e1ef933d6"
+        },
+        {
+            "question": "They took the child to the doctor.",
+            "description": "Here the verb took has an object - the child. ",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0,
+            "id": "38cb465f38444bc296fbd8c2ea994087"
+        },
+        {
+            "question": "I met her on a train.",
+            "description": "Here the verb met has an object - her.",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0,
+            "id": "41a4cd93a4b743f0ad190c25c003beb5"
+        },
+        {
+            "question": "The clever girl solved the puzzle easily.",
+            "description": "Here the verb solved has an object - the puzzle.",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0,
+            "id": "6a0d9a9d3d8740c1806a5570a9caebe0"
+        },
+        {
+            "question": "The driver stopped the car.",
+            "description": "Here the verb stopped has an object - the car. ",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0,
+            "id": "0819f0e2a9f44624ae31d60c5607ff16"
+        },
+        {
+            "question": "Suddenly the car stopped.",
+            "description": "Here the verb stopped has no object. ",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 1,
+            "id": "e315612a5d164a4ea8d7db33f6e91549"
+        },
+        {
+            "question": "Tears ran down her cheeks.",
+            "description": "Here the verb ran has no object. ",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 1,
+            "id": "711f88d543f945ffb1c096d45d01f18d"
+        },
+        {
+            "question": "The cops chased the thief.",
+            "description": "Here the verb chased has an object - the thief.",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0,
+            "id": "9ef335d368a54cfb8432eb3591e06dd4"
+        },
+        {
+            "question": "He admitted his mistake.",
+            "description": "Here the verb admitted has an object - his mistake. ",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0,
+            "id": "0c88335ca57c44da8b53bc171dafa2b2"
+        }
+    ]
+}

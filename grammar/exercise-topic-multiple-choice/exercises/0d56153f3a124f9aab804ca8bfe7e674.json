@@ -1,0 +1,116 @@
+{
+    "id": "0d56153f3a124f9aab804ca8bfe7e674",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "I told him why I ............................... that.",
+            "description": "",
+            "answers": [
+                "do",
+                "did",
+                "will do"
+            ],
+            "correct": 1,
+            "id": "06fa2bfb2def487aaed847ad53d10774"
+        },
+        {
+            "question": "The teacher asked the boys whether they .................................... the problems.",
+            "description": "",
+            "answers": [
+                "solved",
+                "have solved",
+                "had solved"
+            ],
+            "correct": 2,
+            "id": "889c81c186ef4f5aaa23ddf842e46cf7"
+        },
+        {
+            "question": "I will go home during the vacation so that I ...................................... my brother.",
+            "description": "",
+            "answers": [
+                "can see",
+                "could see",
+                "might see"
+            ],
+            "correct": 0,
+            "id": "dd299fa367fe44a5a8ab62e63d4abd27"
+        },
+        {
+            "question": "Although they ......................................, they did not lose heart.",
+            "description": "",
+            "answers": [
+                "defeated",
+                "had defeated",
+                "were defeated"
+            ],
+            "correct": 2,
+            "id": "31a97189d7724788b4b1a90d093160f0"
+        },
+        {
+            "question": "Our teacher taught us that virtue ...................................... its own reward.",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "had been"
+            ],
+            "correct": 0,
+            "id": "1e10c94f5c204f42a750e019b7a25f16"
+        },
+        {
+            "question": "Our holy books tell us that man .................................. mortal.",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "will be"
+            ],
+            "correct": 0,
+            "id": "4bb73ab3430b4cf29023a71c8980f151"
+        },
+        {
+            "question": "Just as I entered the room, the bell ...................................",
+            "description": "",
+            "answers": [
+                "ring",
+                "rang",
+                "rung"
+            ],
+            "correct": 1,
+            "id": "f1a627b073ca4ea492d8ae5163a55562"
+        },
+        {
+            "question": "I will break your neck if you ...................................... that again.",
+            "description": "",
+            "answers": [
+                "do",
+                "did",
+                "had done"
+            ],
+            "correct": 0,
+            "id": "68d892c102b3443ba2aeb621af6e2bc6"
+        },
+        {
+            "question": "This is the house where James ..................................",
+            "description": "",
+            "answers": [
+                "live",
+                "lives",
+                "is living"
+            ],
+            "correct": 1,
+            "id": "5998930f205e437d8e1678e364deea30"
+        },
+        {
+            "question": "He declared that he will not believe it even if he ....................................... it with his own eyes.",
+            "description": "",
+            "answers": [
+                "sees",
+                "saw",
+                "had seen"
+            ],
+            "correct": 1,
+            "id": "482ffed9e7c84b12bf6cf762f496cf99"
+        }
+    ]
+}

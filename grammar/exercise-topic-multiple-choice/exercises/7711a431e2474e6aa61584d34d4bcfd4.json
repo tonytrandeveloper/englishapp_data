@@ -1,0 +1,101 @@
+{
+    "id": "7711a431e2474e6aa61584d34d4bcfd4",
+    "title": "Linking Words Exercise",
+    "questions": [
+        {
+            "question": "He was let off ………………… he would not repeat the offence.",
+            "description": "",
+            "answers": [
+                "on condition that",
+                "so that",
+                "in order that",
+                "because"
+            ],
+            "correct": 0,
+            "id": "a2bdafba980f46f4ad0b8e5091a65812"
+        },
+        {
+            "question": "He wore a coat ..................... he might not catch cold.",
+            "description": "",
+            "answers": [
+                "in order that",
+                "provided that",
+                "on condition that",
+                "so as to"
+            ],
+            "correct": 0,
+            "id": "58a31d8dd90f4bad9c8a3c32c2665192"
+        },
+        {
+            "question": "It has been raining continuously ...................... last week.",
+            "description": "",
+            "answers": [
+                "since",
+                "for",
+                "from",
+                "ago"
+            ],
+            "correct": 0,
+            "id": "a0a7420a86804d72aed77d00c84df186"
+        },
+        {
+            "question": "The conference will take place between the 12th ..................... the 16th of this month.",
+            "description": "Note the pattern between...and",
+            "answers": [
+                "through",
+                "and",
+                "to"
+            ],
+            "correct": 1,
+            "id": "5b2733b9a10e421cb1e6b58bb6201290"
+        },
+        {
+            "question": "This is the kind of music I like to listen ......................",
+            "description": "",
+            "answers": [
+                "to",
+                "for",
+                "at",
+                "with"
+            ],
+            "correct": 0,
+            "id": "3d39e6bf1eb4421598fae03c1965969b"
+        },
+        {
+            "question": "…………………. his best efforts, he could not win the election.",
+            "description": "",
+            "answers": [
+                "In spite of",
+                "Due to",
+                "Owing to",
+                "On behalf of"
+            ],
+            "correct": 0,
+            "id": "795ddd17ad404c8e9a49c6ffe2966d11"
+        },
+        {
+            "question": "Pay your fees in time lest you ………………….. be fined.",
+            "description": "Should is the only auxiliary used after lest. ",
+            "answers": [
+                "would",
+                "should",
+                "could",
+                "might"
+            ],
+            "correct": 1,
+            "id": "b17d25c3bb384cf2a20e319bc313095c"
+        },
+        {
+            "question": "He …………………. only say what he wants and it will be granted.",
+            "description": "The modal auxiliary need does not take the marker -s when the subject is singular. ",
+            "answers": [
+                "need",
+                "needs",
+                "should",
+                "might"
+            ],
+            "correct": 0,
+            "id": "eccf7839db8b4f97b64be2b36b1c59a4"
+        }
+    ]
+}

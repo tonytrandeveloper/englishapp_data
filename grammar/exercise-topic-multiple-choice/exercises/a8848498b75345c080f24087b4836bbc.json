@@ -1,0 +1,137 @@
+{
+    "id": "a8848498b75345c080f24087b4836bbc",
+    "title": "Sequence of Tenses Exercise",
+    "questions": [
+        {
+            "question": "Suddenly we noticed that the clock ………………",
+            "description": "A past tense in the principal clause should be followed by a past tense in the subordinate clause.",
+            "answers": [
+                "stopped",
+                "has stopped",
+                "had stopped"
+            ],
+            "correct": 2,
+            "id": "e356d5222efd4fdebb6b077be5823b31"
+        },
+        {
+            "question": "I never thought that I ………………… see him again.",
+            "description": "Would is the past tense of will. A past tense in the principal clause should be followed by a past tense in the subordinate clause.",
+            "answers": [
+                "will",
+                "would",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e3579d4dd7bb4d30bdda876eb136cfe4"
+        },
+        {
+            "question": "The woman led me to her hut and …………….. me to remain there for the night.",
+            "description": "A past tense in the principal clause should be followed by a past tense in the subordinate clause.",
+            "answers": [
+                "tells",
+                "had told",
+                "told"
+            ],
+            "correct": 2,
+            "id": "6ea0242d85c043d29db3c194d7237b6a"
+        },
+        {
+            "question": "We …………….. higher so that we might get a better view of the procession.",
+            "description": "The past tense in the subordinate clause clearly indicates that the main verb is in the past tense.",
+            "answers": [
+                "have climbed",
+                "climbed",
+                "had climbed"
+            ],
+            "correct": 1,
+            "id": "1cb28288312840b9b813e4b51c16f44a"
+        },
+        {
+            "question": "Euclid proved that the three angles of a triangle …………….. equal to two right angles.",
+            "description": "A past tense in the main clause may be followed by a present tense in the subordinate clause when the subordinate clause expresses a universal truth.",
+            "answers": [
+                "are",
+                "were"
+            ],
+            "correct": 0,
+            "id": "b71184665ae14507822c7da4f99e8c6e"
+        },
+        {
+            "question": "I will nurse him so that he …………….. live.",
+            "description": "When the verb in the principal clause is in the present or future, we use a present tense in the subordinate clause to indicate purpose. ",
+            "answers": [
+                "may",
+                "might",
+                "will"
+            ],
+            "correct": 0,
+            "id": "e8d509f253a245cfa7298b35a8b8e416"
+        },
+        {
+            "question": "I will call you when I …………….",
+            "description": "When the verb in the principal clause is in the present or future, we use a present tense in the subordinate clause to indicate purpose. ",
+            "answers": [
+                "arrive",
+                "will arrive",
+                "would arrive"
+            ],
+            "correct": 0,
+            "id": "7cf700c7f92b491bb6d5f4109d944c27"
+        },
+        {
+            "question": "He went to the city so that he …………… find work.",
+            "description": "Might is the past tense form of may. A past tense in the main clause is usually followed by a past tense in the subordinate clause. ",
+            "answers": [
+                "will",
+                "may",
+                "might"
+            ],
+            "correct": 2,
+            "id": "dd960721d9154e2687e9d5d847083db4"
+        },
+        {
+            "question": "Wherever he preached, people ……………….. to listen.",
+            "description": "",
+            "answers": [
+                "gather",
+                "have gathered",
+                "gathered"
+            ],
+            "correct": 2,
+            "id": "1ceaa28e66024370aee0ff1a9b4002bc"
+        },
+        {
+            "question": "The thieves stole whatever they ……………… find in the house.",
+            "description": "A past tense in the principal clause should be followed by a past tense in the subordinate clause.",
+            "answers": [
+                "can",
+                "could",
+                "may"
+            ],
+            "correct": 1,
+            "id": "314f394dfb834b65b34dc73bd4c38e92"
+        },
+        {
+            "question": "He came oftener than we ……………… him to.",
+            "description": "A past tense in the principal clause should be followed by a past tense in the subordinate clause.",
+            "answers": [
+                "expect",
+                "expected",
+                "did expect"
+            ],
+            "correct": 1,
+            "id": "7eb7e8b5836446f2995e3b44d925e108"
+        },
+        {
+            "question": "He stayed at home because he ……………. feeling ill.",
+            "description": "A past tense in the principal clause should be followed by a past tense in the subordinate clause.",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 1,
+            "id": "7a02e4ee56c341eeaa10670bdb0f50df"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "id": "f92c3ea785de4d99bff23fa27c12ae7f",
+    "title": "Or, Or Else, Otherwise",
+    "questions": [
+        {
+            "question": "We must hurry up .................... we will be late for the party.",
+            "description": "",
+            "answers": [
+                "or",
+                "otherwise",
+                "but"
+            ],
+            "correct": 0,
+            "id": "c782c0666be34cee8612ca780095c8fe"
+        },
+        {
+            "question": "I must reach home before 8 o’clock ............................. my mother will get angry.",
+            "description": "",
+            "answers": [
+                "otherwise",
+                "or"
+            ],
+            "correct": 1,
+            "id": "85dbf02844974f6cbc938feb771d75b1"
+        },
+        {
+            "question": "You must work hard ....................... you will fail.",
+            "description": "",
+            "answers": [
+                "or",
+                "otherwise",
+                "unless"
+            ],
+            "correct": 0,
+            "id": "dfe91f4cfdb34c9b84b121770e44c292"
+        },
+        {
+            "question": "She ought to put the meat in the oven now, ............................ dinner will not be ready when the guests arrive.",
+            "description": "",
+            "answers": [
+                "or",
+                "or else",
+                "unless"
+            ],
+            "correct": 1,
+            "id": "94c31392d3274220a16d1aa7245b82e9"
+        },
+        {
+            "question": "Walk carefully .................... you will fall.",
+            "description": "",
+            "answers": [
+                "or else",
+                "unless",
+                "if"
+            ],
+            "correct": 0,
+            "id": "6c57dd3bf8524cb78e80042e9a227b20"
+        },
+        {
+            "question": "Leave at once .......................... I will call the police.",
+            "description": "",
+            "answers": [
+                "or else",
+                "unless",
+                "until"
+            ],
+            "correct": 0,
+            "id": "c75ced45c2c047d8abf8a9cc59bf4824"
+        },
+        {
+            "question": "Consult a doctor immediately, ....................... your health will get worse.",
+            "description": "",
+            "answers": [
+                "or else",
+                "unless",
+                "otherwise"
+            ],
+            "correct": 0,
+            "id": "7353d08777ba4ce48759535dd4a98b2e"
+        },
+        {
+            "question": "We must water the plants ........................., they will die.",
+            "description": "Otherwise is not a conjunction. It is a transitive adverb. We use a semicolon before otherwise. ",
+            "answers": [
+                "unless",
+                "otherwise",
+                "or"
+            ],
+            "correct": 1,
+            "id": "f5b5b915641e47989366059f9cc43091"
+        },
+        {
+            "question": "Put the milk in the fridge ....................... it will turn sour.",
+            "description": "",
+            "answers": [
+                "or",
+                "otherwise",
+                "unless"
+            ],
+            "correct": 1,
+            "id": "f444e02ced024b78a9725d7842f7a5cf"
+        },
+        {
+            "question": "He should start exercising ............................, he will get fat.",
+            "description": "",
+            "answers": [
+                "or",
+                "otherwise",
+                "unless"
+            ],
+            "correct": 1,
+            "id": "3eff5e0fd62548ceb5c335da69483d7a"
+        }
+    ]
+}

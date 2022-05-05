@@ -1,0 +1,139 @@
+{
+    "id": "79b0d70ac1a147158f80f6e4f3c8ce7e",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "The man .................................... I owed money demanded immediate payment.",
+            "description": "The man demanded immediate payment. I owed money to him. When we connect these two clauses, the relative pronoun whom replaces the pronoun him. The preposition 'to' is retained. ",
+            "answers": [
+                "who",
+                "whom",
+                "to whom"
+            ],
+            "correct": 2,
+            "id": "3c7e8fd5de1b48588623e597d76e83ad"
+        },
+        {
+            "question": "The four brothers are always ready to go to .................................. help.",
+            "description": "Each other is used when referring to two people and one another is used when referring to more than two people.",
+            "answers": [
+                "each other's",
+                "one another's",
+                "other's"
+            ],
+            "correct": 1,
+            "id": "bb381b734c7740149c2d3a2d17cca495"
+        },
+        {
+            "question": "This is the woman ........................................... son was abducted.",
+            "description": "This is the woman. Her son was abducted. The relative pronoun 'whose' replaces possessive pronouns like her, his and their.",
+            "answers": [
+                "who's",
+                "whose",
+                "of whose",
+                "of whom"
+            ],
+            "correct": 1,
+            "id": "66bdea8f0be942d6905b2ffbea3886c1"
+        },
+        {
+            "question": "The flight ...................................... at",
+            "description": "We use the present simple to talk about future events that are part of a time table. ",
+            "answers": [
+                "arrive",
+                "arrives",
+                "will arrive"
+            ],
+            "correct": 1,
+            "id": "faaccf18d29149d293ef7d5e6f2edf83"
+        },
+        {
+            "question": "When I was young, I .................................. cricket every day.",
+            "description": "To talk about past habits, we can use would + infinitive. The past simple is also possible here. ",
+            "answers": [
+                "was practising",
+                "practiced",
+                "would practice"
+            ],
+            "correct": 2,
+            "id": "285e52f1d35d465a854cc675cdcfe596"
+        },
+        {
+            "question": ".................................... it possible, I would visit London",
+            "description": "Were it possible means the same as if it were possible. ",
+            "answers": [
+                "Were",
+                "Was",
+                "Should"
+            ],
+            "correct": 0,
+            "id": "a9a6c29dc2f04f53b7b27a7acd8deecc"
+        },
+        {
+            "question": "....................................... it prove to be true, I shall resign from the committee.",
+            "description": "'Should it prove to be true' means the same as 'If it proves to be true'.",
+            "answers": [
+                "Would",
+                "Could",
+                "Should"
+            ],
+            "correct": 2,
+            "id": "b011ba84488349579c4157f84f5b55f2"
+        },
+        {
+            "question": "......................................... many faults, he was a good man at heart.",
+            "description": "In spite of and despite mean the same. The expression 'despite having' is also possible here. ",
+            "answers": [
+                "despite",
+                "In spite of having",
+                "Owing to"
+            ],
+            "correct": 1,
+            "id": "d5669d0c62e84bc099984053259f3923"
+        },
+        {
+            "question": "Were you ...................................... to trust him?",
+            "description": "As an adverb enough goes after the adjective it modifies, so foolish enough is the correct option. Infinitive structures are not used after so.",
+            "answers": [
+                "enough foolish",
+                "foolish enough",
+                "so foolish"
+            ],
+            "correct": 1,
+            "id": "ce06129dc3bd46d9b0946c9e0bb6375b"
+        },
+        {
+            "question": "The faster you run, ............................................... yourself.",
+            "description": "The same structure 'the + comparative + subject + verb' is used in both clauses. ",
+            "answers": [
+                "you exhaust sooner",
+                "sooner you exhaust",
+                "the sooner you exhaust"
+            ],
+            "correct": 2,
+            "id": "6c5a51f826d94e1d86d3026a31100318"
+        },
+        {
+            "question": "If you played games regularly, you ...................................... get so fat.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "won't",
+                "wouldn't",
+                "wouldn't have"
+            ],
+            "correct": 1,
+            "id": "a1bbd015673742e2aa0ca194469403ef"
+        },
+        {
+            "question": "She ...................................... cooking when the guests arrived.",
+            "description": "The past perfect is used to talk about the earlier of two past actions. ",
+            "answers": [
+                "has not finished",
+                "had not finished",
+                "was not finished"
+            ],
+            "correct": 1,
+            "id": "b0286a642de446908f1e43b4bf84134a"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": "1cd91a83e8c14fec937294bae6942951",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "The party invitations ………………………. out.",
+            "description": "We use the present perfect tense to simply give news of recent events.",
+            "answers": [
+                "have sent",
+                "have been sent",
+                "are sending"
+            ],
+            "correct": 1,
+            "id": "2ba43f827d534a39810cb14ccd6643d5"
+        },
+        {
+            "question": "The invention of the space rocket …………………….. many years.",
+            "description": "The simple past is the most normal tense for talking about finished events in the past.",
+            "answers": [
+                "took",
+                "has taken",
+                "were taken"
+            ],
+            "correct": 0,
+            "id": "c7d0db7bd2f24495b25608af80b1b6dd"
+        },
+        {
+            "question": "Alexander Graham Bell ……………………… the telephone.",
+            "description": "The simple past is the most normal tense for talking about finished events in the past.",
+            "answers": [
+                "was invented",
+                "has invented",
+                "invented"
+            ],
+            "correct": 2,
+            "id": "a1ed0a2a29ea4a718a729a9ae839eb72"
+        },
+        {
+            "question": "Saint Patrick ……………………….. Christianity to the Irish.",
+            "description": "The simple past is the most normal tense for talking about finished events in the past.",
+            "answers": [
+                "introduced",
+                "was introduced",
+                "has introduced"
+            ],
+            "correct": 0,
+            "id": "70282a408b894fc8928d55611a3dec74"
+        },
+        {
+            "question": "Fairy tales ………………………….. most children.",
+            "description": "We use the present simple to talk about facts, general truths and habits.",
+            "answers": [
+                "are intriguing",
+                "intrigue",
+                "are intrigued"
+            ],
+            "correct": 1,
+            "id": "ca75f79d83494147b3082164fce6b327"
+        },
+        {
+            "question": "He ……………………….. to 90 days in jail.",
+            "description": "We need a passive verb here because the subject is not the doer of the action.",
+            "answers": [
+                "sentenced",
+                "was sentenced",
+                "has sentenced"
+            ],
+            "correct": 1,
+            "id": "34e05646f9084849a4f9c13fbcfa4949"
+        },
+        {
+            "question": "She …………………………. with joy upon the birth of her grandchild.",
+            "description": "We need a passive verb here because the subject is not the doer of the action. Instead, something happened to the subject.",
+            "answers": [
+                "filled",
+                "was filled",
+                "was filling"
+            ],
+            "correct": 1,
+            "id": "6baa9322b1b64084a1a007fe3ddbbf0a"
+        },
+        {
+            "question": "How did you know I ……………………….. be there?",
+            "description": "When the verb in the main clause is in the past tense, we will need a past tense in the subordinate clause as well.",
+            "answers": [
+                "will",
+                "would",
+                "shall"
+            ],
+            "correct": 1,
+            "id": "0a926ceec361476484b0656d5ca494ff"
+        },
+        {
+            "question": "He wanted to visit the land his father ……………………… from.",
+            "description": "When the verb in the main clause is in the past tense, we will need a past tense in the subordinate clause as well.",
+            "answers": [
+                "came",
+                "come",
+                "has come"
+            ],
+            "correct": 0,
+            "id": "1bc8f127a45c4f81b0b6fad1682efb8f"
+        },
+        {
+            "question": "Lately I ………………………… making my own clothes.",
+            "description": "We use the present perfect to talk about recent events. ",
+            "answers": [
+                "started",
+                "have started",
+                "had started"
+            ],
+            "correct": 1,
+            "id": "c8030c6f6ed54b13a95a81e39fef68be"
+        },
+        {
+            "question": "……………………….. the packages on the table.",
+            "description": "To lay something is to place it somewhere.",
+            "answers": [
+                "Lay",
+                "Lie"
+            ],
+            "correct": 0,
+            "id": "9259160786824169be1ae3d0b0ae0a40"
+        },
+        {
+            "question": "Which route ................................. I take to Denver?",
+            "description": "The simple present is the tense used to ask for or give directions. ",
+            "answers": [
+                "do",
+                "have",
+                "would"
+            ],
+            "correct": 0,
+            "id": "36a0b229077b4f6587e3d913b204ce39"
+        }
+    ]
+}

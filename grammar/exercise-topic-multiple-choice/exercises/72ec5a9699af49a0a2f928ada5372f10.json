@@ -1,0 +1,139 @@
+{
+    "id": "72ec5a9699af49a0a2f928ada5372f10",
+    "title": "Question Tags Exercise",
+    "questions": [
+        {
+            "question": "We must leave now, …………………………?",
+            "description": "If the main sentence has an auxiliary verb, it is repeated in the question tag. ",
+            "answers": [
+                "should we",
+                "mustn't we",
+                "shouldn't we"
+            ],
+            "correct": 1,
+            "id": "b06e0f6638d6469eb2c6aadd23c98338"
+        },
+        {
+            "question": "The children were playing outside, …………………………..?",
+            "description": "Negative tags are used after affirmative statements.",
+            "answers": [
+                "were they",
+                "weren't they",
+                "was they"
+            ],
+            "correct": 1,
+            "id": "1063c0d4d4534e8da8fbbb083c938a2f"
+        },
+        {
+            "question": "The wise man can solve our problem, ………………………….?",
+            "description": "Negative tags are used after affirmative statements. ",
+            "answers": [
+                "can't he",
+                "can he",
+                "won't he"
+            ],
+            "correct": 0,
+            "id": "93370915c42a49a08a95453ae5beb1d6"
+        },
+        {
+            "question": "I am working hard, …………………………….?",
+            "description": "The question tag for I am is aren’t I?",
+            "answers": [
+                "am I",
+                "amn't I",
+                "aren't I"
+            ],
+            "correct": 2,
+            "id": "913dba3cae76402591f15ea67a5698fd"
+        },
+        {
+            "question": "You are the winner of the prize, ……………………………..?",
+            "description": "",
+            "answers": [
+                "are you",
+                "aren't you",
+                "weren't you"
+            ],
+            "correct": 1,
+            "id": "3885f48c0add426596b160ada6e415a9"
+        },
+        {
+            "question": "One picture is worth a thousand words, ………………………….?",
+            "description": "",
+            "answers": [
+                "is it",
+                "isn't it",
+                "wasn't it"
+            ],
+            "correct": 1,
+            "id": "2fcc1d9cc8b74afd8ae2db7ad28b418e"
+        },
+        {
+            "question": "Nothing can happen, ……………………………?",
+            "description": "Nothing is a negative word hence an affirmative tag is used after it. In tags, we use it to refer to nothing.",
+            "answers": [
+                "can it",
+                "can nothing",
+                "can't nothing"
+            ],
+            "correct": 0,
+            "id": "eec4a997e6b242cabefc7995bd483017"
+        },
+        {
+            "question": "Somebody wanted a drink, ……………………………?",
+            "description": "In tags we use they to refer to somebody/anybody.",
+            "answers": [
+                "did somebody",
+                "did they",
+                "didn't they"
+            ],
+            "correct": 2,
+            "id": "c82d797786184b2e82292a588f05e5fa"
+        },
+        {
+            "question": "It is quite good, ………………………….?",
+            "description": "",
+            "answers": [
+                "is it",
+                "isn't it",
+                "doesn't it"
+            ],
+            "correct": 1,
+            "id": "520734f21bed48ed8689313e9ed32e0d"
+        },
+        {
+            "question": "She has a sister, …………………………..?",
+            "description": "When have refers to a state, question tags with have and do are both possible.",
+            "answers": [
+                "hasn't she",
+                "doesn't she",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "e7fc3569d32d47169002e4d5c4dca05c"
+        },
+        {
+            "question": "Shut up, …………………………..?",
+            "description": "After imperatives, we use will/would/can/can’t/could you? to ask people to do things.",
+            "answers": [
+                "can't you",
+                "will you",
+                "would you",
+                "All of these"
+            ],
+            "correct": 3,
+            "id": "91f1a7c683904576bff70244d34ebd0f"
+        },
+        {
+            "question": "She works here, ………………………….?",
+            "description": "When the given sentence is in the simple present tense, we use do/does in the tag.",
+            "answers": [
+                "is she",
+                "does she",
+                "doesn't she"
+            ],
+            "correct": 2,
+            "id": "4d77f934eb114e8bbc1da65bdf2b5366"
+        }
+    ]
+}

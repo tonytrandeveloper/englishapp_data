@@ -1,0 +1,143 @@
+{
+    "id": "03e0ee5502ce4e629658e711f14d86a3",
+    "title": "Comparatives and Superlatives",
+    "questions": [
+        {
+            "question": "The coat was ......................... than I thought.",
+            "description": "We use the comparative form of the adjective before than.",
+            "answers": [
+                "more expensive",
+                "most expensive",
+                "the most expensive",
+                "the more expensive"
+            ],
+            "correct": 0,
+            "id": "17acffd33a8c459894d9ea9af8bd5f2a"
+        },
+        {
+            "question": "Canada is ......................... India.",
+            "description": "Adjectives of one or two syllables form their comparative forms by adding -er to the positive adjective. ",
+            "answers": [
+                "bigger then",
+                "bigger than",
+                "more big than"
+            ],
+            "correct": 1,
+            "id": "f51188f3cb05430e993efb6fa40b5509"
+        },
+        {
+            "question": "He is not ................................. his brother.",
+            "description": "When we make comparisons using the positive adjective, we use the structure as...as...",
+            "answers": [
+                "as successful as",
+                "more successful as",
+                "as successful than"
+            ],
+            "correct": 0,
+            "id": "8a2ecfcba96742c5baef29799b3e6887"
+        },
+        {
+            "question": "Greenland is ......................... island in the world.",
+            "description": "The superlative adjective is used when we compare one thing with the group to which it belongs. ",
+            "answers": [
+                "largest",
+                "the largest",
+                "larger",
+                "the larger"
+            ],
+            "correct": 1,
+            "id": "d1218978950441808b5bcb5b77781fe3"
+        },
+        {
+            "question": "You are ............................... person I have met.",
+            "description": "",
+            "answers": [
+                "most interesting",
+                "the most interesting",
+                "the more interesting"
+            ],
+            "correct": 1,
+            "id": "3e991f68a6fa4bbf945344660c36a515"
+        },
+        {
+            "question": "This is ............................ film I have ever watched.",
+            "description": "Here we are comparing one film with all the films, and therefore a superlative adjective is used. ",
+            "answers": [
+                "best",
+                "the best",
+                "better",
+                "the better"
+            ],
+            "correct": 1,
+            "id": "ebfe89191e57425789deda391c35b1c4"
+        },
+        {
+            "question": "I am not very hungry so I will give you the ....................... steak.",
+            "description": "When a group has only two members, we can use either the comparative or the superlative however, the comparative is considered more appropriate here. ",
+            "answers": [
+                "bigger",
+                "biggest",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "3b9f5801e3284ba38645c42dd50ea154"
+        },
+        {
+            "question": "This is ........................... carpet I have seen.",
+            "description": "",
+            "answers": [
+                "dirtiest",
+                "the dirtiest",
+                "dirtyest"
+            ],
+            "correct": 1,
+            "id": "c40c540373fc439783d865e01eba0883"
+        },
+        {
+            "question": "She solved the puzzle ............................. than everybody else.",
+            "description": "Either quicker or more quickly is possible here. ",
+            "answers": [
+                "quickly",
+                "quicker",
+                "more quickly",
+                "more quicker"
+            ],
+            "correct": 2,
+            "id": "045c47b6a51545da9d6462714a45bc8d"
+        },
+        {
+            "question": "I would be ............................ if I had more chin.",
+            "description": "Some compound adjectives like good-looking have two possible comparatives. ",
+            "answers": [
+                "more good-looking",
+                "better-looking",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "7250e9596dbe4ed68409299d7b548550"
+        },
+        {
+            "question": "Thank you very much. That was ........................... of you.",
+            "description": "Most can be used with adjectives to mean 'very'. So the sentence 'That was most kind of you' means 'That was very kind of you'.",
+            "answers": [
+                "most kind",
+                "the kindest",
+                "kinder",
+                "All of the above"
+            ],
+            "correct": 0,
+            "id": "760243c7d59a4a07b7874d50217d1776"
+        },
+        {
+            "question": "You are .......................... your mother than your father.",
+            "description": "'Like' always has more and most. ",
+            "answers": [
+                "more like",
+                "liker",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "07da58266020432cac7803a4d37be29e"
+        }
+    ]
+}

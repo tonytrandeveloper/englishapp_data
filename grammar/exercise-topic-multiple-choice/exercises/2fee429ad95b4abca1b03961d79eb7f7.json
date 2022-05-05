@@ -1,0 +1,132 @@
+{
+    "id": "2fee429ad95b4abca1b03961d79eb7f7",
+    "title": "Adverbs Exercise",
+    "questions": [
+        {
+            "question": "I have heard this …………………",
+            "description": "Before can mean at any time before now/then.",
+            "answers": [
+                "since",
+                "before",
+                "from"
+            ],
+            "correct": 1,
+            "id": "8c6f18c2969549a4a4e0e112fee9efde"
+        },
+        {
+            "question": "I haven’t heard anything from him ………………….",
+            "description": "Lately means recently.",
+            "answers": [
+                "lately",
+                "late"
+            ],
+            "correct": 0,
+            "id": "304ef461216b4d92a0d734aaae2080ea"
+        },
+        {
+            "question": "He called me a few minutes ……………………..",
+            "description": "Ago is used with a past tense and a time expression to count back from the present. ",
+            "answers": [
+                "ago",
+                "before",
+                "since"
+            ],
+            "correct": 0,
+            "id": "470d457702264e208fb1274391e44f69"
+        },
+        {
+            "question": "He once met me in Egypt. I have not seen him …………………..",
+            "description": "We use since to reckon from a point of time in the past. ",
+            "answers": [
+                "since",
+                "then",
+                "after"
+            ],
+            "correct": 0,
+            "id": "29cc9b52485b4e4da4e29990ac3b1823"
+        },
+        {
+            "question": "That day he arrived ………………………",
+            "description": "Late is the opposite of early.",
+            "answers": [
+                "late",
+                "lately"
+            ],
+            "correct": 0,
+            "id": "c4beff9e5db848d6af9e06fb28680f90"
+        },
+        {
+            "question": "He ……………………. to do his best.",
+            "description": "Adverbs of frequency usually go after the modal auxiliary verb and before other verbs.",
+            "answers": [
+                "tried always",
+                "always tries"
+            ],
+            "correct": 1,
+            "id": "f52d7ca2e78f4770803b9db82543004f"
+        },
+        {
+            "question": "He …………………….. mistakes.",
+            "description": "Adverbs of frequency usually go after the modal auxiliary verb and before other verbs.",
+            "answers": [
+                "makes often",
+                "often makes"
+            ],
+            "correct": 1,
+            "id": "4e5ffed479b64721acac7d1d726b67c5"
+        },
+        {
+            "question": "This is ……………………… for our purpose.",
+            "description": "",
+            "answers": [
+                "enough good",
+                "good enough"
+            ],
+            "correct": 1,
+            "id": "2a18e74ca2aa456185c402d7082eeeba"
+        },
+        {
+            "question": "The patient is …………………… worse today.",
+            "description": "Worse is the comparative form of bad. We use much to modify comparative adjectives. More is not possible here.",
+            "answers": [
+                "much",
+                "more",
+                "most"
+            ],
+            "correct": 0,
+            "id": "349e4f88e3c748a3940a5674c313cb82"
+        },
+        {
+            "question": "Ambition urged me …………………..",
+            "description": "Forward and forwards are both correct as adverbs.",
+            "answers": [
+                "forward",
+                "forwards",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "728b7fee311d43f1b36438ae6a099c17"
+        },
+        {
+            "question": "Do not walk so ……………………..",
+            "description": "Fast is the adverb.",
+            "answers": [
+                "fast",
+                "fastly"
+            ],
+            "correct": 0,
+            "id": "5af7b9c9d4114483b101b37b2701bf15"
+        },
+        {
+            "question": "The reason …………………….. I came here was to be with my family.",
+            "description": "",
+            "answers": [
+                "why",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "587252bf1da745a8abb68f4cb0c094f1"
+        }
+    ]
+}

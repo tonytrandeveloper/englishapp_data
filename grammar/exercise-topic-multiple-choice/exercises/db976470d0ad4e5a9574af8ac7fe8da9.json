@@ -1,0 +1,106 @@
+{
+    "id": "db976470d0ad4e5a9574af8ac7fe8da9",
+    "title": "Personal Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Rita goes to school with ……………………………….",
+            "description": "",
+            "answers": [
+                "me",
+                "I"
+            ],
+            "correct": 0,
+            "id": "5565016892d446fa94019b4e1b3de20f"
+        },
+        {
+            "question": "………………………………. is my friend.",
+            "description": "",
+            "answers": [
+                "She",
+                "Her"
+            ],
+            "correct": 0,
+            "id": "ac4979004f34449dba61b02df57a3cf9"
+        },
+        {
+            "question": "Can you help ……………………………….?",
+            "description": "",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1,
+            "id": "76422d30150a46dc818bf0527eb43f56"
+        },
+        {
+            "question": "She is taller than ………………………………. is.",
+            "description": "",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 0,
+            "id": "9b5b450fc2b24aa69627a4e9eac5f7de"
+        },
+        {
+            "question": "I earn as much as ………………………………. does.",
+            "description": "",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 0,
+            "id": "39417a9b0cb54edbb9d83fece1ec969b"
+        },
+        {
+            "question": "………………………………. go to school by bus.",
+            "description": "",
+            "answers": [
+                "We",
+                "Us"
+            ],
+            "correct": 0,
+            "id": "a2481a5a31044625b4ee1498f06a25cc"
+        },
+        {
+            "question": "She has lost ………………………………. memory.",
+            "description": "",
+            "answers": [
+                "she",
+                "her"
+            ],
+            "correct": 1,
+            "id": "15e183c4f40748c48d2ef174bb3e8d22"
+        },
+        {
+            "question": "We are going for a drink. Would you like to come with ……………………………….?",
+            "description": "",
+            "answers": [
+                "we",
+                "us"
+            ],
+            "correct": 1,
+            "id": "aa12dfd3e4284afcac9e3dbe5f7a293e"
+        },
+        {
+            "question": "The invitation was for Jane and ……………………………….",
+            "description": "",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1,
+            "id": "5c5410f3b6c94a64ab158ec21315ed5b"
+        },
+        {
+            "question": "John and ………………………………. are going skiing this weekend.",
+            "description": "",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 0,
+            "id": "5a588889ffd1424bb1b631b63879da91"
+        }
+    ]
+}

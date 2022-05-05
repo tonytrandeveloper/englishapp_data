@@ -1,0 +1,137 @@
+{
+    "id": "272e6de588934fa4ba1a78d80ef0c332",
+    "title": "Degrees Of Comparison Exercise",
+    "questions": [
+        {
+            "question": "Honey is ………………………. than milk.",
+            "description": "Most adjectives of one syllable form the comparative by adding –er and superlative by adding –est to the positive.",
+            "answers": [
+                "sweeter",
+                "more sweet",
+                "more sweeter"
+            ],
+            "correct": 0,
+            "id": "ebd6022b1b3749519af5f027b28a174e"
+        },
+        {
+            "question": "This is ………………………… than that.",
+            "description": "Better is the comparative form of good.",
+            "answers": [
+                "more good",
+                "gooder",
+                "better"
+            ],
+            "correct": 2,
+            "id": "ddd0ac5d449b4c0194c2fbc1d422b042"
+        },
+        {
+            "question": "We played well but they played even ………………………….",
+            "description": "Better is the comparative of well.",
+            "answers": [
+                "more well",
+                "better"
+            ],
+            "correct": 1,
+            "id": "b8d7a205d4cd43159b8946e530e06743"
+        },
+        {
+            "question": "She was …………………………..than her husband.",
+            "description": "",
+            "answers": [
+                "more kind",
+                "kinder",
+                "more kinder"
+            ],
+            "correct": 1,
+            "id": "8eb1227d5f224a6388712ebdb62e7862"
+        },
+        {
+            "question": "This is ………………………. than that.",
+            "description": "Most adjectives of one syllable form the comparative by adding –er and superlative by adding –est.",
+            "answers": [
+                "white",
+                "more white",
+                "whiter"
+            ],
+            "correct": 2,
+            "id": "58b4f063c505498799ad1838f95e0d55"
+        },
+        {
+            "question": "He was the ………………………….. of all men.",
+            "description": "Noblest is the superlative form of noble.",
+            "answers": [
+                "most noble",
+                "most noblest",
+                "noblest"
+            ],
+            "correct": 2,
+            "id": "8ff7feee330d431a973d9193a1b3e53d"
+        },
+        {
+            "question": "Rana is ……………………….. than his brother.",
+            "description": "",
+            "answers": [
+                "wealthy",
+                "more wealthy",
+                "wealthier"
+            ],
+            "correct": 2,
+            "id": "c18f9bf698134c51abf765f31ed0b717"
+        },
+        {
+            "question": "It was the ………………………… day of his life.",
+            "description": "When the positive of a one syllable adjective ends in a consonant and that consonant is preceded by a short vowel, the consonant is doubled before adding –er and –est.",
+            "answers": [
+                "most sad",
+                "most saddest",
+                "saddest"
+            ],
+            "correct": 2,
+            "id": "34557af4a27247b5af17faa8276c7c97"
+        },
+        {
+            "question": "He is ………………………….. than his colleagues.",
+            "description": "Adjectives of more than two syllables form the comparative by adding more.",
+            "answers": [
+                "industrious",
+                "more industrious",
+                "most industrious"
+            ],
+            "correct": 1,
+            "id": "cc502501736c4082bd3af626e8403e28"
+        },
+        {
+            "question": "She is …………………………. than her brother.",
+            "description": "",
+            "answers": [
+                "more brave",
+                "braver",
+                "more braver"
+            ],
+            "correct": 1,
+            "id": "8de2bbe5e5a44cdfb0170368bc7b61b4"
+        },
+        {
+            "question": "The new hall is ………………………… than the old one.",
+            "description": "Adjectives of more than two syllables form the comparative by adding -more",
+            "answers": [
+                "splendid",
+                "more splendid",
+                "splendider"
+            ],
+            "correct": 1,
+            "id": "0ecba75803ec4300bdbd634aef84f8b7"
+        },
+        {
+            "question": "The exam was …………………………. than I thought.",
+            "description": "",
+            "answers": [
+                "more easy",
+                "easier",
+                "more easier"
+            ],
+            "correct": 1,
+            "id": "725e7f6f533c48a18c5ffb9059bb476f"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "id": "525f232594e24d7f8a7f569bd6504485",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "I think ................................... time to call it quits.",
+            "description": "",
+            "answers": [
+                "it's",
+                "its"
+            ],
+            "correct": 0,
+            "id": "9742e6231c7b44cf9cae1099483ecf66"
+        },
+        {
+            "question": "How ............................... do you speak English?",
+            "description": "",
+            "answers": [
+                "good",
+                "well"
+            ],
+            "correct": 1,
+            "id": "6000332c0b004d1a8dbc1335431ff2c5"
+        },
+        {
+            "question": "I like that teacher. She is ................................",
+            "description": "",
+            "answers": [
+                "good",
+                "well"
+            ],
+            "correct": 0,
+            "id": "21266dc80803480d98329dacd8f38a97"
+        },
+        {
+            "question": "She speaks ..................................... French.",
+            "description": "",
+            "answers": [
+                "good",
+                "well"
+            ],
+            "correct": 0,
+            "id": "eeb2107b87a740aeb401aa6e91402992"
+        },
+        {
+            "question": "She has got longer hair ................................ I have.",
+            "description": "",
+            "answers": [
+                "than",
+                "then"
+            ],
+            "correct": 0,
+            "id": "5d7683cbc62d4c0b914629f944a853f1"
+        },
+        {
+            "question": "He attributed the failure of the project to .................................... lack of appeal to the masses.",
+            "description": "",
+            "answers": [
+                "it's",
+                "its"
+            ],
+            "correct": 1,
+            "id": "da396a188312436b8fc613a38e8608b1"
+        },
+        {
+            "question": "................................. is a bridge across the river.",
+            "description": "",
+            "answers": [
+                "Their",
+                "There"
+            ],
+            "correct": 1,
+            "id": "5d9a8c0a973e43e0bbc9d17757436443"
+        },
+        {
+            "question": "They sent more food .................................. I had ordered.",
+            "description": "",
+            "answers": [
+                "than",
+                "then"
+            ],
+            "correct": 0,
+            "id": "ab1ef6c56d614404b4bb4210a4348702"
+        },
+        {
+            "question": "Do you know anybody ................................... going to London in the next few weeks?",
+            "description": "",
+            "answers": [
+                "whose",
+                "who's"
+            ],
+            "correct": 1,
+            "id": "dcb3ee18458c4ae38af8a5c6c156ca79"
+        },
+        {
+            "question": "................................... coat is this?",
+            "description": "",
+            "answers": [
+                "Whose",
+                "Who's"
+            ],
+            "correct": 0,
+            "id": "e5ff3d5eedf140ddac13fb24b31ae8e3"
+        }
+    ]
+}

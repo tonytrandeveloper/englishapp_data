@@ -1,0 +1,108 @@
+{
+    "id": "aac6d219d9a54aeca615713046ef972e",
+    "title": "Good and Well | Grammar Exercise",
+    "questions": [
+        {
+            "question": "Your daughter sings ………………",
+            "description": "",
+            "answers": [
+                "good",
+                "well"
+            ],
+            "correct": 1,
+            "id": "a11fa463de4647468742231777192b6f"
+        },
+        {
+            "question": "She is a ……………. writer.",
+            "description": "Good is an adjective. We use it before a noun.",
+            "answers": [
+                "good",
+                "well"
+            ],
+            "correct": 0,
+            "id": "97e003eab6b94fb6b63bc3a62798bb80"
+        },
+        {
+            "question": "It is a …………….. built engine.",
+            "description": "",
+            "answers": [
+                "well",
+                "good"
+            ],
+            "correct": 0,
+            "id": "2fc2c3d8efbf4d5b927d3850ad86f0cf"
+        },
+        {
+            "question": "He is a …………….. friend.",
+            "description": "Good is an adjective well is an adverb. Adjectives go before nouns.",
+            "answers": [
+                "good",
+                "well"
+            ],
+            "correct": 0,
+            "id": "b745bb538bf94aa5a13672e12ed58348"
+        },
+        {
+            "question": "I don’t speak English …………….., but I can make myself understood.",
+            "description": "Here the adverb well modifies the verb speak.",
+            "answers": [
+                "well",
+                "good"
+            ],
+            "correct": 0,
+            "id": "a9136b3b78874417acabbced3aac28be"
+        },
+        {
+            "question": "I am not feeling very ……………. today.",
+            "description": "",
+            "answers": [
+                "well",
+                "good"
+            ],
+            "correct": 0,
+            "id": "0863ebd1296e4d518795e37ece8b153b"
+        },
+        {
+            "question": "Only a ………….. teacher can teach English ………………",
+            "description": "Here the adjective good modifies the noun teacher and the adverb well modifies the verb teach.",
+            "answers": [
+                "good, good",
+                "good, well",
+                "well, well",
+                "well, good"
+            ],
+            "correct": 1,
+            "id": "62cf891f90c849e0b4b9cdb626ed97b4"
+        },
+        {
+            "question": "Her style is …………….",
+            "description": "Here the adjective good acts as the complement of the subject. ",
+            "answers": [
+                "good",
+                "well"
+            ],
+            "correct": 0,
+            "id": "0c1eeb064a5949bd9158d33b8f039906"
+        },
+        {
+            "question": "I like that design. It is ……………..",
+            "description": "",
+            "answers": [
+                "well",
+                "good"
+            ],
+            "correct": 1,
+            "id": "2d93d88ccf4e40aa91596d07c5d8f4a5"
+        },
+        {
+            "question": "The car runs .........................",
+            "description": "",
+            "answers": [
+                "good",
+                "well"
+            ],
+            "correct": 1,
+            "id": "0359b44c3f5544f080cf5f8511bed0bc"
+        }
+    ]
+}

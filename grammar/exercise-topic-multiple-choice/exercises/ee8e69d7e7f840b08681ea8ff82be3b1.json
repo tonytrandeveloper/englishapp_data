@@ -1,0 +1,116 @@
+{
+    "id": "ee8e69d7e7f840b08681ea8ff82be3b1",
+    "title": "So That",
+    "questions": [
+        {
+            "question": "He borrowed some money from his friend so that ......................... buy a car.",
+            "description": "",
+            "answers": [
+                "may",
+                "can",
+                "might"
+            ],
+            "correct": 2,
+            "id": "003d88806bad4ffa977e432c54ed5fda"
+        },
+        {
+            "question": "We eat so that we .................... live.",
+            "description": "",
+            "answers": [
+                "may",
+                "might",
+                "could"
+            ],
+            "correct": 0,
+            "id": "351dbe96679b4a24ba4206ce6f7e1425"
+        },
+        {
+            "question": "He worked hard so that he ....................... pass the test.",
+            "description": "",
+            "answers": [
+                "might",
+                "could",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "f2df990cede146e29ff592ed4543f298"
+        },
+        {
+            "question": "Our team played well ..................... they could win the match.",
+            "description": "",
+            "answers": [
+                "so that",
+                "in order to",
+                "so as to"
+            ],
+            "correct": 0,
+            "id": "f857ca0979394acea700757116937b03"
+        },
+        {
+            "question": "They grew vegetables in the backyard so that they ........................ have fresh vegetables all year round.",
+            "description": "",
+            "answers": [
+                "might",
+                "can",
+                "may"
+            ],
+            "correct": 0,
+            "id": "30c0d70c8fd84df684ce995324684e68"
+        },
+        {
+            "question": "I wrote the number on a piece of paper so that I ..................... forget it.",
+            "description": "",
+            "answers": [
+                "won't",
+                "wouldn't",
+                "couldn't"
+            ],
+            "correct": 1,
+            "id": "e9d8b55138b54f82bd0e0a46ed8bcd26"
+        },
+        {
+            "question": "He offered his daughter a prize so that she ....................... work hard.",
+            "description": "",
+            "answers": [
+                "may",
+                "will",
+                "might"
+            ],
+            "correct": 2,
+            "id": "b960844f6d4d4e9a9cc33a94b1f30b5b"
+        },
+        {
+            "question": "She stayed in London for six months so that she ........................ perfect her English.",
+            "description": "",
+            "answers": [
+                "may",
+                "can",
+                "might"
+            ],
+            "correct": 2,
+            "id": "559c9e7407e34c00bc35f2b45513546f"
+        },
+        {
+            "question": "I have come early so that I ....................... talk to you.",
+            "description": "",
+            "answers": [
+                "can",
+                "will",
+                "should"
+            ],
+            "correct": 0,
+            "id": "a70a3655bb134e69ba4fc4bb1d399aca"
+        },
+        {
+            "question": "He left home early so that he .......................... get to the meeting in time.",
+            "description": "",
+            "answers": [
+                "should",
+                "would",
+                "will"
+            ],
+            "correct": 1,
+            "id": "a7b0f8e38fd7434d95b455a22d23356b"
+        }
+    ]
+}

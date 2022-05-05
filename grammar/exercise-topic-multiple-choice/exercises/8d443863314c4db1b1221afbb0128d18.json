@@ -1,0 +1,93 @@
+{
+    "id": "8d443863314c4db1b1221afbb0128d18",
+    "title": "Less And Least",
+    "questions": [
+        {
+            "question": "The apple is ............................................. than the mango.",
+            "description": "",
+            "answers": [
+                "less sweet",
+                "less sweeter",
+                "lesser sweet"
+            ],
+            "correct": 0,
+            "id": "00e3feb77b5e40c6818b3bf071d0a781"
+        },
+        {
+            "question": "Copper is ......................................... useful than iron.",
+            "description": "",
+            "answers": [
+                "less",
+                "lesser",
+                "least"
+            ],
+            "correct": 0,
+            "id": "9fcce0eb68b6415aa6cac0f5d8b99af6"
+        },
+        {
+            "question": "Silver is ........................................... precious than gold.",
+            "description": "",
+            "answers": [
+                "less",
+                "lesser",
+                "least"
+            ],
+            "correct": 0,
+            "id": "1740e74bccc24405b71c7191ca33af25"
+        },
+        {
+            "question": "This is the ......................................... useful of my gadgets.",
+            "description": "",
+            "answers": [
+                "less",
+                "little",
+                "least"
+            ],
+            "correct": 2,
+            "id": "a510eb4e28654468a88a424e6246fe19"
+        },
+        {
+            "question": "Platinum is one of the ...................................... common minerals.",
+            "description": "",
+            "answers": [
+                "less",
+                "little",
+                "least"
+            ],
+            "correct": 2,
+            "id": "aa387ef6810245ff9a663ec719642e0f"
+        },
+        {
+            "question": "All other fruits are ......................................... sour than the wild apple.",
+            "description": "",
+            "answers": [
+                "little",
+                "less",
+                "least"
+            ],
+            "correct": 1,
+            "id": "e69786930e964dc68619f94f7df0b6ea"
+        },
+        {
+            "question": "The baby is ....................................... ugly than you.",
+            "description": "",
+            "answers": [
+                "little",
+                "less"
+            ],
+            "correct": 1,
+            "id": "4ef8e6495f5c487a86fd405da429b77d"
+        },
+        {
+            "question": "I used to have ........................................ energy than I have got now.",
+            "description": "",
+            "answers": [
+                "less",
+                "little",
+                "least"
+            ],
+            "correct": 0,
+            "id": "6a0159a75e444b42aaef06857818ace3"
+        }
+    ]
+}

@@ -1,0 +1,386 @@
+{
+    "id": "e263ebdc6fda476f9a52026d3a56f421",
+    "title": "Make or Do Exercise 4",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How much money does a waitress"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ],
+            "id": "703144660b9d4ae8be003e56b7432ce8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "the laundry today? We have no clean clothes."
+                }
+            ],
+            "id": "4a8f4b67407943bdaf3ece28f749e895"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She spent the evening watching black and white films and"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "doing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "her nails."
+                }
+            ],
+            "id": "9180258fef134904867486bafdbc14be"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did their new business"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a profit last year?"
+                }
+            ],
+            "id": "ea8e747d60c84b5aa3a448dc09da9462"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The teacher"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "some very positive comments about Susie's work."
+                }
+            ],
+            "id": "f1e833be395e4962b6df4b374d86c81c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There's so much paperwork to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "! I'll be here all night."
+                }
+            ],
+            "id": "16f5f568b39b45dd8d909f710b04e23e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The CEO of the company"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "some interesting observations during his visit to our department."
+                }
+            ],
+            "id": "3c28cf8b46a04ec08e896929851c0e59"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'd like to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "Julie an offer of a job. It would be full time in our office."
+                }
+            ],
+            "id": "7e60f66d14d44eaebe49b9b8f33ad575"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There was a man sitting on the pier earlier. He was"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "doing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a painting of the boats."
+                }
+            ],
+            "id": "49915fe97fda4f49a8fef03be128bf9f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This lecture is so boring! Let's"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "an escape during the break and go to the cafe."
+                }
+            ],
+            "id": "90c28dca6a274ae1abd7fe60875eb624"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "William"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "an excuse to the teacher about why he was late, but she didn't believe him."
+                }
+            ],
+            "id": "170de5840e9a4a7695515ce9e3410c31"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Stop talking and"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "some work!"
+                }
+            ],
+            "id": "ddefea9ee3fb452186b22000d33b742f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Alison can't come tonight. She's already"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "plans."
+                }
+            ],
+            "id": "fd882eeeb79e4fa6a60e8c442dd9da4b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm going to work all weekend. I really want to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "some progress on this project."
+                }
+            ],
+            "id": "6209dfe79375428684ec428dddd7ba51"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you please"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "sure that the money has gone into the correct bank account?"
+                }
+            ],
+            "id": "8dd6da0c09324de5b00dc80506df3925"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It takes Lizzie an hour a day to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "the washing up. She would love to have a dishwasher."
+                }
+            ],
+            "id": "a006ccda12564c2ab54bb201f8bbed3e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I offered the job to Ian, and said he had until Monday to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "his mind up."
+                }
+            ],
+            "id": "d47c112a2dd042beb14fbd2eb54dfd84"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "In the morning she gets up, has a shower and gets dressed, then"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "makes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "the bed. After that she goes downstairs and has breakfast."
+                }
+            ],
+            "id": "fd7c2bc5830543f7bb21f189014f0450"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John and Lucy"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "their way through the crowded streets to their hotel."
+                }
+            ],
+            "id": "3d033c23be1b49cf9f2cfea47dac04f8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Graham"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "did"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "really well in the tennis competition. He came second out of over a hundred people."
+                }
+            ],
+            "id": "38c3a67dfed14a4e8f26e6eec2544f24"
+        }
+    ]
+}

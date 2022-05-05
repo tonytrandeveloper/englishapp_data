@@ -1,0 +1,132 @@
+{
+    "id": "403c0eb524e64486a78d515f2d2b8e66",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "I ……………………… sure that she is lying.",
+            "description": "When feel is used to talk about reactions and opinions, it is not normally used in the continuous form.",
+            "answers": [
+                "feel",
+                "am feeling",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "98c0825f7c8641a4b6d5f7c88fa76025"
+        },
+        {
+            "question": "They are ……………………… kind people!",
+            "description": "In exclamations, we use such before an adjective + plural noun.",
+            "answers": [
+                "such",
+                "so"
+            ],
+            "correct": 0,
+            "id": "4923f9ed85ed4bcb98f763a0e415e3b7"
+        },
+        {
+            "question": "That was ……………………….. kind of you.",
+            "description": "So is used before an adjective.",
+            "answers": [
+                "such",
+                "so"
+            ],
+            "correct": 1,
+            "id": "90298c7439b4417b85354d193f64af0d"
+        },
+        {
+            "question": "I ………………………. him to arrive at 3 o’clock.",
+            "description": "Before an object, wait and hope are followed by for.",
+            "answers": [
+                "expect",
+                "hope",
+                "wait"
+            ],
+            "correct": 0,
+            "id": "cb2b024cbd72442d92a7900b4c9d8a9a"
+        },
+        {
+            "question": "You should never steal someone ……………………….. ideas.",
+            "description": "Else has a possessive form – else’s.",
+            "answers": [
+                "else",
+                "else's"
+            ],
+            "correct": 1,
+            "id": "6eb4b6b000df4cc8b5c953c4f367e708"
+        },
+        {
+            "question": "She was ………………………. anxious.",
+            "description": "Too is not used with much before an adjective.",
+            "answers": [
+                "too",
+                "too much",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d2c1b9c8024b4a6391d4326b0bcd957a"
+        },
+        {
+            "question": "I am completely ………………………….",
+            "description": "",
+            "answers": [
+                "exhausted",
+                "exhausting"
+            ],
+            "correct": 0,
+            "id": "63e47680209d49ab8f9cb23e9bdb0d31"
+        },
+        {
+            "question": "I have difficulty ……………………………. dates.",
+            "description": "Difficulty is followed by (in) + ing form.",
+            "answers": [
+                "to remember",
+                "remembering",
+                "in remembering"
+            ],
+            "correct": 2,
+            "id": "115ba4dc045c4d079931cd04b5ab4672"
+        },
+        {
+            "question": "The whole village was ……………………….. water.",
+            "description": "We use under when something is covered by what is over it.",
+            "answers": [
+                "below",
+                "under"
+            ],
+            "correct": 1,
+            "id": "180f68f7dab34533980df92436474182"
+        },
+        {
+            "question": "I didn’t like this jacket ………………………., it is too large.",
+            "description": "Besides means in addition.",
+            "answers": [
+                "beside",
+                "besides"
+            ],
+            "correct": 1,
+            "id": "4dd0486ba1614753ae0f9b249f9783b8"
+        },
+        {
+            "question": "How do you …………………………. the vacuum cleaner?",
+            "description": "We make machines start.",
+            "answers": [
+                "begin",
+                "start",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "470e0230af9142d8b902cd8e9d4368ab"
+        },
+        {
+            "question": "If my grandmother had been alive, she ……………………….. 95 this year.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "will be",
+                "would be",
+                "would have been"
+            ],
+            "correct": 2,
+            "id": "0c6020de1d3342a3a8c983db1ff8552d"
+        }
+    ]
+}

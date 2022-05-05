@@ -1,0 +1,137 @@
+{
+    "id": "4bec3d94377947a19236897022bdc1ed",
+    "title": "General Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "I have ……………………….. respect for him.",
+            "description": "Great is mainly used with abstract nouns.",
+            "answers": [
+                "big",
+                "large",
+                "great"
+            ],
+            "correct": 2,
+            "id": "a12e8c29e1944217bc25c535e1d96a8c"
+        },
+        {
+            "question": "She has got rather ………………………….. eyes.",
+            "description": "Big and large are mainly used with concrete nouns.",
+            "answers": [
+                "big",
+                "large",
+                "great"
+            ],
+            "correct": 1,
+            "id": "3d3f9a1aae894e4f88df4d3a9b0ffdb7"
+        },
+        {
+            "question": "I …………………………….. a book from my sister.",
+            "description": "We borrow something from somebody. Loan has a similar meaning. ",
+            "answers": [
+                "borrowed",
+                "lent",
+                "loaned"
+            ],
+            "correct": 2,
+            "id": "a8d1e810d2974500a17afb6f051b2245"
+        },
+        {
+            "question": "……………………………… me your pen for a minute, will you?",
+            "description": "You lend something to somebody.",
+            "answers": [
+                "Lend",
+                "Borrow"
+            ],
+            "correct": 0,
+            "id": "ee2ea99e2bf74b1b8baba66edfd9616b"
+        },
+        {
+            "question": "The job was hard but I …………………………… got used to it.",
+            "description": "Soon means ‘a short time after then’.",
+            "answers": [
+                "soon",
+                "early",
+                "quickly"
+            ],
+            "correct": 2,
+            "id": "452fad42a99348ff8b7a877ef63857de"
+        },
+        {
+            "question": "……………………………… that week, something suspicious occurred.",
+            "description": "Early means near the beginning of the time period that we are talking or thinking about.",
+            "answers": [
+                "Soon",
+                "Early",
+                "Quickly"
+            ],
+            "correct": 1,
+            "id": "9f38054190974e498d8df501d2ff4cdc"
+        },
+        {
+            "question": "The train arrived 30 minutes ……………………………",
+            "description": "Early means before the expected time.",
+            "answers": [
+                "soon",
+                "early",
+                "quickly"
+            ],
+            "correct": 1,
+            "id": "3030cd4f16154cfea5c50cf19b3296e5"
+        },
+        {
+            "question": "You are never ………………………………",
+            "description": "",
+            "answers": [
+                "early",
+                "soon",
+                "quickly"
+            ],
+            "correct": 0,
+            "id": "6d9896ac39664ab1856484577341bf43"
+        },
+        {
+            "question": "My watch is five minutes …………………………..",
+            "description": "A watch or a clock can be fast or slow. ",
+            "answers": [
+                "slow",
+                "late",
+                "lately"
+            ],
+            "correct": 0,
+            "id": "291aabf2b9764ecaa7af962595caad6c"
+        },
+        {
+            "question": "Do something ……………………………. He is bleeding.",
+            "description": "Quickly indicates the need to act urgently.",
+            "answers": [
+                "soon",
+                "early",
+                "quickly"
+            ],
+            "correct": 2,
+            "id": "d4b5dc69298644efb08e9833d4be7fdc"
+        },
+        {
+            "question": "Let’s meet ………………………………. next week.",
+            "description": "Sometime means one day.",
+            "answers": [
+                "sometime",
+                "some time",
+                "some times"
+            ],
+            "correct": 0,
+            "id": "20ef20bef6f248188f60abefb98b5e9e"
+        },
+        {
+            "question": "I’m afraid it will take ……………………………… to repair the car.",
+            "description": "Some time means quite a lot of time.",
+            "answers": [
+                "sometime",
+                "some time",
+                "sometimes"
+            ],
+            "correct": 1,
+            "id": "810b01c4133e40f88d615aef592ba389"
+        }
+    ]
+}

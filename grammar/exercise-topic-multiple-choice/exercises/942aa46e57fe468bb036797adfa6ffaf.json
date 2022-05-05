@@ -1,0 +1,83 @@
+{
+    "id": "942aa46e57fe468bb036797adfa6ffaf",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "........................................ many shortcomings, she was a nice woman.",
+            "description": "",
+            "answers": [
+                "In spite of having",
+                "Despite of having",
+                "Although having"
+            ],
+            "correct": 0,
+            "id": "4f56534ee4204f5fb0c0e9c5719ac191"
+        },
+        {
+            "question": "..................................... a great poet, Tagore was a good painter.",
+            "description": "",
+            "answers": [
+                "Besides being",
+                "Besides",
+                "Besides having been"
+            ],
+            "correct": 0,
+            "id": "9c1eda55169f4a4d8b3c260987fe2f76"
+        },
+        {
+            "question": "...................................... a jackpot, he built a big mansion.",
+            "description": "",
+            "answers": [
+                "Winning",
+                "Won",
+                "Having won"
+            ],
+            "correct": 2,
+            "id": "5db5993aa5dd4c6e9bced898fb1e268a"
+        },
+        {
+            "question": "...................................... on tip-toe, he reached for the apple.",
+            "description": "",
+            "answers": [
+                "Standing",
+                "Stood",
+                "Being standing"
+            ],
+            "correct": 0,
+            "id": "7ab80a6d09d14d3393f22e6bbf3fdc53"
+        },
+        {
+            "question": "The rain ......................................... we continued our journey.",
+            "description": "",
+            "answers": [
+                "stopping",
+                "having stopped",
+                "stopped"
+            ],
+            "correct": 1,
+            "id": "12af0b0e6cad4efa9a3d2303cf93d90d"
+        },
+        {
+            "question": "James is going to the US ................................... higher education.",
+            "description": "",
+            "answers": [
+                "to pursue",
+                "to pursuing",
+                "for pursuing"
+            ],
+            "correct": 0,
+            "id": "518cc9fff51e44e6a5503ac0dfb4b890"
+        },
+        {
+            "question": "...................................... a great conqueror, Caesar failed to unite the various conquered territories into a well-knit empire.",
+            "description": "",
+            "answers": [
+                "Despite been",
+                "Despite being",
+                "Despite of being"
+            ],
+            "correct": 1,
+            "id": "671e6a75c5554935bfd524bf2240b4a8"
+        }
+    ]
+}

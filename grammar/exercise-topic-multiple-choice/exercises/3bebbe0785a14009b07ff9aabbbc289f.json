@@ -1,0 +1,150 @@
+{
+    "id": "3bebbe0785a14009b07ff9aabbbc289f",
+    "title": "Identifying Conditionals",
+    "questions": [
+        {
+            "question": "If I don't drink coffee in the afternoon, I feel sleepy.",
+            "description": "In the zero conditional, we use the simple present tense in both the clauses.",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 0,
+            "id": "dcf64389a763409d9fae7083b73de409"
+        },
+        {
+            "question": "I will tell her if I meet her.",
+            "description": "In the first conditional, we use will + infinitive in the main clause and simple present tense in the if-clause.",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "27511530c5a64dc9b019205ef74a5a08"
+        },
+        {
+            "question": "I would have helped if I had been there.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 3,
+            "id": "eceb26afaf774695b69c929aa4dec268"
+        },
+        {
+            "question": "If you want to play a musical instrument, you have to practice.",
+            "description": "In the zero conditional, we use the simple present tense in both the clauses.",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 0,
+            "id": "641b37ba2af545debf1faee16c7c800b"
+        },
+        {
+            "question": "If I have enough time tomorrow, I will come and see you.",
+            "description": "In the first conditional, we use will + infinitive in the main clause and simple present tense in the if-clause.",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "d0b415c1d4b84f468ca152955d7a92d8"
+        },
+        {
+            "question": "If you eat too much, you get fat.",
+            "description": "In the zero conditional, we use the simple present tense in both the clauses.",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 0,
+            "id": "c862a5c8e4be4b8bb1ef88df51c0f751"
+        },
+        {
+            "question": "What would you do if you lost your job?",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 2,
+            "id": "bdb6dca4fc464531986aea25b1b3c218"
+        },
+        {
+            "question": "If you had run a bit faster, you would have won.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 3,
+            "id": "f3cd4717633c4a78a2eeb712e8aad686"
+        },
+        {
+            "question": "If I were you, I would buy it as soon as possible.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 2,
+            "id": "862b8bf9f1504208929bf35d9306d43a"
+        },
+        {
+            "question": "If he had gone to university, he would have got a better job.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 3,
+            "id": "f7c470499afa4f97a3ad7a723c2a9d74"
+        },
+        {
+            "question": "I will be surprised if he doesn't win.",
+            "description": "In the first conditional, we use will + infinitive in the main clause and simple present tense in the if-clause.",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "0bb0ddd29bef4c10bce92c0eb0ff8e71"
+        },
+        {
+            "question": "If anyone complains, we will deal with it promptly.",
+            "description": "In the first conditional, we use will + infinitive in the main clause and simple present tense in the if-clause.",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "723dd2d2e5b54e9298472660889736f2"
+        }
+    ]
+}

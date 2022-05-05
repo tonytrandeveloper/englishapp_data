@@ -1,0 +1,127 @@
+{
+    "id": "0ce425c6cf87404093f3c0823097d3e7",
+    "title": "Simple Past Or Past Continuous Tense",
+    "questions": [
+        {
+            "question": "I ............................. I didn't hear the door bell.",
+            "description": "We use the past continuous to talk about an action or situation that was going on at a particular point of time in the past. ",
+            "answers": [
+                "slept",
+                "was sleeping"
+            ],
+            "correct": 1,
+            "id": "795d12dcf809429aa6efdea39af11d0e"
+        },
+        {
+            "question": "I ......................... her many times but she didn't answer.",
+            "description": "We use the simple past to talk about finished actions in the past. ",
+            "answers": [
+                "phoned",
+                "was phoning"
+            ],
+            "correct": 0,
+            "id": "dc6b6e4a26c8400c8763a42eab3bd093"
+        },
+        {
+            "question": "'What ........................... then?' 'I was watching TV.'",
+            "description": "",
+            "answers": [
+                "did you do",
+                "were you doing"
+            ],
+            "correct": 1,
+            "id": "474b3cb9acac4b58bd9775122688a98b"
+        },
+        {
+            "question": "He ......................... money from the rich and gave it to the poor.",
+            "description": "The simple past is used to talk about all types of finished actions in the past.",
+            "answers": [
+                "stole",
+                "was stealing"
+            ],
+            "correct": 0,
+            "id": "e969f2ab2ba84ab487eaed9501888a30"
+        },
+        {
+            "question": "'Did you meet James yesterday?' 'Yes, I .................... him.'",
+            "description": "",
+            "answers": [
+                "met",
+                "was meeting"
+            ],
+            "correct": 0,
+            "id": "c1b576b5bab24185a00d8f2cb341352b"
+        },
+        {
+            "question": "The train ...................... at",
+            "description": "The simple past is used to talk about finished actions in the past. ",
+            "answers": [
+                "arrived",
+                "was arriving"
+            ],
+            "correct": 0,
+            "id": "994f51d02a3243d390c25afe53650b2c"
+        },
+        {
+            "question": "The children ............................. when their mother .................... home.",
+            "description": "When we talk about two past events, the past continuous is used to refer to the longer background action. ",
+            "answers": [
+                "slept, got",
+                "were sleeping, was getting",
+                "were sleeping, got"
+            ],
+            "correct": 2,
+            "id": "d44c0e241ae34d7f8dcd3331d774b61e"
+        },
+        {
+            "question": "I cooked dinner while Mike ............................ the house.",
+            "description": "The past simple can be used to talk about two actions that happened at the same time. ",
+            "answers": [
+                "was tidying",
+                "tidied"
+            ],
+            "correct": 1,
+            "id": "df41cffb1670450ba5cc697ab7ec1c46"
+        },
+        {
+            "question": "I ....................... dinner when the lights went out.",
+            "description": "The past continuous can be used to talk about a longer background action that was going on when another action took place. ",
+            "answers": [
+                "had",
+                "was having"
+            ],
+            "correct": 1,
+            "id": "875aa0c6a6ac4fff8b7e736d052f08be"
+        },
+        {
+            "question": "It ......................... me quite sometime to learn French.",
+            "description": "",
+            "answers": [
+                "took",
+                "was taking"
+            ],
+            "correct": 0,
+            "id": "4443e12e9d35429fb9ac377927876588"
+        },
+        {
+            "question": "As I .............................. down the street, I saw a strange sight.",
+            "description": "",
+            "answers": [
+                "walked",
+                "was walking"
+            ],
+            "correct": 1,
+            "id": "57542cf326bd4c03908ecb499adb5376"
+        },
+        {
+            "question": "I ...................... a car last month.",
+            "description": "",
+            "answers": [
+                "bought",
+                "was buying"
+            ],
+            "correct": 0,
+            "id": "f80c5db4e2614637b3a8bb11f1bfcd36"
+        }
+    ]
+}

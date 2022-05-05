@@ -1,0 +1,127 @@
+{
+    "id": "654a07edbec14a9fbd903940457581f7",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "I ………………………. the minister tomorrow.",
+            "description": "The present continuous is used to refer to future events that are already arranged.",
+            "answers": [
+                "see",
+                "am seeing",
+                "would see"
+            ],
+            "correct": 1,
+            "id": "0a335d18e5d744c2a52f877e7fd3c340"
+        },
+        {
+            "question": "‘The phone is ringing.’ ‘I ………………………. it.’",
+            "description": "Will is used to announce our decisions.",
+            "answers": [
+                "will answer",
+                "would answer",
+                "am answering"
+            ],
+            "correct": 0,
+            "id": "b57a0cb8eee24dbcb9ab5647a1f30e5f"
+        },
+        {
+            "question": "Good luck with the exam. I ………………………… of you.",
+            "description": "The future continuous is used to say that something will be in progress at a particular moment in the future.",
+            "answers": [
+                "am thinking",
+                "will have thought",
+                "will be thinking"
+            ],
+            "correct": 2,
+            "id": "51672f8728bd41e0b414b276c0a77561"
+        },
+        {
+            "question": "……………………….. I turn the heating on?",
+            "description": "We use shall in polite offers and requests.",
+            "answers": [
+                "Will",
+                "Would",
+                "Shall"
+            ],
+            "correct": 2,
+            "id": "8720ccc18cd6493bbf793179a47b0e91"
+        },
+        {
+            "question": "All the trouble ………………………… by you.",
+            "description": "We use the passive verb here because the subject is not the doer of the action.",
+            "answers": [
+                "caused",
+                "was caused",
+                "have caused"
+            ],
+            "correct": 1,
+            "id": "7f2c2f9704564cb4bed12b9792f50a33"
+        },
+        {
+            "question": "When you phoned I ……………………….. in the garden.",
+            "description": "When we talk about two past events, we often use the past continuous for the longer background action.",
+            "answers": [
+                "have been working",
+                "had been working",
+                "was working"
+            ],
+            "correct": 2,
+            "id": "d9ac3522ea24417aa65852e040f4fb0a"
+        },
+        {
+            "question": "After I ………………………… with him for a few weeks, I developed a strange liking for him.",
+            "description": "The past perfect is used for the earlier of two past actions.",
+            "answers": [
+                "have worked",
+                "had worked",
+                "working"
+            ],
+            "correct": 1,
+            "id": "b69faa74585b4ba3a0b41d77202bd9ca"
+        },
+        {
+            "question": "When we were children we ……………………. go swimming every Sunday.",
+            "description": "Both would and used to can refer to repeated actions in the past.",
+            "answers": [
+                "would",
+                "used to",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "300ef1a543904134b66bec7faa2485d7"
+        },
+        {
+            "question": "It would have been nice if he ………………………. us.",
+            "description": "In the third conditional we use a past perfect tense in the if-clause and would have + past participle in the main clause.",
+            "answers": [
+                "thanks",
+                "thanked",
+                "had thanked"
+            ],
+            "correct": 2,
+            "id": "fb600a95c4644034b9b778920a4c6610"
+        },
+        {
+            "question": "Sulphuric acid ……………………….. most metals.",
+            "description": "We use the simple future to talk about habits and characteristic behavior.",
+            "answers": [
+                "would dissolve",
+                "will dissolve",
+                "dissolved"
+            ],
+            "correct": 1,
+            "id": "8efe61a5aec44185a4bff4b1c2cbf938"
+        },
+        {
+            "question": "I ………………………… the whole job by this evening.",
+            "description": "We use the future perfect tense to indicate that an action or situation will have been completed by a certain point of time in the past. ",
+            "answers": [
+                "will be finishing",
+                "will have finished",
+                "had finished"
+            ],
+            "correct": 1,
+            "id": "46c87cf3d7cc4ce88c4cc84433852b8e"
+        }
+    ]
+}

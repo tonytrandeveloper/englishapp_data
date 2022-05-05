@@ -1,0 +1,136 @@
+{
+    "id": "2e93b777b82c44628161e5b7ed1eca5d",
+    "title": "Gap Filling Exercise",
+    "questions": [
+        {
+            "question": "‘I haven’t got a ticket.’ ‘………………………….. have I.’",
+            "description": "",
+            "answers": [
+                "So",
+                "Either",
+                "Neither"
+            ],
+            "correct": 2,
+            "id": "2ac3bc3968d0471d8a4a18e1119b00cb"
+        },
+        {
+            "question": "You are …………………………… generous.",
+            "description": "We do not use so much to modify adjectives and adverbs.",
+            "answers": [
+                "so",
+                "so much",
+                "very much"
+            ],
+            "correct": 0,
+            "id": "77b06bc1d9cb4449a712d7abf9c38a9b"
+        },
+        {
+            "question": "Start at once, so that you …………………………… there by noon.",
+            "description": "",
+            "answers": [
+                "reach",
+                "will reach",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4c9d09725e964d87a01bfc19b6e28d85"
+        },
+        {
+            "question": "I want to stay for …………………………. two weeks.",
+            "description": "We can use another with plural expressions of quantity.",
+            "answers": [
+                "more",
+                "another",
+                "other"
+            ],
+            "correct": 1,
+            "id": "110859e7a6544cb1bbc5ab0578ec1ee3"
+        },
+        {
+            "question": "I visit my parents every …………………………..",
+            "description": "Every can be used before plural expressions in measurements of frequency.",
+            "answers": [
+                "two month",
+                "two months",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "39d0592516c04d1cb01e7a0cdb113970"
+        },
+        {
+            "question": "My ……………………………… sent to Paris by mistake.",
+            "description": "Baggage does not have a plural form. ",
+            "answers": [
+                "baggage was",
+                "baggages was",
+                "baggages were"
+            ],
+            "correct": 0,
+            "id": "f4e1348e37ed49218ad678ec45ca10b2"
+        },
+        {
+            "question": "Alice and James ……………………………. going to be late.",
+            "description": "When two singular subjects are connected by and, the verb is singular. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "904d793820264be997ad5439a76d3fd3"
+        },
+        {
+            "question": "The Prime Minister as well as his ministers ………………………….. tough financial measures.",
+            "description": "When we connect two nouns with as well as, the verb agrees with the former. ",
+            "answers": [
+                "want",
+                "wants",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "cbe3a38827c44be0a8bf4ec9b755eab1"
+        },
+        {
+            "question": "Ten people lost ………………………………… in the accident.",
+            "description": "",
+            "answers": [
+                "their life",
+                "the lives",
+                "their lives"
+            ],
+            "correct": 2,
+            "id": "2bac8c7a47a34f6aa08596f2841c0152"
+        },
+        {
+            "question": "A number of people …………………………… to buy cars.",
+            "description": "Plural verbs are common after a number of. ",
+            "answers": [
+                "want",
+                "wants",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "657f72ab22714614aa94bb5316e62ef0"
+        },
+        {
+            "question": "Two thousand dollars ………………………… a large sum.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "4709af212cf34668a3e0376b6a1a3433"
+        },
+        {
+            "question": "The team ……………………………. going to lose.",
+            "description": "In British English, collective nouns can be used with either singular or plural verbs in American English, singular verbs are preferred. ",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "d9cfdfbc86f3471893d48a826107d5e9"
+        }
+    ]
+}

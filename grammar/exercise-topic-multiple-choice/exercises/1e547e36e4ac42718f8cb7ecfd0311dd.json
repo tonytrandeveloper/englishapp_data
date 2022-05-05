@@ -1,0 +1,115 @@
+{
+    "id": "1e547e36e4ac42718f8cb7ecfd0311dd",
+    "title": "Omission Exercise",
+    "questions": [
+        {
+            "question": "Take the book with you in case you will see Mary.",
+            "description": "",
+            "answers": [
+                "with",
+                "in case",
+                "will"
+            ],
+            "correct": 2,
+            "id": "986a77148910418eb7ada42c539819d1"
+        },
+        {
+            "question": "That’s the house where he was born in.",
+            "description": "",
+            "answers": [
+                "where",
+                "was",
+                "in"
+            ],
+            "correct": 2,
+            "id": "fac4a2661b8b4e0a8a0529d0a8a5d535"
+        },
+        {
+            "question": "She had died a couple of years ago.",
+            "description": "",
+            "answers": [
+                "had",
+                "a",
+                "of"
+            ],
+            "correct": 0,
+            "id": "f064ea67cad048f3ba40b302bbf224ce"
+        },
+        {
+            "question": "He asked that what I was doing.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "was"
+            ],
+            "correct": 0,
+            "id": "33b6b82611ee4fdfb40fe7a453a988b8"
+        },
+        {
+            "question": "He asked to her why she was angry.",
+            "description": "",
+            "answers": [
+                "to",
+                "why",
+                "was"
+            ],
+            "correct": 0,
+            "id": "1fa7788717144725883e61e94e071e09"
+        },
+        {
+            "question": "When I will go to Mexico, I will see him.",
+            "description": "",
+            "answers": [
+                "will",
+                "to",
+                "when"
+            ],
+            "correct": 0,
+            "id": "463d844b0d21415e83cc2069720c4aee"
+        },
+        {
+            "question": "He is very much angry.",
+            "description": "",
+            "answers": [
+                "very",
+                "much"
+            ],
+            "correct": 1,
+            "id": "42dbb14be0344da18343143576a77280"
+        },
+        {
+            "question": "Yesterday in the evening he came to dinner.",
+            "description": "",
+            "answers": [
+                "in the",
+                "came",
+                "to"
+            ],
+            "correct": 0,
+            "id": "3499244a8eec4e4f8af445f3c9213b32"
+        },
+        {
+            "question": "This is my friend who he was at school with me.",
+            "description": "",
+            "answers": [
+                "who",
+                "he",
+                "at"
+            ],
+            "correct": 1,
+            "id": "e241a321c4ff4b9e95bd780c6fd30816"
+        },
+        {
+            "question": "Supposing if you fail, what will you do?",
+            "description": "",
+            "answers": [
+                "if",
+                "fail",
+                "will"
+            ],
+            "correct": 0,
+            "id": "2a71d89573014f72aa85d8014ba5ce7f"
+        }
+    ]
+}

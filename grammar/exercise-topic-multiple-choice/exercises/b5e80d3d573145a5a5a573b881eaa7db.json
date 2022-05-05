@@ -1,0 +1,137 @@
+{
+    "id": "b5e80d3d573145a5a5a573b881eaa7db",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "I .................................. smoke, but now I don't.",
+            "description": "We use ‘used to’ to talk about past habits.",
+            "answers": [
+                "used to",
+                "am used to",
+                "use to"
+            ],
+            "correct": 0,
+            "id": "894fd94da0a646ee872298805cd40661"
+        },
+        {
+            "question": "She ................................. me every day.",
+            "description": "We use the simple present to talk about facts. ",
+            "answers": [
+                "visits",
+                "is visiting",
+                "visit"
+            ],
+            "correct": 0,
+            "id": "32068092ee5a4ee1a9baa2c2df54af1c"
+        },
+        {
+            "question": "I ...................................... in a big city.",
+            "description": "When you are not used to something, you are not familiar with it. Note that we use an –ing form after be + used to.",
+            "answers": [
+                "don't use to live",
+                "am not used to live",
+                "am not used to living"
+            ],
+            "correct": 2,
+            "id": "84751f722ab64ea4934676e13f9be0e2"
+        },
+        {
+            "question": "I .................................... with old people.",
+            "description": "When you are not used to something, you are not familiar with it. Note that we use an –ing form after be + used to.",
+            "answers": [
+                "used to working",
+                "use to work",
+                "am used to working"
+            ],
+            "correct": 2,
+            "id": "5453161b0ce1494482a559c5855ace93"
+        },
+        {
+            "question": "She is not ...................................... so much responsibility.",
+            "description": "When you are not used to something, you are not familiar with it. Note that we use an –ing form after be + used to.",
+            "answers": [
+                "used to handle",
+                "used to handling"
+            ],
+            "correct": 1,
+            "id": "2d7ecaa5d45747198b9bcce99765f864"
+        },
+        {
+            "question": "I won't allow .................................... in my house.",
+            "description": "We use an ing form after allow if there is no object.",
+            "answers": [
+                "smoking",
+                "to smoke",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "a214aae9837f4645930b20edf443fd9c"
+        },
+        {
+            "question": "I would like ....................................... a look at the house.",
+            "description": "Would like is followed by to + infinitive.",
+            "answers": [
+                "take",
+                "to take",
+                "taking"
+            ],
+            "correct": 1,
+            "id": "f40de66979284a2784e62c1ea2176aa7"
+        },
+        {
+            "question": "I feel like ...................................... to the beach.",
+            "description": "Feel like is followed by an ing form. I feel like going means I would like to go.",
+            "answers": [
+                "go",
+                "to go",
+                "going"
+            ],
+            "correct": 2,
+            "id": "e7ab6ee05a5a4eb1a8b47d0201ebc2ec"
+        },
+        {
+            "question": "I don't feel like ................................... out with him.",
+            "description": "Feel like is followed by an ing form. I don't feel like going means I don't want to go.",
+            "answers": [
+                "go",
+                "to go",
+                "going"
+            ],
+            "correct": 2,
+            "id": "dfbde7bc673a4bd185ba4208bf2d3b6d"
+        },
+        {
+            "question": "I was about ................................... you.",
+            "description": "This structure 'was about + to + infinitive' is used to say that you are going to do something at the moment or in the near future.",
+            "answers": [
+                "calling",
+                "to call",
+                "to calling"
+            ],
+            "correct": 1,
+            "id": "9d11491db952446f8c55d1af0c30af2d"
+        },
+        {
+            "question": "I didn't mean .................................. you.",
+            "description": "",
+            "answers": [
+                "offending",
+                "to offend",
+                "to offending"
+            ],
+            "correct": 1,
+            "id": "435bc81bbf2142a49905561587786bed"
+        },
+        {
+            "question": "I would rather .............................. than .................................",
+            "description": "I would rather is followed by an infinitive without to.",
+            "answers": [
+                "phone, write",
+                "to phone, write",
+                "to phone, writing"
+            ],
+            "correct": 0,
+            "id": "cfb7c7c0dd184732ae2e2e4538f97d57"
+        }
+    ]
+}

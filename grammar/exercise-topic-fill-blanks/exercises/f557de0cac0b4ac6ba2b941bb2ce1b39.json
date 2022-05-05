@@ -1,0 +1,572 @@
+{
+    "id": "f557de0cac0b4ac6ba2b941bb2ce1b39",
+    "title": "Phrasal Verbs Exercise 2",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "took off"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(removed clothes or jewellery) his gloves and put them in his pocket."
+                }
+            ],
+            "id": "b918eec34ae5463e8f8fae0c48227e84"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "stood up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(changed from lying or sitting to standing - not casual) and left the room without a word."
+                }
+            ],
+            "id": "81f38d33e82f4495b27d06949772d544"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What time did John"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "get back"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive somewhere again) yesterday?"
+                }
+            ],
+            "id": "700180084a7343138fc80c2b2e713e2c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "come on"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(I am encouraging the other person to go faster or try harder) ! We're already miles behind the others."
+                }
+            ],
+            "id": "1f3d452ebd8c499592822b8e40222b72"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "looked up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(raised her eyes) from her laptop and smiled."
+                }
+            ],
+            "id": "cb57fb3e09d94cf498860266be8a287d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "gave up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(stopped having or doing) coffee last year but she was so grumpy that she started drinking it again."
+                }
+            ],
+            "id": "e5351096916e4f28a4fb66d0c33ba142"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You should"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "take off"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(remove clothes or jewellery) your hat inside."
+                }
+            ],
+            "id": "8e3369e103d943bcbe6989a06792768e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "People from other countries"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(are the parts that form something) about a third of the population of London."
+                }
+            ],
+            "id": "c21091b2f16f44a1868517f8a4f1f066"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He didn't even"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "look up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(raise his eyes) when she came in. So rude!"
+                }
+            ],
+            "id": "39f721faa216427999f75089d4fa5f17"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "are going down"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(are moving to a lower place) to the beach now. Would you like to come?"
+                }
+            ],
+            "id": "dc708eec75934fc7939063f94690ee1c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy!"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Get up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(change from lying or sitting to standing - more casual) quick! The teacher is coming!"
+                }
+            ],
+            "id": "8c0258e8eb694e8eafb1d3d8ce51a56a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "stood up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(changed from lying or sitting to standing - less casual) when the headmaster arrived."
+                }
+            ],
+            "id": "353474ae21774e7e9fa660b6cea842f4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She came into the room and"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "sat down"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(changed from standing to sitting)."
+                }
+            ],
+            "id": "57321910c20b484e8e80fd76b4c7adf7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "took the bags out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(the bags/removed from a container) of the car and put them in the hall."
+                }
+            ],
+            "id": "d495639607a54869b3b1b448e7d1c80c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Come on"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(I'm encouraging the person to go faster or try harder) ! You're doing really well! Keep going!"
+                }
+            ],
+            "id": "add712a06195475db0818d7f72414b50"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She finally"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "worked out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(thought until she understood / planned - more UK) the answers to the maths homework."
+                }
+            ],
+            "id": "e22813822d5b4987b255428d7b937c13"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "went down"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(moved to a lower place) to the kitchen and made some tea."
+                }
+            ],
+            "id": "e3511417349a402ea4fa654c8c305dc4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "sit down"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(change from standing to sitting) . You're making me nervous!"
+                }
+            ],
+            "id": "f0dd0dd8fedf4071b599f283c11e94ab"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "got up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(changed from sitting or lying to standing) slowly and picked up her bag."
+                }
+            ],
+            "id": "f5686dbfdf974abaa93b6a7d31ca2a0f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "After a long day, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "ended up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(finally did or were something especially when you don't expect it) getting a pizza and falling asleep on the sofa."
+                }
+            ],
+            "id": "929e0b2581804173905c1bf2dca6323a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I can't"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "work out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(think about until I understand / plan) why Andrew is so upset."
+                }
+            ],
+            "id": "d6d2d8a912434bd69df28076e012946e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We'll"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "give up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(stop doing or having) chocolate after the holidays!"
+                }
+            ],
+            "id": "88a094ae3dbc463680c7e578c29c248c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I can't"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "figure out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(think about until I understand / plan - more USA) how to do this exercise."
+                }
+            ],
+            "id": "285516fecf3c44569670b5887e0d89ae"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I couldn't believe it! He didn't"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "show up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive at or come to an event - especially if there is something surprising) until 11pm!"
+                }
+            ],
+            "id": "1ffe37b942834e2eb03b46e7a2d5832a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "figured out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(thought about until they understood / planned - more USA) that it must have been the toddler who put the milk in the oven."
+                }
+            ],
+            "id": "3ad04015f2904327ac704f861cacf0bf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She wanted to go travelling but she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "ended up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(finally did or was something, especially when you don't expect it) working in a shop all summer."
+                }
+            ],
+            "id": "7262fd1c0de04ece84d69cef0bbba2f2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "took the book out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(the book/remove from a container) of my bag and gave it to him."
+                }
+            ],
+            "id": "a291b4cfa90d46ce9c41ee9d69c15007"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I think coffee and cakes"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(are the parts that form something)) most of her diet!"
+                }
+            ],
+            "id": "d97cbd159ad34c5cb42d81db4627653b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We had a meeting yesterday but only a few people"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "showed up"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive or come to an event, especially if there's something surprising)."
+                }
+            ],
+            "id": "168dddc65cf14b789c957ebc4f0d3640"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "got back"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(arrived somewhere again) to London last week."
+                }
+            ],
+            "id": "4cdc6d63e2764dc4884f0661d3662111"
+        }
+    ]
+}

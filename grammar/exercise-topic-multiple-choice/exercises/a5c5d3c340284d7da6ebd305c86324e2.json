@@ -1,0 +1,138 @@
+{
+    "id": "a5c5d3c340284d7da6ebd305c86324e2",
+    "title": "Verbs Exercise",
+    "questions": [
+        {
+            "question": "…………………….. she know what she is doing?",
+            "description": "She is singular subject. Hence, we use does here.",
+            "answers": [
+                "Do",
+                "Did",
+                "Does"
+            ],
+            "correct": 2,
+            "id": "32632933a3a94a1ea70665eed1ae60fd"
+        },
+        {
+            "question": "……………………… forget to give me a call before you leave.",
+            "description": "The simple present is used in imperative sentences. In imperatives the subject is you.",
+            "answers": [
+                "Did not",
+                "Does not",
+                "Don't"
+            ],
+            "correct": 2,
+            "id": "a070cd5d05f444878f7fa316e5acffef"
+        },
+        {
+            "question": "………………………… your shoes before entering the temple.",
+            "description": "The simple present is used in imperative sentence.",
+            "answers": [
+                "Removes",
+                "Remove",
+                "Removed"
+            ],
+            "correct": 1,
+            "id": "dd900608474a42ec811a03b58dddb7b1"
+        },
+        {
+            "question": "She ……………………………. harder than anybody I know.",
+            "description": "We use the simple present to talk about facts.",
+            "answers": [
+                "works",
+                "is working",
+                "worked"
+            ],
+            "correct": 0,
+            "id": "72769242109c42d7899d442bb0102f60"
+        },
+        {
+            "question": "He was a true patriot who …………………….. for his country.",
+            "description": "When the verb in the main clause is in the past tense, we use a past tense in the subordinate clause as well.",
+            "answers": [
+                "would die",
+                "will die",
+                "has died"
+            ],
+            "correct": 0,
+            "id": "ac2d7a4117df46d6a75828fcf295cd50"
+        },
+        {
+            "question": "I …………………………… my grandparents every Sunday.",
+            "description": "",
+            "answers": [
+                "visited",
+                "visit",
+                "am visiting"
+            ],
+            "correct": 1,
+            "id": "e7781922a7bc406a8bb99bf2928f0e7f"
+        },
+        {
+            "question": "Sam ………………………. a good job.",
+            "description": "The present perfect is used to give news.",
+            "answers": [
+                "has to find",
+                "will found",
+                "has found"
+            ],
+            "correct": 2,
+            "id": "b0b8661ffe0447618dbb752fbc3ed9d3"
+        },
+        {
+            "question": "We ………………………… the job by Monday.",
+            "description": "",
+            "answers": [
+                "would finish",
+                "will have finished",
+                "will be finishing"
+            ],
+            "correct": 1,
+            "id": "75c611eba3fa48ceb4cf1aa9c4f44e45"
+        },
+        {
+            "question": "Don’t phone them now. They …………………………. dinner.",
+            "description": "",
+            "answers": [
+                "will be having",
+                "would be having",
+                "shall be having"
+            ],
+            "correct": 0,
+            "id": "ea22cd89e18247ac9f1159b26946221c"
+        },
+        {
+            "question": "She ………………………. to him for thirty years.",
+            "description": "We use the present perfect to talk about life experiences up to now.",
+            "answers": [
+                "is seeing married",
+                "has seen married",
+                "have seen married"
+            ],
+            "correct": 1,
+            "id": "0ebb3e77ce43405a8273da414db2d2f1"
+        },
+        {
+            "question": "Somebody has ……………………… my purse?",
+            "description": "Stolen is the past participle of steal.",
+            "answers": [
+                "stolen",
+                "stole",
+                "stealed",
+                ""
+            ],
+            "correct": 0,
+            "id": "f10a1e64eb8e4d1f8bae74461053bca6"
+        },
+        {
+            "question": "She ………………………….. to anyone.",
+            "description": "",
+            "answers": [
+                "has never apologized",
+                "never apologized"
+            ],
+            "correct": 0,
+            "id": "ad9b93c224a242c8ad6c45b8bac839ef"
+        }
+    ]
+}

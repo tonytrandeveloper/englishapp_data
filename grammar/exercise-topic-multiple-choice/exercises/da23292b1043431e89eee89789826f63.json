@@ -1,0 +1,138 @@
+{
+    "id": "da23292b1043431e89eee89789826f63",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "She ..................................... to marry her boyfriend next month.",
+            "description": "",
+            "answers": [
+                "is expecting",
+                "is expected",
+                "has expected"
+            ],
+            "correct": 1,
+            "id": "62415e11e36f43659c989a67a5104aca"
+        },
+        {
+            "question": "Dinosaurs ............................... to have lived several million years ago.",
+            "description": "",
+            "answers": [
+                "are thought",
+                "are thinking",
+                "have thought"
+            ],
+            "correct": 0,
+            "id": "c22ede081a1649afa3da8bb29cea822c"
+        },
+        {
+            "question": "The authorities .................................. to be working on a new industrial policy.",
+            "description": "",
+            "answers": [
+                "have known",
+                "are known",
+                "are knowing"
+            ],
+            "correct": 1,
+            "id": "84aa147f583c4a86aa9b86a1114bceaa"
+        },
+        {
+            "question": "I ................................... by airplane.",
+            "description": "The present perfect is more common with the time expressions ever and never.",
+            "answers": [
+                "never traveled",
+                "have never traveled",
+                "am never traveling"
+            ],
+            "correct": 1,
+            "id": "0bec5e4941954d109735e3d4ed32acdf"
+        },
+        {
+            "question": "I ................................. my homework yet.",
+            "description": "The present perfect is more common with the time expressions yet and already. ",
+            "answers": [
+                "did not finish",
+                "have not finished",
+                "am not finishing"
+            ],
+            "correct": 1,
+            "id": "e0fd15373913491b94378a7823c7a692"
+        },
+        {
+            "question": "He ............................... since I last saw him.",
+            "description": "",
+            "answers": [
+                "grew",
+                "has grown",
+                "had grown"
+            ],
+            "correct": 1,
+            "id": "592428a2daae41cbb50a87782e5eee92"
+        },
+        {
+            "question": "I ................................. how to ride a bicycle.",
+            "description": "The present perfect is commonly used to talk about our accomplishments. ",
+            "answers": [
+                "learned",
+                "have learned",
+                "had learned"
+            ],
+            "correct": 1,
+            "id": "fc41d9a39c6e41878f9c23461092323c"
+        },
+        {
+            "question": "It ................................. yesterday.",
+            "description": "The present perfect cannot be used with definite past time expressions.",
+            "answers": [
+                "hasn't rained",
+                "didn't rain",
+                "didn't rained"
+            ],
+            "correct": 1,
+            "id": "c861a44660d34252add4ebe553c5ab95"
+        },
+        {
+            "question": "The army ................................. at dawn.",
+            "description": "",
+            "answers": [
+                "attacked",
+                "has attacked",
+                "had attacked"
+            ],
+            "correct": 0,
+            "id": "d570306e7c184f7c82a4fbffbb33d4e8"
+        },
+        {
+            "question": "She speaks fluent German because she ................................ in Germany for six years.",
+            "description": "The present perfect is used to talk about finished events that are in some way related to the present.",
+            "answers": [
+                "lived",
+                "has lived",
+                "was living"
+            ],
+            "correct": 1,
+            "id": "cf626e080dd3463680728e7cdfdeec27"
+        },
+        {
+            "question": "When I .................................. home, the children .................................. computer games.",
+            "description": "The simple past is used for the short action that happens in the middle of a longer background action.",
+            "answers": [
+                "reached, played",
+                "reached, were playing",
+                "was reaching, were playing"
+            ],
+            "correct": 1,
+            "id": "e81f1a457d9243b19f410088eba50fcf"
+        },
+        {
+            "question": "I .............................. my first car five years ago.",
+            "description": "",
+            "answers": [
+                "bought",
+                "have bought",
+                "had bought"
+            ],
+            "correct": 0,
+            "id": "9c94d14fc1634afd881a7bccf865daa0"
+        }
+    ]
+}

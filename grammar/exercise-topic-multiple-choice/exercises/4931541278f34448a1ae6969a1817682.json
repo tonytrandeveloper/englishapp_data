@@ -1,0 +1,138 @@
+{
+    "id": "4931541278f34448a1ae6969a1817682",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "The boys were playing games when it ………………………. raining.",
+            "description": "We usually use the simple past for an action that happens in the middle of another action. ",
+            "answers": [
+                "was starting",
+                "started",
+                "had started"
+            ],
+            "correct": 1,
+            "id": "526951a23c1945ec9b83a850aa94898a"
+        },
+        {
+            "question": "You were watching TV when I ……………………… for my exam.",
+            "description": "Continuous tenses are used to talk about two actions that were progressing at the same time. ",
+            "answers": [
+                "prepared",
+                "am preparing",
+                "was preparing"
+            ],
+            "correct": 2,
+            "id": "e36d81d5b1b84ee9bd4575007ec2480d"
+        },
+        {
+            "question": "The phone ………………………. while I was cooking dinner.",
+            "description": "We usually use the simple past for an action that happens in the middle of another action. ",
+            "answers": [
+                "rings",
+                "rang",
+                "was ringing"
+            ],
+            "correct": 1,
+            "id": "b566e4a1844c4cc9816d94480ad3e132"
+        },
+        {
+            "question": "How long ……………………… a social activist?",
+            "description": "Perfect tenses are usually used to talk about duration. ",
+            "answers": [
+                "have you been",
+                "are you",
+                "were you"
+            ],
+            "correct": 0,
+            "id": "f24b0c64513443ea9ea6592374ab9611"
+        },
+        {
+            "question": "We …………………….. each other for a long time.",
+            "description": "We normally use perfect tenses with since and for. ",
+            "answers": [
+                "knew",
+                "are knowing",
+                "have known"
+            ],
+            "correct": 2,
+            "id": "c9c5087a2f734882bfcc1c3f810cb6dc"
+        },
+        {
+            "question": "We ……………………… nothing from all the wars in history.",
+            "description": "When there is no reference to any specific past time, we usually use the present perfect to talk about finished actions or situations. ",
+            "answers": [
+                "are learning",
+                "have learnt",
+                "learnt"
+            ],
+            "correct": 1,
+            "id": "2662f463f0d7476babd06a9914b11f32"
+        },
+        {
+            "question": "I ………………………… well for the exam.",
+            "description": "When there is no reference to any specific past time, we usually use the present perfect to talk about finished actions or situations. ",
+            "answers": [
+                "prepared",
+                "have prepared",
+                "had prepared"
+            ],
+            "correct": 1,
+            "id": "d2fa03b35f41464db847b075da91115d"
+        },
+        {
+            "question": "I ……………………….. well for the exam, yet I failed.",
+            "description": "The past tense in the second clause clearly indicates that the reference is to the past time. ",
+            "answers": [
+                "prepared",
+                "have prepared",
+                "was preparing"
+            ],
+            "correct": 0,
+            "id": "8ad62da30160493c881ec6d888cd488d"
+        },
+        {
+            "question": "The teacher ……………………… an interesting question in the class yesterday.",
+            "description": "When there is a definite past time reference we use the simple past to talk about finished actions or situations. ",
+            "answers": [
+                "asks",
+                "has asked",
+                "asked"
+            ],
+            "correct": 2,
+            "id": "123a73e25bc54832b58f4a6d5e8e787f"
+        },
+        {
+            "question": "I looked around but I ……………………. anyone.",
+            "description": "The reference is to the past time here. ",
+            "answers": [
+                "didn't find",
+                "hadn't found",
+                "don't find"
+            ],
+            "correct": 0,
+            "id": "c85c2689079d4766b675f4e3039a6fe4"
+        },
+        {
+            "question": "She threw a glass at me, but ……………………",
+            "description": "When one verb is in the past tense, the other verbs will most probably also be in the past tense. ",
+            "answers": [
+                "was missing",
+                "missed",
+                "had missed"
+            ],
+            "correct": 1,
+            "id": "101026c124ae4b11ba89be694b8b13e4"
+        },
+        {
+            "question": "If you don’t hurry, you …………………. the train.",
+            "description": "",
+            "answers": [
+                "will miss",
+                "would miss",
+                "missed"
+            ],
+            "correct": 0,
+            "id": "be59a9986bff43d3a85a65cfdfb8b49f"
+        }
+    ]
+}

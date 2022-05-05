@@ -1,0 +1,114 @@
+{
+    "id": "6ad8d08034fa4800a2d265ce04d4b04e",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "I ………………… sleep well yesterday.",
+            "description": "",
+            "answers": [
+                "can't",
+                "couldn't"
+            ],
+            "correct": 1,
+            "id": "a073009423894fcdbcc9f37664a5267f"
+        },
+        {
+            "question": "The train .....................",
+            "description": "",
+            "answers": [
+                "has just left",
+                "had just left"
+            ],
+            "correct": 0,
+            "id": "5fe4e94da12d49ff9eaa331db9f59afa"
+        },
+        {
+            "question": "I ……………….. college last year.",
+            "description": "",
+            "answers": [
+                "left",
+                "was leaving",
+                "have left"
+            ],
+            "correct": 0,
+            "id": "7cbbc87f7f1349469f21ecf33728c8bc"
+        },
+        {
+            "question": "The light …………………. out while I was reading.",
+            "description": "",
+            "answers": [
+                "went",
+                "goes",
+                "go"
+            ],
+            "correct": 0,
+            "id": "865eb4e9bf074a92831a20c82515f93f"
+        },
+        {
+            "question": "The light always …………………. out when I am about to study.",
+            "description": "",
+            "answers": [
+                "go",
+                "goes",
+                "has gone"
+            ],
+            "correct": 1,
+            "id": "afce92ce67254514a1683cf46eaa8b05"
+        },
+        {
+            "question": "She ..................... the piano when I met her.",
+            "description": "",
+            "answers": [
+                "was playing",
+                "played",
+                "has played"
+            ],
+            "correct": 0,
+            "id": "558216240a7a46689aded06fc93fa285"
+        },
+        {
+            "question": "Have you ever ………………… to Singapore?",
+            "description": "",
+            "answers": [
+                "been",
+                "be",
+                "being"
+            ],
+            "correct": 0,
+            "id": "cd0675b11add47cc9c0f6f67be2de01a"
+        },
+        {
+            "question": "Every morning, he ....................... for a walk.",
+            "description": "",
+            "answers": [
+                "goes",
+                "go",
+                "has gone"
+            ],
+            "correct": 0,
+            "id": "371df092011e4edba029e90d1a741494"
+        },
+        {
+            "question": "Our team …………………. the West Indies yesterday.",
+            "description": "",
+            "answers": [
+                "defeated",
+                "was defeated",
+                "had defeated"
+            ],
+            "correct": 0,
+            "id": "c2593a55ee2d4db79e343322d44c0a5e"
+        },
+        {
+            "question": "She ………………….. several books.",
+            "description": "",
+            "answers": [
+                "has written",
+                "had written",
+                "wrote"
+            ],
+            "correct": 0,
+            "id": "24b0d9f9e2ae4e8091f9217213f07f28"
+        }
+    ]
+}

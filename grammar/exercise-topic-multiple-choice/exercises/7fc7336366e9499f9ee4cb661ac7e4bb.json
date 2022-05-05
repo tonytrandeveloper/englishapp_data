@@ -1,0 +1,135 @@
+{
+    "id": "7fc7336366e9499f9ee4cb661ac7e4bb",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "She ……………………….. red and ran out of the room.",
+            "description": "Turn is common before color words. It is used to talk about visible changes of state.",
+            "answers": [
+                "turned",
+                "became",
+                "grew"
+            ],
+            "correct": 0,
+            "id": "9eb42ff7fa894d8b8908ad42483604b8"
+        },
+        {
+            "question": "Alice is the person ………………………… keeps a deer in the garden shed.",
+            "description": "We use who to refer to people.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "e0127b8e52dd49caa1092fad9f924d22"
+        },
+        {
+            "question": "A deer is …………………………. Alice keeps in the garden shed.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "which"
+            ],
+            "correct": 1,
+            "id": "0866c28769fc45ec814595f7a7299664"
+        },
+        {
+            "question": "The baby’s eyes are not at all the same color ………………………… yours.",
+            "description": "We can use the structure same …as to say that people or things are similar.",
+            "answers": [
+                "as",
+                "like",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "912156766b9149d1adfaf2676cba573e"
+        },
+        {
+            "question": "She looks ……………………. older than her daughter.",
+            "description": "We can use no to modify a comparative word.",
+            "answers": [
+                "no",
+                "not",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "909d6a0c1b1644bea45983a4de700879"
+        },
+        {
+            "question": "I haven’t seen him ………………………… ages.",
+            "description": "We use for to indicate duration.",
+            "answers": [
+                "for",
+                "from",
+                "since"
+            ],
+            "correct": 0,
+            "id": "bc25894fddda4a36a859aca0400cbd5c"
+        },
+        {
+            "question": "Samuel and ………………………. decided to split up.",
+            "description": "Contractions are not normally written with double subjects.",
+            "answers": [
+                "I have",
+                "I've",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "089249bc058f49eb91d41c4d723099b0"
+        },
+        {
+            "question": "The village ……………………….. I live is very beautiful.",
+            "description": "Where can mean that…in.",
+            "answers": [
+                "which",
+                "that",
+                "where"
+            ],
+            "correct": 2,
+            "id": "2c3a839b76054f698fa5193bed2246fe"
+        },
+        {
+            "question": "If you have already had measles, you are unlikely to get …………………………… again.",
+            "description": "The names of illnesses are usually uncountable in English and hence we use singular pronouns to refer back to them.",
+            "answers": [
+                "it",
+                "them"
+            ],
+            "correct": 0,
+            "id": "39b2317ba90f4d25a5b8b505a9ebe7b3"
+        },
+        {
+            "question": "I have difficulty …………………………… dates.",
+            "description": "The preposition ‘in’ can be dropped out after difficulty.",
+            "answers": [
+                "remembering",
+                "in remembering",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "3e3d5a6c5e96462eba2fd85a63e6a1f3"
+        },
+        {
+            "question": "My grandfather is eighty-five but he still enjoys ……………………….. health.",
+            "description": "Health is an uncountable noun. We cannot use an article with it.",
+            "answers": [
+                "good",
+                "a good"
+            ],
+            "correct": 0,
+            "id": "1e7001556c764e2eaa42f0649fd4163a"
+        },
+        {
+            "question": "Have you bought the …………………………?",
+            "description": "Although groceries is an uncountable noun, it has no singular form.",
+            "answers": [
+                "groceries",
+                "grocery"
+            ],
+            "correct": 0,
+            "id": "ba70d525c58d4bf58777cc33763a92ad"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "id": "0cedb79c4dfb495ebfe3d1287a4812c9",
+    "title": "Simple Past Or Present Perfect Tense",
+    "questions": [
+        {
+            "question": "I’m sure we ……………………… before.",
+            "description": "The present perfect tense is more common with the time expressions ever, before, never, yet and already.",
+            "answers": [
+                "met",
+                "have met",
+                "had met"
+            ],
+            "correct": 1,
+            "id": "b2929c6563644ffca6ea9cd7b090a386"
+        },
+        {
+            "question": "I don’t believe in ghosts. At least, I …………………………. one yet.",
+            "description": "The present perfect tense is more common with the time expressions ever, before, never, yet and already.",
+            "answers": [
+                "didn't see",
+                "haven't seen",
+                "don't see"
+            ],
+            "correct": 1,
+            "id": "0d879a16e71a4f2c8087784e91776940"
+        },
+        {
+            "question": "She ……………………….. never sought anyone’s help in her life.",
+            "description": "The present perfect tense is more common with the time expressions ever, before, never, yet and already.",
+            "answers": [
+                "was",
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "1e0103a8494d4219ac728c6aa0e03b36"
+        },
+        {
+            "question": "I ………………………… her once.",
+            "description": "The present perfect tense is common with the time expressions once. ",
+            "answers": [
+                "only met",
+                "have only met",
+                "had only met"
+            ],
+            "correct": 1,
+            "id": "101ad4247ea94b058c7859e2fb803b8c"
+        },
+        {
+            "question": "I …………………………….. to my parents about my plans.",
+            "description": "The present perfect tense is more common with the time expressions ever, before, never, yet and already.",
+            "answers": [
+                "already spoke",
+                "have already spoken",
+                "had already spoken"
+            ],
+            "correct": 1,
+            "id": "a2546de0c5d34645b21d3653bada7f5e"
+        },
+        {
+            "question": "I ………………………………… the minister yesterday and he said he would help.",
+            "description": "We do not use the present perfect tense with definite past time expressions like yesterday.",
+            "answers": [
+                "met",
+                "have met",
+                "was meeting"
+            ],
+            "correct": 0,
+            "id": "58fe8cceb09d4623ad19b23f18192b5f"
+        },
+        {
+            "question": "There ……………………………. an explosion at the castle last night.",
+            "description": "Last night is a definite past time expression and we do not use the present perfect tense with past time expressions.",
+            "answers": [
+                "was",
+                "has been",
+                "had been"
+            ],
+            "correct": 0,
+            "id": "4aeb807a18c14cdd8942357ddd81cc65"
+        },
+        {
+            "question": "My grandparents …………………………….. a lot for me when they were alive.",
+            "description": "Here we are thinking about a past time and hence we use the simple past tense. ",
+            "answers": [
+                "did",
+                "have done",
+                "had done"
+            ],
+            "correct": 0,
+            "id": "54113c0a774e4130b2b46879ad3d841d"
+        },
+        {
+            "question": "How long ……………………………… married to him?",
+            "description": "We use the present perfect tense when we are thinking of a period of time continuing up to the present.",
+            "answers": [
+                "are you",
+                "were you",
+                "have you been"
+            ],
+            "correct": 2,
+            "id": "8b4c264750124d4da76c1bb2cd14cd4d"
+        },
+        {
+            "question": "He ……………………….. in",
+            "description": "We use the simple past tense to give somebody’s year or date of birth.",
+            "answers": [
+                "is born",
+                "has born",
+                "was born",
+                "had born"
+            ],
+            "correct": 2,
+            "id": "2fba1726cb8c4c4698420051188d75ee"
+        },
+        {
+            "question": "I can’t go to the party because I ……………………………… my leg.",
+            "description": "We use the present perfect tense when we are thinking about past events together with their present results.",
+            "answers": [
+                "broke",
+                "have broken",
+                "had broken"
+            ],
+            "correct": 1,
+            "id": "278e762f18c241399c6668072aceab9e"
+        },
+        {
+            "question": "Who ………………………………. you this mobile phone?",
+            "description": "We use the past tense when we identify the person responsible for a present situation.",
+            "answers": [
+                "give",
+                "gave",
+                "has given",
+                "have given"
+            ],
+            "correct": 1,
+            "id": "838b72f7337f4da1a1d911422d7c09e3"
+        }
+    ]
+}

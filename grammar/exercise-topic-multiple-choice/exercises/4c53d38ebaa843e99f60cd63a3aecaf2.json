@@ -1,0 +1,137 @@
+{
+    "id": "4c53d38ebaa843e99f60cd63a3aecaf2",
+    "title": "Sequence Of Tenses",
+    "questions": [
+        {
+            "question": "I wanted to know why he …………………….. angry with me.",
+            "description": "When the verb in the main clause is in the past tense, we use a past tense in the subordinate clause as well.",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 1,
+            "id": "80a7e8ce24c24bd7acb1d627f117c76b"
+        },
+        {
+            "question": "I will write some letters if I ……………………… time.",
+            "description": "When the verb in the main clause is in the future tense, we use a present tense in the subordinate clause to refer to the future.",
+            "answers": [
+                "have",
+                "had",
+                "will have"
+            ],
+            "correct": 0,
+            "id": "577deaadb61b497baebb3a13763e65eb"
+        },
+        {
+            "question": "There ……………………… an accident near the bridge.",
+            "description": "The present perfect is the most normal tense for giving news of recently finished events.",
+            "answers": [
+                "has been",
+                "was",
+                "is"
+            ],
+            "correct": 0,
+            "id": "6e18dbfd832c4144a8fc498c7760a510"
+        },
+        {
+            "question": "I ………………………. six coffees since morning.",
+            "description": "We use the present perfect to say that something has happened several times up to the present.",
+            "answers": [
+                "drank",
+                "had drunk",
+                "have drunk"
+            ],
+            "correct": 2,
+            "id": "ccab1a02d02947feb71882f0ac66f09c"
+        },
+        {
+            "question": "What ……………………… you do then?",
+            "description": "Then is a past time expression. We do not use the present perfect tense with past time expressions.",
+            "answers": [
+                "did",
+                "have",
+                "do"
+            ],
+            "correct": 0,
+            "id": "059fd4a76082457b8d83da9a76db3fbb"
+        },
+        {
+            "question": "……………………………… to Australia?",
+            "description": "We use the present perfect when we are thinking of a period of time up to the present.",
+            "answers": [
+                "Did you ever go",
+                "Have you ever been"
+            ],
+            "correct": 1,
+            "id": "80a013c8b1f1423ba873d0e12109bca1"
+        },
+        {
+            "question": "They made him ……………………… them everything.",
+            "description": "The verb make is followed by object + infinitive without to.",
+            "answers": [
+                "tell",
+                "to tell",
+                "telling"
+            ],
+            "correct": 0,
+            "id": "a273b6b331874756a5a6a53cd2c4ba34"
+        },
+        {
+            "question": "He …………………………… to visit the children once a week.",
+            "description": "We use a passive verb here because the subject is not the doer of the action.",
+            "answers": [
+                "allowed",
+                "is allowed",
+                "is allowing"
+            ],
+            "correct": 1,
+            "id": "5ff5c4ce39564011a4cea4ca0e89245d"
+        },
+        {
+            "question": "She ……………………….. a Greek goddess.",
+            "description": "We use the simple present tense to talk about facts.",
+            "answers": [
+                "resembles",
+                "is resembling",
+                "resemble"
+            ],
+            "correct": 0,
+            "id": "8a15d8c69d974be0bc2065478b875822"
+        },
+        {
+            "question": "It looks as if the sun ………………………… round the earth.",
+            "description": "",
+            "answers": [
+                "is going",
+                "went",
+                "goes"
+            ],
+            "correct": 2,
+            "id": "59c082321c2b4df1bb4367f2df418af8"
+        },
+        {
+            "question": "I used to play a lot of tennis when I ……………………….. younger.",
+            "description": "When the verb in the main clause is in the past tense, we use a past tense in the subordinate clause as well.",
+            "answers": [
+                "am",
+                "was",
+                "had been"
+            ],
+            "correct": 1,
+            "id": "757f1a0967f642e5b7ea84d2ee8f6a9a"
+        },
+        {
+            "question": "Three more of the missing hikers ………………………….",
+            "description": "The present perfect tense is the most normal tense for giving news of recent events.",
+            "answers": [
+                "has been found",
+                "have been found",
+                "were found"
+            ],
+            "correct": 1,
+            "id": "b7264f0529c54678bb827b33e2a8369f"
+        }
+    ]
+}

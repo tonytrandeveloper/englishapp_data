@@ -1,0 +1,108 @@
+{
+    "id": "ee67042a720d49bf9ea03eaa6e3ae539",
+    "title": "Subject And Object Pronouns Exercise",
+    "questions": [
+        {
+            "question": "It took …………….. twenty minutes to get dressed.",
+            "description": "",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1,
+            "id": "3a8eb264da5b45c29707cfd56d4b2799"
+        },
+        {
+            "question": "She told ……………. an interesting story.",
+            "description": "",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1,
+            "id": "3ad8f2c25ba3489ea1e3ed3320d18988"
+        },
+        {
+            "question": "I don’t think we should wait for ………………..",
+            "description": "",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 1,
+            "id": "5eff3413bdae4fac9a6002b25250d6bf"
+        },
+        {
+            "question": "You pay for your drinks and I will pay for …………………",
+            "description": "",
+            "answers": [
+                "mine",
+                "my"
+            ],
+            "correct": 0,
+            "id": "382d1275b1e64328a7da56c81b34d8a6"
+        },
+        {
+            "question": "I am angry with both of ………………..",
+            "description": "",
+            "answers": [
+                "they",
+                "them"
+            ],
+            "correct": 1,
+            "id": "9e12eb1151a7409db173e3b877e8bc21"
+        },
+        {
+            "question": "Do you like ……………..?",
+            "description": "",
+            "answers": [
+                "they",
+                "them"
+            ],
+            "correct": 1,
+            "id": "eedbc607ee1d440fb8bc2e2a1df79a3a"
+        },
+        {
+            "question": "Are ………………. coming with us?",
+            "description": "",
+            "answers": [
+                "they",
+                "them"
+            ],
+            "correct": 0,
+            "id": "5d356e70be5640848909a3489fe2462b"
+        },
+        {
+            "question": "It was very kind of ……………. to help.",
+            "description": "",
+            "answers": [
+                "she",
+                "her"
+            ],
+            "correct": 1,
+            "id": "59e36504d47b4bfdb5fc881be95486c0"
+        },
+        {
+            "question": "Did ………………. recognize ………………..?",
+            "description": "",
+            "answers": [
+                "her, him",
+                "she, him",
+                "she, he"
+            ],
+            "correct": 1,
+            "id": "b4f2b639e809477f8e0981f2721fe0ed"
+        },
+        {
+            "question": "Did you speak to ………………..?",
+            "description": "",
+            "answers": [
+                "she",
+                "her",
+                "hers"
+            ],
+            "correct": 1,
+            "id": "0eda66439d7740289131f7fb170fc4e9"
+        }
+    ]
+}

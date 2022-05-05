@@ -1,0 +1,86 @@
+{
+    "id": "b36b68497285467a8b83c29abbfc2243",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The villagers dug a deep well, but ………………….",
+            "description": "",
+            "answers": [
+                "they could not find no water",
+                "could not find water",
+                "would not find water",
+                "cannot find water"
+            ],
+            "correct": 1,
+            "id": "7b512eb105144e08bf9cb4fc9dd6b726"
+        },
+        {
+            "question": "When the bell ……………….., the swimmers sprang into the water.",
+            "description": "",
+            "answers": [
+                "ring",
+                "rung",
+                "was rung",
+                "had rung"
+            ],
+            "correct": 2,
+            "id": "0c8efb7fb0174ba2a69af5d06656f3c9"
+        },
+        {
+            "question": "The manager sent for the clerk, …………… came at once.",
+            "description": "",
+            "answers": [
+                "who",
+                "that",
+                "he",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "3488c80a55ed42669721d55cf8359cc6"
+        },
+        {
+            "question": "The Hyderabad House in New Delhi, which ………………… by the External affairs Ministry, is to be sold.",
+            "description": "",
+            "answers": [
+                "has been used",
+                "is used",
+                "is being used"
+            ],
+            "correct": 2,
+            "id": "05ac655abeb7470a8566539077346ec7"
+        },
+        {
+            "question": "One of the officers who ……………… of treachery was the Major himself.",
+            "description": "",
+            "answers": [
+                "had suspected",
+                "was suspected",
+                "suspected"
+            ],
+            "correct": 1,
+            "id": "01919d28a8784b5faf34338c4ef153de"
+        },
+        {
+            "question": "He is the only one among our politicians who ……………. popular throughout the country.",
+            "description": "",
+            "answers": [
+                "are",
+                "is",
+                "has been"
+            ],
+            "correct": 1,
+            "id": "12a4d2b3cb304b5092c1fc24e8255e85"
+        },
+        {
+            "question": "Bribery is one of the charges that ………………. against him.",
+            "description": "",
+            "answers": [
+                "is leveled",
+                "has been leveled",
+                "have been leveled"
+            ],
+            "correct": 2,
+            "id": "c845eb3251e945aaa7dabea4fc9b4843"
+        }
+    ]
+}

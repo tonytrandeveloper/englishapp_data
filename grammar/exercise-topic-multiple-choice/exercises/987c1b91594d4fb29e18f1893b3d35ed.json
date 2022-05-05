@@ -1,0 +1,116 @@
+{
+    "id": "987c1b91594d4fb29e18f1893b3d35ed",
+    "title": "Indirect Speech Exercise",
+    "questions": [
+        {
+            "question": "He told me that I .................................. very ambitious.",
+            "description": "",
+            "answers": [
+                "am",
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "f04d90d1f6b045239eb06bc4586ec5de"
+        },
+        {
+            "question": "He told me that my father ....................................... me a gift.",
+            "description": "",
+            "answers": [
+                "sent",
+                "had sent",
+                "has sent"
+            ],
+            "correct": 1,
+            "id": "e27cde6c0bbd452b9c41d4c9c56843f6"
+        },
+        {
+            "question": "James said that he ...................................... working against heavy odds.",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "had been"
+            ],
+            "correct": 1,
+            "id": "dfc7f84795e241d7ac66ca2c758e8732"
+        },
+        {
+            "question": "He reminded me that he had often .................................... not to play with fire.",
+            "description": "",
+            "answers": [
+                "told",
+                "said me",
+                "told me"
+            ],
+            "correct": 2,
+            "id": "0cd913bc3f754b9c9e5fea7a28057cc0"
+        },
+        {
+            "question": "The teacher remarked that we ....................................... very badly.",
+            "description": "",
+            "answers": [
+                "did",
+                "have done",
+                "had done"
+            ],
+            "correct": 2,
+            "id": "cf38826433e44217b764c1d041b60976"
+        },
+        {
+            "question": "They wrote that it was time we ..................................... the matter.",
+            "description": "",
+            "answers": [
+                "settled",
+                "have settled",
+                "had settled"
+            ],
+            "correct": 0,
+            "id": "acfae4eb6e0543b2bb48727cda7feb9a"
+        },
+        {
+            "question": "The mother said that she .............................................. for her son’s return.",
+            "description": "",
+            "answers": [
+                "is longing",
+                "was longing",
+                "has been longing"
+            ],
+            "correct": 1,
+            "id": "f4b74b7c31bf416bbf591ddab7b79917"
+        },
+        {
+            "question": "He wrote that he was unable to come just then because he .................................. ill.",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "had been"
+            ],
+            "correct": 1,
+            "id": "c0cfa84d00ba44b396e0f56b96bd6241"
+        },
+        {
+            "question": "She said that she ............................................ school long ago.",
+            "description": "",
+            "answers": [
+                "left",
+                "has left",
+                "had left"
+            ],
+            "correct": 2,
+            "id": "589e671837fe4eb9adcf4b055bf18127"
+        },
+        {
+            "question": "I told her that I ........................................... in years.",
+            "description": "",
+            "answers": [
+                "did not see him",
+                "had not seen him",
+                "has not seen him"
+            ],
+            "correct": 1,
+            "id": "bd631582c753428eaa4f97ccc15f9fa1"
+        }
+    ]
+}

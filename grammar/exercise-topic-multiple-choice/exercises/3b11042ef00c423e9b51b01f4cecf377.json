@@ -1,0 +1,107 @@
+{
+    "id": "3b11042ef00c423e9b51b01f4cecf377",
+    "title": "Affirmative To Negative",
+    "questions": [
+        {
+            "question": "My sister ....................................... not live with my parents.",
+            "description": "",
+            "answers": [
+                "do",
+                "does"
+            ],
+            "correct": 1,
+            "id": "e70eb5750f624a0e9de95780a32895f6"
+        },
+        {
+            "question": "I .................................. not know the answer.",
+            "description": "",
+            "answers": [
+                "do",
+                "does"
+            ],
+            "correct": 0,
+            "id": "4d9de0511d2d422ab61f856f5db3d669"
+        },
+        {
+            "question": "I ........................................ not want to leave now.",
+            "description": "",
+            "answers": [
+                "do",
+                "does"
+            ],
+            "correct": 0,
+            "id": "97c91365a51748c0930cb149d3312bcf"
+        },
+        {
+            "question": "My mother ........................................... not work at a bank.",
+            "description": "",
+            "answers": [
+                "does",
+                "do"
+            ],
+            "correct": 0,
+            "id": "f6bdfaf64caf4520894dfc3ccd3ebfd9"
+        },
+        {
+            "question": "Supriya ............................................... not sing very well.",
+            "description": "",
+            "answers": [
+                "does",
+                "do"
+            ],
+            "correct": 0,
+            "id": "c0397023f30e474db1ed086858f2b482"
+        },
+        {
+            "question": "Martin .................................................. not get along with his brother-in-law.",
+            "description": "",
+            "answers": [
+                "do",
+                "does"
+            ],
+            "correct": 1,
+            "id": "b27c388ad62f4265af9dd61b11a5d81c"
+        },
+        {
+            "question": "The boy .............................................. not kill the spider with his shoe.",
+            "description": "",
+            "answers": [
+                "did",
+                "does",
+                "do"
+            ],
+            "correct": 0,
+            "id": "55cb17400a364ab6afa660e9e47ac4e6"
+        },
+        {
+            "question": "She .................................... not recognize him at once.",
+            "description": "",
+            "answers": [
+                "did",
+                "had"
+            ],
+            "correct": 0,
+            "id": "2dd5a1afb7af47dbaa4672bd4457b1be"
+        },
+        {
+            "question": "He ....................................... not apologize for his conduct.",
+            "description": "",
+            "answers": [
+                "did",
+                "had"
+            ],
+            "correct": 0,
+            "id": "170769a96a4a48e1a1ed0350c2b7e74d"
+        },
+        {
+            "question": "She .............................................. not throw a tantrum when she was told that she wouldn’t be able to go.",
+            "description": "",
+            "answers": [
+                "did",
+                "had"
+            ],
+            "correct": 0,
+            "id": "4959f1a1409644869259c6825db6e7ca"
+        }
+    ]
+}

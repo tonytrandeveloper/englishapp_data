@@ -1,0 +1,134 @@
+{
+    "id": "3faec58bb50f4f3c9ee76df7b17966de",
+    "title": "Intermediate Level Grammar Exercise",
+    "questions": [
+        {
+            "question": "She was booked for driving at ................................. 110 miles per hour.",
+            "description": "We use over, not above, to talk about ages and speeds.",
+            "answers": [
+                "above",
+                "over",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "88e89bc5384a422b8dcf787c874b3582"
+        },
+        {
+            "question": "Although he is in his thirties, he is still ................................... on his parents.",
+            "description": "We need an adjective here. Depend is a verb.",
+            "answers": [
+                "depend",
+                "dependent",
+                "depending"
+            ],
+            "correct": 1,
+            "id": "a1310047c7d64749a1edb5a77bfcd4e3"
+        },
+        {
+            "question": "You can eat ............................................. in my restaurant whenever you want.",
+            "description": "The adverb free means without payment, freely means without restriction.",
+            "answers": [
+                "free",
+                "freely",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "2866b821464f42439a7ae65ef166e6ff"
+        },
+        {
+            "question": "Britain has .................................... as the land of law and order.",
+            "description": "We need a passive verb here because Britain is not the subject. Something is said about it.",
+            "answers": [
+                "long known",
+                "long been known",
+                "long been knowing"
+            ],
+            "correct": 1,
+            "id": "9dae2c44b20f429ea5f3f8169d6a8ecc"
+        },
+        {
+            "question": "He wrote his first book after ..................................... from China.",
+            "description": "Instead of writing 'after he returned', we can write 'after returning'.",
+            "answers": [
+                "returning",
+                "he returned",
+                "he returning"
+            ],
+            "correct": 1,
+            "id": "dd6383d4f9834c4493791a40cf9ee99f"
+        },
+        {
+            "question": "All native ..................................... suffered from the white settlement in America.",
+            "description": "We need a plural noun after all.",
+            "answers": [
+                "tribe",
+                "tribes"
+            ],
+            "correct": 1,
+            "id": "a172486acf364c0eb038134faa1306c7"
+        },
+        {
+            "question": "Since they are not free on Monday, we will have to find an .......................................... date for the meeting.",
+            "description": "Alternative means different.",
+            "answers": [
+                "alternate",
+                "alternative"
+            ],
+            "correct": 1,
+            "id": "7156cf2c23c14ae19dc679101b74118f"
+        },
+        {
+            "question": "We spend ......................................... weekends at our country cottage.",
+            "description": "Alternate means every second.",
+            "answers": [
+                "alternate",
+                "alternative"
+            ],
+            "correct": 0,
+            "id": "0b58002310594e09a4838747ed669198"
+        },
+        {
+            "question": "My feet were sore because my shoes .....................................  badly.",
+            "description": "Were fitted is in the passive voice. We need an active verb here because the subject is the doer of the action. ",
+            "answers": [
+                "were fitted",
+                "fitted"
+            ],
+            "correct": 1,
+            "id": "5376aa662f624deca6144e4fc6c11bea"
+        },
+        {
+            "question": "I wish I had more money so that I .................................... visit all the countries in the world.",
+            "description": "We use could to talk about ability. ",
+            "answers": [
+                "would",
+                "should",
+                "could"
+            ],
+            "correct": 2,
+            "id": "fc9856b50f684efaa10369b2f2a2091a"
+        },
+        {
+            "question": "His appearance as well as his strange way of talking ........................................ me suspicious.",
+            "description": "When two subjects are connected by as well as, the verb should be singular if the first subject is singular in number.",
+            "answers": [
+                "make",
+                "makes",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "a9b6b95292d54c20b949da9f67785063"
+        },
+        {
+            "question": "The report candidly admits that the state funding in health and education  ....................................... eroded considerably.",
+            "description": "Here the subject is the singular expression 'state funding'.",
+            "answers": [
+                "has",
+                "have",
+                "was"
+            ],
+            "correct": 0,
+            "id": "9f02e23beb8e40a49185de7e9f4f496e"
+        }
+    ]
+}

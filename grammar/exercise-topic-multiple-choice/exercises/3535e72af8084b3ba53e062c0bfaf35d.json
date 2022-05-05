@@ -1,0 +1,138 @@
+{
+    "id": "3535e72af8084b3ba53e062c0bfaf35d",
+    "title": "Intermediate Level Grammar Exercise",
+    "questions": [
+        {
+            "question": "At no time …………………………. her self control.",
+            "description": "When a negative word comes at the beginning we use an inverted word order.",
+            "answers": [
+                "did she lose",
+                "she lost",
+                "did she lost"
+            ],
+            "correct": 0,
+            "id": "9b1bad8fad5843889f51d20919bbad6a"
+        },
+        {
+            "question": "I hadn’t seen her ………………………….. years, but she wasn’t any different.",
+            "description": "We use for to indicate duration.",
+            "answers": [
+                "since",
+                "from",
+                "for"
+            ],
+            "correct": 2,
+            "id": "28bf50adfe6343d588933ad81781f3dc"
+        },
+        {
+            "question": "This job is different from …………………………… I expected.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "what"
+            ],
+            "correct": 2,
+            "id": "be0d2db67fd34c83a599e2b14c3debda"
+        },
+        {
+            "question": "Have you got …………………………. more coffee?",
+            "description": "In questions we use any. ",
+            "answers": [
+                "any",
+                "some",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d8f9f8a16358466b8fa057257b0a74d5"
+        },
+        {
+            "question": "Today is …………………………… than yesterday.",
+            "description": "We cannot use very to modify comparative adjectives.",
+            "answers": [
+                "very colder",
+                "much colder",
+                "very much colder"
+            ],
+            "correct": 2,
+            "id": "51af0905d2354e67bf24df4133063b67"
+        },
+        {
+            "question": "I can’t tell you …………………………….. pleased I am about the result.",
+            "description": "We can use ‘how’ to express the idea of ‘how much’.",
+            "answers": [
+                "how",
+                "what",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "69196a29823748e2b78cf9319a16a2c0"
+        },
+        {
+            "question": "Is this the first time you …………………………… here?",
+            "description": "We use the present perfect tense with ‘this is the first time’ etc.",
+            "answers": [
+                "stayed",
+                "have stayed",
+                "had stayed"
+            ],
+            "correct": 1,
+            "id": "07a810586ae34a899a58f523729fc1d0"
+        },
+        {
+            "question": "The car was damaged ……………………… a falling branch.",
+            "description": "In passive clauses we use by to introduce the agent.",
+            "answers": [
+                "with",
+                "by",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "46682812e2614f9eb1948783f41ef51d"
+        },
+        {
+            "question": "I have always ………………………… to play games well.",
+            "description": "We cannot use ‘can’ with have. Instead, we use be able to.",
+            "answers": [
+                "been able",
+                "could",
+                "able"
+            ],
+            "correct": 0,
+            "id": "eb459a0a641e4f6586dbe7b32b32aacf"
+        },
+        {
+            "question": "I lost my job ………………………….. I was ill for six months.",
+            "description": "We use because to introduce the reason.",
+            "answers": [
+                "because",
+                "as",
+                "hence"
+            ],
+            "correct": 0,
+            "id": "8119ae00ee5049aca40634aac7416d76"
+        },
+        {
+            "question": "The storm blew their roof ………………………",
+            "description": "",
+            "answers": [
+                "of",
+                "off",
+                "over"
+            ],
+            "correct": 1,
+            "id": "6345d0659a594619800eceadaf694fe7"
+        },
+        {
+            "question": "If I had gone to university, I …………………………… law.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "would study",
+                "would have studied",
+                "will have studied"
+            ],
+            "correct": 1,
+            "id": "c8ddc7f2860c43cfacd4568cbf5a36be"
+        }
+    ]
+}

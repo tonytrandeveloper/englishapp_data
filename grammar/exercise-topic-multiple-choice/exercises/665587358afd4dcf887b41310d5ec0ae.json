@@ -1,0 +1,138 @@
+{
+    "id": "665587358afd4dcf887b41310d5ec0ae",
+    "title": "Adjectives Exercise",
+    "questions": [
+        {
+            "question": "My ………………….. sister is a journalist.",
+            "description": "Before a noun elder and older can both be used to talk about the order of birth of the members of a family.",
+            "answers": [
+                "elder",
+                "older",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c427b92b409f46cf9d67ba0d3474f2c6"
+        },
+        {
+            "question": "He is the ………………………. member of the club.",
+            "description": "Elder and eldest are only used to talk of members of a family.",
+            "answers": [
+                "oldest",
+                "eldest",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "2feba389ec6f4a25a35b7a17fc49cf4c"
+        },
+        {
+            "question": "She was happy when she got the job but two weeks ……………………. she was fired.",
+            "description": "Later means after that time.",
+            "answers": [
+                "later",
+                "latter",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "b3b5d43c3df44030a697de6e8399ed3f"
+        },
+        {
+            "question": "She could become an actor or a model – she chose the …………………….. option.",
+            "description": "Latter means the second of the two.",
+            "answers": [
+                "later",
+                "latter",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "b3967e5cb0954e38b41e72417330c597"
+        },
+        {
+            "question": "She is still on good terms with her ……………………………. boyfriend.",
+            "description": "Former means the first of the two. It can also mean erstwhile.",
+            "answers": [
+                "former",
+                "then",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "901bdf55355d40e0ba8b21331b1a15f2"
+        },
+        {
+            "question": "I cannot walk any ………………………",
+            "description": "Further and farther can both be used to talk about distance.",
+            "answers": [
+                "farther",
+                "further",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "6a45509f906a49069d6831cc85fc0ade"
+        },
+        {
+            "question": "They refused to give any ………………………….  details.",
+            "description": "Further can mean additional.",
+            "answers": [
+                "farther",
+                "further",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "30e6e3d6842f43dd8401d3c092edf1be"
+        },
+        {
+            "question": "There were ………………………… applicants than expected.",
+            "description": "We use fewer before plural nouns.",
+            "answers": [
+                "fewer",
+                "less",
+                "lesser"
+            ],
+            "correct": 0,
+            "id": "294307f8affc4603b19eedabf93622b2"
+        },
+        {
+            "question": "I have ……………………………… interest in politics.",
+            "description": "We use the positive degree of the adjective when there is no idea of comparison.",
+            "answers": [
+                "little",
+                "less",
+                "lesser"
+            ],
+            "correct": 0,
+            "id": "fb3bf077d017425ebd4a84303629c3ac"
+        },
+        {
+            "question": "He earns ………………………….. money than his wife.",
+            "description": "Before uncountable nouns we use less.",
+            "answers": [
+                "less",
+                "few",
+                "lesser"
+            ],
+            "correct": 0,
+            "id": "8f609f2c1528483b9096e71774c6561c"
+        },
+        {
+            "question": "You didn’t eat ………………………… food.",
+            "description": "We use much before uncountable nouns.",
+            "answers": [
+                "many",
+                "much",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "c01f9cbfec18476a8762573a9ffabf63"
+        },
+        {
+            "question": "There aren’t ……………………….. apples left.",
+            "description": "We use many before plural nouns. ",
+            "answers": [
+                "many",
+                "much",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "0021ccb991d645d9827d19516622012e"
+        }
+    ]
+}

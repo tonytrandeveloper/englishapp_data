@@ -1,0 +1,207 @@
+{
+    "id": "7298390378fb48a4bcf0a5a70e434d0a",
+    "title": "Used To Exercise 3 (be used to verb+ing)",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'m used to living",
+                        "am used to living"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in London, so the crowds don't bother me."
+                }
+            ],
+            "id": "f50baf6168114c638f838cf5054f4c37"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s used to the Tokyo subway",
+                        "is used to the Tokyo subway"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(the Tokyo subway) so she doesn't get lost."
+                }
+            ],
+            "id": "8cc44cba12bc45fbaa1d5f389d0c6970"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s not used to dealing",
+                        "isn't used to dealing",
+                        "is not used to dealing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/deal) with animals, so he's a bit scared of the dogs."
+                }
+            ],
+            "id": "5d75d9793d0c42a89e84ccc611b8ff89"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s used to driving",
+                        "is used to driving"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(drive)in heavy traffic."
+                }
+            ],
+            "id": "3799f5a1f6854983b58518bff6395035"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'m used to waking",
+                        "am used to waking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(wake)up in the night with my baby. I drink lots of coffee!."
+                }
+            ],
+            "id": "ab90c5133b714c81aa2882960acd8578"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It was very hard to get up at five when I first started this job, because I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wasn't used to it",
+                        "was not used to it"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/it)."
+                }
+            ],
+            "id": "de87d709dcc843f2af395a7e8b1a27cb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s used to drinking",
+                        "is used to drinking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(drink)a lot of coffee, so she doesn't have a problem with going to sleep afterwards."
+                }
+            ],
+            "id": "683a08b0a8de48e88a81c33f7e63db3d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I've lived here in Hokkaido for three years but I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'m not used to the snow",
+                        "am not used to the snow"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/the snow)."
+                }
+            ],
+            "id": "82e56b64f52f411aabc1f5f6b2affbd4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s used to doing",
+                        "is used to doing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(do) a lot of exercise, so a ten-mile walk is easy for him."
+                }
+            ],
+            "id": "dda44404073944fa8f5d92769140e7df"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie's flat is in the centre of London. When she visits a friend in the countryside, it's difficult for her to sleep because she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "isn't used to the quiet",
+                        "'s not used to the quiet"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/the quiet)."
+                }
+            ],
+            "id": "221cb85953a14aed9a8d44f53f037817"
+        }
+    ]
+}

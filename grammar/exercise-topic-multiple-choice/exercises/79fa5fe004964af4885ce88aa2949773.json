@@ -1,0 +1,138 @@
+{
+    "id": "79fa5fe004964af4885ce88aa2949773",
+    "title": "Prepositions Or Conjunctions",
+    "questions": [
+        {
+            "question": "We went out …………………. the rain.",
+            "description": "In spite of is a preposition. We use it before a noun.",
+            "answers": [
+                "in spite of",
+                "even so",
+                "although"
+            ],
+            "correct": 0,
+            "id": "9825128113f7421d83bcfa6866d6b4c3"
+        },
+        {
+            "question": "……………….. having a headache, I enjoyed the party.",
+            "description": "Despite is a preposition. We use it before a noun or an ing form.",
+            "answers": [
+                "Despite",
+                "Although",
+                "Even if"
+            ],
+            "correct": 0,
+            "id": "103179bae5124da2a3a631c736b0f200"
+        },
+        {
+            "question": "…………………. I had worked very hard, I failed my exam.",
+            "description": "Although is a conjunction. We use it before a clause. Even if is used to talk about hypothetical situations. ",
+            "answers": [
+                "Although",
+                "Despite",
+                "Even if"
+            ],
+            "correct": 0,
+            "id": "cbf85f39867d457fb1a73b44893ac972"
+        },
+        {
+            "question": "There is a school …………….. my house.",
+            "description": "The school can’t possibly be in front of the house. We do not use in front of to mean on the other side of the road.",
+            "answers": [
+                "opposite",
+                "in front of",
+                "before"
+            ],
+            "correct": 0,
+            "id": "f43a706f16934128823b5300fc6c1c9f"
+        },
+        {
+            "question": "If the bus stop is on the same side of the road as the library, it is ..................... the library.",
+            "description": "",
+            "answers": [
+                "opposite",
+                "in front of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "7815cef7f5df447289fe8265231cb819"
+        },
+        {
+            "question": "If the garage is on the other side of the road as the school, it is …………………. the school.",
+            "description": "",
+            "answers": [
+                "opposite",
+                "in front of",
+                "before"
+            ],
+            "correct": 0,
+            "id": "5737c044857045c7bc8e0c91d04f6b40"
+        },
+        {
+            "question": "I had no idea ....................... she was unhappy.",
+            "description": "Prepositions are usually dropped before that-clauses.",
+            "answers": [
+                "of",
+                "that",
+                "of that"
+            ],
+            "correct": 1,
+            "id": "4dfb8319f4de46bb8aafdb20f23d445d"
+        },
+        {
+            "question": "I wasn’t aware …………….. it was too late.",
+            "description": "Prepositions are usually dropped before that-clauses.",
+            "answers": [
+                "of",
+                "that",
+                "of that"
+            ],
+            "correct": 1,
+            "id": "b03cf17df2414c5f845b18f7811db678"
+        },
+        {
+            "question": "She insisted ……………… paid at once.",
+            "description": "After verb + preposition, we usually use the –ing form of the following verb.",
+            "answers": [
+                "to be",
+                "on being",
+                "on to be"
+            ],
+            "correct": 1,
+            "id": "31871758f5d747f285daa21394426939"
+        },
+        {
+            "question": "Your chances of getting a job vary according to ………………. you live in the city or the country.",
+            "description": "If cannot be used after a preposition.",
+            "answers": [
+                "whether",
+                "if",
+                "where"
+            ],
+            "correct": 0,
+            "id": "ccbb8f682c29406c9fe8a913df44d4d6"
+        },
+        {
+            "question": "I am worried about ……………… you are all right.",
+            "description": "",
+            "answers": [
+                "whether",
+                "if",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "70c645d8501441009ec534d0793257ff"
+        },
+        {
+            "question": "I am not sure …………………. she did it.",
+            "description": "After some common verbs like tell, ask or sure, prepositions can be dropped before question words.",
+            "answers": [
+                "how",
+                "of how",
+                "of"
+            ],
+            "correct": 0,
+            "id": "2958341dbacf42709f90d4ce6d707eb0"
+        }
+    ]
+}

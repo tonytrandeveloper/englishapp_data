@@ -1,0 +1,134 @@
+{
+    "id": "8391a2d4bea643dabcb554752d20607c",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "I will call you when I ………………………. ready.",
+            "description": "When both clauses refer to the future, we use the simple present in the subordinate clause.",
+            "answers": [
+                "will be",
+                "am",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e251c75f21bf484487fff9881c51820f"
+        },
+        {
+            "question": "She told me that she ……………………………. quitting.",
+            "description": "When the verb in the main clause is in the past tense, we use a past tense in the subordinate clause as well.",
+            "answers": [
+                "is",
+                "was"
+            ],
+            "correct": 1,
+            "id": "80d20093b95a4c39a9783528f2c03519"
+        },
+        {
+            "question": "People loved him because he …………………………… very kind.",
+            "description": "",
+            "answers": [
+                "was",
+                "is",
+                "will be"
+            ],
+            "correct": 0,
+            "id": "7fede0b071f24f3e81dd754519b29d3a"
+        },
+        {
+            "question": "If you buy the tickets, I ………………………… the food.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + first form of the verb in the main clause. ",
+            "answers": [
+                "will bring",
+                "would bring"
+            ],
+            "correct": 0,
+            "id": "bf0057a9cfb94d8e8a2aac23e8b844c7"
+        },
+        {
+            "question": "She was not very beautiful but she ………………………….. very popular.",
+            "description": "",
+            "answers": [
+                "was",
+                "is"
+            ],
+            "correct": 0,
+            "id": "97be45311bc946f19e904ee64235d81f"
+        },
+        {
+            "question": "We climbed up a tree so that we …………………………… get a better view of the procession.",
+            "description": "When the verb in the main clause is in the past tense, we use a past tense in the subordinate clause as well.",
+            "answers": [
+                "can",
+                "may",
+                "could"
+            ],
+            "correct": 2,
+            "id": "553ccd9c20cf4d9abf597519c96284b3"
+        },
+        {
+            "question": "They took him to hospital when he …………………………….. of uneasiness.",
+            "description": "",
+            "answers": [
+                "complained",
+                "complains",
+                "was complaining"
+            ],
+            "correct": 0,
+            "id": "d0f943e2eaae432ea70e5dd0a55970a7"
+        },
+        {
+            "question": "No one helped me when I ……………………… money.",
+            "description": "",
+            "answers": [
+                "need",
+                "needed",
+                "was needing"
+            ],
+            "correct": 1,
+            "id": "808a6f76a75a4a4d92fd07ccc3359825"
+        },
+        {
+            "question": "While I was mowing the lawn, a scorpion ………………………… me.",
+            "description": "We use the past continuous for a longer background action that was going on while another action interrupted it.",
+            "answers": [
+                "sting",
+                "stung",
+                "stinged"
+            ],
+            "correct": 1,
+            "id": "823fad2a98b14894b16fce2951b8a149"
+        },
+        {
+            "question": "He talks as if he ………………………… an insider but he isn’t.",
+            "description": "We use a past tense with a present meaning after as if and as though to show that a comparison is unreal.",
+            "answers": [
+                "is",
+                "was"
+            ],
+            "correct": 1,
+            "id": "e772ffd60d4145af80d8859b7e0641b1"
+        },
+        {
+            "question": "As well as …………………………. his parents, he invited the displeasure of his boss.",
+            "description": "",
+            "answers": [
+                "embarrassing",
+                "embarrassed",
+                "embarrass"
+            ],
+            "correct": 0,
+            "id": "f8edf97d9591485dbc5e397626235d83"
+        },
+        {
+            "question": "While you were holidaying in France, I …………………………….. the midnight oil.",
+            "description": "",
+            "answers": [
+                "burned",
+                "was burning",
+                "am burning"
+            ],
+            "correct": 1,
+            "id": "55646bf6e2534fbf9f5e10b2a45f1c91"
+        }
+    ]
+}

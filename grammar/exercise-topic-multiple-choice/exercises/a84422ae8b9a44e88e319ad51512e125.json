@@ -1,0 +1,127 @@
+{
+    "id": "a84422ae8b9a44e88e319ad51512e125",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "You will not get the promotion …………………… you deserve it.",
+            "description": "Unless is similar to if…not.",
+            "answers": [
+                "if",
+                "unless"
+            ],
+            "correct": 1,
+            "id": "c30bf9bc0db940e6b0d0882e2bd6ff46"
+        },
+        {
+            "question": "We have lived in this city ……………………….. ten years.",
+            "description": "We use for with duration.",
+            "answers": [
+                "for",
+                "since"
+            ],
+            "correct": 0,
+            "id": "9256ae3a2bba44cc82bd33a5ed0f78bc"
+        },
+        {
+            "question": "The child has been missing …………………………. yesterday.",
+            "description": "We use since with the starting point.",
+            "answers": [
+                "for",
+                "since"
+            ],
+            "correct": 1,
+            "id": "2b075a7208dd40daafd5b6376f162f6a"
+        },
+        {
+            "question": "He accused me ………………………. stealing his ideas.",
+            "description": "Accused is used with of.",
+            "answers": [
+                "with",
+                "of"
+            ],
+            "correct": 1,
+            "id": "3249c1830e7c4be880f53ff1289f2f2c"
+        },
+        {
+            "question": "She ………………………….. from high school in",
+            "description": "We use the simple past when we say when something happened.",
+            "answers": [
+                "graduated",
+                "has graduated"
+            ],
+            "correct": 0,
+            "id": "b478a3b02ff5419aa0e65de5c87ebfc6"
+        },
+        {
+            "question": "You will get well …………………………. you take enough rest.",
+            "description": "",
+            "answers": [
+                "if",
+                "unless"
+            ],
+            "correct": 0,
+            "id": "55d02f0e8f304be5ae3164d030cf921e"
+        },
+        {
+            "question": "The boy along with his parents …………………………. waiting there.",
+            "description": "When you connect two nouns with along with the verb agrees with the first subject. ",
+            "answers": [
+                "is",
+                "am",
+                "are"
+            ],
+            "correct": 0,
+            "id": "93f6f2b8061444b1960f38376a884384"
+        },
+        {
+            "question": "We …………………………… English for six months.",
+            "description": "The present perfect continuous is used to talk about an action or situation that started in the past and has continued up to the present.",
+            "answers": [
+                "have been learning",
+                "are learning"
+            ],
+            "correct": 0,
+            "id": "d7b2fe0714ec4b4faedb352109e60029"
+        },
+        {
+            "question": "When ………………...…………. yesterday?",
+            "description": "In the simple past, questions and negatives are made with did.",
+            "answers": [
+                "she left",
+                "did she leave"
+            ],
+            "correct": 1,
+            "id": "0fa92e44818f438ea6a15ab09a938107"
+        },
+        {
+            "question": "He ………………………….. ill for more than a week.",
+            "description": "",
+            "answers": [
+                "has been",
+                "was"
+            ],
+            "correct": 0,
+            "id": "82d6f7b4c04541e4b988ec5ceaeb270b"
+        },
+        {
+            "question": "We want a house to …………………………",
+            "description": "",
+            "answers": [
+                "live",
+                "live in"
+            ],
+            "correct": 1,
+            "id": "de267b66c59c49459f033dda111f42bb"
+        },
+        {
+            "question": "Neither James nor Peter ………………………… there.",
+            "description": "When we connect two singular nouns with neither/nor, the verb is singular. ",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "e6672572dbe1469c8134206dce719559"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "id": "cf17e68f57aa466493ebf277e69efe57",
+    "title": "Adjective Or Adverb Exercise",
+    "questions": [
+        {
+            "question": "She played the violin ................................",
+            "description": "We need an adverb to modify the verb played.",
+            "answers": [
+                "beautiful",
+                "beautifully",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "94edb83983d64b2ca485964a284f0797"
+        },
+        {
+            "question": "Why are you talking so .................................?",
+            "description": "Loudly is an adverb. We need an adverb to modify the verb talking.",
+            "answers": [
+                "loud",
+                "loudly",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "70e01090f22d4734964b4a48b56701a1"
+        },
+        {
+            "question": "The radio is too ................................. I can't focus on my work.",
+            "description": "Only adjectives, nouns and pronouns can be used as the complement of be.",
+            "answers": [
+                "loud",
+                "loudly"
+            ],
+            "correct": 0,
+            "id": "6caf25346b82497b8021aefc0fe6ecc9"
+        },
+        {
+            "question": "A ................................... learner can grasp this easily.",
+            "description": "Quick is an adjective. We need an adjective to modify the noun leaner.",
+            "answers": [
+                "quick",
+                "quickly"
+            ],
+            "correct": 0,
+            "id": "77d4ed43aa7342ce917fe6e1484965e9"
+        },
+        {
+            "question": "The intelligent boy grasped everything ...................................",
+            "description": "Quickly is an adverb. We need an adverb to modify the verb grasped.",
+            "answers": [
+                "quick",
+                "quickly"
+            ],
+            "correct": 1,
+            "id": "c9fe1c29e1d84415b2bb8ae3c03ee9d6"
+        },
+        {
+            "question": "She spoke so ................................. that I could not understand anything.",
+            "description": "The adjective and adverb form of fast is fast.",
+            "answers": [
+                "fast",
+                "fastly"
+            ],
+            "correct": 0,
+            "id": "d73b926b7bb342648e5cc3caac100c4a"
+        },
+        {
+            "question": "I know them quite ..............................",
+            "description": "\r\nWe need the adverb well to modify the verb know.\r\n",
+            "answers": [
+                "good",
+                "well",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1b2589e5e69d401e9549b964c31b6f3d"
+        },
+        {
+            "question": "She is a ....................................... friend of mine.",
+            "description": "The adjective good modifies the noun friend.",
+            "answers": [
+                "good",
+                "well"
+            ],
+            "correct": 0,
+            "id": "1c60a1aa32bc47bd971d7a255464af70"
+        },
+        {
+            "question": "I have been watching a lot of movies .................................",
+            "description": "",
+            "answers": [
+                "late",
+                "lately"
+            ],
+            "correct": 1,
+            "id": "45def8d3213942a19f2525954ab61b1f"
+        },
+        {
+            "question": "He is a ....................................... actor.",
+            "description": "We use adjective fabulous to modify the noun actor. ",
+            "answers": [
+                "fabulous",
+                "fabulously"
+            ],
+            "correct": 0,
+            "id": "11a0cf6af84c450ba566502df8bde876"
+        },
+        {
+            "question": "The children performed ..................................",
+            "description": "",
+            "answers": [
+                "fabulous",
+                "fabulously"
+            ],
+            "correct": 1,
+            "id": "00b6142443cd413281abefdf59be7e63"
+        },
+        {
+            "question": "He could .................................. walk without support.",
+            "description": "",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 1,
+            "id": "36c27e933b164e819e9c500a3df562d0"
+        }
+    ]
+}

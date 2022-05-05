@@ -1,0 +1,139 @@
+{
+    "id": "73226200be434ab1a1ebe432ca1d4ea9",
+    "title": "Tenses In Subordinate Clauses",
+    "questions": [
+        {
+            "question": "I will lend it to you on condition that you ……………………… it back tomorrow.",
+            "description": "Present tenses are often used instead of will + infinitive to refer to the future in subordinate clauses.",
+            "answers": [
+                "bring",
+                "will bring",
+                "would bring"
+            ],
+            "correct": 0,
+            "id": "63510129f486454b8f5ff3a668f6446b"
+        },
+        {
+            "question": "It will be interesting to see whether he …………………………… it or not.",
+            "description": "Present tenses are often used instead of will + infinitive to refer to the future in subordinate clauses.",
+            "answers": [
+                "completes",
+                "will complete",
+                "would complete"
+            ],
+            "correct": 0,
+            "id": "3254aaf71d024712a72264d91a06eb5b"
+        },
+        {
+            "question": "I will call you when I ………………………..",
+            "description": "Present tenses are often used instead of will + infinitive to refer to the future in subordinate clauses.",
+            "answers": [
+                "have finished",
+                "will have finished",
+                "had finished"
+            ],
+            "correct": 0,
+            "id": "6fc5a433f35b48e5a42f6ed769e9256b"
+        },
+        {
+            "question": "I don’t know where I ………………………… tomorrow.",
+            "description": "When the main verb is in the present tense, we use a future tense in the subordinate clause to refer to future.",
+            "answers": [
+                "am",
+                "would be",
+                "will be"
+            ],
+            "correct": 2,
+            "id": "733c7699ba274e9ab604bee17e6874b8"
+        },
+        {
+            "question": "I have bought a chicken in case Peter ……………………………….",
+            "description": "We normally use a present tense with a future meaning after in case.",
+            "answers": [
+                "arrive",
+                "will arrive",
+                "arrives"
+            ],
+            "correct": 2,
+            "id": "437e8431944c4952bb07604feeb452a2"
+        },
+        {
+            "question": "It doesn’t matter where we ………………………… on holiday.",
+            "description": "Present tenses are also used with a future meaning after it doesn’t matter.",
+            "answers": [
+                "go",
+                "went",
+                "will go"
+            ],
+            "correct": 0,
+            "id": "474292b21c2942ae8c8c5ed289b24785"
+        },
+        {
+            "question": "I don’t care what we ……………………….. for dinner as long as I don’t have to cook it.",
+            "description": "Present tenses are also used with a future meaning after I don’t care.",
+            "answers": [
+                "had",
+                "have",
+                "will have",
+                "would have"
+            ],
+            "correct": 1,
+            "id": "97d22d308ee945f8876db21544115d62"
+        },
+        {
+            "question": "I asked whether she ………………………… any message for me.",
+            "description": "When the verb in the main clause is in the past tense, we will typically need a past tense in the subordinate clause as well.",
+            "answers": [
+                "has",
+                "had",
+                "will have"
+            ],
+            "correct": 1,
+            "id": "4bcf8a585e11473085302dc7bb2cf0e3"
+        },
+        {
+            "question": "We wish that it ……………………….. forever.",
+            "description": "We usually use a past tense after wish to talk about something unreal or unlikely.",
+            "answers": [
+                "will rain",
+                "had rained",
+                "would rain"
+            ],
+            "correct": 2,
+            "id": "5e7b1cd5714b4a11a26d84d308ffc2d8"
+        },
+        {
+            "question": "I wish tomorrow ………………………… Sunday.",
+            "description": "We usually use a past tense after wish to talk about something unreal or unlikely.",
+            "answers": [
+                "is",
+                "was",
+                "had been"
+            ],
+            "correct": 1,
+            "id": "a944e851beeb4d69a290abefc04561ca"
+        },
+        {
+            "question": "It’s time the children ……………………….. to bed.",
+            "description": "We use a past tense after it’s time with a present meaning.",
+            "answers": [
+                "went",
+                "go",
+                "have gone"
+            ],
+            "correct": 0,
+            "id": "319622e9572643a48ab2c30d90b93684"
+        },
+        {
+            "question": "You had better ……………………… before I call the police.",
+            "description": "We use the infinitive without to after had better.",
+            "answers": [
+                "leave",
+                "left",
+                "to leave"
+            ],
+            "correct": 0,
+            "id": "904d063208864c1eb752cfa873b15230"
+        }
+    ]
+}

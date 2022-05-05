@@ -1,0 +1,139 @@
+{
+    "id": "a829ab6ac2dd4826a69096f3d8ebf66b",
+    "title": "Sentence Correction Exercise",
+    "questions": [
+        {
+            "question": "Despite of having a headache, I enjoyed the movie.",
+            "description": "Write despite or in spite of.",
+            "answers": [
+                "of",
+                "having",
+                "a"
+            ],
+            "correct": 0,
+            "id": "4523cfa71794427dac1f8a2ebe8946c0"
+        },
+        {
+            "question": "If you will happen to see Jane, ask her to phone me.",
+            "description": "The correct sentence is: If you happen to see Jane, ask her to phone me.",
+            "answers": [
+                "will",
+                "happen",
+                "to"
+            ],
+            "correct": 0,
+            "id": "29f7ca8cf8b344d09a3032726ce2bd35"
+        },
+        {
+            "question": "Broadly to speaking, teachers are overworked and underpaid.",
+            "description": "The correct expression is broadly speaking.",
+            "answers": [
+                "broadly",
+                "to"
+            ],
+            "correct": 1,
+            "id": "d5af1b148c4d46cbb838b04561b11957"
+        },
+        {
+            "question": "Sometimes people often behave strangely when they are abroad.",
+            "description": "Often and sometimes are both adverbs of frequency. Use only one of them in a clause.",
+            "answers": [
+                "sometimes",
+                "often",
+                "when",
+                "Either sometimes or often"
+            ],
+            "correct": 3,
+            "id": "68094740b0984c19a2affb8cee073dd7"
+        },
+        {
+            "question": "Although I admit that junk food is bad for health, but I don’t think that it should be banned.",
+            "description": "The conjunctions although and but mean the same. Use only one of them in a clause.",
+            "answers": [
+                "although",
+                "that",
+                "but",
+                "Either although or but"
+            ],
+            "correct": 3,
+            "id": "a9fe9192207f4d7497ef62ca733be21d"
+        },
+        {
+            "question": "Since the day was very hot therefore I didn’t go out.",
+            "description": "The word since is used to give the reason and therefore is used to show the effect/result. Use only one of them in a sentence.",
+            "answers": [
+                "since",
+                "very",
+                "therefore"
+            ],
+            "correct": 2,
+            "id": "fff913622cbb40f3b97bebbf2d0650a9"
+        },
+        {
+            "question": "Because she wanted to win the first prize so she worked hard.",
+            "description": "We need only one conjunction to connect two clauses. ",
+            "answers": [
+                "because",
+                "so",
+                "Either because or so"
+            ],
+            "correct": 2,
+            "id": "13a7d2628e06459a80eadc5a4f12fca1"
+        },
+        {
+            "question": "He is a man who dare to say what he thinks.",
+            "description": "When dare is used as a modal auxiliary it is followed by an infinitive without to.",
+            "answers": [
+                "who",
+                "dare",
+                "to"
+            ],
+            "correct": 2,
+            "id": "8ed982a382b0465abe8369b0862a0715"
+        },
+        {
+            "question": "She is richer than compared to ninety percent of her neighbors.",
+            "description": "Richer than is enough to express this idea.",
+            "answers": [
+                "than",
+                "compared to",
+                "of"
+            ],
+            "correct": 1,
+            "id": "74a4741d48364350b8d82675ce585f34"
+        },
+        {
+            "question": "You need not to pay for that call.",
+            "description": "When need is used as a modal auxiliary, it is followed by an infinitive without to.",
+            "answers": [
+                "not",
+                "to",
+                "for"
+            ],
+            "correct": 1,
+            "id": "73f2a8681e424b02aaa0a69c7272e7d9"
+        },
+        {
+            "question": "I can’t make the dish washer to work.",
+            "description": "Make + object is followed by an infinitive without to.",
+            "answers": [
+                "make",
+                "the",
+                "to"
+            ],
+            "correct": 2,
+            "id": "2f46011e289c46de8b89e72814fc52c2"
+        },
+        {
+            "question": "Most things seem to be made of from plastic these days.",
+            "description": "We use made of when we identify the material used to make something.",
+            "answers": [
+                "most",
+                "of",
+                "from"
+            ],
+            "correct": 2,
+            "id": "974bb81a568d4ac7b4dca966de9b78c7"
+        }
+    ]
+}

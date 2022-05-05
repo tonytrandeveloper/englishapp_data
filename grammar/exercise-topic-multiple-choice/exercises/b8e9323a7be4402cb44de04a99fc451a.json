@@ -1,0 +1,136 @@
+{
+    "id": "b8e9323a7be4402cb44de04a99fc451a",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "Break ………………………….. a piece of licorice for me.",
+            "description": "To break off is to tear off.",
+            "answers": [
+                "off",
+                "out",
+                "break up"
+            ],
+            "correct": 0,
+            "id": "7c24d164c78347cf81184b0eba8613ff"
+        },
+        {
+            "question": "The mainmast broke ………………………. in the storm.",
+            "description": "Break away means detach or separate.",
+            "answers": [
+                "in",
+                "out",
+                "away"
+            ],
+            "correct": 2,
+            "id": "766a057974ad45639e188ca41ac3a6d6"
+        },
+        {
+            "question": "The trade unions broke ………………………….. negotiations and called a strike.",
+            "description": "Break off can mean end",
+            "answers": [
+                "on",
+                "out",
+                "off"
+            ],
+            "correct": 2,
+            "id": "45568fe359bb42809579075fbe2e8292"
+        },
+        {
+            "question": "The convict broke ……………………….. jail.",
+            "description": "",
+            "answers": [
+                "up",
+                "out of",
+                "from"
+            ],
+            "correct": 1,
+            "id": "d2742f08c3db4f0ebb5066b6edcd5f26"
+        },
+        {
+            "question": "Give me a complete ………………………… of all the supplies you need.",
+            "description": "Breakdown can mean categorization or itemized list. Break down is a verb.",
+            "answers": [
+                "break down",
+                "breakdown"
+            ],
+            "correct": 1,
+            "id": "bbbf5c9fdf9547a9a01855bc4871c613"
+        },
+        {
+            "question": "The argument between the friends led to their ……………………..",
+            "description": "Breakup is a noun. It means separation or split.",
+            "answers": [
+                "break up",
+                "breakup",
+                "break out"
+            ],
+            "correct": 1,
+            "id": "48a0a232ba86410bacef14181848d2d2"
+        },
+        {
+            "question": "The train had a ………………………. outside of Seattle.",
+            "description": "Breakdown can mean failure or collapse. Break down is a verb.",
+            "answers": [
+                "break down",
+                "breakdown"
+            ],
+            "correct": 1,
+            "id": "d2f71e2d04eb4af39a241bce88dc2f87"
+        },
+        {
+            "question": "It is so cold you can see your ……………………",
+            "description": "Breath is a noun. It is the air from your lungs.",
+            "answers": [
+                "breath",
+                "breathe",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "0bee2ba0322e4a3e82708a341552f1c6"
+        },
+        {
+            "question": "You only have to ……………………….. that clear mountain air to feel rejuvenated.",
+            "description": "Breathe is a verb. To breathe is to inhale and exhale.",
+            "answers": [
+                "breath",
+                "breathe",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f3980ddee1524678b306da3460a517e4"
+        },
+        {
+            "question": "I ……………………….. my hand while making soup.",
+            "description": "Burned and burnt are both correct as the past tense and past participle of burn.",
+            "answers": [
+                "burnt",
+                "burned",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "cb041de6c1604b68914b508a37b94d3b"
+        },
+        {
+            "question": "No one will eat that ……………………. cake.",
+            "description": "Only burnt can be used as an adjective. ",
+            "answers": [
+                "burnt",
+                "burned",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "f338a1209e38431e9a547a8c2b4dd68e"
+        },
+        {
+            "question": "The burning building gave ...................................... an eerie light.",
+            "description": "Give off can mean emit. ",
+            "answers": [
+                "up",
+                "in",
+                "off"
+            ],
+            "correct": 2,
+            "id": "78da2fdfa49343c6833f20f53fccbc8a"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "id": "9e06ab3236c54bc1bb573087332b6067",
+    "title": "English Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "Is baldness ………………………..?",
+            "description": "Hereditary means inherited or inborn.",
+            "answers": [
+                "heredity",
+                "hereditary"
+            ],
+            "correct": 1,
+            "id": "68f8713a67c94b2790f60d4f84510069"
+        },
+        {
+            "question": "It was a ………………………… group of rich and poor, old and young.",
+            "description": "Heterogeneous means mixed.",
+            "answers": [
+                "homogeneous",
+                "heterogeneous",
+                "humongous"
+            ],
+            "correct": 1,
+            "id": "dd861fc4c9774e64baad5b07064f7059"
+        },
+        {
+            "question": "A …………………………. of food was found in the cave.",
+            "description": "Hoard means an accumulation saved for future.",
+            "answers": [
+                "hoard",
+                "horde",
+                "herd"
+            ],
+            "correct": 0,
+            "id": "16c9319aee87492199e19f644a5d58ac"
+        },
+        {
+            "question": "A …………………………..of Tatars invaded Europe.",
+            "description": "Horde means crowd.",
+            "answers": [
+                "hoard",
+                "horde",
+                "herd"
+            ],
+            "correct": 1,
+            "id": "fd1f17b77d8b4d7ba9b149b2054c22c5"
+        },
+        {
+            "question": "The radio audience was …………………………. into believing that Martians had landed.",
+            "description": "Hoaxed means tricked.",
+            "answers": [
+                "hoaxed",
+                "coaxed"
+            ],
+            "correct": 0,
+            "id": "478b518b8eca45188c7884d80a54d6c1"
+        },
+        {
+            "question": "…………………………… the horse so it won’t run away.",
+            "description": "Hobble means bind.",
+            "answers": [
+                "Hobble",
+                "Cobble"
+            ],
+            "correct": 0,
+            "id": "ba0c03a067e142a0ae2c87fe81ad3c3f"
+        },
+        {
+            "question": "They ……………………………… the child to drink the milk.",
+            "description": "To coax is to talk somebody into doing something.",
+            "answers": [
+                "hoaxed",
+                "coaxed"
+            ],
+            "correct": 1,
+            "id": "421d057c5f924c76bf46c96d94c5fca1"
+        },
+        {
+            "question": "The revolt was ……………………………….. by troops loyal to the king.",
+            "description": "To foil is to thwart.",
+            "answers": [
+                "soiled",
+                "foiled",
+                "coiled"
+            ],
+            "correct": 1,
+            "id": "cc4079d816b143548b421c0382e11667"
+        },
+        {
+            "question": "The …………………………. man never takes a cab when he can walk.",
+            "description": "",
+            "answers": [
+                "frugal",
+                "spendthrift"
+            ],
+            "correct": 0,
+            "id": "056284f2ae3f47ee907aa4a08619e763"
+        },
+        {
+            "question": "Let’s have a simple wedding with as little …………………………….. as possible.",
+            "description": "Fuss means pomp.",
+            "answers": [
+                "fuss",
+                "fuzz"
+            ],
+            "correct": 0,
+            "id": "f54bd38088fe497a9c14f27e9883e847"
+        },
+        {
+            "question": "The pilgrims came to America after being ……………………………… for their religious beliefs.",
+            "description": "",
+            "answers": [
+                "prosecuted",
+                "persecuted"
+            ],
+            "correct": 1,
+            "id": "08dc39f6b87246abac88b77f9ad31450"
+        },
+        {
+            "question": "He was ………………………….. for murder.",
+            "description": "To prosecute is to indict.",
+            "answers": [
+                "persecuted",
+                "prosecuted"
+            ],
+            "correct": 1,
+            "id": "fed14d009d7640288f4500796622c925"
+        }
+    ]
+}

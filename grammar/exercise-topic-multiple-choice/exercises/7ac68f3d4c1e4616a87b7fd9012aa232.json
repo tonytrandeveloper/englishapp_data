@@ -1,0 +1,133 @@
+{
+    "id": "7ac68f3d4c1e4616a87b7fd9012aa232",
+    "title": "Idiomatic Expressions",
+    "questions": [
+        {
+            "question": "She is oily ..................... but she does not have a kind heart.",
+            "description": "Oily tongued means excessively smooth-spoken",
+            "answers": [
+                "skinned",
+                "tongued"
+            ],
+            "correct": 1,
+            "id": "b442afae60a94b8ea37cc84c7f095de3"
+        },
+        {
+            "question": "‘Can I borrow some milk?’ ‘Why not? We have ...................... and some to spare.’",
+            "description": "To have more than enough.",
+            "answers": [
+                "a lot",
+                "enough",
+                "much"
+            ],
+            "correct": 1,
+            "id": "018f310f297640d0ad910670c9419f16"
+        },
+        {
+            "question": "Don’t depend on him. He is a man of ..............................",
+            "description": "Used to refer to a person who has a weak character",
+            "answers": [
+                "feather",
+                "straw",
+                "red"
+            ],
+            "correct": 1,
+            "id": "09fb05be618044e18e62afb55fcc2ec2"
+        },
+        {
+            "question": "We were already going through a financial crisis so dad's illness was a bolt from the ……………………….",
+            "description": "A sudden and unexpected event that is usually harmful.",
+            "answers": [
+                "sky",
+                "hell",
+                "blue"
+            ],
+            "correct": 2,
+            "id": "42c8d4988c2743229d7893157b634320"
+        },
+        {
+            "question": "Her refusal to answer his phone calls was a red rag to the .........................",
+            "description": "An act or utterance that is going to provoke someone.",
+            "answers": [
+                "tiger",
+                "elephant",
+                "bull"
+            ],
+            "correct": 2,
+            "id": "0220bca0f6dd4b989fc5bc89630b24bd"
+        },
+        {
+            "question": "After wasting two hours searching for the cat, we realized we were on a wild ........................... chase.",
+            "description": "A wild goose chase is a search that is completely unsuccessful.",
+            "answers": [
+                "cat",
+                "goose",
+                "crow"
+            ],
+            "correct": 1,
+            "id": "e22a29f372dd4936801a9ddc2abc87be"
+        },
+        {
+            "question": "When the business failed, years of hard work went up in ...........................",
+            "description": "",
+            "answers": [
+                "vain",
+                "smoke",
+                "smog"
+            ],
+            "correct": 1,
+            "id": "cf65f3c997834d1f8b1a8466a0336c6c"
+        },
+        {
+            "question": "He is every ......................... a gentleman.",
+            "description": "Every inch means thoroughly.",
+            "answers": [
+                "ounce",
+                "pound",
+                "inch"
+            ],
+            "correct": 2,
+            "id": "058c2f26ab8e4beca6ed71a9ff083d58"
+        },
+        {
+            "question": "He thinks he is highly influential but he is actually a big ....................... in a small pond.",
+            "description": "When you are a big fish in a small pond, you have a lot of influence only over a small area.",
+            "answers": [
+                "turtle",
+                "frog",
+                "fish"
+            ],
+            "correct": 2,
+            "id": "c671c2badd824ca6bc0c59eb4ea1bce6"
+        },
+        {
+            "question": "Giving advice to this worthless fellow is like casting pearls before a .........................",
+            "description": "To cast pearls before a swine is to talk wisely to fools.",
+            "answers": [
+                "dog",
+                "monkey",
+                "swine"
+            ],
+            "correct": 2,
+            "id": "9a6d187e38564e62ab19191ba7f3ae62"
+        },
+        {
+            "question": "He is a tough guy and will weather any ……………………….",
+            "description": "To weather a storm is to face difficulties. ",
+            "answers": [
+                "tornado",
+                "hurricane",
+                "storm"
+            ],
+            "correct": 2,
+            "id": "ce5b84619ee245f6afdea8d2d8385c68"
+        },
+        {
+            "question": "",
+            "description": "",
+            "answers": [],
+            "correct": 0,
+            "id": "c6bfc391c6e544e3aa82987c7fb594c6"
+        }
+    ]
+}

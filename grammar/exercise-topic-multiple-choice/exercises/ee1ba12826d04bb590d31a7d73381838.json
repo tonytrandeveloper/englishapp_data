@@ -1,0 +1,133 @@
+{
+    "id": "ee1ba12826d04bb590d31a7d73381838",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "I told him ................................. be late.",
+            "description": "We put not before the infinitive. ",
+            "answers": [
+                "to not",
+                "not to"
+            ],
+            "correct": 1,
+            "id": "2de138a65a614342868c41a933235d13"
+        },
+        {
+            "question": "The teacher asked us .................................. our assignments.",
+            "description": "Imperatives are reported with a to-infinitive. ",
+            "answers": [
+                "that we submit",
+                "to submit"
+            ],
+            "correct": 1,
+            "id": "98a8420e111947dabcfed86ddc857c75"
+        },
+        {
+            "question": "She asked me if I ..................................... her before.",
+            "description": "",
+            "answers": [
+                "saw",
+                "have seen",
+                "had seen"
+            ],
+            "correct": 2,
+            "id": "203916be4fd94ae2b73b40363eb0dbb0"
+        },
+        {
+            "question": "He told us ...................................... on time.",
+            "description": "Imperatives are reported with to-infinitive. ",
+            "answers": [
+                "that be",
+                "to be"
+            ],
+            "correct": 1,
+            "id": "7f1419cd597f4715a4418188cb98c651"
+        },
+        {
+            "question": "He told me ......................................... for him.",
+            "description": "Imperatives are reported with to-infinitive. ",
+            "answers": [
+                "to wait",
+                "wait",
+                "waiting"
+            ],
+            "correct": 0,
+            "id": "0a98d77b0cb540c6910f4570315ff284"
+        },
+        {
+            "question": "The teacher asked if I ..................................... the answer.",
+            "description": "When the main verb is in the past tense, the subordinate verb, too, will most probably be in the past tense. ",
+            "answers": [
+                "know",
+                "knew",
+                "had known"
+            ],
+            "correct": 1,
+            "id": "66ebc9699bc94f8f82553c70350c0b63"
+        },
+        {
+            "question": "I asked the manager if I .................................. leave early.",
+            "description": "When the main verb is in the past tense, the subordinate verb, too, will most probably be in the past tense. ",
+            "answers": [
+                "can",
+                "could"
+            ],
+            "correct": 1,
+            "id": "d95c4183aa2841f5a4d14e4cc300f1f3"
+        },
+        {
+            "question": "They asked me ........................................ interested in the offer.",
+            "description": "We use the normal word order in indirect questions - that means the subject goes before the auxiliary. ",
+            "answers": [
+                "if was I",
+                "if I was"
+            ],
+            "correct": 1,
+            "id": "d87f2fef91c8408abaa79fe28a7fc118"
+        },
+        {
+            "question": "I told him ........................................ not coming.",
+            "description": "",
+            "answers": [
+                "that I was",
+                "that I am",
+                ""
+            ],
+            "correct": 0,
+            "id": "6ce4358c38874b4193dbf6796bde950b"
+        },
+        {
+            "question": "She said that no one .......................................... forward to help her.",
+            "description": "",
+            "answers": [
+                "came",
+                "had come",
+                "has come"
+            ],
+            "correct": 1,
+            "id": "c65e3870bf364d849e3050fff2aede46"
+        },
+        {
+            "question": "He asked me what I ...................................... do if I lost my job.",
+            "description": "When the main verb is in the past tense, the subordinate verb, too, will most probably be in the past tense. ",
+            "answers": [
+                "will",
+                "would",
+                "can"
+            ],
+            "correct": 1,
+            "id": "f7181ab1e02b4d6f9cc5c737dcd3f7ac"
+        },
+        {
+            "question": "They encouraged her .................................... another attempt.",
+            "description": "Encourage is followed by object + to-infinitive. ",
+            "answers": [
+                "make",
+                "to make",
+                "making"
+            ],
+            "correct": 1,
+            "id": "0edb996c6e694144afe80c2ec0b62500"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "id": "cc3eba41d4864b99944ed7e0a8d6bdfe",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "A man ——————– is dead needs no wealth or fame.",
+            "description": "",
+            "answers": [
+                "who",
+                "whose",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "75201510c9274dddb9d2fb831f4f9b8a"
+        },
+        {
+            "question": "I have been to the estate ———————- belongs to Kabir.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "1e0958129f594b87b32dd361203f2257"
+        },
+        {
+            "question": "He was the most successful writer ———————- lived at that time.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "efc7dfd8c05042588eecc544bc89cb86"
+        },
+        {
+            "question": "The smell ——————— comes from that room is very bad.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "what"
+            ],
+            "correct": 1,
+            "id": "8a453471b7194af28a3c80667dc91293"
+        },
+        {
+            "question": "This is the necklace ———————– belongs to my grandmother.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "b28c2e245b3e48beb3e4b19ff3214bef"
+        },
+        {
+            "question": "I saw a man ——————– was blind.",
+            "description": "",
+            "answers": [
+                "who",
+                "which",
+                "that"
+            ],
+            "correct": 0,
+            "id": "d9b6a1becc35486393af6af5fd6789a3"
+        },
+        {
+            "question": "She married an engineer —————- she met on a bus.",
+            "description": "Whom is possible here in an informal style. ",
+            "answers": [
+                "who",
+                "whom",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "d1392f454340437a955d93a828f79ddc"
+        },
+        {
+            "question": "These are the keys ———————- you were looking for.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "b85dc934660b4fea90b4ec35f78fee28"
+        },
+        {
+            "question": "The most important thing —————— Wycliffe and his friends accomplished was that they got the Bible translated into English.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "339f890b8b8740d88a773ba8e1fe8112"
+        }
+    ]
+}

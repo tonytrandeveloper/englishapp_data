@@ -1,0 +1,126 @@
+{
+    "id": "e1d048ffc9bf401a882f5748ad4d44bf",
+    "title": "By vs. With  Exercise",
+    "questions": [
+        {
+            "question": "He was hit ....................... a heavy object.",
+            "description": "Use by to indicate the agent. Use with to refer to the instrument used to perform the action. ",
+            "answers": [
+                "by",
+                "with"
+            ],
+            "correct": 1,
+            "id": "3cf889530d054046947b8c68d6a58056"
+        },
+        {
+            "question": "He was hit .......................... a speeding car.",
+            "description": "Use by to indicate the agent. Use with to refer to the instrument used to perform the action. ",
+            "answers": [
+                "with",
+                "by"
+            ],
+            "correct": 1,
+            "id": "646bc93912604714a757db659367352a"
+        },
+        {
+            "question": "The cat was run over ........................... a car.",
+            "description": "Use by to indicate the agent. Use with to refer to the instrument used to perform the action. ",
+            "answers": [
+                "by",
+                "with"
+            ],
+            "correct": 0,
+            "id": "133ba5fda2d048c581ddaed5faf05866"
+        },
+        {
+            "question": "The spider was killed ......................... a stone.",
+            "description": "Use by to indicate the agent. Use with to refer to the instrument used to perform the action. ",
+            "answers": [
+                "by",
+                "with"
+            ],
+            "correct": 1,
+            "id": "90d2c7e292344184a7d43059fb81c3cc"
+        },
+        {
+            "question": "The building was destroyed ............................. fire.",
+            "description": "",
+            "answers": [
+                "by",
+                "with"
+            ],
+            "correct": 0,
+            "id": "5aa1301a4ea3477db886b00ae02f846b"
+        },
+        {
+            "question": "The winners were praised ............................ the teachers.",
+            "description": "Use by to indicate the agent. Use with to refer to the instrument used to perform the action. ",
+            "answers": [
+                "by",
+                "with"
+            ],
+            "correct": 0,
+            "id": "8f2fe021b8a94daf8ca1c23ef5a84df8"
+        },
+        {
+            "question": "The class was packed ............................... students.",
+            "description": "Use by to indicate the agent. Use with to refer to the instrument used to perform the action. ",
+            "answers": [
+                "by",
+                "with"
+            ],
+            "correct": 1,
+            "id": "f22e857ea0844867968873f06ab80e5a"
+        },
+        {
+            "question": "He was covered ........................... a blanket.",
+            "description": "Use by to indicate the agent. Use with to refer to the instrument used to perform the action. ",
+            "answers": [
+                "by",
+                "with"
+            ],
+            "correct": 1,
+            "id": "fdc5d812e47042958ace7ab0dd872f45"
+        },
+        {
+            "question": "The tree was cut down ........................... a chainsaw.",
+            "description": "Use by to indicate the agent. Use with to refer to the instrument used to perform the action. ",
+            "answers": [
+                "by",
+                "with"
+            ],
+            "correct": 1,
+            "id": "ad16ffcfaadf460a8a93483f50f58007"
+        },
+        {
+            "question": "I was interrupted .................................. her.",
+            "description": "Use by to indicate the agent. Use with to refer to the instrument used to perform the action. ",
+            "answers": [
+                "with",
+                "by"
+            ],
+            "correct": 1,
+            "id": "21213fcc3db640e9a07a0f962aa2ca91"
+        },
+        {
+            "question": "The suspect was interrogated .............................. the police.",
+            "description": "Use by to indicate the agent. Use with to refer to the instrument used to perform the action. ",
+            "answers": [
+                "with",
+                "by"
+            ],
+            "correct": 1,
+            "id": "66010e4dc87d4d8691e0b8a0fbff46d4"
+        },
+        {
+            "question": "We were taught ............................. a native speaker.",
+            "description": "",
+            "answers": [
+                "with",
+                "by"
+            ],
+            "correct": 1,
+            "id": "f80b97dc615846638e7098e86d17fbc2"
+        }
+    ]
+}

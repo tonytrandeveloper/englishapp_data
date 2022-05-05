@@ -1,0 +1,76 @@
+{
+    "id": "760805012fcc4a1e8465d8c72396db0b",
+    "title": "Indirect Questions Exercise",
+    "questions": [
+        {
+            "question": "I would like to know what ...................................",
+            "description": "",
+            "answers": [
+                "are your plans",
+                "your plans are"
+            ],
+            "correct": 1,
+            "id": "3e7b0cd02ed145cebefe63833de7a09c"
+        },
+        {
+            "question": "She wondered why ...................................... to sign the papers.",
+            "description": "",
+            "answers": [
+                "did I refuse",
+                "I refused"
+            ],
+            "correct": 1,
+            "id": "e05b34f98d6d4709934747acfacc8b69"
+        },
+        {
+            "question": "Tell me what ..................................... by that.",
+            "description": "",
+            "answers": [
+                "did you mean",
+                "you mean"
+            ],
+            "correct": 1,
+            "id": "64e4036ad21741a1bdb432f6f5480c4f"
+        },
+        {
+            "question": "Can you tell me whether ......................................... dependable?",
+            "description": "",
+            "answers": [
+                "he is",
+                "is he"
+            ],
+            "correct": 0,
+            "id": "1fde203baad74107a6a810bf4d116db0"
+        },
+        {
+            "question": "He wants to know why ...................................... like him.",
+            "description": "",
+            "answers": [
+                "doesn't she",
+                "she doesn't"
+            ],
+            "correct": 1,
+            "id": "b6886a01349e4a88b1495bf52bff256e"
+        },
+        {
+            "question": "She asked me what ................................... then.",
+            "description": "",
+            "answers": [
+                "did I",
+                "I did"
+            ],
+            "correct": 1,
+            "id": "b4d124ddbfb1482a8eca9c6f0f1dc788"
+        },
+        {
+            "question": "He asked me why ........................................ crying.",
+            "description": "",
+            "answers": [
+                "I was",
+                "was I"
+            ],
+            "correct": 0,
+            "id": "aecb3cf011f2456b9dd481e821975a5f"
+        }
+    ]
+}

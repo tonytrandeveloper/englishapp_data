@@ -1,0 +1,138 @@
+{
+    "id": "4d5e29253d6d4f23be0fdb7e7ff427fd",
+    "title": "Verbs With And Without Prepositions",
+    "questions": [
+        {
+            "question": "Have you …………….. the fee yet?",
+            "description": "You pay for something that is bought.",
+            "answers": [
+                "paid",
+                "paid for",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "dad3ecf015774348ae6c712ac4639d4e"
+        },
+        {
+            "question": "Samuel ……………… my drinks.",
+            "description": "You pay for something that is bought.",
+            "answers": [
+                "paid",
+                "paid for",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "03673520eb79471698b47a1eebb6902d"
+        },
+        {
+            "question": "They ……………. the house but they could not find the weapon.",
+            "description": "When search is used without for, it means ‘look everywhere in/on’.",
+            "answers": [
+                "searched",
+                "searched for",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "594fbb879861460e8c57b68a47a89641"
+        },
+        {
+            "question": "What are you ………………….. in my room?",
+            "description": "To search for is to look for.",
+            "answers": [
+                "searching",
+                "searching for",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "b2f7be8a21b64a338e578735efa24a66"
+        },
+        {
+            "question": "When we ……………… the church everybody stopped talking.",
+            "description": "Enter is used without a preposition when it means ‘enter a place’.",
+            "answers": [
+                "entered",
+                "entered into",
+                "entered at"
+            ],
+            "correct": 0,
+            "id": "0f3012ffef1d49628ed6c4751c0dd244"
+        },
+        {
+            "question": "We have just ………………… an agreement with them.",
+            "description": "",
+            "answers": [
+                "entered",
+                "entered into",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3256e123b6ec44638b885a0b33a51772"
+        },
+        {
+            "question": "They spent the whole afternoon ……………… music and movies.",
+            "description": "Discuss is used without a preposition.",
+            "answers": [
+                "discussing",
+                "discussing over",
+                "discussing about"
+            ],
+            "correct": 0,
+            "id": "52663d9d85bd48bdbda540ff733962c0"
+        },
+        {
+            "question": "We had a long ………………. money.",
+            "description": "The noun discussion is followed by the preposition about.",
+            "answers": [
+                "discussion",
+                "discussion about",
+                "discussion of"
+            ],
+            "correct": 1,
+            "id": "1731e573c1234a29b2bb7c6ec634ee1b"
+        },
+        {
+            "question": "Don’t ……………… money.",
+            "description": "To ask for is to ask somebody to give something.",
+            "answers": [
+                "ask me",
+                "ask me for",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3d8d2cd8d7c24b19b3d3845978eec98c"
+        },
+        {
+            "question": "Don’t ………………. her her name.",
+            "description": "Ask without for means ask somebody to tell something.",
+            "answers": [
+                "ask",
+                "ask for",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "a3883b122eb24c71be908b682e3b15dd"
+        },
+        {
+            "question": "You must not ………….. a word he says.",
+            "description": "Believe is used without for when it means accept as true.",
+            "answers": [
+                "believe",
+                "believe in",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "59e73e164e344e74a92148be3cce4003"
+        },
+        {
+            "question": "Do you ………………… life after death?",
+            "description": "To believe in something is to believe that it exists.",
+            "answers": [
+                "believe",
+                "believe in",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "ce5447c7650c4416be9a9ef24947a011"
+        }
+    ]
+}

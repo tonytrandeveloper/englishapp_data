@@ -1,0 +1,115 @@
+{
+    "id": "6324e64d8da34add84bbd91e835ce94b",
+    "title": "Conjunctions And Transitional Adverbs",
+    "questions": [
+        {
+            "question": "She was late …………………. we went without her.",
+            "description": "",
+            "answers": [
+                "as",
+                "so",
+                "thus"
+            ],
+            "correct": 1,
+            "id": "7ce378c87fc84ef58841e5674c2895e2"
+        },
+        {
+            "question": "………………… I fired at the tiger, he shook my arm.",
+            "description": "",
+            "answers": [
+                "As",
+                "Until",
+                "Because"
+            ],
+            "correct": 0,
+            "id": "8c5409c4d17144ac8e18cf88587a30f5"
+        },
+        {
+            "question": "I am glad ………………… tomorrow is a holiday.",
+            "description": "",
+            "answers": [
+                "though",
+                "so",
+                "because"
+            ],
+            "correct": 2,
+            "id": "5c7391de45e24a69b26a346eb1fc7dd0"
+        },
+        {
+            "question": "He was angry …………………. I said nothing.",
+            "description": "",
+            "answers": [
+                "so",
+                "therefore",
+                "hence"
+            ],
+            "correct": 0,
+            "id": "54e86977c8b540b0a700457bd8f7765d"
+        },
+        {
+            "question": "Vegetables are essential for good health ………………… you must include them in your diet.",
+            "description": "",
+            "answers": [
+                "as",
+                "since",
+                "therefore"
+            ],
+            "correct": 2,
+            "id": "db4b72276d1846b285fdd1ea1e561bfb"
+        },
+        {
+            "question": "………………… you lose your job, what will you do?",
+            "description": "",
+            "answers": [
+                "If",
+                "Supposing",
+                "Supposing if"
+            ],
+            "correct": 1,
+            "id": "5a333e44160140a3acc8ca2b2f6a9b7a"
+        },
+        {
+            "question": "He must be punished ………………… he does not try.",
+            "description": "",
+            "answers": [
+                "unless",
+                "so long as"
+            ],
+            "correct": 1,
+            "id": "8fb50a252bd14d2f86d41e3841b66b3f"
+        },
+        {
+            "question": "He is intelligent ………………….. he gets good marks.",
+            "description": "",
+            "answers": [
+                "so",
+                "as",
+                "because"
+            ],
+            "correct": 0,
+            "id": "9ba2621ff883442ab5139637696e7320"
+        },
+        {
+            "question": "…………………. he was late he missed the train.",
+            "description": "",
+            "answers": [
+                "So",
+                "Therefore",
+                "Because"
+            ],
+            "correct": 2,
+            "id": "17f8e370655b4d52ba4a184830e07473"
+        },
+        {
+            "question": "There was a big argument about ………………. we should sell our new house.",
+            "description": "",
+            "answers": [
+                "if",
+                "weather",
+                "whether"
+            ],
+            "correct": 2,
+            "id": "e0d4ee0976984588b1c583a8f30ae3c5"
+        }
+    ]
+}

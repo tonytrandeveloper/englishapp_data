@@ -1,0 +1,60 @@
+{
+    "id": "f62d9b7112d340a6a4c32569594730c3",
+    "title": "Sentence Improvement Exercise",
+    "questions": [
+        {
+            "question": "In the United States alone more than 40,000 people die every year in car accidents and hundreds of thousands more ..................................... personal and financial injury.",
+            "description": "",
+            "answers": [
+                "have suffered",
+                "are suffering",
+                "suffer"
+            ],
+            "correct": 2,
+            "id": "59e36219b038431abdcbeb04670865cc"
+        },
+        {
+            "question": "No matter how efficient, how safe or how .........................................., trains cannot offer the thrill and sense of empowerment provided by the car.",
+            "description": "",
+            "answers": [
+                "inexpensive they are",
+                "inexpensive are they",
+                "inexpensive are"
+            ],
+            "correct": 0,
+            "id": "23487013f06a4d5b9b8846a85586eac0"
+        },
+        {
+            "question": "Though their intelligence and ..................................... long lifespan are traits shared by the other great primates, the social behavior and general lifestyle of orangutans are quite different.",
+            "description": "",
+            "answers": [
+                "relative",
+                "relatively"
+            ],
+            "correct": 1,
+            "id": "4e6c20eb1c55424baa40b68b1ec42184"
+        },
+        {
+            "question": "........................................ made Jack Kerouac the most celebrated member of the Beat Generation were his autobiographical novels and wayward travels.",
+            "description": "",
+            "answers": [
+                "What",
+                "That",
+                "Which"
+            ],
+            "correct": 0,
+            "id": "b6c00a09acca4b19a0ccba6699313497"
+        },
+        {
+            "question": "The Romans perfected the art of building arch bridges and ......................................... them throughout the Roman Empire.",
+            "description": "",
+            "answers": [
+                "build",
+                "built",
+                "were building"
+            ],
+            "correct": 1,
+            "id": "74cfd8d018a44d0492ac5aebeb317893"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "id": "b91fb8bff4ad404fb5f5f18487ea9c80",
+    "title": "As Well As",
+    "questions": [
+        {
+            "question": "She is greedy …………………………… dishonest.",
+            "description": "As well as is similar to both...and..",
+            "answers": [
+                "and",
+                "as well as",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "f22258a3749345ea944023f9397b40af"
+        },
+        {
+            "question": "The cow as well as the goat ……………………….. us milk.",
+            "description": "When we connect two singular nouns with as well as, the verb is singular.",
+            "answers": [
+                "give",
+                "gives"
+            ],
+            "correct": 1,
+            "id": "0ccdf868c09a4f34846f81b3b2f19fc7"
+        },
+        {
+            "question": "The thief as well as his helper ……………………………. caught.",
+            "description": "When we connect two singular nouns with as well as, the verb is singular.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "2a4179da4a4a4d358300d4f84dcdc55e"
+        },
+        {
+            "question": "She is beautiful …………………………… intelligent.",
+            "description": "",
+            "answers": [
+                "but also",
+                "and",
+                "as well as"
+            ],
+            "correct": 2,
+            "id": "a29233b857ec45baa455688500483953"
+        },
+        {
+            "question": "The teachers as well as the principal …………………………….. there.",
+            "description": "When you connect a plural and a singular noun with as well as, the verb agrees with the first subject in number.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "6fa4d46ad1f64b3682b978023a29459d"
+        },
+        {
+            "question": "Sam as well as his friends ……………………………. arrived.",
+            "description": "When you connect a plural and a singular noun with as well as, the verb agrees with the first subject in number.",
+            "answers": [
+                "has",
+                "have",
+                ""
+            ],
+            "correct": 0,
+            "id": "4cce3c7e743d421f96dec6a6974b0b4a"
+        },
+        {
+            "question": "Mira as well as Rina ……………………………… gone to the movies.",
+            "description": "When we connect two singular nouns with as well as, the verb is singular.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "2503f05b59fd41b380b00b02efebbd5a"
+        },
+        {
+            "question": "Animals as well as plants …………………………….. food and water.",
+            "description": "",
+            "answers": [
+                "need",
+                "needs"
+            ],
+            "correct": 0,
+            "id": "91b8c9ac37a9418bb0bf9b1e2f12c63b"
+        },
+        {
+            "question": "Elephants are found in India …………………………… in Africa.",
+            "description": "",
+            "answers": [
+                "and",
+                "as well as"
+            ],
+            "correct": 1,
+            "id": "1c07235763304262b7e03fee5e42172b"
+        },
+        {
+            "question": "Small plants as well as big trees ……………………………. perished in the drought.",
+            "description": "",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "6fc63dd77db74f4e85e3de34959b6d61"
+        },
+        {
+            "question": "Sonia as well as her parents ........................................ been invited.",
+            "description": "",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "854b1d7f9978483182f34293f41b0d90"
+        }
+    ]
+}

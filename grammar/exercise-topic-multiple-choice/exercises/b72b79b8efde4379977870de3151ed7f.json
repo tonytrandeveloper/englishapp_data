@@ -1,0 +1,137 @@
+{
+    "id": "b72b79b8efde4379977870de3151ed7f",
+    "title": "Simple Present, Present Continuous Or Simple Future",
+    "questions": [
+        {
+            "question": "Dad ………………………. tomorrow.",
+            "description": "The present continuous is commonly used to talk about future events which have already been planned or decided.",
+            "answers": [
+                "leaves",
+                "will leave",
+                "is leaving"
+            ],
+            "correct": 2,
+            "id": "ef884c3d5bf74a31bf1dede06cfd3369"
+        },
+        {
+            "question": "The next term ………………………… on Monday.",
+            "description": "The simple present is used to talk about time tabled future events.",
+            "answers": [
+                "begins",
+                "will begin",
+                "is beginning"
+            ],
+            "correct": 0,
+            "id": "089d79f16abd46d4864efe8d741ad2cc"
+        },
+        {
+            "question": "I ……………………… into a new home toward the end of this year.",
+            "description": "We use the simple future to talk about future events which are not already decided.",
+            "answers": [
+                "move",
+                "will probably move",
+                "am probably moving"
+            ],
+            "correct": 1,
+            "id": "f74aeabb208942a789c615eeaef0d154"
+        },
+        {
+            "question": "I think we ……………………….",
+            "description": "We use the simple future to talk about future events which are not already decided.",
+            "answers": [
+                "win",
+                "will win",
+                "are winning"
+            ],
+            "correct": 1,
+            "id": "2e4da12161584c5eb57d9d9fde2ee64f"
+        },
+        {
+            "question": "We ………………………….. to the countryside.",
+            "description": "The present continuous is commonly used to talk about future events which have already been planned or decided.",
+            "answers": [
+                "move",
+                "will move",
+                "are moving"
+            ],
+            "correct": 2,
+            "id": "0b95a2834d9846e5b6196a42928e2cb5"
+        },
+        {
+            "question": "Rahul and Priya ………………………….. married next year.",
+            "description": "",
+            "answers": [
+                "get",
+                "will get",
+                "are getting"
+            ],
+            "correct": 2,
+            "id": "648d2f84e70b44779b32edea72efb7ec"
+        },
+        {
+            "question": "If you say that word again, I ……………………… you.",
+            "description": "",
+            "answers": [
+                "hit",
+                "will hit",
+                "am hitting"
+            ],
+            "correct": 1,
+            "id": "f70f6a8bd6f0410fa826a26fada83e13"
+        },
+        {
+            "question": "I ………………………… here until you return.",
+            "description": "Shall and will are common in offers, threats, promises and announcements of decisions.",
+            "answers": [
+                "wait",
+                "will wait",
+                "am waiting"
+            ],
+            "correct": 1,
+            "id": "56157ab061754688aad6afe9e9d08dce"
+        },
+        {
+            "question": "……………………………  I turn the heating on?",
+            "description": "",
+            "answers": [
+                "Will",
+                "Shall"
+            ],
+            "correct": 1,
+            "id": "7250902c73a944428fe4b3789725ccd5"
+        },
+        {
+            "question": "It ………………………….. in the evening.",
+            "description": "",
+            "answers": [
+                "probably rain",
+                "will probably rain",
+                "is probably raining"
+            ],
+            "correct": 1,
+            "id": "a88bfb72d27c4680878ac781fd3ac92c"
+        },
+        {
+            "question": "Look at the sky. It ………………………….. rain.",
+            "description": "",
+            "answers": [
+                "go to",
+                "is going to",
+                "will go to"
+            ],
+            "correct": 1,
+            "id": "6a485b630bf5448b9a8c76ff217a6a16"
+        },
+        {
+            "question": "You …………………………… out what happened to her.",
+            "description": "",
+            "answers": [
+                "will never find",
+                "are never finding",
+                "never find"
+            ],
+            "correct": 0,
+            "id": "a84406df784c4435945d0c1db06d76c9"
+        }
+    ]
+}

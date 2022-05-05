@@ -1,0 +1,138 @@
+{
+    "id": "39a7ff3abfc34d628062ad2a2fe47828",
+    "title": "A, An Or The",
+    "questions": [
+        {
+            "question": "My son loves ………………………………",
+            "description": "We do not normally use the article the with plural and uncountable nouns when we are talking about people or things in general.",
+            "answers": [
+                "horses",
+                "a horses",
+                "the horses"
+            ],
+            "correct": 0,
+            "id": "d34ba0dd5a1244b89724016a47842192"
+        },
+        {
+            "question": "My sister is ……………………………..",
+            "description": "The article a/an is used for classifying people or things.",
+            "answers": [
+                "journalist",
+                "a journalist",
+                "the journalist"
+            ],
+            "correct": 1,
+            "id": "9a6ab987425641d4b834da0ae6aa3a70"
+        },
+        {
+            "question": "Please don’t use your nail as …………………………….. screwdriver.",
+            "description": "The article a/an is used for classifying people or things.",
+            "answers": [
+                "a",
+                "the",
+                "No article"
+            ],
+            "correct": 0,
+            "id": "985b570971df4b78bacb76f9ca15a856"
+        },
+        {
+            "question": "Can you recommend …………………………… good dentist?",
+            "description": "The article a/an is often used with a similar meaning to one.",
+            "answers": [
+                "a",
+                "the",
+                "No article"
+            ],
+            "correct": 0,
+            "id": "3b09cb92085745ad9108e7edfaf70f9f"
+        },
+        {
+            "question": "…………………………… must have patience.",
+            "description": "The article a/an can be used with the same meaning as any. ",
+            "answers": [
+                "Teacher",
+                "A teacher",
+                "The teacher"
+            ],
+            "correct": 1,
+            "id": "7b14c7fe7e844c75a5ea4140b11cc986"
+        },
+        {
+            "question": "……………………………… usually start talking at around 18 months old.",
+            "description": "No article is usually used with plural nouns when we are talking about people or things in general.",
+            "answers": [
+                "Children",
+                "The children",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d1c0bbd6c5eb4ebe83e635c8d2b4bfa9"
+        },
+        {
+            "question": "Did you lock ………………………………door?",
+            "description": "The article the is used here because the listener knows which door is meant.",
+            "answers": [
+                "a",
+                "the",
+                "No article"
+            ],
+            "correct": 1,
+            "id": "22a55632388e4433bf015fafa424bb9d"
+        },
+        {
+            "question": "We hired ………………………………… to go to Mangalore.",
+            "description": "The article a is used here because the listener does not know which taxi is meant.",
+            "answers": [
+                "taxi",
+                "a taxi",
+                "the taxi"
+            ],
+            "correct": 1,
+            "id": "95d994a51d2d4a61bd124754a36af7a7"
+        },
+        {
+            "question": "What did you do with ………………………………. vacuum cleaner I lent you?",
+            "description": "The article the is used here because the listener knows which vacuum cleaner is meant.",
+            "answers": [
+                "a",
+                "the",
+                "No article"
+            ],
+            "correct": 1,
+            "id": "f8a7fd37d5fb40c8853d6272ed211e1d"
+        },
+        {
+            "question": "Did you enjoy ……………………………….?",
+            "description": "The article the is used here because the listener knows which party is meant.",
+            "answers": [
+                "party",
+                "a party",
+                "the party"
+            ],
+            "correct": 2,
+            "id": "96b3175bd7ea4a9da8cb10d1dd328f1d"
+        },
+        {
+            "question": "I am ………………………………. youngest in my family.",
+            "description": "The article the is used before superlative adjectives. ",
+            "answers": [
+                "a",
+                "the",
+                "No article"
+            ],
+            "correct": 1,
+            "id": "2340013da34e4a28a63b1e3fb881b590"
+        },
+        {
+            "question": "We went to ……………………………… school.",
+            "description": "We usually use the article the with same. ",
+            "answers": [
+                "same",
+                "the same",
+                "a same"
+            ],
+            "correct": 1,
+            "id": "171ccaed9dc643bb9fe4748bb44fd7c1"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "b3d77bd6eb7c47298fefaa4fa9e27e5b",
+    "title": "Join With Conjunctions",
+    "questions": [
+        {
+            "question": "....................................... he was tired, he completed the work.",
+            "description": "",
+            "answers": [
+                "However",
+                "Despite",
+                "Although"
+            ],
+            "correct": 2,
+            "id": "ff110c7c232d459ab11d33013c41bea6"
+        },
+        {
+            "question": "....................................... hard he may try, he will not succeed.",
+            "description": "",
+            "answers": [
+                "However",
+                "Although",
+                "Even though"
+            ],
+            "correct": 0,
+            "id": "6282d8a8423e4fe09f0b31dd8885220c"
+        },
+        {
+            "question": "He talked about the Prime Minister .............................................. he had known him for years.",
+            "description": "",
+            "answers": [
+                "as",
+                "as if",
+                "asif"
+            ],
+            "correct": 1,
+            "id": "4865d1e8ec424c30afa4d85b0c25b814"
+        },
+        {
+            "question": "Some people speak ............................................... they knew everything.",
+            "description": "",
+            "answers": [
+                "as if",
+                "as",
+                "even if"
+            ],
+            "correct": 0,
+            "id": "faf70e2f30894d0d85d26ca52b52cdfa"
+        },
+        {
+            "question": "............................................. or not you like it, we are going ahead with the plan.",
+            "description": "",
+            "answers": [
+                "Whether",
+                "If"
+            ],
+            "correct": 0,
+            "id": "76fec8a40eb646c79158b9072d9a27bb"
+        },
+        {
+            "question": "............................................. you won a lottery, what would you do with the money?",
+            "description": "",
+            "answers": [
+                "Supposed",
+                "Supposing"
+            ],
+            "correct": 1,
+            "id": "c55fa0878fe44beca11a3e5f203af42a"
+        },
+        {
+            "question": "............................................... you give the respect due to others, you will not get respect.",
+            "description": "",
+            "answers": [
+                "Unless",
+                "If"
+            ],
+            "correct": 0,
+            "id": "8f377ddb7d414543b5d91ac688609653"
+        }
+    ]
+}

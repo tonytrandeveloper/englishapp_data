@@ -1,0 +1,134 @@
+{
+    "id": "6a6a5e9a4d484ce09c2ac767126a4a6a",
+    "title": "Pronouns Exercise",
+    "questions": [
+        {
+            "question": "She is younger than ……………………..",
+            "description": "Object pronouns are preferred after as and than. Subject pronouns are unusual unless they are accompanied by verbs. ",
+            "answers": [
+                "I",
+                "me",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "8d51c153f0324054aea95784541bab65"
+        },
+        {
+            "question": "She works hard to support ……………………… family.",
+            "description": "",
+            "answers": [
+                "her",
+                "hers",
+                "her's"
+            ],
+            "correct": 0,
+            "id": "48b66e0fd7d44356be07436221a6652d"
+        },
+        {
+            "question": "I never realized that …………………….. was making a mistake.",
+            "description": "A pronoun used as the subject of a verb should be in its subject form. ",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 0,
+            "id": "da7a62b9dc754e148701140b1d7a0037"
+        },
+        {
+            "question": "She asked ……………………… what …………………… wanted.",
+            "description": "A pronoun used as the verb should be in its object form. Here him is the object of the verb asked and he is the subject of the verb wanted. ",
+            "answers": [
+                "he, him",
+                "him, he",
+                "him, him"
+            ],
+            "correct": 1,
+            "id": "ad54ba5daaf94ba6bd783f912f40d297"
+        },
+        {
+            "question": "The young boy is eager to please ………………………. employer.",
+            "description": "",
+            "answers": [
+                "him",
+                "he",
+                "his"
+            ],
+            "correct": 2,
+            "id": "f5d11ff9cab64120a764e0920240916f"
+        },
+        {
+            "question": "What she said made no sense to ……………………..",
+            "description": "A pronoun used as the object of a preposition should be in its object form. ",
+            "answers": [
+                "I",
+                "me",
+                "mine"
+            ],
+            "correct": 1,
+            "id": "666fc9c4e16b4844bed06ee016e99d6f"
+        },
+        {
+            "question": "They took ………………………… to the doctor.",
+            "description": "Here him is the object of the verb took. ",
+            "answers": [
+                "he",
+                "him",
+                "his"
+            ],
+            "correct": 1,
+            "id": "c7708e429bbb472c827dccdbd73efbca"
+        },
+        {
+            "question": "I have known ……………………….. for a long time.",
+            "description": "They is a subject pronoun and them is an object pronoun. A pronoun used as the object of a verb should be in its object form. ",
+            "answers": [
+                "they",
+                "them"
+            ],
+            "correct": 1,
+            "id": "04368af620004d019bf42d830f0f825a"
+        },
+        {
+            "question": "This is my bag. Which one is ………………………….?",
+            "description": "Yours is the possessive form of you. ",
+            "answers": [
+                "your",
+                "yours"
+            ],
+            "correct": 1,
+            "id": "ef102a29d5dc464db124abcf75b71c58"
+        },
+        {
+            "question": "That red car is ………………………….",
+            "description": "",
+            "answers": [
+                "me",
+                "my",
+                "mine"
+            ],
+            "correct": 2,
+            "id": "d34f31ef9c084ef789c2e1cb0e03a9f3"
+        },
+        {
+            "question": "Whose bag is this? It is …………………………",
+            "description": "Her is an object pronoun hers is its possessive form.",
+            "answers": [
+                "her",
+                "hers"
+            ],
+            "correct": 1,
+            "id": "c1bcb0f90c134974977fc9eaa30ccdad"
+        },
+        {
+            "question": "He made …………………….. wait for hours.",
+            "description": "Me is the object form of the pronoun I. ",
+            "answers": [
+                "I",
+                "me",
+                "my"
+            ],
+            "correct": 1,
+            "id": "93ba7f0d0fdc48ee96e8bb6bb7fbbc13"
+        }
+    ]
+}

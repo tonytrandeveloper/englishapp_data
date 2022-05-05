@@ -1,0 +1,138 @@
+{
+    "id": "61b3b8e89bd147a9921a2e9573a69ef2",
+    "title": "English Grammar Exercise",
+    "questions": [
+        {
+            "question": "One day we ……………………………… colonize Mars.",
+            "description": "We cannot use can to talk about future ability. Instead we use will be able to.",
+            "answers": [
+                "can",
+                "could",
+                "will be able to"
+            ],
+            "correct": 2,
+            "id": "5a564e704e2c41de8c81481eb81db687"
+        },
+        {
+            "question": "She has no interest …………………………. politics.",
+            "description": "Interest is followed by the preposition in.",
+            "answers": [
+                "of",
+                "in",
+                "with"
+            ],
+            "correct": 1,
+            "id": "f619ba1be1864178a4dd743fda72e55f"
+        },
+        {
+            "question": "I was happy ……………………….. my old friends again.",
+            "description": "We use a to-infinitive after happy.",
+            "answers": [
+                "to see",
+                "seeing",
+                "to seeing"
+            ],
+            "correct": 0,
+            "id": "3709721a6e254219bde36e4caa001939"
+        },
+        {
+            "question": "Parents must discourage children ……………………………. unhealthy habits.",
+            "description": "We use from + ing form after discourage.",
+            "answers": [
+                "to develop",
+                "from develop",
+                "from developing"
+            ],
+            "correct": 2,
+            "id": "3801f5c5f6974c4297347bd4f4a4f1b3"
+        },
+        {
+            "question": "She is your neighbor, …………………………?",
+            "description": "We use a negative tag after an affirmative statement. ",
+            "answers": [
+                "is she",
+                "does she",
+                "isn't she"
+            ],
+            "correct": 2,
+            "id": "c846d8cb593f4577bf039e1931d47b94"
+        },
+        {
+            "question": "It was …………………………… that we did not go out.",
+            "description": "We use ‘so + adjective / adverb + article + noun’ in this pattern.",
+            "answers": [
+                "so cold day",
+                "so a cold day",
+                "so cold a day"
+            ],
+            "correct": 2,
+            "id": "7e896a6b744b4f6ca22fd1561eaaa708"
+        },
+        {
+            "question": "We were prevented ………………………… the class.",
+            "description": "",
+            "answers": [
+                "to enter",
+                "from entering",
+                "of entering"
+            ],
+            "correct": 1,
+            "id": "b60f9c82aa0242f3b02f52a7ef9ac37e"
+        },
+        {
+            "question": "It is time you …………………………… to home.",
+            "description": "We use a past tense with a present meaning after it is time.",
+            "answers": [
+                "go",
+                "went",
+                "have gone"
+            ],
+            "correct": 1,
+            "id": "6d07ec4ff571471f838c3ee4a28d77d9"
+        },
+        {
+            "question": "The driver was …………………………. injured in the accident.",
+            "description": "Fatally is the adverb. Deadly is an adjective.",
+            "answers": [
+                "deadly",
+                "dead",
+                "fatally"
+            ],
+            "correct": 2,
+            "id": "57395c5e257d431da7071d0d24de6e61"
+        },
+        {
+            "question": "I recommend ……………………….. go on a diet.",
+            "description": "We can use a that-clause after recommend. A to-infinitive is not possible.",
+            "answers": [
+                "for you to",
+                "that you",
+                "to"
+            ],
+            "correct": 1,
+            "id": "0f3fa2c0f595481d95c2e92dcb5d7430"
+        },
+        {
+            "question": "They made me …………………………. the whole story.",
+            "description": "We cannot use a to-infinitive after make.",
+            "answers": [
+                "to repeat",
+                "repeat",
+                "repeating"
+            ],
+            "correct": 1,
+            "id": "bdc73e4483984ec18301e611d9fef57b"
+        },
+        {
+            "question": "If I knew his real motive, I ………………………….. this.",
+            "description": "In the second conditional, we use a simple past in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "will not",
+                "would not",
+                "would not have"
+            ],
+            "correct": 1,
+            "id": "b7ccad37d6f94b89b547c30dcc5ca7a2"
+        }
+    ]
+}

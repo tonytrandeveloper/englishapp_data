@@ -1,0 +1,129 @@
+{
+    "id": "68a851654b8f431eaf2a1822a3bd6c25",
+    "title": "Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Each of these colors ………………………… you.",
+            "description": "Use a singular verb after each.",
+            "answers": [
+                "suit",
+                "suits"
+            ],
+            "correct": 1,
+            "id": "44098e32aa544bd9882c0e5f1f62d907"
+        },
+        {
+            "question": "……………………………. to the party.",
+            "description": "Both is not used with 'not'.",
+            "answers": [
+                "Neither went",
+                "Both didn't go"
+            ],
+            "correct": 0,
+            "id": "ebeb0e42615a4ef5bf9c8582e724e273"
+        },
+        {
+            "question": "All of my friends ……………………….. arrived.",
+            "description": "Use a plural verb after all.",
+            "answers": [
+                "has",
+                "have",
+                "are"
+            ],
+            "correct": 1,
+            "id": "e66a6c40f7fa4d18ad5c46e54bcaa202"
+        },
+        {
+            "question": "Each of these puppies …………………………. up for adoption.",
+            "description": "Use a singular verb after each.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "d422d5968f6545d2a517c689e26134b9"
+        },
+        {
+            "question": "Each of these roads ……………………….. to the station.",
+            "description": "",
+            "answers": [
+                "lead",
+                "leads"
+            ],
+            "correct": 1,
+            "id": "fa3ca06f08394803882b60de572764eb"
+        },
+        {
+            "question": "Everyone of them ………………………… present there.",
+            "description": "Use a singular verb after every, everyone, everybody.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "171bcbcbde0e495882335761d558b155"
+        },
+        {
+            "question": "Let …………………………. get going.",
+            "description": "Use the object form of the verb after let. ",
+            "answers": [
+                "we",
+                "us"
+            ],
+            "correct": 1,
+            "id": "8f3d0238b5cd42be93ca30502d15c0e1"
+        },
+        {
+            "question": "Your need is greater than ……………………………",
+            "description": "Mine means my need. ",
+            "answers": [
+                "my",
+                "me",
+                "mine"
+            ],
+            "correct": 2,
+            "id": "54b295f3b51d42c6aaab79daeb19a65c"
+        },
+        {
+            "question": "None of us ………………………….. seen him before.",
+            "description": "We usually use a singular verb after none. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "db30d92b0332426ba5213c644f1c3eec"
+        },
+        {
+            "question": "I like these …………………………… of movies.",
+            "description": "Use a plural expression after these and those.",
+            "answers": [
+                "kind",
+                "kinds"
+            ],
+            "correct": 1,
+            "id": "13c393e1946b45ee8e231e6c6086878e"
+        },
+        {
+            "question": "People starve when ………………………….. have no money.",
+            "description": "Use they to refer to people. ",
+            "answers": [
+                "they",
+                "we",
+                "you"
+            ],
+            "correct": 0,
+            "id": "74cb6b62351541f9936669c3a1e52f23"
+        },
+        {
+            "question": "Somebody wanted a drink, …………………………..?",
+            "description": "In question tags, use they to refer to somebody, anybody and nobody. ",
+            "answers": [
+                "did they",
+                "didn't they"
+            ],
+            "correct": 1,
+            "id": "ae0d97bc5f6f4ee88bb53361ce4cae2a"
+        }
+    ]
+}

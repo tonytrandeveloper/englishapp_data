@@ -1,0 +1,126 @@
+{
+    "id": "847f7c290fba4c8fb04308bc5d0b5420",
+    "title": "Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Janet and ………………… were present at the party.",
+            "description": "A pronoun used as the subject should be in its subject form.",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 0,
+            "id": "01c26ad1b90644678cd98cf9ff6a931e"
+        },
+        {
+            "question": "We are not as poor as …………………….",
+            "description": "Object pronouns are more common after as and than.",
+            "answers": [
+                "they",
+                "them"
+            ],
+            "correct": 1,
+            "id": "76d6a473d2c14c04b448b7462b5a4d75"
+        },
+        {
+            "question": "Let ……………………… answer the question.",
+            "description": "Let is a verb a pronoun used as the object of a verb should be in its object form.",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 1,
+            "id": "acf222d8541240d9b0827235b5054b40"
+        },
+        {
+            "question": "Between you and ……………………., I don’t trust him.",
+            "description": "A pronoun used as the object of a preposition should be in its object form.",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1,
+            "id": "9815017e76b74ac78a0a33842fda0d63"
+        },
+        {
+            "question": "We scored as many goals as ………………………..",
+            "description": "Object pronouns are more common after as and than.",
+            "answers": [
+                "they",
+                "them"
+            ],
+            "correct": 1,
+            "id": "6b86882cbd1448d9970a39da6a667dd9"
+        },
+        {
+            "question": "Please wait for Rahul and ……………………..",
+            "description": "A pronoun used as the object of a preposition should be in its object form.",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1,
+            "id": "5187b212b68b4c7a932a77f079fcd474"
+        },
+        {
+            "question": "Do you know who ……………………… is?",
+            "description": "A pronoun used as the subject of a verb should be in its subject form.",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 0,
+            "id": "c46e0657aca944aab1e5a91d615c0108"
+        },
+        {
+            "question": "It was …………………………. who did all this.",
+            "description": "",
+            "answers": [
+                "she",
+                "her"
+            ],
+            "correct": 0,
+            "id": "56bfa9e9c0714abc9d83f6d671a1fe25"
+        },
+        {
+            "question": "I love you more than ………………………..",
+            "description": "Object pronouns are more common after as and than.",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 1,
+            "id": "b42a37b90ea54b90915804c794abc553"
+        },
+        {
+            "question": "Nobody but ………………………. was present.",
+            "description": "Here him is the object of the preposition but. ",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 1,
+            "id": "5a09f4700fe24d568b93479128f54906"
+        },
+        {
+            "question": "They don’t know what ………………………. are doing.",
+            "description": "",
+            "answers": [
+                "they",
+                "them"
+            ],
+            "correct": 0,
+            "id": "528b027471b34e5ea293d2fa2dc77c10"
+        },
+        {
+            "question": "He has invited you and ……………………… to his party.",
+            "description": "",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1,
+            "id": "c9c65621e8e2422292c45d108e5e5f21"
+        }
+    ]
+}

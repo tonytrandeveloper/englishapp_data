@@ -1,0 +1,135 @@
+{
+    "id": "0b3722eef09f43f386675dabe8612e43",
+    "title": "Adjectives And Adverbs Exercise",
+    "questions": [
+        {
+            "question": "She worked ……………………….. and passed the examination.",
+            "description": "Hard is an adverb. Hardly is also an adverb, but it has a very different meaning. It is similar to scarcely. ",
+            "answers": [
+                "hard",
+                "hardly",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "e52c7793d21847829442977c998695ff"
+        },
+        {
+            "question": "I am …………………………… about this.",
+            "description": "Very is normally used without much before adjectives and adverbs.",
+            "answers": [
+                "very sorry",
+                "very much sorry",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ea98bcde95694649b09e94eeafba15e9"
+        },
+        {
+            "question": "The movie was ……………………….. interesting.",
+            "description": "Too has a negative meaning. It means more than is necessary or required. So and very are possible here.",
+            "answers": [
+                "very",
+                "so",
+                "too"
+            ],
+            "correct": 1,
+            "id": "bd8207da915a4d9bb4508b7cbf435a93"
+        },
+        {
+            "question": "He …………………………. his father closely.",
+            "description": "There is no preposition between resemble and its object.",
+            "answers": [
+                "resembles",
+                "resembles to",
+                "resembles with"
+            ],
+            "correct": 0,
+            "id": "fae3cf1e3fc74728b5eb3d8f956234ca"
+        },
+        {
+            "question": "Hardly ……………………………. any rest since one week.",
+            "description": "Hardly is a negative word. When a negative word or expression comes at the beginning of the sentence, it is followed by an inverted word order – that means the auxiliary goes before the subject.",
+            "answers": [
+                "I have had",
+                "have I had",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "262d5766dedf433a81cd5867b4788f05"
+        },
+        {
+            "question": "That boy does ………………………",
+            "description": "Mischief is an uncountable noun. We use much to modify it.",
+            "answers": [
+                "much mischief",
+                "many mischieves"
+            ],
+            "correct": 0,
+            "id": "08ae2b4305bd40ea8e461f9670bb2a8a"
+        },
+        {
+            "question": "He is getting ……………………….. day by day.",
+            "description": "Comparative form of the adjective is preferred here because there is an implied comparison between his present and previous states.",
+            "answers": [
+                "good",
+                "well",
+                "better"
+            ],
+            "correct": 2,
+            "id": "8d43e2e199274c60873e00a0ea1c8370"
+        },
+        {
+            "question": "If you disturb him, he ……………………………. get angry.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause.",
+            "answers": [
+                "will get",
+                "would get",
+                "would have got"
+            ],
+            "correct": 0,
+            "id": "c980398acf2341fcb681f7db2d61bfa2"
+        },
+        {
+            "question": "You had better …………………………… another application.",
+            "description": "Had better is followed by an infinitive without to.",
+            "answers": [
+                "send",
+                "sent",
+                "to send"
+            ],
+            "correct": 0,
+            "id": "6c45a99ea306438c8642857ba6e30c38"
+        },
+        {
+            "question": "…………………………… across the field, I saw a dead horse.",
+            "description": "",
+            "answers": [
+                "Walking",
+                "While walking",
+                "While I was walking"
+            ],
+            "correct": 2,
+            "id": "12364592002e4dd991752b3b5750330e"
+        },
+        {
+            "question": "Rome was ……………………… by Romulus.",
+            "description": "Found is the past and past participle form of find. Founded is the past participle form of found.",
+            "answers": [
+                "found",
+                "founded"
+            ],
+            "correct": 1,
+            "id": "75bad8f9643c4921823f8031dcf4ae9c"
+        },
+        {
+            "question": "His grandfather is ………………………….",
+            "description": "Dead is an adjective and died is a verb. We need an adjective here because 'is' is a verb of incomplete predication. ",
+            "answers": [
+                "died",
+                "dead"
+            ],
+            "correct": 1,
+            "id": "67455588cc774ed9b61be138c1e0b494"
+        }
+    ]
+}

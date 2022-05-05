@@ -1,0 +1,86 @@
+{
+    "id": "7a6600e0b3d0457294693d3e16dce5e9",
+    "title": "Transitive And Intransitive Verbs Exercise",
+    "questions": [
+        {
+            "question": "The horse walks. Walks is ....................................",
+            "description": "",
+            "answers": [
+                "transitive",
+                "intransitive"
+            ],
+            "correct": 1,
+            "id": "b921da9f8d454856864c33fb6fc1fa14"
+        },
+        {
+            "question": "The man walks the horse. Here walks is ......................................",
+            "description": "",
+            "answers": [
+                "transitive",
+                "intransitive"
+            ],
+            "correct": 0,
+            "id": "47322fe3c26e40609c37319164443f12"
+        },
+        {
+            "question": "The boys fly their kites. Here fly is ................................................",
+            "description": "",
+            "answers": [
+                "transitive",
+                "intransitive"
+            ],
+            "correct": 0,
+            "id": "da157292cc1245de88718a06a6f1d765"
+        },
+        {
+            "question": "Many trees fell in the storm. Here fell is .............................................",
+            "description": "",
+            "answers": [
+                "transitive",
+                "intransitive"
+            ],
+            "correct": 1,
+            "id": "51a4b178e3314707ad3203f47ffebfa7"
+        },
+        {
+            "question": "Woodcutters felled the trees. Here felled is ...........................................",
+            "description": "",
+            "answers": [
+                "transitive",
+                "intransitive"
+            ],
+            "correct": 0,
+            "id": "fa2173a85cb7426bb86aed13a061c52f"
+        },
+        {
+            "question": "Lay the basket on the table. Here lay is .............................................",
+            "description": "",
+            "answers": [
+                "transitive",
+                "intransitive"
+            ],
+            "correct": 0,
+            "id": "f2bd982c40924a5ab188fb3099a4b90f"
+        },
+        {
+            "question": "Rise early with the lark. Rise is ............................................",
+            "description": "",
+            "answers": [
+                "transitive",
+                "intransitive"
+            ],
+            "correct": 1,
+            "id": "eefdcc90171e4be8b35fbcb629489483"
+        },
+        {
+            "question": "Raise your hands. Raise is .............................................",
+            "description": "",
+            "answers": [
+                "transitive",
+                "intransitive"
+            ],
+            "correct": 0,
+            "id": "ff7c673332aa4fb4b28344afa7646f03"
+        }
+    ]
+}

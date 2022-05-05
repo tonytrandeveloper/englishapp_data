@@ -1,0 +1,196 @@
+{
+    "id": "881dd3ca9ab64a52a7d6c3631bf0d106",
+    "title": "Present Simple Spelling Changes",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "plays"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(play) tennis every Sunday."
+                }
+            ],
+            "id": "ae2c7c94cdc8495c92e9a7705cb505a9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "buys"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) a cup of coffee every morning."
+                }
+            ],
+            "id": "fe88459bd21d401086e3317f7e3ee35d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "studies"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) French at school."
+                }
+            ],
+            "id": "a9f07fce7b6d40cda6f35eedbc71aafe"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Luke"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "tries"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(try) hard to be polite."
+                }
+            ],
+            "id": "b2580f43df434f37a4272d5ef6a77478"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "enjoys"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(enjoy) going swimming."
+                }
+            ],
+            "id": "a075fa876ab34283a827b6021b78874f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "washes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(wash) her hair every day."
+                }
+            ],
+            "id": "0b86374d32df49ab87bbbcd8bf1b1ae4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John never"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "cries"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(cry)."
+                }
+            ],
+            "id": "9c1ec8598b704e37a46c2603a264cae2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My mother always"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "says"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(say) that love is more important than money."
+                }
+            ],
+            "id": "9c0632be58e64f8287bbf3c08a079824"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I hope Julie"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "passes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(pass) the exam."
+                }
+            ],
+            "id": "0ebc4a7639544ca19d13c04f5dc3364f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The plane"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "flies"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(fly) low over the airport."
+                }
+            ],
+            "id": "cf9dcf4caa5247bbbb7ace8793a0689f"
+        }
+    ]
+}

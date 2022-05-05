@@ -1,0 +1,138 @@
+{
+    "id": "4a2391711d6d4beca6df0aca99ecc94c",
+    "title": "Adjectives Exercise",
+    "questions": [
+        {
+            "question": "Have you bought …………………… mangoes?",
+            "description": "We use any in negative or interrogative sentences.",
+            "answers": [
+                "some",
+                "any",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "29a662ec95a243d094ae2eb52d80b31d"
+        },
+        {
+            "question": "Will you lend me ……………………. money?",
+            "description": "Some can be used in questions that express a command or request. ",
+            "answers": [
+                "any",
+                "some",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "4045e8a9a4024a92bd92ec945bafb8d6"
+        },
+        {
+            "question": "……………………… seat was taken.",
+            "description": "We use a singular noun after every.",
+            "answers": [
+                "Every",
+                "All",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d704001414364fefa76a1df611af89fa"
+        },
+        {
+            "question": "Five students are seated on ……………………..",
+            "description": "We use each before a singular noun. ",
+            "answers": [
+                "all bench",
+                "each bench",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "136edd42161a4da59c44aafe2b024870"
+        },
+        {
+            "question": "He visits us …………………….. three days.",
+            "description": "Every can be used before plural nouns that refer to intervals.",
+            "answers": [
+                "every",
+                "each",
+                "all"
+            ],
+            "correct": 0,
+            "id": "bbff4c0147d54d88ae8e37342cb97ca2"
+        },
+        {
+            "question": "He is not likely to recover. That means there is ………………….. hope of his recovery.",
+            "description": "Little means not much.",
+            "answers": [
+                "little",
+                "a little",
+                "the little"
+            ],
+            "correct": 0,
+            "id": "087161898e9549fd9d07a2430bc2f558"
+        },
+        {
+            "question": "He showed ……………………….. concern for me.",
+            "description": "Little means not much.",
+            "answers": [
+                "little",
+                "a little",
+                "the little"
+            ],
+            "correct": 0,
+            "id": "815084a7e3b9413e929218033d3e98b6"
+        },
+        {
+            "question": "……………………… tact would have saved the situation.",
+            "description": "A little means 'some though not much'.",
+            "answers": [
+                "Little",
+                "A little",
+                "The little"
+            ],
+            "correct": 1,
+            "id": "4030a480f4524e3480ae24c8edadf584"
+        },
+        {
+            "question": "………………………… knowledge is a dangerous thing.",
+            "description": "A little means 'some though not much'.",
+            "answers": [
+                "Little",
+                "A little",
+                "The little"
+            ],
+            "correct": 1,
+            "id": "07d9df757a23403dad8f7fbb49b5aa1d"
+        },
+        {
+            "question": "…………………….. grain we had was damaged in the rains.",
+            "description": "The little means not much but all that is there.",
+            "answers": [
+                "Little",
+                "A little",
+                "The little"
+            ],
+            "correct": 2,
+            "id": "fa101dd6d1d040dfb37b4e3581ad977d"
+        },
+        {
+            "question": "……………………… people are so hopeless as drunkards.",
+            "description": "Few means hardly any.",
+            "answers": [
+                "Few",
+                "A few",
+                "The few"
+            ],
+            "correct": 0,
+            "id": "973064c6acdd4f67b1ca1143f32bf8ff"
+        },
+        {
+            "question": "………………………. remarks that he made were very poignant.",
+            "description": "",
+            "answers": [
+                "Few",
+                "A few",
+                "The few"
+            ],
+            "correct": 2,
+            "id": "38045ab9452842d5b2e81e37a24534d3"
+        }
+    ]
+}

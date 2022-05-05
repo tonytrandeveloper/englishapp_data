@@ -1,0 +1,138 @@
+{
+    "id": "76758bf30d7d4c5d89ba1573ecf687a9",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "Where ……………………… your father ……………………?",
+            "description": "We use the simple present tense to ask about people’s jobs. ",
+            "answers": [
+                "do, work",
+                "does, work",
+                "are, working"
+            ],
+            "correct": 1,
+            "id": "62bf05590855420d9722b86ab0fd7639"
+        },
+        {
+            "question": "My sister ………………………… plays for television.",
+            "description": "We use the simple present tense to talk about people’s jobs.",
+            "answers": [
+                "write",
+                "writes",
+                "is writing"
+            ],
+            "correct": 1,
+            "id": "02b62cdd78774abbac20c0b12485287f"
+        },
+        {
+            "question": "…………………………. anything this weekend?",
+            "description": "We can use the present continuous to ask about arrangements.",
+            "answers": [
+                "Do you do",
+                "Are you doing",
+                "Will you doing"
+            ],
+            "correct": 1,
+            "id": "5c28b2af02ea442bbe56d35df817ba72"
+        },
+        {
+            "question": "Call me when you ……………………. time.",
+            "description": "In subordinate clauses we use a present tense to refer to the future.",
+            "answers": [
+                "have",
+                "will have",
+                "would have"
+            ],
+            "correct": 1,
+            "id": "5643ca135e534450aab84b36d1c359a0"
+        },
+        {
+            "question": "Prices are ………………………… soon.",
+            "description": "We do not normally use the present continuous to make predictions about events that are outside people’s control.",
+            "answers": [
+                "rising",
+                "going to rise",
+                "risen"
+            ],
+            "correct": 1,
+            "id": "cd8c169108c84a7a8443c6ed47711829"
+        },
+        {
+            "question": "You will soon have an accident if you …………………………… on driving like that.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause.",
+            "answers": [
+                "will go",
+                "go",
+                "goes"
+            ],
+            "correct": 1,
+            "id": "7e593f6f6ce04fd8b743fce5fa2b888a"
+        },
+        {
+            "question": "I ……………………….. you a laptop for your birthday.",
+            "description": "We use the simple future in promises.",
+            "answers": [
+                "will give",
+                "would give",
+                "give"
+            ],
+            "correct": 0,
+            "id": "17cbdf7941e94be38b7d6b0ba0642fbd"
+        },
+        {
+            "question": "…………………………. we go out for a meal?",
+            "description": "Questions with shall we or shall I are used to make suggestions.",
+            "answers": [
+                "Shall",
+                "Will",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "500b7eaccdd445e5894edcd91393af75"
+        },
+        {
+            "question": "I will pay you back when I ……………………….. a job.",
+            "description": "In subordinate clauses we use a present tense to refer to the future.",
+            "answers": [
+                "get",
+                "will get",
+                "would get"
+            ],
+            "correct": 0,
+            "id": "5ff14acf297543d6b9b94182f610b80f"
+        },
+        {
+            "question": "We ………………………….. the work by Monday.",
+            "description": "We use the present perfect to say that something will have been completed or finished by a certain time in the future.",
+            "answers": [
+                "will finish",
+                "will be finishing",
+                "will have finished"
+            ],
+            "correct": 2,
+            "id": "cd7bf55a144046d0bacefe469ae600f5"
+        },
+        {
+            "question": "I can’t play because I ……………………………. my leg.",
+            "description": "The present perfect is used to suggest that a finished action still has its effect in the present.",
+            "answers": [
+                "broke",
+                "have broken",
+                "had broken"
+            ],
+            "correct": 1,
+            "id": "15150402e49c45b9a5175f4615ea8b05"
+        },
+        {
+            "question": "I …………………………. all my childhood in India.",
+            "description": "We use the simple past to talk about longer situations.",
+            "answers": [
+                "spent",
+                "am spending",
+                "had spent"
+            ],
+            "correct": 0,
+            "id": "f21127f633a14b4d9356190f44480349"
+        }
+    ]
+}

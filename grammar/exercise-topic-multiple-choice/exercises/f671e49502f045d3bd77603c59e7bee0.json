@@ -1,0 +1,61 @@
+{
+    "id": "f671e49502f045d3bd77603c59e7bee0",
+    "title": "Negatives Exercise",
+    "questions": [
+        {
+            "question": "We ................................. a meeting of the union yesterday.",
+            "description": "",
+            "answers": [
+                "had not",
+                "not had",
+                "did not have",
+                "did not had"
+            ],
+            "correct": 2,
+            "id": "18e486ca775a4c68abc7044af31d26f2"
+        },
+        {
+            "question": "James ....................................... his head shaved at the temple.",
+            "description": "",
+            "answers": [
+                "hadn't shaved",
+                "didn't shave",
+                "didn't shaved"
+            ],
+            "correct": 1,
+            "id": "f087b82c07fd49418e90044dd572e662"
+        },
+        {
+            "question": "I ........................................... a bath before dinner every day.",
+            "description": "",
+            "answers": [
+                "didn't have",
+                "don't have",
+                "hadn't"
+            ],
+            "correct": 1,
+            "id": "6ce34515beaf4a1bb624aeca3e6d7769"
+        },
+        {
+            "question": "The sun ............................................ move round the earth.",
+            "description": "",
+            "answers": [
+                "has not",
+                "does not",
+                "do not"
+            ],
+            "correct": 1,
+            "id": "0cb1a10acd6a4c9fab1e3a75b6485061"
+        },
+        {
+            "question": "You ....................................... a good time.",
+            "description": "",
+            "answers": [
+                "hadn't",
+                "didn't have"
+            ],
+            "correct": 1,
+            "id": "94ea8b0ed9d34ab394f481104d0cab98"
+        }
+    ]
+}

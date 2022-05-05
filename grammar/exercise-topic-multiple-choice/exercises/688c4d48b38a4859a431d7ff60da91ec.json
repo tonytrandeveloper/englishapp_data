@@ -1,0 +1,115 @@
+{
+    "id": "688c4d48b38a4859a431d7ff60da91ec",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "........................................... many members have expressed concerns regarding the viability of the project, what will happen to it?",
+            "description": "",
+            "answers": [
+                "Now",
+                "That",
+                "Now that"
+            ],
+            "correct": 2,
+            "id": "96e8f3c51e484113bd4c4429818e4158"
+        },
+        {
+            "question": "My child falls ill ......................................... there is a slight change in the weather.",
+            "description": "",
+            "answers": [
+                "as",
+                "when",
+                "whenever"
+            ],
+            "correct": 2,
+            "id": "0bdf000dbff2480cbd9c46bfcdbe78c0"
+        },
+        {
+            "question": "You don’t have to wait ............................................ you are in a hurry.",
+            "description": "",
+            "answers": [
+                "if",
+                "whether",
+                "unless"
+            ],
+            "correct": 0,
+            "id": "e1a33bf7553b43d6a38c304d7233b52e"
+        },
+        {
+            "question": "I will buy the car ................................................. they reduce their asking price.",
+            "description": "",
+            "answers": [
+                "if",
+                "unless",
+                "whether"
+            ],
+            "correct": 0,
+            "id": "de70bc2e97f34951baab574646f73843"
+        },
+        {
+            "question": "............................................. there is an emergency, ring",
+            "description": "",
+            "answers": [
+                "In case",
+                "In case of"
+            ],
+            "correct": 0,
+            "id": "d97b4dd5613a4d7cb4748a79333bea56"
+        },
+        {
+            "question": "The bank will make the loan .............................................. we pledge our jewels.",
+            "description": "",
+            "answers": [
+                "supposing that",
+                "provided that",
+                "as long as"
+            ],
+            "correct": 1,
+            "id": "2f22dab592ac481ab4b29c76e521f9fe"
+        },
+        {
+            "question": "................................................ I am not able to sleep, I take the tablet.",
+            "description": "",
+            "answers": [
+                "Unless",
+                "If",
+                "Whether"
+            ],
+            "correct": 1,
+            "id": "6b50534b72a9406ca2077a8760cb0c42"
+        },
+        {
+            "question": "I don’t care what job you do ................................................ you are happy.",
+            "description": "",
+            "answers": [
+                "as soon as",
+                "no  sooner than",
+                "as long as"
+            ],
+            "correct": 2,
+            "id": "16117a42d3904ba0b04ae1216f16a21b"
+        },
+        {
+            "question": "............................................. she read the telegram, she started crying.",
+            "description": "",
+            "answers": [
+                "As soon as",
+                "No sooner",
+                "Provided that"
+            ],
+            "correct": 1,
+            "id": "8e40b7c35da940ca81f0774008993e87"
+        },
+        {
+            "question": "You can go out to play .................................................... you finish your homework first.",
+            "description": "",
+            "answers": [
+                "provided that",
+                "as soon as",
+                "as long as"
+            ],
+            "correct": 0,
+            "id": "94c881b1fb054cfea1507f78f754eb64"
+        }
+    ]
+}

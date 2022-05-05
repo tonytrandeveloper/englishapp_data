@@ -1,0 +1,137 @@
+{
+    "id": "f0fb65ce2aa6450a935e3a3d35d24b1a",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "She is quite proud ………………………. her legacy.",
+            "description": "Proud is followed by of. ",
+            "answers": [
+                "to",
+                "of",
+                "with"
+            ],
+            "correct": 1,
+            "id": "e85da11d21074218a151af227559e228"
+        },
+        {
+            "question": "He was accused ………………………….. on the exam.",
+            "description": "Use of + ing form after accused. ",
+            "answers": [
+                "to cheat",
+                "of cheating",
+                "with cheating"
+            ],
+            "correct": 1,
+            "id": "6642c5a9b261454eb2e0d8b501950d8f"
+        },
+        {
+            "question": "He accused me of …………………………….. to him.",
+            "description": "Write of + ing form after accused. ",
+            "answers": [
+                "lying",
+                "laying",
+                "lie"
+            ],
+            "correct": 0,
+            "id": "aae1f2bd9c3e4cecbb438f592e5bea47"
+        },
+        {
+            "question": "The headmaster congratulated the boy …………………………… his success.",
+            "description": "Either on or for is possible here. ",
+            "answers": [
+                "on",
+                "for",
+                "of"
+            ],
+            "correct": 1,
+            "id": "0c5b595d9f71417b8b07f0bbb702887f"
+        },
+        {
+            "question": "Our team is very confident …………………………… the match.",
+            "description": "Write of + ing form after confident. ",
+            "answers": [
+                "to win",
+                "of winning",
+                "for winning"
+            ],
+            "correct": 1,
+            "id": "2e91bd4bf2834b8f923d841f03d3372d"
+        },
+        {
+            "question": "He was acquitted …………………………… the charges levelled against him.",
+            "description": "",
+            "answers": [
+                "with",
+                "from",
+                "of"
+            ],
+            "correct": 2,
+            "id": "ae095d97909544629e532d4e6866bb10"
+        },
+        {
+            "question": "I am ……………………………… tired to walk.",
+            "description": "Note the pattern too...to...",
+            "answers": [
+                "too",
+                "so",
+                "very"
+            ],
+            "correct": 0,
+            "id": "f398e54d6d1047f9a8f5a0122bb7aa1a"
+        },
+        {
+            "question": "…………………………….. the bell rang, the students rushed out.",
+            "description": "As soon as is used to indicate that one thing happens immediately after another.",
+            "answers": [
+                "No sooner",
+                "As soon as",
+                "As long as"
+            ],
+            "correct": 1,
+            "id": "2f7fd732b1ed4b38adfea5ee9426831a"
+        },
+        {
+            "question": "Unless he …………………………. smoking, his health will not improve.",
+            "description": "Use a simple present tense in the unless clause and simple future in the main clause. ",
+            "answers": [
+                "quits",
+                "quitted",
+                "has quitted"
+            ],
+            "correct": 0,
+            "id": "1dc793209129493ea4db775b4c39b114"
+        },
+        {
+            "question": "If I were rich, I ………………………………. to charities.",
+            "description": "",
+            "answers": [
+                "will donate",
+                "would donate",
+                "would have donated"
+            ],
+            "correct": 1,
+            "id": "34af9d98861140b988372c0f23f7d288"
+        },
+        {
+            "question": "This news is too good ………………………………… true.",
+            "description": "",
+            "answers": [
+                "to be",
+                "that it cannot be"
+            ],
+            "correct": 0,
+            "id": "b6b26580667d4c70be700f5b0448e685"
+        },
+        {
+            "question": "He is too clever ……………………………….",
+            "description": "",
+            "answers": [
+                "to cheat",
+                "to be cheated",
+                "that he cannot be cheated"
+            ],
+            "correct": 1,
+            "id": "3d10796076ad4b98ad9f238585a75b68"
+        }
+    ]
+}

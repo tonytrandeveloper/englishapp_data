@@ -1,0 +1,138 @@
+{
+    "id": "81a4e07b50b34001b15d9a22345edfb7",
+    "title": "English Grammar Exercise",
+    "questions": [
+        {
+            "question": "Would you mind ................................ for an hour?",
+            "description": "Would you mind is followed by a noun or an ing form.",
+            "answers": [
+                "to wait",
+                "waiting",
+                "to waiting"
+            ],
+            "correct": 1,
+            "id": "4c3add885765485bb6a7108350aa4634"
+        },
+        {
+            "question": "I was hoping you ...................................... spare me a few minutes.",
+            "description": "We use a past tense after I was hoping.",
+            "answers": [
+                "can",
+                "could",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "05073f7f58724fee87a48d284acd33a4"
+        },
+        {
+            "question": "Do you mind if I .................................. some music?",
+            "description": "Do you mind…? is followed by a verb in the present tense. Would you mind…? is followed by a verb in the past tense. ",
+            "answers": [
+                "play",
+                "played"
+            ],
+            "correct": 0,
+            "id": "350704e3b66f49748002b5ff71bce8db"
+        },
+        {
+            "question": "Would you mind if I ................................... the window?",
+            "description": "Do you mind…? is followed by a verb in the present tense. Would you mind…? is followed by a verb in the past tense. ",
+            "answers": [
+                "open",
+                "opened"
+            ],
+            "correct": 1,
+            "id": "a0b8f9de59b2472a835cbb2bdb128373"
+        },
+        {
+            "question": "When ................................. up in the morning?",
+            "description": "The simple present tense is used to talk about our everyday activities.",
+            "answers": [
+                "are you getting",
+                "do you get",
+                "have you got"
+            ],
+            "correct": 1,
+            "id": "1e144962579b4b06967d0df2f7774f07"
+        },
+        {
+            "question": "My sister ...................................... in Switzerland.",
+            "description": "We use the simple present to talk about facts.",
+            "answers": [
+                "lives",
+                "is living",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "db6098c8d9464f6a91c55fa9e7b48da6"
+        },
+        {
+            "question": "..................................... she write poems?",
+            "description": "",
+            "answers": [
+                "Is",
+                "Does",
+                "Has",
+                "Do"
+            ],
+            "correct": 1,
+            "id": "e16012d64dde46e7aacbf072c1c5685c"
+        },
+        {
+            "question": "I usually drink coffee in the morning, but today I ................................. tea.",
+            "description": "The simple past is used to talk about something that happened on one particular occasion.",
+            "answers": [
+                "drink",
+                "drank",
+                "drunk"
+            ],
+            "correct": 1,
+            "id": "ee68a23cf1244723a4aba136225cd7b5"
+        },
+        {
+            "question": "He ................................... not like vegetables, but he ............................. fruits.",
+            "description": "When the subject is a singular noun or pronoun, we use does in the simple present tense.",
+            "answers": [
+                "do, eat",
+                "does, eats",
+                "has, eats"
+            ],
+            "correct": 1,
+            "id": "6428c16b407a40a8afc92b16e7bc9eac"
+        },
+        {
+            "question": "He .................................... his car in the garage.",
+            "description": "The present continuous is used to talk about actions and situations that are going on at the moment of speaking.",
+            "answers": [
+                "fixes",
+                "is fixing",
+                "does fix"
+            ],
+            "correct": 1,
+            "id": "c335eaa0e5c542dc908a1af882254f30"
+        },
+        {
+            "question": "The puppy ................................ in pain because it has hurt its leg.",
+            "description": "",
+            "answers": [
+                "is howling",
+                "howls",
+                "was howling",
+                "has howled"
+            ],
+            "correct": 0,
+            "id": "2bcf5e0d058e41db8986733bf49f54e1"
+        },
+        {
+            "question": "I ................................. many setbacks in life.",
+            "description": "The present perfect is used to talk about finished past events when there is no reference to time.",
+            "answers": [
+                "faced",
+                "have faced",
+                "had faced"
+            ],
+            "correct": 1,
+            "id": "f88cab702ce94cb5ad85bb9d98f5be44"
+        }
+    ]
+}

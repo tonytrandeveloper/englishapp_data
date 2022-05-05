@@ -1,0 +1,126 @@
+{
+    "id": "01328a6ea02d48138bead4dd3281bd5a",
+    "title": "Hear And Listen",
+    "questions": [
+        {
+            "question": "Did you .............................. a noise now?",
+            "description": "To hear is to perceive something with the ear.",
+            "answers": [
+                "hear",
+                "listen",
+                "listen to"
+            ],
+            "correct": 0,
+            "id": "885d51323da34bcfa9a38fd1d387e395"
+        },
+        {
+            "question": "A large audience .................................. the concert last night.",
+            "description": "We generally use hear to talk about experiencing the whole of a performance or speech.",
+            "answers": [
+                "heard",
+                "listened",
+                "listened to"
+            ],
+            "correct": 0,
+            "id": "213fd42e895e4879a4523cb95dd841d7"
+        },
+        {
+            "question": "I ................................. that you are moving to Switzerland.",
+            "description": "Hear can mean be informed or be told.",
+            "answers": [
+                "hear",
+                "listen"
+            ],
+            "correct": 0,
+            "id": "ba28b1d0a581424bbd28df76e035bfe9"
+        },
+        {
+            "question": "I didn't ................................. the doorbell.",
+            "description": "",
+            "answers": [
+                "listen",
+                "hear",
+                "listen to"
+            ],
+            "correct": 1,
+            "id": "c9bd240029de45eea75f9d44c126330f"
+        },
+        {
+            "question": "I wish I had ......................................... his advice.",
+            "description": "To listen to something is to pay attention to it.",
+            "answers": [
+                "heard",
+                "listened",
+                "listened to"
+            ],
+            "correct": 2,
+            "id": "02c2a454684d4d84b352297490184778"
+        },
+        {
+            "question": "The judge will ................................... the case next month.",
+            "description": "To hear a case is to investigate it officially.",
+            "answers": [
+                "hear",
+                "listen",
+                "listen to"
+            ],
+            "correct": 0,
+            "id": "5da51aeb4a8d4e66a1c33177ea27898f"
+        },
+        {
+            "question": "This is important. Please .................................. carefully.",
+            "description": "When there is no object, we use listen instead of listen to.",
+            "answers": [
+                "listen",
+                "hear",
+                "listen to"
+            ],
+            "correct": 0,
+            "id": "e9efc678c32646758ffcc0e9f149d5f4"
+        },
+        {
+            "question": "Can you ................................. me properly?",
+            "description": "",
+            "answers": [
+                "hear",
+                "listen",
+                "listen to"
+            ],
+            "correct": 0,
+            "id": "514456e5f7f146b9aadb1f4bc8af1df5"
+        },
+        {
+            "question": "I don't know what he said. I was not ...................................",
+            "description": "",
+            "answers": [
+                "hearing",
+                "listening",
+                "listening to"
+            ],
+            "correct": 1,
+            "id": "c40f7e4c8c444831b33acb5118309258"
+        },
+        {
+            "question": "I .................................. someone knocking on the door.",
+            "description": "",
+            "answers": [
+                "heard",
+                "listened",
+                "listened to"
+            ],
+            "correct": 0,
+            "id": "acaaaff09e304ecd9a5b10d55f8b9e87"
+        },
+        {
+            "question": "Please ………………………….. me. I am going to tell you something.",
+            "description": "Before an object, we use listen to.",
+            "answers": [
+                "hear",
+                "listen",
+                "listen to"
+            ],
+            "correct": 2,
+            "id": "03144896824c4000882b612a7418ce7e"
+        }
+    ]
+}

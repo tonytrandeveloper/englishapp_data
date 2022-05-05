@@ -1,0 +1,139 @@
+{
+    "id": "49063312b7a544459733fe8116377e2f",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "He tried hard ……………………… he could not succeed.",
+            "description": "However is not a conjunction it cannot connect two clauses.",
+            "answers": [
+                "but",
+                "however",
+                "despite"
+            ],
+            "correct": 0,
+            "id": "aabcac1821134c209046b8197b7aca7d"
+        },
+        {
+            "question": "…………………………… she is beautiful, she is not very popular among her friends.",
+            "description": "We use though to connect two contrasting ideas.",
+            "answers": [
+                "Though",
+                "However",
+                "But"
+            ],
+            "correct": 0,
+            "id": "3c7bacf33c224a2f87a39e176d4b7331"
+        },
+        {
+            "question": "………………………….. being pretty, she was never really popular.",
+            "description": "In spite of is a preposition. It is followed by a noun.",
+            "answers": [
+                "Though",
+                "In spite of",
+                "However"
+            ],
+            "correct": 1,
+            "id": "8896ae4b0d3a4e4fad42c30acce48a0a"
+        },
+        {
+            "question": "…………………………… the message, he departed.",
+            "description": "",
+            "answers": [
+                "Having delivered",
+                "Delivering",
+                "Delivered"
+            ],
+            "correct": 0,
+            "id": "bb4f1a18dbfe4675b57acfad556ffb0a"
+        },
+        {
+            "question": "…………………………. rich, they lived a privileged life.",
+            "description": "",
+            "answers": [
+                "Being",
+                "Having",
+                "Been",
+                ""
+            ],
+            "correct": 0,
+            "id": "0c209d6909d546f3beeefccb69198020"
+        },
+        {
+            "question": "You must leave now ……………………….. I will call the police.",
+            "description": "Or shows an alternative.",
+            "answers": [
+                "or",
+                "but",
+                "and"
+            ],
+            "correct": 0,
+            "id": "76da2fb511b74665a31af8cc8bbe3f75"
+        },
+        {
+            "question": "He bought the land …………………………… belonged to his neighbor.",
+            "description": "The relative pronoun which refers to things. That can also be used with this meaning.",
+            "answers": [
+                "which",
+                "what",
+                "that"
+            ],
+            "correct": 2,
+            "id": "d5f8a9dac0274bf48a71d684577e1ce7"
+        },
+        {
+            "question": "……………………….. the inflation, the economy is showing signs of growth.",
+            "description": "Despite is a preposition. It is used before a noun.",
+            "answers": [
+                "Despite",
+                "However",
+                "Though"
+            ],
+            "correct": 0,
+            "id": "3583c47b134c4b4c982fe35d955c37b1"
+        },
+        {
+            "question": "It is a pity ………………………….. he should die so young.",
+            "description": "That is a connecting word.",
+            "answers": [
+                "which",
+                "that",
+                "what"
+            ],
+            "correct": 1,
+            "id": "18c920fcb68a418ea2785065f6f8a65f"
+        },
+        {
+            "question": "…………………………….. you wait for an hour or so you will be able to meet him.",
+            "description": "If expresses a condition.",
+            "answers": [
+                "If",
+                "Whether",
+                "Unless"
+            ],
+            "correct": 0,
+            "id": "c703a50d55e14e64ab839b6148037068"
+        },
+        {
+            "question": "We travelled all the way to Agra …………………………. we could see Taj Mahal.",
+            "description": "So that indicates purpose.",
+            "answers": [
+                "so that",
+                "such that",
+                "so as to"
+            ],
+            "correct": 0,
+            "id": "49e31631dc1441f5806b7dcf4a261c78"
+        },
+        {
+            "question": "The man was so generous ……………………… everyone respected him.",
+            "description": "Note the pattern so...that..",
+            "answers": [
+                "as",
+                "that",
+                "and"
+            ],
+            "correct": 1,
+            "id": "d8d42f24132846af8371a53bd874467d"
+        }
+    ]
+}

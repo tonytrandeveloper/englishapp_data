@@ -1,0 +1,135 @@
+{
+    "id": "9cc5bbecc6b24bddbf837de9af1fc441",
+    "title": "Gap Fills",
+    "questions": [
+        {
+            "question": "You will have an accident if you ………………. on driving like that.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + first form of the verb in the main clause. ",
+            "answers": [
+                "go",
+                "goes",
+                "went"
+            ],
+            "correct": 0,
+            "id": "4f73fdd33e54438ba13fceb99c412583"
+        },
+        {
+            "question": "‘The door bell is ringing.’ ‘I …………………..’",
+            "description": "The simple future is used to announce decisions that are taken at the moment of speaking. ",
+            "answers": [
+                "am going",
+                "am going to go",
+                "will go"
+            ],
+            "correct": 2,
+            "id": "8f08bfedf6eb4ff1b6f2fe131ee49f3d"
+        },
+        {
+            "question": "I ………………… my parents next week.",
+            "description": "The present continuous is used to talk about pre-planned future events. ",
+            "answers": [
+                "visit",
+                "will visit",
+                "am visiting"
+            ],
+            "correct": 2,
+            "id": "bf870b6d252547ae9b2633f9eb1e115a"
+        },
+        {
+            "question": "Will it be all right if I …………………….. an extra night?",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + first form of the verb in the main clause. ",
+            "answers": [
+                "stay",
+                "stayed",
+                "had stayed"
+            ],
+            "correct": 0,
+            "id": "b36a08e97b554116a798f725efbe2722"
+        },
+        {
+            "question": "She didn’t get the promotion ………………………. working hard.",
+            "description": "Before an ing form we use a preposition. In spite of is a preposition. ",
+            "answers": [
+                "however",
+                "in spite of",
+                "though"
+            ],
+            "correct": 1,
+            "id": "b2d12cb7a772492db554bc515512a497"
+        },
+        {
+            "question": "The deer was ……………………. by a car.",
+            "description": "Stricken is the past participle of strike. ",
+            "answers": [
+                "struck",
+                "strucked",
+                "stricken"
+            ],
+            "correct": 2,
+            "id": "ec52ef39435349368a8bdb5063471a4f"
+        },
+        {
+            "question": "Those who know the answer should …………………… their hand.",
+            "description": "Raise is transitive rise is intransitive.",
+            "answers": [
+                "rise",
+                "raise"
+            ],
+            "correct": 1,
+            "id": "cea71fe8d4484129aba206f2306c1fb6"
+        },
+        {
+            "question": "Much water has ………………….. under the bridge.",
+            "description": "Flown is the past participle is fly. Flowed is the past participle of flow. ",
+            "answers": [
+                "flowed",
+                "flown"
+            ],
+            "correct": 0,
+            "id": "c7c87b1289014dd6b31261430870449c"
+        },
+        {
+            "question": "I had met him before he ……………………. to Germany.",
+            "description": "Flew is the past participle of fly. ",
+            "answers": [
+                "flew",
+                "flowed",
+                "flown"
+            ],
+            "correct": 0,
+            "id": "62452caece0848d0a53b3a70a7be8ddd"
+        },
+        {
+            "question": "The ……………………. men were taken to hospital.",
+            "description": "Wounded means injured. ",
+            "answers": [
+                "wound",
+                "wounded"
+            ],
+            "correct": 1,
+            "id": "741bbfcb0e584455b4da441e9fa4880d"
+        },
+        {
+            "question": "She got married ……………………… her colleague.",
+            "description": "",
+            "answers": [
+                "to",
+                "with",
+                "of"
+            ],
+            "correct": 0,
+            "id": "bb206cbb285a4658880d0158ac160d01"
+        },
+        {
+            "question": "When I reached there, I could see that they …………………..",
+            "description": "The past perfect is used for the earlier of the two past actions. ",
+            "answers": [
+                "left",
+                "have left",
+                "had left"
+            ],
+            "correct": 2,
+            "id": "5f71a29c4e864d84a48e3c5601f2d128"
+        }
+    ]
+}

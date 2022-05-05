@@ -1,0 +1,135 @@
+{
+    "id": "15d014ee83994033a7bd054643102527",
+    "title": "Somebody, Anybody, Somewhere, Anywhere",
+    "questions": [
+        {
+            "question": "Did …………………………. phone when I was out?",
+            "description": "We use anybody in questions and negative sentences.",
+            "answers": [
+                "anybody",
+                "somebody",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "4e8cbf9086b2498880acb46406ab6ee8"
+        },
+        {
+            "question": "Let’s go ………………………….. quiet.",
+            "description": "We use somewhere in affirmative sentences.",
+            "answers": [
+                "somewhere",
+                "anywhere"
+            ],
+            "correct": 0,
+            "id": "e233e1f5813a49bcbdc441db4fd1bea7"
+        },
+        {
+            "question": "I searched for him everywhere but I couldn’t find him …………………………",
+            "description": "We use anywhere in negative sentences.",
+            "answers": [
+                "anywhere",
+                "somewhere"
+            ],
+            "correct": 0,
+            "id": "fc730ad0c47e4346843457552a8ede28"
+        },
+        {
+            "question": "I feel like eating ………………………… hot.",
+            "description": "We use something in affirmative clauses.",
+            "answers": [
+                "anything",
+                "something"
+            ],
+            "correct": 1,
+            "id": "5d52bc6b57ea4ecd8cd8cf2927207ea4"
+        },
+        {
+            "question": "I didn’t do …………………………… yesterday.",
+            "description": "We use anything in negative clauses.",
+            "answers": [
+                "anything",
+                "something"
+            ],
+            "correct": 0,
+            "id": "9ea8ec517a1e4e4d8e5f0c440d21d534"
+        },
+        {
+            "question": "Does …………………….. know where Michael lives?",
+            "description": "Anyone means the same as anybody.",
+            "answers": [
+                "anyone",
+                "anybody",
+                "someone",
+                "somebody"
+            ],
+            "correct": 1,
+            "id": "046105c2e70d4361b818d65eead9efd2"
+        },
+        {
+            "question": "You can borrow ………………………….. book at a time.",
+            "description": "Any one means any single one.",
+            "answers": [
+                "anyone",
+                "any one",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "13e37ce47adf44bda9b9f419408c1e24"
+        },
+        {
+            "question": "I took ………………………. to repair the car.",
+            "description": "\r\nSome time can mean quite a lot of time.",
+            "answers": [
+                "sometime",
+                "some time",
+                "sometimes"
+            ],
+            "correct": 1,
+            "id": "ac5ed079d4e74fee9eecb28b5cd35f43"
+        },
+        {
+            "question": "Let’s meet ………………………… next week.",
+            "description": "Sometime can mean one day.",
+            "answers": [
+                "sometime",
+                "some time",
+                "sometimes"
+            ],
+            "correct": 0,
+            "id": "998d71e2df87412c9100af30df50350d"
+        },
+        {
+            "question": "I …………………………… visited them when I was in Mumbai.",
+            "description": "Sometimes can mean on some occasions.",
+            "answers": [
+                "sometime",
+                "some time",
+                "sometimes"
+            ],
+            "correct": 2,
+            "id": "5220959e22ec4309bb31955239ef0202"
+        },
+        {
+            "question": "………………………….. that year, granny had a heart attack.",
+            "description": "\r\nEarly means near the beginning of the period of time we are talking about\r\n",
+            "answers": [
+                "Early",
+                "Soon",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "aaf211a46f2f417da4930a7ac548e8d6"
+        },
+        {
+            "question": "I hope you can finish the work ……………………………..",
+            "description": "Soon can mean a short time after now.",
+            "answers": [
+                "early",
+                "soon",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "83cd4a335ed84570ad60fe27c8e48ee6"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "id": "c9d7166916ec4d02a96ac70f2a80eb45",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "Don’t forget to signal ……………………. turning right.",
+            "description": "It is possible to leave out subject + be after when or while. The above sentence can also be written as:\r\nDon’t forget to signal when you are turning right.\r\n",
+            "answers": [
+                "when",
+                "while",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "21248e126e2c448e96da8d623cbaec32"
+        },
+        {
+            "question": "I decided to stop and rest ……………………. I was feeling tired.",
+            "description": "For can be used to give the reason for something. It is more common in a formal style.",
+            "answers": [
+                "because",
+                "for",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "a3d544b4c03546f0b2e42098d0426906"
+        },
+        {
+            "question": "…………………….. I was feeling hungry, I decided to have lunch.",
+            "description": "A for clause can never come at the beginning of a sentence.",
+            "answers": [
+                "Because",
+                "For",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "c01d4a46b79447f99839243717a9794b"
+        },
+        {
+            "question": "She was acting …………………….. she was the boss.",
+            "description": "As if and as though mean the same. They are used to say what a situation seems like.",
+            "answers": [
+                "as if",
+                "as though",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "3fcf90ef7bdc44f4925706b762892c93"
+        },
+        {
+            "question": "You look …………………… you know each other.",
+            "description": "We use as though to say what a situation seems like.",
+            "answers": [
+                "as",
+                "though",
+                "as though"
+            ],
+            "correct": 2,
+            "id": "c9b0bd19f99b4197aadb930006453507"
+        },
+        {
+            "question": "It seems ……………………… it is going to rain.",
+            "description": "Like is possible here in an informal style.",
+            "answers": [
+                "as if",
+                "as though",
+                "like",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "597632488254437da363042a99ffc0bb"
+        },
+        {
+            "question": "I will remember that experience ………………………… I live.",
+            "description": "",
+            "answers": [
+                "as long as",
+                "as soon as",
+                "no longer than"
+            ],
+            "correct": 0,
+            "id": "6d41069aedbc43a981d5d948058a400a"
+        },
+        {
+            "question": "You can stay in my home …………………….. you do not disturb me.",
+            "description": "All of these expressions can be used to express a condition.",
+            "answers": [
+                "as long as",
+                "so long as",
+                "on condition that",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "331ef1c89c7940f3b9c9283245aca4d5"
+        },
+        {
+            "question": "There was a big argument about …………………… we should close the shop.",
+            "description": "Only whether is possible after prepositions.",
+            "answers": [
+                "if",
+                "whether",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3b6b8bfbffc5457592053286240c4b8d"
+        },
+        {
+            "question": "I am not sure ……………………… I will be able to come.",
+            "description": "Both whether and if can be used to introduce indirect Yes/No questions.",
+            "answers": [
+                "if",
+                "whether",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "a93b46010b4a4839a7304dde64bbab7a"
+        },
+        {
+            "question": "I can’t decide ………………………. to wait or leave.",
+            "description": "Only whether is possible before a to-infinitive.",
+            "answers": [
+                "whether",
+                "if",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "3c123574b2b943338d538d84109aee68"
+        },
+        {
+            "question": "…………………… I will come I am not sure at the moment.",
+            "description": "When an indirect question comes at the beginning of the sentence, we use whether.",
+            "answers": [
+                "Whether",
+                "If",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "906e2bd8f4a04d79a1331a441656f03e"
+        }
+    ]
+}

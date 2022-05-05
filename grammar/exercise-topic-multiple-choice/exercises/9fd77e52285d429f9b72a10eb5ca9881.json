@@ -1,0 +1,140 @@
+{
+    "id": "9fd77e52285d429f9b72a10eb5ca9881",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "My father ……………….. for a brisk walk in the evening.",
+            "description": "We use the simple present tense to talk about our habits and routines. ",
+            "answers": [
+                "go",
+                "goes",
+                "is going"
+            ],
+            "correct": 1,
+            "id": "0e250b27c2514bb4b1f0126bccee69a3"
+        },
+        {
+            "question": "We …………….. for Singapore next Monday.",
+            "description": "We use the present continuous tense to talk about future events if the arrangement already exists.",
+            "answers": [
+                "leave",
+                "are leaving",
+                "have left"
+            ],
+            "correct": 1,
+            "id": "64214002194c49ab96b511cfee26f194"
+        },
+        {
+            "question": "I .......................... all my problems.",
+            "description": "",
+            "answers": [
+                "solve",
+                "have solved",
+                "have solving"
+            ],
+            "correct": 1,
+            "id": "0b1089a2323c4eb5bfe2d8035f40f8b4"
+        },
+        {
+            "question": "We ................................. here for four years.",
+            "description": "",
+            "answers": [
+                "are living",
+                "have lived",
+                "live",
+                "have living"
+            ],
+            "correct": 1,
+            "id": "e28a2d79e5f842f3b17b16534a315cea"
+        },
+        {
+            "question": "I ............................... a letter to my sister.",
+            "description": "We use the present continuous tense to talk about actions or situations that are happening at the moment of speaking. ",
+            "answers": [
+                "write",
+                "am writing",
+                "writing"
+            ],
+            "correct": 1,
+            "id": "77ae55070ebb4b4a89630b1f8b41ba7b"
+        },
+        {
+            "question": "He ………………….. his breakfast when I reached his place.",
+            "description": "",
+            "answers": [
+                "was having",
+                "is having",
+                "has"
+            ],
+            "correct": 0,
+            "id": "84b322696e1942919789bea2e60fd7fb"
+        },
+        {
+            "question": "We ........................... him before.",
+            "description": "",
+            "answers": [
+                "never saw",
+                "have never seen",
+                "are never seen"
+            ],
+            "correct": 1,
+            "id": "689aee5f3fef424faa02db619c83be2a"
+        },
+        {
+            "question": "I ………………. the minister last week.",
+            "description": "We use the simple past tense to say that something happened in the past. ",
+            "answers": [
+                "meet",
+                "am meeting",
+                "have met",
+                "met"
+            ],
+            "correct": 3,
+            "id": "6e831f7de0e5460b96aef83db0f5121d"
+        },
+        {
+            "question": "He said that he ………………. the next day.",
+            "description": "",
+            "answers": [
+                "will come",
+                "would come",
+                "was coming"
+            ],
+            "correct": 1,
+            "id": "6465e796f9f2497ab4df3319b22a6737"
+        },
+        {
+            "question": "The letter ……………….. yesterday.",
+            "description": "",
+            "answers": [
+                "posted",
+                "was posted",
+                "had posted"
+            ],
+            "correct": 1,
+            "id": "c72ff4514b5b4534b46bbc5a8e7a2978"
+        },
+        {
+            "question": "The teacher ………………. the lazy boy.",
+            "description": "",
+            "answers": [
+                "scold",
+                "scolded",
+                "scolding"
+            ],
+            "correct": 1,
+            "id": "e3957a17a840492bbc7d5d379e5b87a8"
+        },
+        {
+            "question": "He ……………….. president of the club.",
+            "description": "",
+            "answers": [
+                "elected",
+                "was elected",
+                "has elected"
+            ],
+            "correct": 1,
+            "id": "a0f37bdf460f47eab35efb0c78bb59d2"
+        }
+    ]
+}

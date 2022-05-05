@@ -1,0 +1,137 @@
+{
+    "id": "988e6dae20e8427887d8ebe4fe1fe1f8",
+    "title": "Active And Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "This poem …………………………. by Tagore.",
+            "description": "We need a passive verb here because the subject is not the doer of the action. Tagore wrote this poem. When we change it into passive, we get ‘This poem was written by Tagore’.",
+            "answers": [
+                "wrote",
+                "was written",
+                "has written"
+            ],
+            "correct": 1,
+            "id": "84032be76c09489da6ca5c3e3e4a3b92"
+        },
+        {
+            "question": "The matter ………………………….. tomorrow.",
+            "description": "They will discuss the matter tomorrow. When we change it into the passive voice, we get ‘The matter will be discussed tomorrow’. We need a passive verb here because the subject is not the doer of the action.",
+            "answers": [
+                "will discuss",
+                "will be discussed",
+                "was discussed"
+            ],
+            "correct": 1,
+            "id": "48282bd676a14d459391919d39d87bfe"
+        },
+        {
+            "question": "The government …………………………. its plans to build a bridge over the river.",
+            "description": "We need an active verb because the subject is the doer of the action.",
+            "answers": [
+                "has been announced",
+                "has announced",
+                "was announced"
+            ],
+            "correct": 1,
+            "id": "7d6d69ffce95443aa3d624d9c70ae04f"
+        },
+        {
+            "question": "Let the room …………………………..",
+            "description": "We need a passive verb here because the subject is not the doer of the action.",
+            "answers": [
+                "cleaned",
+                "be cleaning",
+                "be cleaned"
+            ],
+            "correct": 2,
+            "id": "e3692255d6714cebb717ce64ff25cf21"
+        },
+        {
+            "question": "Two battles ……………………… here a hundred years ago.",
+            "description": "We need a passive verb here because the subject is not the doer of the action.",
+            "answers": [
+                "had fought",
+                "had been fought",
+                "fought"
+            ],
+            "correct": 1,
+            "id": "5ba13cf95836428689bad44554af39fa"
+        },
+        {
+            "question": "The results ……………………………… yet.",
+            "description": "They have not announced the results yet. When we change this into the passive voice, we get: The results have not been announced yet.",
+            "answers": [
+                "have not announced",
+                "have not been announced",
+                "were not announced"
+            ],
+            "correct": 1,
+            "id": "224816d372a546e4b54ada4760f82d78"
+        },
+        {
+            "question": "He ………………………… to get out.",
+            "description": "We need a passive verb here because the subject is not the doer of the action.",
+            "answers": [
+                "told",
+                "has told",
+                "was told"
+            ],
+            "correct": 2,
+            "id": "3d2c235b5b294e67ad588a3cfc33dfba"
+        },
+        {
+            "question": "Has the parcel …………………………?",
+            "description": "We need a passive verb here because the subject is not the doer of the action.",
+            "answers": [
+                "sent",
+                "being sent",
+                "been sent"
+            ],
+            "correct": 2,
+            "id": "24b0963148a346349bc11f938c3f4fba"
+        },
+        {
+            "question": "The tables and chairs ………………………… by the carpenter.",
+            "description": "We need a passive verb here because the subject is not the doer of the action.\r\nThe carpenter is making the tables and chairs. When we change it into the passive voice, we get: The tables and chairs are being made by the carpenter.\r\n",
+            "answers": [
+                "are making",
+                "have made",
+                "are being made"
+            ],
+            "correct": 2,
+            "id": "d5ef2c63eb6743978ba7af65c51bf2b4"
+        },
+        {
+            "question": "Everybody …………………………… him.",
+            "description": "We need an active verb because the subject is the doer of the action.",
+            "answers": [
+                "hates",
+                "is hated"
+            ],
+            "correct": 0,
+            "id": "164765a0a5f140668c060fb3943b16d5"
+        },
+        {
+            "question": "The scandal ……………………….. in a few days.",
+            "description": "We need a passive verb here because the subject is not the doer of the action.",
+            "answers": [
+                "will forget",
+                "will forgot",
+                "will be forgotten"
+            ],
+            "correct": 2,
+            "id": "8feab3494683461093090f3986054973"
+        },
+        {
+            "question": "The boys ………………………… the window.",
+            "description": "We need an active verb because the subject is the doer of the action.",
+            "answers": [
+                "broke",
+                "were broken",
+                "have been broken"
+            ],
+            "correct": 0,
+            "id": "13a3b70162bf4f17bde74257c0aae253"
+        }
+    ]
+}

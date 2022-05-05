@@ -1,0 +1,138 @@
+{
+    "id": "03df86f498324e4ba459fc33d2731a11",
+    "title": "Sequence Of Tenses Exercise",
+    "questions": [
+        {
+            "question": "She noticed she ........................ already late.",
+            "description": "When the verb in the main clause is in the past tense, we use a past verb in the subordinate clause as well. ",
+            "answers": [
+                "is",
+                "was",
+                "had been"
+            ],
+            "correct": 1,
+            "id": "419120570455491da0ea496b7ae755a7"
+        },
+        {
+            "question": "She said that it ............................ her an hour to finish the report.",
+            "description": "When the verb in the main clause is in the past tense, we use a past verb in the subordinate clause as well. ",
+            "answers": [
+                "takes",
+                "took",
+                "has taken"
+            ],
+            "correct": 1,
+            "id": "a0310462abfd41879eb1e1ced25cc618"
+        },
+        {
+            "question": "She asked him if he .............................. her name.",
+            "description": "When the verb in the main clause is in the past tense, we use a past verb in the subordinate clause as well. ",
+            "answers": [
+                "knows",
+                "knew",
+                "had known"
+            ],
+            "correct": 1,
+            "id": "2700e90ce16843e980b9787ca0098db4"
+        },
+        {
+            "question": "What did you do with the money you ................................ from me?",
+            "description": "When the verb in the main clause is in the past tense, we use a past verb in the subordinate clause as well. ",
+            "answers": [
+                "borrowed",
+                "have borrowed",
+                "borrow"
+            ],
+            "correct": 0,
+            "id": "7863cf0fc00d4879b55f8dad50054556"
+        },
+        {
+            "question": "When I opened the door, the cat ............................... out.",
+            "description": "When the verb in the main clause is in the past tense, we use a past verb in the subordinate clause as well. ",
+            "answers": [
+                "jump",
+                "jumped",
+                "had jumped"
+            ],
+            "correct": 1,
+            "id": "5a129a2dc546432aac55c0b025368bfc"
+        },
+        {
+            "question": "When I was ten I already ............................ I wanted to be a scientist.",
+            "description": "When the verb in the main clause is in the past tense, we use a past verb in the subordinate clause as well. ",
+            "answers": [
+                "know",
+                "knew",
+                "had known"
+            ],
+            "correct": 1,
+            "id": "932d49f8948b428cafcbea9ef116fcb2"
+        },
+        {
+            "question": "I went to see if she ................................. up yet.",
+            "description": "The past perfect is used to indicate that one action had been completed before another action commenced. ",
+            "answers": [
+                "woke",
+                "has woken",
+                "had woken"
+            ],
+            "correct": 2,
+            "id": "fbcdaafc8c5f4d35a73bce62f00f9d57"
+        },
+        {
+            "question": "I ................................ 80 kilos three months ago.",
+            "description": "When the verb in the main clause is in the past tense, we use a past verb in the subordinate clause as well. ",
+            "answers": [
+                "was weighing",
+                "have weighed",
+                "weighed"
+            ],
+            "correct": 2,
+            "id": "1c7393acf8234576a9ee4141c949321b"
+        },
+        {
+            "question": "As soon as I ............................ the phone down, it rang again.",
+            "description": "When two actions happen one after the other, we often use the past perfect for the earlier action. The simple past is also possible here.",
+            "answers": [
+                "put",
+                "have put",
+                "had put"
+            ],
+            "correct": 2,
+            "id": "374272bfe9d44c9da8d37febd03295cf"
+        },
+        {
+            "question": "I .............................. that I would get the promotion but it is beginning to look difficult now.",
+            "description": "We use the past perfect to talk about unrealized hopes.",
+            "answers": [
+                "hoped",
+                "have hoped",
+                "had hoped"
+            ],
+            "correct": 2,
+            "id": "550e1223445d4649bc2d11316fdf295e"
+        },
+        {
+            "question": "When I arrived at the party, they ............................... home.",
+            "description": "\r\nWhen two actions happen one after the other, we often use the past perfect for the earlier action.\r\n",
+            "answers": [
+                "already went",
+                "have already gone",
+                "had already gone"
+            ],
+            "correct": 2,
+            "id": "cba500e05f1e468aa34112c90ad47594"
+        },
+        {
+            "question": "I was hot because I .................................. in the sun for a long time.",
+            "description": "We use the past perfect continuous to talk about an action or situation that started in the past and continued up to another point of time in the past. ",
+            "answers": [
+                "was walking",
+                "walked",
+                "had been walking"
+            ],
+            "correct": 2,
+            "id": "e1ff1fbaa4f94ca3ab905fa32e107bda"
+        }
+    ]
+}

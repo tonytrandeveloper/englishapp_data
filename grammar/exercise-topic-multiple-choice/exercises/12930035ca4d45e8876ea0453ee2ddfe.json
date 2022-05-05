@@ -1,0 +1,138 @@
+{
+    "id": "12930035ca4d45e8876ea0453ee2ddfe",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "The people ............................... walked in just now seem to be rich.",
+            "description": "We use who to refer to people.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "5dd4cc3f0b4b40af85dfa7428c4f2731"
+        },
+        {
+            "question": "The girl ...................................... answered the phone seemed rather clueless.",
+            "description": "When the relative pronoun is the subject of the relative clause, we use who to refer to people. ",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "743f38a75e554da0baaf496ea4807da8"
+        },
+        {
+            "question": "Where is the person ........................................ called the police?",
+            "description": "When the relative pronoun is the subject of the relative clause, we use who to refer to people.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "a051b7ca8884477992af3afc64636b30"
+        },
+        {
+            "question": "I have lost the paper on ...................................... I had written her address.",
+            "description": "In relative clauses which is used to refer to inanimate objects. ",
+            "answers": [
+                "that",
+                "which",
+                "what"
+            ],
+            "correct": 1,
+            "id": "7f9f185fa300464d82f9cb57c88654fe"
+        },
+        {
+            "question": "She is the woman ...................................... I have always wanted to marry.",
+            "description": "Here the relative pronoun is the object of the relative clause hence we use whom. ",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 1,
+            "id": "2e1f1c5a93914325984111596e7074ea"
+        },
+        {
+            "question": "The woman .................................... child had gone missing was frantic.",
+            "description": "In relative clauses whose replaces words like her or his.",
+            "answers": [
+                "who",
+                "who's",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "3024a02b0fc84a03b2e6e7465eea6a26"
+        },
+        {
+            "question": "I know a girl ........................................ father is an artist.",
+            "description": "In relative clauses whose replaces words like her or his.",
+            "answers": [
+                "which",
+                "whose",
+                "who's"
+            ],
+            "correct": 1,
+            "id": "0a6e67a8719c4c74bf43696d2627360c"
+        },
+        {
+            "question": "The man .................................... bag was stolen complained to the police.",
+            "description": "",
+            "answers": [
+                "who",
+                "whose",
+                "who's"
+            ],
+            "correct": 1,
+            "id": "4224f1620f734be78c5c73ed747401b8"
+        },
+        {
+            "question": "Who is that girl ..................................... is sitting beside James?",
+            "description": "",
+            "answers": [
+                "who",
+                "who's",
+                "which"
+            ],
+            "correct": 0,
+            "id": "bfc44c26378b4fab8c8af385bca42297"
+        },
+        {
+            "question": "I talked to a man ......................................... had just returned from an overseas trip.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "5bd088b5f7974efe8eb39f5630412d86"
+        },
+        {
+            "question": "He ....................................... has nothing to lose has no worries.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "51d79badec7948e7ab442598c64035d8"
+        },
+        {
+            "question": "The woman ....................................... you can see over there is my cousin.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 1,
+            "id": "0f87ae254b164dcc8e2ecf853f456d89"
+        }
+    ]
+}

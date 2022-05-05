@@ -1,0 +1,126 @@
+{
+    "id": "c1b5b1663fe049038737bb5d484116f3",
+    "title": "Confusing Words Exercise",
+    "questions": [
+        {
+            "question": "We need laws that ensure the ……………………… treatment of animals",
+            "description": "Humane means the quality of being kind towards others.",
+            "answers": [
+                "human",
+                "humane"
+            ],
+            "correct": 1,
+            "id": "fcda8edbe38b4ed8b99ff46d2c25bd45"
+        },
+        {
+            "question": "His spirited talk boosted the ……………………….. of his employees.",
+            "description": "Morale is the level of confidence.",
+            "answers": [
+                "moral",
+                "morale"
+            ],
+            "correct": 1,
+            "id": "f3ecde9630504c7cba0cd4599c789efb"
+        },
+        {
+            "question": "He was a highly ………………………. person.",
+            "description": "Moral is the principle of right and wrong.",
+            "answers": [
+                "moral",
+                "morale"
+            ],
+            "correct": 0,
+            "id": "aaabb57c0cba4a31b02f7e33987e1831"
+        },
+        {
+            "question": "A smile …………………………. up his face.",
+            "description": "",
+            "answers": [
+                "alighted",
+                "lighted"
+            ],
+            "correct": 1,
+            "id": "e17a5b2d063d49659457aeb1f6f116c7"
+        },
+        {
+            "question": "The princess …………………………. from the carriage.",
+            "description": "To alight is to descend from a form of transport. ",
+            "answers": [
+                "lighted",
+                "alighted"
+            ],
+            "correct": 1,
+            "id": "ef754cbec0254efcbbf906c57aa3de4e"
+        },
+        {
+            "question": "I am tired of listening to ………………………",
+            "description": "Advice is a noun advise is a verb.",
+            "answers": [
+                "advice",
+                "advise"
+            ],
+            "correct": 0,
+            "id": "81579a9934ac4658b7eb3337b84d1713"
+        },
+        {
+            "question": "My mother goes to the temple ……………………..",
+            "description": "Every day means daily.",
+            "answers": [
+                "everyday",
+                "every day"
+            ],
+            "correct": 1,
+            "id": "e57ed0157c3049a2b30cc23374206ad1"
+        },
+        {
+            "question": "I need someone to do ……………………….. chores like cooking and cleaning.",
+            "description": "Everyday means day to day.",
+            "answers": [
+                "everyday",
+                "every day"
+            ],
+            "correct": 0,
+            "id": "5ab5078bb720447e899f923e2cd71422"
+        },
+        {
+            "question": "Tell me the amount in ………………………. figures.",
+            "description": "",
+            "answers": [
+                "round",
+                "around"
+            ],
+            "correct": 0,
+            "id": "38541d07d9904eec97c373698984d601"
+        },
+        {
+            "question": "No one came to his ………………………….",
+            "description": "Aid means help.",
+            "answers": [
+                "aid",
+                "aide"
+            ],
+            "correct": 0,
+            "id": "b4143241297a4cfe92524ecdb45a11f9"
+        },
+        {
+            "question": "The minister’s ………………………… said that there was nothing to worry about.",
+            "description": "Aide means assistant.",
+            "answers": [
+                "aid",
+                "aide"
+            ],
+            "correct": 1,
+            "id": "c43d3e63f9b44ba4a517a164b6d353eb"
+        },
+        {
+            "question": "This material is ………………………… at filtering out ultraviolet radiation.",
+            "description": "",
+            "answers": [
+                "effective",
+                "affective"
+            ],
+            "correct": 0,
+            "id": "922d8453339a4270b2f6436629018b24"
+        }
+    ]
+}

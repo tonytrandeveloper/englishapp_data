@@ -1,0 +1,137 @@
+{
+    "id": "34eed437a92744b6b8296a34c4668e0f",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "I haven’t invited ……………………….. them.",
+            "description": "We use either of before a pronoun.",
+            "answers": [
+                "either",
+                "either of",
+                "neither"
+            ],
+            "correct": 1,
+            "id": "392bf8fc7f67441488e796cd07ea9476"
+        },
+        {
+            "question": "If either of the girls phones, tell ……………………… that I am busy.",
+            "description": "A pronoun used to refer back to either + noun / pronoun can be singular or plural.",
+            "answers": [
+                "her",
+                "them",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "fa2aef23fab440a7b427e7bdb3eab2a8"
+        },
+        {
+            "question": "I hit the target ……………………… in the middle.",
+            "description": "When right is used before a preposition referring to place or movement, it means completely or exactly.",
+            "answers": [
+                "right",
+                "rightly",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d5f3ba44ea184c9c841ed14ae251aaf6"
+        },
+        {
+            "question": "We had ……………………… a thunderstorm last night.",
+            "description": "We can use quite with singular countable nouns to express the idea that something is remarkable. Rather is not possible with this meaning.",
+            "answers": [
+                "rather",
+                "quite",
+                "quiet"
+            ],
+            "correct": 1,
+            "id": "8f245c4dbc224be0ae2faea2e669ac11"
+        },
+        {
+            "question": "She hasn’t got ……………………… for the job.",
+            "description": "As an adjective enough goes before the noun modified by it.",
+            "answers": [
+                "experience enough",
+                "enough experience"
+            ],
+            "correct": 1,
+            "id": "85dd72df69094a53a904843fc15210af"
+        },
+        {
+            "question": "Although my grandfather is eighty-five, he enjoys ………………………….",
+            "description": "Health is an uncountable noun we cannot use the article ‘a’ with it.",
+            "answers": [
+                "good health",
+                "a good health",
+                "the good health"
+            ],
+            "correct": 0,
+            "id": "6a65292fbe554ba7ad989f999518f181"
+        },
+        {
+            "question": "The house …………………….. I live in is very spacious.",
+            "description": "That…in means the same as where.",
+            "answers": [
+                "that",
+                "where",
+                "which"
+            ],
+            "correct": 0,
+            "id": "6ff29fa3efdd428790fed3baff9ccee7"
+        },
+        {
+            "question": "Because I was ill for six months, …………………….. lost my job.",
+            "description": "Use so or because in a sentence. Don’t use them both.",
+            "answers": [
+                "as I",
+                "so I",
+                "I"
+            ],
+            "correct": 2,
+            "id": "5088cb33a2e84f9ca35f86314476e5ea"
+        },
+        {
+            "question": "Rahul lives in ………………….",
+            "description": "We do not normally use the with singular proper names.",
+            "answers": [
+                "Italy",
+                "the Italy"
+            ],
+            "correct": 0,
+            "id": "4fb66753b6fd423981c94af9eda5bcda"
+        },
+        {
+            "question": "……………………. child can learn to swim.",
+            "description": "Any and every can both be used to talk in general about all the members of a class or group.",
+            "answers": [
+                "Any",
+                "Every",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "18e6ae85c96e4701be4e25c15527d18b"
+        },
+        {
+            "question": "I am ………………………. happy and sad.",
+            "description": "Alternately means in turn.",
+            "answers": [
+                "alternatively",
+                "alternately",
+                "alternative",
+                "alternate"
+            ],
+            "correct": 1,
+            "id": "6c377a6af5054c06bf041e09b20a94ba"
+        },
+        {
+            "question": "………………………. I didn’t understand a word, I kept smiling.",
+            "description": "Even if refers to the present or future. Even though refers to the past.",
+            "answers": [
+                "Even though",
+                "Even if",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "fe6cde54c9654e52a05609d39bb7fb88"
+        }
+    ]
+}

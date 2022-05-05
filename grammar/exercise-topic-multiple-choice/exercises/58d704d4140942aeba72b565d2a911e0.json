@@ -1,0 +1,136 @@
+{
+    "id": "58d704d4140942aeba72b565d2a911e0",
+    "title": "Irregular Verbs",
+    "questions": [
+        {
+            "question": "I …………………… the bell six times.",
+            "description": "Rang is the past tense of ring.",
+            "answers": [
+                "ringed",
+                "rang"
+            ],
+            "correct": 1,
+            "id": "3d33dcdf76ba42c89df769caf55723d4"
+        },
+        {
+            "question": "Susie has ……………………….. her violin.",
+            "description": "The third form of the verb is used after has/have/had.",
+            "answers": [
+                "bringed",
+                "brought",
+                "bring"
+            ],
+            "correct": 1,
+            "id": "334b68b584ee4ed7913ff39df30e4825"
+        },
+        {
+            "question": "They ………………………. Vodka for most of the evening.",
+            "description": "Drank is the past tense of drink.",
+            "answers": [
+                "drinked",
+                "drank",
+                "drunk"
+            ],
+            "correct": 1,
+            "id": "fbd19d69484e42d785e8e20ab00240f8"
+        },
+        {
+            "question": "The clothes were ……………………….. dry.",
+            "description": "Wrung is the past tense of wring.",
+            "answers": [
+                "wringed",
+                "wrung",
+                "wrang"
+            ],
+            "correct": 1,
+            "id": "3d83e09d395245a99a581afad9f83e0b"
+        },
+        {
+            "question": "They ……………………. a pit.",
+            "description": "",
+            "answers": [
+                "digged",
+                "dug",
+                "dig"
+            ],
+            "correct": 1,
+            "id": "221aaa5a755b4dcfbfa14862c92eed84"
+        },
+        {
+            "question": "A powerful earthquake ………………………… the island yesterday.",
+            "description": "Struck is the past tense of strike. ",
+            "answers": [
+                "striked",
+                "struck",
+                "struk"
+            ],
+            "correct": 1,
+            "id": "cc19a8f6627242f99cfc4f57d1ca49bc"
+        },
+        {
+            "question": "She ………………………… the books on the table.",
+            "description": "Laid is the past tense of lay.",
+            "answers": [
+                "layed",
+                "laid",
+                "lied"
+            ],
+            "correct": 1,
+            "id": "4859eab19c87441e88b6840b53a692ea"
+        },
+        {
+            "question": "She ………………………… a gown to the party.",
+            "description": "Wore is the past tense of wear.",
+            "answers": [
+                "weared",
+                "wore",
+                "wored"
+            ],
+            "correct": 1,
+            "id": "0984a78ca68a48ed916b758ef948febf"
+        },
+        {
+            "question": "She has …………………………….. five children in six years.",
+            "description": "",
+            "answers": [
+                "born",
+                "borne",
+                "bored"
+            ],
+            "correct": 1,
+            "id": "1a2b02f5216141079f50c669d9f5a487"
+        },
+        {
+            "question": "Suddenly she ……………………….. into tears.",
+            "description": "",
+            "answers": [
+                "burst",
+                "bursted"
+            ],
+            "correct": 0,
+            "id": "5709ddd3e50b4594b4e7fe29a69432c2"
+        },
+        {
+            "question": "His ……………………….. shirt clearly indicated that he was poor.",
+            "description": "",
+            "answers": [
+                "tore",
+                "torn",
+                "teared"
+            ],
+            "correct": 1,
+            "id": "9022bd76b38947a4ae3119b56b947697"
+        },
+        {
+            "question": "I was ………………………. by the doorbell.",
+            "description": "",
+            "answers": [
+                "awaken",
+                "awakened",
+                "wakened"
+            ],
+            "correct": 1,
+            "id": "7e53f0d123e0472295a03efbfb316e58"
+        }
+    ]
+}

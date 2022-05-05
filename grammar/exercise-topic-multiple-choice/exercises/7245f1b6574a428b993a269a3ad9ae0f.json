@@ -1,0 +1,134 @@
+{
+    "id": "7245f1b6574a428b993a269a3ad9ae0f",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "They worked hard although there was ……………………….. chance of success.",
+            "description": "Little is similar to no.",
+            "answers": [
+                "little",
+                "a little",
+                "the little"
+            ],
+            "correct": 0,
+            "id": "348183bd487e407c9f0fc8d5a14a27b2"
+        },
+        {
+            "question": "……………………….. money we had helped us immensely.",
+            "description": "The little means not much but all that there is.",
+            "answers": [
+                "Little",
+                "A little",
+                "The little"
+            ],
+            "correct": 2,
+            "id": "7b5365c84fd1428b86aed0ee54af82ce"
+        },
+        {
+            "question": "There is …………………………. food in the fridge if you are hungry.",
+            "description": "A little means some or not much. It has a positive meaning.",
+            "answers": [
+                "little",
+                "a little",
+                "the little"
+            ],
+            "correct": 1,
+            "id": "2edd7138735f4e5dbbc9cb94b1a43464"
+        },
+        {
+            "question": "………………………… foreigners can write perfect English.",
+            "description": "Few means hardly any. It has a negative meaning.",
+            "answers": [
+                "Few",
+                "A few",
+                "The few"
+            ],
+            "correct": 0,
+            "id": "8d9e729dd72b4a74acdf3d4af1b95b39"
+        },
+        {
+            "question": "I would like to ask ………………………… questions.",
+            "description": "A few means some.",
+            "answers": [
+                "few",
+                "a few",
+                "the few"
+            ],
+            "correct": 1,
+            "id": "aa6ee6ff4aff404e8e794e6c77ca7bd1"
+        },
+        {
+            "question": "…………………………. libraries that we have are not properly maintained.",
+            "description": "The few means not many but all that there is.",
+            "answers": [
+                "Few",
+                "A few",
+                "The few"
+            ],
+            "correct": 2,
+            "id": "7e68ad7aa6464ccbaeb2c3d258d2f424"
+        },
+        {
+            "question": "We did not get …………………………. help.",
+            "description": "Any is used in negatives and interrogatives. ",
+            "answers": [
+                "any",
+                "some",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "1d396fa1c4ec4488896588fe3806da4a"
+        },
+        {
+            "question": "There is …………………………. water in the bottle if you are thirsty.",
+            "description": "Some is used in affirmative sentences. ",
+            "answers": [
+                "some",
+                "any"
+            ],
+            "correct": 0,
+            "id": "e67eecc85c044ad5bcab9025374f3a40"
+        },
+        {
+            "question": "Will you give me …………………………… to eat?",
+            "description": "Some is used in interrogative sentences, when we expect an affirmative answer.",
+            "answers": [
+                "anything",
+                "something"
+            ],
+            "correct": 1,
+            "id": "4d2c13289f7b4b1c976493a2d5df8c4f"
+        },
+        {
+            "question": "I haven’t heard ………………………….. from them.",
+            "description": "Anything is used in negatives.",
+            "answers": [
+                "anything",
+                "something"
+            ],
+            "correct": 0,
+            "id": "485e03fcc1384962af056ab2a6a86fc0"
+        },
+        {
+            "question": "……………………………… politicians are really honest.",
+            "description": "We use few with plural nouns.",
+            "answers": [
+                "Few",
+                "Little",
+                ""
+            ],
+            "correct": 0,
+            "id": "79a52ff16253477ea3a667c66ecdafe3"
+        },
+        {
+            "question": ".............................. money was wasted on the project.",
+            "description": "",
+            "answers": [
+                "Much",
+                "Most"
+            ],
+            "correct": 0,
+            "id": "db3927a395c74912beb7f480927d30af"
+        }
+    ]
+}

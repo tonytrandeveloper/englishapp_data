@@ -1,0 +1,138 @@
+{
+    "id": "877750298a5f4b23855e3850f5b350dd",
+    "title": "Verbs Exercise",
+    "questions": [
+        {
+            "question": "The teacher ...................... the lesson yesterday.",
+            "description": "",
+            "answers": [
+                "teaches",
+                "taught",
+                "has taught"
+            ],
+            "correct": 1,
+            "id": "3c5841291ab24278b7a9a93f36497c14"
+        },
+        {
+            "question": "Now he ...................... questions to see if the students have understood the lesson.",
+            "description": "",
+            "answers": [
+                "asks",
+                "is asking",
+                "asked"
+            ],
+            "correct": 1,
+            "id": "4a2795e4460c4ff4a3b66dbf1cc42fb1"
+        },
+        {
+            "question": "As he ....................... not satisfied with the answers, he .....................… the lesson tomorrow.",
+            "description": "",
+            "answers": [
+                "is, will repeat",
+                "was, would repeat",
+                "is, repeated"
+            ],
+            "correct": 0,
+            "id": "f4a04a48c77b4782aeb72469e23ad288"
+        },
+        {
+            "question": "John ..................... in hospital for two weeks.",
+            "description": "",
+            "answers": [
+                "is lying",
+                "lies",
+                "has been lying"
+            ],
+            "correct": 2,
+            "id": "3511a28d6683422aa9243155e167aa40"
+        },
+        {
+            "question": "We ..................... him yesterday.",
+            "description": "",
+            "answers": [
+                "were visiting",
+                "visited",
+                "have visited"
+            ],
+            "correct": 1,
+            "id": "4dbf189dd54d4bfabdb17361c6496640"
+        },
+        {
+            "question": "He ................... completely.",
+            "description": "",
+            "answers": [
+                "recovers",
+                "recovered",
+                "has recovered"
+            ],
+            "correct": 2,
+            "id": "5a62d613b5f24a14af5768c176c6ac7e"
+        },
+        {
+            "question": "Most probably he ..................... to school next week.",
+            "description": "",
+            "answers": [
+                "will come",
+                "would come",
+                "has come"
+            ],
+            "correct": 0,
+            "id": "6cdd1e3d487e4933b02f3e03ee07b6e8"
+        },
+        {
+            "question": "Mark ........................... for jobs ever since he passed his examination in March.",
+            "description": "",
+            "answers": [
+                "has applied",
+                "has been applying",
+                "applied"
+            ],
+            "correct": 1,
+            "id": "cc2f838d95524d60a0842d02c0e58486"
+        },
+        {
+            "question": "Last month he .................... for an interview.",
+            "description": "",
+            "answers": [
+                "has appeared",
+                "appeared",
+                "was appearing"
+            ],
+            "correct": 1,
+            "id": "6b44d3bc38ab4f4da61e8ed046ac9593"
+        },
+        {
+            "question": "He ..................... for the results.",
+            "description": "",
+            "answers": [
+                "waits",
+                "is waiting",
+                "waited"
+            ],
+            "correct": 1,
+            "id": "7ecfd992b6354df6ba4e7ef645457102"
+        },
+        {
+            "question": "I .................. to my friend a fortnight ago inviting her to spend the holidays with me.",
+            "description": "",
+            "answers": [
+                "have written",
+                "wrote",
+                "was writing"
+            ],
+            "correct": 1,
+            "id": "dff0c7bc1d3f48568cf0d400b7c24f11"
+        },
+        {
+            "question": "Yesterday, I ....................... her reply.",
+            "description": "",
+            "answers": [
+                "was receiving",
+                "received",
+                "have received"
+            ],
+            "correct": 1,
+            "id": "25f2c8f2bade475ba1b2e9c25e91c638"
+        }
+    ]
+}

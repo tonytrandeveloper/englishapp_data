@@ -1,0 +1,139 @@
+{
+    "id": "0be1f014b2dd45249306c5229445b328",
+    "title": "Who, Whom, Which, Whose, That, What",
+    "questions": [
+        {
+            "question": "……………… she said made me angry.",
+            "description": "What means ‘the things which’.",
+            "answers": [
+                "That",
+                "What",
+                "Which"
+            ],
+            "correct": 1,
+            "id": "1762c6d021a349369220222fb7798599"
+        },
+        {
+            "question": "She has acted in a movie …………….. name I don’t remember.",
+            "description": "Whose name means the same as ‘the name of which’.",
+            "answers": [
+                "which",
+                "what",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "636cdaf0997243d19039d37734b5d80a"
+        },
+        {
+            "question": "The only thing ………………. keeps me awake is tea.",
+            "description": "'What' means the things which. It cannot replace that. 'Which' is not common after 'only'.",
+            "answers": [
+                "that",
+                "what",
+                "which"
+            ],
+            "correct": 0,
+            "id": "e787cce1b097474a8a33d2e684e5b50f"
+        },
+        {
+            "question": "I have got something ………………. belongs to you.",
+            "description": "After quantifiers like something, anything and everything, we prefer that to which.",
+            "answers": [
+                "which",
+                "that",
+                "what"
+            ],
+            "correct": 1,
+            "id": "2075e16539304709b45e9a470b737776"
+        },
+        {
+            "question": "She married a nice young guy …………….. was her senior at college.",
+            "description": "The relative pronoun who replaces words like he, she or they.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "2f3d4aeedec44534817a6da646bf6e02"
+        },
+        {
+            "question": "This is the house ………………",
+            "description": "",
+            "answers": [
+                "where I was born",
+                "that I was born in",
+                "in which I was born",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "0daa48b0558b4212aafddc61aa5a9592"
+        },
+        {
+            "question": "It is a story ……………… will captivate readers of all ages.",
+            "description": "The relative pronoun which can only refer to things. That can refer to both people and things. ",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4954f4e8b63345d5bae4fec987f734f5"
+        },
+        {
+            "question": "The proposal ……………… she put forward was quite interesting.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "a4dfacc8ab2d47cfb366dc46a74996c4"
+        },
+        {
+            "question": "She is somebody ………………. really can’t stand.",
+            "description": "When the relative pronoun is the object of the relative clause, it is sometimes left out.",
+            "answers": [
+                "I",
+                "that I",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "5f7baccf72da48ab943147c22c2043fe"
+        },
+        {
+            "question": "She has married someone ……………. I really admire.",
+            "description": "Who is possible here in an informal style.",
+            "answers": [
+                "who",
+                "whom",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ff7adde0a19d4c1ea6934fbcd4492e37"
+        },
+        {
+            "question": "What is the name of the tall girl ………………. just walked in?",
+            "description": "In identifying relative clauses, we can use that to refer to people. ",
+            "answers": [
+                "who",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "46717a070fbf4716aa1acea9dbed53ac"
+        },
+        {
+            "question": "Is that your car ……………….. is parked outside?",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "334f7e6b943f4f31a9735c4501301c93"
+        }
+    ]
+}

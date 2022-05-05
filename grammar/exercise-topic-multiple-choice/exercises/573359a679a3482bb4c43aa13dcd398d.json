@@ -1,0 +1,135 @@
+{
+    "id": "573359a679a3482bb4c43aa13dcd398d",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "If I hadn’t dropped out of college I …………………… a better job.",
+            "description": "In the third conditional we use a past perfect tense in the if-clause and would/could/might have + past participle in the main clause.",
+            "answers": [
+                "can find",
+                "could find",
+                "could have found"
+            ],
+            "correct": 2,
+            "id": "0ed890ce711b4cc9acd5a625a9e20d89"
+        },
+        {
+            "question": "He took ……………………. his coat.",
+            "description": "To take off a coat is to remove it.",
+            "answers": [
+                "on",
+                "out",
+                "off"
+            ],
+            "correct": 2,
+            "id": "c8fbec42c61749ee8f741ac546d20be5"
+        },
+        {
+            "question": "You can do with me what you ……………………",
+            "description": "",
+            "answers": [
+                "want",
+                "wanted",
+                "are wanting"
+            ],
+            "correct": 0,
+            "id": "00cfbf448428420382be7ace821a18f9"
+        },
+        {
+            "question": "I know you ……………………. lying.",
+            "description": "Either could be used here. When the main verb is the present tense, the subordinate verb can be in any tense depending upon the context.",
+            "answers": [
+                "are",
+                "were",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "8d1ab514745e413ca7fdd0e067aeb434"
+        },
+        {
+            "question": "……………………. we tried, we could not find a solution to the problem.",
+            "description": "Fronted adjectives/adverbs are possible in a structure with as or though.",
+            "answers": [
+                "Hard though",
+                "Hard as",
+                "Though hard"
+            ],
+            "correct": 1,
+            "id": "25a718ffb8044c238c4799034603889e"
+        },
+        {
+            "question": "The lecture was ………………………..",
+            "description": "The present participle denotes the people or things that make us feel in a certain way. The past participle denotes how the people or things are feeling.",
+            "answers": [
+                "boring",
+                "bored"
+            ],
+            "correct": 0,
+            "id": "e5226e426f2b4ca4811cb57ed442531e"
+        },
+        {
+            "question": "Never ………………………. seen such a mess.",
+            "description": "Inversion is used when a sentence starts with only or hardly or seldom.",
+            "answers": [
+                "I have",
+                "have I"
+            ],
+            "correct": 1,
+            "id": "402d5c0b48cd4da698ba97a4c20ff021"
+        },
+        {
+            "question": "Hardly …………………… we arrived when the trouble started.",
+            "description": "Had is used before the past participle form of the verb. ",
+            "answers": [
+                "did",
+                "had"
+            ],
+            "correct": 1,
+            "id": "44789107009642f08399f2c0247dd4cc"
+        },
+        {
+            "question": "‘I have quit smoking.’ ‘……………….. have I.’",
+            "description": "",
+            "answers": [
+                "So",
+                "Either",
+                "Neither"
+            ],
+            "correct": 0,
+            "id": "271034287f43447d86a06a8cbe0cbab2"
+        },
+        {
+            "question": "As soon as she received the message, she …………………….. for home.",
+            "description": "",
+            "answers": [
+                "left",
+                "had left",
+                "has left"
+            ],
+            "correct": 0,
+            "id": "27f79194234c48c5877257790133db32"
+        },
+        {
+            "question": "They ……………………….. many objections.",
+            "description": "Raise is transitive. Rise is intransitive. ",
+            "answers": [
+                "raised",
+                "rose",
+                "risen"
+            ],
+            "correct": 0,
+            "id": "2b69c510a0774c28b135435b6aeb1ad1"
+        },
+        {
+            "question": "If I knew the answer, I ……………………. you.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + first form of the verb in the main clause.",
+            "answers": [
+                "would tell",
+                "will tell",
+                "would have told"
+            ],
+            "correct": 0,
+            "id": "3372354f0fa8428d88248f748670f558"
+        }
+    ]
+}

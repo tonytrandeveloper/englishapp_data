@@ -1,0 +1,138 @@
+{
+    "id": "2f8a23b6d6fe4cca9136bda66a5b4cfa",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "I ………………………….. the job yesterday itself.",
+            "description": "The simple past is the most normal tense for talking about finished events. ",
+            "answers": [
+                "finished",
+                "have finished",
+                "had finished"
+            ],
+            "correct": 0,
+            "id": "c8e761b01e414292905b4d2d9258dce8"
+        },
+        {
+            "question": "I ………………………….. all of them to my party.",
+            "description": "We often use the present perfect to give news. ",
+            "answers": [
+                "invited",
+                "have invited",
+                "had invited"
+            ],
+            "correct": 1,
+            "id": "00fab7dabf9246d28d78e5414e043c15"
+        },
+        {
+            "question": "Dad …………………………….. for Singapore yesterday.",
+            "description": "The simple past is the most normal tense for talking about finished events. ",
+            "answers": [
+                "left",
+                "has left",
+                "had left"
+            ],
+            "correct": 0,
+            "id": "457c68ed85094d339a1a126b72c742a4"
+        },
+        {
+            "question": "See that you .................................... on time.",
+            "description": "",
+            "answers": [
+                "will return",
+                "return",
+                "returned"
+            ],
+            "correct": 1,
+            "id": "2154de11f62d477492914916f2611ec9"
+        },
+        {
+            "question": "Mother made sure that we ………………………….. good education.",
+            "description": "When the main verb is in the past tense, the verb in the subordinate clause too will be in the past tense.",
+            "answers": [
+                "received",
+                "have received",
+                "had received"
+            ],
+            "correct": 0,
+            "id": "719b1ca61b41473a9bf52c392b717a1b"
+        },
+        {
+            "question": "You would get a promotion if you ……………………………… your target.",
+            "description": "In the second conditional we use a simple past tense in the if clause and would + first form of the verb in the main clause. ",
+            "answers": [
+                "met",
+                "have met",
+                "had met"
+            ],
+            "correct": 0,
+            "id": "a5448a4a75054ab0b61d6d70dc502add"
+        },
+        {
+            "question": "As I was feeling ill, I ………………………….. a doctor.",
+            "description": "",
+            "answers": [
+                "consulted",
+                "have consulted",
+                "had consulted"
+            ],
+            "correct": 0,
+            "id": "70c6c98bbe6348b298814bf245492db5"
+        },
+        {
+            "question": "She …………………………… for a job since she left university.",
+            "description": "The present perfect continuous is used to talk about an action or situation that started in the past and has continued up to the present. ",
+            "answers": [
+                "has been looking",
+                "is looking",
+                "was looking"
+            ],
+            "correct": 0,
+            "id": "84f00beb1ad14f6ea3edeef9164cf030"
+        },
+        {
+            "question": "If you ………………………….. for an hour, you will be able to meet her.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + first form of the verb in the main clause. ",
+            "answers": [
+                "wait",
+                "waited",
+                "will wait"
+            ],
+            "correct": 0,
+            "id": "5dca7e648bd7405999b8172cceca7ed7"
+        },
+        {
+            "question": "Although I ………………………….. early, I was late for work.",
+            "description": "",
+            "answers": [
+                "start",
+                "started",
+                "have started"
+            ],
+            "correct": 1,
+            "id": "7ab6061c92ff4ba6b8aced278304611b"
+        },
+        {
+            "question": "Father hit the roof when he learned that I ……………………………. my test.",
+            "description": "",
+            "answers": [
+                "failed",
+                "have failed",
+                "had failed"
+            ],
+            "correct": 2,
+            "id": "45afc86678cb4229b6735d2ec28d0979"
+        },
+        {
+            "question": "When I visited him he ........................................ ill for months.",
+            "description": "The past perfect is used to talk about an action or situation that continued up to a certain point of time in the past. ",
+            "answers": [
+                "was",
+                "has been",
+                "had been"
+            ],
+            "correct": 2,
+            "id": "23ca2def44b145db8a789019061718ed"
+        }
+    ]
+}

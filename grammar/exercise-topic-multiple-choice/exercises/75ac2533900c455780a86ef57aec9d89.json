@@ -1,0 +1,130 @@
+{
+    "id": "75ac2533900c455780a86ef57aec9d89",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "His grandfather is …………………………..",
+            "description": "Dead is an adjective. Died is a verb. Adjectives can be used as subject complements. ",
+            "answers": [
+                "died",
+                "dead"
+            ],
+            "correct": 1,
+            "id": "a1bc71eaa286460d911d40f754cb618f"
+        },
+        {
+            "question": "His grandparents have ………………………………",
+            "description": "",
+            "answers": [
+                "died",
+                "dead"
+            ],
+            "correct": 0,
+            "id": "806492c0a4fd41138360b2b147092297"
+        },
+        {
+            "question": "He ………………………………. in",
+            "description": "The present perfect is not used with past time expressions.",
+            "answers": [
+                "has graduated",
+                "graduated",
+                "had graduated"
+            ],
+            "correct": 1,
+            "id": "834bafba9ad34782bceabfac71fe2736"
+        },
+        {
+            "question": "She ………………………………. me of her mother.",
+            "description": "",
+            "answers": [
+                "reminds",
+                "remembers"
+            ],
+            "correct": 0,
+            "id": "52964272b3264bac82a708ef601f729c"
+        },
+        {
+            "question": "He …………………………… me a visit.",
+            "description": "",
+            "answers": [
+                "made",
+                "gave",
+                "paid"
+            ],
+            "correct": 2,
+            "id": "a5d548f413594b288075b49962219f23"
+        },
+        {
+            "question": "He objected …………………………… sitting there.",
+            "description": "A pronoun used to modify a gerund is usually in its possessive form.",
+            "answers": [
+                "to me",
+                "to my",
+                "me"
+            ],
+            "correct": 1,
+            "id": "4177229dac1a4aad935a73ee37ea4081"
+        },
+        {
+            "question": "We are looking forward to …………………………….. you soon.",
+            "description": "We use an ing form after look forward to.",
+            "answers": [
+                "meet",
+                "meeting"
+            ],
+            "correct": 1,
+            "id": "bfec781d59e747a4bbe9eb9ad00e22df"
+        },
+        {
+            "question": "How …………………………………. boy he is!",
+            "description": "",
+            "answers": [
+                "a foolish",
+                "foolish a"
+            ],
+            "correct": 1,
+            "id": "67aae25f152a48f2ab78da418d72a14c"
+        },
+        {
+            "question": "Tell me where ………………………………..",
+            "description": "In indirect questions, the subject goes before the auxiliary verb.",
+            "answers": [
+                "are you going",
+                "you are going"
+            ],
+            "correct": 1,
+            "id": "05d8f690fd1b4db59151edf534850ba0"
+        },
+        {
+            "question": "You had better ………………………………… another application.",
+            "description": "Had better is followed by an infinitive without to.",
+            "answers": [
+                "send",
+                "to send",
+                "sent"
+            ],
+            "correct": 0,
+            "id": "c911b776b00d41b396f863e40fc10e6b"
+        },
+        {
+            "question": "If you went there, you ………………………………… see him.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + first form of the verb in the main clause.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "953180f8873f438bba7c15f1b221ae18"
+        },
+        {
+            "question": "If I ............................... this, I would be wrong.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + first form of the verb in the main clause.",
+            "answers": [
+                "do",
+                "did"
+            ],
+            "correct": 1,
+            "id": "37040b298f8d4d40913590e7ca5d0c58"
+        }
+    ]
+}

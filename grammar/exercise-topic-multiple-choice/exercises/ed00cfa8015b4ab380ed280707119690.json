@@ -1,0 +1,125 @@
+{
+    "id": "ed00cfa8015b4ab380ed280707119690",
+    "title": "Infinitive With Or Without To",
+    "questions": [
+        {
+            "question": "Don’t let him ………………………….",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "go",
+                "to go",
+                "going"
+            ],
+            "correct": 0,
+            "id": "5fcb5548fbbe4efdafa49400c3c84556"
+        },
+        {
+            "question": "She was not permitted ……………………….. to him.",
+            "description": "Permit is followed by an infinitive with to.",
+            "answers": [
+                "to talk",
+                "to talking"
+            ],
+            "correct": 0,
+            "id": "ff86538f5bb646fba988f636265ed0f7"
+        },
+        {
+            "question": "I saw them ………………………… the road.",
+            "description": "See can be followed by object + ing form or bare infinitive. ",
+            "answers": [
+                "cross",
+                "to cross",
+                "crossing"
+            ],
+            "correct": 2,
+            "id": "65fb3e50bfc141b4b9e294e9b778ddbd"
+        },
+        {
+            "question": "I heard them …………………………. in the other room.",
+            "description": "Hear can be followed by object + ing form or bare infinitive. ",
+            "answers": [
+                "talk",
+                "to talk",
+                "talking"
+            ],
+            "correct": 2,
+            "id": "1b647c2587084304a189e9e020754cfc"
+        },
+        {
+            "question": "They encouraged me ………………………… another attempt.",
+            "description": "Encourage is followed by a to-infinitive. ",
+            "answers": [
+                "make",
+                "to make",
+                "making"
+            ],
+            "correct": 1,
+            "id": "a7aba3c775bb49c7b6ae9694bc548d65"
+        },
+        {
+            "question": "She was told …………………………",
+            "description": "",
+            "answers": [
+                "quit",
+                "quitting",
+                "to quit"
+            ],
+            "correct": 2,
+            "id": "66830a97720b4c0b851cc7539c8841af"
+        },
+        {
+            "question": "I requested him …………………………. me.",
+            "description": "",
+            "answers": [
+                "help",
+                "to help",
+                "helping"
+            ],
+            "correct": 1,
+            "id": "ac3dbcef18494eccb7d54e3da3cc96d6"
+        },
+        {
+            "question": "The teacher advised the students ……………………….. harder.",
+            "description": "Advise is followed by an infinitive with to. ",
+            "answers": [
+                "work",
+                "to work",
+                "working"
+            ],
+            "correct": 1,
+            "id": "5ec378bd964c44bc9b8b21d7f7b4ecf3"
+        },
+        {
+            "question": "The poor slaves were made ………………………… day and night.",
+            "description": "When make is used in its passive form, it is followed by an infinitive with to.",
+            "answers": [
+                "work",
+                "to work",
+                "working"
+            ],
+            "correct": 1,
+            "id": "d84fa0e715414063803a0c45c4a7e930"
+        },
+        {
+            "question": "The cruel master made them ………………………… harder and harder.",
+            "description": "Make is followed by object + bare infinitive. ",
+            "answers": [
+                "work",
+                "to work"
+            ],
+            "correct": 0,
+            "id": "fe212525dc6e4ea0b4d6a5f6ce4c5433"
+        },
+        {
+            "question": "I want you ……………………….. by evening.",
+            "description": "Want is followed by object + to-infinitive. ",
+            "answers": [
+                "to return",
+                "return",
+                ""
+            ],
+            "correct": 0,
+            "id": "a42d16fdc35948bbace4e86c1f2bb482"
+        }
+    ]
+}

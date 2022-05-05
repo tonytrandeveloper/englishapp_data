@@ -1,0 +1,115 @@
+{
+    "id": "cdd187c241034f4aa37e974df057cbe1",
+    "title": "Reported Speech Exercise",
+    "questions": [
+        {
+            "question": "My mother said, ‘You are the laziest boy I have ever seen.’ / My mother said that I ........................................ the laziest boy she had ever seen.",
+            "description": "",
+            "answers": [
+                "am",
+                "was",
+                "had been"
+            ],
+            "correct": 1,
+            "id": "9066a91d54524247b217f9d3069f18f4"
+        },
+        {
+            "question": "He told me, ‘I don’t like your hairstyle.’ / He told me that he ................................... my hairstyle.",
+            "description": "",
+            "answers": [
+                "doesn't like",
+                "didn't like",
+                "hadn't liked"
+            ],
+            "correct": 1,
+            "id": "0ca84a8e0f5445929d9927c3d5e19e36"
+        },
+        {
+            "question": "Martin said, ‘If my father gives me the permission, I will go to Singapore.’ / Martin said that if his father .................................................. him the permission, he would go to Singapore.",
+            "description": "",
+            "answers": [
+                "give",
+                "gave",
+                "had given"
+            ],
+            "correct": 1,
+            "id": "66714c2f4c4c4510861cd6e8a278534b"
+        },
+        {
+            "question": "‘I will show you how to do it,’ said the father to his son. / The father told his son that he ............................................. him how to do it.",
+            "description": "",
+            "answers": [
+                "showed",
+                "will show",
+                "would show"
+            ],
+            "correct": 2,
+            "id": "5163b48708c64a5588ebbb8bf66f913c"
+        },
+        {
+            "question": "‘I have come to borrow a book from the library,’ the boy said. / The boy said that he ....................................... to borrow a book from the library.",
+            "description": "",
+            "answers": [
+                "came",
+                "has come",
+                "had come"
+            ],
+            "correct": 2,
+            "id": "e54c147d6b99494ca74b71f24bed5e75"
+        },
+        {
+            "question": "‘I am going to the US,’ he says. / He says that he .......................................... to the US.",
+            "description": "",
+            "answers": [
+                "went",
+                "was going",
+                "is going"
+            ],
+            "correct": 2,
+            "id": "6c24ebe95ee64aa2a8129419d022eedd"
+        },
+        {
+            "question": "‘I want to see the house before I buy it,’ he told the agent. / He told the agent that he ............................................ to see the house before he bought it.",
+            "description": "",
+            "answers": [
+                "wants",
+                "wanted",
+                "had wanted"
+            ],
+            "correct": 1,
+            "id": "23737d4776b749ba88f24fceb889c9dc"
+        },
+        {
+            "question": "‘You must change your wet clothes,’ my mother said. / My mother told me that I .................................................. change my wet clothes.",
+            "description": "",
+            "answers": [
+                "must",
+                "have to",
+                "had to"
+            ],
+            "correct": 2,
+            "id": "f94e3a0e8d02475bbbcd7d522e7140f7"
+        },
+        {
+            "question": "‘We needn’t tell her,’ he said. / He said that they .................................... to tell her.",
+            "description": "",
+            "answers": [
+                "don't need",
+                "didn't need",
+                "wouldn't need"
+            ],
+            "correct": 1,
+            "id": "7ce289e84e044687a0b1376e33d116d2"
+        },
+        {
+            "question": "‘No one can say what will happen next,’ the speaker said. / The speaker said that no one ........................................... what would happen next.",
+            "description": "",
+            "answers": [
+                "can say",
+                "could say"
+            ],
+            "correct": 1,
+            "id": "9d71bf74c1504ad69c65853a5f799ada"
+        }
+    ]
+}

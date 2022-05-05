@@ -1,0 +1,132 @@
+{
+    "id": "4a0bd4622f4d404ab402370cab20ed04",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "These ..................... belong to my uncle.",
+            "description": "The word cattle is plural. ",
+            "answers": [
+                "cattle",
+                "cattles"
+            ],
+            "correct": 0,
+            "id": "2ee1a16a89b24ba68f05ea0ef1813338"
+        },
+        {
+            "question": "Neither of them ...................... hard.",
+            "description": "Use a singular verb after either and neither. ",
+            "answers": [
+                "works",
+                "work",
+                "are working"
+            ],
+            "correct": 0,
+            "id": "fcd0a0e323d7413ba1f61e58de3e1ca1"
+        },
+        {
+            "question": "One of the boys .................... missing.",
+            "description": "Use a singular verb after one of.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "608f84abdea847ac9f6662fdeeddcf06"
+        },
+        {
+            "question": "The stars as well as the moon ...................... us light.",
+            "description": "When we connect two nouns with as well as, the verb agrees with the former in number and person.",
+            "answers": [
+                "gives",
+                "give"
+            ],
+            "correct": 1,
+            "id": "85eae6673b314572969c6ffea05f27f8"
+        },
+        {
+            "question": "He asked ....................... we had had our lunch.",
+            "description": "We use if or whether to report a question. ",
+            "answers": [
+                "if",
+                "whether",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "58a5930bfbaf42b5821ba3546d30e2b7"
+        },
+        {
+            "question": "The council ..................... of ten members.",
+            "description": "Council is a collective noun collective nouns are usually considered as singular and take singular verbs. ",
+            "answers": [
+                "consist",
+                "consists"
+            ],
+            "correct": 1,
+            "id": "3376441712df4c839799d7813bedff7b"
+        },
+        {
+            "question": "He knows ........................ swim.",
+            "description": "Know is followed by how to. ",
+            "answers": [
+                "to",
+                "how to"
+            ],
+            "correct": 1,
+            "id": "e1bf4fed25eb433e94675f732c6541a2"
+        },
+        {
+            "question": "You must ..................... your teacher's advice.",
+            "description": "You can hear something without wanting to. To listen is to pay attention. Use listen to before an object. ",
+            "answers": [
+                "hear",
+                "listen",
+                "listen to"
+            ],
+            "correct": 2,
+            "id": "6f381bb643d74b2dbf6888420db3c3a2"
+        },
+        {
+            "question": "Six thousand francs ....................... not much to Roucolle.",
+            "description": "When we talk about a sum of money, we usually use a singular verb with it.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "98b0a135bca6497ca6ab85249954427e"
+        },
+        {
+            "question": "He was here a moment ........................",
+            "description": "Ago is used to count back from now. Before is used to count back from a point of time in the past. ",
+            "answers": [
+                "ago",
+                "before",
+                "past"
+            ],
+            "correct": 0,
+            "id": "89743ccc074045118aa850878f16c276"
+        },
+        {
+            "question": "He ........................ for the last ten months.",
+            "description": "To talk about an action or situation that started in the past and has continued up to the present, use the present perfect or present perfect continuous tense.",
+            "answers": [
+                "is ailing",
+                "has been ailing",
+                "was ailing"
+            ],
+            "correct": 1,
+            "id": "554c61ae261f4cbc86e98ca2a4a27a6e"
+        },
+        {
+            "question": "He is elder ...................... me.",
+            "description": "Use than after older and to after elder. ",
+            "answers": [
+                "than",
+                "to",
+                "from"
+            ],
+            "correct": 1,
+            "id": "47102c411cd84a93be98d3730b544fbb"
+        }
+    ]
+}

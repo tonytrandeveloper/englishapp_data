@@ -1,0 +1,136 @@
+{
+    "id": "7977970be2914dbc8a48b8fc3ccddc81",
+    "title": "So That, For, To | Expressing Purpose",
+    "questions": [
+        {
+            "question": "I talked to the shy girl ................................ that she would not feel left out.",
+            "description": "We use the pattern so that to express the purpose here.",
+            "answers": [
+                "so",
+                "for",
+                "to"
+            ],
+            "correct": 0,
+            "id": "d45448d024cc4698bea831c1bc795115"
+        },
+        {
+            "question": "We stopped at the restaurant .............................. lunch.",
+            "description": "Before a noun 'for' indicates the purpose in doing something.",
+            "answers": [
+                "so that",
+                "to",
+                "for"
+            ],
+            "correct": 2,
+            "id": "7f9da06f6384496b9d48bffe6e2359b3"
+        },
+        {
+            "question": "We stopped at the restaurant .................................... lunch.",
+            "description": "For cannot be used before a verb in this sense.",
+            "answers": [
+                "for having",
+                "to have",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "fbfb8ec2050f4b1fbbd9e7bc4602530b"
+        },
+        {
+            "question": "I went to America ................................. my brother.",
+            "description": "",
+            "answers": [
+                "for seeing",
+                "to see",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "315e3fdfb72c467b85fe9068d275465c"
+        },
+        {
+            "question": "A barometer is used ................................. pressure.",
+            "description": "For + ing can be used to express the purpose of a thing when that thing is the subject of the clause.",
+            "answers": [
+                "to measure",
+                "for measuring"
+            ],
+            "correct": 1,
+            "id": "f5b3cfca887d44c384a5441f8e69f421"
+        },
+        {
+            "question": "He went to London .................................. for work.",
+            "description": "",
+            "answers": [
+                "for looking",
+                "to look"
+            ],
+            "correct": 1,
+            "id": "86ff6a1dcec84d4aa100fc700d4ee197"
+        },
+        {
+            "question": "I warned him ................................... he would not repeat the same mistake.",
+            "description": "Before a clause we use so that.",
+            "answers": [
+                "for",
+                "to",
+                "so that"
+            ],
+            "correct": 2,
+            "id": "14ec4cb9d53b4602b272bb0c59596e85"
+        },
+        {
+            "question": "We eat .................................. live.",
+            "description": "",
+            "answers": [
+                "to",
+                "for",
+                "so that"
+            ],
+            "correct": 0,
+            "id": "6a465162f8954616ba84c1c21b51d0f1"
+        },
+        {
+            "question": "We eat .................................. we may live.",
+            "description": "We use so that before a clause to express purpose.",
+            "answers": [
+                "for",
+                "to",
+                "so that"
+            ],
+            "correct": 2,
+            "id": "5f126e1feaad4cf195968b94408e5549"
+        },
+        {
+            "question": "We started early ................................... we would not be late.",
+            "description": "",
+            "answers": [
+                "for",
+                "to",
+                "so that"
+            ],
+            "correct": 2,
+            "id": "c1b7360de2c8474bb66abebb66fba110"
+        },
+        {
+            "question": "We bought some burgers ................................ eat on the way.",
+            "description": "",
+            "answers": [
+                "to",
+                "so that",
+                "for"
+            ],
+            "correct": 0,
+            "id": "50df485f8a2f47a9abfe04d54372ab80"
+        },
+        {
+            "question": "He was sent to prison ................................... stealing.",
+            "description": "For + ing form can be used to explain the behaviour that caused the reaction mentioned in the previous part of the sentence.",
+            "answers": [
+                "to",
+                "so that",
+                "for"
+            ],
+            "correct": 2,
+            "id": "409df8b6b1a147a791b5b2a8d377fa50"
+        }
+    ]
+}

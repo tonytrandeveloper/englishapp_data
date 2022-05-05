@@ -1,0 +1,138 @@
+{
+    "id": "6ffaca68480b470aadefb9b9681a523e",
+    "title": "Verbs Exercise",
+    "questions": [
+        {
+            "question": "The song ……………………… on an old folk tune.",
+            "description": "",
+            "answers": [
+                "based",
+                "is based",
+                "has based"
+            ],
+            "correct": 1,
+            "id": "9aa0764ce7ea486c965b8eae2ef21aaf"
+        },
+        {
+            "question": "The farmer ………………………. when he bought a barren cow.",
+            "description": "The farmer didn't cheat. Someone cheated him. Hence, we need the passive verb form here. ",
+            "answers": [
+                "cheated",
+                "has cheated",
+                "was cheated"
+            ],
+            "correct": 2,
+            "id": "3a06d5154c1f463db37d20eaa319c0ae"
+        },
+        {
+            "question": "The balloon ………………………. with a bang.",
+            "description": "Burst is the past tense of burst. ",
+            "answers": [
+                "burst",
+                "bursted",
+                "bursten"
+            ],
+            "correct": 0,
+            "id": "ab9b6998bf4943ee8e6003fb091fbf34"
+        },
+        {
+            "question": "Good posture ………………………… from holding the backbone straight.",
+            "description": "Use the simple present to talk about facts. ",
+            "answers": [
+                "results",
+                "is resulting",
+                "resulting"
+            ],
+            "correct": 0,
+            "id": "ebd5d7864d1f4ccf92aa4246f30ec18b"
+        },
+        {
+            "question": "Abraham Lincoln …………………………. from an impoverished background.",
+            "description": "We use the simple past to say that something happened in the past. ",
+            "answers": [
+                "comes",
+                "has come",
+                "came"
+            ],
+            "correct": 2,
+            "id": "fce0cff2e4fe4a74a5b16d885e2c688f"
+        },
+        {
+            "question": "Bacteria ………………………… in the air we breathe and in the food we eat.",
+            "description": "Bacteria is a plural noun bacterium is the singular form. ",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "4765927cc79c487aa1d33acb3e803aa6"
+        },
+        {
+            "question": "The actress ………………………… for her babyish temper tantrums.",
+            "description": "",
+            "answers": [
+                "known",
+                "knows",
+                "was known"
+            ],
+            "correct": 2,
+            "id": "afdfea076a6c45c3adfdd8b7f022f153"
+        },
+        {
+            "question": "Everyone …………………………….. aware of the dangers of smoking.",
+            "description": "",
+            "answers": [
+                "should",
+                "be",
+                "should be"
+            ],
+            "correct": 2,
+            "id": "393efc85fa1c42a8a67bc3b5f54af9a7"
+        },
+        {
+            "question": "He said that he ………………………… for Alice.",
+            "description": "A past verb is used after a past reporting verb.",
+            "answers": [
+                "is waiting",
+                "was waiting",
+                "will be waiting"
+            ],
+            "correct": 1,
+            "id": "bba47248b3204d589393beba4eecde1b"
+        },
+        {
+            "question": "He said that he ………………………… a job.",
+            "description": "A present perfect in the direct speech will become past perfect in the indirect speech.",
+            "answers": [
+                "found",
+                "has found",
+                "had found"
+            ],
+            "correct": 2,
+            "id": "ab75538453d143daa2d0569661c28a27"
+        },
+        {
+            "question": "She said that she …………………………. for ages.",
+            "description": "A present perfect continuous in the direct speech will become past perfect continuous in the indirect speech.",
+            "answers": [
+                "was waiting",
+                "had been waiting",
+                "has been waiting"
+            ],
+            "correct": 1,
+            "id": "3e30a16ea0b14b098739703ed77f7c82"
+        },
+        {
+            "question": "He said that he ……………………….. meat.",
+            "description": "",
+            "answers": [
+                "has never eaten",
+                "had never eaten",
+                "never eats"
+            ],
+            "correct": 1,
+            "id": "a42ba81b0a4b4e7bb74715a6ed77902d"
+        }
+    ]
+}

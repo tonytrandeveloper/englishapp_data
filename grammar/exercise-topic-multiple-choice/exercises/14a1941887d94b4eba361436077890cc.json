@@ -1,0 +1,149 @@
+{
+    "id": "14a1941887d94b4eba361436077890cc",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "I ..................... . up several times in the night.",
+            "description": "",
+            "answers": [
+                "woke",
+                "have waken",
+                "had woken"
+            ],
+            "correct": 0,
+            "id": "935054a31bf041ab8f465ba5cfe96b0f"
+        },
+        {
+            "question": "My mother ....................... delicious meals.",
+            "description": "",
+            "answers": [
+                "cook",
+                "cooks",
+                "have cooked"
+            ],
+            "correct": 1,
+            "id": "874bdd9b018f444e82494d3619e8aa44"
+        },
+        {
+            "question": "She .....................… the answer.",
+            "description": "",
+            "answers": [
+                "not knows",
+                "do not know",
+                "does not know"
+            ],
+            "correct": 2,
+            "id": "fa554963dfb347ef9dd816d9de911a86"
+        },
+        {
+            "question": "The boys ....................... in the garden when it started raining.",
+            "description": "",
+            "answers": [
+                "are playing",
+                "were playing",
+                "played"
+            ],
+            "correct": 1,
+            "id": "b9be0a26be744d8ab720898473001e38"
+        },
+        {
+            "question": "I ..................... .. for him.",
+            "description": "",
+            "answers": [
+                "wait",
+                "am waiting",
+                "have waited"
+            ],
+            "correct": 1,
+            "id": "cdecdbf5d29a4262826a1018931796f2"
+        },
+        {
+            "question": "I …..................... . the parcel yesterday.",
+            "description": "",
+            "answers": [
+                "receive",
+                "had received",
+                "received"
+            ],
+            "correct": 2,
+            "id": "de66616a378a4a09a1e5f907c41e7f7a"
+        },
+        {
+            "question": "I .....................…… that movie three times.",
+            "description": "",
+            "answers": [
+                "watched",
+                "have watched",
+                "had watched"
+            ],
+            "correct": 1,
+            "id": "0a3c69064bc8410691ed33c684cd27dc"
+        },
+        {
+            "question": "Goats and cows .....................… us milk.",
+            "description": "",
+            "answers": [
+                "gives",
+                "give",
+                "gave"
+            ],
+            "correct": 1,
+            "id": "c1d63411796143d2b6297f5d987b7dd0"
+        },
+        {
+            "question": "Cows ..................... .. on grass.",
+            "description": "",
+            "answers": [
+                "feeds",
+                "feed",
+                "fed"
+            ],
+            "correct": 1,
+            "id": "6b0304edffa0427487142bb9f0757092"
+        },
+        {
+            "question": "I …..................... . for his call since yesterday.",
+            "description": "",
+            "answers": [
+                "waited",
+                "am waiting",
+                "have been waiting"
+            ],
+            "correct": 2,
+            "id": "34d4b8329f6d409a8bdf3455b39e5764"
+        },
+        {
+            "question": "I .....................…… all the books written by Dickens.",
+            "description": "",
+            "answers": [
+                "read",
+                "am reading",
+                "have read"
+            ],
+            "correct": 2,
+            "id": "54096259b71249e09b28370ade6218fb"
+        },
+        {
+            "question": "She ...................... in two films.",
+            "description": "",
+            "answers": [
+                "acted",
+                "has acted",
+                "acts"
+            ],
+            "correct": 1,
+            "id": "18c99e1432be442984cba27c23278cf8"
+        },
+        {
+            "question": "He ....................... nice portraits.",
+            "description": "",
+            "answers": [
+                "draw",
+                "draws",
+                "has drawn"
+            ],
+            "correct": 1,
+            "id": "e46ecea92ddc4d27a2f19d88e2deb6bb"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "id": "ff2ba83118dc4378b063ea752b8bceb0",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "………………………. you knew the answer, why didn’t you tell me?",
+            "description": "",
+            "answers": [
+                "Whether",
+                "If",
+                "Unless"
+            ],
+            "correct": 1,
+            "id": "6bd8d013b09349c1bea1b491c0143c91"
+        },
+        {
+            "question": "………………………. they were busy, I couldn’t talk to them.",
+            "description": "As gives the reason.",
+            "answers": [
+                "As",
+                "If",
+                "Though"
+            ],
+            "correct": 0,
+            "id": "7fa027b7d9c74175b70c0912b32758f6"
+        },
+        {
+            "question": "What will we do …………………………. she arrived now?",
+            "description": "If expresses a condition. ",
+            "answers": [
+                "if",
+                "unless",
+                "as"
+            ],
+            "correct": 0,
+            "id": "4ddcf6efb0bb44389ac429efc36e043d"
+        },
+        {
+            "question": "He could not meet his targets, ………………………. he was fired.",
+            "description": "So expresses the effect. ",
+            "answers": [
+                "so",
+                "as",
+                "since"
+            ],
+            "correct": 0,
+            "id": "6f6a6ee8bf7b4258a896845ea5f64c88"
+        },
+        {
+            "question": "…………………………. I ran fast, I could not overtake him.",
+            "description": "Though is used to connect two contrasting ideas. ",
+            "answers": [
+                "Though",
+                "As",
+                "Even if"
+            ],
+            "correct": 0,
+            "id": "1d7a6b40c3374d498fdd6834da53937f"
+        },
+        {
+            "question": "I didn’t know anyone at the party, ……………………….. still I had a good time.",
+            "description": "",
+            "answers": [
+                "even though",
+                "but",
+                "yet"
+            ],
+            "correct": 1,
+            "id": "42220c455c0b4b558699e1fa14059b26"
+        },
+        {
+            "question": "She neither called ………………………… wrote.",
+            "description": "Note the correlative conjunction neither...nor...",
+            "answers": [
+                "or",
+                "nor",
+                "and"
+            ],
+            "correct": 1,
+            "id": "a3d68aff15b94b8fb2864e1d5d0b16a3"
+        },
+        {
+            "question": "He died in the town ……………………….. he was born.",
+            "description": "Where can mean in which.",
+            "answers": [
+                "which",
+                "in which",
+                "where"
+            ],
+            "correct": 2,
+            "id": "eb60e074f36a4db49c0574e3d1634391"
+        },
+        {
+            "question": "……………………….. you are honest, everyone will respect you.",
+            "description": "All of these are possible here with slightly different meanings. ",
+            "answers": [
+                "If",
+                "As",
+                "As long as",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "2b1c1f3634dc4c1f9a9f67df48842fa7"
+        },
+        {
+            "question": "I waited and waited ………………………. he didn’t come.",
+            "description": "But connects two contradictory or contrasting ideas. ",
+            "answers": [
+                "and",
+                "yet",
+                "but"
+            ],
+            "correct": 2,
+            "id": "cb2e56f507ce44e1be0cca85d9c7042f"
+        },
+        {
+            "question": "I will tell her the news, ………………………… she arrives.",
+            "description": "",
+            "answers": [
+                "as soon as",
+                "as long as",
+                "no sooner"
+            ],
+            "correct": 0,
+            "id": "0702bc6c51254a51b1b90f9c7a6bfc0c"
+        },
+        {
+            "question": "……………………….. she is rich and famous, she leads a miserable life.",
+            "description": "Although is used to connect two contrasting ideas. ",
+            "answers": [
+                "Although",
+                "As",
+                "Even as"
+            ],
+            "correct": 0,
+            "id": "aa09d45535ef4eac9d15c3dbab2bc90e"
+        }
+    ]
+}

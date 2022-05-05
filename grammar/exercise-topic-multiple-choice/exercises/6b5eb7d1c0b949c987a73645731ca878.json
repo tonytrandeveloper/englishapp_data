@@ -1,0 +1,128 @@
+{
+    "id": "6b5eb7d1c0b949c987a73645731ca878",
+    "title": "Question Tags",
+    "questions": [
+        {
+            "question": "He tells a lot of lies, ………………………?",
+            "description": "If the main verb does not have an auxiliary verb, the question tag uses do, does or did. ",
+            "answers": [
+                "does he",
+                "doesn't he"
+            ],
+            "correct": 1,
+            "id": "bc374037ab11455a84ddc4da0d45f90c"
+        },
+        {
+            "question": "They came yesterday, …………………………?",
+            "description": "If the main verb does not have an auxiliary verb, the question tag uses do, does or did. ",
+            "answers": [
+                "did they",
+                "didn't they"
+            ],
+            "correct": 1,
+            "id": "ab909d81907848c7a1ce212352fe486a"
+        },
+        {
+            "question": "The earth is not flat, ……………………………?",
+            "description": "If the main verb has an auxiliary, it is repeated in the question tag.",
+            "answers": [
+                "is it",
+                "isn't it"
+            ],
+            "correct": 0,
+            "id": "13ceb33b0086444cb1d14a7401261876"
+        },
+        {
+            "question": "Mini speaks German, ……………………………..?",
+            "description": "If the main verb does not have an auxiliary verb, the question tag uses do, does or did. ",
+            "answers": [
+                "does she",
+                "doesn't she"
+            ],
+            "correct": 1,
+            "id": "fa86da6fac034e17993301c4b710eeb7"
+        },
+        {
+            "question": "She visited Germany last year, ………………………….?",
+            "description": "If the main verb does not have an auxiliary verb, the question tag uses do, does or did. ",
+            "answers": [
+                "did she",
+                "didn't she"
+            ],
+            "correct": 1,
+            "id": "e96d0131ae474bb18070fe03a38e57ca"
+        },
+        {
+            "question": "She has no house of her own, …………………………….?",
+            "description": "",
+            "answers": [
+                "has she",
+                "hasn't she"
+            ],
+            "correct": 0,
+            "id": "6f8a7827b7d14477a4beb0eb0365d792"
+        },
+        {
+            "question": "She hardly ate anything, ………………………….?",
+            "description": "Affirmative tags are used after negative words like hardly.",
+            "answers": [
+                "did she",
+                "didn't she"
+            ],
+            "correct": 0,
+            "id": "64d175609624437ca66a58d31b2bb96a"
+        },
+        {
+            "question": "You know him, ……………………………..?",
+            "description": "",
+            "answers": [
+                "do you",
+                "don't you"
+            ],
+            "correct": 1,
+            "id": "59034a1f29ef4c238ee14328a15b7c21"
+        },
+        {
+            "question": "Let’s eat something, ……………………………..?",
+            "description": "Shall we is used after let's.",
+            "answers": [
+                "will we",
+                "shall we",
+                "would we"
+            ],
+            "correct": 1,
+            "id": "d07adcb00d354f0a81e5d22ead11c668"
+        },
+        {
+            "question": "Few students knew the answer, ………………………..?",
+            "description": "Few has a negative meaning. Hence, a non-negative tag is used after it. ",
+            "answers": [
+                "did they",
+                "didn't they"
+            ],
+            "correct": 0,
+            "id": "75f8e98a483c4d1b89d8d3fb8a362b24"
+        },
+        {
+            "question": "No one knows the answer, ……………………………..?",
+            "description": "Non-negative tags are used after negative statements. ",
+            "answers": [
+                "does he",
+                "do they",
+                "do you"
+            ],
+            "correct": 1,
+            "id": "7b87299a91d54a60960e2be9d3386293"
+        },
+        {
+            "question": "Children enjoy playing, ………………………………..?",
+            "description": "Negative tags are used after affirmative statements",
+            "answers": [
+                "do they",
+                "don't they"
+            ],
+            "correct": 1,
+            "id": "7dac01016622419481079de2c41fbea4"
+        }
+    ]
+}

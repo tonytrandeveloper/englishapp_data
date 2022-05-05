@@ -1,0 +1,134 @@
+{
+    "id": "ac2691bcc6024d89a734373fc1357d46",
+    "title": "Nouns And Pronouns Exercise",
+    "questions": [
+        {
+            "question": "This is one of the best novels that ……………….. appeared this year.",
+            "description": "The verb in the relative clause should agree with the number and person of the antecedent of the relative pronoun.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "50080c5cd8b74188b746b6efb3d3d957"
+        },
+        {
+            "question": "The boy …………………….. I trusted proved worthy of my confidence.",
+            "description": "The boy proved worthy of my confidence.\r\nI trusted him.\r\nThe relative pronoun whom replaces words like him, her and them. When we combine them we use whom instead of him. ",
+            "answers": [
+                "who",
+                "which",
+                "whom"
+            ],
+            "correct": 2,
+            "id": "168bcb0758e840de8500afbe60d76eac"
+        },
+        {
+            "question": "Ambition is one of those passions that ………………………. never satisfied.",
+            "description": "The verb in the relative clause should agree with the number and person of the antecedent of the relative pronoun.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "3651928ceaf64336af7c52732e9b520f"
+        },
+        {
+            "question": "This is the same man ……………………….. we saw yesterday.",
+            "description": "When the antecedent is same, the consequent should be as or that.",
+            "answers": [
+                "that",
+                "as",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "d5418be933214e3eb452d7d25607570f"
+        },
+        {
+            "question": "He has an impudence ………………………… carry him through anything.",
+            "description": "When the relative pronoun is the subject of the relative clause, it cannot be omitted.",
+            "answers": [
+                "would",
+                "which would",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "6e899ad90df143bb8f46f9f4a55dbd15"
+        },
+        {
+            "question": "You and ………………………. are invited to tea this morning.",
+            "description": "A pronoun used as the subject should be in its subject form.",
+            "answers": [
+                "I",
+                "me",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "1fea791c748648ec92bb018b88b921c7"
+        },
+        {
+            "question": "Are they better qualified than ………………………… to judge?",
+            "description": "Subject pronouns are not normally used after than if it is not followed by a verb.",
+            "answers": [
+                "we",
+                "us",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "2fc87e7287134763a304098ce2d44704"
+        },
+        {
+            "question": "Neither of them ………………………….. invited to the party.",
+            "description": "The distributive pronouns each, either and neither are followed by a singular verb.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "fe9f66763a8e4576a6b952f9f3d4b3a3"
+        },
+        {
+            "question": "The athlete, ……………………………. you spoke so highly of, has failed to qualify for the race.",
+            "description": " The athlete has failed to qualify for the race. You spoke so highly of him. \r\nThe relative pronoun whom replaces words like him, her and them.",
+            "answers": [
+                "who",
+                "which",
+                "whom"
+            ],
+            "correct": 2,
+            "id": "b1feb986940446029d8238dc33c3f146"
+        },
+        {
+            "question": "When you have examined these documents please return ………………………. to us.",
+            "description": "Avoid the use of same as a substitute for the personal pronoun.",
+            "answers": [
+                "same",
+                "them",
+                "the same"
+            ],
+            "correct": 1,
+            "id": "d058de7df6414058a8c33e7264b74f34"
+        },
+        {
+            "question": "They know it as well as ……………………… do.",
+            "description": "Here the pronoun I is the subject of the verb do. ",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 0,
+            "id": "ca8bc73e610a4d3db58e87b323ead001"
+        },
+        {
+            "question": "He is as good a bowler as ....................................",
+            "description": "After as and than we can use an object pronoun or a subject pronoun + verb. ",
+            "answers": [
+                "me",
+                "I am",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "f7402ed155a3428d82fec88b50ed1620"
+        }
+    ]
+}

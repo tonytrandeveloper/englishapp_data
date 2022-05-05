@@ -1,0 +1,106 @@
+{
+    "id": "812f6bd14a7946b18fab58ac8b5ec33b",
+    "title": "If And Unless Exercise",
+    "questions": [
+        {
+            "question": "I cannot go …………………. he gives me permission.",
+            "description": "",
+            "answers": [
+                "if",
+                "unless"
+            ],
+            "correct": 1,
+            "id": "a2b9f75294934faa96511de4bc3075ab"
+        },
+        {
+            "question": "We cannot live …………………. we do not eat.",
+            "description": "",
+            "answers": [
+                "if",
+                "unless"
+            ],
+            "correct": 0,
+            "id": "1e0c9dd38f9c4477aec48f8831acc744"
+        },
+        {
+            "question": "………………… the rain stops, we will go out.",
+            "description": "",
+            "answers": [
+                "If",
+                "Unless"
+            ],
+            "correct": 0,
+            "id": "a4c83cf5c122414984dd16df2271482d"
+        },
+        {
+            "question": "…………………… I had enough money, I would buy a car.",
+            "description": "",
+            "answers": [
+                "If",
+                "Unless"
+            ],
+            "correct": 0,
+            "id": "ab0f9d346f064344b8a46feea2d7722a"
+        },
+        {
+            "question": "………………….. he expresses regret, he will not be allowed to enter the class.",
+            "description": "",
+            "answers": [
+                "Unless",
+                "If"
+            ],
+            "correct": 0,
+            "id": "d21e148499e94fedb8cba214cc092956"
+        },
+        {
+            "question": "He would be very happy ………………….. you invited him.",
+            "description": "",
+            "answers": [
+                "if",
+                "unless"
+            ],
+            "correct": 0,
+            "id": "b5113d61bcee4bbcbc22a97c83623c62"
+        },
+        {
+            "question": "You won’t get better ………………… you stop smoking.",
+            "description": "",
+            "answers": [
+                "if",
+                "unless"
+            ],
+            "correct": 1,
+            "id": "148cd56d18894854980e3d6e8f7e968f"
+        },
+        {
+            "question": "He will become the chief minister …………………. his party wins majority.",
+            "description": "",
+            "answers": [
+                "if",
+                "unless"
+            ],
+            "correct": 0,
+            "id": "7058f32303bd4434a31df55091f26a76"
+        },
+        {
+            "question": "You will fall ill ………………….. you expose yourself to the cold wind.",
+            "description": "",
+            "answers": [
+                "if",
+                "unless"
+            ],
+            "correct": 0,
+            "id": "2fef00fb8dec41b6866c9120e276d34c"
+        },
+        {
+            "question": "He won’t be promoted …………………… he wins the confidence of his manager.",
+            "description": "",
+            "answers": [
+                "if",
+                "unless"
+            ],
+            "correct": 1,
+            "id": "6e67738a69fb41049665439013090d3a"
+        }
+    ]
+}

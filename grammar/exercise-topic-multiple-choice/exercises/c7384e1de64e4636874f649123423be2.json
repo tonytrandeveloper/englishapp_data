@@ -1,0 +1,138 @@
+{
+    "id": "c7384e1de64e4636874f649123423be2",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "I lent ……………………… my pen.",
+            "description": "When the indirect object goes before the direct object, there is no preposition.",
+            "answers": [
+                "her",
+                "to her",
+                "for her"
+            ],
+            "correct": 0,
+            "id": "4f90d87287764e75912f48eb163a2019"
+        },
+        {
+            "question": "The old man told ………………………… the whole story.",
+            "description": "There is no preposition between tell and its objects.",
+            "answers": [
+                "us",
+                "to us",
+                "for us"
+            ],
+            "correct": 0,
+            "id": "21b4ae7d971048bfac03799f14c62034"
+        },
+        {
+            "question": "Show ………………………. your hands.",
+            "description": "When the indirect object goes before the direct object, there is no preposition.",
+            "answers": [
+                "me",
+                "to me",
+                "for me"
+            ],
+            "correct": 0,
+            "id": "4b1fb4cff10947479a791e6c029c61b7"
+        },
+        {
+            "question": "I lent my pen ………………………",
+            "description": "When the direct object goes before the indirect object, we put a preposition between them.",
+            "answers": [
+                "my friend",
+                "to my friend",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f0771cc73f6144f394cbea62f565a1ac"
+        },
+        {
+            "question": "She made coffee ……………………….",
+            "description": "When the direct object goes before the indirect object, we put a preposition between them.",
+            "answers": [
+                "us",
+                "to us",
+                "for us"
+            ],
+            "correct": 2,
+            "id": "0cc573d96f28432a815f80390e2ac195"
+        },
+        {
+            "question": "She washed the plates ………………………",
+            "description": "Here the correct pattern is subject + verb + noun/pronoun + adjective. In this case, the adjective denotes a state that results from the action expressed by the verb.",
+            "answers": [
+                "clean",
+                "cleanly",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "45d1e90c229b44148feb9fc6240e4871"
+        },
+        {
+            "question": "We found the trunk ………………………",
+            "description": "Here the correct pattern is subject + verb + noun/pronoun + adjective. In this case, the adjective denotes a state that results from the action expressed by the verb.",
+            "answers": [
+                "empty",
+                "emptily",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "403d16bf7fe54721bbf7ede5f98a399f"
+        },
+        {
+            "question": "You have made the walls …………………….",
+            "description": "Here the correct pattern is subject + verb + noun/pronoun + adjective. In this case, the adjective denotes a state that results from the action expressed by the verb.",
+            "answers": [
+                "dirty",
+                "dirtily",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "79672d9a4cbb4a2bbe11c54b26a5822e"
+        },
+        {
+            "question": "He has finished ………………………",
+            "description": "The verb finish is usually followed by an ing form.",
+            "answers": [
+                "talking",
+                "to talk",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "184c476a748c436288c555133add47f1"
+        },
+        {
+            "question": "I suggest ……………………….. travel insurance.",
+            "description": "Suggest cannot be followed by a to-infinitive. We use an ing form instead.",
+            "answers": [
+                "to buy",
+                "buying",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f06e84c23bb8496cb41433d993f2e756"
+        },
+        {
+            "question": "You must not miss ……………………… him.",
+            "description": "After miss, we use an ing form.",
+            "answers": [
+                "to see",
+                "seeing",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f842b08a3f3e411fbbace9bb8fdb5fc1"
+        },
+        {
+            "question": "I consider the plan …………………….",
+            "description": "",
+            "answers": [
+                "unwise",
+                "unwisely",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "880c5fced0824883ab6329d29e044178"
+        }
+    ]
+}

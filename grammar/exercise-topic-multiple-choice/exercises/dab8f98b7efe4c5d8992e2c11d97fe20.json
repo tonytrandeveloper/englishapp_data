@@ -1,0 +1,138 @@
+{
+    "id": "dab8f98b7efe4c5d8992e2c11d97fe20",
+    "title": "Prepositions quiz",
+    "questions": [
+        {
+            "question": "We may play football. It depends ......................... the weather.",
+            "description": "Depend and dependent take the preposition 'on'.",
+            "answers": [
+                "on",
+                "of",
+                "from"
+            ],
+            "correct": 0,
+            "id": "3d66e4666b744bf8b1b27ce36ce8cad2"
+        },
+        {
+            "question": "We want to see a big increase .................... productivity.",
+            "description": "Increase is followed by 'in', not 'of' or 'with'",
+            "answers": [
+                "of",
+                "in",
+                "with"
+            ],
+            "correct": 1,
+            "id": "a3f6ac4a19a3446ab982b21af740780f"
+        },
+        {
+            "question": "Excuse me, sir. You haven't ............................ your drink.",
+            "description": "We pay 'for' something that is bought.",
+            "answers": [
+                "pay",
+                "paid",
+                "paid for"
+            ],
+            "correct": 2,
+            "id": "81035b6276f645cd8de3abfab4185055"
+        },
+        {
+            "question": "His wife is suffering .............................. hepatitis.",
+            "description": "Suffer is followed by the preposition 'from'.",
+            "answers": [
+                "of",
+                "with",
+                "from"
+            ],
+            "correct": 2,
+            "id": "0642399cd084467db657d3165269e4f9"
+        },
+        {
+            "question": "I hate the thought .......................... going back to work.",
+            "description": "The correct expression is 'the thought of'.",
+            "answers": [
+                "to",
+                "of",
+                "for"
+            ],
+            "correct": 1,
+            "id": "f1bd6e452ae04f23a3f5f975e9fb8a71"
+        },
+        {
+            "question": "I am sorry ............................. breaking your window.",
+            "description": "Sorry can be followed by for or about.",
+            "answers": [
+                "for",
+                "about",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "db8f972887984d5eb111d3de54c74d5f"
+        },
+        {
+            "question": "Who is responsible ............................. the shopping this week?",
+            "description": "The words responsible and responsibility are followed by 'for'.",
+            "answers": [
+                "of",
+                "for",
+                "with"
+            ],
+            "correct": 1,
+            "id": "4f63c823ef404926a982cdabe8bf1352"
+        },
+        {
+            "question": "You remind me ............................ a boy I was at school with.",
+            "description": "We use remind...of to say that something makes us remember the past.",
+            "answers": [
+                "of",
+                "off"
+            ],
+            "correct": 0,
+            "id": "8f4a66180de349e1bf52ebdafaf05eb3"
+        },
+        {
+            "question": "I am pleased ........................... my exam results.",
+            "description": "We can be pleased with / about / at something, but we can only be pleased with somebody. ",
+            "answers": [
+                "with",
+                "about",
+                "at",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "1af76d0845d64f75b5b6a33e464b3b41"
+        },
+        {
+            "question": "The noise from upstairs prevented me .........................",
+            "description": "Note the pattern: prevent ... from ... ing form.",
+            "answers": [
+                "to sleep",
+                "from sleeping",
+                "from sleep"
+            ],
+            "correct": 1,
+            "id": "261cdf6aaec7449392893eaf6dd9209d"
+        },
+        {
+            "question": "She insisted ........................... paying for the drinks.",
+            "description": "Insist is followed by 'on'. ",
+            "answers": [
+                "to",
+                "for",
+                "on"
+            ],
+            "correct": 2,
+            "id": "b511d417ac734b28a2d3ec416f3ac0e0"
+        },
+        {
+            "question": "I am having difficulty .......................... my visa processing.",
+            "description": "We can have difficulty with something and difficulty in doing something. ",
+            "answers": [
+                "in",
+                "with",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "c979794a28af4bc4924451510ab31a80"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "id": "a290b8be56bc45b5a8a2c820f32a1bf7",
+    "title": "Subject - Verb Agreement",
+    "questions": [
+        {
+            "question": "Both of us ……………………….. present there.",
+            "description": "Both of us is a plural expression hence, the verb has to be in the plural form.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "81e55a5681c0402e8da2a08ecf6a6a61"
+        },
+        {
+            "question": "All of my friends ………………………… been invited to my party.",
+            "description": "Use a plural verb after all.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "b5843706824045fb8c6fafeeb2887558"
+        },
+        {
+            "question": "Each one of these apples …………………………….. ripe.",
+            "description": "Use a singular verb after each.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "452334a4b53244c9b08f3cedbde8b83d"
+        },
+        {
+            "question": "She and I ………………………….. working on a new project.",
+            "description": "She and I is a plural expression. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "9fd8e4a6defd42369770926949df0a41"
+        },
+        {
+            "question": "Neither red nor black …………………………… me.",
+            "description": "When we connect two singular subjects with neither/nor, the verb is singular.",
+            "answers": [
+                "suit",
+                "suits"
+            ],
+            "correct": 1,
+            "id": "ae7b0496876948ed819133a5daf4c7f1"
+        },
+        {
+            "question": "Either Rita or Janet ……………………………. eaten the ice-cream.",
+            "description": "When we connect two singular subjects with either/or, the verb is singular.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "4cd05eeb442749238dff64f37abdb7df"
+        },
+        {
+            "question": "Neither my father nor my mother ……………………………. going to the party.",
+            "description": "When we connect two singular subjects with neither/nor, the verb is singular.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "c856ec91d26447b08a34e5a8fb45c86d"
+        },
+        {
+            "question": "Either you or I ………………………………… in the wrong.",
+            "description": "When we connect two nouns with either/or, the verb agrees in number and person with the subject closest to it. ",
+            "answers": [
+                "are",
+                "am"
+            ],
+            "correct": 1,
+            "id": "c1c800f8c7304a8ca736e7b6d4279dc1"
+        },
+        {
+            "question": "No news ……………………………….. bad news.",
+            "description": "News is uncountable in English. It is used with a singular noun.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "c5c856424fc442c0b8c5c9c46b8a978b"
+        },
+        {
+            "question": "None of the boys ………………………………. wearing a cap.",
+            "description": "Use a singular verb after none of.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "f5b8407c4fc64cc4b5c7215351f24346"
+        },
+        {
+            "question": "Neither James nor his colleagues …………………………….. in the office.",
+            "description": "When we connect a singular and a plural noun with neither/nor, the verb agrees with the noun closest to it. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "a2a64b1c029d41a58d42214255c2683e"
+        },
+        {
+            "question": "My trousers ……………………………… blue in colour.",
+            "description": "Use a plural verb with jeans, trousers, pants, scissors etc. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "46acf4d504be443da982b4ef3dc44b25"
+        }
+    ]
+}

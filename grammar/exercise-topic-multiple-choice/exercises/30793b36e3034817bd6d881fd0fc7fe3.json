@@ -1,0 +1,136 @@
+{
+    "id": "30793b36e3034817bd6d881fd0fc7fe3",
+    "title": "Gap Filling Exercise",
+    "questions": [
+        {
+            "question": "We went …………………………… on the weekend.",
+            "description": "There is no preposition in the expression go swimming, go walking, go climbing etc.",
+            "answers": [
+                "hiking",
+                "to hike",
+                "on hiking"
+            ],
+            "correct": 0,
+            "id": "c2b074dd900944aeb7e3007dbb6abd1e"
+        },
+        {
+            "question": "Let’s go ………………………… if you aren't busy.",
+            "description": "This is a common expression referring to leisure activities.",
+            "answers": [
+                "to a walk",
+                "for walking",
+                "for a walk"
+            ],
+            "correct": 2,
+            "id": "87da97f5fc0446e0b9d19a600e27cce4"
+        },
+        {
+            "question": "I went swimming ………………………… the river.",
+            "description": "Prepositions of place are used after go + …ing.",
+            "answers": [
+                "in",
+                "to"
+            ],
+            "correct": 0,
+            "id": "0615e50c9b3944b4b232bfd5d5ada18d"
+        },
+        {
+            "question": "Why did you go skating ...................... that lake? You could have killed yourself.",
+            "description": "",
+            "answers": [
+                "in",
+                "to",
+                "on"
+            ],
+            "correct": 2,
+            "id": "75a5cbf87b254067a2c1910bf659048c"
+        },
+        {
+            "question": "We went ...................... Canada last year.",
+            "description": "To shows direction.",
+            "answers": [
+                "in",
+                "for",
+                "to"
+            ],
+            "correct": 2,
+            "id": "7444f89a938146089b957bd1be0cfd5b"
+        },
+        {
+            "question": "You .................... give me my money back.",
+            "description": "",
+            "answers": [
+                "have better",
+                "better had",
+                "had better"
+            ],
+            "correct": 2,
+            "id": "0e4e03193cb54f36a24240d77519eece"
+        },
+        {
+            "question": "One of my cousins ……………………… abroad.",
+            "description": "Use a singular verb after one of.",
+            "answers": [
+                "live",
+                "lives",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "d34a907385b749509fb37d4e52f62a81"
+        },
+        {
+            "question": "I was scarcely inside the house ………………………. the kids started screaming.",
+            "description": "Scarcely is followed by when or before.",
+            "answers": [
+                "when",
+                "before",
+                "than"
+            ],
+            "correct": 1,
+            "id": "ec156feef61e4e39a34eb131e559150f"
+        },
+        {
+            "question": "No sooner had I put the phone down, ................... it started ringing again.",
+            "description": "We use than after no sooner.",
+            "answers": [
+                "than",
+                "when",
+                "before"
+            ],
+            "correct": 0,
+            "id": "e9f9161c3e284e7cb70ffd72470696b5"
+        },
+        {
+            "question": "She had hardly stepped out ..................... it started pouring.",
+            "description": "",
+            "answers": [
+                "when",
+                "after",
+                "than"
+            ],
+            "correct": 0,
+            "id": "95f22837314449d18cadb7bd4d8fd1c9"
+        },
+        {
+            "question": "Why sit down when you can ....................... down?",
+            "description": "To lie down is to recline.",
+            "answers": [
+                "lay",
+                "lie",
+                "lain"
+            ],
+            "correct": 1,
+            "id": "7152aadc71264bc9965b8821f1f239e4"
+        },
+        {
+            "question": "She accused me of ...................... to her.",
+            "description": "To lie is to make a false statement. ",
+            "answers": [
+                "lying",
+                "laying"
+            ],
+            "correct": 0,
+            "id": "b77e8e85fe0d422da51f5c5b5f033ac5"
+        }
+    ]
+}

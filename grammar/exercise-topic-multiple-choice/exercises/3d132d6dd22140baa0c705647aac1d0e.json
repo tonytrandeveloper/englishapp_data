@@ -1,0 +1,138 @@
+{
+    "id": "3d132d6dd22140baa0c705647aac1d0e",
+    "title": "Active And Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "He teaches English. / English ................... by him.",
+            "description": "",
+            "answers": [
+                "taught",
+                "is taught",
+                "was taught"
+            ],
+            "correct": 1,
+            "id": "6220289cc06a4161a874c60e17538bad"
+        },
+        {
+            "question": "The child is eating bananas. / Bananas .................... by the child.",
+            "description": "",
+            "answers": [
+                "are eaten",
+                "are being eaten",
+                "have been eaten"
+            ],
+            "correct": 1,
+            "id": "f24d46e885624cd983719641aba99cde"
+        },
+        {
+            "question": "She is writing a letter. / A letter ....................... by her.",
+            "description": "",
+            "answers": [
+                "is written",
+                "is being written",
+                "has been written"
+            ],
+            "correct": 1,
+            "id": "e460a34dac6e4f1aa8f3eb9c4f85aad1"
+        },
+        {
+            "question": "The master punished the servant. / The servant ......................... by the master.",
+            "description": "",
+            "answers": [
+                "is punished",
+                "was punished",
+                "has punished"
+            ],
+            "correct": 1,
+            "id": "f63115bbd71049af85c96711245265ed"
+        },
+        {
+            "question": "He was writing a book. / A book ....................... by him.",
+            "description": "",
+            "answers": [
+                "was written",
+                "had written",
+                "was being written"
+            ],
+            "correct": 2,
+            "id": "ebbcf11be857489bbe438976b36ae989"
+        },
+        {
+            "question": "Who wrote this letter? / By whom ......................?",
+            "description": "",
+            "answers": [
+                "was this letter written",
+                "was this letter being written",
+                "had this letter written"
+            ],
+            "correct": 0,
+            "id": "4f16bedd61b745b6ba5486cc06e5b3a5"
+        },
+        {
+            "question": "Somebody cooks meal every day. / Meal ...................... by someone every day.",
+            "description": "",
+            "answers": [
+                "is cooked",
+                "has cooked",
+                "is cooking"
+            ],
+            "correct": 0,
+            "id": "46853e93ab454694b61d418b39520c7f"
+        },
+        {
+            "question": "He wore a blue shirt. / A blue shirt .................... by him.",
+            "description": "",
+            "answers": [
+                "wore",
+                "was wore",
+                "was worn"
+            ],
+            "correct": 2,
+            "id": "7c7efc011304469fb18fe9ce83128e51"
+        },
+        {
+            "question": "May God bless you with happiness! / ................... with happiness.",
+            "description": "",
+            "answers": [
+                "May you blessed",
+                "May you be blessed",
+                "May blessed you be"
+            ],
+            "correct": 1,
+            "id": "eb83e1c27ddd4e4482035af5d3fd7f71"
+        },
+        {
+            "question": "They are building a house. / A house ...................... by them.",
+            "description": "",
+            "answers": [
+                "is built",
+                "is being built",
+                "was built"
+            ],
+            "correct": 1,
+            "id": "ff46368789f744e381a6e5613f376a19"
+        },
+        {
+            "question": "I have finished the job. / The job .......................... by me.",
+            "description": "",
+            "answers": [
+                "has finished",
+                "has been finished",
+                "is finished"
+            ],
+            "correct": 1,
+            "id": "02863a57e1674984a46923661f70ebc3"
+        },
+        {
+            "question": "I sent the report yesterday. / The report ................... yesterday.",
+            "description": "",
+            "answers": [
+                "is sent",
+                "was sent",
+                "had sent"
+            ],
+            "correct": 1,
+            "id": "01d385d85872461b9b79d8140a895831"
+        }
+    ]
+}

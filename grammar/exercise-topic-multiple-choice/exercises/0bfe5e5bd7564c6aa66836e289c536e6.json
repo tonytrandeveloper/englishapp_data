@@ -1,0 +1,113 @@
+{
+    "id": "0bfe5e5bd7564c6aa66836e289c536e6",
+    "title": "Sentence Synthesis Exercise",
+    "questions": [
+        {
+            "question": ".................................... working very hard, he failed.",
+            "description": "",
+            "answers": [
+                "Despite",
+                "Though",
+                "However"
+            ],
+            "correct": 0,
+            "id": "e9af8cd3410b4d43a131c51e7795a8bb"
+        },
+        {
+            "question": "........................................... you are honest, I will trust you.",
+            "description": "",
+            "answers": [
+                "While",
+                "Since",
+                "That"
+            ],
+            "correct": 1,
+            "id": "51fd6d3ab14044b985a87bbaa80059c3"
+        },
+        {
+            "question": ".............................................. the thief saw the policeman, he ran away.",
+            "description": "",
+            "answers": [
+                "While",
+                "As soon as",
+                "No sooner"
+            ],
+            "correct": 1,
+            "id": "39d0682cf7384f69b2589d75b2401dd2"
+        },
+        {
+            "question": "He is .................................................... to carry this box.",
+            "description": "",
+            "answers": [
+                "enough strong",
+                "strong enough"
+            ],
+            "correct": 1,
+            "id": "e7da5d7aae384ea489b9eae903aec2d6"
+        },
+        {
+            "question": "Iron ....................................... coal is found in India.",
+            "description": "",
+            "answers": [
+                "also",
+                "as well",
+                "as well as"
+            ],
+            "correct": 2,
+            "id": "9fe3c3ccde8c422b94d134bd9b816519"
+        },
+        {
+            "question": "He is ..................................................... ill that the doctors do not expect him to recover.",
+            "description": "",
+            "answers": [
+                "too",
+                "enough",
+                "so"
+            ],
+            "correct": 2,
+            "id": "2906f3cd354c42a3b2b941deefa8c2e9"
+        },
+        {
+            "question": "The boy ........................................... watch had been stolen complained to the teacher.",
+            "description": "",
+            "answers": [
+                "that",
+                "whose",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "b1746301f6bb459ea497ff74e341c8c0"
+        },
+        {
+            "question": "................................................... on tip-toe, he reached for the apple.",
+            "description": "",
+            "answers": [
+                "Standing",
+                "Stood"
+            ],
+            "correct": 0,
+            "id": "7656be8dfcfb4138b67885142f420d5b"
+        },
+        {
+            "question": "This is the hotel ............................................. our meetings used to take place.",
+            "description": "",
+            "answers": [
+                "where",
+                "there",
+                "here"
+            ],
+            "correct": 0,
+            "id": "4c9cea86b163484b80ee854502bff823"
+        },
+        {
+            "question": "Sudha is .......................................... intelligent to be defeated.",
+            "description": "",
+            "answers": [
+                "too",
+                "so"
+            ],
+            "correct": 0,
+            "id": "0162e6ee854f4ef58e63396aad7f7c0e"
+        }
+    ]
+}

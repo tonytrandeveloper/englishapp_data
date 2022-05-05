@@ -1,0 +1,137 @@
+{
+    "id": "55e212a8b3d04323ac89df51050c1d02",
+    "title": "During, While And In",
+    "questions": [
+        {
+            "question": "I met them ............................. I was holidaying in Canada.",
+            "description": "While is a conjunction. We use it before a clause.",
+            "answers": [
+                "while",
+                "during",
+                "since"
+            ],
+            "correct": 0,
+            "id": "142e5d1c28074aa9860d623ade4362b0"
+        },
+        {
+            "question": "I met them .............................. my last holiday in Canada.",
+            "description": "During is a preposition. We use it before a noun.",
+            "answers": [
+                "during",
+                "while",
+                "in"
+            ],
+            "correct": 0,
+            "id": "38fd3d213a8849e38c9111da0255b874"
+        },
+        {
+            "question": "Janet called .................................. you were out.",
+            "description": "We use while before a clause. ",
+            "answers": [
+                "during",
+                "while",
+                "in"
+            ],
+            "correct": 1,
+            "id": "60ff142940924b768d8f514a3e465f1b"
+        },
+        {
+            "question": "She said that she is not responsible for anything that happened .................................. her absence.",
+            "description": "We use during before a preposition. ",
+            "answers": [
+                "while",
+                "during",
+                "since"
+            ],
+            "correct": 1,
+            "id": "3183265990014cba8307518527227d1b"
+        },
+        {
+            "question": "I fell asleep ................................ I was reading the book.",
+            "description": "We use a clause after while. ",
+            "answers": [
+                "while",
+                "during",
+                "since"
+            ],
+            "correct": 0,
+            "id": "bd68101fa09e4f01a8414c5264eb1a8b"
+        },
+        {
+            "question": "We had a lot of strange experiences ............................. our vacation in America.",
+            "description": "We use a preposition after during.",
+            "answers": [
+                "during",
+                "in",
+                "since"
+            ],
+            "correct": 0,
+            "id": "4c50b8ea4de743f78cf8b8f46feabeb6"
+        },
+        {
+            "question": "............................. holidaying in Melbourne, Jerry acquired a strong Australian accent.",
+            "description": "",
+            "answers": [
+                "While",
+                "During",
+                "Since"
+            ],
+            "correct": 0,
+            "id": "9731240925d14d5daf0434e5898da93e"
+        },
+        {
+            "question": "I was in Mumbai .......................... the winter.",
+            "description": "",
+            "answers": [
+                "during",
+                "while"
+            ],
+            "correct": 0,
+            "id": "8d31d2c6a3134cf39bd1c8378aae6d49"
+        },
+        {
+            "question": "I will try to meet you ............................. my trip to California.",
+            "description": "Use during before a noun/noun phrase.",
+            "answers": [
+                "while",
+                "during",
+                "in"
+            ],
+            "correct": 1,
+            "id": "9c65a6f54cfb4793a50295c32aae2cd0"
+        },
+        {
+            "question": "Can I see you for a few minutes .............................. the afternoon?",
+            "description": "Either during or in can be used to talk about the whole of the period.",
+            "answers": [
+                "during",
+                "in",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "1f75de03dcb64eaca4e5ef9aa25a860d"
+        },
+        {
+            "question": "I don't like to answer calls ................................. I am driving.",
+            "description": "",
+            "answers": [
+                "while",
+                "during",
+                "since"
+            ],
+            "correct": 0,
+            "id": "52f38df3425446fd871b5455b3ecd361"
+        },
+        {
+            "question": "The school was closed ............................. the whole of April.",
+            "description": "",
+            "answers": [
+                "during",
+                "while",
+                "since"
+            ],
+            "correct": 0,
+            "id": "b62175f7ae57474e90de92627d888384"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "id": "39e1812985f948448ad52190dcf821ac",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "The boy ..................................... for stealing.",
+            "description": "The boy did not punish he was punished (by somebody else). With the other options, an object would be required to make the sentence complete.",
+            "answers": [
+                "punished",
+                "has punished",
+                "was punished"
+            ],
+            "correct": 2,
+            "id": "bf7947f8a05041a3889499a0ada7c34b"
+        },
+        {
+            "question": "I ............................... him for several years.",
+            "description": "We normally use perfect tenses with the time expressions since and for. ",
+            "answers": [
+                "know",
+                "knew",
+                "have known"
+            ],
+            "correct": 2,
+            "id": "90672a9b345f4f9ba9f31314daa9ec09"
+        },
+        {
+            "question": "...................................... he continue to be unpunctual, he shall be dismissed.",
+            "description": "'Should he continue' here means 'if he continues'.",
+            "answers": [
+                "Could",
+                "Would",
+                "Should"
+            ],
+            "correct": 2,
+            "id": "ac4c258c96ad4755b5dc8540794e953b"
+        },
+        {
+            "question": "Had he told me earlier, I ...................................... arranged it.",
+            "description": "The given sentence is in the third conditional. Here we use would have + past participle in the main clause. ",
+            "answers": [
+                "would",
+                "would have",
+                "had"
+            ],
+            "correct": 1,
+            "id": "4e41fb7adaf747f7bb36b7076cc0b2bb"
+        },
+        {
+            "question": "If that man had drank less, he .................................... developed heart trouble.",
+            "description": "The given sentence is in the third conditional. Here we use would have + past participle in the main clause. ",
+            "answers": [
+                "will not",
+                "would not",
+                "would not have"
+            ],
+            "correct": 2,
+            "id": "3c19aa6025474bffa6eb491afe6ea3f3"
+        },
+        {
+            "question": "The minister .......................................... the foundation stone of the school.",
+            "description": "Lied is simple past tense and past participle of lie. Laid is the second form of lay (to keep).",
+            "answers": [
+                "lay",
+                "lied",
+                "laid"
+            ],
+            "correct": 2,
+            "id": "1dc5772427d94185b6f3f60dbc4199cb"
+        },
+        {
+            "question": "All the expenses .................................... by the company.",
+            "description": "'By' indicates passive voice. 'Was/were + third form of the verb' is used in the passive voice of simple past tense. 'Expenses' is plural and hence we use 'were' here. ",
+            "answers": [
+                "bore",
+                "borne",
+                "was borne",
+                "were borne"
+            ],
+            "correct": 3,
+            "id": "44cf657abf354c0dbecdc9c92738e94b"
+        },
+        {
+            "question": "Whenever he is in Mumbai, my father ..................................... with us.",
+            "description": "'Whenever' indicates a routine. We use the present simple to talk about habits and routines. ",
+            "answers": [
+                "stay",
+                "stays",
+                "is staying"
+            ],
+            "correct": 1,
+            "id": "9bb9decc3be0496c973e61628a71259a"
+        },
+        {
+            "question": "When I visited him, he ...................................... bedridden for two months.",
+            "description": "The past perfect continuous is used to talk about an action that started in the past and continued up to later moment in the past. ",
+            "answers": [
+                "was",
+                "has been",
+                "had been"
+            ],
+            "correct": 2,
+            "id": "78e1af4ce8e04b7cb9a6415af8e071e6"
+        },
+        {
+            "question": "I will call you when dinner ......................................... ready.",
+            "description": "When the verb in the main clause is in the future tense, we use a present tense in the subordinate clause to indicate future. ",
+            "answers": [
+                "will be",
+                "is",
+                "would be"
+            ],
+            "correct": 1,
+            "id": "ad701ccb94c24dee811d62f79fb8d8ee"
+        },
+        {
+            "question": "The war ........................................ for two years, when John enlisted.",
+            "description": "The past perfect continuous is used to talk about an action that started in the past and continued up to later moment in the past. ",
+            "answers": [
+                "was going on",
+                "has been going on",
+                "had been going on"
+            ],
+            "correct": 2,
+            "id": "45426ff9afe34293adfbf6b52dba8dbc"
+        },
+        {
+            "question": "............................................ the message, the man departed.",
+            "description": "The man departed after he had given the message. This is best expressed by the use of the phrase 'having given'. ",
+            "answers": [
+                "Giving",
+                "Given",
+                "Having given",
+                "Having been given"
+            ],
+            "correct": 2,
+            "id": "ccbff3bb98594e9b8d348e1978b16f5b"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "id": "297f9f5d59bb4e1687dfc0633e2f928b",
+    "title": "Make, Take Or Leave",
+    "questions": [
+        {
+            "question": "Can I ………………… a suggestion?",
+            "description": "",
+            "answers": [
+                "take",
+                "leave",
+                "make"
+            ],
+            "correct": 2,
+            "id": "24af99e3094f49d0a7853c35da6e9995"
+        },
+        {
+            "question": "One must not …………………… more than one gives.",
+            "description": "",
+            "answers": [
+                "leave",
+                "make",
+                "take"
+            ],
+            "correct": 2,
+            "id": "e5cc361dc4974af491bcc001296e6dab"
+        },
+        {
+            "question": "Please …………………… a look at this.",
+            "description": "",
+            "answers": [
+                "take",
+                "make",
+                "leave"
+            ],
+            "correct": 0,
+            "id": "a9799cff37744553b3ecf6e0681cca78"
+        },
+        {
+            "question": "Can I ……………………… a message?",
+            "description": "",
+            "answers": [
+                "take",
+                "leave",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "638df3a7c01645b68db3064765439b32"
+        },
+        {
+            "question": "I can’t …………………… an exception in your case.",
+            "description": "",
+            "answers": [
+                "make",
+                "take",
+                "leave"
+            ],
+            "correct": 0,
+            "id": "8882f6ee555b49789254a412ada82404"
+        },
+        {
+            "question": "My brother likes to ………………….. photos.",
+            "description": "",
+            "answers": [
+                "take",
+                "leave",
+                "make"
+            ],
+            "correct": 0,
+            "id": "ef6c3d8784404b1bba174b7bae5d5546"
+        },
+        {
+            "question": "We have …………………. all arrangements for the party.",
+            "description": "",
+            "answers": [
+                "taken",
+                "left",
+                "made"
+            ],
+            "correct": 2,
+            "id": "08ee0d17038d44239ede19801462179b"
+        },
+        {
+            "question": "She is old enough to ………………… her own bed now.",
+            "description": "",
+            "answers": [
+                "take",
+                "make",
+                "leave"
+            ],
+            "correct": 1,
+            "id": "556384d64bc34968bf3fcceb661f1557"
+        },
+        {
+            "question": "If you are tired why don’t you ………………….. a rest?",
+            "description": "",
+            "answers": [
+                "take",
+                "make",
+                "leave"
+            ],
+            "correct": 0,
+            "id": "a06f1323e13b47098853868584c58faa"
+        },
+        {
+            "question": "She …………………… a deep breath.",
+            "description": "",
+            "answers": [
+                "took",
+                "made",
+                "left"
+            ],
+            "correct": 0,
+            "id": "7f989e3ae8304de0b60dbddbe3fc9b48"
+        }
+    ]
+}

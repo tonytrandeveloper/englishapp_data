@@ -1,0 +1,326 @@
+{
+    "id": "36d1fb13be8a4ceda22ddb8190380b81",
+    "title": "Present Continuous Reported Statements",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We're working.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me they were working.",
+                        "He told me that they were working."
+                    ]
+                }
+            ],
+            "id": "8d53df46cd4e462c9f3e4dda15480c76"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She's coming to the party.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me she was coming to the party.",
+                        "He told me that he was coming to the party."
+                    ]
+                }
+            ],
+            "id": "7afdb432c6d04bc49386658a9f3ca601"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She's talking on the telephone.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me she was talking on the telephone.",
+                        "He told me that she was talking on the telephone."
+                    ]
+                }
+            ],
+            "id": "bba0e941cb984e168797134fe32f7704"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Lucy is reading a book in front of the fire.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me Lucy was reading a book in front of the fire.",
+                        "He told me that Lucy was reading a book in front of the fire."
+                    ]
+                }
+            ],
+            "id": "fb764ba2ec4046a5b52d3578a3bc4dd5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm not going out.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he wasn't going out.",
+                        "He told me that he wasn't going out."
+                    ]
+                }
+            ],
+            "id": "60517ca772e2438b8e9c19d2b9dff66e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We are not visiting Paris during our trip.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me they weren't visiting Paris during their trip.",
+                        "He told me that they weren't visiting Paris during their trip."
+                    ]
+                }
+            ],
+            "id": "792da31c037941e38270a12794039018"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm listening to my new CD.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he was listening to his new CD.",
+                        "He told me that he was listening to his new CD."
+                    ]
+                }
+            ],
+            "id": "988658030a8c412a8b3d9384b728cae1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"John is working in a bar for the summer.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me John was working in a bar for the summer.",
+                        "He told me that John was working in a bar for the summer."
+                    ]
+                }
+            ],
+            "id": "ab9848416012426bb9a2fd1501da1408"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm not going to go on holiday.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he wasn't going to go on holiday.",
+                        "He told me that he wasn't going to go on holiday."
+                    ]
+                }
+            ],
+            "id": "949c3bd9606f47dd9ab71e7b31f4b3af"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He isn't living in Beijing.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he wasn't living in Beijing.",
+                        "He told me that he wasn't living in Beijing."
+                    ]
+                }
+            ],
+            "id": "659838d969ce48ceb1dfef8ccbf648ba"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm taking the train to Berlin.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he was taking the train to Berlin.",
+                        "He told me that he was taking the train to Berlin."
+                    ]
+                }
+            ],
+            "id": "37d7d3aace524f76bec82c771d8de30e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She is never coming back.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me she was never coming back.",
+                        "He told me that she was never coming back."
+                    ]
+                }
+            ],
+            "id": "e9a011afc04d4f93bbba3a9e458858ed"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Jill is studying a lot.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me Jill was studying a lot.",
+                        "He told me that Jill was studying a lot."
+                    ]
+                }
+            ],
+            "id": "4ab8d4a8d622444b85f99a87b59c6933"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm not meeting Julie.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he wasn't meeting Julie.",
+                        "He told me that he wasn't meeting Julie."
+                    ]
+                }
+            ],
+            "id": "df28b780d09d4bd3814f287f10052daf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We aren't renting a flat.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me they weren't renting a flat.",
+                        "He told me that they weren't renting a flat."
+                    ]
+                }
+            ],
+            "id": "d0e7bfc9b652405ebbc57672acb1d748"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They are visiting the museum.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me they were visiting the museum.",
+                        "He told me that they were were visiting the museum."
+                    ]
+                }
+            ],
+            "id": "81689b85401e4b78948298d20aef24af"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She's eating dinner.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me she was eating dinner.",
+                        "He told me that she was eating dinner."
+                    ]
+                }
+            ],
+            "id": "519c798951cd41aabaa1e0521fb6c521"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We aren't going to the library.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me they weren't going to the library.",
+                        "He told me that they weren't going to the library."
+                    ]
+                }
+            ],
+            "id": "6c697e4cb7aa474b8653a760197fa148"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm coming.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he was coming.",
+                        "He told me that he was coming."
+                    ]
+                }
+            ],
+            "id": "80762c662293493c97d5679ebbcb39ca"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm sleeping.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he was sleeping.",
+                        "He told me that he was sleeping."
+                    ]
+                }
+            ],
+            "id": "ff6d3de9f0334240b093ae2cd1b0a662"
+        }
+    ]
+}

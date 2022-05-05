@@ -1,0 +1,128 @@
+{
+    "id": "96890c9d9dfd48228645a2372e3082c6",
+    "title": "English Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "Gems have a natural ……………………….",
+            "description": "Radiance means sheen or glitter. It is a noun.",
+            "answers": [
+                "radiance",
+                "radiant"
+            ],
+            "correct": 0,
+            "id": "e839acdee1f041f4b572af65e5eb3391"
+        },
+        {
+            "question": "She looked ……………………….. in that pink dress.",
+            "description": "Radiant means shiny or bright. It is an adjective. ",
+            "answers": [
+                "radiant",
+                "radiance"
+            ],
+            "correct": 0,
+            "id": "588841fc168f4c37818e038d779ecf8d"
+        },
+        {
+            "question": "He was known for his ……………………….. views on politics and religion.",
+            "description": "Radical can mean severe and extreme.",
+            "answers": [
+                "radical",
+                "rationale"
+            ],
+            "correct": 0,
+            "id": "e08b86f6c8b24e3ea4865961b2f04ecc"
+        },
+        {
+            "question": "The storm ………………………… for hours and then subsided.",
+            "description": "Raged means continued.",
+            "answers": [
+                "raged",
+                "waged",
+                "raced"
+            ],
+            "correct": 0,
+            "id": "45248e09b2c04bc38df8ba645cf9b9d8"
+        },
+        {
+            "question": "The ………………………. clothes that he was wearing clearly indicated that he was poor.",
+            "description": "Ragged means torn.",
+            "answers": [
+                "raged",
+                "ragged",
+                "rugged"
+            ],
+            "correct": 1,
+            "id": "edda1085bdaf4a70a6d517b14ad6e96e"
+        },
+        {
+            "question": "Farmers ………………………. cattle.",
+            "description": "Raise is a transitive verb. That means it is always followed by an object.",
+            "answers": [
+                "rise",
+                "raise"
+            ],
+            "correct": 1,
+            "id": "7fd7f80f0c6c4f60a60cf9c2a51d5872"
+        },
+        {
+            "question": "He was ………………………. by his grandparents.",
+            "description": "",
+            "answers": [
+                "risen",
+                "raised"
+            ],
+            "correct": 1,
+            "id": "a2e83c10c60948c38f1795e131ed4e85"
+        },
+        {
+            "question": "The boy ………………………… from his seat and said that he wanted to ask a question.",
+            "description": "Rise is an intransitive verb. It is used without an object. ",
+            "answers": [
+                "raised",
+                "rose"
+            ],
+            "correct": 1,
+            "id": "1208ce6f767c436583bde95770f1db28"
+        },
+        {
+            "question": "Epidemics are still ……………………….. in many parts of the world.",
+            "description": "Rampant means widespread.",
+            "answers": [
+                "rampant",
+                "rampage",
+                ""
+            ],
+            "correct": 0,
+            "id": "11429262eba04ed99d2e54a565706746"
+        },
+        {
+            "question": "Although it was a ……………………….. plan it failed because of the flawed execution.",
+            "description": "Rational means based on reason.",
+            "answers": [
+                "rational",
+                "rationale",
+                "radical"
+            ],
+            "correct": 0,
+            "id": "213a0cfc1d1643b5915f417078b42efd"
+        },
+        {
+            "question": "Could anyone explain the ……………………….. behind this?",
+            "description": "Rationale means the underlying reason.",
+            "answers": [
+                "rational",
+                "rationale",
+                "radical"
+            ],
+            "correct": 1,
+            "id": "050d8059353047289c3ea1ee1a5f99e8"
+        },
+        {
+            "question": "",
+            "description": "",
+            "answers": [],
+            "correct": 0,
+            "id": "f8debefcd5be4d9fa45ada920e35b70d"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "id": "1afa13b5bc3d4db1a9a62f60ece0c259",
+    "title": "Phrasal Verbs Exercise",
+    "questions": [
+        {
+            "question": "You are quite good at ....................... excuses.",
+            "description": "To make up is to invent.",
+            "answers": [
+                "coming up",
+                "making up",
+                "making off",
+                "bringing up"
+            ],
+            "correct": 1,
+            "id": "e1e433fe673b4ec6a3cc1b6e19797e2a"
+        },
+        {
+            "question": "The thieves ..................... with the jewels in the middle of the night.",
+            "description": "To make off with something is to escape with it.",
+            "answers": [
+                "made up",
+                "made out",
+                "made off"
+            ],
+            "correct": 2,
+            "id": "138a186ba75e446bad0d9df9c26145e3"
+        },
+        {
+            "question": "Things have finally started ..................... ..",
+            "description": "When things look up they improve.",
+            "answers": [
+                "bringing up",
+                "coming up",
+                "looking up"
+            ],
+            "correct": 2,
+            "id": "8812c7d3189746808eb2e36fa66bea08"
+        },
+        {
+            "question": "Although she was quite upset, she managed to ……………… her tears ………………",
+            "description": "To hold back is to control or restrain.",
+            "answers": [
+                "bring, back",
+                "hold, back",
+                "cut, down",
+                "hold, down"
+            ],
+            "correct": 1,
+            "id": "5765c6e2864e408d9a34a324921e76a3"
+        },
+        {
+            "question": "I think I am ....................... with a flu.",
+            "description": "To go down with a flu is to catch a flu. ",
+            "answers": [
+                "coming down",
+                "going down",
+                "falling down"
+            ],
+            "correct": 1,
+            "id": "5e6a0ce31f334bd8a7f833f8258b121e"
+        },
+        {
+            "question": "She .....................… well with her neighbors.",
+            "description": "To get along with somebody is to agree with them.",
+            "answers": [
+                "puts off",
+                "gets along",
+                "gets away",
+                "comes along"
+            ],
+            "correct": 1,
+            "id": "0fc9c65102b24352b672e1514ad440fb"
+        },
+        {
+            "question": "It is really cold. Why don’t you ………………….. your coat?",
+            "description": "To put on clothes is to wear them.",
+            "answers": [
+                "put off",
+                "put on",
+                "put out",
+                "put up"
+            ],
+            "correct": 1,
+            "id": "b224de6b068048dcb6cee4b17b0e0b8e"
+        },
+        {
+            "question": "Can you ………………….. with a solution to this problem?",
+            "description": "To come up with a solution is to suggest a solution.",
+            "answers": [
+                "bring up",
+                "come up",
+                "put up",
+                "take up"
+            ],
+            "correct": 1,
+            "id": "aca0662d63ba4074ae2de39c6d8b1ff6"
+        },
+        {
+            "question": "The unruly boy was ...................... with a strict warning.",
+            "description": "To let somebody off is to allow them to leave.",
+            "answers": [
+                "let off",
+                "get off",
+                "let down",
+                "bring off"
+            ],
+            "correct": 0,
+            "id": "bebf23690bde415b903ddfd0f647fb51"
+        },
+        {
+            "question": "I ..................... an old friend of mine yesterday.",
+            "description": "To come across somebody is to meet them by chance. ",
+            "answers": [
+                "came across",
+                "came at",
+                "came off"
+            ],
+            "correct": 0,
+            "id": "3cf5ad0e737e4d4ca6f92ac5e1742dfc"
+        },
+        {
+            "question": "Profit has been ………………….. recently.",
+            "description": "When something falls off, it decreases.",
+            "answers": [
+                "falling off",
+                "getting off",
+                "letting off"
+            ],
+            "correct": 0,
+            "id": "88c192ef7ed64c99904003e1f1f17692"
+        }
+    ]
+}

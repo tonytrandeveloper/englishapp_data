@@ -1,0 +1,141 @@
+{
+    "id": "521e4b29e0e94cc794f775c55c31b0f7",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "There are only ......................... apples on the tree.",
+            "description": "Only a few means the same as few.",
+            "answers": [
+                "few",
+                "less",
+                "a few",
+                "a little"
+            ],
+            "correct": 2,
+            "id": "49ff313a73ea4ccb87decf985539cd0e"
+        },
+        {
+            "question": "There aren't .............................. apples on the tree.",
+            "description": "We use many before a plural noun.",
+            "answers": [
+                "many",
+                "much",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "625cbbce84b34bcc8d6bf1a10c786e2a"
+        },
+        {
+            "question": "We don't have ............................ time to finish the work.",
+            "description": "We use much before an uncountable noun.",
+            "answers": [
+                "much",
+                "many",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "757dd7259b90473ba77231417141d60f"
+        },
+        {
+            "question": "I collected ................................ money than my brother.",
+            "description": "We use less before an uncountable noun.",
+            "answers": [
+                "less",
+                "few",
+                "little",
+                "fewer"
+            ],
+            "correct": 0,
+            "id": "814e2224ec3c40ad9e37b4f739d717f7"
+        },
+        {
+            "question": "Now I have got ............................... problems than I used to have.",
+            "description": "We use fewer before a plural noun.",
+            "answers": [
+                "few",
+                "fewer",
+                "less",
+                "lesser"
+            ],
+            "correct": 1,
+            "id": "54fda62bdef344bcb131c0b265f7cf4e"
+        },
+        {
+            "question": "I solved the problem with ............................. difficulty.",
+            "description": "We use little before an uncountable noun.",
+            "answers": [
+                "little",
+                "few",
+                "lesser"
+            ],
+            "correct": 0,
+            "id": "982a63f38be74370b57fa81ca8bde97e"
+        },
+        {
+            "question": "There were ............................... people at the party.",
+            "description": "We use few before a plural noun. ",
+            "answers": [
+                "few",
+                "little",
+                "less"
+            ],
+            "correct": 0,
+            "id": "f8ea704434614b87bed56a7dc509f1c5"
+        },
+        {
+            "question": "There is very ............................ sugar in the jar. We should buy some.",
+            "description": "We use little before an uncountable noun.",
+            "answers": [
+                "little",
+                "less",
+                "few"
+            ],
+            "correct": 0,
+            "id": "b58d9cac10e74fd3a53b35bd0e976e2a"
+        },
+        {
+            "question": "There were ................................. students than expected.",
+            "description": "We use fewer before a plural noun.",
+            "answers": [
+                "few",
+                "fewer",
+                "less"
+            ],
+            "correct": 1,
+            "id": "5478878d8882439fb5f6fdf65035a884"
+        },
+        {
+            "question": "I answered ................................ questions than you.",
+            "description": "",
+            "answers": [
+                "few",
+                "fewer",
+                "less"
+            ],
+            "correct": 1,
+            "id": "3e317812e26b4517899a7583ceecd2a9"
+        },
+        {
+            "question": "........................... politicians are really honest.",
+            "description": "We use few before a plural noun.",
+            "answers": [
+                "Few",
+                "Fewer",
+                "Less"
+            ],
+            "correct": 0,
+            "id": "1b4d514e3a48417bbd8f3c22c6836b79"
+        },
+        {
+            "question": "I have .................................. interest in politics.",
+            "description": "",
+            "answers": [
+                "less",
+                "little",
+                "lesser"
+            ],
+            "correct": 1,
+            "id": "6f8c21e7158941dcae5e135bafa222a8"
+        }
+    ]
+}

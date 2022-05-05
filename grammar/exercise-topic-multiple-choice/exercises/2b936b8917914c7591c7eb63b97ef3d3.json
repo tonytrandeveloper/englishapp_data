@@ -1,0 +1,139 @@
+{
+    "id": "2b936b8917914c7591c7eb63b97ef3d3",
+    "title": "Common Idiomatic Expressions In English",
+    "questions": [
+        {
+            "question": "‘OK everybody, lunch break is over. Now get back to the …………………...’",
+            "description": "To be back to the grind is to get back to work.",
+            "answers": [
+                "hearth",
+                "mill",
+                "grind"
+            ],
+            "correct": 2,
+            "id": "617f6e9ae9df4a2b94d4561812110f27"
+        },
+        {
+            "question": "‘Did you get that job?’ ‘No mate, I ………………………… it.’",
+            "description": "I blew it = I missed my opportunity",
+            "answers": [
+                "cracked",
+                "blew",
+                "burst"
+            ],
+            "correct": 1,
+            "id": "f14f6e80d4fb4df99f9400b76a24e8d8"
+        },
+        {
+            "question": "Her dreams of becoming a famous actor ended up just being a ……………………….. in the sky.",
+            "description": "Pie in the Sky = an unrealistic dream",
+            "answers": [
+                "speck",
+                "pie",
+                "star"
+            ],
+            "correct": 1,
+            "id": "21d59ae4aa7141238c9c85c436f1e098"
+        },
+        {
+            "question": "It was a ……………………. plan, so nobody was surprised when it failed.",
+            "description": "If something is half-baked, it hasn't been properly thought out or planned.",
+            "answers": [
+                "raw",
+                "half-baked",
+                "half-ripe"
+            ],
+            "correct": 1,
+            "id": "b8b3507bf7f846c39dbab65ba957647b"
+        },
+        {
+            "question": "…………………….. in there. Things should get better soon.",
+            "description": "This is an expression used to encourage people who are in a difficult situation. ",
+            "answers": [
+                "Hang",
+                "Slide",
+                "Stand"
+            ],
+            "correct": 0,
+            "id": "ab7e242d02a34da9a283bf410cb9c709"
+        },
+        {
+            "question": "Writers of his caliber are hard to ………………………… by.",
+            "description": "If something is hard to come by, it is difficult to find.",
+            "answers": [
+                "get",
+                "come",
+                "meet"
+            ],
+            "correct": 1,
+            "id": "8feee418d84242bbaab86e583a09a322"
+        },
+        {
+            "question": "She was hot under the ……………………… when she heard that they had lost that contract.",
+            "description": "If you are hot under the collar, you are angry or annoyed about something.",
+            "answers": [
+                "head",
+                "coat",
+                "sleeves",
+                "collar"
+            ],
+            "correct": 3,
+            "id": "836d88d54b9c46e690c5184d78db2210"
+        },
+        {
+            "question": "I’m ……………………… and tired of eating the same thing for dinner every day.",
+            "description": "When you are sick and tired of something, you no longer find it interesting or exciting.",
+            "answers": [
+                "ill",
+                "sick",
+                "angry"
+            ],
+            "correct": 1,
+            "id": "e422637691444f07b67f337329f23bfb"
+        },
+        {
+            "question": "Your radio is starting to get on my ………………………. You had better it turn it down.",
+            "description": "To get on somebody’s nerves is to annoy them.",
+            "answers": [
+                "spine",
+                "nerves",
+                "spirits"
+            ],
+            "correct": 1,
+            "id": "81a5013141994c0c9a9c76f2f1cb2500"
+        },
+        {
+            "question": "It is a small job but I am going to accept it. At least, I’ll have my ……………………. in the door.",
+            "description": "To get your foot in the door is to accept even a small job hoping that you would be able to get a promotion before long.",
+            "answers": [
+                "foot",
+                "leg",
+                "ankle"
+            ],
+            "correct": 0,
+            "id": "b0f5ffa2de67464aac3c899fd391dc75"
+        },
+        {
+            "question": "You don’t have to pay for my drinks. Let’s go ………………………..",
+            "description": "To go Dutch is to pay your own share.",
+            "answers": [
+                "French",
+                "Spanish",
+                "Dutch"
+            ],
+            "correct": 2,
+            "id": "77643067a0604349995d6d9231da2878"
+        },
+        {
+            "question": "He tends to sell himself …………………… and that is his main fault.",
+            "description": "To sell somebody short is to describe them as less impressive than they really are.",
+            "answers": [
+                "short",
+                "low",
+                "less"
+            ],
+            "correct": 0,
+            "id": "634d0a89d853487397a87a742303fd0d"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "id": "b09111567c7649bfa4eb0aef6ce1e0ff",
+    "title": "Joining Words Exercise",
+    "questions": [
+        {
+            "question": "I will not come …………………….. you need me.",
+            "description": "Unless is similar to if…not.",
+            "answers": [
+                "without",
+                "unless",
+                "whether"
+            ],
+            "correct": 1,
+            "id": "8fe6e3e44c0644e39a03a70453988481"
+        },
+        {
+            "question": "I will not go ………………………. you do.",
+            "description": "Unless is a conjunction it is used before a clause without is a preposition. ",
+            "answers": [
+                "without",
+                "unless"
+            ],
+            "correct": 1,
+            "id": "bed749f1d26343cca5f806defb0c86b2"
+        },
+        {
+            "question": "She looks …………………… her mother.",
+            "description": "Like is a preposition. It is used with nouns.",
+            "answers": [
+                "like",
+                "as"
+            ],
+            "correct": 0,
+            "id": "b16ef93330db47808c728a3ba900c949"
+        },
+        {
+            "question": "Do ……………………… I say.",
+            "description": "As is a conjunction it is used before a clause.",
+            "answers": [
+                "as",
+                "like"
+            ],
+            "correct": 0,
+            "id": "3a4511ac52f14c9b85b43dd3e2c6f465"
+        },
+        {
+            "question": "……………………… I received the message, I started.",
+            "description": "As soon as is used to mean that one action commenced immediately after another action.",
+            "answers": [
+                "As soon as",
+                "No sooner",
+                "Hardly"
+            ],
+            "correct": 0,
+            "id": "da398db954814672a356547407cfce8c"
+        },
+        {
+            "question": "I take no more ………………………. I give.",
+            "description": "",
+            "answers": [
+                "than",
+                "then",
+                "compared to"
+            ],
+            "correct": 0,
+            "id": "fe760e0c87ed4adfa42347d08dee7859"
+        },
+        {
+            "question": "Scarcely had he gone ………………………. his friends arrived.",
+            "description": "Either when or before is possible here. ",
+            "answers": [
+                "than",
+                "when",
+                "before"
+            ],
+            "correct": 2,
+            "id": "201779a01f4542a395fc0702110ed404"
+        },
+        {
+            "question": "He lost not only his ticket …………………….. his passport.",
+            "description": "",
+            "answers": [
+                "but",
+                "but also",
+                "also"
+            ],
+            "correct": 1,
+            "id": "050948ce3fa34dafb788af3813cb679e"
+        },
+        {
+            "question": "He washed ………………… his hands nor his mouth.",
+            "description": "",
+            "answers": [
+                "neither",
+                "either",
+                "or"
+            ],
+            "correct": 0,
+            "id": "a9516e893de34384add612dbc803dee0"
+        },
+        {
+            "question": "I will not go ……………………….. you.",
+            "description": "Without is a preposition. It is used before a noun/pronoun.",
+            "answers": [
+                "unless",
+                "without"
+            ],
+            "correct": 1,
+            "id": "055bed04bb4a4ca89e46c5c97e5955fd"
+        },
+        {
+            "question": "He succeeded ……………………….. his hard work.",
+            "description": "Because of is used before a noun/pronoun.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "eb9c7f19aaaf42f7a0624ba594b6047e"
+        },
+        {
+            "question": "…………………………. his hard work, he could not succeed.",
+            "description": "In spite of and despite are interchangeable. These words are used before a noun/pronoun.",
+            "answers": [
+                "In spite of",
+                "Despite",
+                "Although",
+                "However"
+            ],
+            "correct": 1,
+            "id": "ae4b8184e56640a4bccc7480ceb29e81"
+        }
+    ]
+}

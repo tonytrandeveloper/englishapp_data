@@ -1,0 +1,110 @@
+{
+    "id": "ca06e3917c034ecf978e4fe9919c9819",
+    "title": "Sentence Completion",
+    "questions": [
+        {
+            "question": "......................... the thief, they handed him over to the police.",
+            "description": "",
+            "answers": [
+                "Caught",
+                "Having caught"
+            ],
+            "correct": 1,
+            "id": "0ceb143d3db9432fb7a2a8ab956a5a10"
+        },
+        {
+            "question": "........................ a noise, the thief ran away.",
+            "description": "",
+            "answers": [
+                "Hearing",
+                "Heard"
+            ],
+            "correct": 0,
+            "id": "ff91e3b84b4f411bbf5fa87ff8c14c90"
+        },
+        {
+            "question": "He is ........................ to walk fast.",
+            "description": "",
+            "answers": [
+                "too fat",
+                "so fat"
+            ],
+            "correct": 0,
+            "id": "6200bc66341e408bbb7bc90f689b6d25"
+        },
+        {
+            "question": "She was ........................ that she could not stand up.",
+            "description": "",
+            "answers": [
+                "too tired",
+                "so tired"
+            ],
+            "correct": 1,
+            "id": "dcc04366e1de46e9889996e407bd851a"
+        },
+        {
+            "question": "...................... she left home at 4, she hasn’t arrived yet.",
+            "description": "",
+            "answers": [
+                "If",
+                "As if",
+                "Although"
+            ],
+            "correct": 2,
+            "id": "1441b6a346714f04ba25df2a9c4d8133"
+        },
+        {
+            "question": "........................ the tortoise was slow, he beat the hare in the race.",
+            "description": "",
+            "answers": [
+                "As",
+                "Though"
+            ],
+            "correct": 1,
+            "id": "26ff58df4dd74fa795c1c70ba2eb1f73"
+        },
+        {
+            "question": "..................... you reach there before 3 pm, you will not be able to meet him. /",
+            "description": "",
+            "answers": [
+                "If",
+                "Unless"
+            ],
+            "correct": 1,
+            "id": "1a6808d4945b4c3ba18be90f89567e9c"
+        },
+        {
+            "question": "....................... hard you may work, you cannot please him.",
+            "description": "",
+            "answers": [
+                "However",
+                "Though",
+                "Even though"
+            ],
+            "correct": 0,
+            "id": "df097c4b36154a17bbd7a77228379d05"
+        },
+        {
+            "question": "......................... his illness, he attends office regularly.",
+            "description": "",
+            "answers": [
+                "In spite of",
+                "Even though",
+                "Though"
+            ],
+            "correct": 0,
+            "id": "9dcb9fe003774eb3842ada3259f91e32"
+        },
+        {
+            "question": "The apples ..................... I bought yesterday were good.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "82152c37aa9541ba82102f72c1410bb8"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "id": "c04c63ee57e2459486149027cabc2b35",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "I knew ………………………. I had made a mistake.",
+            "description": "We use that to introduce a noun clause. ",
+            "answers": [
+                "that",
+                "as",
+                "what"
+            ],
+            "correct": 0,
+            "id": "c0d6422d639c4cb78d7c987bc9e43b83"
+        },
+        {
+            "question": "……………………….. we heard the noise, we ran out of the house.",
+            "description": "",
+            "answers": [
+                "As soon as",
+                "As long as",
+                "As much as"
+            ],
+            "correct": 0,
+            "id": "24ccc121f43043a49ea4965e23948bec"
+        },
+        {
+            "question": "He worked hard ………………………….. he could earn enough to make a living.",
+            "description": "So that shows purpose. ",
+            "answers": [
+                "so as to",
+                "so that",
+                "in order to"
+            ],
+            "correct": 1,
+            "id": "a6762c5a006940ba9bee7e4c6987a085"
+        },
+        {
+            "question": "…………………………. I get a day off, I will visit my parents.",
+            "description": "We use if to express a condition. ",
+            "answers": [
+                "If",
+                "Whether"
+            ],
+            "correct": 0,
+            "id": "ea7f2a390f5c4778b86f2e33f9259439"
+        },
+        {
+            "question": "He died in the town ………………………….. he was born.",
+            "description": "We can use where to introduce adverb clauses of place.",
+            "answers": [
+                "which",
+                "where",
+                "that"
+            ],
+            "correct": 1,
+            "id": "e7420a9030ba409189b17eac3dd2a44b"
+        },
+        {
+            "question": "………………………….. the soldiers were poorly armed, they offered a stubborn resistance.",
+            "description": "We use although and though to connect two contrasting ideas.",
+            "answers": [
+                "Although",
+                "Though",
+                "However",
+                "Despite"
+            ],
+            "correct": 1,
+            "id": "639d65b2406d4f908a6966abcc864e41"
+        },
+        {
+            "question": "He spends more ………………………….. he earns.",
+            "description": "We use than after a comparative expression.",
+            "answers": [
+                "than",
+                "then"
+            ],
+            "correct": 0,
+            "id": "4bf12f6d9f594b4b8f349aca57868d54"
+        },
+        {
+            "question": "…………………………. you mend your ways, you will land in trouble.",
+            "description": "Unless is similar to if not.",
+            "answers": [
+                "If",
+                "Unless",
+                "Until"
+            ],
+            "correct": 1,
+            "id": "cf4156cecbbe490695cc8a17b939c8de"
+        },
+        {
+            "question": "………………………… you work conscientiously, you will achieve success.",
+            "description": "Unless is similar to if not.",
+            "answers": [
+                "If",
+                "Unless"
+            ],
+            "correct": 0,
+            "id": "55b2b5adabca47f8aa5a856360a05639"
+        },
+        {
+            "question": "The washing machine ………………………… I bought yesterday is energy efficient.",
+            "description": "Both which and that can refer to objects in identifying relative clauses. ",
+            "answers": [
+                "which",
+                "what",
+                "that"
+            ],
+            "correct": 2,
+            "id": "bc72f054844e466a96a25d257a05f245"
+        },
+        {
+            "question": "Work hard ……………………………. you will succeed.",
+            "description": "",
+            "answers": [
+                "and",
+                "for",
+                "because"
+            ],
+            "correct": 0,
+            "id": "40fd7cd31bca47dca88e4bab9bd9a2d6"
+        },
+        {
+            "question": "He went home …………………………… he was bored.",
+            "description": "Because gives the reason.",
+            "answers": [
+                "because",
+                "so",
+                "thus"
+            ],
+            "correct": 0,
+            "id": "3c539e89ee864bd482198318aae23be1"
+        }
+    ]
+}

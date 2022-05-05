@@ -1,0 +1,138 @@
+{
+    "id": "bb00cdc4d55344d49def6cf9ec6dd1d6",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "The boy worked hard ………………………….. he did not succeed.",
+            "description": "However is not a conjunction it cannot connect two clauses.",
+            "answers": [
+                "however",
+                "but",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "0c8e7ede1a85497d9b826ef1183a195f"
+        },
+        {
+            "question": "…………………………… he is very popular, he cannot be called a great writer.",
+            "description": "We use though to connect two contrasting ideas.",
+            "answers": [
+                "However",
+                "Despite",
+                "Though"
+            ],
+            "correct": 2,
+            "id": "a3c15b3d8a144664b2b9723121cc242e"
+        },
+        {
+            "question": "………………………….. his kind nature, he never had many friends.",
+            "description": "In spite of is a preposition. It is followed by a noun.",
+            "answers": [
+                "In spite of",
+                "Though",
+                "Despite of"
+            ],
+            "correct": 0,
+            "id": "48b237d6e87d40c8a3f78f2f086e6dfe"
+        },
+        {
+            "question": "…………………………… his homework, he went out to play.",
+            "description": "",
+            "answers": [
+                "Finished",
+                "Having finished",
+                "Being finished"
+            ],
+            "correct": 1,
+            "id": "cc07dabd56914f66bdd4e8b439026076"
+        },
+        {
+            "question": "…………………………. poor, they suffered great hardship.",
+            "description": "",
+            "answers": [
+                "Being",
+                "Been",
+                "Having been"
+            ],
+            "correct": 0,
+            "id": "2e31e6ac8b2447ce8d91cc6569a2beac"
+        },
+        {
+            "question": "We must eat ………………………… we cannot live.",
+            "description": "",
+            "answers": [
+                "unless",
+                "or",
+                "nor"
+            ],
+            "correct": 1,
+            "id": "26e6ca06710b4f4da6684f89b220838f"
+        },
+        {
+            "question": "He bought the estate …………………………. belonged to his uncle.",
+            "description": "The relative pronoun which refers to things. We use it to connect two clauses.",
+            "answers": [
+                "it",
+                "which",
+                "what"
+            ],
+            "correct": 1,
+            "id": "5c2d9780abc34bbd99164f565e13a4c5"
+        },
+        {
+            "question": "……………………….. the inflation, the standard of living has increased.",
+            "description": "Despite is a preposition. It is used before a noun.",
+            "answers": [
+                "Despite",
+                "Although",
+                "However"
+            ],
+            "correct": 0,
+            "id": "744ab6885f9f4b81a0f662c0059919a6"
+        },
+        {
+            "question": "It is a pity ………………………….. we should have to suffer this humiliation.",
+            "description": "",
+            "answers": [
+                "so that",
+                "that",
+                "so"
+            ],
+            "correct": 1,
+            "id": "919a2fd4c7964a7d9c719c3c7e303136"
+        },
+        {
+            "question": "…………………………….. you search his pockets, you will find the watch.",
+            "description": "If expresses a condition.",
+            "answers": [
+                "Whether",
+                "If",
+                "Unless"
+            ],
+            "correct": 1,
+            "id": "4b1d20fad2964490acee90be9c796691"
+        },
+        {
+            "question": "The young bride went near the bed ……………………………. the old man could bless her.",
+            "description": "So that indicates purpose.",
+            "answers": [
+                "that",
+                "so that",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e8d8d955e977486c881288c915d6f62c"
+        },
+        {
+            "question": "The man was so tall …………………………. they had to make a special coffin for him.",
+            "description": "So...that.. expresses cause and effect. ",
+            "answers": [
+                "that",
+                "and",
+                "hence"
+            ],
+            "correct": 0,
+            "id": "df7128cec3eb4e0ba0336a5cc9eaac00"
+        }
+    ]
+}

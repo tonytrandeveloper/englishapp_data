@@ -1,0 +1,921 @@
+{
+    "id": "536cbb2f371344ffbca111c1e52205dd",
+    "title": "Make the first, second and third conditionals",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If the students"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't been",
+                        "had not been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) late for the exam, they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have passed",
+                        "'d have passed"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(pass) ."
+                }
+            ],
+            "id": "75daefaae29643bdb45125395a3ea0c1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If the weather"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't been",
+                        "had not been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) so cold, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have gone",
+                        "'d have gone"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the beach."
+                }
+            ],
+            "id": "5ff71de6e100434da191335de0a83d11"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) her laptop with her, she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would email"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(email) me."
+                }
+            ],
+            "id": "4aca90af5b8542d1a823bf0e530b1053"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "doesn't go",
+                        "does not go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) to the meeting, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "won't go",
+                        "will not go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) either."
+                }
+            ],
+            "id": "1088c00fe452473797b78b0d122bb6d8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If the baby"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had slept"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(sleep) better last night, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wouldn't have been",
+                        "would not have been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) so tired."
+                }
+            ],
+            "id": "e706e058465644109b26cf4416c0090e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If the teacher"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "gives"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(give) us lots of homework this weekend, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "won't be",
+                        "will not be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) happy."
+                }
+            ],
+            "id": "28323e443a044e799724c795eb1629bb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If Lucy"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) enough time, she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would travel",
+                        "'d travel"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(travel) more."
+                }
+            ],
+            "id": "05024c17a15044269be6da453dbfcda0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If the children"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "don't eat",
+                        "do not eat"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/eat) soon, they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be",
+                        "will be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) grumpy."
+                }
+            ],
+            "id": "4309c80aad2246c9888a5efac71d2a35"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "don't go",
+                        "do not go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) to bed soon, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be",
+                        "will be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) tired in the morning."
+                }
+            ],
+            "id": "fb082ba5d3924ba6969afdc40fddf019"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wanted"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(want) a new car, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would buy"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) one."
+                }
+            ],
+            "id": "29c024b5b59f49bea02b6e7cf8eb4788"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If José"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "didn't speak",
+                        "did not speak"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/speak) good French, he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wouldn't move",
+                        "would not move"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/move) to Paris."
+                }
+            ],
+            "id": "e7c1c9ab96b44217a9b289aebf7d6c93"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If John"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "drinks"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(drink) too much coffee, he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll get",
+                        "will get"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get) ill."
+                }
+            ],
+            "id": "9f1a576a0e8746fab60669fa3a25a027"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had tidied",
+                        "'d tidied"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(tidy) our flat, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wouldn't have lost",
+                        "would not have lost"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/lose) our keys."
+                }
+            ],
+            "id": "2707ad9dd20840a8a11f62e2ea3814c1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If Luke"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't sent",
+                        "had not sent"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/send) flowers to his mother, she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wouldn't have been",
+                        "would not have been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) happy."
+                }
+            ],
+            "id": "1c640f92507a40ae870c7361d7dedd7a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If the children"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in bed, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would be able to",
+                        "'d be able to"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be able to) have a bath."
+                }
+            ],
+            "id": "5e860d969de2457c8f397e21dda072d2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "weren't",
+                        "were not"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) so stubborn, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wouldn't have",
+                        "would not have"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/have) so many arguments."
+                }
+            ],
+            "id": "c5e9c8d85b3d4cfcb9f8505d804181d8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If Julie"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't gone",
+                        "had not gone"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) to Sweden, she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have gone",
+                        "'d have gone"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to Germany."
+                }
+            ],
+            "id": "06cc371c8a6341da9838fc10fab7fb2f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "goes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the library, she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll study",
+                        "will study"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) more."
+                }
+            ],
+            "id": "932a02dd352549e6838c8da4053259a5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't had",
+                        "had not had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/have) an argument, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wouldn't have been",
+                        "would not have been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) late."
+                }
+            ],
+            "id": "0d9edcf94b634101b8f80205300bd0b3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "arrived"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) early, it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would be",
+                        "'d be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) less stressful."
+                }
+            ],
+            "id": "0f7f2c4a920e4791af392105e337e4f0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't gone",
+                        "had not gone"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) to the party, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wouldn't have met",
+                        "would not have met"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/meet) Amanda."
+                }
+            ],
+            "id": "9f61387ce8334da2ac76c545f00bcdfd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If Julie"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "liked"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(like) chocolate, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would give"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(give) her some."
+                }
+            ],
+            "id": "54055dd7c8314812848d44bbe6b3db28"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If Luke"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "lived"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in the UK, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would see",
+                        "'d see"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(see) him more often."
+                }
+            ],
+            "id": "8ab5ad5ace6448f4a8173eb42911bd3f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If the children"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't eaten",
+                        "had not eaten"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/eat) all that chocolate, they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wouldn't have felt",
+                        "would not have felt"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/feel) sick."
+                }
+            ],
+            "id": "2ce8e3a999704dc79b9ee481100512d8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "don't arrive",
+                        "do not arrive"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/arrive) soon, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be",
+                        "will be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) late."
+                }
+            ],
+            "id": "9daeeb46cf3e4b4398c2a568022383bf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had studied",
+                        "'d studied"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) Mandarin, she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have gone",
+                        "'d have gone"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to Beijing."
+                }
+            ],
+            "id": "b9677284460e4a60be937e7d8cb0df4b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "weren't",
+                        "were not"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) so tired, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would go",
+                        "'d go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) out."
+                }
+            ],
+            "id": "36115bb2be5b4accb68e17dc5779713e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "buy"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) the present, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll wrap",
+                        "will wrap"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(wrap) it up."
+                }
+            ],
+            "id": "b401098780b64fee8724076a9527698a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If Lucy"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "doesn't quit",
+                        "does not quit"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/quit) her job soon, she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll go",
+                        "will go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) crazy."
+                }
+            ],
+            "id": "cccb8678ca6c4b60b4c00d1c96a9ac29"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "don't work",
+                        "do not work"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/work) harder, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "won't pass",
+                        "will not pass"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/pass) the exam."
+                }
+            ],
+            "id": "0b7f0e3aca104a46bd47335105fbfe69"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": "29928ae4bcde49dab3f08140b477ff2e",
+    "title": "Gerunds And Infinitives",
+    "questions": [
+        {
+            "question": "I hope you don’t mind ……………………….. leaving early.",
+            "description": "Gerund is a noun equivalent. It can only be modified by a possessive adjective.",
+            "answers": [
+                "me",
+                "my",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "0569a26c729e4a10a0882a5ff1fcb5ad"
+        },
+        {
+            "question": "We are prevented ………………………….. to him.",
+            "description": "Prevent is followed by from + ing form.",
+            "answers": [
+                "to talk",
+                "from talking",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "765d40f590984ef683ccd706916e5449"
+        },
+        {
+            "question": "The teacher encouraged us …………………………… harder.",
+            "description": "Encourage is followed by to + infinitive.",
+            "answers": [
+                "to working",
+                "working",
+                "to work"
+            ],
+            "correct": 2,
+            "id": "5b37860ee1b2473aa731d43c663307f2"
+        },
+        {
+            "question": "I am tired ………………………….",
+            "description": "Tired is followed by of + ing form.",
+            "answers": [
+                "to walk",
+                "of walking",
+                "to walking"
+            ],
+            "correct": 1,
+            "id": "c3fced5e4b334a4f8c5706c0c81e3061"
+        },
+        {
+            "question": "We rejoiced at …………………………. winning.",
+            "description": "Gerund is a noun equivalent. It can only be modified by a possessive adjective.",
+            "answers": [
+                "him",
+                "his",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e3027d7757424c37906dddac18c4ec5a"
+        },
+        {
+            "question": "We heard of …………………………. having won another trophy.",
+            "description": "Gerund is a noun equivalent. It can only be modified by a possessive adjective.",
+            "answers": [
+                "him",
+                "his",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "a14232c0ce984c8abb003b4064f30c55"
+        },
+        {
+            "question": "He insisted on ………………………. being present at the meeting.",
+            "description": "Gerund is a noun equivalent. It can only be modified by a possessive adjective.",
+            "answers": [
+                "my",
+                "me",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ce56ba33d88141ac8fa906cf9537e878"
+        },
+        {
+            "question": "All depends on ………………………… getting the job.",
+            "description": "Gerund is a noun equivalent. It can only be modified by a possessive adjective.",
+            "answers": [
+                "him",
+                "his",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3bb794c873324aae9d6a5565047a06e8"
+        },
+        {
+            "question": "We left without …………………………. knowing.",
+            "description": "Gerund is a noun equivalent. It can only be modified by a possessive expression.",
+            "answers": [
+                "anyone",
+                "anyone's",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f0128c187a0449db91e5ead8e6ec8305"
+        },
+        {
+            "question": "You are expected ………………………… work at 8 am every morning.",
+            "description": "Expect is followed by an object + infinitive.",
+            "answers": [
+                "starting",
+                "to start"
+            ],
+            "correct": 1,
+            "id": "6bd536c1a54141419ba0b67ee728c44c"
+        },
+        {
+            "question": "Why don’t you let me ………………………..?",
+            "description": "Let is followed by object + infinitive without to. ",
+            "answers": [
+                "speaking",
+                "to speak",
+                "speak"
+            ],
+            "correct": 2,
+            "id": "143de91b1fa048ba9c5ab2d7c91c9cf1"
+        },
+        {
+            "question": "I recommend you ……………………….. this coat.",
+            "description": "Recommend can be followed by object + to infinitive or noun clause.\r\n",
+            "answers": [
+                "to buy",
+                "buy",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "117e526280c743439fe3e2294585f8c2"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "id": "a1fe5500db534420b9c4516ca9a8d2ac",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "I met a man ................................... had just returned from France.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "d96cbdc7ba9444efa241d65f9d29d4b5"
+        },
+        {
+            "question": "I will give you ...................................... you need.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "which"
+            ],
+            "correct": 1,
+            "id": "ab7a37b1767f445487da92e35c8132c6"
+        },
+        {
+            "question": "The books .................................. you read are not worth reading.",
+            "description": "",
+            "answers": [
+                "what",
+                "which",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "93c52fed0fe4446696bb89e61e604a19"
+        },
+        {
+            "question": "Only he .................................... wears the shoes knows where it pinches.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "8f6ce3dcf8944f9fb8d25398e0145bf4"
+        },
+        {
+            "question": "The audience applauded Mary .................................... performance was spectacular.",
+            "description": "",
+            "answers": [
+                "who",
+                "who's",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "6d09e852773743f1b356f50e19cdc519"
+        },
+        {
+            "question": "John, ........................................ is always mischievous, was punished.",
+            "description": "",
+            "answers": [
+                "who",
+                "that",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "3b85b58d92674a2496a3a05430517d58"
+        },
+        {
+            "question": "Kochi, ........................................... has a natural harbor, can handle large ships.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "what"
+            ],
+            "correct": 1,
+            "id": "bd61a9297c824ca292ed3e1e260aab2e"
+        },
+        {
+            "question": "This is my son of .......................................... I am very proud.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "what"
+            ],
+            "correct": 1,
+            "id": "1ee17a2bc4e34b6b98cc73257022c037"
+        },
+        {
+            "question": "He is a writer ....................................... works are well-known.",
+            "description": "",
+            "answers": [
+                "who's",
+                "whom",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "32c63746559e4e50a127a211f103c5f7"
+        },
+        {
+            "question": "This is the man .................................. house was burgled.",
+            "description": "",
+            "answers": [
+                "who",
+                "whose",
+                "who's"
+            ],
+            "correct": 1,
+            "id": "9d7cc73851274f24bdb70dbe9c4c5d92"
+        }
+    ]
+}

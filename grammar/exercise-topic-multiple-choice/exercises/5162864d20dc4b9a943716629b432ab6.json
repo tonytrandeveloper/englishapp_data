@@ -1,0 +1,138 @@
+{
+    "id": "5162864d20dc4b9a943716629b432ab6",
+    "title": "Auxiliary Verbs Exercise",
+    "questions": [
+        {
+            "question": "Anybody who wants to ……………………. join the club.",
+            "description": "We use can to express theoretical possibility.",
+            "answers": [
+                "will",
+                "can",
+                "may"
+            ],
+            "correct": 1,
+            "id": "f1c62169f8f44e8bb131f95b09d193df"
+        },
+        {
+            "question": "I ………………………… have won the race if I hadn’t fallen.",
+            "description": "We can use could to talk about unrealized past ability.",
+            "answers": [
+                "should",
+                "could",
+                "can"
+            ],
+            "correct": 1,
+            "id": "19d98cc19539439ebe84eb28464a1d77"
+        },
+        {
+            "question": "We …………………….. go camping in June.",
+            "description": "We do not use can to talk about future probability.",
+            "answers": [
+                "may",
+                "can",
+                "might"
+            ],
+            "correct": 0,
+            "id": "32c5b3ef43dd41a594a6ce1af4d66c24"
+        },
+        {
+            "question": "I was so angry I …………………………. have slapped him.",
+            "description": "We use could to talk about unrealized past ability.",
+            "answers": [
+                "would",
+                "could",
+                "should"
+            ],
+            "correct": 1,
+            "id": "6fe2755e18ae4018a276abc3b1770c1a"
+        },
+        {
+            "question": "One day, it …………………………. be possible to travel to other planets.",
+            "description": "\r\nWe use will be able to talk about future possibilities.\r\n",
+            "answers": [
+                "can",
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "d42873f053884fb4839392a49b8cb6f1"
+        },
+        {
+            "question": "Chennai …………………………. be very warm throughout the year.",
+            "description": "We often use can to talk about what is common or typical of a place.",
+            "answers": [
+                "may",
+                "might",
+                "can"
+            ],
+            "correct": 2,
+            "id": "668a45c3e0e8428b971c7bf84a8fa050"
+        },
+        {
+            "question": "War ………………………… break out any day.",
+            "description": "We use can/could to talk about theoretical possibility.",
+            "answers": [
+                "can",
+                "could",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "b0affc0940ff461bbecf390d542a2e13"
+        },
+        {
+            "question": "Who ……………………………. be at the door?",
+            "description": "We use can in questions to talk about the logical possibility.",
+            "answers": [
+                "can",
+                "may",
+                "will"
+            ],
+            "correct": 0,
+            "id": "b0549722254c4094a9ab9c65eb746948"
+        },
+        {
+            "question": "‘Where is Janet?’ ‘She …………………………. be at John’s place.’",
+            "description": "Can is not used in affirmative clauses to talk about logical possibility.",
+            "answers": [
+                "may",
+                "can",
+                "could"
+            ],
+            "correct": 2,
+            "id": "7030de6e99fb45d9b97c732889207f25"
+        },
+        {
+            "question": "‘Where ……………………….. we go?’",
+            "description": "We use shall to ask for suggestions.",
+            "answers": [
+                "can",
+                "may",
+                "shall"
+            ],
+            "correct": 2,
+            "id": "369d36d65eaa4329a45fabca3a79718a"
+        },
+        {
+            "question": "I ……………………….. see somebody coming.",
+            "description": "To talk about seeing at a particular moment, we often use can see.",
+            "answers": [
+                "can",
+                "may",
+                "will"
+            ],
+            "correct": 0,
+            "id": "f07c7ce59c034396b1d354bb10d49f4b"
+        },
+        {
+            "question": "I can’t help but wonder what we ………………………… do next.",
+            "description": "",
+            "answers": [
+                "would",
+                "should",
+                "can"
+            ],
+            "correct": 1,
+            "id": "abec1e76cc0c4de2bd26e42eebcfa3be"
+        }
+    ]
+}

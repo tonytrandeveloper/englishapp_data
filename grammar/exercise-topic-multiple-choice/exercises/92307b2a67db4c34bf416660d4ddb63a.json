@@ -1,0 +1,139 @@
+{
+    "id": "92307b2a67db4c34bf416660d4ddb63a",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "Sam ………………………… out every morning.",
+            "description": "The simple present is used to talk about habitual actions.",
+            "answers": [
+                "work",
+                "works",
+                "is working"
+            ],
+            "correct": 1,
+            "id": "9d87dec6316e49f8a36b4106b35453c8"
+        },
+        {
+            "question": "Every child …………………………….. love.",
+            "description": "We use a singular verb after each and every. ",
+            "answers": [
+                "need",
+                "needs",
+                "is needing",
+                "has needed"
+            ],
+            "correct": 1,
+            "id": "0a16425509a843d5b21e4cee174e3145"
+        },
+        {
+            "question": "I once ……………………………. to a concert.",
+            "description": "The simple past is used to talk about finished events.",
+            "answers": [
+                "go",
+                "have gone",
+                "went"
+            ],
+            "correct": 2,
+            "id": "28947d62fca940b98cfb6c18b564f398"
+        },
+        {
+            "question": "I ………………………………. a strange experience yesterday.",
+            "description": "Had is the past tense form of has/have.",
+            "answers": [
+                "had",
+                "did",
+                "was"
+            ],
+            "correct": 0,
+            "id": "28ebe8dd957940188fd90e274182856f"
+        },
+        {
+            "question": "I …………………………….. a chance to meet them when I was in America.",
+            "description": "Here the clause when I was in America clearly indicates that we are talking about past time. ",
+            "answers": [
+                "got",
+                "have got",
+                "get"
+            ],
+            "correct": 0,
+            "id": "f982f28658134b3d8d9c471400ea680a"
+        },
+        {
+            "question": "The teacher ……………………………………. the child on the back.",
+            "description": "",
+            "answers": [
+                "pat",
+                "patted",
+                "has patted"
+            ],
+            "correct": 1,
+            "id": "18fd3753675e4a198a7bf6e031b7dff1"
+        },
+        {
+            "question": "The lakes …………………………… up in summer.",
+            "description": "The simple present is used to talk about facts and general truths. ",
+            "answers": [
+                "dry",
+                "dries",
+                "are drying"
+            ],
+            "correct": 0,
+            "id": "b63922491b7241e9a1ebad16d573767f"
+        },
+        {
+            "question": "Kind words …………………………… others joy.",
+            "description": "",
+            "answers": [
+                "give",
+                "gave",
+                "have given"
+            ],
+            "correct": 0,
+            "id": "b7f6cb9eb5c340a68bb62bc49221f96d"
+        },
+        {
+            "question": "If she ………………………………. now, we would be in trouble.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "arrives",
+                "arrived",
+                "has arrived"
+            ],
+            "correct": 1,
+            "id": "adedf9501b9b4dc385d9f614538ea6c4"
+        },
+        {
+            "question": "He took out his pen and ………………………………… writing.",
+            "description": "",
+            "answers": [
+                "started",
+                "start",
+                "starts"
+            ],
+            "correct": 0,
+            "id": "0193bf55f07f44b7bec57a0094763399"
+        },
+        {
+            "question": "He who ……………………………… hard will certainly succeed.",
+            "description": "",
+            "answers": [
+                "works",
+                "worked",
+                "has worked"
+            ],
+            "correct": 0,
+            "id": "71c334f5b9ac4f7eac38ede5899ce3b9"
+        },
+        {
+            "question": "I …………………………… the parcel in the morning.",
+            "description": "The simple past is more common with the time expression in the morning. ",
+            "answers": [
+                "received",
+                "have received",
+                "had received"
+            ],
+            "correct": 0,
+            "id": "1cfe01589287443faa365e6d1d7c9209"
+        }
+    ]
+}

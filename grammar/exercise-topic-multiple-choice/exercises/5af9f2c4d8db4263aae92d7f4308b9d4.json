@@ -1,0 +1,118 @@
+{
+    "id": "5af9f2c4d8db4263aae92d7f4308b9d4",
+    "title": "Phrasal Verbs Exercise",
+    "questions": [
+        {
+            "question": "We ……………….. from our vacation yesterday.",
+            "description": "To get back is to return.",
+            "answers": [
+                "got up",
+                "got back",
+                "got off"
+            ],
+            "correct": 1,
+            "id": "255705b5ab3e4f8e9ef2e23604951e8d"
+        },
+        {
+            "question": "I ………………. an old friend of mine in the morning.",
+            "description": "To come across somebody is to meet them by chance. ",
+            "answers": [
+                "came on",
+                "came across",
+                "came by"
+            ],
+            "correct": 1,
+            "id": "e28a0300d0274747bfa91f7244dd5c4c"
+        },
+        {
+            "question": "Please ………………… I will call father.",
+            "description": "To hold on is to wait.",
+            "answers": [
+                "call on",
+                "hold on",
+                "put on"
+            ],
+            "correct": 1,
+            "id": "6bcffc0ff582435aace69931981dfb93"
+        },
+        {
+            "question": "The accident ………………… near the post office.",
+            "description": "Take place = happen",
+            "answers": [
+                "took place",
+                "brought about",
+                "came about"
+            ],
+            "correct": 0,
+            "id": "1637b7b7cb6343b6b37921aa346c175f"
+        },
+        {
+            "question": "They ……………….. the meeting because of the chairman’s illness.",
+            "description": "Both expressions are possible here with different meanings. To put something off is to postpone it. To call something off is to cancel it. ",
+            "answers": [
+                "put off",
+                "called off",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "03abc41b3e5c4fc583f3a68c7b15cd4a"
+        },
+        {
+            "question": "Please walk slowly. I can’t ………………… with you.",
+            "description": "",
+            "answers": [
+                "hold up",
+                "put up",
+                "come up",
+                "keep up"
+            ],
+            "correct": 3,
+            "id": "a5256403681749b182414986975c5aa5"
+        },
+        {
+            "question": "The boy ……………… a story to avoid punishment.",
+            "description": "Make up = invent",
+            "answers": [
+                "came up",
+                "made up",
+                "put up"
+            ],
+            "correct": 1,
+            "id": "34fd164db7714f588c9bbdea71943c58"
+        },
+        {
+            "question": "She ……………… a hat because it was very hot.",
+            "description": "To put on is to wear.",
+            "answers": [
+                "put off",
+                "put on",
+                "hold on"
+            ],
+            "correct": 1,
+            "id": "99031819077b45bcb27eea909ba777b4"
+        },
+        {
+            "question": "The boy was .............................. by his uncle.",
+            "description": "Bring up = raise",
+            "answers": [
+                "put up",
+                "brought up",
+                "bought up",
+                "taken up"
+            ],
+            "correct": 1,
+            "id": "41736ba1f1464b05bf3c9d1465a434ac"
+        },
+        {
+            "question": "The smell of hospitals ..................... me .......................",
+            "description": "If something puts you off, you find it unpleasant. ",
+            "answers": [
+                "puts, off",
+                "comes, off",
+                "breaks, off"
+            ],
+            "correct": 0,
+            "id": "67db03f4f4604184af64dc72009bdfd2"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "id": "63a4014d6ebd423593d1f9b10d3c2720",
+    "title": "Gap Filling Grammar Exercise",
+    "questions": [
+        {
+            "question": "My grandfather ........................... at",
+            "description": "The simple past is used to talk about a finished event.",
+            "answers": [
+                "dead",
+                "has died",
+                "died",
+                "dies"
+            ],
+            "correct": 2,
+            "id": "16db586a369a433299937b9d509589a0"
+        },
+        {
+            "question": "The doctors said that he was ................................ on arrival.",
+            "description": "Dead on arrival is the correct expression.",
+            "answers": [
+                "died",
+                "dead",
+                "had died"
+            ],
+            "correct": 1,
+            "id": "a6faa2e23f7945b6928eab0f003a6459"
+        },
+        {
+            "question": "If she left home at six, she .............................. be here soon.",
+            "description": "We use should to express logical possibility.",
+            "answers": [
+                "will",
+                "should",
+                "could"
+            ],
+            "correct": 1,
+            "id": "6b3544a1a0354d04887e09b1afd08d01"
+        },
+        {
+            "question": "Whenever we meet, we ............................. politics.",
+            "description": "Discuss is one of those verbs that does not take a preposition.",
+            "answers": [
+                "discuss",
+                "discuss on",
+                "discuss about"
+            ],
+            "correct": 0,
+            "id": "71ed04350d11459aa8b6b2f205514a2b"
+        },
+        {
+            "question": "Have you ................................ for this drink?",
+            "description": "Paid is the past and past participle form of pay. ",
+            "answers": [
+                "paid",
+                "payed",
+                "pay"
+            ],
+            "correct": 0,
+            "id": "629159e63ee64a7f81e7f4b5a6f768a7"
+        },
+        {
+            "question": "He .............................. me a visit the other day.",
+            "description": "To pay a visit is to visit someone. Paid is the past form of pay.",
+            "answers": [
+                "payed",
+                "paid",
+                "make"
+            ],
+            "correct": 1,
+            "id": "83483e6952834c12b5d84c60189608f9"
+        },
+        {
+            "question": "It took them hours to ............................ the fire in the basement.",
+            "description": "To put out fire is to extinguish it.",
+            "answers": [
+                "put off",
+                "put up",
+                "put out"
+            ],
+            "correct": 2,
+            "id": "25802f7b367b42fab913033e9ceecfd5"
+        },
+        {
+            "question": "What a brilliant idea ................................!",
+            "description": "In exclamatory sentences, the subject goes before the auxiliary verb.",
+            "answers": [
+                "is it",
+                "it is",
+                "does it"
+            ],
+            "correct": 1,
+            "id": "56268e9afbb34b4ba77c4d06dc5d023e"
+        },
+        {
+            "question": "Tell me where .............................. all this while.",
+            "description": "In reported questions the inverted word order is used.",
+            "answers": [
+                "were you",
+                "have you been",
+                "you have been"
+            ],
+            "correct": 2,
+            "id": "bcf288489be74ce0aca53b8ce943f59b"
+        },
+        {
+            "question": "You ……………………… give me my money back.",
+            "description": "Had better is used to give strong advice. ",
+            "answers": [
+                "have better",
+                "had better",
+                "better"
+            ],
+            "correct": 1,
+            "id": "31cb8bd78ffa4088a40196e323cf64b9"
+        },
+        {
+            "question": "She worked hard so that she ............................. the promotion.",
+            "description": "When the verb in the main clause is in the past tense, would, could or might are common in the clause introduced by so that.",
+            "answers": [
+                "gets",
+                "will get",
+                "would get"
+            ],
+            "correct": 2,
+            "id": "cec80100ca18459f9736efa39127b7d8"
+        },
+        {
+            "question": "That child of ................................ has broken my window again.",
+            "description": "",
+            "answers": [
+                "your",
+                "your's",
+                "yours"
+            ],
+            "correct": 2,
+            "id": "0f7d5ba599e64504b0228a94aebcac20"
+        }
+    ]
+}

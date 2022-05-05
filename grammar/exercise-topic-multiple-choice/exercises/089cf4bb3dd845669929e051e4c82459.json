@@ -1,0 +1,114 @@
+{
+    "id": "089cf4bb3dd845669929e051e4c82459",
+    "title": "Sentence Synthesis Exercise",
+    "questions": [
+        {
+            "question": "James plays hockey .................................... cricket.",
+            "description": "",
+            "answers": [
+                "as well",
+                "also",
+                "as well as"
+            ],
+            "correct": 2,
+            "id": "07f8b55db99c4ee8a8408fece7cf54e0"
+        },
+        {
+            "question": "He must be asleep ........................................... there is no light in his room.",
+            "description": "",
+            "answers": [
+                "since",
+                "for"
+            ],
+            "correct": 1,
+            "id": "6ade26f40e9d441cb2e6739e853fe9ae"
+        },
+        {
+            "question": "He speaks Hindi .................................... English.",
+            "description": "",
+            "answers": [
+                "also",
+                "as well",
+                "as well as"
+            ],
+            "correct": 2,
+            "id": "f8d05811914e420ba882f68689c977fa"
+        },
+        {
+            "question": "Peter is quite sociable ........................................ his brother is rather reserved.",
+            "description": "",
+            "answers": [
+                "where",
+                "as",
+                "whereas"
+            ],
+            "correct": 2,
+            "id": "473b1e5cf5954f30bc30d0b39a102c39"
+        },
+        {
+            "question": "There was little hope of success, ................................... I tried hard.",
+            "description": "",
+            "answers": [
+                "because",
+                "as",
+                "nevertheless"
+            ],
+            "correct": 2,
+            "id": "34e619d2be8a4ab8ae82b03ae02faff5"
+        },
+        {
+            "question": "He will neither spend his money ........................................ invest it.",
+            "description": "",
+            "answers": [
+                "or",
+                "nor",
+                "either"
+            ],
+            "correct": 1,
+            "id": "f949ff819aad4c0cb1e4785057c1fb53"
+        },
+        {
+            "question": "He is ...................................... a fool or a madman.",
+            "description": "",
+            "answers": [
+                "either",
+                "neither"
+            ],
+            "correct": 0,
+            "id": "9135d0d50c13406f92d131c4c139161e"
+        },
+        {
+            "question": "He has been working hard, ..................................... he will pass.",
+            "description": "",
+            "answers": [
+                "as",
+                "therefore",
+                "so"
+            ],
+            "correct": 2,
+            "id": "661672bddac54ef0bd52dca3c3da9fb4"
+        },
+        {
+            "question": "I did my best, ......................................... I failed.",
+            "description": "",
+            "answers": [
+                "though",
+                "but",
+                "as if"
+            ],
+            "correct": 1,
+            "id": "dae6e4c17ee34cc6abdda4ebfe3e176b"
+        },
+        {
+            "question": "The way was long ..................................... the wind was cold.",
+            "description": "",
+            "answers": [
+                "and",
+                "so",
+                "but"
+            ],
+            "correct": 0,
+            "id": "bb5644e10ff84b0abddf5250f8c75dc5"
+        }
+    ]
+}

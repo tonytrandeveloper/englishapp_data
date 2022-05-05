@@ -1,0 +1,138 @@
+{
+    "id": "f431cfb01caa4b81bd0a90c9c6947b34",
+    "title": "Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "They are painting the walls. (Active) / The walls ………………. (Passive)",
+            "description": "In the present continuous tense, the passive form is ‘is/am/are + being + past participle form of the verb’",
+            "answers": [
+                "are painting",
+                "are being painted",
+                "are painted"
+            ],
+            "correct": 1,
+            "id": "166edc1862f34c5ab573b5afce6cf7ce"
+        },
+        {
+            "question": "He closed the door. (Active) / The door …………………. by him. (Passive)",
+            "description": "In the simple past tense, the passive form is ‘was/were + past participle form of the verb’",
+            "answers": [
+                "has closed",
+                "was being closed",
+                "was closed"
+            ],
+            "correct": 2,
+            "id": "563c1995fff741a2a0cd6a85a3ffd3a4"
+        },
+        {
+            "question": "The loan recovery officials sealed the house. (Active) / The house …………………. by the loan recovery officials. (Passive)",
+            "description": "In the simple past tense, the passive form is ‘was/were + past participle form of the verb’",
+            "answers": [
+                "was sealed",
+                "was being sealed",
+                "has been sealed"
+            ],
+            "correct": 0,
+            "id": "38d2b9517fea4e5b80815c3f791183cb"
+        },
+        {
+            "question": "I have cleaned the carpets. (Active) / The carpets …………………. (Passive)",
+            "description": "In the present perfect tense, the passive voice is ‘has/have + been + past participle form of the verb’.",
+            "answers": [
+                "are cleaned",
+                "have been cleaned",
+                "had been cleaned"
+            ],
+            "correct": 1,
+            "id": "d3177dd4ddac43de86219b4a614788e7"
+        },
+        {
+            "question": "I had sent the parcel in the morning. (Active) / The parcel ……………….. in the morning. (Passive)",
+            "description": "In the past perfect tense, the passive form is ‘had + been + past participle form of the verb’.",
+            "answers": [
+                "had been sent",
+                "have been sent",
+                "was sent"
+            ],
+            "correct": 0,
+            "id": "297be011d9cd413da6b24fd789fe9a51"
+        },
+        {
+            "question": "You should post this letter. (Active) /  This letter ………………… (Passive)",
+            "description": "‘Should post’ becomes ‘should be posted’ in the passive voice.",
+            "answers": [
+                "should be posting",
+                "should be posted",
+                "should have posted"
+            ],
+            "correct": 1,
+            "id": "491d863524454944ae8639af745b4175"
+        },
+        {
+            "question": "They will announce the results tomorrow. (Active) / The results ………………… tomorrow. (Passive)",
+            "description": "In the simple future tense, the passive form is ‘will + be + past participle form of the verb’.",
+            "answers": [
+                "will be announced",
+                "will be announcing",
+                "will announced"
+            ],
+            "correct": 0,
+            "id": "3d8cbf33577848fb940e3876734c373d"
+        },
+        {
+            "question": "I have fed the dog. (Active) / The dog ………………. (Passive)",
+            "description": "In the present perfect tense, the passive form is ‘has / have + been + past participle form of the verb’.",
+            "answers": [
+                "has been fed",
+                "was fed",
+                "had been fed"
+            ],
+            "correct": 0,
+            "id": "e28e1404433d42719229d71ba66c4182"
+        },
+        {
+            "question": "We will have finished the work by Monday. (Active) / The work ………………… by Monday. (Passive)",
+            "description": "In the future perfect tense, the passive form is ‘will + have + been + past participle form of the verb’.",
+            "answers": [
+                "will have been finishing",
+                "will be finished",
+                "will have been finished"
+            ],
+            "correct": 2,
+            "id": "a9865b620cf14f5f9911217a2bf26e1d"
+        },
+        {
+            "question": "The reporter is announcing the news. (Active) / The news ……………….. (Passive)",
+            "description": "In the present continuous tense, the passive form is ‘is/am/are + being + past participle form of the verb’.",
+            "answers": [
+                "is being announcing",
+                "was announced",
+                "is being announced"
+            ],
+            "correct": 2,
+            "id": "01ecda95a2994c0e8f2d7bfbb4b254ff"
+        },
+        {
+            "question": "They took the patient to the hospital in an ambulance. (Active) / The patient ………………. to the hospital in an ambulance. (Passive)",
+            "description": "In the simple past tense, the passive form is ‘was/were + past participle form of the verb’",
+            "answers": [
+                "was taking",
+                "was taken",
+                "had been taken"
+            ],
+            "correct": 1,
+            "id": "9be9f299960642f58d5969c9b266677c"
+        },
+        {
+            "question": "I bought food at the restaurant. (Active) / Food ……………… at the restaurant. (Passive)",
+            "description": "",
+            "answers": [
+                "had bought",
+                "was bought",
+                "has been bought"
+            ],
+            "correct": 1,
+            "id": "428e99e335f1492d897635924dddeb63"
+        }
+    ]
+}

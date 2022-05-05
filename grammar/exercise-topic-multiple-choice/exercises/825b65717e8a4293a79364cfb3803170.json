@@ -1,0 +1,138 @@
+{
+    "id": "825b65717e8a4293a79364cfb3803170",
+    "title": "Gerund Or Infinitive",
+    "questions": [
+        {
+            "question": "I hate the idea ……………….. old.",
+            "description": "The noun idea is followed by a preposition + ing form.",
+            "answers": [
+                "to get",
+                "of getting",
+                "of get"
+            ],
+            "correct": 1,
+            "id": "245b8b4754bc44af84ab04a780b3701b"
+        },
+        {
+            "question": "The thought ……………… never bothered him.",
+            "description": "The noun thought is followed by a preposition + ing form.",
+            "answers": [
+                "to fail",
+                "of failing",
+                "to failing"
+            ],
+            "correct": 1,
+            "id": "fb658a6a932b4051bee9b23d23cbf356"
+        },
+        {
+            "question": "She is very clever ……………….. problems.",
+            "description": "The adjective clever is followed by the preposition at + ing form.",
+            "answers": [
+                "in solving",
+                "to solve",
+                "at solving"
+            ],
+            "correct": 2,
+            "id": "e4756c0ab5cf4b6492b628307150d462"
+        },
+        {
+            "question": "Have you got anything ………………. flies?",
+            "description": "After something and anything, we use for + ing form to explain the purpose of an object.",
+            "answers": [
+                "to kill",
+                "for killing",
+                "for to kill"
+            ],
+            "correct": 1,
+            "id": "b48f7318895e4aabaf28cb546323c1cb"
+        },
+        {
+            "question": "You can’t eat meat without …………….. an animal.",
+            "description": "After a preposition, we use an ing form.",
+            "answers": [
+                "to kill",
+                "killing",
+                "of killing"
+            ],
+            "correct": 1,
+            "id": "38c1be40d6f84bc599df430d4ded54fb"
+        },
+        {
+            "question": "You must always check the oil before ……………… the vehicle.",
+            "description": "After a preposition, we use an ing form.",
+            "answers": [
+                "start",
+                "to start",
+                "starting"
+            ],
+            "correct": 2,
+            "id": "dc56805ac9374a8ba1454bed6a3b4a89"
+        },
+        {
+            "question": "I am not used to ………………. in a major city.",
+            "description": "When to is a preposition, it is followed by an ing form. A common expression in which this happens is ‘be used to’.",
+            "answers": [
+                "live",
+                "living",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3ec5bd13a9304e0a9270d6796399df97"
+        },
+        {
+            "question": "Do you object to ……………. on weekends?",
+            "description": "In the expression object to, ‘to’ is a preposition. We use ing forms after prepositions.",
+            "answers": [
+                "work",
+                "working",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f3742e46bc324b739bbab57925e596fe"
+        },
+        {
+            "question": "Be careful when you talk to him. He is inclined to ……………… his temper.",
+            "description": "The verb inclined is followed by a to-infinitive.",
+            "answers": [
+                "lose",
+                "losing",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "4ff4f995b6e6461095784c41473c9c8c"
+        },
+        {
+            "question": "We are waiting for the guests …………….",
+            "description": "The verb wait is followed by for + object + infinitive.",
+            "answers": [
+                "to arrive",
+                "to arriving",
+                "arriving"
+            ],
+            "correct": 0,
+            "id": "4a62e138e23f4c8ab6d8ca5ac083ddfe"
+        },
+        {
+            "question": "We regret …………… passengers that the flight to Amsterdam has been cancelled.",
+            "description": "Regret is followed by an infinitive in announcements of bad news.",
+            "answers": [
+                "to inform",
+                "informing",
+                "to informing"
+            ],
+            "correct": 0,
+            "id": "5a8126ce1c8c4acca52c553e3ddcc16b"
+        },
+        {
+            "question": "I regret ……………… out of college. It was a big blunder.",
+            "description": "Regret is followed by an ing form to refer back to the past.",
+            "answers": [
+                "to drop",
+                "to dropping",
+                "dropping"
+            ],
+            "correct": 2,
+            "id": "07646f52f2d04d30a2f95dec04b8f303"
+        }
+    ]
+}

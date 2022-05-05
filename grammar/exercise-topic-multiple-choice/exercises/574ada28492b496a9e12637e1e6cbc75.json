@@ -1,0 +1,138 @@
+{
+    "id": "574ada28492b496a9e12637e1e6cbc75",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "The village ................................ I was born is a few hundred miles from here.",
+            "description": "Where can mean in which.",
+            "answers": [
+                "that",
+                "where",
+                "which"
+            ],
+            "correct": 1,
+            "id": "fdf8f8b5e00845a2b2e59809e0df4f20"
+        },
+        {
+            "question": "This is the store in ................................ I used to work.",
+            "description": "In which is similar to where. We cannot use that after a preposition. ",
+            "answers": [
+                "where",
+                "which",
+                "that"
+            ],
+            "correct": 1,
+            "id": "a090ea30f50c4dfba55650f721b2c1a9"
+        },
+        {
+            "question": "He was admired by the people with ............................... he worked.",
+            "description": "In a formal style, the preposition comes before the relative pronoun. ",
+            "answers": [
+                "who",
+                "that",
+                "whom"
+            ],
+            "correct": 2,
+            "id": "7594c8c00ba947558d9ea75c5e354a52"
+        },
+        {
+            "question": "He was loved by the people ................................. he worked with.",
+            "description": "In an informal style, the preposition goes at the end of the sentence. ",
+            "answers": [
+                "which",
+                "that",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "9c46e2f7294e44229551f1733e57fe77"
+        },
+        {
+            "question": "This is the house in .................................... I was born.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "c82847eed60f4fdda69efa79a9946e71"
+        },
+        {
+            "question": "This is the room .................................... I was born in.",
+            "description": "That is used when the preposition goes at the end. It cannot be used after a preposition. ",
+            "answers": [
+                "that",
+                "which",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "c81be80c2d324e319c074d7b85a5e2cb"
+        },
+        {
+            "question": "I don't know ................................. she is from.",
+            "description": "",
+            "answers": [
+                "that",
+                "where",
+                "which"
+            ],
+            "correct": 1,
+            "id": "7b75be10ef024905a3e50c826a56e5dc"
+        },
+        {
+            "question": "Do you know ................................ country she is from?",
+            "description": "",
+            "answers": [
+                "what",
+                "which",
+                "that"
+            ],
+            "correct": 1,
+            "id": "5fc8a01d471d4c4490fadd2525ccd46f"
+        },
+        {
+            "question": "He always quarreled with the people with ................................... he worked.",
+            "description": "We cannot use who and that after prepositions.",
+            "answers": [
+                "who",
+                "whom",
+                "that"
+            ],
+            "correct": 1,
+            "id": "72ed3ce194674f76aa148a58f3cdf8c2"
+        },
+        {
+            "question": "Do you know …………………………. I met at the club yesterday?",
+            "description": "In an informal style who is also possible here.",
+            "answers": [
+                "who",
+                "whom",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "75f2874ba46a4d6a81ec3f930491d14a"
+        },
+        {
+            "question": "………………………….. she said made me angry.",
+            "description": "What means the things which.",
+            "answers": [
+                "What",
+                "That",
+                "Which"
+            ],
+            "correct": 0,
+            "id": "e7cfddbe65a24f67b3e2c7dc577677c3"
+        },
+        {
+            "question": "You should give me …………………………. I want.",
+            "description": "What means the things which.",
+            "answers": [
+                "that",
+                "what",
+                "which"
+            ],
+            "correct": 1,
+            "id": "d20e0bd06003447fbd538cb7b4652fbb"
+        }
+    ]
+}

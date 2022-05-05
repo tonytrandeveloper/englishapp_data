@@ -1,0 +1,138 @@
+{
+    "id": "23aa3334fc2a420c9f6ba925c1ab5e35",
+    "title": "Modal Auxiliaries",
+    "questions": [
+        {
+            "question": "I ate as much as I …………………………",
+            "description": "We use could to show past ability.",
+            "answers": [
+                "can",
+                "could",
+                "will"
+            ],
+            "correct": 1,
+            "id": "15cfc950064443048ef20a8d1a8d4ee6"
+        },
+        {
+            "question": "She ………………………… walk when she was just eight months old.",
+            "description": "We use could to show past ability.",
+            "answers": [
+                "can",
+                "could",
+                "will"
+            ],
+            "correct": 1,
+            "id": "c87402af16d04ce6829541046bf028e6"
+        },
+        {
+            "question": "Shyam ……………………………… write with both hands. (present ability)",
+            "description": "Can is used to talk about present ability. ",
+            "answers": [
+                "can",
+                "could",
+                "would"
+            ],
+            "correct": 0,
+            "id": "24da611d32dc4dbd8bf3e99e32098622"
+        },
+        {
+            "question": "She is confident that she ………………………….. get the job.",
+            "description": "Will shows simple futurity. It is used to predict future. ",
+            "answers": [
+                "will",
+                "would",
+                "could"
+            ],
+            "correct": 0,
+            "id": "cab2d751255d4abab0bc72503b6f2bff"
+        },
+        {
+            "question": "He was sacked because he ……………………………. not meet the targets.",
+            "description": "Either could or would can be used here with different meanings. Could not shows inability. Would not shows reluctance. ",
+            "answers": [
+                "would",
+                "can",
+                "could"
+            ],
+            "correct": 2,
+            "id": "588b22a2dec24799a837009990a1cb84"
+        },
+        {
+            "question": "She said that she ………………………….. come but she didn’t.",
+            "description": "Would is the past tense of will in indirect speech.",
+            "answers": [
+                "would",
+                "will",
+                "can"
+            ],
+            "correct": 0,
+            "id": "945e802a578142ca8aee4ac77113c27c"
+        },
+        {
+            "question": "If I had more money, I ……………………………….. build a home.",
+            "description": "Either could be used here with slightly different meanings. ",
+            "answers": [
+                "would",
+                "could",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "08e5b054daba42448c0759fb7ca0303f"
+        },
+        {
+            "question": "If I were you, I …………………………… pay 2000 bucks for that used car.",
+            "description": "Would not shows refusal. Could not shows inability. ",
+            "answers": [
+                "could not",
+                "will not",
+                "would not"
+            ],
+            "correct": 2,
+            "id": "c3c6dcda8d36451b9c6935dddfd903a6"
+        },
+        {
+            "question": "You ………………………….. visit me whenever you want.",
+            "description": "Can is used to make a request, to ask for permission or to express ability to do something.",
+            "answers": [
+                "would",
+                "can",
+                "could"
+            ],
+            "correct": 1,
+            "id": "207c802b572648e59ed0a42e0d837113"
+        },
+        {
+            "question": "Who ……………………………. pay for the drinks?",
+            "description": "Will is used to predict something, to express willingness or to announce a spontaneous decision. Can shows ability. ",
+            "answers": [
+                "will",
+                "can",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ddbfea1a466748e7a9e67bb3db28db74"
+        },
+        {
+            "question": "………………………… you mind closing the door?",
+            "description": "Would is used in polite requests.",
+            "answers": [
+                "Will",
+                "Would",
+                "Could"
+            ],
+            "correct": 1,
+            "id": "18f9af172a1b4fcba3c33d3d221b01c6"
+        },
+        {
+            "question": "I wanted to scream but I …………………………….",
+            "description": "",
+            "answers": [
+                "cannot",
+                "couldn't",
+                "won't"
+            ],
+            "correct": 1,
+            "id": "8338853cbc044530932697cff94706c3"
+        }
+    ]
+}

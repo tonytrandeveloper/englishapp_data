@@ -1,0 +1,139 @@
+{
+    "id": "a5324c48d143451d862f794b044fae60",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "One day people .............................. live on Mars.",
+            "description": "We use will be able to to talk about future ability.",
+            "answers": [
+                "can",
+                "could",
+                "will be able to"
+            ],
+            "correct": 2,
+            "id": "5e1de2eb881744d895b2e30aef3d530a"
+        },
+        {
+            "question": "I am interested in ............................ to swim.",
+            "description": "We use a noun or an ing form after a preposition.",
+            "answers": [
+                "to learn",
+                "learn",
+                "learning",
+                "to learning"
+            ],
+            "correct": 2,
+            "id": "2c612a7655364870a9291635a64e8975"
+        },
+        {
+            "question": "You don't look happy .............................  me.",
+            "description": "The adjective happy is followed by a to-infinitive.",
+            "answers": [
+                "see",
+                "to see",
+                "seeing"
+            ],
+            "correct": 1,
+            "id": "088472d8f17143178fe142ae16a0d77b"
+        },
+        {
+            "question": "That skirt is too short, ............................?",
+            "description": "We use a negative tag after an affirmative sentence.",
+            "answers": [
+                "is it",
+                "isn't it",
+                "does it"
+            ],
+            "correct": 1,
+            "id": "905cd94035934299b4da4c640cb8e45a"
+        },
+        {
+            "question": "He was .............................. injured in the accident.",
+            "description": "Deadly is an adjective. It is used before a noun fatally is the adverb for this meaning.",
+            "answers": [
+                "deadly",
+                "deathly",
+                "fatally"
+            ],
+            "correct": 2,
+            "id": "053db9b5eb2e4cec92c275e73a74069b"
+        },
+        {
+            "question": "I very much enjoy .............................",
+            "description": "We use an ing form after enjoy.",
+            "answers": [
+                "to sing",
+                "singing",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "ebd03b3c6b9b4ed39415b317691f2c55"
+        },
+        {
+            "question": "She wouldn't have survived, if they ................................... her to hospital.",
+            "description": "In the third conditional we use a past perfect tense in the if-clause and would have + past participle in the main clause.",
+            "answers": [
+                "didn't take",
+                "hadn't taken",
+                "don't take"
+            ],
+            "correct": 1,
+            "id": "3ed4416e053c48168ca90d45107960e9"
+        },
+        {
+            "question": "Alice didn't pass the test. Mary didn't .............................",
+            "description": "We can use 'not either' to add a negative idea to another negative idea.",
+            "answers": [
+                "also",
+                "either",
+                "neither"
+            ],
+            "correct": 1,
+            "id": "fda0c268b8b14e1a87378ee922e49cb4"
+        },
+        {
+            "question": "She often comes and ............................... the afternoon with us.",
+            "description": "Here the singular pronoun she is the subject of both clauses.",
+            "answers": [
+                "spend",
+                "to spend",
+                "spends"
+            ],
+            "correct": 2,
+            "id": "42b5bc755372461ea541db1ab7d35839"
+        },
+        {
+            "question": "Get that cat .............................. the piano.",
+            "description": "",
+            "answers": [
+                "of",
+                "off",
+                "from"
+            ],
+            "correct": 1,
+            "id": "e77f686c5bd64cb88629b44603eb7e76"
+        },
+        {
+            "question": "We need as ................................ volunteers as possible.",
+            "description": "Before a plural noun we use many.",
+            "answers": [
+                "many",
+                "much",
+                "most"
+            ],
+            "correct": 0,
+            "id": "ae586555cc364d90ad046a3459f24511"
+        },
+        {
+            "question": "Do you know the reason ................................ her unhappiness?",
+            "description": "Reason is followed by the preposition for. ",
+            "answers": [
+                "of",
+                "for",
+                "about"
+            ],
+            "correct": 1,
+            "id": "5866a677920d48f4a32e38508d352046"
+        }
+    ]
+}

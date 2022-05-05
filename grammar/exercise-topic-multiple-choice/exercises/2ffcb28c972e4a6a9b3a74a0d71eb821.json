@@ -1,0 +1,115 @@
+{
+    "id": "2ffcb28c972e4a6a9b3a74a0d71eb821",
+    "title": "Though, Although, Despite, In Spite Of",
+    "questions": [
+        {
+            "question": "She went out …………………. it was raining.",
+            "description": "",
+            "answers": [
+                "though",
+                "in spite of",
+                "despite"
+            ],
+            "correct": 0,
+            "id": "524cbf58d395499498e58dd6d117b268"
+        },
+        {
+            "question": "The trains were late ………………… the rain.",
+            "description": "",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "ee1d0e3aca19439a94b0bcd1aad69a23"
+        },
+        {
+            "question": "I managed to arrive on time …………………. the train was late by an hour.",
+            "description": "",
+            "answers": [
+                "although",
+                "despite",
+                "in spite of"
+            ],
+            "correct": 0,
+            "id": "49d79df879464ee18e68fa7e7cfff651"
+        },
+        {
+            "question": "I enjoyed the film …………………. having a headache.",
+            "description": "",
+            "answers": [
+                "despite",
+                "in spite of",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c047fec4dded413bb234abd46c39a74d"
+        },
+        {
+            "question": "She bought the car ………………… the fact that it was expensive.",
+            "description": "",
+            "answers": [
+                "although",
+                "because",
+                "in spite of"
+            ],
+            "correct": 2,
+            "id": "18703e5c6bee489ea489b1ed40e602ff"
+        },
+        {
+            "question": "The dress was good …………….. expensive.",
+            "description": "",
+            "answers": [
+                "despite",
+                "however",
+                "though"
+            ],
+            "correct": 2,
+            "id": "601e719de38c4be2b0b100fc74b2a177"
+        },
+        {
+            "question": "John was absent. ……………….., everybody else was present.",
+            "description": "",
+            "answers": [
+                "Despite",
+                "However",
+                "Although"
+            ],
+            "correct": 1,
+            "id": "4bc09b84c5f74e3f98cad0d366ea4716"
+        },
+        {
+            "question": "……………….. John was absent, everybody else was present.",
+            "description": "",
+            "answers": [
+                "Though",
+                "However",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "b4facdbe580c4f2f953ea251fd608903"
+        },
+        {
+            "question": "We managed to do it ……………… we didn’t receive any assistance from them.",
+            "description": "",
+            "answers": [
+                "although",
+                "however",
+                "despite"
+            ],
+            "correct": 0,
+            "id": "380306ee06814b788b59d4da5216e3d2"
+        },
+        {
+            "question": "We managed to do it ………………….. the fact that we didn’t receive any assistance from them.",
+            "description": "",
+            "answers": [
+                "however",
+                "though",
+                "despite"
+            ],
+            "correct": 2,
+            "id": "d72c3434ee9d425a8a4c9d47e1fd6a62"
+        }
+    ]
+}

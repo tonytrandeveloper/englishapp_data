@@ -1,0 +1,137 @@
+{
+    "id": "18758a80f7854f149df8e6f68e10b017",
+    "title": "Gap Fills",
+    "questions": [
+        {
+            "question": "I want to know why …………………. late.",
+            "description": "In indirect questions, the subject goes before the auxiliary verb.",
+            "answers": [
+                "are you",
+                "you are"
+            ],
+            "correct": 1,
+            "id": "3052fe0fd3e947b49d8bf2965ee8367f"
+        },
+        {
+            "question": "If you had asked me I …………………… you.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause.",
+            "answers": [
+                "would tell",
+                "will tell",
+                "would have told"
+            ],
+            "correct": 2,
+            "id": "cd40e932364b4ff59f1200e5a87cb7e3"
+        },
+        {
+            "question": "She would have come if you ………………………. her.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause.",
+            "answers": [
+                "invited",
+                "invites",
+                "had invited"
+            ],
+            "correct": 2,
+            "id": "9b839b060f434df0bca0bb83f304750b"
+        },
+        {
+            "question": "The more you praise him, ……………………. he becomes.",
+            "description": "In this structure, we need the + comparative in both clauses.",
+            "answers": [
+                "worse",
+                "the worse",
+                "the worst"
+            ],
+            "correct": 1,
+            "id": "4566fd083a6947f182a72008c19e1138"
+        },
+        {
+            "question": "No sooner had the teacher entered the class …………………….. the students stood up.",
+            "description": "Sooner is a comparative word use than after it. ",
+            "answers": [
+                "than",
+                "when",
+                "before"
+            ],
+            "correct": 0,
+            "id": "e8f4ff9c52b3427d97caf0d46f64b3d0"
+        },
+        {
+            "question": "Would you mind …………………….. me your book?",
+            "description": "The ing form is used after do you mind and would you mind.",
+            "answers": [
+                "lending",
+                "to lend",
+                "lend"
+            ],
+            "correct": 0,
+            "id": "413ce4e6c2df458ca2724cf34f795ede"
+        },
+        {
+            "question": "He is too lazy …………………….",
+            "description": "",
+            "answers": [
+                "to work",
+                "to working",
+                "for work"
+            ],
+            "correct": 0,
+            "id": "db11224aefd9470bb8b80367cf26ee1a"
+        },
+        {
+            "question": "He enjoys ……………………. with children.",
+            "description": "Enjoy cannot be followed by a to-infinitive. ",
+            "answers": [
+                "playing",
+                "to play",
+                "to playing"
+            ],
+            "correct": 0,
+            "id": "015e2636b0674f78b80b794768b1c501"
+        },
+        {
+            "question": "He accused me …………………… stealing his watch.",
+            "description": "",
+            "answers": [
+                "with",
+                "of",
+                "for"
+            ],
+            "correct": 1,
+            "id": "ea414b50a5e8488d858df755f75e1975"
+        },
+        {
+            "question": "He congratulated me ……………………… my success.",
+            "description": "Both for and on can be used.",
+            "answers": [
+                "for",
+                "on",
+                "with"
+            ],
+            "correct": 1,
+            "id": "76064543b27f423dbd0c95997cac541a"
+        },
+        {
+            "question": "He was acquitted …………………… the charges levelled against him.",
+            "description": "",
+            "answers": [
+                "from",
+                "of",
+                "with"
+            ],
+            "correct": 1,
+            "id": "bb68dc434ec24f1c88a7dc577f404e6f"
+        },
+        {
+            "question": "…………………….. the bell rang, the students rushed to the class.",
+            "description": "",
+            "answers": [
+                "No sooner",
+                "Hardly",
+                "As soon as"
+            ],
+            "correct": 2,
+            "id": "a69fc690a59d4a12a80543209a0cf526"
+        }
+    ]
+}

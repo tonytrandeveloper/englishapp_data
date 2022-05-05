@@ -1,0 +1,135 @@
+{
+    "id": "6ec40ca440234d7a8405bcec117dfad0",
+    "title": "Present Perfect Or Present Perfect Continuous",
+    "questions": [
+        {
+            "question": "I …………………………… to solve this problem for a while.",
+            "description": "The present perfect continuous is used to talk about actions or situations that started in the past and has continued up to the present.",
+            "answers": [
+                "tried",
+                "have been trying",
+                "try"
+            ],
+            "correct": 1,
+            "id": "2c5d1a52dceb427e9de28f716ed4dbf5"
+        },
+        {
+            "question": "The postman has ......................................",
+            "description": "Been is used to indicate completed visits. ",
+            "answers": [
+                "gone",
+                "been"
+            ],
+            "correct": 1,
+            "id": "3b122ccd294641e09b9e2b58db36743e"
+        },
+        {
+            "question": "I couldn’t meet him. He had ……………………………. to Ireland.",
+            "description": "Has gone is used to talk about incomplete visits.",
+            "answers": [
+                "been",
+                "gone"
+            ],
+            "correct": 1,
+            "id": "a2d5d92bf1864e5484366a53c117c215"
+        },
+        {
+            "question": "He …………………………………… in this office for 15 years.",
+            "description": "The present perfect continuous is used to talk about actions or situations that started in the past and has continued up to the present. The present perfect can also be used with this meaning. ",
+            "answers": [
+                "has worked",
+                "has been working",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "7369c83ce5344d9baa5692a65d85f7aa"
+        },
+        {
+            "question": "'You look tired.' 'Yes, I ..................................... for hours.'",
+            "description": "The present perfect continuous is used to talk about actions or situations that started in the past and has continued up to the present.",
+            "answers": [
+                "am digging",
+                "have been digging",
+                "was digging"
+            ],
+            "correct": 1,
+            "id": "05d26778b5c54247b39a573b62731a7c"
+        },
+        {
+            "question": "I ……………………………… my dinner.",
+            "description": "The present perfect is commonly used to talk about recently finished actions and situations.",
+            "answers": [
+                "have just had",
+                "just have",
+                "just had had"
+            ],
+            "correct": 0,
+            "id": "83cc0900cd994357a06514a46cc907ee"
+        },
+        {
+            "question": "He ………………………………. working on that project.",
+            "description": "",
+            "answers": [
+                "finished",
+                "has finished",
+                "is finishing"
+            ],
+            "correct": 1,
+            "id": "846762c690164751b5bc1230b17111c8"
+        },
+        {
+            "question": "I …………………………….. that movie six times.",
+            "description": "The present perfect is used with the meaning up to now. ",
+            "answers": [
+                "watched",
+                "have watched",
+                "had watched"
+            ],
+            "correct": 1,
+            "id": "3958dd8e24064032ba633a49e3a08848"
+        },
+        {
+            "question": "I ...................................... cleaning the kitchen.",
+            "description": "The present perfect is used to talk about recently finished actions or situations.",
+            "answers": [
+                "have finished",
+                "have been finishing"
+            ],
+            "correct": 0,
+            "id": "31c9e54084584db9b01e5cef99321060"
+        },
+        {
+            "question": "She ……………………………… to him for 18 years.",
+            "description": "The present perfect continuous is used to talk about actions or situations that started in the past and has continued up to the present.",
+            "answers": [
+                "has been married",
+                "is married",
+                "had been married"
+            ],
+            "correct": 0,
+            "id": "4df93651cb72403da112b7b4c073e4dc"
+        },
+        {
+            "question": "Have you ever ................................... a ghost?",
+            "description": "The present perfect is often used to talk about life experiences. ",
+            "answers": [
+                "saw",
+                "seen",
+                "see"
+            ],
+            "correct": 1,
+            "id": "4d071a7a1ca643378326741fdb8d6331"
+        },
+        {
+            "question": "I .................................. a lot about him but I …………………………. any opportunity to meet him.",
+            "description": "",
+            "answers": [
+                "have heard, haven't had",
+                "have heard, haven't been having",
+                "heard, haven't had"
+            ],
+            "correct": 0,
+            "id": "4503ff228a3c4de8bc3d5633be26d477"
+        }
+    ]
+}

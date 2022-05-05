@@ -1,0 +1,116 @@
+{
+    "id": "2520617f677a4fb3af8546cf618b6971",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "I ............................... to Africa recently.",
+            "description": "",
+            "answers": [
+                "went",
+                "have been",
+                "had been"
+            ],
+            "correct": 0,
+            "id": "138c3bf536704d12baf7f4984f0cda47"
+        },
+        {
+            "question": "I .................................. a letter to him last week.",
+            "description": "",
+            "answers": [
+                "wrote",
+                "have written",
+                "write"
+            ],
+            "correct": 0,
+            "id": "1ae1be085d20422d916f4da0d23d0a8b"
+        },
+        {
+            "question": "I ............................... him last week.",
+            "description": "",
+            "answers": [
+                "saw",
+                "have seen",
+                "has seen"
+            ],
+            "correct": 0,
+            "id": "6d6df932a2b642049cd551ee4fea1571"
+        },
+        {
+            "question": "I will call you when I .................................. the work.",
+            "description": "",
+            "answers": [
+                "finish",
+                "will finish",
+                "would finish"
+            ],
+            "correct": 0,
+            "id": "e5263856f2c946a28681d585ff1957f0"
+        },
+        {
+            "question": "Before he ....................................... to the US, he had finished his studies.",
+            "description": "",
+            "answers": [
+                "went",
+                "has gone",
+                "had gone"
+            ],
+            "correct": 0,
+            "id": "af331d8bdabf4cce8a896b82100f73b4"
+        },
+        {
+            "question": "He said that he .................................... since morning.",
+            "description": "",
+            "answers": [
+                "has been gardening",
+                "was gardening",
+                "had been gardening"
+            ],
+            "correct": 2,
+            "id": "5aff03434f794b78bbf64efc5a4296f7"
+        },
+        {
+            "question": "The man complained that his mobile phone .....................................",
+            "description": "",
+            "answers": [
+                "had stolen",
+                "has stolen",
+                "had been stolen"
+            ],
+            "correct": 2,
+            "id": "d034bd36af1d46868c354c51d511b63b"
+        },
+        {
+            "question": "The doctor concluded that the patient ............................... twelve hours of ago.",
+            "description": "",
+            "answers": [
+                "has been killed",
+                "had been killed",
+                "was killed"
+            ],
+            "correct": 1,
+            "id": "467ed641418f4a7e8c5604ee41dc805d"
+        },
+        {
+            "question": "By this time next year, he ............................... the construction of his house.",
+            "description": "",
+            "answers": [
+                "will complete",
+                "will have completed",
+                "would complete"
+            ],
+            "correct": 1,
+            "id": "f27ce723b4174d029224f85ed5c9fdae"
+        },
+        {
+            "question": "That child ................................... suffering from fever since last week.",
+            "description": "",
+            "answers": [
+                "is",
+                "has been",
+                "was"
+            ],
+            "correct": 1,
+            "id": "3c14b8b50267415d91be075be3163c4d"
+        }
+    ]
+}

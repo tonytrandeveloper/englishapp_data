@@ -1,0 +1,72 @@
+{
+    "id": "88bc71de6e39478398a906011b4b676c",
+    "title": "Phrases Exercise",
+    "questions": [
+        {
+            "question": "I hope to win the first prize.",
+            "description": "",
+            "answers": [
+                "Noun phrase",
+                "Adjective phrase",
+                "Adverb phrase"
+            ],
+            "correct": 0,
+            "id": "a5283018a48e4f5995aa70a3e10a55f5"
+        },
+        {
+            "question": "The girl in brown frock is my sister.",
+            "description": "",
+            "answers": [
+                "Noun phrase",
+                "Adjective phrase",
+                "Adverb phrase"
+            ],
+            "correct": 1,
+            "id": "308e4e5cd56e458a90b587cb20371ecb"
+        },
+        {
+            "question": "Did you enjoy watching the movie?",
+            "description": "",
+            "answers": [
+                "Noun phrase",
+                "Adjective phrase",
+                "Adverb phrase"
+            ],
+            "correct": 0,
+            "id": "b669faaedf37436795a36ffe5831abf6"
+        },
+        {
+            "question": "She always drives with care.",
+            "description": "",
+            "answers": [
+                "Noun phrase",
+                "Adjective phrase",
+                "Adverb phrase"
+            ],
+            "correct": 2,
+            "id": "b2d0958518b04e749e0f283f84e81662"
+        },
+        {
+            "question": "They were shouting in a loud voice.",
+            "description": "",
+            "answers": [
+                "Noun phrase",
+                "Adjective phrase",
+                "Adverb phrase"
+            ],
+            "correct": 2,
+            "id": "9ad4413ff69f4ee6b2d6944d4e1cca4c"
+        },
+        {
+            "question": "The train stopped at Victoria Terminus.",
+            "description": "",
+            "answers": [
+                "Noun phrase",
+                "Adjective phrase",
+                "Adverb phrase"
+            ],
+            "correct": 2,
+            "id": "659c9f0c5c2c42b5ac70f87e01fc3b58"
+        }
+    ]
+}

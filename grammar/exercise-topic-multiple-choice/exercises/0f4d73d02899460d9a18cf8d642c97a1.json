@@ -1,0 +1,138 @@
+{
+    "id": "0f4d73d02899460d9a18cf8d642c97a1",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "She appears to be very ...................... today.",
+            "description": "Appear is a copular verb. It is modified by an adjective.",
+            "answers": [
+                "happy",
+                "happily",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "1bdae2b9c5794980ad9b19b45ca6f8a2"
+        },
+        {
+            "question": "She doesn’t want to complete her studies. It .......................... a pity.",
+            "description": "We do not use appear to talk about subjective feelings and impressions.",
+            "answers": [
+                "seems",
+                "appears",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "327d5367d2da4ec9a6f3bd209fc08b77"
+        },
+        {
+            "question": "She suddenly ............................. in the hall.",
+            "description": "Appear can mean come into sight. Seem is not used with this meaning.",
+            "answers": [
+                "appeared",
+                "seemed",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "fc41da051bce48fbb94a17c54891063f"
+        },
+        {
+            "question": "I am afraid a problem has ..............................",
+            "description": "Arise can mean begin or appear.",
+            "answers": [
+                "arose",
+                "arisen",
+                "risen"
+            ],
+            "correct": 1,
+            "id": "f5896a2a4cc042fca417b94d380d85c7"
+        },
+        {
+            "question": "Prices keep ..........................",
+            "description": "Rise means get higher.",
+            "answers": [
+                "arising",
+                "rising",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "ded8de5e85c549ffa4129d872684d2a8"
+        },
+        {
+            "question": "I don’t enjoy doing odd jobs ................................ the house.",
+            "description": "Around and about can both be used to talk about movements that are not very clear or definite.",
+            "answers": [
+                "around",
+                "about",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "14d5e0ee03c24178874159033c9969c0"
+        },
+        {
+            "question": ".............................. usually start talking at around 18 months old.",
+            "description": "No article is used here because we are talking about children in general.",
+            "answers": [
+                "Children",
+                "The children",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "536a55be214f4ab0b32fc211298fdf7a"
+        },
+        {
+            "question": "I always feed ........................... before I go to work.",
+            "description": "We use the article ‘the’ here because we are talking about particular dogs.",
+            "answers": [
+                "dogs",
+                "the dogs",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "921c3c24f2754e90b86c2208baa70398"
+        },
+        {
+            "question": "Do you like ..........................?",
+            "description": "No article is used here because we are talking about dogs in general.",
+            "answers": [
+                "dogs",
+                "the dogs",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "fa816be98ba349498a6da132092e0dac"
+        },
+        {
+            "question": "He has made .................................",
+            "description": "Progress is an uncountable noun. We cannot use an article with it.",
+            "answers": [
+                "good progress",
+                "a good progress",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "909b217619da45f09ecc7bd04e451cc9"
+        },
+        {
+            "question": "Can I have ............................... pancake?",
+            "description": "The article ‘the’ is used with next.",
+            "answers": [
+                "next",
+                "the next",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e57ccce8eda54d2f9b80e80509fb1fb5"
+        },
+        {
+            "question": "We have been waiting for rain ................................ weeks.",
+            "description": "We use for to indicate duration. ",
+            "answers": [
+                "for",
+                "since",
+                "from"
+            ],
+            "correct": 0,
+            "id": "fa535691b3634dad81ecd1eb2973d5cb"
+        }
+    ]
+}

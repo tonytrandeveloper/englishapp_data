@@ -1,0 +1,138 @@
+{
+    "id": "4ecd0d6c23494b1ca0852d54e4b70e85",
+    "title": "Verbs Exercise",
+    "questions": [
+        {
+            "question": "If he ……………………. like this, he will have an accident one of these days.",
+            "description": "Use a simple present tense in the if-clause and will + first form of the verb in the main clause to talk about real and possible situations. ",
+            "answers": [
+                "drives",
+                "has driven",
+                "drove"
+            ],
+            "correct": 0,
+            "id": "a621b311f7444d87b3e51a855e6652cf"
+        },
+        {
+            "question": "She said that she ……………………….. never forget me.",
+            "description": "Would is the past form of will. When the main clause is in the past tense, the subordinate clause too should be in the past tense. ",
+            "answers": [
+                "will",
+                "would",
+                "can"
+            ],
+            "correct": 1,
+            "id": "2123be9a485946568aa74c84a0671678"
+        },
+        {
+            "question": "I don’t know where she …………………………",
+            "description": "",
+            "answers": [
+                "lives",
+                "is living",
+                "has lived"
+            ],
+            "correct": 0,
+            "id": "0fa11a95183c4c94829b7a22ace559a1"
+        },
+        {
+            "question": "Though we played well, we …………………………. win the match.",
+            "description": "Could not shows past inability.",
+            "answers": [
+                "cannot",
+                "could not",
+                "would not"
+            ],
+            "correct": 1,
+            "id": "352ca84642064071ba87224b587167a0"
+        },
+        {
+            "question": "She accused me of ………………………… her letters.",
+            "description": "A verb used after a preposition should be in its ing form.",
+            "answers": [
+                "to read",
+                "read",
+                "reading"
+            ],
+            "correct": 2,
+            "id": "be50d6cd6fc54fc59ab2e302503ed50b"
+        },
+        {
+            "question": "I couldn’t remember if I ……………………… the door.",
+            "description": "",
+            "answers": [
+                "locked",
+                "have locked",
+                "had locked"
+            ],
+            "correct": 2,
+            "id": "f56ce7bafa3b40bd91d8cb36c1d1c2c8"
+        },
+        {
+            "question": "She told me …………………….. lost.",
+            "description": "Imperative sentences are reported with a to-infinitive. ",
+            "answers": [
+                "get",
+                "to get",
+                "getting"
+            ],
+            "correct": 1,
+            "id": "377b7352934f4866a1fbf15abb049189"
+        },
+        {
+            "question": "My parents always encouraged me …………………………. big.",
+            "description": "Encourage is followed by object + to infinitive. ",
+            "answers": [
+                "dream",
+                "dreaming",
+                "to dream"
+            ],
+            "correct": 2,
+            "id": "804ac3722b0142ab9724ba7eef3b3fb8"
+        },
+        {
+            "question": "I waited for hours but no one ………………………..",
+            "description": "",
+            "answers": [
+                "comes",
+                "had come",
+                "came"
+            ],
+            "correct": 2,
+            "id": "b680fdf6f3304afbab420a461a53eb48"
+        },
+        {
+            "question": "If you had been more careful, the accident ……………………………..",
+            "description": "",
+            "answers": [
+                "could have avoided",
+                "can be avoided",
+                "could have been avoided"
+            ],
+            "correct": 2,
+            "id": "15bd7dfdf23c4c2380a826a70fc20e7f"
+        },
+        {
+            "question": "She insisted that I …………………………. her.",
+            "description": "This is an example of a subjunctive. Either go or should go is possible here.",
+            "answers": [
+                "go",
+                "should go",
+                "went"
+            ],
+            "correct": 1,
+            "id": "353cbc37bde541d9baf0565b14d1d25d"
+        },
+        {
+            "question": "I would rather you …………………………. calling me.",
+            "description": "We use a past tense after would rather to refer to present or future. ",
+            "answers": [
+                "stop",
+                "stopped",
+                "had stopped"
+            ],
+            "correct": 1,
+            "id": "02f97775d1584d9a9c0e93562e9bab75"
+        }
+    ]
+}

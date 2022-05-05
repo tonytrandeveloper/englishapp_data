@@ -1,0 +1,138 @@
+{
+    "id": "ed1536fb8f924335a6672af3029bdaec",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "I could answer only ………………………. questions.",
+            "description": "Few means almost none a few indicates a small number. ",
+            "answers": [
+                "few",
+                "a few",
+                "a little"
+            ],
+            "correct": 1,
+            "id": "a83bae0cc65f4070b52dd16d25da1957"
+        },
+        {
+            "question": "She doesn’t have …………………………. friends in the city.",
+            "description": "Not any means the same as no.",
+            "answers": [
+                "some",
+                "any",
+                "no"
+            ],
+            "correct": 1,
+            "id": "6a76be84538946189a6811469bc16305"
+        },
+        {
+            "question": "………………………….. children like pet animals.",
+            "description": "",
+            "answers": [
+                "Most",
+                "The most",
+                "A most"
+            ],
+            "correct": 0,
+            "id": "a0860330a9c04ab48cb890ac3b72f0d3"
+        },
+        {
+            "question": "I haven’t got ………………………. money.",
+            "description": "Use much with uncountable nouns and many with plural nouns. ",
+            "answers": [
+                "many",
+                "much",
+                "more"
+            ],
+            "correct": 1,
+            "id": "110919d11f2145a9932c579353421531"
+        },
+        {
+            "question": "I didn’t find ………………………….. there.",
+            "description": "Not anybody means the same as nobody. ",
+            "answers": [
+                "somebody",
+                "nobody",
+                "anybody"
+            ],
+            "correct": 2,
+            "id": "97a2bc65d9d94ba3b45e7cf24c1b1594"
+        },
+        {
+            "question": "There is ………………………….. to worry.",
+            "description": "",
+            "answers": [
+                "nothing",
+                "anything",
+                "no thing"
+            ],
+            "correct": 0,
+            "id": "2e1cf6b63717411f8f8854a0adf1aa77"
+        },
+        {
+            "question": "There are ……………………………. mangoes on the tree this year.",
+            "description": "Use fewer with plural nouns and less with uncountable nouns. ",
+            "answers": [
+                "fewer",
+                "less",
+                "lesser"
+            ],
+            "correct": 0,
+            "id": "ce6a8dcd15be4aafa8be23fd65a6130e"
+        },
+        {
+            "question": "He earns …………………………. money than I do.",
+            "description": "",
+            "answers": [
+                "less",
+                "few",
+                "lesser"
+            ],
+            "correct": 0,
+            "id": "72ff4f8b006540539b9bb1ef59a9ca5b"
+        },
+        {
+            "question": "She has …………………………… confidence in her skills.",
+            "description": "Use little with uncountable nouns and few with plural nouns. ",
+            "answers": [
+                "little",
+                "few",
+                "small"
+            ],
+            "correct": 0,
+            "id": "2b2dabd959ca41a1b1ba76222cf76ff8"
+        },
+        {
+            "question": "You have never given me …………………………… help.",
+            "description": "Use any with negative expressions like never, hardly etc. ",
+            "answers": [
+                "any",
+                "many",
+                "some"
+            ],
+            "correct": 0,
+            "id": "966aad0f18704e179dc071888a29e6d2"
+        },
+        {
+            "question": "…………………………….. of my friends are religious.",
+            "description": "",
+            "answers": [
+                "Much",
+                "Most",
+                "More"
+            ],
+            "correct": 1,
+            "id": "850903b21357429d8b0589d491b6863e"
+        },
+        {
+            "question": "…………………………. money has been wasted on that project.",
+            "description": "Use much with uncountable nouns and many with plural nouns. ",
+            "answers": [
+                "Much",
+                "Most",
+                "Many"
+            ],
+            "correct": 0,
+            "id": "698534c1185f42f7a73d9a697874abae"
+        }
+    ]
+}

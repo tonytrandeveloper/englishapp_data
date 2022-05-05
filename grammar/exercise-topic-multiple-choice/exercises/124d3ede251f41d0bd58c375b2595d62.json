@@ -1,0 +1,135 @@
+{
+    "id": "124d3ede251f41d0bd58c375b2595d62",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "Give my love to Mira in case you ............................ her.",
+            "description": "We normally use a simple present to refer to future in subordinate clauses. ",
+            "answers": [
+                "see",
+                "will see"
+            ],
+            "correct": 0,
+            "id": "b4b7c022349843979e64a332bfb4433b"
+        },
+        {
+            "question": "The first time I ................................... him was last week.",
+            "description": "The present perfect is not used with past time expressions. ",
+            "answers": [
+                "met",
+                "have met",
+                "had met"
+            ],
+            "correct": 0,
+            "id": "da09e82eeccb44b29de5be761b7cc95b"
+        },
+        {
+            "question": "This is the house .................................... I was born in.",
+            "description": "This is the house where I was born is also correct. ",
+            "answers": [
+                "that",
+                "where"
+            ],
+            "correct": 0,
+            "id": "ede2df8fbd1d44599c399cd9a4b90e7d"
+        },
+        {
+            "question": "I .................................... a strange experience yesterday.",
+            "description": "The simple present or present perfect cannot be used with past time expressions. ",
+            "answers": [
+                "had",
+                "have",
+                "have had"
+            ],
+            "correct": 0,
+            "id": "d0652ea3e4a14788aab1be2aa57b0125"
+        },
+        {
+            "question": "They ................................... married last month.",
+            "description": "To simply say that something happened sometime ago, we use the simple past. ",
+            "answers": [
+                "got",
+                "have got",
+                "had got"
+            ],
+            "correct": 0,
+            "id": "4810c9af63644c409f2a4d1aa3ea6ac9"
+        },
+        {
+            "question": "This is the man .................................. hit my dog.",
+            "description": "",
+            "answers": [
+                "who he",
+                "he",
+                "who"
+            ],
+            "correct": 2,
+            "id": "b0f9076b6ad049fcb2563a5ee134136a"
+        },
+        {
+            "question": "I don't think .................................... we will win.",
+            "description": "",
+            "answers": [
+                "that",
+                "so that",
+                "so"
+            ],
+            "correct": 0,
+            "id": "5e389c83f3544319b2e364bc1f364bcc"
+        },
+        {
+            "question": ".................................... the rain, they went out.",
+            "description": "Either despite or in spite of is possible here. ",
+            "answers": [
+                "Despite",
+                "Despite of",
+                "In spite of"
+            ],
+            "correct": 2,
+            "id": "84c0973d51b643168d07e8965c25d518"
+        },
+        {
+            "question": "............................... it was cold outside, she insisted on going.",
+            "description": "Even if refers to future. However is not a conjunction. ",
+            "answers": [
+                "Although",
+                "However",
+                "Even if"
+            ],
+            "correct": 0,
+            "id": "232fbed80383465087232cc25d6d7964"
+        },
+        {
+            "question": "She has got ..................................... hair.",
+            "description": "Hair is uncountable in English. It cannot be used with a/an. ",
+            "answers": [
+                "a curly",
+                "curly",
+                "the curly"
+            ],
+            "correct": 1,
+            "id": "a64a496895814741bb87eb7059306530"
+        },
+        {
+            "question": ".................................... she is late, we will leave without her.",
+            "description": "In case is a conjunction it is followed by a clause.",
+            "answers": [
+                "In case",
+                "In case of"
+            ],
+            "correct": 0,
+            "id": "50c0e3914d184b09a051f26b42d30b07"
+        },
+        {
+            "question": "You cooked ................................... more food than necessary.",
+            "description": "",
+            "answers": [
+                "much",
+                "too much",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "5810dff94877433bb10cb7637a15dde8"
+        }
+    ]
+}

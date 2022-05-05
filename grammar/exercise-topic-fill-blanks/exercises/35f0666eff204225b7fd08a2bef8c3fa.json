@@ -1,0 +1,363 @@
+{
+    "id": "35f0666eff204225b7fd08a2bef8c3fa",
+    "title": "Past Simple All Forms Mixed Exercise 4",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "did she go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/go)?"
+                }
+            ],
+            "id": "a2a9bde17dbc4fe4bf1fd8749fbfebad"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "did you do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/do)?"
+                }
+            ],
+            "id": "5e30e47046d340bba94fa24baee2a631"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "worked"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(work) in a bank."
+                }
+            ],
+            "id": "93979d54dcbd4a6dbabfebf33cf3dada"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "didn't call",
+                        "did not call"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/call) me."
+                }
+            ],
+            "id": "a1f89b1df32246bfa819bad39dfd2da2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Did you wear"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/wear) your red dress?"
+                }
+            ],
+            "id": "e8fdd4e124d441d794e85e921aa3a1a4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "didn't read",
+                        "did not read"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/read) that book."
+                }
+            ],
+            "id": "fa13a5be9eda4fc0818a27d68c8bcf10"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Did you go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/go)?"
+                }
+            ],
+            "id": "1858f6823aee47698b53f1403e537e00"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Did she study"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/study) last night?"
+                }
+            ],
+            "id": "1c01c953f1ed46c68a4771f3653d1c52"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Did we arrive"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(we/arrive) last?"
+                }
+            ],
+            "id": "191b8f8f4c7d4181b4de5cf4a25d9cd5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "did you meet"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/meet) ?"
+                }
+            ],
+            "id": "5ba4b9ee0bff47b191da9c94dd49b191"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Did they come"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(they/come) to the party?"
+                }
+            ],
+            "id": "750f580833ce439e98b540b455459a01"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "didn't meet",
+                        "did not meet"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/meet) him."
+                }
+            ],
+            "id": "59fd42bd09174e059c874f3aab88cacb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Did she go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/go)?"
+                }
+            ],
+            "id": "306705a7a95e46419e15db3fc7fe06a1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "met"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(meet) a friend."
+                }
+            ],
+            "id": "d29543d072f14c8a9c0853f517b4340a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Which"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "did you like"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/like)?"
+                }
+            ],
+            "id": "e68c597567bf4facb5432b9dfdddad77"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "didn't forget",
+                        "did not forget"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/forget) your book."
+                }
+            ],
+            "id": "879562764d2e4efc840c9e518023738d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "did he do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(he/do) at the weekend?"
+                }
+            ],
+            "id": "6e1c1a3bdd294c8290528d808eb2f438"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "didn't like",
+                        "did not like"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/like) chocolate."
+                }
+            ],
+            "id": "5996371eb39546a7828bc86a5175acdd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "did you buy"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/buy) yesterday?"
+                }
+            ],
+            "id": "041099e988474cab86061f30f1f9145a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Did you have"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/have) a good holiday?"
+                }
+            ],
+            "id": "804996b8bf434ecd83d31fb11a6c3a5d"
+        }
+    ]
+}

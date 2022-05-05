@@ -1,0 +1,138 @@
+{
+    "id": "b57c1e9aec314d11b80b3185c60c67c4",
+    "title": "The Relative Pronouns Who, Whom, That, Where, And Which",
+    "questions": [
+        {
+            "question": "This is the town ...................... I spent my childhood.",
+            "description": "The relative adverb where can mean in which. ",
+            "answers": [
+                "where",
+                "that",
+                "which"
+            ],
+            "correct": 0,
+            "id": "0410dfd5591c484285330ec5fe0224f7"
+        },
+        {
+            "question": "This is the town in .................... I spent my childhood.",
+            "description": "In which means the same as where. ",
+            "answers": [
+                "where",
+                "which",
+                "that"
+            ],
+            "correct": 1,
+            "id": "0aad2bd0842a488981fe4355f6bb5cfd"
+        },
+        {
+            "question": "This is the house .................... I was born in.",
+            "description": "",
+            "answers": [
+                "where",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "8719dd18a89248c3a7273d33e6e4fd65"
+        },
+        {
+            "question": "Here is an article ..................... might interest you.",
+            "description": "The relative pronoun not only connects two clauses but also acts as the subject or object of the verb in the relative clause. As subjects or objects, they replace words like they, them, she, her etc.",
+            "answers": [
+                "it",
+                "which",
+                "which it"
+            ],
+            "correct": 1,
+            "id": "bad4c3eb4c01468ebf21a0bb65b4f7f0"
+        },
+        {
+            "question": "I gave her a bag ......................... she put in her bag at once.",
+            "description": "The relative pronoun not only connects two clauses but also acts as the subject or object of the verb in the relative clause. As subjects or objects, they replace words like they, them, she, her etc.",
+            "answers": [
+                "which",
+                "which it",
+                "it"
+            ],
+            "correct": 0,
+            "id": "f534637c5e75436db06b1716ed5064ed"
+        },
+        {
+            "question": "This is Alice ........................... you met last year.",
+            "description": "That can be used to refer to both people and things however, that is not used in non-identifying relative clauses. ",
+            "answers": [
+                "whom",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "820a41b5195445ba97114615b9ecbbc6"
+        },
+        {
+            "question": "I was impressed by the way ............................ she did it.",
+            "description": "",
+            "answers": [
+                "which",
+                "in which",
+                "how"
+            ],
+            "correct": 1,
+            "id": "b94ba55a98904f9593238ea4b6335b26"
+        },
+        {
+            "question": "They got divorced a few months later ............................ surprised nobody.",
+            "description": "Which can refer to the clause of a previous clause. ",
+            "answers": [
+                "that",
+                "what",
+                "which"
+            ],
+            "correct": 2,
+            "id": "b689505462904f6b99266960bfe563ec"
+        },
+        {
+            "question": "The people ......................... live next door are not very friendly.",
+            "description": "Both who and that can refer to people in identifying relative clauses. ",
+            "answers": [
+                "who",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4bdbbf68787c49878b6d6dd73f7ea49b"
+        },
+        {
+            "question": "The only thing ................. matters is to find our way home.",
+            "description": "The relative pronoun that is preferred after words like few, little, only and much. ",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "696b52e52e7f41e2a53c1c10e4a46f12"
+        },
+        {
+            "question": "The woman ............................. I marry should have good sense of humor.",
+            "description": "In an informal style, who can be used as the object of the relative clause.",
+            "answers": [
+                "who",
+                "whom",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "2889b837aeab4d29ae27e86dc0d6dccf"
+        },
+        {
+            "question": "She was loved by the people with .............................. she worked.",
+            "description": "The relative pronouns who and that are not used after prepositions. ",
+            "answers": [
+                "who",
+                "that",
+                "whom"
+            ],
+            "correct": 2,
+            "id": "c5a1b61d744541dc90068c1ee84c3984"
+        }
+    ]
+}

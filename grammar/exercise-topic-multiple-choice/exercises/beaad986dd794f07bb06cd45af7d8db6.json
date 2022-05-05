@@ -1,0 +1,83 @@
+{
+    "id": "beaad986dd794f07bb06cd45af7d8db6",
+    "title": "Also, As Well And Too",
+    "questions": [
+        {
+            "question": "She not only sings she .................................... plays the violin.",
+            "description": "",
+            "answers": [
+                "also",
+                "too",
+                "as well"
+            ],
+            "correct": 0,
+            "id": "db00473b8bf0452f81dbc5f4fd57513b"
+        },
+        {
+            "question": "Give me some toast ........................................., please.",
+            "description": "",
+            "answers": [
+                "as well",
+                "either",
+                "also"
+            ],
+            "correct": 0,
+            "id": "5a3964f4bdf9427ca45cb16b9a2a5527"
+        },
+        {
+            "question": "It is a nice house, but it is very small. ......................................, it needs a lot of repairs.",
+            "description": "",
+            "answers": [
+                "Also",
+                "As well",
+                "Too"
+            ],
+            "correct": 0,
+            "id": "e2352a4655c344c3bb345f7c8f9083c5"
+        },
+        {
+            "question": "Peter isn’t here today. John isn’t here ....................................",
+            "description": "",
+            "answers": [
+                "either",
+                "neither",
+                "also"
+            ],
+            "correct": 0,
+            "id": "9e1d5a9747a14a378a174d55c482a787"
+        },
+        {
+            "question": "I know you don’t like me. I don’t like you ..................................",
+            "description": "",
+            "answers": [
+                "also",
+                "either",
+                "too"
+            ],
+            "correct": 1,
+            "id": "797285093f4b4180aa05a0e8cc6ca403"
+        },
+        {
+            "question": "She not only sings she plays the piano .......................................",
+            "description": "",
+            "answers": [
+                "also",
+                "too",
+                "either"
+            ],
+            "correct": 1,
+            "id": "4f00bccf49f24be0b21c1be227b60760"
+        },
+        {
+            "question": "‘She is beautiful.’ ‘Her sister is ...........................................‘",
+            "description": "",
+            "answers": [
+                "also",
+                "as well",
+                "either"
+            ],
+            "correct": 1,
+            "id": "1a7748297f9e47d9930ba81cceba60a7"
+        }
+    ]
+}

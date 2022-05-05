@@ -1,0 +1,137 @@
+{
+    "id": "8b49d8bdb8c843fcad70e680283110e4",
+    "title": "Prepositions Exercise",
+    "questions": [
+        {
+            "question": "This table is made ……………………….. teak wood.",
+            "description": "We say make of when we identify the material used to make something.",
+            "answers": [
+                "with",
+                "of",
+                "from"
+            ],
+            "correct": 1,
+            "id": "aadad4daf18c4640be4ebb15b82154ea"
+        },
+        {
+            "question": "I am going …………………….",
+            "description": "No preposition is used before home when we are referring to direction.",
+            "answers": [
+                "to home",
+                "for home",
+                "home"
+            ],
+            "correct": 2,
+            "id": "43ab91beb2a44153b4218247b3919fe3"
+        },
+        {
+            "question": "He hit me ……………………….. a stick.",
+            "description": "We use ‘with’ to talk about the tool and 'by' to talk about the agent.",
+            "answers": [
+                "by",
+                "with",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "d4cfd7ac6df7474b97e195351682e98f"
+        },
+        {
+            "question": "India has been independent …………………………",
+            "description": "With perfect tenses we use since, not from.",
+            "answers": [
+                "for",
+                "from",
+                "since"
+            ],
+            "correct": 2,
+            "id": "962492295aa5490aaacbaec1811cef8b"
+        },
+        {
+            "question": "He wrote ………………………….",
+            "description": "Before a personal object, we use ‘write to’.",
+            "answers": [
+                "me",
+                "to me",
+                "at me"
+            ],
+            "correct": 1,
+            "id": "bec9138e004649ffbb7d3c144d45c678"
+        },
+        {
+            "question": "Divide this money ……………………………. the brothers.",
+            "description": "We can use divide among or divide between before a plural noun.",
+            "answers": [
+                "among",
+                "between",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "45431d3126f84495982ea2be7e82f465"
+        },
+        {
+            "question": "He invited me ………………………. dinner.",
+            "description": "",
+            "answers": [
+                "to",
+                "for"
+            ],
+            "correct": 0,
+            "id": "60e9389f7ce048c6af776a5321839119"
+        },
+        {
+            "question": "We ……………………….. Delhi in the morning.",
+            "description": "We do not use a preposition after reach.",
+            "answers": [
+                "reached",
+                "reached at",
+                "reached in"
+            ],
+            "correct": 0,
+            "id": "17f1c7ae6620410e9cc065a1d1c4231e"
+        },
+        {
+            "question": "This is a common practice ………………………. the Hindus.",
+            "description": "Between is used with two or more clearly separate people or things. Among is used for a crowd or a mass of people. ",
+            "answers": [
+                "in",
+                "between",
+                "among"
+            ],
+            "correct": 2,
+            "id": "67602a71fa20475ab784961c6bec6cf5"
+        },
+        {
+            "question": "This is a good house to ……………………….",
+            "description": "",
+            "answers": [
+                "live",
+                "live in",
+                "live at"
+            ],
+            "correct": 1,
+            "id": "34fc7ad4ab4a4d3d9c4044d8b1aad72c"
+        },
+        {
+            "question": "This is the road to ………………………..",
+            "description": "",
+            "answers": [
+                "go",
+                "go on",
+                "go by"
+            ],
+            "correct": 2,
+            "id": "92db6e74b5614ff29b38486890c30f78"
+        },
+        {
+            "question": "I gave him a chair to ………………………..",
+            "description": "",
+            "answers": [
+                "sit",
+                "sit at",
+                "sit on"
+            ],
+            "correct": 2,
+            "id": "625ea42c58be4054979e50a812b04276"
+        }
+    ]
+}

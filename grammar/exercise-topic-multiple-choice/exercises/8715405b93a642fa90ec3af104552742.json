@@ -1,0 +1,119 @@
+{
+    "id": "8715405b93a642fa90ec3af104552742",
+    "title": "Past Tense Exercise",
+    "questions": [
+        {
+            "question": "I ……………….. TV when the lights went out.",
+            "description": "",
+            "answers": [
+                "watched",
+                "was watching",
+                "had watched"
+            ],
+            "correct": 1,
+            "id": "4c5bbc667f4243beb593c16492baa121"
+        },
+        {
+            "question": "The patient …………………. before the doctor arrived.",
+            "description": "",
+            "answers": [
+                "died",
+                "was dying",
+                "had died"
+            ],
+            "correct": 2,
+            "id": "22f27116ad854aa0b96c71006ed17b1d"
+        },
+        {
+            "question": "His father ……………….. last year.",
+            "description": "",
+            "answers": [
+                "died",
+                "was dying",
+                "has died",
+                "had died"
+            ],
+            "correct": 0,
+            "id": "677c9763c3ce4403b719f41b4ea861d2"
+        },
+        {
+            "question": "Suddenly I realized that I ……………… him before.",
+            "description": "",
+            "answers": [
+                "met",
+                "had met",
+                "have met"
+            ],
+            "correct": 1,
+            "id": "17929d7a13bf4a99a07aa14666bc39fe"
+        },
+        {
+            "question": "I ………………… in the garage when James turned up.",
+            "description": "",
+            "answers": [
+                "working",
+                "worked",
+                "was working",
+                "have been working"
+            ],
+            "correct": 2,
+            "id": "43f50a8755044fdd8d32805b4679421a"
+        },
+        {
+            "question": "While you were playing I ……………….",
+            "description": "",
+            "answers": [
+                "worked",
+                "was working",
+                "have worked"
+            ],
+            "correct": 1,
+            "id": "2e0d8fd0d1a74ea2a69a011a53aff711"
+        },
+        {
+            "question": "When I ……………….. the window, the cat jumped out.",
+            "description": "",
+            "answers": [
+                "was opening",
+                "opened",
+                "have opened",
+                "had opened"
+            ],
+            "correct": 1,
+            "id": "8e6870a01c8f4ea69ac1832ef697cc6b"
+        },
+        {
+            "question": "We ………………… in the morning.",
+            "description": "",
+            "answers": [
+                "started",
+                "have started",
+                "were starting"
+            ],
+            "correct": 0,
+            "id": "9d6f668869e146b995b10a0ae5f8a863"
+        },
+        {
+            "question": "She said that she ……………….. not come.",
+            "description": "",
+            "answers": [
+                "will",
+                "would",
+                "may"
+            ],
+            "correct": 1,
+            "id": "9324453c5e214fc8bd1cc614ad7e0c74"
+        },
+        {
+            "question": "He asked if I …………………. help him.",
+            "description": "",
+            "answers": [
+                "can",
+                "could",
+                "would"
+            ],
+            "correct": 1,
+            "id": "5ec9a3d6421142da90f546dbed6e6f5d"
+        }
+    ]
+}

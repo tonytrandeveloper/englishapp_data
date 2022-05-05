@@ -1,0 +1,253 @@
+{
+    "id": "55ac1d02cec3498d88d4f44c65f7aa4f",
+    "title": "Defining Relative Clauses 3",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I broke the plate (the plate was a wedding present)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I broke the plate that was a wedding present",
+                        "I broke the plate which was a wedding present"
+                    ]
+                }
+            ],
+            "id": "0df7a01301c94cc6a895e9947d1c529b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The police arrested the man (I saw the man steal a handbag)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The police arrested the man I saw steal a handbag"
+                    ]
+                }
+            ],
+            "id": "da1b2a8280254be4a3d6ecc1df8fbbb0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The Queen fired the chef (we had met the chef)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The Queen fired the chef we had met"
+                    ]
+                }
+            ],
+            "id": "3e78d459f435494280018f5234d0f46f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She wrote to her friend (her friend lives in Vietnam)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She wrote to her friend that lives in Vietnam",
+                        "She wrote to her friend who lives in Vietnam"
+                    ]
+                }
+            ],
+            "id": "1d703b95a3b245009a9c7e65bde02bf9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jill ate the sandwich (the sandwich had tomato and cheese inside)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Jill ate the sandwich that had tomato and cheese inside",
+                        "Jill ate the sandwich which had tomato and cheese inside"
+                    ]
+                }
+            ],
+            "id": "2e4fc7b282bb4c32833e8210aa07749d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "His friend lives in Scotland (his friend is a lawyer)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "His friend that is a lawyer lives in Scotland",
+                        "His friend who  is a lawyer lives in Scotland"
+                    ]
+                }
+            ],
+            "id": "8e2b87321fc849c6b3d3c4c58ec0c375"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We called the secretary (I went to school with the secretary)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We called the secretary I went to school with"
+                    ]
+                }
+            ],
+            "id": "962d2bee1abb4e67848f54de4f3c7f4d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The CD is in my bag (the CD has Spanish music)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The CD that has Spanish music is in my bag",
+                        "The CD which has Spanish music is in my bag"
+                    ]
+                }
+            ],
+            "id": "4ebdc831973849d9ae0d8c2b866aed97"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The book is very interesting (the book is about Japanese culture)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The book that is about Japanese culture is very interesting",
+                        "The book which is about Japanese culture is very interesting"
+                    ]
+                }
+            ],
+            "id": "2bb3da848ab54c1ea20cf3260490f034"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The bag was stolen (I bought the bag yesterday)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The bag I bought yesterday was stolen"
+                    ]
+                }
+            ],
+            "id": "693a9f8cc6984e0a9c300152d52900cf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He likes films (the films come from Asia)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He likes films that come from Asia",
+                        "He likes films which come from Asia"
+                    ]
+                }
+            ],
+            "id": "fdde3154eee44913b4f2ec2dbe3e61c3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My nephew broke the plate (I received the plate as a present)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "My nephew broke the plate I received as a present"
+                    ]
+                }
+            ],
+            "id": "687ede1d34b941109289b7d2857e8c91"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The chocolate was very old (we bought the chocolate last week)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The chocolate we bought last week was very old"
+                    ]
+                }
+            ],
+            "id": "877335c37d614c01a61eeae9e90fc2ba"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The TV programme was very funny (Lucy recommended the TV programme)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The TV programme Lucy recommended was very funny"
+                    ]
+                }
+            ],
+            "id": "3e135c96fe904dd792323a83dbaed7fc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The girl is on TV tonight (I met the girl yesterday)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The girl I met yesterday is on TV tonight"
+                    ]
+                }
+            ],
+            "id": "2fad0e2206ff4ff994fcf54e7b62d35c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They found the money (I dropped the money)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They found the money I dropped"
+                    ]
+                }
+            ],
+            "id": "716ebe4a82cd4b91b2b10d230591c4ae"
+        }
+    ]
+}

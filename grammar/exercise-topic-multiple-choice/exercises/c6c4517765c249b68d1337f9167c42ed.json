@@ -1,0 +1,133 @@
+{
+    "id": "c6c4517765c249b68d1337f9167c42ed",
+    "title": "Pronouns Exercise",
+    "questions": [
+        {
+            "question": "The three brothers love ………………………….",
+            "description": "Each other refers to two people one another refers to more than two people.",
+            "answers": [
+                "each other",
+                "one another"
+            ],
+            "correct": 1,
+            "id": "8a260e0fa5124213bdc25801b1fefc44"
+        },
+        {
+            "question": "The husband and the wife should love and respect ………………………….",
+            "description": "Each other refers to two people one another refers to more than two people.",
+            "answers": [
+                "each other",
+                "one another"
+            ],
+            "correct": 0,
+            "id": "29ebfe948acb445099121ff0aa36e633"
+        },
+        {
+            "question": "Let …………………………… go now.",
+            "description": "Let is a verb. A pronoun used as the object of a verb should be in its object form.",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 1,
+            "id": "8eda0f6c279a4941938c1d232891edfd"
+        },
+        {
+            "question": "You are not as intelligent as ……………………………",
+            "description": "Object pronouns are common after as and than.",
+            "answers": [
+                "she",
+                "her"
+            ],
+            "correct": 1,
+            "id": "660a6d24d9284139a4acf321994bc987"
+        },
+        {
+            "question": "Neither answer ………………………….. correct.",
+            "description": "We use a singular verb after either and neither. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "34beff90f1a04fdf8061786bc54531ae"
+        },
+        {
+            "question": "She is smarter than …………………………….",
+            "description": "Object pronouns are common after than. Subject pronouns are also possible with a verb. ",
+            "answers": [
+                "I am",
+                "me",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "e31bfdbe8251411ba2152215ebe5657e"
+        },
+        {
+            "question": "People suffer when ………………………….. do not have money.",
+            "description": "We use they to refer to people. ",
+            "answers": [
+                "he",
+                "we",
+                "they"
+            ],
+            "correct": 2,
+            "id": "b032d8705dac41edaab54e04089e2213"
+        },
+        {
+            "question": "I enjoy …………………………….. of movies.",
+            "description": "Use this with kind and these with kinds.",
+            "answers": [
+                "this kind",
+                "these kinds",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "905ff4c423b947e2a640e22f28c9dab7"
+        },
+        {
+            "question": "I do not trust these ………………………….. of people",
+            "description": "Use kinds and sorts with these and those.",
+            "answers": [
+                "kind",
+                "kinds",
+                "sorts"
+            ],
+            "correct": 2,
+            "id": "2099b18393fa4c1cbda2f5479fc46937"
+        },
+        {
+            "question": "……………………….. a rainy day, we stayed inside.",
+            "description": "",
+            "answers": [
+                "Being",
+                "It being"
+            ],
+            "correct": 1,
+            "id": "9ae141e90fc542919e57ab2ad5184024"
+        },
+        {
+            "question": "My essay is better than ………………………………..",
+            "description": "",
+            "answers": [
+                "my friend",
+                "that of my friend",
+                "my friends",
+                ""
+            ],
+            "correct": 1,
+            "id": "25da6fde4afa495bbec9e1975f4f51d0"
+        },
+        {
+            "question": "This is my car. Is that ……………………………….?",
+            "description": "",
+            "answers": [
+                "your",
+                "yours",
+                "you"
+            ],
+            "correct": 1,
+            "id": "825533c425d34640aafdab3dd7808073"
+        }
+    ]
+}

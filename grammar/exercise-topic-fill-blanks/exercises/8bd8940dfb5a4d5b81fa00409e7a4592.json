@@ -1,0 +1,255 @@
+{
+    "id": "8bd8940dfb5a4d5b81fa00409e7a4592",
+    "title": "Defining Relative Clauses 4",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The doctor was sick (I wanted to see the doctor)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The doctor I wanted to see was sick"
+                    ]
+                }
+            ],
+            "id": "f6198210920f4b9d963748a62b3f960b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The accountant was arrested (the accountant works for my father's company)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The accountant that works for my father's company was arrested",
+                        "The accountant who works for my father's company was arrested"
+                    ]
+                }
+            ],
+            "id": "99a59ff0296d400db00cc66d8c981015"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I wrote to the friend (you met the friend last week)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I wrote to the friend you met last week"
+                    ]
+                }
+            ],
+            "id": "cb6891d208f544488321c1d3e8f084d2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The mobile phone can't be fixed (the mobile phone is broken)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The mobile phone that is broken can't be fixed",
+                        "The mobile phone which is broken can't be fixed"
+                    ]
+                }
+            ],
+            "id": "d5ee1c29dfc647b5857031bff53bbd69"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John made a copy of the photo (I took the photo)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "John made a copy of the photo I took"
+                    ]
+                }
+            ],
+            "id": "d42ae7ebc74c456a8732fff42e2ef7e3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I met a girl (the girl was a doctor)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I met a girl that was a doctor",
+                        "I met a girl who was a doctor"
+                    ]
+                }
+            ],
+            "id": "e62098bc5e1b4f4aab30c214ee6877b9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We called a doctor (the doctor works at a hospital in London)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We called a doctor that works at a hospital in London",
+                        "We called a doctor who works at a hospital in London"
+                    ]
+                }
+            ],
+            "id": "a6598b22eb9741c7a8b89710825a000c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We like the actor (the actor was in a famous film)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We like the actor that was in a famous film",
+                        "We like the actor who was in a famous film"
+                    ]
+                }
+            ],
+            "id": "f6aec5e7f5e84f098c679f90951a9f64"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I went to the restaurant (I read about the restaurant in the newspaper)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I went to the restaurant I read about in the newspaper"
+                    ]
+                }
+            ],
+            "id": "57f4f81aeb0f4091b6aca8b4a170d35d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She bought a car (her sister liked the car)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She bought a car her sister liked"
+                    ]
+                }
+            ],
+            "id": "7e393797fa504a649c7f58af160fdf79"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I often buy cheese (the cheese is imported from Paris)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I often buy cheese that is imported from Paris",
+                        "I often buy cheese which is imported from Paris"
+                    ]
+                }
+            ],
+            "id": "7960439d0a1d4144a40eaa1e4f29a3ac"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The hairdresser was very good (the hairdresser has red hair)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The hairdresser that has red hair was very good",
+                        "The hairdresser who has red hair was very good"
+                    ]
+                }
+            ],
+            "id": "f2d2bdd41a8e41a49a171867f8d777e3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The child is playing in the garden (we see the child often)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The child we see often is playing in the garden"
+                    ]
+                }
+            ],
+            "id": "45e2408b47bb495ca9eea7fc16ea66af"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The nurse is in the office (the nurse treated my grandmother)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The nurse that treated my grandmother is in the office",
+                        "The nurse who treated my grandmother is in the office"
+                    ]
+                }
+            ],
+            "id": "a1c9ab147efd407b9246a043f7fbd9ad"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The car is in the garage (the car broke down)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The car that broke down is in the garage",
+                        "The car which broke down is in the garage"
+                    ]
+                }
+            ],
+            "id": "5e84280add894bcda41629f06489400a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The man was late (Julie invited the man)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The man Julie invited was late"
+                    ]
+                }
+            ],
+            "id": "1c344bf2f4934124a6a682c3615e6b1a"
+        }
+    ]
+}

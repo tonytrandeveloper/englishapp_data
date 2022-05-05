@@ -1,0 +1,137 @@
+{
+    "id": "acb0cca77c154aa696b676db9b16aba8",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "Everybody was there …………………………… Samuel.",
+            "description": "But can mean except after all, every, none, any or no.",
+            "answers": [
+                "except",
+                "but",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "6fdc21801dcb4037a9944da117f1d5de"
+        },
+        {
+            "question": "………………………….. the storm, we would have been home before evening.",
+            "description": "But for can mean if something had not existed or happened. Except for is not used with this meaning. ",
+            "answers": [
+                "But",
+                "But for",
+                "Except for"
+            ],
+            "correct": 1,
+            "id": "b4c26ea28a58403fb7ef2c8cf7b8d6d1"
+        },
+        {
+            "question": "Nobody but …………………………… would act so foolishly.",
+            "description": "We normally use object pronouns after but subject pronouns are possible in a more formal style.",
+            "answers": [
+                "he",
+                "him",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "8e3c492c85ef42c6b7942ff98937c2f1"
+        },
+        {
+            "question": "We got it out ………………………….. a screwdriver.",
+            "description": "We use with when we talk about the tool or object we use to get a result.",
+            "answers": [
+                "with",
+                "by",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d202f953233846ed9855ad9097f24425"
+        },
+        {
+            "question": "It takes me only about 5 minutes to …………………………. ready.",
+            "description": "We do not use become to talk about deliberate actions.",
+            "answers": [
+                "get",
+                "turn",
+                "become"
+            ],
+            "correct": 0,
+            "id": "b81d38e737444cda99c8db9df12c73b9"
+        },
+        {
+            "question": "I couldn’t help …………………………. what they said.",
+            "description": "We use an ing form after cannot help / could not help.",
+            "answers": [
+                "overhear",
+                "overhearing",
+                "to overhear"
+            ],
+            "correct": 1,
+            "id": "134e51328831485cb611a355a02da6fe"
+        },
+        {
+            "question": "I can’t help but ………………………………. where she has disappeared.",
+            "description": "After can’t help but we use an infinitive without to.",
+            "answers": [
+                "wonder",
+                "to wonder",
+                "wondering"
+            ],
+            "correct": 0,
+            "id": "24c158afd1e14a57bf94e53738e73dc3"
+        },
+        {
+            "question": "They got married in January, and got divorced six months …………………………",
+            "description": "Later means at a time in the future or after the time you have mentioned.",
+            "answers": [
+                "later",
+                "latter"
+            ],
+            "correct": 0,
+            "id": "80b7be5e56aa4d51ac34a0f6ac2a94ed"
+        },
+        {
+            "question": "I will make all your dreams ………………………………… true.",
+            "description": "The infinitive is used without to after make.",
+            "answers": [
+                "come",
+                "came",
+                "to come"
+            ],
+            "correct": 0,
+            "id": "6d6da5eb91c5482b940880c4401772db"
+        },
+        {
+            "question": "Everything came …………………………… in the end.",
+            "description": "Come is used in some fixed expressions. Common examples are come true and come right.",
+            "answers": [
+                "right",
+                "rightly",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d9864107b9924d24bb494284010f55fb"
+        },
+        {
+            "question": "When did you ………………………….. to live in this town?",
+            "description": "We use come to talk about movements to the place where the speaker or the hearer is.",
+            "answers": [
+                "come",
+                "go",
+                "came",
+                "went"
+            ],
+            "correct": 0,
+            "id": "19b27310e6384499982015008a3fdf27"
+        },
+        {
+            "question": "I want to ……………………….. and live somewhere else.",
+            "description": "We use go for movements to other places. ",
+            "answers": [
+                "come",
+                "go"
+            ],
+            "correct": 1,
+            "id": "847abc24407342a99e6a6bf02eb74f15"
+        }
+    ]
+}

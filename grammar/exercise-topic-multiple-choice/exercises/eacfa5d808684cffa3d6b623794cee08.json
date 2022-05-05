@@ -1,0 +1,136 @@
+{
+    "id": "eacfa5d808684cffa3d6b623794cee08",
+    "title": "Prepositions Quiz",
+    "questions": [
+        {
+            "question": "You cannot prevent me …………………………. the room.",
+            "description": "Prevent is followed by from + ing form.",
+            "answers": [
+                "to leave",
+                "from leaving"
+            ],
+            "correct": 1,
+            "id": "e0e58e492b834adea0c9555895a87afb"
+        },
+        {
+            "question": "Dispose ……………………….. the syringe after use.",
+            "description": "Dispose is followed by of.",
+            "answers": [
+                "of",
+                "off",
+                "with"
+            ],
+            "correct": 0,
+            "id": "cc47425b95ac4ddea281fac2c7980adf"
+        },
+        {
+            "question": "She is married ………………………… a rich banker.",
+            "description": "Married is used with to.",
+            "answers": [
+                "with",
+                "to",
+                "by"
+            ],
+            "correct": 1,
+            "id": "d3e191904bc1499fb18892f364db08df"
+        },
+        {
+            "question": "I have been ………………………….. my keys since morning.",
+            "description": "To search for something is to try to find it.",
+            "answers": [
+                "searching",
+                "searching for"
+            ],
+            "correct": 1,
+            "id": "a6f309e379ff43da934fb5f68e61ce71"
+        },
+        {
+            "question": "He took ……………………………… his shoes before entering the temple.",
+            "description": "To take something off is to remove it.",
+            "answers": [
+                "out",
+                "off",
+                "of"
+            ],
+            "correct": 1,
+            "id": "c78bf81905dd4213a507578030a01b69"
+        },
+        {
+            "question": "The train is running ……………………………. time.",
+            "description": "When the train is running on time, it is not late.",
+            "answers": [
+                "in",
+                "on",
+                "by"
+            ],
+            "correct": 1,
+            "id": "b0110f51c2c74aee97b70a82fb954bbe"
+        },
+        {
+            "question": "She is clever …………………………….. solving puzzles.",
+            "description": "",
+            "answers": [
+                "in",
+                "at",
+                "with"
+            ],
+            "correct": 1,
+            "id": "3e92012d555043fb908ec8cdcc022ea9"
+        },
+        {
+            "question": "He is sitting ……………………………… his table.",
+            "description": "To sit at a table is to sit near it. You can sit on a table however, you are not very likely to do it.",
+            "answers": [
+                "in",
+                "at",
+                "on"
+            ],
+            "correct": 1,
+            "id": "810cec85ede344ce8c260437f947ebf1"
+        },
+        {
+            "question": "Who is that boy sitting ……………………………… the piano?",
+            "description": "",
+            "answers": [
+                "on",
+                "at",
+                "in"
+            ],
+            "correct": 1,
+            "id": "38a7579555294a01a4e68d2c967f373a"
+        },
+        {
+            "question": "He grabbed me …………………………… the hand.",
+            "description": "",
+            "answers": [
+                "with",
+                "by",
+                "from"
+            ],
+            "correct": 1,
+            "id": "474d940f0d2f4c02886567e5b48b92cb"
+        },
+        {
+            "question": "Someday you will repent …………………………… your sins.",
+            "description": "",
+            "answers": [
+                "for",
+                "of",
+                "with"
+            ],
+            "correct": 1,
+            "id": "22ae3ea922c14bc9b1f9f6926cd4cdf6"
+        },
+        {
+            "question": "Please write your name ................................. ink.",
+            "description": "Always write 'write in ink'.",
+            "answers": [
+                "in",
+                "with",
+                "by"
+            ],
+            "correct": 0,
+            "id": "938233ad93704ecdbf4a255a7d0489ad"
+        }
+    ]
+}

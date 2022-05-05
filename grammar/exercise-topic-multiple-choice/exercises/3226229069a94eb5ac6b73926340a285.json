@@ -1,0 +1,61 @@
+{
+    "id": "3226229069a94eb5ac6b73926340a285",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "Thinking that he .......................................... someone with similar interests, the traveler tried to strike up a conversation with the scholar he met at the inn.",
+            "description": "",
+            "answers": [
+                "finally found",
+                "has finally found",
+                "had finally found"
+            ],
+            "correct": 2,
+            "id": "41163e19dfbe4c0da9d29ced7f149924"
+        },
+        {
+            "question": "The young actress had made several controversial remarks during her interview ........................................... by a commercial television channel.",
+            "description": "",
+            "answers": [
+                "telecast",
+                "telecasted",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "92caa2dbede7473191b4551616e7b2e0"
+        },
+        {
+            "question": "If you allow me to speak the truth I will say without any hesitation that you have ......................................... a mistake.",
+            "description": "",
+            "answers": [
+                "done",
+                "made",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "197353a26d64424689cffa8b1df6c868"
+        },
+        {
+            "question": "She is so rich that she ............................................... two private yachts and three jets.",
+            "description": "",
+            "answers": [
+                "owns",
+                "has owns",
+                "is owning"
+            ],
+            "correct": 0,
+            "id": "e08a84c148474379b3ad1c02ab4ce921"
+        },
+        {
+            "question": "He asked me if I ............................................. feeling well and I replied that I wasn’t.",
+            "description": "",
+            "answers": [
+                "am",
+                "was",
+                "have"
+            ],
+            "correct": 1,
+            "id": "a67030ce635e4e0cb8d0b411eebdb2e1"
+        }
+    ]
+}

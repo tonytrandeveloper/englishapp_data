@@ -1,0 +1,136 @@
+{
+    "id": "80708ace3c7949bbab60479bd1f41c71",
+    "title": "Intermediate Level Grammar Exercise",
+    "questions": [
+        {
+            "question": "This material is inferior ............................... that.",
+            "description": "After words like inferior and superior, we use 'to', not 'than'.",
+            "answers": [
+                "than",
+                "with",
+                "to"
+            ],
+            "correct": 2,
+            "id": "3441cfad28084d1e9471e4be5b2538a2"
+        },
+        {
+            "question": "Do you prefer ................................ of chocolate?",
+            "description": "The words kind, class, sort, type etc. are all singular and should be used with this or that to modify a singular noun. The words kinds, sorts etc. are used with these and those to modify a plural noun",
+            "answers": [
+                "this sort",
+                "these sorts",
+                "these sort"
+            ],
+            "correct": 0,
+            "id": "5f775e985dee4af2a001829504c9732b"
+        },
+        {
+            "question": "The garden shears .................................... used to clip the hedge.",
+            "description": "Nouns like tongs, shears, tweezers, scissors etc. are always plural and should be used with plural verbs, unless of course the singular aspect is indicated by using ‘a pair of’",
+            "answers": [
+                "was",
+                "were",
+                "have"
+            ],
+            "correct": 1,
+            "id": "7592da8a7e2e419f891f15f86e4309c1"
+        },
+        {
+            "question": "Each of the students ....................................... asked to contribute their bit.",
+            "description": "Each and every should be followed by a singular verb. ",
+            "answers": [
+                "was",
+                "were",
+                "has"
+            ],
+            "correct": 0,
+            "id": "588e1de2d5814b48bbba22e1875cb9af"
+        },
+        {
+            "question": "A strimmer is a machine .................................... grass and weeds.",
+            "description": "We use 'for + ing form' to denote the purpose of an object. ",
+            "answers": [
+                "to cut",
+                "to cutting",
+                "for cutting"
+            ],
+            "correct": 2,
+            "id": "b018f71fecbe4a9b9c91a8321301fb58"
+        },
+        {
+            "question": "To ..................................., he lost his job.",
+            "description": "There are two words in no one. The possessive form of one is one's. ",
+            "answers": [
+                "noones surprise",
+                "no ones surprise",
+                "no one's surprise"
+            ],
+            "correct": 2,
+            "id": "98b0ec61749d48c29017450a16c09a38"
+        },
+        {
+            "question": "You ........................................... working hard.",
+            "description": "When there are two auxiliaries, the adverb usually goes after the first. ",
+            "answers": [
+                "have been definitely",
+                "have definitely been",
+                "definitely have been"
+            ],
+            "correct": 1,
+            "id": "70f860165d0041cc81d4fe93a2341b6c"
+        },
+        {
+            "question": "That kind of ....................................... not give me any amusement.",
+            "description": "The words kind, class, sort, type etc. are all singular and should be used with this or that to modify a singular noun. The words kinds, sorts etc. are used with these and those to modify a plural noun.",
+            "answers": [
+                "joke does",
+                "jokes does",
+                "jokes do"
+            ],
+            "correct": 0,
+            "id": "e2f3adb34390481fb97883d51e632fdf"
+        },
+        {
+            "question": "There is a slight ......................................... between the two shades.",
+            "description": "Difference is a noun different is an adjective. After an adjective (slight), we need a noun. ",
+            "answers": [
+                "difference",
+                "different"
+            ],
+            "correct": 0,
+            "id": "1ae5d8fc3d894aaebf7966b3797583b2"
+        },
+        {
+            "question": "Few historians have written more .................................... than Gibbon.",
+            "description": "Interesting is an adjective. Interestingly is an adverb. We need an adverb to modify the verb 'have written'.",
+            "answers": [
+                "interesting",
+                "interestingly"
+            ],
+            "correct": 1,
+            "id": "a4fb54f0f523463195b31c531070634f"
+        },
+        {
+            "question": "Our army ............................................. the enemy.",
+            "description": "The position of the object at the end clearly indicates that this sentence is in the active voice. ",
+            "answers": [
+                "has defeated",
+                "has been defeated",
+                "was defeated"
+            ],
+            "correct": 0,
+            "id": "1882ed06a02946c99da40bd2df21a361"
+        },
+        {
+            "question": "Helen of Troy was more beautiful than ...................................",
+            "description": "The expressions all women and any woman include Helen as well. So, if you used those options, the sentence would mean that Helen was more beautiful than she herself. ",
+            "answers": [
+                "all women",
+                "any woman",
+                "any other woman"
+            ],
+            "correct": 2,
+            "id": "de027ed406bf48ed8375d68313196b5d"
+        }
+    ]
+}

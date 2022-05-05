@@ -1,0 +1,138 @@
+{
+    "id": "9f90c8e53d5c4f7b9a8eeebf4ed9d5f6",
+    "title": "Need And Dare",
+    "questions": [
+        {
+            "question": "Everybody ……………… to get some rest.",
+            "description": "After 'every' we use a singular verb. When need is used as an ordinary verb, it takes the marker -s when the subject is singular. ",
+            "answers": [
+                "need",
+                "needs",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "6ca124bf34984df992b1d43e417adab0"
+        },
+        {
+            "question": "Need we …………….. seats on the train?",
+            "description": "When need is used as a modal auxiliary verb, it is followed by an infinitive without to.",
+            "answers": [
+                "reserve",
+                "to reserve",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "82ff687cd98b432bb68e6a2887769b85"
+        },
+        {
+            "question": "Do I need ………………. any longer?",
+            "description": "When need is used as a main verb, it is followed by an infinitive with to. Questions and negatives are made with do.",
+            "answers": [
+                "wait",
+                "to wait",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "667d55681cd343ba8edbb608b0c1b469"
+        },
+        {
+            "question": "Need we ………………… to her about this?",
+            "description": "When need is used as a modal auxiliary verb, it is followed by an infinitive without to.",
+            "answers": [
+                "talk",
+                "to talk",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "53dbaeb09b4646358982250f5ac56a0e"
+        },
+        {
+            "question": "You …………………. to pay for that drink.",
+            "description": "When need is used as a main verb, it is followed by an infinitive with to. Questions and negatives are made with do.",
+            "answers": [
+                "don't need",
+                "need not",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "812b99061c9746adb3b107183d8c48f4"
+        },
+        {
+            "question": "Do we …………………. a doctor?",
+            "description": "When need is used as a main verb, it is followed by an infinitive with to. Questions and negatives are made with do.",
+            "answers": [
+                "need to consult",
+                "need consult",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ef3e10c95f4049c8adff84f50d6e2af6"
+        },
+        {
+            "question": "This is the only question you need …………..",
+            "description": "Need can be used either as an ordinary verb or as an auxiliary verb. When it is used as an ordinary verb, it is followed by an infinitive with to. When it is used as an auxiliary verb, it is followed by an infinitive without to. ",
+            "answers": [
+                "answer",
+                "to answer",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "0102790114ce469bb1f2ced39f6fb447"
+        },
+        {
+            "question": "You will need …………….. an appointment before you can see the minister.",
+            "description": "In this case, need is used as an ordinary verb and hence it is followed by an infinitive with to. ",
+            "answers": [
+                "need",
+                "to book",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "a25dfa7ffe9d43718f0a955476d0bba6"
+        },
+        {
+            "question": "She is a woman who ……………… to say what she thinks.",
+            "description": "When dare is used as an ordinary verb, it is followed by an infinitive with to.",
+            "answers": [
+                "dare",
+                "dares",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "8f7fdb2116a4492f904a59757181fd4f"
+        },
+        {
+            "question": "She didn’t dare ……………… the door.",
+            "description": "When dare is used as an ordinary verb, it is followed by an infinitive with to.",
+            "answers": [
+                "open",
+                "to open",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "88d38825640e48d99274beae9df1d338"
+        },
+        {
+            "question": "Do you dare ……………… across the river?",
+            "description": "When dare is used as an ordinary verb, it is followed by an infinitive with to.",
+            "answers": [
+                "swim",
+                "to swim",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "441bf92cdfda491ebf807645d4d68a2f"
+        },
+        {
+            "question": "He dare not ……………….. alone in that house.",
+            "description": "When dare is used as an auxiliary verb, it is followed by an infinitive without to.",
+            "answers": [
+                "to live",
+                "live",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "33ce2a6b0bbf45e181e7b45f7f088ead"
+        }
+    ]
+}

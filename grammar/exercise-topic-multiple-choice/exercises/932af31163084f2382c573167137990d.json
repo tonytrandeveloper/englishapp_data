@@ -1,0 +1,116 @@
+{
+    "id": "932af31163084f2382c573167137990d",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "I ………………… the admission card. I ……………… it two days ago.",
+            "description": "",
+            "answers": [
+                "received, received",
+                "have received, received",
+                "had received, received"
+            ],
+            "correct": 1,
+            "id": "2ef327671d2f4cbb8db1577960f227f0"
+        },
+        {
+            "question": "I ……………….. the fee. I ……………….. it only yesterday.",
+            "description": "",
+            "answers": [
+                "paid, paid",
+                "have paid, paid",
+                "had paid, paid"
+            ],
+            "correct": 1,
+            "id": "87128a8aa78d43aa9040c6a5c8d3bcdc"
+        },
+        {
+            "question": "My uncle …………….. from the States. He ……………… on Friday.",
+            "description": "",
+            "answers": [
+                "came, arrived",
+                "has come, arrived",
+                "has come, had arrived"
+            ],
+            "correct": 1,
+            "id": "3ff200817b61422e94904fb129ce8d08"
+        },
+        {
+            "question": "I don’t think I will pass the test. I …………….. only nine questions.",
+            "description": "",
+            "answers": [
+                "answered",
+                "had answered",
+                "have answered"
+            ],
+            "correct": 0,
+            "id": "b1da5281d80f4554b83b923d4e38c3bb"
+        },
+        {
+            "question": "I ……………… non-vegetarian food.",
+            "description": "",
+            "answers": [
+                "never tasted",
+                "have never tasted",
+                "had never tasted"
+            ],
+            "correct": 1,
+            "id": "32e6ac83df264fe9a9af1b8cf89335d7"
+        },
+        {
+            "question": "I ………………. my aunt two months ago. I …………….. her since then.",
+            "description": "",
+            "answers": [
+                "have visited, have not seen",
+                "visited, have not seen",
+                "visited, had not seen"
+            ],
+            "correct": 1,
+            "id": "5c0a6f71ba5c49be8c81e1d084970148"
+        },
+        {
+            "question": "They …………….. the construction two months ago, but we ……………… in only two weeks ago.",
+            "description": "",
+            "answers": [
+                "have completed, have moved",
+                "completed, have moved",
+                "completed, moved"
+            ],
+            "correct": 2,
+            "id": "8678863a0175431fa9cfcd3f8acf573d"
+        },
+        {
+            "question": "When Rama ………………. to the forest, Sita and Lakshmana ……………….. him.",
+            "description": "",
+            "answers": [
+                "has gone, accompanied",
+                "had gone, accompanied",
+                "went, accompanied"
+            ],
+            "correct": 2,
+            "id": "93a063aceca0461a924f3e77ddbbfc24"
+        },
+        {
+            "question": "He ………………….. ill last month. He ……………. as yet.",
+            "description": "",
+            "answers": [
+                "fell, has not recovered",
+                "has fallen, had not recovered",
+                "had fallen, has not recovered"
+            ],
+            "correct": 0,
+            "id": "c070fe2de2184ec1bb016b99b8382fef"
+        },
+        {
+            "question": "I ………………… my aunt only once.",
+            "description": "",
+            "answers": [
+                "saw",
+                "see",
+                "have seen"
+            ],
+            "correct": 2,
+            "id": "f14c7a51d263429c8ba8ecf7b02221d4"
+        }
+    ]
+}

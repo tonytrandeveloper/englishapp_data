@@ -1,0 +1,137 @@
+{
+    "id": "6401487c6737454ab3a456ac896034d6",
+    "title": "Pronouns Quiz",
+    "questions": [
+        {
+            "question": "I asked …………………………… what he was doing there.",
+            "description": "A pronoun used as the object of the verb should be in its object form. Object pronouns are: him, her, me, us, them, you and it. ",
+            "answers": [
+                "he",
+                "him",
+                "his"
+            ],
+            "correct": 1,
+            "id": "999ce690c356456697848f55b12ebe80"
+        },
+        {
+            "question": "I told ………………….. to leave.",
+            "description": "",
+            "answers": [
+                "he",
+                "him",
+                "his"
+            ],
+            "correct": 1,
+            "id": "fc1d10166a4f4644a59cbe27335f1dce"
+        },
+        {
+            "question": "Why are you yelling at ………………………….?",
+            "description": "A pronoun used as the object of a preposition should be in its object form. ",
+            "answers": [
+                "I",
+                "me",
+                "my"
+            ],
+            "correct": 1,
+            "id": "d39a03b7e2aa4ceba28bea73babf50c7"
+        },
+        {
+            "question": "I am convinced that ………………………….. is lying to me.",
+            "description": "A pronoun used as the subject of a verb should be in its subject form. Subject pronouns are: he, she, they, we, I, you and it.",
+            "answers": [
+                "he",
+                "him",
+                "his"
+            ],
+            "correct": 0,
+            "id": "fd554ec4b6b144e5a78bab88809a87a3"
+        },
+        {
+            "question": "It took ……………………………… quite some time to get used to living alone.",
+            "description": "A pronoun used as the object of the verb should be in its object form. Object pronouns are: him, her, me, us, them, you and it. ",
+            "answers": [
+                "I",
+                "me",
+                "my"
+            ],
+            "correct": 1,
+            "id": "4aab6fdfe33149418191490505fce1b3"
+        },
+        {
+            "question": "I waited for …………………………….. but he didn’t come.",
+            "description": "A pronoun used as the object of a preposition should be in its object form. ",
+            "answers": [
+                "he",
+                "him",
+                "his"
+            ],
+            "correct": 1,
+            "id": "37b366c8787c4064a45c72b1a59b800a"
+        },
+        {
+            "question": "The child is waiting for ……………………………… mother.",
+            "description": "A pronoun used as the object of a preposition should be in its object form. ",
+            "answers": [
+                "she",
+                "her",
+                "hers"
+            ],
+            "correct": 1,
+            "id": "91ec97467a7148db841ccbe36d7e105e"
+        },
+        {
+            "question": "Don’t interfere with …………………………….",
+            "description": "A pronoun used as the object of a preposition should be in its object form. ",
+            "answers": [
+                "I",
+                "me",
+                "mine"
+            ],
+            "correct": 1,
+            "id": "8cdd5aae0f3e4bdcb6dc0f9b2ef88cab"
+        },
+        {
+            "question": "I don’t want to see ………………………………",
+            "description": "A pronoun used as the object of the verb should be in its object form. Object pronouns are: him, her, me, us, them, you and it. ",
+            "answers": [
+                "he",
+                "him",
+                "his"
+            ],
+            "correct": 1,
+            "id": "a65f663ef623403da08c43681d19b54b"
+        },
+        {
+            "question": "Why don’t you listen to ………………………………….?",
+            "description": "A pronoun used as the object of a preposition should be in its object form. ",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1,
+            "id": "3d3aad0aee44408b82ff733dc2d86f06"
+        },
+        {
+            "question": "I have invited all of ……………………………. to my party.",
+            "description": "A pronoun used as the object of a preposition should be in its object form. ",
+            "answers": [
+                "they",
+                "them",
+                "their"
+            ],
+            "correct": 1,
+            "id": "5493311309e44be4969fcfbf7750310f"
+        },
+        {
+            "question": "None of …………………………….. are interested in this.",
+            "description": "A pronoun used as the object of a preposition should be in its object form. ",
+            "answers": [
+                "we",
+                "us",
+                "they"
+            ],
+            "correct": 1,
+            "id": "66264a3993f943b3989ef02940be1b15"
+        }
+    ]
+}

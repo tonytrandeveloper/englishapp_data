@@ -1,0 +1,166 @@
+{
+    "id": "8081a18033cb4250b72fa16158beaf27",
+    "title": "Transitive And Intransitive Verbs Exercise",
+    "questions": [
+        {
+            "question": "The plane landed safely.",
+            "description": "",
+            "answers": [
+                "Landed is transitive",
+                "Landed is intransitive"
+            ],
+            "correct": 1,
+            "id": "943bb8a8a91f4868a46f48809cb1baf3"
+        },
+        {
+            "question": "I will solve this problem.",
+            "description": "",
+            "answers": [
+                "Solve is transitive",
+                "Solve is intransitive"
+            ],
+            "correct": 0,
+            "id": "b32f9803410a4889955564b994559d93"
+        },
+        {
+            "question": "The birds chirped.",
+            "description": "",
+            "answers": [
+                "Chirped is transitive",
+                "Chirped is intransitive"
+            ],
+            "correct": 1,
+            "id": "29c4d72447f44857a917f52be26e5150"
+        },
+        {
+            "question": "He injured his knee while playing football.",
+            "description": "",
+            "answers": [
+                "Injured is transitive",
+                "Injured is intransitive"
+            ],
+            "correct": 0,
+            "id": "3f5f259bd93743fdaa35302a303b4157"
+        },
+        {
+            "question": "Don’t shout.",
+            "description": "",
+            "answers": [
+                "Shout is transitive",
+                "Shout is intransitive"
+            ],
+            "correct": 1,
+            "id": "1017ccffcc854831972b97f2b6913311"
+        },
+        {
+            "question": "Shut the door.",
+            "description": "",
+            "answers": [
+                "Shut is transitive",
+                "Shut is intransitive"
+            ],
+            "correct": 0,
+            "id": "481eb70ac2804fb1b4de1a54d22c4a08"
+        },
+        {
+            "question": "Lock the door.",
+            "description": "",
+            "answers": [
+                "Lock is transitive",
+                "Lock is intransitive"
+            ],
+            "correct": 0,
+            "id": "5c0f017ba967498e9c287ca1c30f56b5"
+        },
+        {
+            "question": "The dog is barking.",
+            "description": "",
+            "answers": [
+                "Is barking is transitive",
+                "Is barking is intransitive"
+            ],
+            "correct": 1,
+            "id": "3913ceba59c04e58af229bfc24e3dc1c"
+        },
+        {
+            "question": "I slept on the floor.",
+            "description": "",
+            "answers": [
+                "Slept is transitive",
+                "Slept is intransitive"
+            ],
+            "correct": 1,
+            "id": "993b579fc97842caae2a452c7153e1d8"
+        },
+        {
+            "question": "Wash your hands.",
+            "description": "",
+            "answers": [
+                "Wash is transitive",
+                "Wash is intransitive"
+            ],
+            "correct": 0,
+            "id": "dd485cdc63ea4e179f68c407f018a03e"
+        },
+        {
+            "question": "He drives carefully.",
+            "description": "",
+            "answers": [
+                "Drives is transitive",
+                "Drives is intransitive"
+            ],
+            "correct": 1,
+            "id": "c21405e25a464ff7a1eb7a47816d9ba5"
+        },
+        {
+            "question": "He can drive any vehicle.",
+            "description": "",
+            "answers": [
+                "Drive is transitive",
+                "Drive is intransitive"
+            ],
+            "correct": 0,
+            "id": "74330b6a5b1d4f5d87cf7dc628a52513"
+        },
+        {
+            "question": "Stop the car.",
+            "description": "",
+            "answers": [
+                "Stop is transitive",
+                "Stop is intransitive"
+            ],
+            "correct": 0,
+            "id": "307d8a5e5bf340b99f64fbb8b560289a"
+        },
+        {
+            "question": "He stopped suddenly.",
+            "description": "",
+            "answers": [
+                "Stopped is transitive",
+                "Stopped is intransitive"
+            ],
+            "correct": 1,
+            "id": "c1cb515a30e4434a89e8c3f5b5833cf6"
+        },
+        {
+            "question": "Fold these sheets of paper.",
+            "description": "",
+            "answers": [
+                "Fold is transitive",
+                "Fold is intransitive"
+            ],
+            "correct": 0,
+            "id": "dbb8ab5be0c845e69c5783ccccbbabf0"
+        },
+        {
+            "question": "She cooked a tasty meal.",
+            "description": "",
+            "answers": [
+                "Cooked is transitive",
+                "Cooked is intransitive"
+            ],
+            "correct": 0,
+            "id": "1b820ea68ac240c986b8ffeccd250edf"
+        }
+    ]
+}

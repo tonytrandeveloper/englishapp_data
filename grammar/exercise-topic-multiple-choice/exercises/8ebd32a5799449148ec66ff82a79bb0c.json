@@ -1,0 +1,138 @@
+{
+    "id": "8ebd32a5799449148ec66ff82a79bb0c",
+    "title": "Idioms Exercise",
+    "questions": [
+        {
+            "question": "Janet and Peter are getting married. I heard it straight from the ....................... mouth.",
+            "description": "Straight from the horse's mouth means from the most reliable source of information.",
+            "answers": [
+                "elephant's",
+                "horse's",
+                "camel's"
+            ],
+            "correct": 1,
+            "id": "9222f2f7dfc44b788675462e597100db"
+        },
+        {
+            "question": "I wanted the party to be a secret but my sister let the ......................... out of the bag.",
+            "description": "To let the cat out of the bag is to reveal a secret by mistake.",
+            "answers": [
+                "dog",
+                "bird",
+                "cat"
+            ],
+            "correct": 2,
+            "id": "ff4d5ba225444c1db1d36489d7010085"
+        },
+        {
+            "question": "The moment she started ....................... me up, I knew that she wanted to gain a favor.",
+            "description": "To butter someone up is the praise them.",
+            "answers": [
+                "pampering",
+                "barking",
+                "buttering"
+            ],
+            "correct": 2,
+            "id": "a0c0ef3714d741989dbc614341c72c5d"
+        },
+        {
+            "question": "The two brothers are always pulling each other's .........................",
+            "description": "To pull someone's leg is to tease them.",
+            "answers": [
+                "ear",
+                "leg",
+                "hand"
+            ],
+            "correct": 1,
+            "id": "53fb03368e2845298f51620c038a6851"
+        },
+        {
+            "question": "Don't trust him. He is a ........................ in sheep's clothing.",
+            "description": "A wolf in sheep's clothing is a dangerous person who pretends to be harmless.",
+            "answers": [
+                "wolf",
+                "fox",
+                "dog"
+            ],
+            "correct": 0,
+            "id": "b02968de862c49658490e604c9cc72f9"
+        },
+        {
+            "question": "He won the race ...................... down.",
+            "description": "When you manage to do something hands down you accomplish it without a lot of effort.",
+            "answers": [
+                "hands",
+                "legs",
+                "head"
+            ],
+            "correct": 0,
+            "id": "8a8b2167a82d4d09a43707349e145efc"
+        },
+        {
+            "question": "By taking action against him for your failure you are just .................. up the wrong tree.",
+            "description": "To bark up the wrong tree is to pursue a misguided course of action.",
+            "answers": [
+                "cutting",
+                "peeling",
+                "barking"
+            ],
+            "correct": 2,
+            "id": "c5bd8bd77b6a40d3ae005d9eb4064402"
+        },
+        {
+            "question": "Don't try to make fun of him. He ........................... off the handle pretty easily.",
+            "description": "To fly off the handle is to become very angry.",
+            "answers": [
+                "runs",
+                "flies",
+                "drives"
+            ],
+            "correct": 1,
+            "id": "31907d004ffd40e1bff01b92c827ed15"
+        },
+        {
+            "question": "That laptop cost me ...................",
+            "description": "If something costs you an arm and a leg, it is very expensive. ",
+            "answers": [
+                "an arm and a leg",
+                "an eye and an ear",
+                "a finger and a toe"
+            ],
+            "correct": 0,
+            "id": "87cf40a02eed4a059d166ccfc7f72fda"
+        },
+        {
+            "question": "I hate having to tell him what I really think of him but I have to ............................ the bullet now.",
+            "description": "To bite the bullet is to force yourself to do something unpleasant.",
+            "answers": [
+                "fire",
+                "bite",
+                "dodge"
+            ],
+            "correct": 1,
+            "id": "96f109ff29fb46f8a6ebdabc22ab361a"
+        },
+        {
+            "question": "The indulgent mother turns a ...................... to her son's faults.",
+            "description": "",
+            "answers": [
+                "blind eye",
+                "black eye",
+                "partial eye"
+            ],
+            "correct": 0,
+            "id": "2f703c20bd314285bab8b529396415cd"
+        },
+        {
+            "question": "The enemy was armed to the .................... yet our soldiers managed to beat them.",
+            "description": "When you are armed to the teeth, you are extremely well equipped.",
+            "answers": [
+                "teeth",
+                "neck",
+                "nose"
+            ],
+            "correct": 0,
+            "id": "eaa684ce06054541adea63ff7ae67779"
+        }
+    ]
+}

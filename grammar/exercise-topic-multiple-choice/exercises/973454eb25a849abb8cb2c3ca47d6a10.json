@@ -1,0 +1,139 @@
+{
+    "id": "973454eb25a849abb8cb2c3ca47d6a10",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "I help those ………………………. I love.",
+            "description": "When the relative pronoun is the object of the relative clause we use whom.",
+            "answers": [
+                "who",
+                "whom",
+                "that"
+            ],
+            "correct": 1,
+            "id": "19c71078c4834077bf54730439490a94"
+        },
+        {
+            "question": "He …………………….. works hard will certainly succeed.",
+            "description": "We use who to refer to people.",
+            "answers": [
+                "who",
+                "whom",
+                "which",
+                ""
+            ],
+            "correct": 0,
+            "id": "97362b54c8314b0f8a4ccf89d53ee8df"
+        },
+        {
+            "question": "The man ……………………………. has no music in his soul should be tried for treason.",
+            "description": "In identifying relative clauses, both who and that can refer to people.",
+            "answers": [
+                "who",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "79356944a9994eeda948f0fdfac4da4a"
+        },
+        {
+            "question": "I have received the message …………………………. you sent me.",
+            "description": "That and which can both refer to things.",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "51f63bd32d8a46e891290b0a14078928"
+        },
+        {
+            "question": "Servants …………………………. are honest are trusted.",
+            "description": "In identifying relative clauses, both who and that can refer to people.",
+            "answers": [
+                "who",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4176b3ebc67f4b039d8defaaee4ccb2b"
+        },
+        {
+            "question": "He failed in every project ………………………… he started.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "7be07c1f8d3243ce922f1f5536e24787"
+        },
+        {
+            "question": "He laughs best …………………………. laughs last.",
+            "description": "When the relative pronoun is the subject of the relative clause we use who to refer to people. ",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "ec0f2c4dd79843e4a697be73a849856d"
+        },
+        {
+            "question": "They never fail ……………………………. die for a good cause.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "fec723523ccb4f0998a5f0c358ef86a0"
+        },
+        {
+            "question": "He …………………………. is down need fear no fall.",
+            "description": "",
+            "answers": [
+                "who",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "1cff9a81c1ff4261ad439bd99a6701a2"
+        },
+        {
+            "question": "This is the bicycle …………………………. I bought for my son.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "025067e0a9e746f78948b9eccbd5c17e"
+        },
+        {
+            "question": "He is an accomplished singer ………………………. I admire.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 1,
+            "id": "70634cafd60849ea859a0dc34a3a5d03"
+        },
+        {
+            "question": "I know a man ………………………….. son is an activist.",
+            "description": "The relative pronoun whose replaces the personal pronouns his, her or their.",
+            "answers": [
+                "who",
+                "who's",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "1df256212f0e4793a47c6c5f9ee928c7"
+        }
+    ]
+}

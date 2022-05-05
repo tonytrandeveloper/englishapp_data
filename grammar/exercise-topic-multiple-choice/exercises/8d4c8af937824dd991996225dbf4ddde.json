@@ -1,0 +1,116 @@
+{
+    "id": "8d4c8af937824dd991996225dbf4ddde",
+    "title": "General English Exercise",
+    "questions": [
+        {
+            "question": "I would rather read a book ……………………",
+            "description": "",
+            "answers": [
+                "then watch TV",
+                "than watch TV",
+                "than to watch TV"
+            ],
+            "correct": 1,
+            "id": "425ccdec1a8a400aafd431878c9aaadf"
+        },
+        {
+            "question": "…………………. she goes, she is surrounded by crowds of people.",
+            "description": "",
+            "answers": [
+                "Whoever",
+                "Wherever",
+                "Whichever"
+            ],
+            "correct": 1,
+            "id": "77938ed7c93645789e3f7c1a434140a3"
+        },
+        {
+            "question": "Neither the manager nor the workers …………………. guilty.",
+            "description": "",
+            "answers": [
+                "is",
+                "are",
+                "was"
+            ],
+            "correct": 1,
+            "id": "3aa6bca550fd440a82a749ccd088102d"
+        },
+        {
+            "question": "Do you know James ………………….. father teaches at the academy?",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "9f1d523bfb33444591bd16b80a99939a"
+        },
+        {
+            "question": "Hardly had they heard the gunshots, ………………… ..",
+            "description": "",
+            "answers": [
+                "than they started running",
+                "when they started running",
+                "then they started running"
+            ],
+            "correct": 1,
+            "id": "cceae8068e954085b8e479c6a8142fc1"
+        },
+        {
+            "question": "If I had two cars, I ………………… .",
+            "description": "",
+            "answers": [
+                "will sell one",
+                "would sell one",
+                "would have sold one"
+            ],
+            "correct": 1,
+            "id": "918fc262eed74daaa914d249d104ac07"
+        },
+        {
+            "question": "………………….. she is rich, she is not happy.",
+            "description": "",
+            "answers": [
+                "As",
+                "Though",
+                "However"
+            ],
+            "correct": 1,
+            "id": "80e397ceea7445e7828354ce7842f048"
+        },
+        {
+            "question": "You and I can do it, ………………… ? Add question tag.",
+            "description": "",
+            "answers": [
+                "can't I",
+                "can't you",
+                "can't we"
+            ],
+            "correct": 2,
+            "id": "de674e0d455c4f6ea63b82cbb820af8a"
+        },
+        {
+            "question": "A person who writes or compiles a dictionary is a ...................................",
+            "description": "",
+            "answers": [
+                "biographer",
+                "author",
+                "lexicographer"
+            ],
+            "correct": 2,
+            "id": "9f4bc8e6d4f149e9979c41f7b4802c0a"
+        },
+        {
+            "question": "The old parents ………………….. for a letter from their son for two months.",
+            "description": "",
+            "answers": [
+                "are waiting",
+                "has been waiting",
+                "have been waiting"
+            ],
+            "correct": 2,
+            "id": "a64e470834394f0bbbdbb52df9cf37c8"
+        }
+    ]
+}

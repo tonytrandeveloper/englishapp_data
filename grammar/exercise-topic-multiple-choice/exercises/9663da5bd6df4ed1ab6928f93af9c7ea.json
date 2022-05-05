@@ -1,0 +1,138 @@
+{
+    "id": "9663da5bd6df4ed1ab6928f93af9c7ea",
+    "title": "Active And Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "Rabid dogs ………………………… by forest rangers in Maine last year.",
+            "description": "We need a passive verb here because the subject is not the doer of the action. Something is done to it.",
+            "answers": [
+                "destroyed",
+                "were destroying",
+                "were destroyed"
+            ],
+            "correct": 2,
+            "id": "257ef878e864469c92f1c9e6a3f62a77"
+        },
+        {
+            "question": "His racy lifestyle ……………………….. many women.",
+            "description": "We need an active verb here because the subject is the doer of the action.",
+            "answers": [
+                "fascinated",
+                "were fascinated",
+                "had been fascinated"
+            ],
+            "correct": 0,
+            "id": "4b230f6266f24597a3bd0c8f9e7cd424"
+        },
+        {
+            "question": "The defeated candidate ………………………….. up and down in a rage.",
+            "description": "We need an active verb here because the subject is the doer of the action.",
+            "answers": [
+                "was stamped",
+                "stamped",
+                "has stamped"
+            ],
+            "correct": 1,
+            "id": "ee5ac28c51694174bdb1d4251a003142"
+        },
+        {
+            "question": "All those in favor should ………………………….. their hands.",
+            "description": "To raise is to lift something.",
+            "answers": [
+                "raise",
+                "rise",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "7522044c373b4b079cd55d7ef2560865"
+        },
+        {
+            "question": "We all ……………………….. when the judge entered the court.",
+            "description": "To rise is to get up on one’s own accord.",
+            "answers": [
+                "rose",
+                "raised",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "4cf1abaaa7b04737a91038d4f660c36e"
+        },
+        {
+            "question": "We …………………………. to stroll around the neighorhood on sunny afternoons.",
+            "description": "We use the simple present tense to talk about likes and preferences.",
+            "answers": [
+                "like",
+                "likes",
+                "were liked",
+                "are liked"
+            ],
+            "correct": 0,
+            "id": "d78c9a0cfea141f3baf0a39226d08161"
+        },
+        {
+            "question": "The company ……………………….. a large range of products.",
+            "description": "Since there is no reference to past time, we use the simple present tense here. ",
+            "answers": [
+                "produce",
+                "produces",
+                "produced"
+            ],
+            "correct": 1,
+            "id": "feba2afe30de454fa871a1995b9af9d0"
+        },
+        {
+            "question": "Buying a boat ……………………….. low on my list of priorities.",
+            "description": "Here the subject is the –ing form buying. When a gerund is the subject, the verb is usually singular.",
+            "answers": [
+                "rank",
+                "ranks",
+                "have ranked"
+            ],
+            "correct": 1,
+            "id": "35169338e1af4c7685a306ee0cba5537"
+        },
+        {
+            "question": "His rapacious ways ………………………… him wealthy but friendless.",
+            "description": "We use the simple past tense to simply state that something happened.",
+            "answers": [
+                "made",
+                "was made",
+                "has been made"
+            ],
+            "correct": 0,
+            "id": "fcc1691893a8461691dacbe833696489"
+        },
+        {
+            "question": "He rarely …………………………, yet he passed every exam.",
+            "description": "When one verb is in the past tense, the other verb will most probably also be in the past tense.",
+            "answers": [
+                "study",
+                "studied",
+                "was studied"
+            ],
+            "correct": 1,
+            "id": "9372869d409149668ad24a6a4d1f7805"
+        },
+        {
+            "question": "I rate that performance one of the best I ……………………………",
+            "description": "The present perfect tense is more common with indefinite time expressions like ever and never.",
+            "answers": [
+                "ever saw",
+                "have ever seen"
+            ],
+            "correct": 1,
+            "id": "a8e5cf42beba43d0a139994dfcb520c7"
+        },
+        {
+            "question": "Each flood victim ………………………….. with a daily ration.",
+            "description": "We need a passive verb here because the subject is not the doer of the action. ",
+            "answers": [
+                "provided",
+                "was provided",
+                "has provided"
+            ],
+            "correct": 1,
+            "id": "1b598b3c341d43eeb4598e26ad8ee7cd"
+        }
+    ]
+}

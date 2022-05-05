@@ -1,0 +1,138 @@
+{
+    "id": "13c20128bbab4d3eac2daba011b7438e",
+    "title": "Articles Exercise",
+    "questions": [
+        {
+            "question": "........................... is the longest river in the world.",
+            "description": "We use the article 'the' before the names of rivers, mountains etc. ",
+            "answers": [
+                "Nile",
+                "The Nile",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "fc7285de80ea489f8df2d081431d91cc"
+        },
+        {
+            "question": "............................ is one of the largest lakes in Africa.",
+            "description": "We do not normally use articles with lakes. ",
+            "answers": [
+                "Lake Victoria",
+                "The Lake Victoria",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "5939982fb4c0468eb1514de2e3ce3669"
+        },
+        {
+            "question": "......................... is the highest peak in the world.",
+            "description": "Articles are not normally used with the names single mountains. ",
+            "answers": [
+                "The Mount Everest",
+                "Mount Everest",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "7adb556469844b21bc475a1f41ae6694"
+        },
+        {
+            "question": ".......................... are an example of a folded mountain range.",
+            "description": "The article 'the' is used with the names of mountain groups. ",
+            "answers": [
+                "Himalayas",
+                "The Himalayas",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "a6aebad3329a4da590a1b56ceaf1c9c2"
+        },
+        {
+            "question": ".......................... is the largest desert in the world.",
+            "description": "The article 'the' is used with the names of deserts. ",
+            "answers": [
+                "Sahara",
+                "The Sahara",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3d8c0b3887e64bda9c7da67b04c2a462"
+        },
+        {
+            "question": "He was my classmate at .......................................",
+            "description": "'The' is not normally used in the titles of major universities and principal public buildings. ",
+            "answers": [
+                "the Oxford University",
+                "Oxford University",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "d15f8c4d84354b3fb5fb1f404a7650d6"
+        },
+        {
+            "question": "We are going to ........................ for summer.",
+            "description": "We do not use articles with the names of countries. ",
+            "answers": [
+                "Switzerland",
+                "The Switzerland",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "32a981a67013415bb3399f2be950e973"
+        },
+        {
+            "question": "Mandarin is the official language of .............................................",
+            "description": "Countries whose names contain common nouns like state, union or republic usually take the article 'the'. ",
+            "answers": [
+                "People's Republic of China",
+                "the People's Republic of China",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "eae6be2926a84643a3269565641eec21"
+        },
+        {
+            "question": "London is on ............................",
+            "description": "We use 'the' with the names of rivers. ",
+            "answers": [
+                "Thames",
+                "The Thames",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1a493789193743cd8ce5a1d145f3b4b9"
+        },
+        {
+            "question": ".......................... attracts thousands of visitors each day.",
+            "description": "We use 'the' with the names of most museums and art galleries. ",
+            "answers": [
+                "British Museum",
+                "The British Museum",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "c175f6a36e214daa98420a62742e78b0"
+        },
+        {
+            "question": "His brother lives in ..........................",
+            "description": "We do not use articles with the names of continents, countries, states, counties etc.",
+            "answers": [
+                "Texas",
+                "the Texas",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "68dd20cad76e41a392ef067847df86a6"
+        },
+        {
+            "question": "......................... is the largest continent in the world.",
+            "description": "We do not use articles with the names of continents. ",
+            "answers": [
+                "Asia",
+                "The Asia",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "3c034ed586eb413eb158f5a22c5f6fa7"
+        }
+    ]
+}

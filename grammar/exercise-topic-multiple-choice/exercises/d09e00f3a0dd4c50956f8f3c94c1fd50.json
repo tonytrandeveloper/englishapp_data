@@ -1,0 +1,122 @@
+{
+    "id": "d09e00f3a0dd4c50956f8f3c94c1fd50",
+    "title": "Tenses | Grammar Exercise",
+    "questions": [
+        {
+            "question": "It ...................... raining for two hours.",
+            "description": "",
+            "answers": [
+                "has been",
+                "have been",
+                "is",
+                "was"
+            ],
+            "correct": 0,
+            "id": "56658a03a3d8499ea9aa3efcaa34e6a4"
+        },
+        {
+            "question": "I ..................... .. my grandmother yesterday.",
+            "description": "We use the simple past tense to talk about something we did in the past. ",
+            "answers": [
+                "visited",
+                "have visited",
+                "had visited",
+                "was visiting"
+            ],
+            "correct": 0,
+            "id": "ce8bde8fb8e9405abfb16db4432e3fb2"
+        },
+        {
+            "question": "My boss ..................... from London.",
+            "description": "",
+            "answers": [
+                "returned",
+                "has returned",
+                "had returned",
+                "have returned"
+            ],
+            "correct": 1,
+            "id": "4794368b726a47e487127f9467ed6efc"
+        },
+        {
+            "question": "See that you ..................... . on time.",
+            "description": "",
+            "answers": [
+                "will arrive",
+                "would arrive",
+                "arrive",
+                "arrived"
+            ],
+            "correct": 2,
+            "id": "8ac8efde2bd844fd9bec6df57207003e"
+        },
+        {
+            "question": "She will come if you .....................…… her.",
+            "description": "",
+            "answers": [
+                "invite",
+                "invited",
+                "would invite"
+            ],
+            "correct": 0,
+            "id": "9c64c88517384e2c9a1ec2f7f1a85220"
+        },
+        {
+            "question": "I .....................…… to Iceland recently.",
+            "description": "",
+            "answers": [
+                "went",
+                "have been",
+                "had been",
+                "Either went or had been"
+            ],
+            "correct": 3,
+            "id": "c2014373355748c0af6518ef92e1e53e"
+        },
+        {
+            "question": "The doctor concluded that the man .....................… killed ten hours ago.",
+            "description": "",
+            "answers": [
+                "was",
+                "have been",
+                "had been"
+            ],
+            "correct": 2,
+            "id": "6ad9047789144d1a92faa410a75f7555"
+        },
+        {
+            "question": "We ..................... . waiting for them for two weeks.",
+            "description": "",
+            "answers": [
+                "have been",
+                "had been",
+                "were"
+            ],
+            "correct": 0,
+            "id": "8ed2a578ea234ee7a1ae8c2b538ae543"
+        },
+        {
+            "question": "The train .....................…. before we reached the station.",
+            "description": "We use the past perfect for the earlier of the two past actions.",
+            "answers": [
+                "will leave",
+                "will have left",
+                "had left"
+            ],
+            "correct": 2,
+            "id": "7028904d0d0545c998794bd5091bceee"
+        },
+        {
+            "question": "I ....................... the newspaper every morning.",
+            "description": "We use the simple present tense to talk about habitual actions in the present. ",
+            "answers": [
+                "am reading",
+                "will read",
+                "read",
+                "have read"
+            ],
+            "correct": 2,
+            "id": "f4950fbc590542b6973ee1a3035feb86"
+        }
+    ]
+}

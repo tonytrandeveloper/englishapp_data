@@ -1,0 +1,413 @@
+{
+    "id": "a3beba6d03dd423aac648708e255b28a",
+    "title": "Choose the Present Perfect Simple or Continuous 2",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "haven't done",
+                        "have not done"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/do) the housework yet."
+                }
+            ],
+            "id": "689839d983ac4f4ca4e88b1b0fb99b7b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been studying",
+                        "have been studying"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) very hard recently."
+                }
+            ],
+            "id": "c9f781a94a5c4e818f2fa3c7b46917a8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s promised",
+                        "has promised"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(promise) to help many times."
+                }
+            ],
+            "id": "02fa525691bf496888d80083f6bb7f51"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s cleaned",
+                        "has cleaned"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(clean) the kitchen. Everything is sparkling clean."
+                }
+            ],
+            "id": "111f4be550ef4632a470ed422aa16581"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s written",
+                        "has written"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(write) her essay and"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has sent"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(send) it to her professor."
+                }
+            ],
+            "id": "4456bcbca5a74efa805838dfd78de404"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s seen",
+                        "has seen"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(see) the film 'The King's Speech' about six times."
+                }
+            ],
+            "id": "9391cb8c7df34b20a05af047fc6f3828"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve painted",
+                        "have painted"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(paint) our living room. I think it looks a lot better."
+                }
+            ],
+            "id": "4b366041d1b746bb9fe81e48fc495d44"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s been taking",
+                        "has been taking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(take) French lessons lately."
+                }
+            ],
+            "id": "c005ff92a05a4e85b3e0840c0014e329"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hasn't been raining",
+                        "has not been raining"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/rain) for three hours! Only about one hour."
+                }
+            ],
+            "id": "52888583f7974250b4320d1cd7d140f6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s already left",
+                        "has already left"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) ."
+                }
+            ],
+            "id": "6aeb8c8263dc4a5f8ea806b41ab73260"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How many times"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "have you visited"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/visit) Scotland?"
+                }
+            ],
+            "id": "ee2ea154ca6841548779a9f3e4916583"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been calling",
+                        "have been calling"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(call) John for hours and hours and he hasn't answered. I'm really angry with him!"
+                }
+            ],
+            "id": "20b1f17f4e914484990759c1797822a0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been",
+                        "have been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in London for three years."
+                }
+            ],
+            "id": "f3a1746f00b6440f962c25e5affbd732"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve known",
+                        "have known"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(know) James for ages."
+                }
+            ],
+            "id": "957c9e7718784d36be5752543eb467c4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's really smelly in here."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Has somebody been smoking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(somebody/smoke)?"
+                }
+            ],
+            "id": "07750d54713248cd88f6d6277f277c8f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How much petrol"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has she bought"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/buy)?"
+                }
+            ],
+            "id": "9d3913c0c6aa4ce5a17b0bfe23c977e4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s been eating",
+                        "has been eating"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) chocolate all morning, so she feels sick."
+                }
+            ],
+            "id": "8a494eeb0bd34ff2bd311102914fa384"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been painting",
+                        "have been painting"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(paint) my house all day, but it's not finished yet."
+                }
+            ],
+            "id": "0778876eacf842a3997f3e221cefe15d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s been",
+                        "has been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) at the office since 6am."
+                }
+            ],
+            "id": "b050016a5c8f4dabbbb132af05a45347"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The writer"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has deserved",
+                        "'s deserved"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(deserve) this award for a long time."
+                }
+            ],
+            "id": "9b6f8e9b3f714b5fab42324d6d3d29a8"
+        }
+    ]
+}

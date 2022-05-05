@@ -1,0 +1,136 @@
+{
+    "id": "c33951e28a9e48619205f5ea4f4c6dca",
+    "title": "Pronouns Exercise",
+    "questions": [
+        {
+            "question": "I have a solution to ……………………………. problem.",
+            "description": "Before a noun, use the possessive form of the pronoun. ",
+            "answers": [
+                "your",
+                "yours",
+                "you're"
+            ],
+            "correct": 0,
+            "id": "e48120d40b9a43ea9ca7bdf2464dcd2d"
+        },
+        {
+            "question": "She has never thanked ………………………….. for anything.",
+            "description": "A pronoun used as the object of a verb should be in its object form. ",
+            "answers": [
+                "I",
+                "me",
+                "myself"
+            ],
+            "correct": 1,
+            "id": "93ea9587455d41c38603a848a7589963"
+        },
+        {
+            "question": "I don’t know how she spends ………………………….. time.",
+            "description": "Use the possessive form of the pronoun before a noun.",
+            "answers": [
+                "her",
+                "hers"
+            ],
+            "correct": 0,
+            "id": "062f4da2b30143258cf4369a4ffd9a62"
+        },
+        {
+            "question": "They asked her what ……………………………. was doing there.",
+            "description": "A pronoun used as the subject of the verb should be in its subject form. ",
+            "answers": [
+                "she",
+                "her",
+                "hers"
+            ],
+            "correct": 0,
+            "id": "771ef7ed83c1468f8c968f02ea6c77df"
+        },
+        {
+            "question": "She looked at ………………………………… angrily.",
+            "description": "Object forms of pronouns are used after prepositions. ",
+            "answers": [
+                "he",
+                "him",
+                "his"
+            ],
+            "correct": 1,
+            "id": "ec7a333d98c24f7a82e21300fe5f496a"
+        },
+        {
+            "question": "My car is faster than ………………………………..",
+            "description": "",
+            "answers": [
+                "your",
+                "yours"
+            ],
+            "correct": 1,
+            "id": "be16fa14521f4e3384148f96efb0ec8f"
+        },
+        {
+            "question": "We have invited all the friends ……………………………… have.",
+            "description": "A pronoun used as the subject of the verb should be in its subject form. ",
+            "answers": [
+                "we",
+                "us",
+                "ourselves"
+            ],
+            "correct": 0,
+            "id": "d8c51747d06f42469738006c2f8b7a8a"
+        },
+        {
+            "question": "They organized a small party for ……………………………… friends.",
+            "description": "",
+            "answers": [
+                "their",
+                "them",
+                "theirs"
+            ],
+            "correct": 0,
+            "id": "7e963bc0b1de41eb95a303d569580a69"
+        },
+        {
+            "question": "……………………………. bag is this?",
+            "description": "",
+            "answers": [
+                "Who's",
+                "Whose",
+                "Who is"
+            ],
+            "correct": 1,
+            "id": "8a3db13dc12b48c6acb0d24012f6da68"
+        },
+        {
+            "question": "She asked me what …………………………….. was looking for.",
+            "description": "",
+            "answers": [
+                "me",
+                "I",
+                "we"
+            ],
+            "correct": 1,
+            "id": "90f66e20bb7146dabfa4b9abe816d1af"
+        },
+        {
+            "question": "No one loves …………………………….. more than my mother.",
+            "description": "A pronoun used as the object of the verb should be in its object form. ",
+            "answers": [
+                "I",
+                "me",
+                "myself"
+            ],
+            "correct": 1,
+            "id": "e0db5b274301420981bebf287192df38"
+        },
+        {
+            "question": "I love him more than ……………………………",
+            "description": "The subject and object form of you is the same - you.",
+            "answers": [
+                "you",
+                "yours",
+                "your"
+            ],
+            "correct": 0,
+            "id": "7c4911209b8e4f90b5214e5ddafbd3ed"
+        }
+    ]
+}

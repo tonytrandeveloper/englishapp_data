@@ -1,0 +1,141 @@
+{
+    "id": "81cb23e9a88044ef9caef05681721f50",
+    "title": "During, While, In, For",
+    "questions": [
+        {
+            "question": "It rained …………… the night …………… an hour or two.",
+            "description": "We use during to say when something happens. We use for to say how long something lasts.",
+            "answers": [
+                "for, during",
+                "during, for",
+                "during, while",
+                "for, while"
+            ],
+            "correct": 1,
+            "id": "ad98cbd9f31f44a8b38007b2a49ca349"
+        },
+        {
+            "question": "I met Julie ………………. my stay in America.",
+            "description": "We use during to say that something happens inside a particular period of time. ",
+            "answers": [
+                "during",
+                "while",
+                "for",
+                "in"
+            ],
+            "correct": 0,
+            "id": "083ca44489ee428a9a1cafb956754646"
+        },
+        {
+            "question": "I was in Canada …………….. winter.",
+            "description": "We use during to say that something happens inside a particular period of time. ",
+            "answers": [
+                "while",
+                "for",
+                "during"
+            ],
+            "correct": 2,
+            "id": "ea8264cc9e774bafa597c84d74b19c5b"
+        },
+        {
+            "question": "……………… I was in Canada, I had some strange experiences.",
+            "description": "While is a conjunction. It is used to connect two clauses.",
+            "answers": [
+                "During",
+                "For",
+                "While"
+            ],
+            "correct": 2,
+            "id": "ab9d6ba8d01a4b6694b26023df7e01b4"
+        },
+        {
+            "question": "I was on holiday ……………….. June.",
+            "description": "Both during and in can be used to say that something happens inside a particular period of time.",
+            "answers": [
+                "in",
+                "during",
+                "while",
+                "for"
+            ],
+            "correct": 1,
+            "id": "08c4079e92f84f378e4795e2b2e35897"
+        },
+        {
+            "question": "I will meet you …………….. lunchtime.",
+            "description": "",
+            "answers": [
+                "while",
+                "during",
+                "for"
+            ],
+            "correct": 1,
+            "id": "09c6d098267c463c8245a46df4cf8478"
+        },
+        {
+            "question": "John played tennis ………………. Alice went shopping.",
+            "description": "While is a conjunction. It is used to talk about two simultaneous actions or situations. ",
+            "answers": [
+                "during",
+                "while",
+                "for"
+            ],
+            "correct": 1,
+            "id": "49319eb488684ae489f1903b282baecb"
+        },
+        {
+            "question": "My family lived in Australia …………. five years.",
+            "description": "We use for to say how long something lasts.",
+            "answers": [
+                "during",
+                "for",
+                "in",
+                "while"
+            ],
+            "correct": 1,
+            "id": "780fe1e934a4459f89eae18df4b7e2d2"
+        },
+        {
+            "question": "The shop was closed .......................... the whole of last month.",
+            "description": "",
+            "answers": [
+                "during",
+                "while"
+            ],
+            "correct": 0,
+            "id": "feb16744cf324be5ab840e6946805223"
+        },
+        {
+            "question": "Peter was working in the garage .......................... Susie called.",
+            "description": "While is a conjunction. It is used to talk about two simultaneous actions or situations. ",
+            "answers": [
+                "in",
+                "while",
+                "during"
+            ],
+            "correct": 1,
+            "id": "fdfc8cfedec441d6990c19d718ece308"
+        },
+        {
+            "question": "Yesterday we played tennis ....................... hours.",
+            "description": "We use for to say how long something lasts / lasted. ",
+            "answers": [
+                "during",
+                "for",
+                "while"
+            ],
+            "correct": 1,
+            "id": "a4360e731e7f4454b111c39a9810c96b"
+        },
+        {
+            "question": "My parents visited us ........................... summer.",
+            "description": "We use during to say that something happens inside a particular period of time. ",
+            "answers": [
+                "while",
+                "during",
+                "for"
+            ],
+            "correct": 1,
+            "id": "32d849356cd840ceb83769569dcda807"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "id": "a9c64d6d62ea44388d7aeb73909eb757",
+    "title": "Even If And Even Though",
+    "questions": [
+        {
+            "question": "…………………. you catch the first train, you will not be able to reach there on time.",
+            "description": "",
+            "answers": [
+                "Even if",
+                "Even though"
+            ],
+            "correct": 0,
+            "id": "56f370b5a9b74171a67237bf4244c20d"
+        },
+        {
+            "question": "...................... I invited her, she did not come.",
+            "description": "",
+            "answers": [
+                "Even if",
+                "Even though"
+            ],
+            "correct": 1,
+            "id": "6e7efb368f6b471c996edf63a9421683"
+        },
+        {
+            "question": "………………. you invite her, she will not come.",
+            "description": "",
+            "answers": [
+                "Even if",
+                "Even though"
+            ],
+            "correct": 0,
+            "id": "207a61f9fd274590b0b72fe46333533a"
+        },
+        {
+            "question": "………………… he has a degree in finance, he cannot fill in his tax form.",
+            "description": "",
+            "answers": [
+                "Though",
+                "As though"
+            ],
+            "correct": 0,
+            "id": "9b17dfcf61c1489d80bf7294a40bb3e9"
+        },
+        {
+            "question": "..................... their friends refused to help them, they didn’t lose heart.",
+            "description": "",
+            "answers": [
+                "Although",
+                "As though"
+            ],
+            "correct": 0,
+            "id": "435977b03eeb405c903e3dbf7c978524"
+        },
+        {
+            "question": "…………………he had fever he went to work as usual.",
+            "description": "",
+            "answers": [
+                "Even though",
+                "Even if"
+            ],
+            "correct": 0,
+            "id": "9f827abee3d646d0a06b5047d112e5d8"
+        },
+        {
+            "question": "………………… he is immensely rich, he leads a simple life.",
+            "description": "",
+            "answers": [
+                "Even though",
+                "Even if"
+            ],
+            "correct": 0,
+            "id": "8dc5042c160944baa4a513cee0bc0a7c"
+        },
+        {
+            "question": "………………… the watch was expensive, I bought it.",
+            "description": "",
+            "answers": [
+                "Even if",
+                "Even though"
+            ],
+            "correct": 1,
+            "id": "67062284d6ca493387bcba8c8106a5d8"
+        }
+    ]
+}

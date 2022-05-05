@@ -1,0 +1,125 @@
+{
+    "id": "934a3180771f4894ae141ad979690fbb",
+    "title": "Intermediate Level Grammar Exercise",
+    "questions": [
+        {
+            "question": "Never ……………………. seen such a mess.",
+            "description": "When the sentence begins with a negative word, we use an inverted word order.",
+            "answers": [
+                "I have",
+                "have I"
+            ],
+            "correct": 1,
+            "id": "49f978451ab048d0bb4b2c856d1e0a03"
+        },
+        {
+            "question": "I look forward to …………………… from you.",
+            "description": "We use an ing form after look forward to.",
+            "answers": [
+                "hearing",
+                "hear"
+            ],
+            "correct": 0,
+            "id": "ca833ff2058143f9b3ea8400d3155ec5"
+        },
+        {
+            "question": "The faster you walk …………………… you reach home.",
+            "description": "The comparative is used in both clauses in this structure. ",
+            "answers": [
+                "sooner",
+                "the sooner",
+                "the soon"
+            ],
+            "correct": 1,
+            "id": "bdee5b89314b4e19a24ec9d485131871"
+        },
+        {
+            "question": "………………….. being ill, she went to work.",
+            "description": "Either in spite or despite can be used here.",
+            "answers": [
+                "In spite of",
+                "Despite",
+                "Although"
+            ],
+            "correct": 1,
+            "id": "35e46e0ee5f74be3893cd20b502a7ad3"
+        },
+        {
+            "question": "It is time you ………………….. a better job.",
+            "description": "We use a past tense after it's time to refer to present.",
+            "answers": [
+                "find",
+                "found",
+                "have found"
+            ],
+            "correct": 1,
+            "id": "ccf02b2a21764c238955d1521c5ed15d"
+        },
+        {
+            "question": "I haven’t got many friends but …………………… I have are close to me.",
+            "description": "The few means not many but all of them.",
+            "answers": [
+                "few",
+                "the few",
+                "a few"
+            ],
+            "correct": 1,
+            "id": "d0160d1fb5094a448d7f5a8ca5c2d5f2"
+        },
+        {
+            "question": "Having …………………… her homework, she went to bed.",
+            "description": "",
+            "answers": [
+                "finished",
+                "finishing",
+                "finish"
+            ],
+            "correct": 0,
+            "id": "b92f1aa6d590448eb6bab268fc6b541a"
+        },
+        {
+            "question": "If I knew his address, I ……………………. write to him.",
+            "description": "",
+            "answers": [
+                "will",
+                "would",
+                "would have"
+            ],
+            "correct": 1,
+            "id": "1e9b61776c014f918134cdad241b65cb"
+        },
+        {
+            "question": "You are ill. You had better …………………….. rest.",
+            "description": "The first of the verb is used after had better.",
+            "answers": [
+                "take",
+                "took",
+                "taken"
+            ],
+            "correct": 0,
+            "id": "8de9a269acd54969bb02c716a331cde9"
+        },
+        {
+            "question": "I would rather you ……………………. home.",
+            "description": "The past tense is used after would rather + noun.",
+            "answers": [
+                "go",
+                "went",
+                "have gone"
+            ],
+            "correct": 1,
+            "id": "11f9b67186104b449a848f9ba805aa73"
+        },
+        {
+            "question": "He studied so well that he ………………….. the first rank.",
+            "description": "",
+            "answers": [
+                "get",
+                "got",
+                "had gotten"
+            ],
+            "correct": 1,
+            "id": "70a192645e054c22b1bc1c4d97077380"
+        }
+    ]
+}

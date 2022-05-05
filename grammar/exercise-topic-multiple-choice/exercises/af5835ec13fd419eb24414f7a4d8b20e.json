@@ -1,0 +1,138 @@
+{
+    "id": "af5835ec13fd419eb24414f7a4d8b20e",
+    "title": "Who, Which, That",
+    "questions": [
+        {
+            "question": "The police are searching for the man ………………………… abducted the child.",
+            "description": "Use who to refer to people and which to refer to things. ",
+            "answers": [
+                "who",
+                "which",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "e3fdb85856d74dde83b777c256eabf13"
+        },
+        {
+            "question": "This is the book ………………………….. I was talking about.",
+            "description": "Either which or that can refer to things in identifying relative clauses. ",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "8f050fe195d8476ea83167d4b26fbc42"
+        },
+        {
+            "question": "Do you know anyone ………………………. can repair my camera?",
+            "description": "",
+            "answers": [
+                "who",
+                "which",
+                "that"
+            ],
+            "correct": 0,
+            "id": "1931dd41974a417db6c984f13ab6f91a"
+        },
+        {
+            "question": "The jewels ……………………….. the heiress wore were very expensive.",
+            "description": "Either which or that can refer to things in identifying relative clauses. ",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "bc209fb394984ce5b5122e83515429bc"
+        },
+        {
+            "question": "The flowers ………………………… adorn the dais are artificial.",
+            "description": "Either which or that can refer to things in identifying relative clauses. ",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "763403cb53da4328b70dec7624b81dc2"
+        },
+        {
+            "question": "The athlete ………………………… ankle was broken might need surgery.",
+            "description": "Whose can refer to both people and things. Use it to replace pronouns in the possessive case.",
+            "answers": [
+                "whose",
+                "who",
+                "that"
+            ],
+            "correct": 0,
+            "id": "030516e88f8b4beba11ed1fe32190e85"
+        },
+        {
+            "question": "The parrot …………………………. wings are broken may not fly ever again.",
+            "description": "",
+            "answers": [
+                "who",
+                "whose",
+                "that"
+            ],
+            "correct": 1,
+            "id": "3434addb3a7949768cee7a47a37e5895"
+        },
+        {
+            "question": "The clown ……………………….. antics amused everyone was not happy in his life.",
+            "description": "",
+            "answers": [
+                "who",
+                "whose",
+                "that"
+            ],
+            "correct": 1,
+            "id": "827956d819c346b39d6d9a4060ccbabb"
+        },
+        {
+            "question": "The microwave oven …………………………… I bought for Christmas was not very expensive.",
+            "description": "Either which or that can refer to things in identifying relative clauses. ",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ac6a1f28801840d0860106f9aba54307"
+        },
+        {
+            "question": "Athletes ………………………… practice everyday are more likely to win.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "whose"
+            ],
+            "correct": 0,
+            "id": "0760daa0642142ea93f66e835f1b6b0b"
+        },
+        {
+            "question": "This is the house …………………………..  I inherited from my grandfather.",
+            "description": "Either which or that can refer to things in identifying relative clauses. ",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "85bb9a6d9d4b45df838e4dd2ea7beb74"
+        },
+        {
+            "question": "The lion killed the deer ………………………….. was drinking water from the stream.",
+            "description": "Either which or that can refer to things in identifying relative clauses. ",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "03b3ec05a24e427d8a65fb697dae527d"
+        }
+    ]
+}

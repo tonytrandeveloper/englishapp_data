@@ -1,0 +1,139 @@
+{
+    "id": "540bb40f649f4778be7fa166023232ff",
+    "title": "Verbs Exercise",
+    "questions": [
+        {
+            "question": "I …………………. him yesterday.",
+            "description": "The present perfect cannot be used with past time expressions.",
+            "answers": [
+                "visited",
+                "have visited",
+                "had visited"
+            ],
+            "correct": 0,
+            "id": "89070e33994a447598b46aa5e546c974"
+        },
+        {
+            "question": "We …………………. to the park last week.",
+            "description": "",
+            "answers": [
+                "went",
+                "have gone",
+                "had gone"
+            ],
+            "correct": 0,
+            "id": "c3ad2e62ca2f460d88a665b635d601a9"
+        },
+        {
+            "question": "You must ……………………. the instructions.",
+            "description": "To listen to is to pay attention to hear.",
+            "answers": [
+                "listen",
+                "listen to",
+                "hear"
+            ],
+            "correct": 1,
+            "id": "4cf58ede850f4bfab7d3a7cc68a5d840"
+        },
+        {
+            "question": "Always …………………. the truth.",
+            "description": "",
+            "answers": [
+                "speak",
+                "tell",
+                "say",
+                ""
+            ],
+            "correct": 0,
+            "id": "b373139e0c3d4b789f56b31b08c2312c"
+        },
+        {
+            "question": "Her dad died two years ……………………",
+            "description": "Ago is used to count from a present moment to a past moment. ",
+            "answers": [
+                "ago",
+                "before",
+                "back"
+            ],
+            "correct": 0,
+            "id": "783341f944ee49b4a54864d7798e9d4c"
+        },
+        {
+            "question": "I …………………. that movie last night.",
+            "description": "",
+            "answers": [
+                "watched",
+                "have watched",
+                "had watched"
+            ],
+            "correct": 0,
+            "id": "7d4f0802b4bc4164a938dce962f91483"
+        },
+        {
+            "question": "I …………………… to the boss about my holiday.",
+            "description": "When there is no time reference, the present perfect is more commonly used to talk about finished events. ",
+            "answers": [
+                "spoke",
+                "have spoken",
+                "had spoken"
+            ],
+            "correct": 1,
+            "id": "b4072f42b8f741a9bc46badea59fc33c"
+        },
+        {
+            "question": "He was …………………… for murder.",
+            "description": "The past tense of hang is hanged when we are talking about killing someone by hanging. ",
+            "answers": [
+                "hanged",
+                "hung",
+                "hunged"
+            ],
+            "correct": 0,
+            "id": "a9b941cd7056490ca687640fa4487b59"
+        },
+        {
+            "question": "He …………………… the pictures on the wall.",
+            "description": "",
+            "answers": [
+                "hung",
+                "hang",
+                "hanged"
+            ],
+            "correct": 0,
+            "id": "bd1b56a6493042d69de1a1598dba2c8e"
+        },
+        {
+            "question": "He …………………… under the tree.",
+            "description": "When lie means to recline, its past tense is lay. ",
+            "answers": [
+                "lay",
+                "lie",
+                "lied",
+                "laid"
+            ],
+            "correct": 0,
+            "id": "8dd1a5509abf4e2eac30a2e2f1bde8f0"
+        },
+        {
+            "question": "I heard them ........................... in the other room.",
+            "description": "Hear is followed by an infinitive without to.",
+            "answers": [
+                "talk",
+                "to talk"
+            ],
+            "correct": 0,
+            "id": "7c6cfd788fb34d4a9e3c948570144d5d"
+        },
+        {
+            "question": "He reached the station after the train ……………………..",
+            "description": "We use the past perfect for the earlier of two past actions. ",
+            "answers": [
+                "left",
+                "has left",
+                "had left"
+            ],
+            "correct": 2,
+            "id": "1f7b8b40ee78469189f6c42de9ec9a4e"
+        }
+    ]
+}

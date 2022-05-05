@@ -1,0 +1,116 @@
+{
+    "id": "06a4ff0c943f47fba4e639e97e23ab82",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Do you know …………………………. has happened?",
+            "description": "",
+            "answers": [
+                "what",
+                "that",
+                "which"
+            ],
+            "correct": 0,
+            "id": "ea0a2385510446018edad05701168455"
+        },
+        {
+            "question": "He always preaches …………………………………….. he never practices.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "which"
+            ],
+            "correct": 1,
+            "id": "01a3452448674b00860c28a9f4e5a174"
+        },
+        {
+            "question": "Where is the book …………………………………… I lent you?",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "96bc4fffc6e549ab8c25f8e887cbb869"
+        },
+        {
+            "question": "He has no sword with ………………………………. to fight.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "which"
+            ],
+            "correct": 2,
+            "id": "8517b94c7b3b495988750bfd6dddd64e"
+        },
+        {
+            "question": "Where is the man ………………………………….. purse was lost?",
+            "description": "",
+            "answers": [
+                "who",
+                "who's",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "acf838d3bf2e4868b3899ae9c8255ed4"
+        },
+        {
+            "question": "I met a man …………………………………… had just returned from America.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "6ac6f21d9bcf4c44a9a6f917fe8dc0d5"
+        },
+        {
+            "question": "Only he …………………………………. wears the shoe knows where it pinches.",
+            "description": "",
+            "answers": [
+                "that",
+                "who",
+                "which"
+            ],
+            "correct": 1,
+            "id": "f26afec4685f43bf99c6c80faf0c42c5"
+        },
+        {
+            "question": "This is the house ………………………………. my grandfather built.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "8bb3521a6b264d789eed2bdc7907d857"
+        },
+        {
+            "question": "The spectators applauded the batsman ……………………………………. performance was spectacular.",
+            "description": "",
+            "answers": [
+                "who",
+                "who's",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "a6b888bd93bc4beda9179160236a2957"
+        },
+        {
+            "question": "……………………………………. the gods love die young.",
+            "description": "",
+            "answers": [
+                "Who",
+                "Which",
+                "Whom"
+            ],
+            "correct": 2,
+            "id": "26ec326a6ce44be4bb01d2dbf99da6a8"
+        }
+    ]
+}

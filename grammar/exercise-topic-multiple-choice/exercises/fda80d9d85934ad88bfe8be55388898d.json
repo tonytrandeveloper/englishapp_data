@@ -1,0 +1,140 @@
+{
+    "id": "fda80d9d85934ad88bfe8be55388898d",
+    "title": "Identify The Adjective",
+    "questions": [
+        {
+            "question": "The cake baking in the oven made the whole house fragrant.",
+            "description": "It modifies the noun house.",
+            "answers": [
+                "cake",
+                "oven",
+                "fragrant"
+            ],
+            "correct": 2,
+            "id": "5ad94bf1ef7c4f809d2d4d2c69b17297"
+        },
+        {
+            "question": "The climber dangled in midair, held by a frail rope.",
+            "description": "It modifies the noun rope.",
+            "answers": [
+                "dangled",
+                "midair",
+                "frail"
+            ],
+            "correct": 2,
+            "id": "6514c00611a8460cbe31bb182eb75b3c"
+        },
+        {
+            "question": "There was a lot of frantic activity just before the arrival of royal visitors.",
+            "description": "It modifies the noun activity.",
+            "answers": [
+                "lot",
+                "before",
+                "frantic"
+            ],
+            "correct": 2,
+            "id": "ec9e1c1fb76949119a30e204f9d9892e"
+        },
+        {
+            "question": "There was always a lot of fraternal affection between the boys.",
+            "description": "It modifies the noun affection.",
+            "answers": [
+                "always",
+                "fraternal",
+                "between"
+            ],
+            "correct": 1,
+            "id": "f414e45b53a649de9a5aaf28cde12c3b"
+        },
+        {
+            "question": "The puppy flopped around on the slippery floor.",
+            "description": "It modifies the noun floor.",
+            "answers": [
+                "puppy",
+                "around",
+                "slippery"
+            ],
+            "correct": 2,
+            "id": "3f3ec98b08d94f09839c47cce0993924"
+        },
+        {
+            "question": "The wallpaper had a floral pattern.",
+            "description": "It modifies the noun pattern.",
+            "answers": [
+                "wallpaper",
+                "floral",
+                "pattern"
+            ],
+            "correct": 1,
+            "id": "31371ffb7b094dbf992712022898f1c0"
+        },
+        {
+            "question": "The shop sells ice-cream in eight different flavors.",
+            "description": "",
+            "answers": [
+                "shop",
+                "eight",
+                "different"
+            ],
+            "correct": 2,
+            "id": "5d889ce8303541dfa22f89e8b5a262b1"
+        },
+        {
+            "question": "Lack of civilian clothes was the one flaw in our escape plan.",
+            "description": "",
+            "answers": [
+                "civilian",
+                "one",
+                "escape",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "615d63c04f87441c886f0ba7a49dc3ff"
+        },
+        {
+            "question": "The hot coals made a fizzle as they hit the water.",
+            "description": "It modifies the noun coals.",
+            "answers": [
+                "hot",
+                "fizzle",
+                "water"
+            ],
+            "correct": 0,
+            "id": "38a54db154f24c23934ed6bc934a3e1c"
+        },
+        {
+            "question": "That was a flagrant abuse of his authority.",
+            "description": "",
+            "answers": [
+                "that",
+                "flagrant",
+                "authority"
+            ],
+            "correct": 1,
+            "id": "8758e45815ed46d280cbbd37dd4248f4"
+        },
+        {
+            "question": "This new medication fills an urgent need.",
+            "description": "",
+            "answers": [
+                "medication",
+                "new",
+                "urgent",
+                "need"
+            ],
+            "correct": 2,
+            "id": "0414e340dcfa408f9eb828991d3f2c22"
+        },
+        {
+            "question": "Our final meeting for the season is next Wednesday.",
+            "description": "",
+            "answers": [
+                "final",
+                "season",
+                "next"
+            ],
+            "correct": 2,
+            "id": "5b1cd822c85e45c5b708bcfcf952654a"
+        }
+    ]
+}

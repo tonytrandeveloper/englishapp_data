@@ -1,0 +1,137 @@
+{
+    "id": "b64ebf5181044f368419e6c0d0f2fb36",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "……………………….. students attended the class.",
+            "description": "We use all before a noun without a determiner.",
+            "answers": [
+                "All",
+                "All of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "f5752f0b63ec48c8a8321fb9b3220d38"
+        },
+        {
+            "question": "The child ate the …………………………. loaf.",
+            "description": "The determiner (the) goes before whole whereas it goes after all.",
+            "answers": [
+                "all",
+                "whole",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "cc8661efb51e4f839603da983f5677c5"
+        },
+        {
+            "question": "Does she have …………………………. wealth?",
+            "description": "We use much before an uncountable noun.",
+            "answers": [
+                "much",
+                "many",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "059edd6c67ef4f14af77f25b7d97406f"
+        },
+        {
+            "question": "…………………………… strength he had proved useless.",
+            "description": "The little refers to a small amount but it means the whole of that however small it may be.",
+            "answers": [
+                "Little",
+                "A little",
+                "The little"
+            ],
+            "correct": 2,
+            "id": "6073a9b9491c4fd1beace016708a3959"
+        },
+        {
+            "question": "We received …………………………. help from the neighbors.",
+            "description": "Little means hardly any.",
+            "answers": [
+                "little",
+                "the little",
+                "few"
+            ],
+            "correct": 0,
+            "id": "440f284ec467489e9a91e299be7114a0"
+        },
+        {
+            "question": "She has written …………………………… poems.",
+            "description": "Many is used with plural nouns.",
+            "answers": [
+                "much",
+                "many",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "2e8004604ada4544a4073bbc7b1568f9"
+        },
+        {
+            "question": "I have read …………………………. word written by her.",
+            "description": "Every is used with singular nouns all is used with plural nouns.",
+            "answers": [
+                "every",
+                "all",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "45f5ee6e1c594036a2b06f1acddc465d"
+        },
+        {
+            "question": "……………………………… friends he has are all helpful.",
+            "description": "",
+            "answers": [
+                "Few",
+                "A few",
+                "The few"
+            ],
+            "correct": 2,
+            "id": "52a566d35542498fb285b3478b518c99"
+        },
+        {
+            "question": "He is a man of …………………………… words.",
+            "description": "",
+            "answers": [
+                "little",
+                "few"
+            ],
+            "correct": 1,
+            "id": "d90b2c19fb064f75a2e680b90c53853b"
+        },
+        {
+            "question": "…………………………… words spoken in earnest will convince him.",
+            "description": "A few means 'a small number'",
+            "answers": [
+                "Few",
+                "The few",
+                "A few"
+            ],
+            "correct": 2,
+            "id": "37176413be9541b2a853af9877818d51"
+        },
+        {
+            "question": "…………………………… man must do his duty.",
+            "description": "Use every with a singular noun.",
+            "answers": [
+                "Every",
+                "All",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "56f4ebee69cc4e8d958562d7a25e0bb9"
+        },
+        {
+            "question": "……………………….. students attended the class.",
+            "description": "Use few with plural nouns and little with uncountable nouns. ",
+            "answers": [
+                "Few",
+                "Little",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "2920f38daaf84b45b53addd1d85ecdc5"
+        }
+    ]
+}

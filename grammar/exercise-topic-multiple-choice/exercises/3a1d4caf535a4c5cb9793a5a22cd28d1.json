@@ -1,0 +1,105 @@
+{
+    "id": "3a1d4caf535a4c5cb9793a5a22cd28d1",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "The headmaster ………………. to talk to you.",
+            "description": "",
+            "answers": [
+                "want",
+                "wants",
+                "is wanting"
+            ],
+            "correct": 1,
+            "id": "4e9c5bd45381480db69620eb7b58863b"
+        },
+        {
+            "question": "I ...................... a new laptop last week.",
+            "description": "",
+            "answers": [
+                "have bought",
+                "bought",
+                "was buying"
+            ],
+            "correct": 1,
+            "id": "4a75f455513043c69c6284df8e6cc37f"
+        },
+        {
+            "question": "It ………………. since early morning.",
+            "description": "",
+            "answers": [
+                "is raining",
+                "was raining",
+                "has been raining"
+            ],
+            "correct": 2,
+            "id": "82d03f744eed45a7a35c524e92a12557"
+        },
+        {
+            "question": "I ………………… a lot of work today.",
+            "description": "",
+            "answers": [
+                "did",
+                "have done",
+                "had done"
+            ],
+            "correct": 0,
+            "id": "c8c9ffb86a6d4eb4be7e8691072fd557"
+        },
+        {
+            "question": "I ………………… something burning.",
+            "description": "",
+            "answers": [
+                "have been selling",
+                "can smell",
+                "am selling"
+            ],
+            "correct": 1,
+            "id": "1dfebcc098cb47cf85fd8a74228f4392"
+        },
+        {
+            "question": "He will explain everything when he ……………… back.",
+            "description": "",
+            "answers": [
+                "come",
+                "comes",
+                "is coming"
+            ],
+            "correct": 1,
+            "id": "23645a65b8fc41aab45f8e5e5d377cab"
+        },
+        {
+            "question": "He will be surprised when he ………………….. of your marriage.",
+            "description": "",
+            "answers": [
+                "is hearing",
+                "heard",
+                "hears"
+            ],
+            "correct": 2,
+            "id": "7b72a1da37e048479996babd9012100d"
+        },
+        {
+            "question": "She ...................... on the Thursday after the accident.",
+            "description": "",
+            "answers": [
+                "dies",
+                "has died",
+                "died"
+            ],
+            "correct": 2,
+            "id": "0782efe24cfb4770804c0a6f678c091d"
+        },
+        {
+            "question": "I ………………… that movie four times.",
+            "description": "",
+            "answers": [
+                "saw",
+                "had seen",
+                "have seen"
+            ],
+            "correct": 2,
+            "id": "1d0f42483893413dad9fbb8ef0d1bcfe"
+        }
+    ]
+}

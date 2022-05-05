@@ -1,0 +1,106 @@
+{
+    "id": "656577bca0d64b82a1e3e58bc60c73b9",
+    "title": "Would Rather And Had Better",
+    "questions": [
+        {
+            "question": "I’d rather you ………………….. keep in touch with him.",
+            "description": "",
+            "answers": [
+                "don't",
+                "didn't"
+            ],
+            "correct": 1,
+            "id": "fca27c31abbc4d47810d6ba057ba2a57"
+        },
+        {
+            "question": "I wish I ……………….. go through this.",
+            "description": "",
+            "answers": [
+                "hadn't to",
+                "didn't have to"
+            ],
+            "correct": 1,
+            "id": "45e3722caa274e0fa0086e90bca8f324"
+        },
+        {
+            "question": "You’d better ………………… a doctor.",
+            "description": "",
+            "answers": [
+                "consult",
+                "consulted"
+            ],
+            "correct": 0,
+            "id": "866c651eff354698aa55e37a60fe946c"
+        },
+        {
+            "question": "After the way he treated me, I wish I ..................... him.",
+            "description": "",
+            "answers": [
+                "didn't marry",
+                "hadn't married"
+            ],
+            "correct": 1,
+            "id": "fd4bc97ad68f4504b0b1137789759b66"
+        },
+        {
+            "question": "I’d rather …………….. on Sundays.",
+            "description": "",
+            "answers": [
+                "not to work",
+                "not work"
+            ],
+            "correct": 1,
+            "id": "d4546e5996bf4027acebe8e23e2b3db8"
+        },
+        {
+            "question": "You had better ………………… your valuables in a locker.",
+            "description": "",
+            "answers": [
+                "keep",
+                "to keep"
+            ],
+            "correct": 0,
+            "id": "832fe9323be24838bb13ca735a1799d7"
+        },
+        {
+            "question": "We had better …………………. for a drink.",
+            "description": "",
+            "answers": [
+                "not stop",
+                "not to stop"
+            ],
+            "correct": 0,
+            "id": "8c6f30b5586c4fae89b79b47fa2de452"
+        },
+        {
+            "question": "We could sack him right now, but ……………….",
+            "description": "",
+            "answers": [
+                "I wouldn't rather",
+                "I'd rather not"
+            ],
+            "correct": 1,
+            "id": "5308be7c2bd4403d92a8a20bb866d9b8"
+        },
+        {
+            "question": "I wish I ………………… there when they arrested him.",
+            "description": "",
+            "answers": [
+                "was",
+                "had been"
+            ],
+            "correct": 1,
+            "id": "517dda58614e466e92dd7c4d2af4ac8a"
+        },
+        {
+            "question": "I wish you ………………… take this personally.",
+            "description": "",
+            "answers": [
+                "won't",
+                "wouldn't"
+            ],
+            "correct": 1,
+            "id": "48c05ab93af843ceb0cef1e5dbfa0435"
+        }
+    ]
+}

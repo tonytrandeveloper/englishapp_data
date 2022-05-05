@@ -1,0 +1,99 @@
+{
+    "id": "1731ebb3ed2e48329f894e953e74d951",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "I ……………….. you won’t be working tomorrow.",
+            "description": "The expression I take it that means I assume that...",
+            "answers": [
+                "take that",
+                "take it that"
+            ],
+            "correct": 1,
+            "id": "ec86b55bb6cc413fb482e4b9a24f7796"
+        },
+        {
+            "question": "Every country has ……………… traditions.",
+            "description": "Its is a possessive word like his or her. It's means it is or it has.",
+            "answers": [
+                "its",
+                "it's"
+            ],
+            "correct": 0,
+            "id": "4a6525a11f7f4f2bba5b9d0e855af2c6"
+        },
+        {
+            "question": "John made it clear …………………",
+            "description": "",
+            "answers": [
+                "what he wants",
+                "what he wanted"
+            ],
+            "correct": 1,
+            "id": "cf9fa7c6b1ec47628bd0692ea66d5726"
+        },
+        {
+            "question": "It looks ……………… we are going to have trouble with them again.",
+            "description": "Both 'as if' and 'as though' are possible here.",
+            "answers": [
+                "as if",
+                "as",
+                "though",
+                "as though"
+            ],
+            "correct": 3,
+            "id": "e28182adcc1043778411d45fc7f184fb"
+        },
+        {
+            "question": "Not a single word ……………… say.",
+            "description": "When the sentence begins with a negative word, we use an inverted word order. ",
+            "answers": [
+                "she",
+                "did she",
+                "she did"
+            ],
+            "correct": 1,
+            "id": "cd9fa09601704d60b4feaedbeda2dfea"
+        },
+        {
+            "question": "At no time ……………… aware of what was happening.",
+            "description": "",
+            "answers": [
+                "she was",
+                "was she"
+            ],
+            "correct": 1,
+            "id": "7e874a4ce26d4ecaae50a7b0bad8fb28"
+        },
+        {
+            "question": "……………….. heard such a ridiculous story.",
+            "description": "",
+            "answers": [
+                "Seldom I have",
+                "Seldom have I"
+            ],
+            "correct": 1,
+            "id": "491d7e13ba5545409551f464a67b81d9"
+        },
+        {
+            "question": "‘I’m hungry.’ ‘………………..’",
+            "description": "",
+            "answers": [
+                "So I am.",
+                "So am I."
+            ],
+            "correct": 1,
+            "id": "952d90f1dd8042d89b5519d714179f92"
+        },
+        {
+            "question": "I wondered what time ...................... starting.",
+            "description": "In reported questions the auxiliary verb goes after the subject. ",
+            "answers": [
+                "the film was",
+                "was the film"
+            ],
+            "correct": 0,
+            "id": "5d8dbbb00b9e47488bfe787fdc881875"
+        }
+    ]
+}

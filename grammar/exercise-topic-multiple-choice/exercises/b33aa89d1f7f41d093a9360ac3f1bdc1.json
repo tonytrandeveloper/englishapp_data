@@ -1,0 +1,138 @@
+{
+    "id": "b33aa89d1f7f41d093a9360ac3f1bdc1",
+    "title": "Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "She likes ....................................",
+            "description": "Being looked is an example of a passive ing form. ",
+            "answers": [
+                "being looking at",
+                "being looked at",
+                "been looked at"
+            ],
+            "correct": 1,
+            "id": "5066d72bbc604db388be9d4689b78179"
+        },
+        {
+            "question": "The table ....................... up for firewood.",
+            "description": "Was broken is the passive form of broke.",
+            "answers": [
+                "was broken",
+                "was breaking",
+                "broke"
+            ],
+            "correct": 0,
+            "id": "da34d73c7d204c8e91eb045d0053ba59"
+        },
+        {
+            "question": "The roof ......................... by the masons.",
+            "description": "Is being repaired is the passive form of are repairing. ",
+            "answers": [
+                "is repairing",
+                "is being repaired",
+                "is being repairing"
+            ],
+            "correct": 1,
+            "id": "7e4dd82a714c4efcbfa6bf2d48c761a5"
+        },
+        {
+            "question": "This bag .......................... of leather.",
+            "description": "Is made is the passive form of make. ",
+            "answers": [
+                "Is making",
+                "is made",
+                "made"
+            ],
+            "correct": 1,
+            "id": "d874b8f98bbc4ff88c5d49fa7715381e"
+        },
+        {
+            "question": "The walls ......................................",
+            "description": "The walls cannot paint themselves. We need a passive construction here. Are still being painted is the passive form of are still painting. ",
+            "answers": [
+                "are still painting",
+                "are still being painted",
+                "are still being painting"
+            ],
+            "correct": 1,
+            "id": "64c557d59f7b4406ac3feb8e6f6e122d"
+        },
+        {
+            "question": "Their house ................................",
+            "description": "Has been sold is the passive form of has sold. ",
+            "answers": [
+                "has sold",
+                "has been selling",
+                "has been sold"
+            ],
+            "correct": 2,
+            "id": "26c722137f704ade91ebdb8df66877c2"
+        },
+        {
+            "question": "The contractor said that the project .............................. by Monday.",
+            "description": "Would be finished is the passive form of would finish. ",
+            "answers": [
+                "will finish",
+                "would finish",
+                "would be finished"
+            ],
+            "correct": 2,
+            "id": "37a85e82c3af49ec83d59b34dbbd45ff"
+        },
+        {
+            "question": "These tablets ......................... with food.",
+            "description": "Must be taken is the passive form of must take. ",
+            "answers": [
+                "must take",
+                "must be taken",
+                "must be taking"
+            ],
+            "correct": 1,
+            "id": "318914246b0c4b49970bec5d4b635885"
+        },
+        {
+            "question": "The parcel ............................... by courier yesterday.",
+            "description": "We need a past tense here because the reference is to the past. Was sent is the passive form of sent. ",
+            "answers": [
+                "is sent",
+                "was sent",
+                "was sending"
+            ],
+            "correct": 1,
+            "id": "9e71874fc7ac4354b4a0b916cf36c47d"
+        },
+        {
+            "question": "Your life ................................ by this book.",
+            "description": "Will be changed is the passive form of will change. ",
+            "answers": [
+                "will change",
+                "will be changing",
+                "will be changed"
+            ],
+            "correct": 2,
+            "id": "10e75c3500a64b71af688499e72084af"
+        },
+        {
+            "question": "This ............................ last week.",
+            "description": "",
+            "answers": [
+                "should be done",
+                "should have been done",
+                "should do"
+            ],
+            "correct": 1,
+            "id": "032255cfcd144b7a915d2693e722d1c7"
+        },
+        {
+            "question": "I ............................. by his attitude.",
+            "description": "Was shocked is the passive form of shocked. ",
+            "answers": [
+                "shocked",
+                "was shocking",
+                "was shocked"
+            ],
+            "correct": 2,
+            "id": "6d01b0e491fd4c75941b2c65f632baa3"
+        }
+    ]
+}

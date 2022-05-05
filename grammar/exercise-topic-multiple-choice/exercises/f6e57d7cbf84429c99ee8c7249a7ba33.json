@@ -1,0 +1,141 @@
+{
+    "id": "f6e57d7cbf84429c99ee8c7249a7ba33",
+    "title": "Gap Filling Exercise",
+    "questions": [
+        {
+            "question": "She attended the party, …………………?",
+            "description": "Add a negative tag after an affirmative statement. ",
+            "answers": [
+                "could she",
+                "did she",
+                "didn't she"
+            ],
+            "correct": 2,
+            "id": "06bf237ed97e4feb924d4270eb17d2a0"
+        },
+        {
+            "question": "The horse drew the carriage. Change into passive.",
+            "description": "In the simple past, the passive forms are made with 'was/were + past participle form of the verb'.",
+            "answers": [
+                "The carriage drew the horse",
+                "The carriage is drawn by the horse",
+                "The carriage was drawn by the horse."
+            ],
+            "correct": 2,
+            "id": "27d07f71125245f7ae8dc53ec773d0a5"
+        },
+        {
+            "question": "Sam asked us, ‘Are you leaving today?’ Change into indirect speech",
+            "description": "We use whether or if to report questions. ",
+            "answers": [
+                "Sam asked us were we leaving that day.",
+                "Sam asked us whether we are leaving that day.",
+                "Sam asked us whether we were leaving that day."
+            ],
+            "correct": 2,
+            "id": "0e28f3611a1b4472b17a08091e4938d9"
+        },
+        {
+            "question": "I feel happy whenever she ………………… at me.",
+            "description": "",
+            "answers": [
+                "smiles",
+                "would smile",
+                "smiled"
+            ],
+            "correct": 0,
+            "id": "fb1650589576455eb2628140dfb7c696"
+        },
+        {
+            "question": "I will be happy if she ………………….. at me.",
+            "description": "In the first conditional, use a simple present tense in the if-clause and will + first form of the verb in the main clause. ",
+            "answers": [
+                "smiles",
+                "will smile",
+                "would smile"
+            ],
+            "correct": 0,
+            "id": "c64fe5e7fcf54a6f8618b05a78b8ae28"
+        },
+        {
+            "question": "Too many cooks ………………….. the broth.",
+            "description": "",
+            "answers": [
+                "make",
+                "stir",
+                "spoil"
+            ],
+            "correct": 2,
+            "id": "fea6b84d6d304247b9d9d94b5111997c"
+        },
+        {
+            "question": "The voice of the protestors …………………… \tquite loud.",
+            "description": "Here the subject is the singular noun voice, so write is.",
+            "answers": [
+                "was",
+                "were",
+                "are"
+            ],
+            "correct": 0,
+            "id": "ab4b08a0f8e24bed9a5d780d9e0f30a8"
+        },
+        {
+            "question": "What is the plural form of runner up?",
+            "description": "",
+            "answers": [
+                "runner ups",
+                "runners ups",
+                "runners up"
+            ],
+            "correct": 2,
+            "id": "98ddfdfebf3c4b1e86a037e8d65551d2"
+        },
+        {
+            "question": "I realized that I ………………….. a mistake.",
+            "description": "Use the past perfect to indicate that something had happened before another action or situation commenced. ",
+            "answers": [
+                "made",
+                "have made",
+                "had made"
+            ],
+            "correct": 2,
+            "id": "549778870d38415da41c41211a77a212"
+        },
+        {
+            "question": "Give the word that is opposite in meaning to 'moist'.",
+            "description": "",
+            "answers": [
+                "dry",
+                "wet",
+                "parched",
+                "sultry"
+            ],
+            "correct": 0,
+            "id": "13dcc70446ad4d4c8c57f2e2b78d58f1"
+        },
+        {
+            "question": "What does via media mean?",
+            "description": "",
+            "answers": [
+                "through",
+                "a form of media",
+                "a compromise between extremes",
+                "an unpleasant outcome"
+            ],
+            "correct": 2,
+            "id": "e13e74efb187497093156da9e7277e07"
+        },
+        {
+            "question": "The children sat …………………….. the ground.",
+            "description": "To indicate position on the surface, use on.",
+            "answers": [
+                "over",
+                "above",
+                "on",
+                "up"
+            ],
+            "correct": 2,
+            "id": "b86667853cd94938b5597e11894b35f0"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "id": "de6d7580dcbf4a6591f2042009a51fec",
+    "title": "Verbs Exercise",
+    "questions": [
+        {
+            "question": "I will call you when he ………………….",
+            "description": "",
+            "answers": [
+                "is coming",
+                "comes",
+                "would come"
+            ],
+            "correct": 1,
+            "id": "7d14af2967e140f39c5aa71d29c8b005"
+        },
+        {
+            "question": "It started raining while we ..................... tennis.",
+            "description": "",
+            "answers": [
+                "are playing",
+                "were playing",
+                "played"
+            ],
+            "correct": 1,
+            "id": "6e26e8cc0f344f9095b79b2169869b95"
+        },
+        {
+            "question": "Can I have some milk before I ...................... to bed?",
+            "description": "",
+            "answers": [
+                "go",
+                "am going",
+                "went"
+            ],
+            "correct": 0,
+            "id": "fd362bfbdc5e4a7082485e25f2030732"
+        },
+        {
+            "question": "He ……………….. asleep while he was driving.",
+            "description": "",
+            "answers": [
+                "has fallen",
+                "fell",
+                "falls"
+            ],
+            "correct": 1,
+            "id": "cbdae0c02f984504b309caddd3c6074e"
+        },
+        {
+            "question": "I am sure I ………………….. him at the party last night.",
+            "description": "",
+            "answers": [
+                "saw",
+                "have seen",
+                "had seen"
+            ],
+            "correct": 0,
+            "id": "1c3318882b684e45bbf6b24867d5283e"
+        },
+        {
+            "question": "He ………………….. a mill in the town.",
+            "description": "",
+            "answers": [
+                "owns",
+                "is owning",
+                "own"
+            ],
+            "correct": 0,
+            "id": "9caec14be85d4c3795150573ad9b729c"
+        },
+        {
+            "question": "He ……………….. here for the last five years.",
+            "description": "",
+            "answers": [
+                "worked",
+                "was working",
+                "is working"
+            ],
+            "correct": 0,
+            "id": "1c62eb1161614c72af33179ac4baab66"
+        },
+        {
+            "question": "He thanked me for what I …………………..",
+            "description": "",
+            "answers": [
+                "have done",
+                "had done",
+                "will do"
+            ],
+            "correct": 0,
+            "id": "037a0b78f1f144778fc8701683fd0f6e"
+        },
+        {
+            "question": "Don’t disturb me. I ..................... my homework.",
+            "description": "",
+            "answers": [
+                "do",
+                "am doing",
+                "was doing"
+            ],
+            "correct": 1,
+            "id": "6aca77b434464b0eac07cd297626fa50"
+        },
+        {
+            "question": "My son ...................... to be a scientist.",
+            "description": "",
+            "answers": [
+                "wants",
+                "is wanting",
+                "has wanted"
+            ],
+            "correct": 0,
+            "id": "fefa1326bddb485eb451eadb5a11306f"
+        }
+    ]
+}

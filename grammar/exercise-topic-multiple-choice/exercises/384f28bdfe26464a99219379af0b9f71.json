@@ -1,0 +1,140 @@
+{
+    "id": "384f28bdfe26464a99219379af0b9f71",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "She wears ……………………… make-up for my taste.",
+            "description": "Too much shows undesirable extremes. It is used before an uncountable noun.",
+            "answers": [
+                "too much",
+                "too many",
+                "so much"
+            ],
+            "correct": 0,
+            "id": "87ba7fd9c3e844fa8ae9b7b6c7b58fb9"
+        },
+        {
+            "question": "We got ……………………….. answers to our advertisement.",
+            "description": "We use too many before a plural noun.",
+            "answers": [
+                "too much",
+                "too many",
+                "so much"
+            ],
+            "correct": 1,
+            "id": "18f7321d99a3494dbf68aa8c2ce07969"
+        },
+        {
+            "question": "I arrived ………………………. early.",
+            "description": "Before adverbs, we use too, not too much.",
+            "answers": [
+                "too",
+                "too much",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "f192c511736a406bb4bca195d011fd43"
+        },
+        {
+            "question": "He is ………………………. generous.",
+            "description": "Before an adjective without a noun, we use too.",
+            "answers": [
+                "too",
+                "too much",
+                "much"
+            ],
+            "correct": 0,
+            "id": "f141a89caa834e3aae2be1c52f99d5b0"
+        },
+        {
+            "question": "It is too …………………………. to go out.",
+            "description": "We can use too before adjective + a/an + noun.",
+            "answers": [
+                "a cold day",
+                "cold a day",
+                "cold day"
+            ],
+            "correct": 1,
+            "id": "96be3b72986741a7af8a5578046bc581"
+        },
+        {
+            "question": "The water is …………………………. salty for us to drink.",
+            "description": "We cannot use too much before an adjective without a noun.",
+            "answers": [
+                "so",
+                "very",
+                "too",
+                "too much"
+            ],
+            "correct": 2,
+            "id": "1c854e59e5394e2fbb90452723f3e62d"
+        },
+        {
+            "question": "………………………….. children love animals.",
+            "description": "When most means the majority of, it is used without the.",
+            "answers": [
+                "Most",
+                "The most",
+                "Most of"
+            ],
+            "correct": 0,
+            "id": "049c93389eb745edbcc3844fbdbcbf30"
+        },
+        {
+            "question": "She didn’t eat ………………………….. breakfast.",
+            "description": "We use much before a noun without a determiner.",
+            "answers": [
+                "many",
+                "much",
+                "much of",
+                "many of"
+            ],
+            "correct": 1,
+            "id": "9462c141b4df4952b089cec88578641c"
+        },
+        {
+            "question": "You can’t see ………………………… a city in a day.",
+            "description": "We use much of before a determiner.",
+            "answers": [
+                "much",
+                "much of",
+                "too much"
+            ],
+            "correct": 1,
+            "id": "8be31a2f8e654011aa90579382a7c42e"
+        },
+        {
+            "question": "……………………….. the people here seem to know each other.",
+            "description": "We use most of before a noun with a determiner.",
+            "answers": [
+                "Most",
+                "Most of",
+                "The most"
+            ],
+            "correct": 1,
+            "id": "206bbe91231f48abae2a22dd0774385d"
+        },
+        {
+            "question": "……………………………… Indians can understand Hindi.",
+            "description": "We use most before a noun without a determiner.",
+            "answers": [
+                "Most",
+                "Most of",
+                "The most of"
+            ],
+            "correct": 0,
+            "id": "2df45a74d132422a86a123223e6563c8"
+        },
+        {
+            "question": "How ………………………….. you are there?",
+            "description": "We use many of before a pronoun.",
+            "answers": [
+                "many",
+                "many of",
+                "much of"
+            ],
+            "correct": 1,
+            "id": "1cf960da27bf405e81505eb59b79ac7d"
+        }
+    ]
+}

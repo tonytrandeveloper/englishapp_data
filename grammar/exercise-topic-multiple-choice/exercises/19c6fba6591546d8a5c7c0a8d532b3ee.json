@@ -1,0 +1,129 @@
+{
+    "id": "19c6fba6591546d8a5c7c0a8d532b3ee",
+    "title": "Either or Neither | Grammar Exercise",
+    "questions": [
+        {
+            "question": "I don't like ....................... of my science teachers.",
+            "description": "Either means one or the other of two people or things.",
+            "answers": [
+                "either",
+                "neither",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "6b433da9aed94a06bfea78a749b0efd3"
+        },
+        {
+            "question": "You don't like him, do you? I don't ...........................",
+            "description": "",
+            "answers": [
+                "either",
+                "neither",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "75cf4554f7fd41cbb68c9fd73d0587da"
+        },
+        {
+            "question": "Peter isn't here today. Martha isn't ..........................",
+            "description": "After mentioning a negative idea, we can add another negative point by using not .... either. ",
+            "answers": [
+                "either",
+                "neither"
+            ],
+            "correct": 0,
+            "id": "1365c58ab53c4c16a972a97d37fabefb"
+        },
+        {
+            "question": "I like ........................... of them.",
+            "description": "Neither means 'not either'. The sentence 'I like neither of them' means the same as the sentence 'I don't like either of them.'",
+            "answers": [
+                "either",
+                "neither"
+            ],
+            "correct": 1,
+            "id": "f7cf34bffe6c4bd99bde934ee1c30289"
+        },
+        {
+            "question": "I am ............................ a conservative nor a liberal.",
+            "description": "Note the pattern 'neither...nor'.",
+            "answers": [
+                "either",
+                "neither"
+            ],
+            "correct": 1,
+            "id": "c700b28ae3b44cdeb9ed957c414408d1"
+        },
+        {
+            "question": "He didn't remember and ........................... did I.",
+            "description": "Neither means not...either. After mentioning a negative idea, we can add another negative point by using not...either or neither.",
+            "answers": [
+                "either",
+                "neither"
+            ],
+            "correct": 1,
+            "id": "626e911af08f44e5a4a8128c3f6866d4"
+        },
+        {
+            "question": "........................... of them invited me so I didn't go.",
+            "description": "Neither means 'not one and not the other of two'.",
+            "answers": [
+                "Either",
+                "Neither"
+            ],
+            "correct": 1,
+            "id": "7f48190173f04d25993f766fa84b3e98"
+        },
+        {
+            "question": "........................... of them seemed interested in the offer.",
+            "description": "Neither means 'not one and not the other of two'.",
+            "answers": [
+                "Neither",
+                "Either"
+            ],
+            "correct": 0,
+            "id": "98c6d1a0a329412283e672e1e07afdf6"
+        },
+        {
+            "question": "Mary didn't turn up and ......................... did Ruth.",
+            "description": "Neither can mean 'also not'. ",
+            "answers": [
+                "either",
+                "neither"
+            ],
+            "correct": 1,
+            "id": "90709ed6d0894ab3b76192d0bffd5fed"
+        },
+        {
+            "question": "John didn't pass the test, and Peter didn't .............................",
+            "description": "Not either means neither. The clause 'and Peter didn't either' means the same as 'and neither did Peter'.",
+            "answers": [
+                "either",
+                "neither"
+            ],
+            "correct": 0,
+            "id": "82e2c14a3a094dd189415dd9eeddb79f"
+        },
+        {
+            "question": "He ......................... smiled, spoke, nor looked at me.",
+            "description": "",
+            "answers": [
+                "either",
+                "neither"
+            ],
+            "correct": 1,
+            "id": "30599d9cee18461bae2336b38b87e32d"
+        },
+        {
+            "question": "Alice can't dance and ..............................",
+            "description": "The expression 'can't either' means the same as 'neither can'. Neither means 'not ... either'.",
+            "answers": [
+                "Stella can't either",
+                "neither can Stella",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "5f648a71d5e745dbbff981476b6fb8a0"
+        }
+    ]
+}

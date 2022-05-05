@@ -1,0 +1,138 @@
+{
+    "id": "13aa0bf7faf245389da4cf3b5f22d2f5",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "I have not been well ……………….. I returned from Bangkok.",
+            "description": "We use since to reckon from a point of time in the past.",
+            "answers": [
+                "since",
+                "for",
+                "as"
+            ],
+            "correct": 0,
+            "id": "7583b3875106450e9fb3e96d51b87e53"
+        },
+        {
+            "question": "No sooner did he see the policeman …………………. he disappeared.",
+            "description": "We use than after no sooner.",
+            "answers": [
+                "than",
+                "when",
+                "before"
+            ],
+            "correct": 0,
+            "id": "19500b4ddafe4ced837aab8f0c7e2b48"
+        },
+        {
+            "question": "Everyone rose to their feet ……………………… the chief guest entered the room.",
+            "description": "We can use ‘as’ to talk about two events that happen simultaneously.",
+            "answers": [
+                "as",
+                "while",
+                "since"
+            ],
+            "correct": 0,
+            "id": "7a9e3aa6a5504868aa1286a9b74900b8"
+        },
+        {
+            "question": "Don’t talk ………………………… she is singing.",
+            "description": "We can use while to introduce a longer background action which is going on when something else happens.",
+            "answers": [
+                "as",
+                "since",
+                "while"
+            ],
+            "correct": 2,
+            "id": "eabb3de86d73415bb602a7003c25840f"
+        },
+        {
+            "question": "…………………… I get older, I get happier.",
+            "description": "As is often used with simple tenses to talk about situations that develop / change together.",
+            "answers": [
+                "As",
+                "Because",
+                "When"
+            ],
+            "correct": 0,
+            "id": "08da3952d390428e933b9ae65285e31b"
+        },
+        {
+            "question": "They were ordered to wait ……………………….. the signal was given.",
+            "description": "Till indicates time. Unless indicates a condition.",
+            "answers": [
+                "unless",
+                "till",
+                "up to"
+            ],
+            "correct": 1,
+            "id": "bbc1c6cd2d56441994243565bba13f77"
+        },
+        {
+            "question": "Write it down …………………….. you should forget about it.",
+            "description": "Lest can introduce an adverb clause of purpose.",
+            "answers": [
+                "lest",
+                "because",
+                "for"
+            ],
+            "correct": 0,
+            "id": "08144894cd5e441a85ae769bf0bbc01f"
+        },
+        {
+            "question": "They spoke in a low voice ……………………….. the child wouldn’t wake up.",
+            "description": "So that can indicate the purpose.",
+            "answers": [
+                "for",
+                "because",
+                "so that"
+            ],
+            "correct": 2,
+            "id": "ef54c7c9f2a84ca199f4fbb531b9e2a6"
+        },
+        {
+            "question": "He thinks that he can buy justice ………………………. he is rich.",
+            "description": "We use because to indicate the reason.",
+            "answers": [
+                "because",
+                "so",
+                "hence"
+            ],
+            "correct": 0,
+            "id": "f6fb558754834fb494e9c5ac54eb07af"
+        },
+        {
+            "question": "I will not pay ………………………. he sends me the bill again.",
+            "description": "Unless indicates a condition. It is similar to if not.",
+            "answers": [
+                "if",
+                "unless",
+                "whether"
+            ],
+            "correct": 1,
+            "id": "08537572017c4474b6853575f0f6b672"
+        },
+        {
+            "question": "……………………. I had not seen this with my own eyes, I would not have believed it.",
+            "description": "We use if to express a condition.",
+            "answers": [
+                "If",
+                "Whether",
+                "Had"
+            ],
+            "correct": 0,
+            "id": "f174688cba374098b90b6d523fdb7841"
+        },
+        {
+            "question": "………………………. you are very clever, you should be able to solve this puzzle.",
+            "description": "Since indicates the reason for something. ",
+            "answers": [
+                "Since",
+                "For",
+                "Hence"
+            ],
+            "correct": 0,
+            "id": "c57f1ed105a9488a8d3a1a6aaa5649c7"
+        }
+    ]
+}

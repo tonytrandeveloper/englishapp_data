@@ -1,0 +1,137 @@
+{
+    "id": "3050e3ba2e9b47a0a6f79f7c31d76505",
+    "title": "All, Whole Or Every",
+    "questions": [
+        {
+            "question": "I spent the ……………………………… in bed.",
+            "description": "The article goes before whole.",
+            "answers": [
+                "whole day",
+                "all day",
+                "whole the day"
+            ],
+            "correct": 0,
+            "id": "06a4fefa1fd541f398ca9a3819a80aec"
+        },
+        {
+            "question": "I spent ……………………………. the week with my parents.",
+            "description": "We use all or all of before a noun with a determiner. ",
+            "answers": [
+                "all",
+                "all of",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "deef59621f2840c78095df311f5f4961"
+        },
+        {
+            "question": "She was here ………………………………..",
+            "description": "All day means from morning to night.",
+            "answers": [
+                "all day",
+                "whole day",
+                "every day"
+            ],
+            "correct": 0,
+            "id": "9715c97348f64976b0b8d91bf42ab7fc"
+        },
+        {
+            "question": "She was here …………………………………… of the week.",
+            "description": "Every day means Monday to Sunday.",
+            "answers": [
+                "all day",
+                "every day",
+                "every the day"
+            ],
+            "correct": 1,
+            "id": "8fa7352ce8db4b809027839df68633e7"
+        },
+        {
+            "question": "Suddenly ……………………………… went out.",
+            "description": "All and all of can both be used before a noun with a determiner.",
+            "answers": [
+                "all the lights",
+                "all of the lights",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "bf6d181f5b844d25a35b6f923c0a8691"
+        },
+        {
+            "question": "…………………………….. Paris was talking about their affair.",
+            "description": "All Paris means all parts of Paris.",
+            "answers": [
+                "All",
+                "All the",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "75343c4a484347b3a4f790db50d7022c"
+        },
+        {
+            "question": "I have invited ………………………………. friends.",
+            "description": "All and all of can both be used before a pronoun.",
+            "answers": [
+                "all my",
+                "all of my",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "de5f4c26e77d40fba625274f75e89a96"
+        },
+        {
+            "question": "I have invited ……………………………….. I have.",
+            "description": "Before a singular noun we use every.",
+            "answers": [
+                "every of friend",
+                "every friend",
+                "all friend"
+            ],
+            "correct": 1,
+            "id": "61a63d2b3b074e87b4d64fd610bba366"
+        },
+        {
+            "question": "My parents lived their ………………………………. in Mexico.",
+            "description": "",
+            "answers": [
+                "all life",
+                "whole life",
+                "whole life"
+            ],
+            "correct": 1,
+            "id": "8390bb712b294aac963910b98c8384fc"
+        },
+        {
+            "question": "I enjoy ……………………………… music.",
+            "description": "We cannot use every with uncountable nouns.",
+            "answers": [
+                "all",
+                "all of",
+                "every"
+            ],
+            "correct": 0,
+            "id": "f12d63f7273c43a389ff71e189c96ab7"
+        },
+        {
+            "question": "I spent ……………………………….. the afternoon at home.",
+            "description": "Instead of whole of, we generally use the whole of.",
+            "answers": [
+                "the whole of",
+                "whole of",
+                "the whole"
+            ],
+            "correct": 0,
+            "id": "6953b6bfbf884eca995cf9cf3c0486d5"
+        },
+        {
+            "question": "Your cat has drunk ………………………………….",
+            "description": "We use all of with most uncountable nouns. ",
+            "answers": [
+                "all the milk",
+                "all of the milk"
+            ],
+            "correct": 1,
+            "id": "0e91184c109e45019238e5aedc11d8d4"
+        }
+    ]
+}

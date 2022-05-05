@@ -1,0 +1,132 @@
+{
+    "id": "208fa7306a2a4a189ebbf52ac1b266a4",
+    "title": "Infinitive Or Gerund",
+    "questions": [
+        {
+            "question": "They made the child …………………………. the milk.",
+            "description": "Made is followed by an infinitive without to.",
+            "answers": [
+                "drink",
+                "to drink",
+                "drinking"
+            ],
+            "correct": 0,
+            "id": "1e74acf85cfb4090bebc261582f64f44"
+        },
+        {
+            "question": "They forced me ……………………………… the papers.",
+            "description": "Forced is followed by an infinitive with to.",
+            "answers": [
+                "sign",
+                "to sign",
+                "to signing"
+            ],
+            "correct": 1,
+            "id": "d908442d62f4471d981624a99611684f"
+        },
+        {
+            "question": "The boy was not allowed …………………………….. the exam.",
+            "description": "Allow is followed by an infinitive with to.",
+            "answers": [
+                "write",
+                "to write",
+                "from writing"
+            ],
+            "correct": 1,
+            "id": "40d255d2f0564088b43b3cf08f9d108c"
+        },
+        {
+            "question": "They let him ………………………………..",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "go",
+                "to go"
+            ],
+            "correct": 0,
+            "id": "a54645747c43481491fbd03174e99839"
+        },
+        {
+            "question": "She prevented him ………………………………….. her room.",
+            "description": "Prevent is followed by object + from + ing form",
+            "answers": [
+                "enter",
+                "to enter",
+                "from entering"
+            ],
+            "correct": 2,
+            "id": "8ffcdfc8d8b44f41825424dbcab960c6"
+        },
+        {
+            "question": "The mother encouraged the boy ……………………………. again.",
+            "description": "Encourage is followed by object + to-infinitive.",
+            "answers": [
+                "try",
+                "to try",
+                "from trying"
+            ],
+            "correct": 1,
+            "id": "d41e6cfab0a0427798c08fb618c77ebe"
+        },
+        {
+            "question": "Children should be discouraged ………………………………..",
+            "description": "Discourage is followed by from + ing form.",
+            "answers": [
+                "to smoke",
+                "from smoking",
+                "to smoking"
+            ],
+            "correct": 1,
+            "id": "8a9f8354aec54aca9d630e7c505c7942"
+        },
+        {
+            "question": "You should stop him ………………………………..",
+            "description": "Stop is followed by from + ing form.",
+            "answers": [
+                "to leave",
+                "from leaving"
+            ],
+            "correct": 1,
+            "id": "eddb27aacb5b4fddb76c06c38e154b11"
+        },
+        {
+            "question": "I was permitted ……………………………….. early.",
+            "description": "Permitted is followed by to-infinitive. ",
+            "answers": [
+                "to leave",
+                "from leaving"
+            ],
+            "correct": 0,
+            "id": "16898f0e0235484ebf54233824cff54f"
+        },
+        {
+            "question": "Stringent punishments deter people ……………………………………. crimes.",
+            "description": "Deter is followed by object + from + ing form.",
+            "answers": [
+                "to commit",
+                "from committing"
+            ],
+            "correct": 1,
+            "id": "15d5adc48ed748e985cf3a41bf54cf99"
+        },
+        {
+            "question": "The lion struggled …………………………………… itself.",
+            "description": "",
+            "answers": [
+                "to free",
+                "from freeing"
+            ],
+            "correct": 0,
+            "id": "13f8f327745347bfabd45ae1ffc91b46"
+        },
+        {
+            "question": "I remember …………………………………… him as  a child.",
+            "description": "",
+            "answers": [
+                "meeting",
+                "to meet"
+            ],
+            "correct": 0,
+            "id": "51313dd1601a4d549a802e545c1571e3"
+        }
+    ]
+}

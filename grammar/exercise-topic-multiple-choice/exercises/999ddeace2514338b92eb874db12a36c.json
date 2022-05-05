@@ -1,0 +1,114 @@
+{
+    "id": "999ddeace2514338b92eb874db12a36c",
+    "title": "Simple Present Tense Exercise",
+    "questions": [
+        {
+            "question": "I ………………….. playing cricket.",
+            "description": "",
+            "answers": [
+                "enjoy",
+                "enjoys",
+                "enjoying"
+            ],
+            "correct": 0,
+            "id": "3b2a07507ef7407b8d384d3c5077d661"
+        },
+        {
+            "question": "She ……………………….. to wear expensive dresses.",
+            "description": "",
+            "answers": [
+                "like",
+                "likes",
+                "is liking"
+            ],
+            "correct": 1,
+            "id": "df3bdc566b2847e88c46525da448dd00"
+        },
+        {
+            "question": "My sister ………………….. in Chennai.",
+            "description": "",
+            "answers": [
+                "live",
+                "lives",
+                "am living"
+            ],
+            "correct": 1,
+            "id": "c6ee082378244a2f9dc5df8fdc7e0f04"
+        },
+        {
+            "question": "She ………………………… the right person for this job.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "680ea84871f64fc78f9db42913a17b5b"
+        },
+        {
+            "question": "Where ………………………. you live?",
+            "description": "",
+            "answers": [
+                "does",
+                "do",
+                "is"
+            ],
+            "correct": 1,
+            "id": "3aac181127064beebd11728af183dce4"
+        },
+        {
+            "question": "My brother ………………………. in the army.",
+            "description": "",
+            "answers": [
+                "serve",
+                "serves"
+            ],
+            "correct": 1,
+            "id": "f17aeb14a50040c99c9d966eb57d13fc"
+        },
+        {
+            "question": "She ……………………… the answer, but she won’t tell me.",
+            "description": "",
+            "answers": [
+                "know",
+                "knows",
+                "knowing"
+            ],
+            "correct": 1,
+            "id": "ca6d6974f5cc4ed68ea537d2330de96a"
+        },
+        {
+            "question": "If I …………………… the answer, I will tell you.",
+            "description": "",
+            "answers": [
+                "know",
+                "knows",
+                "knowing"
+            ],
+            "correct": 0,
+            "id": "9092c1fb3bfe4752bbfc0652b349a983"
+        },
+        {
+            "question": "………………………… the books on that table.",
+            "description": "",
+            "answers": [
+                "Put",
+                "Puts",
+                "Putting"
+            ],
+            "correct": 0,
+            "id": "d38d4990917d4ce88a139812e57446b9"
+        },
+        {
+            "question": "She ……………………… French.",
+            "description": "",
+            "answers": [
+                "know",
+                "knows",
+                "knowing"
+            ],
+            "correct": 1,
+            "id": "5130e495439640c0842ecad7cd08bc03"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "id": "5a4e894f89f94f5fb26e1b436759cb8c",
+    "title": "Gap Fills",
+    "questions": [
+        {
+            "question": "Sigmund Freud ………………… his groundbreaking book, The Interpretation of Dreams, in 1899, after years of studying the brain as a neurologist.",
+            "description": "",
+            "answers": [
+                "published",
+                "has published",
+                "had published"
+            ],
+            "correct": 0,
+            "id": "e02307cc71064bc6923ad5cd45b16782"
+        },
+        {
+            "question": "I would ask him to leave our house immediately if my father ……………………………….. not at home.",
+            "description": "",
+            "answers": [
+                "has been",
+                "had been",
+                "were"
+            ],
+            "correct": 2,
+            "id": "5ff5ad4fa5174ed5a6dbdb68306d1c96"
+        },
+        {
+            "question": "While he was walking along the road a speeding car knocked …………………………………..",
+            "description": "",
+            "answers": [
+                "down to him",
+                "him down"
+            ],
+            "correct": 1,
+            "id": "830d6ad63b4341c69bd370884fee6220"
+        },
+        {
+            "question": "Though none of his well-wishers …………………………………. to help him I helped him by lending him $100 dollars.",
+            "description": "",
+            "answers": [
+                "forwarded",
+                "came forward"
+            ],
+            "correct": 1,
+            "id": "ed934a8b5bdf46fbb58c66958dfdb5f1"
+        },
+        {
+            "question": "Your ……………………………………. on others even for trivial matters may prove disadvantageous.",
+            "description": "",
+            "answers": [
+                "over-dependent",
+                "over-dependence"
+            ],
+            "correct": 1,
+            "id": "7c75f30be2fd49d5a506083591b6a50a"
+        }
+    ]
+}

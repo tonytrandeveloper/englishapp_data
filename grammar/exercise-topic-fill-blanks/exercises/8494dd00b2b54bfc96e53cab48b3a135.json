@@ -1,0 +1,156 @@
+{
+    "id": "8494dd00b2b54bfc96e53cab48b3a135",
+    "title": "Used To Exercise 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I / live in a flat when I was a child."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I used to live in a flat when I was a child"
+                    ]
+                }
+            ],
+            "id": "4d5ec063f79a40a09733b5820aa55882"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We / go to the beach every summer?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Did we use to go to the beach every summer"
+                    ]
+                }
+            ],
+            "id": "44e6ceed05a04e4caaf59676995692cd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She / love eating chocolate, but now she hates it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She used to love eating chocolate but now she hates it"
+                    ]
+                }
+            ],
+            "id": "cdab61d5cb8c41bd80320a75a81e7b19"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He / not / smoke"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He didn't use to smoke"
+                    ]
+                }
+            ],
+            "id": "d0e409a480fb4466bd950e0eebbab04b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I / play tennis when I was at school"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I used to play tennis when I was at school"
+                    ]
+                }
+            ],
+            "id": "37ad70753f2c4ddca8268144c3010501"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She / be able to speak French, but she has forgotten it all"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She used to be able to speak French, but she has forgotten it all"
+                    ]
+                }
+            ],
+            "id": "ef829024a9f44ed29406f4804e5dfd7d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He / play golf every weekend?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Did he use to play golf every weekend"
+                    ]
+                }
+            ],
+            "id": "c85a639c8f034b5bba74172d20764655"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They both / have short hair"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They both used to have short hair"
+                    ]
+                }
+            ],
+            "id": "9ab7623a97884ce68051d07f5de4fbb3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie / study Portuguese"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Julie used to study Portuguese"
+                    ]
+                }
+            ],
+            "id": "2e50254ffa3b4951bbdccfa898864c31"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I / not / hate school"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I didn't use to hate school"
+                    ]
+                }
+            ],
+            "id": "e6c04833cb9f454f8f9ca6439537e1eb"
+        }
+    ]
+}

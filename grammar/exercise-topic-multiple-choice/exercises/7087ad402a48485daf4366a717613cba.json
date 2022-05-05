@@ -1,0 +1,108 @@
+{
+    "id": "7087ad402a48485daf4366a717613cba",
+    "title": "Confusing Pairs Exercise",
+    "questions": [
+        {
+            "question": "…………………. knowledge is a dangerous thing.",
+            "description": "",
+            "answers": [
+                "A little",
+                "Little"
+            ],
+            "correct": 0,
+            "id": "a32544dfdfb947a694150b9e3936de0e"
+        },
+        {
+            "question": "…………………. children are innocent.",
+            "description": "",
+            "answers": [
+                "Little",
+                "A little"
+            ],
+            "correct": 0,
+            "id": "ad99d3af70314dad97887e276a7c2ac5"
+        },
+        {
+            "question": "………………….. children are interested in reading.",
+            "description": "",
+            "answers": [
+                "Few",
+                "A few"
+            ],
+            "correct": 0,
+            "id": "42aa59e0c4764bd2b2ec9c3c2ba258f9"
+        },
+        {
+            "question": "He has ………………….. buildings of his own.",
+            "description": "",
+            "answers": [
+                "many",
+                "much"
+            ],
+            "correct": 0,
+            "id": "63490ee767034ed287a42a7f33262934"
+        },
+        {
+            "question": "The …………………. half of the film is more interesting than the former.",
+            "description": "",
+            "answers": [
+                "later",
+                "latter"
+            ],
+            "correct": 1,
+            "id": "4702da6157a24a16a5aa10c6af6dc9c1"
+        },
+        {
+            "question": "My …………………. brother works abroad.",
+            "description": "",
+            "answers": [
+                "elder",
+                "older",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "e67fa0de8bfd4438910fa8424e379852"
+        },
+        {
+            "question": "Trains run ……………….. five minutes.",
+            "description": "",
+            "answers": [
+                "every",
+                "each"
+            ],
+            "correct": 0,
+            "id": "657cf20f2dcd43a2a8c5d84b2c97a9d8"
+        },
+        {
+            "question": "………………… bag is this?",
+            "description": "",
+            "answers": [
+                "Whose",
+                "Who's"
+            ],
+            "correct": 0,
+            "id": "2d48ca1fa47f43f1addafcdf90c825bd"
+        },
+        {
+            "question": "The dog has had ………………….. breakfast.",
+            "description": "",
+            "answers": [
+                "its",
+                "it's"
+            ],
+            "correct": 0,
+            "id": "1c54a6b6fdac4be0a42e1478e55c50c0"
+        },
+        {
+            "question": "………………… is something wrong with this computer.",
+            "description": "",
+            "answers": [
+                "There",
+                "Their",
+                "There's"
+            ],
+            "correct": 0,
+            "id": "47d2006c1e7e4a54a21d153e6a19d3c2"
+        }
+    ]
+}

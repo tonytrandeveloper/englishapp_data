@@ -1,0 +1,137 @@
+{
+    "id": "6907956da63d4827819adb383338c92e",
+    "title": "Gap Filling Grammar Exercise",
+    "questions": [
+        {
+            "question": "I prefer riding my bicycle ………………………. driving the car.",
+            "description": "",
+            "answers": [
+                "over",
+                "to",
+                "than"
+            ],
+            "correct": 1,
+            "id": "737859e8a54e4cc7b9161b24a07ec713"
+        },
+        {
+            "question": "She enjoys ……………………………. time in her garden.",
+            "description": "Enjoy should be followed by an ing form, not an infinitive.",
+            "answers": [
+                "spending",
+                "to spend",
+                "to spending"
+            ],
+            "correct": 0,
+            "id": "fbecd37b93ce44279afb9569653dacc7"
+        },
+        {
+            "question": "I am not used to …………………………… alone.",
+            "description": "The to in used to is a preposition. Use an ing form after a preposition. ",
+            "answers": [
+                "live",
+                "living",
+                "lived"
+            ],
+            "correct": 1,
+            "id": "321a075d8d204de5aa7337a7f82c3ec1"
+        },
+        {
+            "question": "Would you mind ……………………………. for a minute?",
+            "description": "Use an ing form after mind. ",
+            "answers": [
+                "to wait",
+                "waiting",
+                "wait"
+            ],
+            "correct": 1,
+            "id": "bb3c30ccdb62469abb39906fb5d1173e"
+        },
+        {
+            "question": "That resort ………………………………… be a palace.",
+            "description": "Used to can indicate past states. Would cannot be used to express this idea. ",
+            "answers": [
+                "used to",
+                "would"
+            ],
+            "correct": 0,
+            "id": "0709ca801d254c349ca78e5c2839e609"
+        },
+        {
+            "question": "I still remember ………………….. her for the first time.",
+            "description": "When the reference is to past time, use an ing form after remember. ",
+            "answers": [
+                "meeting",
+                "to meet",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "9cd93540930e41c9a15cc192ed4fab89"
+        },
+        {
+            "question": "I would rather you ………………………….. me alone.",
+            "description": "Use a past verb after would rather to refer to the present. ",
+            "answers": [
+                "leave",
+                "left",
+                "have left"
+            ],
+            "correct": 1,
+            "id": "63ed18c184d64b659362337dcddb0e93"
+        },
+        {
+            "question": "It is high time you ……………………………. a job.",
+            "description": "Use a past tense after high time to refer to the present.",
+            "answers": [
+                "find",
+                "found",
+                "have found"
+            ],
+            "correct": 1,
+            "id": "30a452db77044039bcff318b6a5cde09"
+        },
+        {
+            "question": "I forgot …………………… him on his birthday.",
+            "description": "",
+            "answers": [
+                "wishing",
+                "to wish",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f438c713d6134396bdf4c0bfe3cb2c65"
+        },
+        {
+            "question": "I asked her ………………………………. she was interested.",
+            "description": "Either if or whether can be used to introduce an Yes/No question. ",
+            "answers": [
+                "if",
+                "whether",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "3d360c33079f45f0b8fd70fbbf61994f"
+        },
+        {
+            "question": "Let him ................................ if he wants to.",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "go",
+                "to go",
+                "going"
+            ],
+            "correct": 0,
+            "id": "ea24964befb948b3833ad6563d4d716c"
+        },
+        {
+            "question": "I am ……………………………….. a call from my brother.",
+            "description": "It should be I am expecting a call from my brother or I am waiting for a call from my brother. ",
+            "answers": [
+                "expecting",
+                "expecting for",
+                "waiting"
+            ],
+            "correct": 0,
+            "id": "eecef857461a4abfb68b997a881d6898"
+        }
+    ]
+}

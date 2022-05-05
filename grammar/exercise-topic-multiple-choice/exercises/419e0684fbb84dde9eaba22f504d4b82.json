@@ -1,0 +1,132 @@
+{
+    "id": "419e0684fbb84dde9eaba22f504d4b82",
+    "title": "Gerund vs. Infinitive",
+    "questions": [
+        {
+            "question": "Is it any use ............................. to the manager?",
+            "description": "The gerund is used after expressions like it is no use, it is not worth, it is no good, what about etc.",
+            "answers": [
+                "to talk",
+                "talking",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f57eb40bb8b445ccb870df7ffdd211cc"
+        },
+        {
+            "question": "What about .......................... a short break?",
+            "description": "The gerund is used after what about.",
+            "answers": [
+                "to take",
+                "taking"
+            ],
+            "correct": 1,
+            "id": "c5a614954baa4b2e965d9fd1de3d45e2"
+        },
+        {
+            "question": "There is no point in ................................ any longer.",
+            "description": "The gerund is used after a preposition.",
+            "answers": [
+                "waiting",
+                "wait",
+                "to wait"
+            ],
+            "correct": 0,
+            "id": "8feb083530e0453fab25eb7a7c047831"
+        },
+        {
+            "question": "He spent years ............................. care of his ailing mother.",
+            "description": "",
+            "answers": [
+                "to take",
+                "taking"
+            ],
+            "correct": 1,
+            "id": "30055c8e677b4ca3bc51eea130e60575"
+        },
+        {
+            "question": "I am interested in ............................. to cook.",
+            "description": "The gerund is used after a preposition.",
+            "answers": [
+                "learning",
+                "to learn"
+            ],
+            "correct": 0,
+            "id": "6b15a36ef7594954a700948f3b75acfc"
+        },
+        {
+            "question": "He is afraid of .............................. alone.",
+            "description": "",
+            "answers": [
+                "being",
+                "to be",
+                "to being"
+            ],
+            "correct": 0,
+            "id": "fe03bc18517041b9921f3f2f100d1fd1"
+        },
+        {
+            "question": "I wasted hours ............................ for him.",
+            "description": "The ing form is used after spend and waste.",
+            "answers": [
+                "to wait",
+                "waiting",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "8976e49c5391437cb07d463b137b11ab"
+        },
+        {
+            "question": "Is it worth ........................... Dublin?",
+            "description": "The gerund is used after is it worth?",
+            "answers": [
+                "to visit",
+                "visiting"
+            ],
+            "correct": 1,
+            "id": "94c78ce803224b57a80ae6ce8e294931"
+        },
+        {
+            "question": "He does not have enough money ............................... on a foreign vacation.",
+            "description": "",
+            "answers": [
+                "spending",
+                "to spend"
+            ],
+            "correct": 1,
+            "id": "dd43b21394c748e6a3f39d43958c7450"
+        },
+        {
+            "question": "I was sad .............................. about his fate.",
+            "description": "The infinitive is used after certain adjectives like happy, sad, glad, difficult etc.",
+            "answers": [
+                "to hear",
+                "hearing",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "cc5f34f774ab44b3851989fe14397822"
+        },
+        {
+            "question": "It is difficult ............................... his motive.",
+            "description": "",
+            "answers": [
+                "understanding",
+                "to understand"
+            ],
+            "correct": 1,
+            "id": "3d7557938a1f437cacf365fa1faf1e40"
+        },
+        {
+            "question": "Please give him another chance ............................... his mettle.",
+            "description": "The infinitive is used after nouns like chance, decision, advice, ability etc. ",
+            "answers": [
+                "proving",
+                "to prove",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "60b088fff65b4857a3e7bba948ee428b"
+        }
+    ]
+}

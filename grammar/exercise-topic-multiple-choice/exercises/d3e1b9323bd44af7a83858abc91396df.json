@@ -1,0 +1,109 @@
+{
+    "id": "d3e1b9323bd44af7a83858abc91396df",
+    "title": "Active And Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "The problem …………………. to the children.",
+            "description": "",
+            "answers": [
+                "explained",
+                "was explained"
+            ],
+            "correct": 1,
+            "id": "7b082f78f7b64f79a32f6e7fe34843d0"
+        },
+        {
+            "question": "Those pyramids …………………. around 400 AD.",
+            "description": "",
+            "answers": [
+                "built",
+                "were built"
+            ],
+            "correct": 1,
+            "id": "b22e4912bba74776a7214f3384fd3170"
+        },
+        {
+            "question": "All the trouble ………………… .. by your mother.",
+            "description": "",
+            "answers": [
+                "has caused",
+                "was caused"
+            ],
+            "correct": 1,
+            "id": "c4572346fcd843dabd6088039266abdc"
+        },
+        {
+            "question": "The visitors …………………. a collection of old manuscripts.",
+            "description": "",
+            "answers": [
+                "were shown",
+                "have shown"
+            ],
+            "correct": 0,
+            "id": "5bdb7680ef284112b8aae9abaef4e4f6"
+        },
+        {
+            "question": "I …………………. him ten thousand pounds last year.",
+            "description": "",
+            "answers": [
+                "lend",
+                "lent"
+            ],
+            "correct": 1,
+            "id": "11cbcef265534b42be26dd3787c983af"
+        },
+        {
+            "question": "She ………………… of spiders.",
+            "description": "",
+            "answers": [
+                "frightened",
+                "is frightened"
+            ],
+            "correct": 1,
+            "id": "cf4ddaeccb6844ff8d84c92ddad88b7e"
+        },
+        {
+            "question": "That picture …………………. by my grandmother.",
+            "description": "",
+            "answers": [
+                "painted",
+                "has painted",
+                "was painted"
+            ],
+            "correct": 2,
+            "id": "a043aee9881e4a9fae433325ce8d4385"
+        },
+        {
+            "question": "I ………………….. by his attitude.",
+            "description": "",
+            "answers": [
+                "shocked",
+                "was shocked",
+                "have shocked"
+            ],
+            "correct": 1,
+            "id": "9c58a284e0e946888ae5f88891ec1ac9"
+        },
+        {
+            "question": "Excuse the mess. The house …………………",
+            "description": "",
+            "answers": [
+                "is painting",
+                "is painted",
+                "is being painted"
+            ],
+            "correct": 2,
+            "id": "9f8aae3308914adda3f0f476f9fd68a3"
+        },
+        {
+            "question": "I knew why I ………………….",
+            "description": "",
+            "answers": [
+                "had chosen",
+                "had been chosen"
+            ],
+            "correct": 1,
+            "id": "82031c9b5921425580550b477c9a8d1a"
+        }
+    ]
+}

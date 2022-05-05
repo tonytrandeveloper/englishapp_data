@@ -1,0 +1,114 @@
+{
+    "id": "cdedaa3c4fdd4188b975dc60e5738da7",
+    "title": "Question Tags Exercise",
+    "questions": [
+        {
+            "question": "You are the new secretary, ………………………..?",
+            "description": "",
+            "answers": [
+                "are you",
+                "aren't you",
+                "were you"
+            ],
+            "correct": 1,
+            "id": "665d1274e07042198f1d3c3605f881a7"
+        },
+        {
+            "question": "The meeting is at four o’clock, ………………………………?",
+            "description": "",
+            "answers": [
+                "is it",
+                "isn't it",
+                "has it"
+            ],
+            "correct": 1,
+            "id": "b4aa2c94f8eb49bb802aa40aa5c9b3b8"
+        },
+        {
+            "question": "You didn’t meet him, ……………………………….?",
+            "description": "",
+            "answers": [
+                "didn't you",
+                "did you"
+            ],
+            "correct": 1,
+            "id": "ffd49ba3a5894821876351594999cc6d"
+        },
+        {
+            "question": "You like flowers, ………………………………..?",
+            "description": "",
+            "answers": [
+                "do you",
+                "don't you"
+            ],
+            "correct": 1,
+            "id": "d7129e20b06449ed92bbc96e3e79d60b"
+        },
+        {
+            "question": "You haven’t seen my keys, ……………………………….?",
+            "description": "",
+            "answers": [
+                "have you",
+                "haven't you",
+                "had you"
+            ],
+            "correct": 0,
+            "id": "88194715627e4b9695476d56c62181ed"
+        },
+        {
+            "question": "Harry gave you a gift, ………………………………..?",
+            "description": "",
+            "answers": [
+                "does he",
+                "did he",
+                "didn't he"
+            ],
+            "correct": 2,
+            "id": "28c8996c70a246bf9f67989cca5c3c12"
+        },
+        {
+            "question": "Let’s have a party, ……………………………….?",
+            "description": "",
+            "answers": [
+                "shall we",
+                "can we",
+                "should we"
+            ],
+            "correct": 0,
+            "id": "bd1012623f464b5ea2291c0a896fc294"
+        },
+        {
+            "question": "There aren’t any problems, ……………………………?",
+            "description": "",
+            "answers": [
+                "are there",
+                "aren't there",
+                "don't there"
+            ],
+            "correct": 0,
+            "id": "20bc564acb07488c8d88e1b7b263625a"
+        },
+        {
+            "question": "Nothing can happen, ……………………….?",
+            "description": "",
+            "answers": [
+                "can nothing",
+                "can it",
+                "can't it"
+            ],
+            "correct": 1,
+            "id": "0deec5de8a99426eb5e7a6e6f1154b42"
+        },
+        {
+            "question": "Nobody phoned, ………………………….?",
+            "description": "",
+            "answers": [
+                "did they",
+                "didn't they",
+                "had they"
+            ],
+            "correct": 0,
+            "id": "45528b4b890b4065a53ec9b9b8479d62"
+        }
+    ]
+}

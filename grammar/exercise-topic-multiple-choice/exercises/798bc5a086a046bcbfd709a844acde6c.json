@@ -1,0 +1,138 @@
+{
+    "id": "798bc5a086a046bcbfd709a844acde6c",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "There ………………………….. a famine in Bengal in",
+            "description": "We use the simple past to talk about finished actions and situations. ",
+            "answers": [
+                "was",
+                "were",
+                "had been"
+            ],
+            "correct": 0,
+            "id": "ce560a09b7cf4670b5573a38c2f5be06"
+        },
+        {
+            "question": "Gandhi …………………………… in the principle of non-violence.",
+            "description": "",
+            "answers": [
+                "believed",
+                "has believed",
+                "believes"
+            ],
+            "correct": 0,
+            "id": "f02fa12af83c4c7087a13a914dd4ef62"
+        },
+        {
+            "question": "They have not …………………………. yet.",
+            "description": "We use a past participle form after has, have and had.",
+            "answers": [
+                "arrive",
+                "arriving",
+                "arrived"
+            ],
+            "correct": 2,
+            "id": "74f589b81fe24971a82cac5ef26ddbd8"
+        },
+        {
+            "question": "She ………………………… not want to quit her job.",
+            "description": "We make questions and negatives in the simple present tense with do and does. We use does with singular nouns and pronouns. ",
+            "answers": [
+                "has",
+                "do",
+                "does"
+            ],
+            "correct": 2,
+            "id": "38fc9a6ff87b4b78ac0d78ddc7253a5e"
+        },
+        {
+            "question": "The ozone layer ……………………………… us from harmful ultraviolet radiations.",
+            "description": "We use the simple present to talk about facts. ",
+            "answers": [
+                "protect",
+                "protects",
+                "is protecting"
+            ],
+            "correct": 1,
+            "id": "56d0a862c13249ba94c723053524a9a8"
+        },
+        {
+            "question": "She ……………………………… her studies before she went abroad.",
+            "description": "We use the past perfect for the earlier of two past actions. ",
+            "answers": [
+                "completed",
+                "has completed",
+                "had completed"
+            ],
+            "correct": 2,
+            "id": "bfdcd53785334a5bb96a350831b9b218"
+        },
+        {
+            "question": "I …………………………….. him on several occasions before he went to America.",
+            "description": "We use the past perfect for the earlier of two past actions or situations. ",
+            "answers": [
+                "met",
+                "have met",
+                "had met"
+            ],
+            "correct": 2,
+            "id": "93a857a505e4409899a9790102f6c7d5"
+        },
+        {
+            "question": "Jenny …………………………….. alone in her apartment.",
+            "description": "We use the simple present to talk about facts. ",
+            "answers": [
+                "live",
+                "lives",
+                "is living"
+            ],
+            "correct": 1,
+            "id": "b82357cfac9a4a7f9bab32c534a1559b"
+        },
+        {
+            "question": "When I was young, I …………………………… every day.",
+            "description": "We use the simple past to talk about past habits. ",
+            "answers": [
+                "worked out",
+                "was working out",
+                "had worked out"
+            ],
+            "correct": 0,
+            "id": "a850cb58352f4cffb5ea5281f3e1d07d"
+        },
+        {
+            "question": "We ……………………………. for Malaysia tonight.",
+            "description": "We use the present continuous to talk about pre-planned future events. ",
+            "answers": [
+                "leave",
+                "will leave",
+                "are leaving"
+            ],
+            "correct": 2,
+            "id": "961f7c35ac304648bdc827bf6a441d4f"
+        },
+        {
+            "question": "Barking dogs seldom …………………………….",
+            "description": "",
+            "answers": [
+                "bite",
+                "will bite",
+                "would bite"
+            ],
+            "correct": 0,
+            "id": "cbd3793639ad48e09fd4c53876c64473"
+        },
+        {
+            "question": "Did you ………………………………. him yesterday?",
+            "description": "We use the first form of the verb after do, does and did.",
+            "answers": [
+                "see",
+                "saw",
+                "seen"
+            ],
+            "correct": 0,
+            "id": "5c6073f339a24ec191665e38ad696682"
+        }
+    ]
+}

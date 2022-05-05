@@ -1,0 +1,141 @@
+{
+    "id": "6fb35ee516c7415199e2409accd93819",
+    "title": "Prepositions After Verbs, Nouns And Adjectives",
+    "questions": [
+        {
+            "question": "I am interested ...................... learning to fly.",
+            "description": "",
+            "answers": [
+                "in",
+                "on",
+                "at",
+                "for"
+            ],
+            "correct": 0,
+            "id": "56bf15905c514c2da0bf61f29f2a3213"
+        },
+        {
+            "question": "John's criticism ......................... the plan made him unpopular.",
+            "description": "The noun criticism needs a preposition to connect it to a noun or ing form. ",
+            "answers": [
+                "for",
+                "of",
+                "about"
+            ],
+            "correct": 1,
+            "id": "22c14093765246d190fcb4ffd6d88683"
+        },
+        {
+            "question": "He has always been critical ......................... me.",
+            "description": "",
+            "answers": [
+                "with",
+                "of",
+                "about"
+            ],
+            "correct": 1,
+            "id": "2c0f567d61b5406eb63146be1d5960f6"
+        },
+        {
+            "question": "I resent .................................. on weekends.",
+            "description": "Some verbs can be followed by nouns or ing forms with no preposition. Resent is one of them. ",
+            "answers": [
+                "working",
+                "for working",
+                "about working"
+            ],
+            "correct": 0,
+            "id": "ece8089fd24545329ae6ecf3e414e9bb"
+        },
+        {
+            "question": "My resentment .................................. working on holidays made me unpopular with my boss.",
+            "description": "Resentment is followed by of. ",
+            "answers": [
+                "of",
+                "for",
+                "with"
+            ],
+            "correct": 0,
+            "id": "9244f1e93f4946f09d67880ad3f6df0d"
+        },
+        {
+            "question": "I feel resentful ......................... working on Sundays.",
+            "description": "",
+            "answers": [
+                "for",
+                "of",
+                "about"
+            ],
+            "correct": 2,
+            "id": "0760f7cc14534966adf0da82a50ca6f3"
+        },
+        {
+            "question": "She ignored our worries ........................... her health.",
+            "description": "We worry about something. ",
+            "answers": [
+                "of",
+                "about",
+                "for"
+            ],
+            "correct": 1,
+            "id": "4372e096020747bbb1cefdc718077ec9"
+        },
+        {
+            "question": "I can only sympathize ......................... you.",
+            "description": "We sympathize with people. We do not sympathize for or at them. ",
+            "answers": [
+                "for",
+                "with",
+                "at"
+            ],
+            "correct": 1,
+            "id": "32862cc0ff1c40239714aca9f4ea68eb"
+        },
+        {
+            "question": "I feel great sympathy ........................ her.",
+            "description": "",
+            "answers": [
+                "with",
+                "at",
+                "for",
+                "about"
+            ],
+            "correct": 2,
+            "id": "2f748960072e479ebc331a09cd361b7c"
+        },
+        {
+            "question": "I feel sympathetic ............................. the poor.",
+            "description": "Sympathetic is followed by towards. ",
+            "answers": [
+                "for",
+                "with",
+                "at",
+                "towards"
+            ],
+            "correct": 3,
+            "id": "2d16fc364c1b46fcb44829f66de96048"
+        },
+        {
+            "question": "I had given up hope ........................ seeing her again.",
+            "description": "Hope is followed by of + noun/ing form. ",
+            "answers": [
+                "for",
+                "to",
+                "of"
+            ],
+            "correct": 2,
+            "id": "93dbb7b64a4140ea962ee5683e05fc6e"
+        },
+        {
+            "question": "She ....................... the station last night.",
+            "description": "A preposition is usually necessary before an expression of place. ",
+            "answers": [
+                "arrived",
+                "arrived at",
+                "arrived to"
+            ],
+            "correct": 1,
+            "id": "fca6cbd9b2134f149588ccf8f28ec15b"
+        }
+    ]
+}

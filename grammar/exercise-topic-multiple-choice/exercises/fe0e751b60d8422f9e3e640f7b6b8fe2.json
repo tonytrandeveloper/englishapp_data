@@ -1,0 +1,135 @@
+{
+    "id": "fe0e751b60d8422f9e3e640f7b6b8fe2",
+    "title": "Intermediate Level Grammar Exercise",
+    "questions": [
+        {
+            "question": "There is nobody ………………………",
+            "description": "No article is used in the expression at home.",
+            "answers": [
+                "home",
+                "at home",
+                "at the home"
+            ],
+            "correct": 1,
+            "id": "5f45d06d643c4072bc205a32f514fee2"
+        },
+        {
+            "question": "I am going ……………………..",
+            "description": "Home is used without to as an adverb referring to direction.",
+            "answers": [
+                "home",
+                "to home",
+                "to the home"
+            ],
+            "correct": 0,
+            "id": "bd9be17ccbba4690ad3d6334fd7eea7e"
+        },
+        {
+            "question": "That scandal destroyed his ……………………… career.",
+            "description": "Political means connected with politics.",
+            "answers": [
+                "politic",
+                "political"
+            ],
+            "correct": 1,
+            "id": "7729a666a6c54d25a8201f9a91f6ad69"
+        },
+        {
+            "question": "I don’t think it is …………………….. to ask for his help now.",
+            "description": "Politic can mean wise or prudent.",
+            "answers": [
+                "politic",
+                "political"
+            ],
+            "correct": 0,
+            "id": "8fc02539dbcb482a9484af7fec88085d"
+        },
+        {
+            "question": "I knew something was wrong ……………………… I arrived.",
+            "description": "In British English, immediately can be used as a conjunction, to mean ‘as soon as’.",
+            "answers": [
+                "immediately",
+                "as soon as",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "a0d6c0b01e91486197368ea58ed41311"
+        },
+        {
+            "question": "I am taking an umbrella …………………… it rains.",
+            "description": "We use in case to suggest that we are doing one thing now because another thing might happen later.",
+            "answers": [
+                "in case",
+                "in case of",
+                "if"
+            ],
+            "correct": 0,
+            "id": "ebb58263a5b648be94d4394e72e7d3d3"
+        },
+        {
+            "question": "People call the fire force …………………… their house catches fire.",
+            "description": "We use if to suggest that we will do one thing if another thing happens.",
+            "answers": [
+                "in case",
+                "if",
+                "in case of"
+            ],
+            "correct": 1,
+            "id": "e8b99c2f418947cbb7be6a2e3299bbd1"
+        },
+        {
+            "question": "I don’t think his stories deserve ……………………",
+            "description": "The -ing form has a passive meaning after deserve. Deserve reading means the same as deserve to be read. ",
+            "answers": [
+                "reading",
+                "to read",
+                "to be read"
+            ],
+            "correct": 2,
+            "id": "cc47b2de5fbe403086771f71f062a68d"
+        },
+        {
+            "question": "Do you object to ………………….. on the weekend?",
+            "description": "When to is a preposition, it is followed by an ing form. This usually happens after expressions like object to and in addition to.",
+            "answers": [
+                "working",
+                "work",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "2973edf966e44d7ba3f10683c0e26ef3"
+        },
+        {
+            "question": "Only after her death …………………….. able to understand her.",
+            "description": "We use inversion after restrictive words like hardly, seldom, rarely, only etc.",
+            "answers": [
+                "I was",
+                "Was I"
+            ],
+            "correct": 1,
+            "id": "7c37c2451bd7497faa3bcd19198396ec"
+        },
+        {
+            "question": "I …………………… down and closed my eyes.",
+            "description": "Lay is the past tense of lie.",
+            "answers": [
+                "lay",
+                "lied",
+                "lain"
+            ],
+            "correct": 0,
+            "id": "bf9dd701684548a19bc0940a2be50720"
+        },
+        {
+            "question": "You can make wine ……………………….. gooseberries.",
+            "description": "We use make from when a material is changed into a completely different form to make something.",
+            "answers": [
+                "of",
+                "out of",
+                "from"
+            ],
+            "correct": 2,
+            "id": "825cc9a632f243ed8786c2dce9bfb522"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": "23e2a69212f24f358203a4c9af809103",
+    "title": "Phrasal Verbs Exercise",
+    "questions": [
+        {
+            "question": "I don't want you to bring ........................... that topic again.",
+            "description": "To bring up a topic is to mention it.",
+            "answers": [
+                "out",
+                "on",
+                "up"
+            ],
+            "correct": 2,
+            "id": "96032ab2172942bea4a75734fd14c0ad"
+        },
+        {
+            "question": "The teacher asked the boy to do the exercise .............................",
+            "description": "To do something over is to repeat it.",
+            "answers": [
+                "on",
+                "over",
+                "in"
+            ],
+            "correct": 1,
+            "id": "8ba5ba695fd0489391453169afec9680"
+        },
+        {
+            "question": "She filled ................................ the bottle with water.",
+            "description": "To fill up a bottle is to fill it to capacity.",
+            "answers": [
+                "out",
+                "in",
+                "up"
+            ],
+            "correct": 2,
+            "id": "79f93fed451545cbb922ffa2f46cc241"
+        },
+        {
+            "question": "I found that she had been saying nasty things about me behind my ............................",
+            "description": "To do something behind someone's back is to do something without their knowledge.",
+            "answers": [
+                "head",
+                "back"
+            ],
+            "correct": 1,
+            "id": "1d0218dc1b704a34997ba9fca3402526"
+        },
+        {
+            "question": "The restaurant was giving ................................. free food.",
+            "description": "To give something away is to give it for free.",
+            "answers": [
+                "off",
+                "away",
+                "in"
+            ],
+            "correct": 1,
+            "id": "fc38a16521d94525a28e243b39ee594a"
+        },
+        {
+            "question": "When are you going to give me my money .................................?",
+            "description": "To give something back is to return it.",
+            "answers": [
+                "back",
+                "again",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "1a0f4ceef9764c2db1d2e8117259cd91"
+        },
+        {
+            "question": "Put ............................... your coat before going out.",
+            "description": "To put on a coat is to wear it.",
+            "answers": [
+                "up",
+                "on",
+                "over"
+            ],
+            "correct": 1,
+            "id": "62cfe66a8ec445fbb67848518e851fae"
+        },
+        {
+            "question": "We use a fire extinguisher to put ............................... fire.",
+            "description": "To put out fire is to extinguish it.",
+            "answers": [
+                "off",
+                "out",
+                "up"
+            ],
+            "correct": 1,
+            "id": "85a2627b55d5477a827fa5b222b6a884"
+        },
+        {
+            "question": "Please take ................................ these instructions lest you should forget them.",
+            "description": "To take down is to make a written note.",
+            "answers": [
+                "up",
+                "off",
+                "down"
+            ],
+            "correct": 2,
+            "id": "8d934cd90bad4095bb2ba7501d87ad41"
+        },
+        {
+            "question": "You must put .................................... some money for your retirement.",
+            "description": "To put something away is to save or store it.",
+            "answers": [
+                "off",
+                "away",
+                "on"
+            ],
+            "correct": 1,
+            "id": "0fa4fe44f6754d748bc6ce7746380a96"
+        },
+        {
+            "question": "Although he deserved the job, his application was turned ..............................",
+            "description": "To turn something down is to reject it.",
+            "answers": [
+                "out",
+                "down",
+                "off"
+            ],
+            "correct": 1,
+            "id": "fd80522187cd4c34916cd532a0116ee2"
+        },
+        {
+            "question": "We should not throw .................................. anything useful.",
+            "description": "To throw something away is to discard it.",
+            "answers": [
+                "up",
+                "off",
+                "away"
+            ],
+            "correct": 2,
+            "id": "b96a866ced934b459cb062652f8f9d1e"
+        }
+    ]
+}

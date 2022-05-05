@@ -1,0 +1,116 @@
+{
+    "id": "5bcc12bb0916405fb6b280a6d6cfb387",
+    "title": "Conditional Clauses Exercise",
+    "questions": [
+        {
+            "question": "If you …………………  hard, you will get a first class.",
+            "description": "",
+            "answers": [
+                "study",
+                "studied",
+                "had studied"
+            ],
+            "correct": 0,
+            "id": "188e99345fef4424aa690ab484543c0b"
+        },
+        {
+            "question": "If I …………………… the key, I will give it to you.",
+            "description": "",
+            "answers": [
+                "find",
+                "found",
+                "had found"
+            ],
+            "correct": 0,
+            "id": "3e1ba5cdec094cbe868fa666fd123fed"
+        },
+        {
+            "question": "If we …………………… now, we could be in time.",
+            "description": "",
+            "answers": [
+                "start",
+                "started",
+                "had started"
+            ],
+            "correct": 1,
+            "id": "41fbd3cde0064c58b88a0b12ee2cb86c"
+        },
+        {
+            "question": "If it ……………………, the match may be cancelled.",
+            "description": "",
+            "answers": [
+                "rains",
+                "rained",
+                "had rained"
+            ],
+            "correct": 0,
+            "id": "fe379ca49ad64cd68b98c99a54262290"
+        },
+        {
+            "question": "If you …………………… a millionaire, how would you spend your time?",
+            "description": "",
+            "answers": [
+                "am",
+                "were",
+                "had been"
+            ],
+            "correct": 1,
+            "id": "87cccbe27a80441aac5a1a87d585fd53"
+        },
+        {
+            "question": "If he ……………………… smoking, he might get well.",
+            "description": "",
+            "answers": [
+                "stopped",
+                "stops",
+                "had stopped"
+            ],
+            "correct": 0,
+            "id": "efc3897cf3bd424586d1de3ef7e4414d"
+        },
+        {
+            "question": "If he …………………  English, he could find a good job.",
+            "description": "",
+            "answers": [
+                "speaks",
+                "spoke",
+                "had spoken"
+            ],
+            "correct": 1,
+            "id": "7b26285348f74333ab205c509a01eab5"
+        },
+        {
+            "question": "If he ………………………, he would have succeeded.",
+            "description": "",
+            "answers": [
+                "tries",
+                "tried",
+                "had tried"
+            ],
+            "correct": 2,
+            "id": "7d13e83b00ee453a97ff1d199a5ab4f5"
+        },
+        {
+            "question": "If you …………………… that wasp alone, it might not have stung you.",
+            "description": "",
+            "answers": [
+                "leave",
+                "left",
+                "had left"
+            ],
+            "correct": 2,
+            "id": "1a5b2cd1448a4c73999715b6b37d27ee"
+        },
+        {
+            "question": "If I …………………, I could have married anybody.",
+            "description": "",
+            "answers": [
+                "want",
+                "wanted",
+                "had wanted"
+            ],
+            "correct": 2,
+            "id": "abc4d32af14e4374a92e59f456c9a055"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "id": "99f958c7b9d24773a20ae96e210e2cb6",
+    "title": "Perfect Tenses Exercise",
+    "questions": [
+        {
+            "question": "We .................................. in this city since",
+            "description": "",
+            "answers": [
+                "live",
+                "lived",
+                "have lived"
+            ],
+            "correct": 2,
+            "id": "1964bf09da28417a93cad7cd801fee7c"
+        },
+        {
+            "question": "Tom ................................. with us for ten years before he joined another company.",
+            "description": "",
+            "answers": [
+                "work",
+                "had worked",
+                "has worked"
+            ],
+            "correct": 1,
+            "id": "863c48ef80cd404aaaac2da25c31de39"
+        },
+        {
+            "question": "How long ........................................ with your current employer?",
+            "description": "",
+            "answers": [
+                "are you working",
+                "have you been working",
+                "were you working"
+            ],
+            "correct": 1,
+            "id": "bac324bd98f24a98aa16df8fda43c07f"
+        },
+        {
+            "question": "I ..................................... that novel ten times in my life.",
+            "description": "",
+            "answers": [
+                "read",
+                "have read",
+                "am reading"
+            ],
+            "correct": 1,
+            "id": "fe73bb7e5f4d4f1b8a96971bc6a4a65a"
+        },
+        {
+            "question": "I ........................................... him for ten years.",
+            "description": "",
+            "answers": [
+                "knew",
+                "know",
+                "have known"
+            ],
+            "correct": 2,
+            "id": "0705a083871c4bccb0a7dea347220119"
+        },
+        {
+            "question": "I have known him for several years. I first ................................... him in London.",
+            "description": "",
+            "answers": [
+                "meet",
+                "met",
+                "have met"
+            ],
+            "correct": 1,
+            "id": "f227267859614e3caeafd34423eeb60b"
+        },
+        {
+            "question": "Where have you been since I last ................................ you?",
+            "description": "",
+            "answers": [
+                "see",
+                "saw",
+                "have seen"
+            ],
+            "correct": 1,
+            "id": "a6a1cda3411f4074972087dfacd81f16"
+        },
+        {
+            "question": "She ..................................... to be an actor since she was a child.",
+            "description": "",
+            "answers": [
+                "wanted",
+                "has wanted",
+                "wants"
+            ],
+            "correct": 1,
+            "id": "1a6c09e7700d4a0dad9139af87241904"
+        },
+        {
+            "question": "I ..................................... to London in",
+            "description": "",
+            "answers": [
+                "go",
+                "went",
+                "had gone"
+            ],
+            "correct": 1,
+            "id": "a840480eac4648718f2ac4ec85d44e75"
+        },
+        {
+            "question": "She .................................. in three films. Her first film came in",
+            "description": "",
+            "answers": [
+                "acted",
+                "has acted",
+                "acts"
+            ],
+            "correct": 1,
+            "id": "d867880fa84a4e599cb70533ff1fc763"
+        }
+    ]
+}

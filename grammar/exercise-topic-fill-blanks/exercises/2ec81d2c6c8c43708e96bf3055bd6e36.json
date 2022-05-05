@@ -1,0 +1,206 @@
+{
+    "id": "2ec81d2c6c8c43708e96bf3055bd6e36",
+    "title": "Past Perfect Continuous Positive",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had been working",
+                        "'d been working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(work) all day, so I didn't want to go out.."
+                }
+            ],
+            "id": "4e647517e72840f5904a0597d288527b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had been sleeping",
+                        "'d been sleeping"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(sleep) for ten hours when I woke her."
+                }
+            ],
+            "id": "ddbeeefa4f7546d59694021627b20097"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had been living",
+                        "'d been living"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in Beijing for three years when he lost his job."
+                }
+            ],
+            "id": "afd3a35d3f624677ba8f79f8d128660a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When we met, you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had been working",
+                        "'d been working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(work) at that company for six months."
+                }
+            ],
+            "id": "07119227bd94415dbb18112fe4e69f74"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had been eating",
+                        "'d been eating"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) all day, so we felt a bit ill."
+                }
+            ],
+            "id": "307cedf585f94de78a463720b43ab24c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He was red in the face because he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had been running",
+                        "'d been running"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(run) ."
+                }
+            ],
+            "id": "541241e3c5c34ae080b88afd54029c7a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had been raining",
+                        "'d been raining"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(rain) and the road was covered in water."
+                }
+            ],
+            "id": "504da49fbbd64151819e411c0dcd6965"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I was really tired because I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had been studying",
+                        "'d been studying"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) ."
+                }
+            ],
+            "id": "51b11bd985844b909cfcec2a85f2c402"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had been going",
+                        "'d been going out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) out for three years when we got married."
+                }
+            ],
+            "id": "235638a54ea74a0381e28d0bd55544aa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had been snowing",
+                        "'d been snowing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(snow) for three days."
+                }
+            ],
+            "id": "4484141c72b349829002e9ef4428f963"
+        }
+    ]
+}

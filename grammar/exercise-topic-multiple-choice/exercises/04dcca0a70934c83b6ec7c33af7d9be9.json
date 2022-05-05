@@ -1,0 +1,128 @@
+{
+    "id": "04dcca0a70934c83b6ec7c33af7d9be9",
+    "title": "Subject-Verb Agreement",
+    "questions": [
+        {
+            "question": "The long and the short of the matter ………………………….. that we have been betrayed.",
+            "description": "The verb must be singular when two or more subjects together express one idea.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "a74fa54b20d14c3e98827d72401413df"
+        },
+        {
+            "question": "The chairman and the secretary …………………………………. present.",
+            "description": "The verb must be plural when two or more singular subjects are connected by and.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "9677eb1626ad4ab5a7d2e60e033aecab"
+        },
+        {
+            "question": "No nook or corner ……………………………… left unexplored.",
+            "description": "The verb must be singular when two or more singular subjects are connected by or.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "0ac64e2180c64a978ca3d8e8d2f1c9cc"
+        },
+        {
+            "question": "Neither Sam nor his brother …………………………….. present there.",
+            "description": "The verb must be singular when two or more singular subjects are connected by neither/nor.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "135eda0e08dc44a7bd8564cfea30b53d"
+        },
+        {
+            "question": "Does anyone …………………………… where Celia lives?",
+            "description": "The infinitive does not take the marker –s after do, does or did.",
+            "answers": [
+                "know",
+                "knows"
+            ],
+            "correct": 0,
+            "id": "113ab8e5c462427f8032a9a10f08f774"
+        },
+        {
+            "question": "……………………………… she in love with somebody else?",
+            "description": "",
+            "answers": [
+                "Is",
+                "Are",
+                "Does"
+            ],
+            "correct": 0,
+            "id": "1e3f13e06d9c49cca79ccd5089cd7baa"
+        },
+        {
+            "question": "He and I ……………………………. birds of the same feather.",
+            "description": "When two singular subjects are connected by and, the verb must be singular.",
+            "answers": [
+                "is",
+                "am",
+                "are"
+            ],
+            "correct": 2,
+            "id": "479b8d63c1444a9b89429ebb20b1f61a"
+        },
+        {
+            "question": "Everybody …………………………….. frustrated by the delay.",
+            "description": "We use a singular verb after everybody.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "0e09fe89ca3f40d78cc821eea99d1649"
+        },
+        {
+            "question": "Tell the children to raise their …………………………….",
+            "description": "We usually use a plural noun after a plural possessive. ",
+            "answers": [
+                "hand",
+                "hands"
+            ],
+            "correct": 1,
+            "id": "4643c81047514e8fa2eb43d8c566d892"
+        },
+        {
+            "question": "Many people lost their …………………………… in the accident.",
+            "description": "",
+            "answers": [
+                "lives",
+                "life"
+            ],
+            "correct": 0,
+            "id": "4bc7bcafd5b640e991f58003731887e5"
+        },
+        {
+            "question": "Neither the minister nor his secretary ………………………………. able to give a satisfactory explanation.",
+            "description": "",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "bd1731b7fb2044be8f7ea645f268229e"
+        },
+        {
+            "question": "A good knowledge of at least three languages …………………………… essential for this job.",
+            "description": "Here the actual subject is the singular noun knowledge. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "7445e7bd0c6e4adeb1c49b0f1c72cf45"
+        }
+    ]
+}

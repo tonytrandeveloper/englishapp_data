@@ -1,0 +1,137 @@
+{
+    "id": "0c08d9e1853b4e3cb57199a8a2c087f2",
+    "title": "Simple past or present perfect tense exercise",
+    "questions": [
+        {
+            "question": "His father ............................... last year.",
+            "description": "When there is a definite past time reference we use the simple past tense.",
+            "answers": [
+                "died",
+                "has died"
+            ],
+            "correct": 0,
+            "id": "3b306fdc6ed14ac9ae1400ec4d57e540"
+        },
+        {
+            "question": "James ........................................ school at fourteen.",
+            "description": "When there is a definite past time reference we use the simple past tense.",
+            "answers": [
+                "has left",
+                "left",
+                "had left"
+            ],
+            "correct": 1,
+            "id": "99ec4368159c4a93b7340872b93b8dda"
+        },
+        {
+            "question": "I .................................. him for ten years.",
+            "description": "To talk about an action or situation that started in the past and has continued up to the present we use the present perfect tense.\r\n",
+            "answers": [
+                "knew",
+                "know",
+                "have known"
+            ],
+            "correct": 2,
+            "id": "c031f9f69ec647eda39a96174ecf4654"
+        },
+        {
+            "question": "I ................................. all of her novels.",
+            "description": "When there is no definite time reference we use the present perfect tense.",
+            "answers": [
+                "read",
+                "have read",
+                "has read"
+            ],
+            "correct": 1,
+            "id": "4775f62c77dd40f68fa18b36ab1f707d"
+        },
+        {
+            "question": "You .................................... me for anything.",
+            "description": "When there is no definite time reference we use the present perfect tense.",
+            "answers": [
+                "never thanked",
+                "have never thanked",
+                "had never thanked"
+            ],
+            "correct": 1,
+            "id": "e1ced6432cbb40c1a00f2bf2b7cbf7d7"
+        },
+        {
+            "question": "I .................................... a strange experience last night.",
+            "description": "When there is a definite past time reference, we use the simple past tense.",
+            "answers": [
+                "had",
+                "have had",
+                "had had"
+            ],
+            "correct": 0,
+            "id": "45f216c8400340ffb925ca54fce86311"
+        },
+        {
+            "question": "Suddenly I .................................. a knock on the door.",
+            "description": "We use the simple past tense to simply state that something happened in the past.",
+            "answers": [
+                "have heard",
+                "heard",
+                "was hearing"
+            ],
+            "correct": 1,
+            "id": "5c3886a2201a44ab93303e3cfb48d7ef"
+        },
+        {
+            "question": "There ................................ no one to rescue the child.",
+            "description": "We use the simple past tense to state that something happened or didn't happen in the past.",
+            "answers": [
+                "has been",
+                "was",
+                "had been"
+            ],
+            "correct": 1,
+            "id": "1c5773e85653430abe939d3d9d60deb1"
+        },
+        {
+            "question": "The fox .................................. to eat the bunch of grapes hanging from the vine.",
+            "description": "We use the simple past tense to say that something happened in the past.",
+            "answers": [
+                "has wanted",
+                "wanted",
+                "had wanted"
+            ],
+            "correct": 1,
+            "id": "b669003bf4cf4889b2ce55fa85867be6"
+        },
+        {
+            "question": "This castle ................................... in the 16th century.",
+            "description": "When there is a definite past time reference we use the simple past tense.",
+            "answers": [
+                "has been built",
+                "had been built",
+                "was built"
+            ],
+            "correct": 2,
+            "id": "3ac6832adb3e4e7f8852ca99de3e47ba"
+        },
+        {
+            "question": "I ................................... pity for the poor beggar.",
+            "description": "We use the simple past tense to say that something happened in the past.",
+            "answers": [
+                "have felt",
+                "had felt",
+                "felt"
+            ],
+            "correct": 2,
+            "id": "7918db71eb084660b5a3954a682652c7"
+        },
+        {
+            "question": "You .................................... for the grand finale.",
+            "description": "When there is no definite time reference we use the present perfect tense.",
+            "answers": [
+                "have selected",
+                "were",
+                "have been selected"
+            ],
+            "correct": 2,
+            "id": "c137ae9a96024631af793da0338a02ae"
+        }
+    ]
+}

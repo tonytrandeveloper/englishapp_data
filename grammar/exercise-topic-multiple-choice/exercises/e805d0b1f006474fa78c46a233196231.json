@@ -1,0 +1,139 @@
+{
+    "id": "e805d0b1f006474fa78c46a233196231",
+    "title": "Intermediate Grammar Exercise",
+    "questions": [
+        {
+            "question": "It is time we .......................",
+            "description": "After it’s time, we use a past tense to refer to the present or future.",
+            "answers": [
+                "leave",
+                "have left",
+                "left"
+            ],
+            "correct": 2,
+            "id": "a97f56098ce4410a8b5d69e81ef23700"
+        },
+        {
+            "question": "I …………….. them a couple of times when I was in London.",
+            "description": "We use the simple past with expressions referring to the past.",
+            "answers": [
+                "visited",
+                "have visited",
+                "had visited"
+            ],
+            "correct": 0,
+            "id": "f007f3149dbd4fceb7f1440e04e2c32d"
+        },
+        {
+            "question": "I ………………….. him before.",
+            "description": "When there is no reference to a definite point of time in the past, we use a present perfect tense to talk about past events.",
+            "answers": [
+                "never met",
+                "have never met",
+                "never meet"
+            ],
+            "correct": 1,
+            "id": "dd0adf9247724c89963ea24ba35f6620"
+        },
+        {
+            "question": "I ………………….. it if I were you.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause.",
+            "answers": [
+                "would buy",
+                "would have bought",
+                "will buy"
+            ],
+            "correct": 0,
+            "id": "d4a645eefec24dbc903a4d382e6e2f63"
+        },
+        {
+            "question": "It’s a long time ……………. I went there.",
+            "description": "",
+            "answers": [
+                "since",
+                "for",
+                "from"
+            ],
+            "correct": 0,
+            "id": "37d57d07b89744e985872b2420bd0185"
+        },
+        {
+            "question": "She is ……………… today.",
+            "description": "Better is the comparative form of good. We cannot say ‘more good’.",
+            "answers": [
+                "much better",
+                "much more better",
+                "much more good",
+                "much good"
+            ],
+            "correct": 0,
+            "id": "492185c9482d489a88ba8cd333c73b1e"
+        },
+        {
+            "question": "I was surprised to see that ……………. James was there.",
+            "description": "We use ‘even’ to talk about surprising extremes. Even if and even though are conjunctions.",
+            "answers": [
+                "even",
+                "even if",
+                "even though"
+            ],
+            "correct": 0,
+            "id": "12a13ed8c48c4723873d6b6be0ae1d70"
+        },
+        {
+            "question": "I bought the watch ……………….. it was very expensive.",
+            "description": "Even though is the emphatic form of ‘though’. It has a past reference.",
+            "answers": [
+                "even though",
+                "even if",
+                "even as"
+            ],
+            "correct": 0,
+            "id": "b2ba558c652b448d840a903e36e59c92"
+        },
+        {
+            "question": "I will buy that watch …………………. it is very expensive.",
+            "description": "Even if has a future reference.",
+            "answers": [
+                "even if",
+                "even though",
+                "even"
+            ],
+            "correct": 0,
+            "id": "7640f99cec6d44c79589cd756d9a0936"
+        },
+        {
+            "question": "He ……………. the phone and quickly dialed the number.",
+            "description": "To reach for something is to stretch your arms to grab it.",
+            "answers": [
+                "reached",
+                "reached for",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "65906b89c52c4679b3b74a2c1fc2d111"
+        },
+        {
+            "question": "The first time I …………….. him was last year.",
+            "description": "We use the simple past with definite past time expressions.",
+            "answers": [
+                "met",
+                "meet",
+                "have met"
+            ],
+            "correct": 0,
+            "id": "e724fd932773486b9ad7c07aab862d19"
+        },
+        {
+            "question": "Take the certificates with you just in case they ……………… you a job.",
+            "description": "",
+            "answers": [
+                "offer",
+                "will offer",
+                "offered"
+            ],
+            "correct": 0,
+            "id": "abe795746f004be3bbcb1d6a1cbb65d9"
+        }
+    ]
+}

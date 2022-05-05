@@ -1,0 +1,419 @@
+{
+    "id": "664648c303d64a289db9fc43ed50708a",
+    "title": "Choose the Past Simple or Present Perfect Exercise 3",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "went"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the theatre last week."
+                }
+            ],
+            "id": "e4ce8263db304543aa513840ed8ce262"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Yesterday I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) dinner with a friend."
+                }
+            ],
+            "id": "95e7b1edcc864cbb9c0aaec10e16609d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "have never tasted",
+                        "'ve never tasted"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(never taste) champagne."
+                }
+            ],
+            "id": "5697819b7c1f46fda08c3ee232f17bdd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) a child, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "loved"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(love) ice-skating."
+                }
+            ],
+            "id": "a817a6d00b58499f924319c2bf943acc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "haven't had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/have) any coffee today - I feel very sleepy!"
+                }
+            ],
+            "id": "6ec5a2b6dc354086a46561dccb635086"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "didn't drink",
+                        "did not drink"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/drink) any coffee yesterday."
+                }
+            ],
+            "id": "f1d2f66231834d6cab7acb915204307f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve read",
+                        "have read"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(read) all his books - I think he's a wonderful writer."
+                }
+            ],
+            "id": "cb6d2e20f20f49abbf7130712878bd3a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "did you do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/do) at the weekend?"
+                }
+            ],
+            "id": "90a8086f6a3549a881d12c79a6de7510"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve always loved",
+                        "have always loved"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(always / love) tea - I drink it every day."
+                }
+            ],
+            "id": "f8a1bea881c2416b8980ff56a9b9182c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What subject"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "did she study"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/study) at university?"
+                }
+            ],
+            "id": "8a5837f759e047cb9b6f3da02556e1aa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s lost",
+                        "has lost"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(lose) his bus pass - can he borrow some money?"
+                }
+            ],
+            "id": "24fcf77183aa4c0d8dc275f9aced1ceb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "have you known"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/know) Susie for?"
+                }
+            ],
+            "id": "44d55e06946f44008f20995fcdde4c1e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) married for ten years (but he got divorced)."
+                }
+            ],
+            "id": "fcbca3270cf04031b89e592dc98b9109"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Have you ever been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/ever/go) to Central Park in new York?"
+                }
+            ],
+            "id": "e42074b7c54d412ba5bbba4841eeea25"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How many books"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has she written"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/write) so far??"
+                }
+            ],
+            "id": "29e47c9baf6a47c0b479c2fcc4f895cf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "washed"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(wash) the dishes,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "cleaned"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(clean) the living room, and"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "cooked"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(cook) dinner last night."
+                }
+            ],
+            "id": "46a235381ba64d29a362e29cf78083db"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My great-grandfather never"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "left"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) Scotland."
+                }
+            ],
+            "id": "88af4d9140914980bdf93adf6dcf1c23"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "came"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(come) to London in 1997."
+                }
+            ],
+            "id": "57bcb235c92d47c6b5720ce00c387355"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s never seen",
+                        "has never seen"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(never / see) snow before."
+                }
+            ],
+            "id": "9ff2e9d7b77446a79c4539d0903eeebd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s been",
+                        "has been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) married for thirty-five years (and he's still married now)."
+                }
+            ],
+            "id": "37f70fe34d84457f99040525ab563e4b"
+        }
+    ]
+}

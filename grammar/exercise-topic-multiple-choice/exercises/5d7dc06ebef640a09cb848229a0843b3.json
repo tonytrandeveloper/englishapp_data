@@ -1,0 +1,116 @@
+{
+    "id": "5d7dc06ebef640a09cb848229a0843b3",
+    "title": "Simple Past Tense Exercise",
+    "questions": [
+        {
+            "question": "I ………………… Joe in the morning.",
+            "description": "",
+            "answers": [
+                "met",
+                "have met",
+                "had met"
+            ],
+            "correct": 0,
+            "id": "2285dcf3488d4ebaa2039668a32c6fa9"
+        },
+        {
+            "question": "He …………………. recognize me.",
+            "description": "",
+            "answers": [
+                "didn't",
+                "doesn't",
+                "hasn't"
+            ],
+            "correct": 0,
+            "id": "00feb20f5a9f4ee2a4f68057651cb2c4"
+        },
+        {
+            "question": "She ………………… out of the window.",
+            "description": "",
+            "answers": [
+                "has looked",
+                "looked",
+                "had looked"
+            ],
+            "correct": 1,
+            "id": "5c0e72e47fcf4daba63386cae536d6d7"
+        },
+        {
+            "question": "Peter ………………. another window yesterday.",
+            "description": "",
+            "answers": [
+                "was breaking",
+                "broke",
+                "has broken"
+            ],
+            "correct": 1,
+            "id": "fb6eb1c23a2544debee8cd4052ddf6b8"
+        },
+        {
+            "question": "Deceived by his friends, he ………………. all hope.",
+            "description": "",
+            "answers": [
+                "lost",
+                "has lost",
+                "had lost"
+            ],
+            "correct": 0,
+            "id": "8d5893587b9c424d9f5bb76d5c622836"
+        },
+        {
+            "question": "The teacher ………………… the boy for misbehaving in the class.",
+            "description": "",
+            "answers": [
+                "has punished",
+                "punished",
+                "had punished"
+            ],
+            "correct": 1,
+            "id": "c9d4f4e5babf46be8766fcf407d064a4"
+        },
+        {
+            "question": "The cat …………….. all the milk.",
+            "description": "",
+            "answers": [
+                "had drunk",
+                "has drunk",
+                "drank"
+            ],
+            "correct": 2,
+            "id": "a0b022e012df466cb09fe6ac7fe867ee"
+        },
+        {
+            "question": "The bell ………………",
+            "description": "",
+            "answers": [
+                "rung",
+                "has rung",
+                "rang"
+            ],
+            "correct": 2,
+            "id": "8eabd9e243bf400c9b04550c4c1560e2"
+        },
+        {
+            "question": "The sailor ……………….. with the sinking ship.",
+            "description": "",
+            "answers": [
+                "has stayed",
+                "had stayed",
+                "stayed"
+            ],
+            "correct": 2,
+            "id": "3ae35c503d294cdea99b212e111a2a9e"
+        },
+        {
+            "question": "The boy …………………. if he could have another piece of cake.",
+            "description": "",
+            "answers": [
+                "has asked",
+                "asked",
+                "had asked"
+            ],
+            "correct": 1,
+            "id": "52707fca95894becb221a2411cafd8c4"
+        }
+    ]
+}

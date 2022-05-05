@@ -1,0 +1,126 @@
+{
+    "id": "b621445405414d1e8c2642685800dada",
+    "title": "Infinitive With Or Without To",
+    "questions": [
+        {
+            "question": "They didn't allow me ................................ the hall.",
+            "description": "Allow is followed by an infinitive with to.",
+            "answers": [
+                "enter",
+                "to enter"
+            ],
+            "correct": 1,
+            "id": "8f906a0b4bdc4ccabf2f19b8aee1edc5"
+        },
+        {
+            "question": "She didn't let me .................................. her room.",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "enter",
+                "to enter"
+            ],
+            "correct": 0,
+            "id": "a099aebeae8f4eb9a1a08e973d27b88e"
+        },
+        {
+            "question": "You ought ..................................... a doctor.",
+            "description": "Ought is followed by a to-infinitive.",
+            "answers": [
+                "consult",
+                "to consult"
+            ],
+            "correct": 1,
+            "id": "5c917df7d801402d807c6f9e27ffb5e1"
+        },
+        {
+            "question": "He is able ..................................... on his hands.",
+            "description": "Able is followed by a to-infinitive.",
+            "answers": [
+                "walk",
+                "to walk"
+            ],
+            "correct": 1,
+            "id": "59ebc0e51fba465ca472191f4db1294f"
+        },
+        {
+            "question": "She can ................................... with both hands.",
+            "description": "Can is followed by an infinitive without to.",
+            "answers": [
+                "write",
+                "to write"
+            ],
+            "correct": 0,
+            "id": "2e47be6516cb439e81afa3bd4889bbcf"
+        },
+        {
+            "question": "They made us ................................. for hours.",
+            "description": "Wait is followed by an infinitive without to.",
+            "answers": [
+                "wait",
+                "to wait"
+            ],
+            "correct": 0,
+            "id": "404bfa6e6cda4e7198217436125ff794"
+        },
+        {
+            "question": "I forgot ..................................... the letters.",
+            "description": "Forget is followed by an infinitive with to.",
+            "answers": [
+                "post",
+                "to post"
+            ],
+            "correct": 1,
+            "id": "189a0e911c1f443083f6e76a2c46e0ad"
+        },
+        {
+            "question": "I saw him .................................. the road.",
+            "description": "See is followed by an infinitive without to.",
+            "answers": [
+                "cross",
+                "to cross"
+            ],
+            "correct": 0,
+            "id": "ebc6f7ced74a4cb7a1ca2dd4b1c2817e"
+        },
+        {
+            "question": "I heard her ................................... on the phone.",
+            "description": "Hear is followed by an infinitive without to.",
+            "answers": [
+                "talk",
+                "to talk"
+            ],
+            "correct": 0,
+            "id": "64c8fd46806f42d8aaf7e58d38fb2759"
+        },
+        {
+            "question": "You needn't ................................... for me.",
+            "description": "When need is a modal auxiliary, it is followed by an infinitive without to.",
+            "answers": [
+                "wait",
+                "to wait"
+            ],
+            "correct": 0,
+            "id": "c4ce978052574ea89f6d4c2d13591800"
+        },
+        {
+            "question": "You don't need .................................... for that call.",
+            "description": "When need is an ordinary verb, it is followed by an infinitive with to.",
+            "answers": [
+                "pay",
+                "to pay"
+            ],
+            "correct": 1,
+            "id": "ee01161ccc42490284613d956422774b"
+        },
+        {
+            "question": "He refused ................................ to me.",
+            "description": "",
+            "answers": [
+                "talk",
+                "to talk"
+            ],
+            "correct": 1,
+            "id": "b1b1dd79c0c7481080613a201a0c2d5c"
+        }
+    ]
+}

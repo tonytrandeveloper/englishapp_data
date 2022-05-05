@@ -1,0 +1,137 @@
+{
+    "id": "28449d7806f34fc3883a5e7f8edd538f",
+    "title": "Each And Every",
+    "questions": [
+        {
+            "question": "I call my mother every ..................",
+            "description": "We use a singular noun after every.",
+            "answers": [
+                "week",
+                "weeks",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "b338a266b6954c9a9aa1b620158be8da"
+        },
+        {
+            "question": "There were shops on ............................ side of the street.",
+            "description": "Each is used to speak of two or more people or things. Every is used to speak of more than two people or things.",
+            "answers": [
+                "each",
+                "every",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "eae18479a6984bea9e6d4b7391c657bb"
+        },
+        {
+            "question": "The two brothers love ............................ other.",
+            "description": "The correct expression is each other.",
+            "answers": [
+                "each",
+                "every"
+            ],
+            "correct": 0,
+            "id": "3c626b721f454997a5d24f35970bf189"
+        },
+        {
+            "question": "Everyone ............................. arrived.",
+            "description": "We use a singular verb after every and everyone.",
+            "answers": [
+                "has",
+                "have",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d47ab13243b94c209da2a8431c3fdb79"
+        },
+        {
+            "question": "She gave them ............................ a kiss on the forehead.",
+            "description": "",
+            "answers": [
+                "each",
+                "every",
+                "everyone"
+            ],
+            "correct": 0,
+            "id": "a7f54f837f694d84be660bccfd2731e4"
+        },
+        {
+            "question": "I looked in ............................... cupboard but I could not find the photo.",
+            "description": "",
+            "answers": [
+                "each",
+                "every",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "2d01d7ab0548419890b68c67e641ddb2"
+        },
+        {
+            "question": "I spoke to .............................. of the parents there.",
+            "description": "We cannot use every before of.",
+            "answers": [
+                "each",
+                "Every",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "111210e59c4240d29d9305e3e088aa1e"
+        },
+        {
+            "question": "I would like to meet ................................ of them.",
+            "description": "We can use each or every one before of.",
+            "answers": [
+                "each",
+                "every one",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "644cf5cbd86542f687f038c673576bd2"
+        },
+        {
+            "question": "................................ was delighted to hear the news.",
+            "description": "",
+            "answers": [
+                "Everybody",
+                "Each",
+                "Every body"
+            ],
+            "correct": 0,
+            "id": "0168ca957703464fbb6f93cb0109d8f7"
+        },
+        {
+            "question": "I enjoyed ............................. minute of the holiday.",
+            "description": "",
+            "answers": [
+                "every",
+                "everyone",
+                "every one"
+            ],
+            "correct": 0,
+            "id": "cbeeb4468b28473b9297cc038623c318"
+        },
+        {
+            "question": "I have read .................................. of the books on that shelf.",
+            "description": "We cannot use every before of.",
+            "answers": [
+                "each",
+                "every",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "3ec036f0029d40cf9be5490e1cb123d4"
+        },
+        {
+            "question": "I know ................................... of them.",
+            "description": "We can use each or every one before of.",
+            "answers": [
+                "each",
+                "every one",
+                "everyone"
+            ],
+            "correct": 1,
+            "id": "461981af138b48e19f7d42397ae1e7c2"
+        }
+    ]
+}

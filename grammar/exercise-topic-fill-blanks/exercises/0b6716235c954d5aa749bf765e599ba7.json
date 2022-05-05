@@ -1,0 +1,316 @@
+{
+    "id": "0b6716235c954d5aa749bf765e599ba7",
+    "title": "Present Perfect All Forms Mixed Exercise 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / keep a pet for three years)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You've kept a pet for three years.",
+                        "You have kept a pet for three years."
+                    ]
+                }
+            ],
+            "id": "68f1b499f2fd41eeb19fac619b60fd28"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / eat Thai food before)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Have you eaten Thai food before?"
+                    ]
+                }
+            ],
+            "id": "f2675e30fe9746fd98ac16a457753086"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(it / rain all day)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Has it rained all day?"
+                    ]
+                }
+            ],
+            "id": "b262682dee18448b9f3be5fa3f06c3b3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(who / we / forget to invite)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Who have we forgotten to invite?"
+                    ]
+                }
+            ],
+            "id": "dadf2c0c14ac4aba99db835fbf72374e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / hear that song already)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We haven't heard that song already.",
+                        "We have not heard that song already."
+                    ]
+                }
+            ],
+            "id": "8cd2f098d20747609803d0704f1384b7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / forget his books)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He hasn't forgotten his books.",
+                        "He has not forgotten his books."
+                    ]
+                }
+            ],
+            "id": "3130bf53dc5748f284fd5f25c112bb69"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / steal all the chocolate)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She's stolen all the chocolate.",
+                        "She has stolen all the chocolate."
+                    ]
+                }
+            ],
+            "id": "41bdbb6a13f04f91a104fcf23593d816"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / explain it well)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Have I explained it well?"
+                    ]
+                }
+            ],
+            "id": "758a52fdf44b44c79e303df324fcb8a5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(who / he / meet recently)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Who has he met recently?"
+                    ]
+                }
+            ],
+            "id": "e68b747af75845e4a4981b55924f29f6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / we / finish already)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How have we finished already?"
+                    ]
+                }
+            ],
+            "id": "5ae9b332adb94c8a8b435ad4d6725179"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / study Latin)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He's studied Latin.",
+                        "He has studied Latin."
+                    ]
+                }
+            ],
+            "id": "920cbcd18c924f7a820dda828c151105"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / know him for three months)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I've known him for three months.",
+                        "I have known him for three months."
+                    ]
+                }
+            ],
+            "id": "208b44dda471422ea501d40b520bc59b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you / study Arabic)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Where have you studied Arabic?"
+                    ]
+                }
+            ],
+            "id": "f95ae8e1fa304d8b87744f2d8f867ca8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what countries / they / visit in Europe)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What countries have they visited in Europe?"
+                    ]
+                }
+            ],
+            "id": "f6ed8746778841b6b3c36981f37a9ad7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / hurt his leg)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He's hurt his leg.",
+                        "He has hurt his leg."
+                    ]
+                }
+            ],
+            "id": "70635ec1aead49bfbd8f7d94a7e511f5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / leave her phone in a taxi)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She's left her phone in a taxi.",
+                        "She has left her phone in a taxi."
+                    ]
+                }
+            ],
+            "id": "0983df40c976419ab3b81ac311074d6a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / lose our tickets)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We haven't lost our tickets.",
+                        "We have not lost our tickets."
+                    ]
+                }
+            ],
+            "id": "f823289f5ade401fb152eff2b6229fa1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / call her mother)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Has she called her mother?"
+                    ]
+                }
+            ],
+            "id": "dcfc3e2b4a7544199ac723dc972a23ac"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / take a taxi)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Has he taken a taxi?"
+                    ]
+                }
+            ],
+            "id": "c13a218277d5407a8c3e786557d35b68"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(She / go / to the library today)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She's gone to the library today.",
+                        "She has gone to the library today."
+                    ]
+                }
+            ],
+            "id": "ed91cd3480e34986bd758b0067fbccdb"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "b5b2e266ba5a40c9a57171337daa5065",
+    "title": "Conditionals Exercise",
+    "questions": [
+        {
+            "question": "If it .................................. the match will be cancelled.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause.",
+            "answers": [
+                "rains",
+                "rained",
+                "had rained"
+            ],
+            "correct": 0,
+            "id": "7f823eaec77147e19ffc41534bd706c1"
+        },
+        {
+            "question": "If she passes the exam, she .......................................... the job.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause.",
+            "answers": [
+                "will get",
+                "would get",
+                "would have got"
+            ],
+            "correct": 0,
+            "id": "e24f3ab82606421491230740381b08cd"
+        },
+        {
+            "question": "If you exceed the speed limits, you ........................................... fined.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause.",
+            "answers": [
+                "will be",
+                "would be",
+                "would have been"
+            ],
+            "correct": 0,
+            "id": "9ad0cd65f1e4401ca1685fc48d1a77dc"
+        },
+        {
+            "question": "If she arrived now, I ............................................ meet her.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would / could + infinitive in the main clause.",
+            "answers": [
+                "can",
+                "could",
+                "could have"
+            ],
+            "correct": 1,
+            "id": "347351e610094470aaf2730812af00fe"
+        },
+        {
+            "question": "If she ......................................... good grades, she would go to university.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would / could + infinitive in the main clause.",
+            "answers": [
+                "gets",
+                "got",
+                "had got"
+            ],
+            "correct": 1,
+            "id": "02923b49d7ff4481ab015360eca730ca"
+        },
+        {
+            "question": "If I had the money, I ............................................. you.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would / could + infinitive in the main clause.",
+            "answers": [
+                "will help",
+                "would help",
+                "would have helped"
+            ],
+            "correct": 1,
+            "id": "14d365ed463a4c3bacf9e1c35fd7b249"
+        },
+        {
+            "question": "If I see him, I .............................................. him the message.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause.",
+            "answers": [
+                "will give",
+                "would give",
+                "would have given"
+            ],
+            "correct": 0,
+            "id": "7a0dc83804a44b86a659f70006304be8"
+        },
+        {
+            "question": "If she married me, she ............................................ happy.",
+            "description": "",
+            "answers": [
+                "will be",
+                "would be",
+                "would have been"
+            ],
+            "correct": 1,
+            "id": "6ac04031ca58422399241cd0d83984de"
+        },
+        {
+            "question": "If I ............................................. to loud music, I get a headache.",
+            "description": "",
+            "answers": [
+                "listen",
+                "listened",
+                "had listened"
+            ],
+            "correct": 0,
+            "id": "3ca69c2787c944e9b12a2566ab626f60"
+        },
+        {
+            "question": "If she ............................................... prompt medical attention, she would have survived.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause.",
+            "answers": [
+                "received",
+                "receives",
+                "had received"
+            ],
+            "correct": 2,
+            "id": "7893bca5bbf04071b0169f0e43f3afa7"
+        },
+        {
+            "question": "If I spoke English, I ......................................... a better job.",
+            "description": "",
+            "answers": [
+                "can get",
+                "could get",
+                "could have gotten"
+            ],
+            "correct": 1,
+            "id": "b4eceb57d14343499acfbe427e7a0af4"
+        },
+        {
+            "question": "If I ........................................ you, I wouldn't marry him.",
+            "description": "",
+            "answers": [
+                "am",
+                "were",
+                "had been"
+            ],
+            "correct": 1,
+            "id": "8f8c062c93834eb795b255b1cccfe73c"
+        }
+    ]
+}

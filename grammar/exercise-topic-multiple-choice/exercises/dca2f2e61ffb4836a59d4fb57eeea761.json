@@ -1,0 +1,137 @@
+{
+    "id": "dca2f2e61ffb4836a59d4fb57eeea761",
+    "title": "Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "The spider ......................................... by the boy.",
+            "description": "",
+            "answers": [
+                "killed",
+                "was killing",
+                "was killed"
+            ],
+            "correct": 2,
+            "id": "340a722bbb9d429b88e4bb7547cec956"
+        },
+        {
+            "question": "The thief ............................................ by the police.",
+            "description": "",
+            "answers": [
+                "caught",
+                "was caught",
+                "was catching"
+            ],
+            "correct": 1,
+            "id": "01be6cf76244467a9e6391346b5fe662"
+        },
+        {
+            "question": "A kite ......................................... by the boy.",
+            "description": "",
+            "answers": [
+                "made",
+                "was made",
+                "was making"
+            ],
+            "correct": 1,
+            "id": "5c6dc9159a71481093b2089ed8ca31a6"
+        },
+        {
+            "question": "The dog .......................................... by the sudden noise.",
+            "description": "",
+            "answers": [
+                "frightened",
+                "was frightened",
+                "was frightening"
+            ],
+            "correct": 1,
+            "id": "59beb50a366343958c4adb4e6928416a"
+        },
+        {
+            "question": "The light bulb ....................................... by Edison.",
+            "description": "",
+            "answers": [
+                "was invented",
+                "invented",
+                "was inventing"
+            ],
+            "correct": 0,
+            "id": "0d6bc9746d864ce191ecf6634f8264b9"
+        },
+        {
+            "question": "A very remarkable discovery ......................................... by him.",
+            "description": "",
+            "answers": [
+                "made",
+                "was made",
+                "was making"
+            ],
+            "correct": 1,
+            "id": "d1ef07165bed4ba692e8c647f29480e9"
+        },
+        {
+            "question": "He ........................................... by his own brother.",
+            "description": "",
+            "answers": [
+                "betrayed",
+                "was betrayed",
+                "was betraying"
+            ],
+            "correct": 1,
+            "id": "4e67fa80371d43b9b9a5f4db3f6df664"
+        },
+        {
+            "question": "My old car ........................................",
+            "description": "",
+            "answers": [
+                "has told",
+                "has been told",
+                "was told"
+            ],
+            "correct": 1,
+            "id": "32ec730d96814864b877dd08a97e1d14"
+        },
+        {
+            "question": "The store .......................................... only last month.",
+            "description": "",
+            "answers": [
+                "opened",
+                "was opened",
+                "was opening"
+            ],
+            "correct": 1,
+            "id": "e13259b4b7c540bfa8a42de87801a97c"
+        },
+        {
+            "question": "Smoking in the kitchen isn’t ..........................................",
+            "description": "",
+            "answers": [
+                "permitting",
+                "permitted"
+            ],
+            "correct": 1,
+            "id": "0c2db590a5e14bf0bf8c93c13f8a70b2"
+        },
+        {
+            "question": "The mouse ...................................... by the cat.",
+            "description": "",
+            "answers": [
+                "was chased",
+                "was cheating",
+                "cheated"
+            ],
+            "correct": 0,
+            "id": "e27b5b78784a4110b86e3ab76f044412"
+        },
+        {
+            "question": "I .............................................. by your behavior.",
+            "description": "",
+            "answers": [
+                "am disgusted",
+                "am disgusting",
+                "disgusted"
+            ],
+            "correct": 0,
+            "id": "0fd9c31a312d40d49ff5d809978be920"
+        }
+    ]
+}

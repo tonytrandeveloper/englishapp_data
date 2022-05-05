@@ -1,0 +1,136 @@
+{
+    "id": "6c0f918edd0449d1b19e1da171cfc44d",
+    "title": "Can or Could | Grammar Exercise",
+    "questions": [
+        {
+            "question": "........................... I ask you something?",
+            "description": "Both can and could are possible here. Could is more polite than can.",
+            "answers": [
+                "Can",
+                "Could",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "fd1690b6caaa402c8be9b46bca95d7c0"
+        },
+        {
+            "question": "She said I ............................ come as often as I liked.",
+            "description": "When the main clause is in the past tense, we need a past tense in the subordinate clause as well.",
+            "answers": [
+                "can",
+                "could",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "9f6806313cb44727b72fc08c8b678428"
+        },
+        {
+            "question": "Jack ................................. not go to work yesterday because he was ill.",
+            "description": "Could is the past tense form of can. Here the time expression yesterday clearly indicates that we are referring to the past. ",
+            "answers": [
+                "can",
+                "could",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "16d5aa1e80774523b0803a70bb6d948e"
+        },
+        {
+            "question": "He ............................. borrow my car, if she asked.",
+            "description": "In conditional clauses, if the verb in the if-clause is in the past tense, we use could / would / might + infinitive in the main clause. ",
+            "answers": [
+                "can",
+                "could",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "fa0c844e652b424bad5d3dccef59a530"
+        },
+        {
+            "question": "I .................................... her, if I had wanted to.",
+            "description": "When the verb in the if-clause is in the past perfect tense, we use would / could have + past participle in the main clause. ",
+            "answers": [
+                "could marry",
+                "could have married",
+                "can marry"
+            ],
+            "correct": 1,
+            "id": "145d4c140c144302847d78e4822da9e5"
+        },
+        {
+            "question": ".......................... you lend me some pounds until tomorrow?",
+            "description": "Both can and could are possible here.",
+            "answers": [
+                "Can",
+                "Could",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "044a5ea404234a2d84499ed5be8d9ebc"
+        },
+        {
+            "question": "When I was a child, I ............................ play whenever I wanted to.",
+            "description": "",
+            "answers": [
+                "can",
+                "could",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "0a019e9f93a14d369e5ab17a96f1c40c"
+        },
+        {
+            "question": "'Where is John?' He .......................... be in the garden.",
+            "description": "Can is not used in affirmative sentences to talk about logical possibility. ",
+            "answers": [
+                "can",
+                "could"
+            ],
+            "correct": 1,
+            "id": "8234795a05134d35973a5e799763c8b7"
+        },
+        {
+            "question": "It was a place where anything .......................... happen.",
+            "description": "We use could here because the main clause is in the past tense.",
+            "answers": [
+                "can",
+                "could",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "2ce8f640be8749fa98bce6f7493461f2"
+        },
+        {
+            "question": "I ............................ not understand anything she said.",
+            "description": "We use could here because the verb in the other clause is in the past tense.",
+            "answers": [
+                "can",
+                "could",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e1d2bb2efa6f48dda2c5b48394fb6fe2"
+        },
+        {
+            "question": "You ............................ get a better job if you speak English.",
+            "description": "When the verb in the if-clause is in the present tense, we use will / can + infinitive in the main clause",
+            "answers": [
+                "can",
+                "could"
+            ],
+            "correct": 0,
+            "id": "fd0b45048a5943418aa59994bdf8c3f2"
+        },
+        {
+            "question": "War ............................ break out any day.",
+            "description": "Can and could are possible here could shows weak possibility. ",
+            "answers": [
+                "can",
+                "could",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "70853ddc2f2a4faebfb7603bf6110a68"
+        }
+    ]
+}

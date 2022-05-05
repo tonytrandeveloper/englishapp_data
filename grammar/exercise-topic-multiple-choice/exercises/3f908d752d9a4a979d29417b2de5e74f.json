@@ -1,0 +1,116 @@
+{
+    "id": "3f908d752d9a4a979d29417b2de5e74f",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "If you knew the answer, why ..................... you tell me?",
+            "description": "",
+            "answers": [
+                "don't",
+                "didn't",
+                "hadn't"
+            ],
+            "correct": 1,
+            "id": "6e1897a3cc8940b2baa55f7e3699e672"
+        },
+        {
+            "question": "If it ……………….. Jeena why didn’t she stop and say Hi?",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "had been"
+            ],
+            "correct": 1,
+            "id": "d752e4fa94e64f589f6a39683065f225"
+        },
+        {
+            "question": "If you had listened to him, you ………………….. in trouble.",
+            "description": "",
+            "answers": [
+                "won't have landed",
+                "wouldn't have landed",
+                "wouldn't land"
+            ],
+            "correct": 1,
+            "id": "8dc0a80f36bc460493d1e3322e9ed3bd"
+        },
+        {
+            "question": "If I know his name, I ……………….. you.",
+            "description": "",
+            "answers": [
+                "would tell",
+                "will tell",
+                "would have told"
+            ],
+            "correct": 1,
+            "id": "c9f2ab1b36944192a3e0a15c89145a3a"
+        },
+        {
+            "question": "If she applied for that job, she …………………. it.",
+            "description": "",
+            "answers": [
+                "will get",
+                "would get",
+                "would have got"
+            ],
+            "correct": 1,
+            "id": "0be7d8120b2b4740b4d906cc70e93d7a"
+        },
+        {
+            "question": "If she asked more politely, I ………………… her a few pounds.",
+            "description": "",
+            "answers": [
+                "will lend",
+                "would lend",
+                "would have lent"
+            ],
+            "correct": 1,
+            "id": "5f9c608b0c8449d382c53037f779c29e"
+        },
+        {
+            "question": "If you …………………. you will get cancer.",
+            "description": "",
+            "answers": [
+                "smoke",
+                "smoked",
+                "had smoked"
+            ],
+            "correct": 0,
+            "id": "b66dec9ab1934d2183bfb4b51ba21a74"
+        },
+        {
+            "question": "If she ..................... now, we would be in trouble.",
+            "description": "",
+            "answers": [
+                "arrive",
+                "arrived",
+                "had arrived"
+            ],
+            "correct": 1,
+            "id": "4e45a2bff5684a71b42561141f89b2e7"
+        },
+        {
+            "question": "Feel free to call me if you ……………….. any help.",
+            "description": "",
+            "answers": [
+                "need",
+                "needed",
+                "would need"
+            ],
+            "correct": 0,
+            "id": "22f5f8015ad2406ca38dff63d494a2c0"
+        },
+        {
+            "question": "I ……………….. them if I had more time.",
+            "description": "",
+            "answers": [
+                "would visit",
+                "will visit",
+                "would have visited"
+            ],
+            "correct": 0,
+            "id": "84292ec1757644cfb28770bd33a206dc"
+        }
+    ]
+}

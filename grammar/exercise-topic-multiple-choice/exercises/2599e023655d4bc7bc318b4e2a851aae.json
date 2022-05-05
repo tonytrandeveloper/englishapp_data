@@ -1,0 +1,139 @@
+{
+    "id": "2599e023655d4bc7bc318b4e2a851aae",
+    "title": "Degrees Of Comparison Exercise",
+    "questions": [
+        {
+            "question": "February is the …………………….. month of the year.",
+            "description": "We use a superlative adjective after the.",
+            "answers": [
+                "short",
+                "shorter",
+                "shortest"
+            ],
+            "correct": 2,
+            "id": "be8924d12cc34ae0b513399759609413"
+        },
+        {
+            "question": "Mary is …………………….. than Susan.",
+            "description": "We use a comparative adjective before than.",
+            "answers": [
+                "pretty",
+                "prettier",
+                "prettiest"
+            ],
+            "correct": 1,
+            "id": "c69b0a622a344794be7d24c3f4dec22d"
+        },
+        {
+            "question": "Cycling is ……………………… than driving.",
+            "description": "We use a comparative adjective before than.",
+            "answers": [
+                "healthy",
+                "healthier",
+                "healthiest"
+            ],
+            "correct": 1,
+            "id": "914c387e0455452990e4b0a547738f3c"
+        },
+        {
+            "question": "Is your grandmother any …………………….. today?",
+            "description": "",
+            "answers": [
+                "good",
+                "better",
+                "best"
+            ],
+            "correct": 1,
+            "id": "fdf849defe7f4fcf9f29c7d292215006"
+        },
+        {
+            "question": "A refrigerator is ………………………. than a television.",
+            "description": "Use a comparative expression before than.",
+            "answers": [
+                "useful",
+                "more useful",
+                "most useful"
+            ],
+            "correct": 1,
+            "id": "1de48045de3f49a8ba9414aee6e1d446"
+        },
+        {
+            "question": "She is as ……………………. as a stick.",
+            "description": "We use a positive adjective when we make comparisons with as…as.",
+            "answers": [
+                "thin",
+                "thinner",
+                "thinnest"
+            ],
+            "correct": 0,
+            "id": "fdad0ad64ebb4d7caadde0eb1f9dd18a"
+        },
+        {
+            "question": "This is the ………………………. movie I have ever seen.",
+            "description": "Best is the superlative form of good.",
+            "answers": [
+                "good",
+                "gooder",
+                "goodest",
+                "best"
+            ],
+            "correct": 3,
+            "id": "af0338de488d447a8033db5aa8949c1f"
+        },
+        {
+            "question": "I am the ………………………… mother in the world.",
+            "description": "We use a superlative adjective after the.",
+            "answers": [
+                "lucky",
+                "luckier",
+                "luckiest"
+            ],
+            "correct": 2,
+            "id": "a8d29713e33b47d986fbd8a47a7bc7cb"
+        },
+        {
+            "question": "This is ………………………. than that.",
+            "description": "Worse is the comparative form of bad.",
+            "answers": [
+                "bad",
+                "badder",
+                "worse"
+            ],
+            "correct": 2,
+            "id": "f830117547354b9dbbfa6f771375fa9f"
+        },
+        {
+            "question": "What is the ………………………. update from the border?",
+            "description": "",
+            "answers": [
+                "last",
+                "later",
+                "latest"
+            ],
+            "correct": 2,
+            "id": "ec10c2d768d34828af701e937a347f50"
+        },
+        {
+            "question": "Honey is ………………………. than milk.",
+            "description": "Sweeter is the comparative form of sweet.",
+            "answers": [
+                "sweet",
+                "sweeter",
+                "sweetest"
+            ],
+            "correct": 1,
+            "id": "fb7b978c9208425b90cc77c6fadd6fb0"
+        },
+        {
+            "question": "She earns a lot ……………………. money than I do.",
+            "description": "More is the comparative form of much.",
+            "answers": [
+                "much",
+                "more",
+                "most"
+            ],
+            "correct": 1,
+            "id": "db5ca593f1e2471baa824a8ff8f3b35f"
+        }
+    ]
+}

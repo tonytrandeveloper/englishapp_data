@@ -1,0 +1,137 @@
+{
+    "id": "2883f90dbd1c477883b2e367a046ef4d",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "He told me ……………………………… he had found a good job.",
+            "description": "That is a simple connector used to introduce a noun-clause. ",
+            "answers": [
+                "that",
+                "as",
+                "whether"
+            ],
+            "correct": 0,
+            "id": "0705551980a64b0a921d3e76fef3e07e"
+        },
+        {
+            "question": "……………………… she heard the news, she fainted.",
+            "description": "As soon as is used to suggest that one action quickly followed another. ",
+            "answers": [
+                "No sooner",
+                "As soon as",
+                "Scarcely"
+            ],
+            "correct": 1,
+            "id": "dfb619a2d70e42e0963e9ff76625e481"
+        },
+        {
+            "question": "He started early ....................... he wouldn't get stuck in traffic.",
+            "description": "So that indicates purpose. ",
+            "answers": [
+                "so that",
+                "so as to",
+                "in order to"
+            ],
+            "correct": 0,
+            "id": "d302da2c6f034c7397e21672bb92678d"
+        },
+        {
+            "question": "…………………………. he was at home, why didn't he talk to us?",
+            "description": "If expresses a condition. ",
+            "answers": [
+                "If",
+                "Whether",
+                "As"
+            ],
+            "correct": 0,
+            "id": "82062ddbda8949939dc4cb4925ad2a9e"
+        },
+        {
+            "question": "He lives in a deserted place ........................ there is no one to keep him company.",
+            "description": "We can use where to introduce adverb clauses of place.",
+            "answers": [
+                "where",
+                "when",
+                "there"
+            ],
+            "correct": 0,
+            "id": "d68591fb755d46168640f297fa27f8f2"
+        },
+        {
+            "question": "They were tired and hungry, .................... they didn't give up.",
+            "description": "We use but to connect two contrasting ideas.",
+            "answers": [
+                "and",
+                "but",
+                "though"
+            ],
+            "correct": 1,
+            "id": "b98509596e7e4fd18f4694f6ba43d074"
+        },
+        {
+            "question": "She earns a lot more ....................... she needs.",
+            "description": "We use than after a comparative expression.",
+            "answers": [
+                "than",
+                "then"
+            ],
+            "correct": 0,
+            "id": "cee5036af915415991faef9eb4ab3ddc"
+        },
+        {
+            "question": "………………………… you miss this opportunity, it will be hard to find another one.",
+            "description": "If expresses a condition.",
+            "answers": [
+                "If",
+                "Whether",
+                "As"
+            ],
+            "correct": 0,
+            "id": "0899733f61b848918f3987b094da1e1f"
+        },
+        {
+            "question": "………………………… you mend your ways, you will be in serious trouble.",
+            "description": "Unless is similar to if...not...",
+            "answers": [
+                "Unless",
+                "Without",
+                "If"
+            ],
+            "correct": 0,
+            "id": "66d29db7b3fe4c8a9f6945551924d511"
+        },
+        {
+            "question": "The farmer killed the hen ………………………….. laid a golden egg every day.",
+            "description": "Either which or that is possible here.",
+            "answers": [
+                "which",
+                "that",
+                "who"
+            ],
+            "correct": 1,
+            "id": "2c52dc5b6a0d4393baa030cc38dafc76"
+        },
+        {
+            "question": "Work hard …………………………… you will succeed.",
+            "description": "",
+            "answers": [
+                "if",
+                "and",
+                "thus"
+            ],
+            "correct": 1,
+            "id": "75468d33185f4eed9f45749401337096"
+        },
+        {
+            "question": "She yelled ........................ she was angry.",
+            "description": "Because gives the reason. ",
+            "answers": [
+                "because",
+                "so",
+                "and"
+            ],
+            "correct": 0,
+            "id": "b9969cb524554ca4b90b5c0f77594a12"
+        }
+    ]
+}

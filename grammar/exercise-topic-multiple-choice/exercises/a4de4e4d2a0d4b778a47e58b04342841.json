@@ -1,0 +1,131 @@
+{
+    "id": "a4de4e4d2a0d4b778a47e58b04342841",
+    "title": "Subject-Verb Agreement",
+    "questions": [
+        {
+            "question": "Neither praise nor censure ………………………. to affect him.",
+            "description": "When we connect two singular nouns with neither/nor, the verb is singular.",
+            "answers": [
+                "seem",
+                "seems",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "d61e8d3d3ee94809a865d2342211e751"
+        },
+        {
+            "question": "Neither he nor his servants ……………………………. aware of the happenings.",
+            "description": "When we connect a singular noun and a plural noun with neither/nor, the verb agrees with the number and person of the noun closest to it.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "1d31e2cbe3374c5f9690485417e5dfd8"
+        },
+        {
+            "question": "No house or shop ……………………………. left unsearched.",
+            "description": "When we connect two singular nouns with or, the verb is singular.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0,
+            "id": "9a8055ee6e0448819d8fd72e2334ccdd"
+        },
+        {
+            "question": "Either he or I ……………………………… mistaken.",
+            "description": "When we connect two nouns with either/or, the verb agrees in number and person with the noun closest to it.",
+            "answers": [
+                "am",
+                "are",
+                "is"
+            ],
+            "correct": 0,
+            "id": "f2d141d97d9a470e9d56f45aa11c401f"
+        },
+        {
+            "question": "Either you or he ……………………………… right.",
+            "description": "When we connect two nouns with either/or, the verb agrees in number and person with the noun closest to it.",
+            "answers": [
+                "is",
+                "am",
+                "are"
+            ],
+            "correct": 0,
+            "id": "7c553599cda44db2bb97b0479ea36b98"
+        },
+        {
+            "question": "One of them ……………………………… agreed to come.",
+            "description": "Here the subject is the singular noun one.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "ebef29ac945844019a85493244c6d7fa"
+        },
+        {
+            "question": "None of these books ……………………………. taught me anything worthwhile.",
+            "description": "None is usually followed by a singular verb.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "d892eac6a5804ad9a05a5b0010549992"
+        },
+        {
+            "question": "James, who ………………………….. my friend, has agreed to come with me.",
+            "description": "The verb in the relative clause agrees with its antecedent in number and person.",
+            "answers": [
+                "is",
+                "am",
+                "are"
+            ],
+            "correct": 0,
+            "id": "c7589d9095864e89b462f31af36aed9c"
+        },
+        {
+            "question": "I who …………………………….. your guardian will take care of you.",
+            "description": "The verb in the relative clause agrees with its antecedent in number and person.",
+            "answers": [
+                "am",
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "4aa72c80cfaf43e19d738eb1867b2581"
+        },
+        {
+            "question": "A lot of work ………………………………. to be done.",
+            "description": "When a lot of is followed by an uncountable noun, the verb is singular in number.",
+            "answers": [
+                "needs",
+                "need"
+            ],
+            "correct": 0,
+            "id": "52422a484c154ba99d117801cd1c71ee"
+        },
+        {
+            "question": "A lot of people ……………………………….. to buy cars.",
+            "description": "When a lot of followed by a plural noun, the verb is plural in number.",
+            "answers": [
+                "want",
+                "wants"
+            ],
+            "correct": 0,
+            "id": "d08207fb21ba42258652b5c04f2c017c"
+        },
+        {
+            "question": "Plenty of books …………………………….. available on this subject.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "00e414ce8fda459da529f8fe3176eaac"
+        }
+    ]
+}

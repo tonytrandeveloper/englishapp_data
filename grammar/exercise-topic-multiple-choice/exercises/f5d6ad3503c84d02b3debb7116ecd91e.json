@@ -1,0 +1,114 @@
+{
+    "id": "f5d6ad3503c84d02b3debb7116ecd91e",
+    "title": "Reported Speech",
+    "questions": [
+        {
+            "question": "Rahul said that he ............................... fiction.",
+            "description": "",
+            "answers": [
+                "likes",
+                "liked",
+                "liking"
+            ],
+            "correct": 1,
+            "id": "4b423b79ca3443d7aa58caec265363ac"
+        },
+        {
+            "question": "The girl said that she ....................................... writing a letter.",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "had"
+            ],
+            "correct": 1,
+            "id": "8492b6a93cb34034b9423484c9fa945c"
+        },
+        {
+            "question": "The boy ...................................... that he was waiting for her.",
+            "description": "",
+            "answers": [
+                "said",
+                "told",
+                "asked"
+            ],
+            "correct": 0,
+            "id": "5809ba54f13a450eb37e32dae580be1f"
+        },
+        {
+            "question": "The masons ......................................... that they had finished the job.",
+            "description": "",
+            "answers": [
+                "said",
+                "told",
+                "asked"
+            ],
+            "correct": 0,
+            "id": "7e55a78a15a740889aa7d9626bc289c3"
+        },
+        {
+            "question": "The boy said that he ...................................................",
+            "description": "",
+            "answers": [
+                "had selected",
+                "had been selected",
+                "selected"
+            ],
+            "correct": 1,
+            "id": "7a1dd1961e6e4a1cba7200503dc6a30a"
+        },
+        {
+            "question": "The teacher asked the girl if she .................................... her homework.",
+            "description": "",
+            "answers": [
+                "has done",
+                "had done",
+                "did"
+            ],
+            "correct": 1,
+            "id": "6776d8449a18467fa39487c4e723bca7"
+        },
+        {
+            "question": "The teacher encouraged the boy ............................................. hard.",
+            "description": "",
+            "answers": [
+                "to work",
+                "working"
+            ],
+            "correct": 0,
+            "id": "00f8e54fdc8c410bb07d8297a7aee553"
+        },
+        {
+            "question": "The man said that he .......................................... his bag.",
+            "description": "",
+            "answers": [
+                "lost",
+                "has lost",
+                "had lost"
+            ],
+            "correct": 2,
+            "id": "e956890ea91345ad806f31156c5fc2a0"
+        },
+        {
+            "question": "The traveler asked where the nearest inn .......................................",
+            "description": "",
+            "answers": [
+                "is",
+                "was"
+            ],
+            "correct": 1,
+            "id": "369b4abbaaad4139a8966c06fc40e1c6"
+        },
+        {
+            "question": "I asked him ............................................ he would help me.",
+            "description": "",
+            "answers": [
+                "that",
+                "if",
+                "what"
+            ],
+            "correct": 1,
+            "id": "9f102f129cf24ff99455be73122cc65d"
+        }
+    ]
+}

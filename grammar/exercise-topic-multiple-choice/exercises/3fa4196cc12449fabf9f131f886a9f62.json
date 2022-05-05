@@ -1,0 +1,138 @@
+{
+    "id": "3fa4196cc12449fabf9f131f886a9f62",
+    "title": "Can, Could, Will, Would",
+    "questions": [
+        {
+            "question": "He ran as fast as he ………………………..",
+            "description": "Could indicates past ability.",
+            "answers": [
+                "can",
+                "could",
+                "wouldCol"
+            ],
+            "correct": 1,
+            "id": "ec28f4d157ec4b279f7caffbabff4347"
+        },
+        {
+            "question": "She …………………………… swim when she was just three.",
+            "description": "Could indicates past ability.",
+            "answers": [
+                "can",
+                "could",
+                "would"
+            ],
+            "correct": 1,
+            "id": "623b98d4520444f4bb06080d6a1ad7ff"
+        },
+        {
+            "question": "Raju ……………………….. speak six languages.",
+            "description": "Can is used to make a request, to ask for permission or to express ability to do something.",
+            "answers": [
+                "can",
+                "could",
+                "will"
+            ],
+            "correct": 0,
+            "id": "423b7b9d6fcd49d2854240aee6b53af5"
+        },
+        {
+            "question": "I don’t think I ………………………….. pass the test.",
+            "description": "Will is used to predict something, to express willingness or to announce a spontaneous decision.",
+            "answers": [
+                "will",
+                "could",
+                "would"
+            ],
+            "correct": 0,
+            "id": "0754b1ea86574f039bf35ca04a6cca2c"
+        },
+        {
+            "question": "He failed the test because he …………………………….. answer only 2 questions.",
+            "description": "Could shows past ability.",
+            "answers": [
+                "can",
+                "could",
+                "would"
+            ],
+            "correct": 1,
+            "id": "1470c52d9d0945d088c7e0d271cc4b1d"
+        },
+        {
+            "question": "He said that he ……………………….. help but he didn’t.",
+            "description": "",
+            "answers": [
+                "will",
+                "would",
+                "could"
+            ],
+            "correct": 1,
+            "id": "384833db5a60442d92ba80b201b7b78f"
+        },
+        {
+            "question": "If I had enough money, I ………………………….. travel around the world.",
+            "description": "Would is the past form of will.",
+            "answers": [
+                "will",
+                "would",
+                "can"
+            ],
+            "correct": 1,
+            "id": "9265e7efbd8e4d6c97bb9fbb8e7c5b57"
+        },
+        {
+            "question": "If I were you, I …………………………… get that mole examined.",
+            "description": "Would is the past form of will.",
+            "answers": [
+                "will",
+                "can",
+                "would"
+            ],
+            "correct": 2,
+            "id": "336d3cdc7b344ac6bd4b68317bb834cf"
+        },
+        {
+            "question": "You ………………………….. borrow my car if you want.",
+            "description": "Can is used to make a request, to ask for permission or to express ability to do something.",
+            "answers": [
+                "can",
+                "will",
+                "could"
+            ],
+            "correct": 0,
+            "id": "b130909d4c3a4fa2bd9c2240890bdb1c"
+        },
+        {
+            "question": "Who ……………………………. cook dinner today?",
+            "description": "Will is used to predict something, to express willingness or to announce a spontaneous decision.",
+            "answers": [
+                "will",
+                "would",
+                "could"
+            ],
+            "correct": 0,
+            "id": "c08c5c3cf24646d9abe78f906bf2ddcc"
+        },
+        {
+            "question": "………………………… you like to dance with me?",
+            "description": "Would is used in polite requests.",
+            "answers": [
+                "Will",
+                "Would",
+                "Could"
+            ],
+            "correct": 1,
+            "id": "96d4e81daa4341c9a930dc68069121f2"
+        },
+        {
+            "question": "I tried to solve the problem, but I …………………………...",
+            "description": "Could not shows past inability. ",
+            "answers": [
+                "cannot",
+                "could not",
+                "would not"
+            ],
+            "correct": 1,
+            "id": "29b424fb266f4c7c96d6fd82fa30120c"
+        }
+    ]
+}

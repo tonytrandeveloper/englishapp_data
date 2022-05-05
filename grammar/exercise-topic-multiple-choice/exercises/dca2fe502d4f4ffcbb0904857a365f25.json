@@ -1,0 +1,122 @@
+{
+    "id": "dca2fe502d4f4ffcbb0904857a365f25",
+    "title": "Gap Fills",
+    "questions": [
+        {
+            "question": "The new version is superior .................................. the old one.",
+            "description": "",
+            "answers": [
+                "than",
+                "to",
+                "from"
+            ],
+            "correct": 1,
+            "id": "faf9a229dc9d4aaba606539c5e27a8bc"
+        },
+        {
+            "question": "He is taller .................................. the other boys.",
+            "description": "",
+            "answers": [
+                "than",
+                "then",
+                "to"
+            ],
+            "correct": 0,
+            "id": "3fdfccda6046407eb8832d102b6bd71c"
+        },
+        {
+            "question": "My job is to supervise people who are junior ................................. me.",
+            "description": "",
+            "answers": [
+                "than",
+                "with",
+                "to"
+            ],
+            "correct": 2,
+            "id": "cce871276e5f414198cc37beef200a2a"
+        },
+        {
+            "question": "This is ......................................... most unique distinction.",
+            "description": "",
+            "answers": [
+                "a",
+                "the"
+            ],
+            "correct": 1,
+            "id": "f05b21fbe3f64e5597bb9daebd8cc83b"
+        },
+        {
+            "question": "This is ....................................... good to be true.",
+            "description": "",
+            "answers": [
+                "too",
+                "so"
+            ],
+            "correct": 0,
+            "id": "6b6a7c31df904b7ca593be5c7522a213"
+        },
+        {
+            "question": "My camera is .............................. than yours.",
+            "description": "",
+            "answers": [
+                "more good",
+                "more better",
+                "better"
+            ],
+            "correct": 2,
+            "id": "40c26acbe5b44ebfa54a48e71cb3fcc8"
+        },
+        {
+            "question": "The master subjected the servant to the ................................... treatment.",
+            "description": "",
+            "answers": [
+                "unkindest",
+                "most unkindest",
+                "most unkind"
+            ],
+            "correct": 0,
+            "id": "4869e08ab7574db484fd2cc57596cd47"
+        },
+        {
+            "question": "Ram is one of ....................... students in the class.",
+            "description": "",
+            "answers": [
+                "best",
+                "the best"
+            ],
+            "correct": 1,
+            "id": "31f5ed36b6d44c139cec279a88c5c602"
+        },
+        {
+            "question": "Mr. Raman is ................................. member of the club.",
+            "description": "",
+            "answers": [
+                "eldest",
+                "oldest",
+                "the oldest"
+            ],
+            "correct": 2,
+            "id": "110f181bccb74babb33349b3ae83cd74"
+        },
+        {
+            "question": "Only two posts are senior ................................ mine.",
+            "description": "",
+            "answers": [
+                "than",
+                "to"
+            ],
+            "correct": 1,
+            "id": "9cda67fb167343fe8c8ce28fb72405d6"
+        },
+        {
+            "question": "The matter had been discussed prior ............................ my arrival.",
+            "description": "",
+            "answers": [
+                "than",
+                "to"
+            ],
+            "correct": 1,
+            "id": "d9366129cf714c3d815311f83b5e32d9"
+        }
+    ]
+}

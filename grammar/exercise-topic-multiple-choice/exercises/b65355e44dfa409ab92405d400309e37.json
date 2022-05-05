@@ -1,0 +1,117 @@
+{
+    "id": "b65355e44dfa409ab92405d400309e37",
+    "title": "Compound Sentences",
+    "questions": [
+        {
+            "question": "I called her many times ........................................... she didn’t answer the phone.",
+            "description": "",
+            "answers": [
+                "and",
+                "but",
+                "though"
+            ],
+            "correct": 1,
+            "id": "6d5df6cce0b14ef08fc36178fed7fa9a"
+        },
+        {
+            "question": "He is intelligent ...................................... honest.",
+            "description": "",
+            "answers": [
+                "or",
+                "but",
+                "and"
+            ],
+            "correct": 2,
+            "id": "f2c99bac26024c02b00fffe794494162"
+        },
+        {
+            "question": "He is old ............................................ he is active.",
+            "description": "",
+            "answers": [
+                "and",
+                "or",
+                "but"
+            ],
+            "correct": 2,
+            "id": "eb5f9c6c268e4c3695e01745260efe2b"
+        },
+        {
+            "question": "He not only lost his reputation ........................................... brought a bad name to his family.",
+            "description": "",
+            "answers": [
+                "also",
+                "but",
+                "but also"
+            ],
+            "correct": 2,
+            "id": "b8d50b98449f479194f5eb0ed70a64d8"
+        },
+        {
+            "question": "You may .................................................. spend the night here or go home.",
+            "description": "",
+            "answers": [
+                "neither",
+                "either",
+                "nor"
+            ],
+            "correct": 1,
+            "id": "af2be961c2314e8fb3ee65b75a477f9a"
+        },
+        {
+            "question": "I reached the counter ............................................... took my purse out ........................................... there was no money in it.",
+            "description": "",
+            "answers": [
+                "and, but",
+                "and, and",
+                "but, but",
+                "but, and"
+            ],
+            "correct": 0,
+            "id": "3c99cb2f3be84370a74590bf416a938a"
+        },
+        {
+            "question": "The way may be long ........................................... we may feel tired ............................................ we will not give up hope.",
+            "description": "",
+            "answers": [
+                "and, but",
+                "and, and",
+                "but, but"
+            ],
+            "correct": 0,
+            "id": "448e5c444771487299f760b21c340626"
+        },
+        {
+            "question": "We took part in the competition ................................................ we did not win any prize.",
+            "description": "",
+            "answers": [
+                "and",
+                "but",
+                "or"
+            ],
+            "correct": 1,
+            "id": "5753f29222744113b228e076d84d3c79"
+        },
+        {
+            "question": "Our servant is slow .............................................. he is honest and dependable.",
+            "description": "",
+            "answers": [
+                "and",
+                "but",
+                "although"
+            ],
+            "correct": 1,
+            "id": "8f9daa09b51144619cd8fb92323ee454"
+        },
+        {
+            "question": "Leave the house at once ............................................... I will call the police.",
+            "description": "",
+            "answers": [
+                "and",
+                "but",
+                "or"
+            ],
+            "correct": 2,
+            "id": "7dc5004509294e3aaecdb1a3b8d7bb5c"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "id": "8a2370551eb241aeb993fc127aafdd47",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "He ...................... ill for a week before they took him to a doctor.",
+            "description": "",
+            "answers": [
+                "had been",
+                "has been",
+                "was"
+            ],
+            "correct": 0,
+            "id": "f318bc97caf94b3a975590614eb01b41"
+        },
+        {
+            "question": "Has your problem .......................?",
+            "description": "",
+            "answers": [
+                "solved",
+                "been solved",
+                "being solved"
+            ],
+            "correct": 1,
+            "id": "530bfab81f044074955bbb36a8c38ae1"
+        },
+        {
+            "question": "The accused …………………. the verdict with fear and anxiety.",
+            "description": "",
+            "answers": [
+                "awaited",
+                "awaiting",
+                "was awaiting"
+            ],
+            "correct": 0,
+            "id": "a165cee4b878431e80e4a412adb76905"
+        },
+        {
+            "question": "A massive outbreak of influenza ..................... in",
+            "description": "",
+            "answers": [
+                "occurred",
+                "occurs",
+                "has occurred",
+                "had occurred"
+            ],
+            "correct": 0,
+            "id": "f582d87592b546a9b200396d185026fa"
+        },
+        {
+            "question": "He ....................... some of the samples presented to him.",
+            "description": "",
+            "answers": [
+                "was choosing",
+                "had chosen",
+                "has chosen",
+                "chose"
+            ],
+            "correct": 3,
+            "id": "58f9eb1b858e4879b500d21fc8b31c32"
+        },
+        {
+            "question": "I .....................… some photos to be developed.",
+            "description": "",
+            "answers": [
+                "left",
+                "had left",
+                "was left"
+            ],
+            "correct": 0,
+            "id": "ec02cb60f04048e78018620f69b6279d"
+        },
+        {
+            "question": "It must ....................... to you that she was simply lying.",
+            "description": "",
+            "answers": [
+                "occur",
+                "have occurred",
+                "occurred"
+            ],
+            "correct": 1,
+            "id": "1d5487ee50874268995fb351142f9c52"
+        },
+        {
+            "question": "They have all ......................",
+            "description": "",
+            "answers": [
+                "invited",
+                "been invited",
+                "being invited",
+                "inviting"
+            ],
+            "correct": 1,
+            "id": "e53ea65cc718430bb4225a2dbb16c655"
+        },
+        {
+            "question": "He ....................... much of his time reading.",
+            "description": "",
+            "answers": [
+                "spend",
+                "spends",
+                "is spending",
+                "has spent"
+            ],
+            "correct": 1,
+            "id": "fb4e2139595e49a19a66db87b55a95ac"
+        },
+        {
+            "question": "He should be properly .....................… by the police.",
+            "description": "",
+            "answers": [
+                "dealt of",
+                "dealt with",
+                "dealt in"
+            ],
+            "correct": 1,
+            "id": "42fef19bd853423db6ddefd3ce164ea5"
+        }
+    ]
+}

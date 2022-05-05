@@ -1,0 +1,136 @@
+{
+    "id": "83b6e8bdefac40d2964b1381e61cabd8",
+    "title": "Editing Exercise",
+    "questions": [
+        {
+            "question": "They went out despite of the rain.",
+            "description": "You have to use despite or in spite of.",
+            "answers": [
+                "out",
+                "of",
+                "the"
+            ],
+            "correct": 1,
+            "id": "5f89d1fe066e4e0f911724dd4796508a"
+        },
+        {
+            "question": "Raju, who is my cousin, he is a painter.",
+            "description": "The relative pronoun acts as the subject or object of the verb in the relative clause.",
+            "answers": [
+                "who",
+                "he",
+                "a"
+            ],
+            "correct": 1,
+            "id": "159a03d8fbd84832b860a5dbc3cf94ee"
+        },
+        {
+            "question": "No matter what that I do, nothing seems to work.",
+            "description": "",
+            "answers": [
+                "what",
+                "that",
+                "to"
+            ],
+            "correct": 1,
+            "id": "c0313372685e4c5b8b1f808f2cb4192f"
+        },
+        {
+            "question": "We discussed about his problems when we met yesterday.",
+            "description": "Discuss is one of those verbs that are not followed by a preposition.",
+            "answers": [
+                "about",
+                "when",
+                "his"
+            ],
+            "correct": 0,
+            "id": "61d2dbe1ece74920b914c7a647398f76"
+        },
+        {
+            "question": "The boy that you find over there he is my son.",
+            "description": "",
+            "answers": [
+                "that",
+                "over",
+                "he"
+            ],
+            "correct": 2,
+            "id": "08b48346766845f5b845628a98831f7b"
+        },
+        {
+            "question": "I have had an unforgettable experience yesterday.",
+            "description": "We cannot use the present perfect with past time expressions. ",
+            "answers": [
+                "have",
+                "had",
+                "an"
+            ],
+            "correct": 0,
+            "id": "2695ede1b9684708bc20613be951f528"
+        },
+        {
+            "question": "I want that you to tell me what happened.",
+            "description": "",
+            "answers": [
+                "that",
+                "you",
+                "me"
+            ],
+            "correct": 0,
+            "id": "ac92b5225fc2429fba058e6ebdc98b39"
+        },
+        {
+            "question": "As you know that I work very hard.",
+            "description": "",
+            "answers": [
+                "as",
+                "that",
+                "Either can be removed"
+            ],
+            "correct": 2,
+            "id": "1713ab63ed744ff6a3b2846c39b79f57"
+        },
+        {
+            "question": "He plays the hockey for a local team.",
+            "description": "We say hockey, not the hockey.",
+            "answers": [
+                "the",
+                "a"
+            ],
+            "correct": 0,
+            "id": "417dcebb50694dd69e4b1137e09d9274"
+        },
+        {
+            "question": "What a terrible weather we are having.",
+            "description": "Weather is uncountable. We cannot use a with it. ",
+            "answers": [
+                "a",
+                "having",
+                "what"
+            ],
+            "correct": 0,
+            "id": "6e4dc5707ba54aebb5576a03ad9e76b1"
+        },
+        {
+            "question": "I had left my keys on the table.",
+            "description": "To simply state that we did something in the past, use the simple past.",
+            "answers": [
+                "had",
+                "on",
+                "left"
+            ],
+            "correct": 0,
+            "id": "56ef097a03bc4efbb2dee613958683c5"
+        },
+        {
+            "question": "She resembles of her mother.",
+            "description": "",
+            "answers": [
+                "of",
+                "her"
+            ],
+            "correct": 0,
+            "id": "ff199b58674d4d04a614789308315142"
+        }
+    ]
+}

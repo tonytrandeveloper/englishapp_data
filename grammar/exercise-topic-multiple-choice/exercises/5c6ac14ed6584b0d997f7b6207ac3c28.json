@@ -1,0 +1,113 @@
+{
+    "id": "5c6ac14ed6584b0d997f7b6207ac3c28",
+    "title": "Question Tags Exercise",
+    "questions": [
+        {
+            "question": "She speaks English well, …………………..?",
+            "description": "",
+            "answers": [
+                "does she",
+                "doesn't she",
+                "hasn't she"
+            ],
+            "correct": 1,
+            "id": "b5a1baf41a394f659f1f6527ffc74e95"
+        },
+        {
+            "question": "He has left, ………………… ..?",
+            "description": "",
+            "answers": [
+                "has he",
+                "hasn't he",
+                "doesn't he"
+            ],
+            "correct": 1,
+            "id": "128151e928514b6cb6f3922f3692735e"
+        },
+        {
+            "question": "You will have some tea, ……………………?",
+            "description": "",
+            "answers": [
+                "will you",
+                "haven't you",
+                "won't you"
+            ],
+            "correct": 2,
+            "id": "d1ef247890334b8fa22680ae81de66d8"
+        },
+        {
+            "question": "I need not stay long, …………………..?",
+            "description": "",
+            "answers": [
+                "need I",
+                "needn't I"
+            ],
+            "correct": 0,
+            "id": "fff1f0531954493a99b9e0c2bb20733b"
+        },
+        {
+            "question": "She loves dancing, ………………………?",
+            "description": "",
+            "answers": [
+                "does she",
+                "doesn't she",
+                "has she"
+            ],
+            "correct": 1,
+            "id": "26d7de763e7745ed87981d221a6c35ec"
+        },
+        {
+            "question": "You are not joining the strike, …………………?",
+            "description": "",
+            "answers": [
+                "are you",
+                "aren't you",
+                "have you"
+            ],
+            "correct": 0,
+            "id": "5bc79ffc117b42e285b45e0d57898f30"
+        },
+        {
+            "question": "He broke the glass, ………………… .?",
+            "description": "",
+            "answers": [
+                "did he",
+                "didn't he",
+                "hadn't he"
+            ],
+            "correct": 1,
+            "id": "3a1e494de6ec4b149b2f159b7d638bdc"
+        },
+        {
+            "question": "He is not late, ………………….?",
+            "description": "",
+            "answers": [
+                "is he",
+                "isn't he"
+            ],
+            "correct": 0,
+            "id": "a7c26038cdf64f529c610e48a63a858c"
+        },
+        {
+            "question": "He used to play cricket when he was young, ………………….?",
+            "description": "",
+            "answers": [
+                "did he",
+                "didn't he"
+            ],
+            "correct": 1,
+            "id": "6fb930b32e0a4ef0bd417faefd266956"
+        },
+        {
+            "question": "Let’s take some rest, …………………?",
+            "description": "",
+            "answers": [
+                "shall we",
+                "should we",
+                "will we"
+            ],
+            "correct": 0,
+            "id": "dc120e7e735b44168f611d529dd14ccb"
+        }
+    ]
+}

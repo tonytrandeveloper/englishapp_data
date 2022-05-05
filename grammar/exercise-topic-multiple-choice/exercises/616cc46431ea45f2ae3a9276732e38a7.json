@@ -1,0 +1,114 @@
+{
+    "id": "616cc46431ea45f2ae3a9276732e38a7",
+    "title": "Adjectives Exercise",
+    "questions": [
+        {
+            "question": "Shakespeare is greater than ………………… playwright.",
+            "description": "",
+            "answers": [
+                "any",
+                "any other"
+            ],
+            "correct": 1,
+            "id": "2b0ca73491494c0cbcd6e305f803758c"
+        },
+        {
+            "question": "He is ..................... than I.",
+            "description": "",
+            "answers": [
+                "elder",
+                "older",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "ab1ef0a6e17643f28762498e463eed3a"
+        },
+        {
+            "question": "She is ………………….. than I am.",
+            "description": "",
+            "answers": [
+                "more older",
+                "older",
+                "elder"
+            ],
+            "correct": 1,
+            "id": "e967e289222b4880bf023c1b997f4279"
+        },
+        {
+            "question": "This is the ..................... . of the two routes.",
+            "description": "",
+            "answers": [
+                "shorter",
+                "shortest",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "0561b11cdae14386ad8dca40f402a385"
+        },
+        {
+            "question": "This is the ...................... decision.",
+            "description": "",
+            "answers": [
+                "wisest",
+                "most wisest",
+                "most wise"
+            ],
+            "correct": 0,
+            "id": "3f3fe6e92ace4ee88fcb93057a4bd623"
+        },
+        {
+            "question": "Hercules was stronger than .....................",
+            "description": "",
+            "answers": [
+                "any man",
+                "any other man",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "0d77f559cbf44e05a9e31632b17b2105"
+        },
+        {
+            "question": "Of the two evils choose the ………………….",
+            "description": "",
+            "answers": [
+                "less",
+                "lesser",
+                "least"
+            ],
+            "correct": 1,
+            "id": "b203dc676f4e4813816e012f92253d16"
+        },
+        {
+            "question": "His clothes are superior …………………. mine.",
+            "description": "",
+            "answers": [
+                "than",
+                "to",
+                "from"
+            ],
+            "correct": 1,
+            "id": "ad03dde858b44b6a86800c48525cac5b"
+        },
+        {
+            "question": "Health is ...................... wealth",
+            "description": "",
+            "answers": [
+                "preferable to",
+                "more preferable to"
+            ],
+            "correct": 0,
+            "id": "1106513675e74aa5aae354621a8ee286"
+        },
+        {
+            "question": "I prefer walking ………………… riding.",
+            "description": "",
+            "answers": [
+                "to",
+                "than",
+                "for"
+            ],
+            "correct": 0,
+            "id": "2d07cdc3b91f403c8cd471aebc41ed29"
+        }
+    ]
+}

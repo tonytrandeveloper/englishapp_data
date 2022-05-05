@@ -1,0 +1,83 @@
+{
+    "id": "84e6993af58d4bdabcd2a23032c7a5f2",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "He got addicted to gambling, …………………… surprised nobody.",
+            "description": "",
+            "answers": [
+                "which",
+                "what",
+                "that"
+            ],
+            "correct": 0,
+            "id": "6623822094284369a11af073a0bbc77e"
+        },
+        {
+            "question": "I know a girl ………………… mother runs a beauty parlor.",
+            "description": "",
+            "answers": [
+                "who",
+                "whose",
+                "who's"
+            ],
+            "correct": 1,
+            "id": "7f538ee40b224d00854b4c7829631949"
+        },
+        {
+            "question": "I will never forget the day …………………. I first met him.",
+            "description": "",
+            "answers": [
+                "when",
+                "that",
+                "which"
+            ],
+            "correct": 0,
+            "id": "02a682a088ff451d9fb8597a5cbeaa40"
+        },
+        {
+            "question": "Do you know a shop ………………….. I can buy cameras?",
+            "description": "",
+            "answers": [
+                "where",
+                "that",
+                "which"
+            ],
+            "correct": 0,
+            "id": "b2bd89d1b68a4be69646d2812838b81b"
+        },
+        {
+            "question": "Is that your car ………………….. is parked outside?",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "fd99c7dd9e8a4327a6dd92714606f3e3"
+        },
+        {
+            "question": "I don’t know the reason …………………. she doesn’t like me.",
+            "description": "",
+            "answers": [
+                "why",
+                "which",
+                "what"
+            ],
+            "correct": 0,
+            "id": "acfef1b7956f40be99e29860c0b6dd23"
+        },
+        {
+            "question": "I have a friend ………………… works in a pub.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "6b020793687e490ab67875c29cbfa4bb"
+        }
+    ]
+}

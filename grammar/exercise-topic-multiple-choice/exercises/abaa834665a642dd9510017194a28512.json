@@ -1,0 +1,137 @@
+{
+    "id": "abaa834665a642dd9510017194a28512",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "After he ............................ his lesson, he went out to play cricket.",
+            "description": "When we talk about two past events, we usually use the past perfect for the earlier of the two actions. However, we can also express this idea using the conjunctions before and after. ",
+            "answers": [
+                "learnt",
+                "had learnt",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "616c764176fb49fc809f55780dda5962"
+        },
+        {
+            "question": "While I ......................... along the street one day, I saw a dead cobra.",
+            "description": "When we talk about two past events, we usually use the past continuous for the longer background action. ",
+            "answers": [
+                "am walking",
+                "was walking",
+                "walked"
+            ],
+            "correct": 1,
+            "id": "25fc187634774d52ab09741e7bc222ec"
+        },
+        {
+            "question": "We left the forest and ..................... into the open plain.",
+            "description": "",
+            "answers": [
+                "advanced",
+                "advancing",
+                "was advancing"
+            ],
+            "correct": 0,
+            "id": "f7be5eb1391845fca4b4bab206c5c4d5"
+        },
+        {
+            "question": "As he was ........................ out of his country, he sought asylum in a foreign land.",
+            "description": "",
+            "answers": [
+                "driving",
+                "drove",
+                "driven"
+            ],
+            "correct": 2,
+            "id": "9896106deb2043ceaa462a84165019a1"
+        },
+        {
+            "question": "As it was a very hot day, I ............................. in my tent.",
+            "description": "The simple past tense is the most common tense for talking about finished actions in the past. ",
+            "answers": [
+                "remaining",
+                "remained",
+                "was remaining"
+            ],
+            "correct": 1,
+            "id": "c58e28cba08d429b8bb156afa02e619e"
+        },
+        {
+            "question": "A gipsy ........................ the child while he was wandering across the meadows.",
+            "description": "When we talk about two past events, the simple past is used to refer to the short action that happens in the middle of the longer action. ",
+            "answers": [
+                "found",
+                "was finding",
+                "finds"
+            ],
+            "correct": 0,
+            "id": "6dec3710045241f6b2d619e4a6fa630a"
+        },
+        {
+            "question": "I once .................... a man who was walking on a rope.",
+            "description": "",
+            "answers": [
+                "saw",
+                "see",
+                "seen"
+            ],
+            "correct": 0,
+            "id": "5dbb732ac1c34df48b58050383bdcd39"
+        },
+        {
+            "question": "As I did not know my way, I ......................... a policeman.",
+            "description": "",
+            "answers": [
+                "was asking",
+                "asked",
+                "have asked"
+            ],
+            "correct": 1,
+            "id": "4f4cd71009a34d9bbb5f37e76f9eea26"
+        },
+        {
+            "question": "When I ...................... the noise, I woke up.",
+            "description": "When the verb in the main clause is in the past tense, we need a past tense in the subordinate clause as well. We use the simple past to refer to quickly finished actions and situations. ",
+            "answers": [
+                "heard",
+                "was hearing",
+                "hear"
+            ],
+            "correct": 0,
+            "id": "15423a44ddd3475d833906a66a2e9838"
+        },
+        {
+            "question": "As he was paralytic, he ........................",
+            "description": "Could is the past tense form of can. ",
+            "answers": [
+                "cannot walk",
+                "could not walk"
+            ],
+            "correct": 1,
+            "id": "9610cef9aec548c8aac5ced52ee57a55"
+        },
+        {
+            "question": "She ..................... angry before I said a word.",
+            "description": "",
+            "answers": [
+                "became",
+                "become",
+                "was becoming"
+            ],
+            "correct": 0,
+            "id": "6cf30885f95f443883563cae408499bf"
+        },
+        {
+            "question": "His father ...................... three years ago.",
+            "description": "We do not use the present perfect tense with past time expressions. ",
+            "answers": [
+                "has died",
+                "died",
+                "was dying"
+            ],
+            "correct": 1,
+            "id": "eb1250303b524d1da6a56c0916c12d8a"
+        }
+    ]
+}

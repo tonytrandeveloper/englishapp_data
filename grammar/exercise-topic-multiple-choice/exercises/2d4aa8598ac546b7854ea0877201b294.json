@@ -1,0 +1,114 @@
+{
+    "id": "2d4aa8598ac546b7854ea0877201b294",
+    "title": "Sentence Completion",
+    "questions": [
+        {
+            "question": "...................... Dalhousie is the cheapest.",
+            "description": "",
+            "answers": [
+                "Of all hill stations",
+                "From all hill stations"
+            ],
+            "correct": 0,
+            "id": "e9c52b68c75e4b98b301c33df760393d"
+        },
+        {
+            "question": "He came to meet me …………………..",
+            "description": "",
+            "answers": [
+                "in 5 o'clock",
+                "on 5 o'clock",
+                "at 5 o'clock"
+            ],
+            "correct": 2,
+            "id": "c4f6ed582b374c648d2e3880c6300fd1"
+        },
+        {
+            "question": "He is very good ......................",
+            "description": "",
+            "answers": [
+                "with drawing",
+                "in drawing",
+                "at drawing"
+            ],
+            "correct": 2,
+            "id": "27b7ebdc155d42bdb947f89d1a3e9920"
+        },
+        {
+            "question": "He shook ......................",
+            "description": "",
+            "answers": [
+                "hands with me",
+                "my hand"
+            ],
+            "correct": 0,
+            "id": "c72cf04360db4c429fcbcf7c7e12eabb"
+        },
+        {
+            "question": "The train was moving .....................…",
+            "description": "",
+            "answers": [
+                "in full speed",
+                "on full speed",
+                "at full speed"
+            ],
+            "correct": 2,
+            "id": "ca47addd87e74205b802a9e1c8220102"
+        },
+        {
+            "question": "They were accused ......................",
+            "description": "",
+            "answers": [
+                "with theft",
+                "of theft",
+                "about theft"
+            ],
+            "correct": 1,
+            "id": "377602a6d8d04c19b74329faf447439c"
+        },
+        {
+            "question": "There is no remedy …..................... .",
+            "description": "",
+            "answers": [
+                "with this illness",
+                "for this illness",
+                "to this illness"
+            ],
+            "correct": 1,
+            "id": "451b9e3ddf344d95be4ba7d92cb04433"
+        },
+        {
+            "question": "There is no solution .....................…",
+            "description": "",
+            "answers": [
+                "of this problem",
+                "to this problem",
+                "with this problem"
+            ],
+            "correct": 1,
+            "id": "b6085bb3fe874f57896f42871de1e883"
+        },
+        {
+            "question": "He is .....................…",
+            "description": "",
+            "answers": [
+                "in poor health",
+                "poor in health",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "80f182fa08fc4443bc37968a5ee01fbb"
+        },
+        {
+            "question": "You must leave .......................",
+            "description": "",
+            "answers": [
+                "within 5 o'clock",
+                "before 5 o'clock",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "114406a141dc43ba93484f4aeb5f00d1"
+        }
+    ]
+}

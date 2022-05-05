@@ -1,0 +1,106 @@
+{
+    "id": "15cfc37a50474494a1233e56447dbd37",
+    "title": "Adverbs With Two Forms",
+    "questions": [
+        {
+            "question": "Sorry I didn’t turn up – I ……………….. forgot.",
+            "description": "",
+            "answers": [
+                "clean",
+                "cleanly"
+            ],
+            "correct": 0,
+            "id": "f9960d4aef7849a6accca880b63174db"
+        },
+        {
+            "question": "At least ten children were ……………….. injured in the accident.",
+            "description": "",
+            "answers": [
+                "deadly",
+                "fatally"
+            ],
+            "correct": 1,
+            "id": "c812c8f4e2a44fd888905a68b00d73cb"
+        },
+        {
+            "question": "The comedy show was ………………….. amusing.",
+            "description": "",
+            "answers": [
+                "high",
+                "highly"
+            ],
+            "correct": 1,
+            "id": "0b01f165c012450a842e667b5fa2e13e"
+        },
+        {
+            "question": "The protestors demanded that the culprits should be ………………….  punished.",
+            "description": "",
+            "answers": [
+                "just",
+                "justly"
+            ],
+            "correct": 1,
+            "id": "627094a352b24ba9b5ec80f2f6fe2a26"
+        },
+        {
+            "question": "I haven’t been to the theater much ………………….",
+            "description": "",
+            "answers": [
+                "late",
+                "lately"
+            ],
+            "correct": 1,
+            "id": "12a664ffe55a427ebad2d26d5cba976e"
+        },
+        {
+            "question": "Isn’t she dressed …………………?",
+            "description": "",
+            "answers": [
+                "pretty",
+                "prettily"
+            ],
+            "correct": 1,
+            "id": "2616b9ce4695415886704b41a7192825"
+        },
+        {
+            "question": "I will be there at six o’clock ………………..",
+            "description": "",
+            "answers": [
+                "sharp",
+                "sharply"
+            ],
+            "correct": 0,
+            "id": "8f0a3962cf364405a2f019b4aa31f2a7"
+        },
+        {
+            "question": "Their door was ………………… open but nobody was inside.",
+            "description": "",
+            "answers": [
+                "wide",
+                "widely"
+            ],
+            "correct": 0,
+            "id": "c0c6b90d596640c3bd5613c7a4aa7d55"
+        },
+        {
+            "question": "I ……………….. believed that she loved me.",
+            "description": "",
+            "answers": [
+                "wrong",
+                "wrongly"
+            ],
+            "correct": 1,
+            "id": "7d8e04c94fff43bf80e60b9d8a1183d4"
+        },
+        {
+            "question": "I hate arriving …………………",
+            "description": "",
+            "answers": [
+                "late",
+                "lately"
+            ],
+            "correct": 0,
+            "id": "8f8acaa516944fbb8acce52af387b8c9"
+        }
+    ]
+}

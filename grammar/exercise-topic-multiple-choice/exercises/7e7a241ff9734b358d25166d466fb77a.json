@@ -1,0 +1,127 @@
+{
+    "id": "7e7a241ff9734b358d25166d466fb77a",
+    "title": "Say vs. Tell",
+    "questions": [
+        {
+            "question": "I …………………… him to turn left.",
+            "description": "Use tell when there is a personal object.",
+            "answers": [
+                "said",
+                "told"
+            ],
+            "correct": 1,
+            "id": "d0783d5ef8bf4b67a8bb7022589032d3"
+        },
+        {
+            "question": "‘Come here.’ He ………………………..",
+            "description": "Use say when there is no personal object.",
+            "answers": [
+                "said",
+                "told"
+            ],
+            "correct": 0,
+            "id": "ca1f89b2ec7f4f6e99b3992ec49ebbed"
+        },
+        {
+            "question": "She …………………………. us that she was quitting.",
+            "description": "",
+            "answers": [
+                "said",
+                "told",
+                ""
+            ],
+            "correct": 1,
+            "id": "781d1da417c54ffda6cab247f63669d1"
+        },
+        {
+            "question": "‘I am fed up.’ She …………………………",
+            "description": "Use say when there is no personal object.",
+            "answers": [
+                "said",
+                "told"
+            ],
+            "correct": 0,
+            "id": "9ce4f90141904ef1b9398b080412ebbf"
+        },
+        {
+            "question": "I am going to ………………………… you a secret.",
+            "description": "",
+            "answers": [
+                "tell",
+                "say"
+            ],
+            "correct": 0,
+            "id": "8080270ec7d54e91a535e758c6a7b2e5"
+        },
+        {
+            "question": "She ………………………… a naughty word.",
+            "description": "",
+            "answers": [
+                "said",
+                "told"
+            ],
+            "correct": 0,
+            "id": "bbbaf7713c974deb8e19fdc291444d6c"
+        },
+        {
+            "question": "I ……………………….. them to keep quiet.",
+            "description": "Tell can be used before object + infinitive.",
+            "answers": [
+                "said",
+                "told"
+            ],
+            "correct": 1,
+            "id": "51ff11330bd44927a6d4559d36a8aee7"
+        },
+        {
+            "question": "Are you …………………………….. the truth?",
+            "description": "Tell is used in the expression tell the truth, tell a story, tell a lie etc.",
+            "answers": [
+                "telling",
+                "saying"
+            ],
+            "correct": 0,
+            "id": "ce21e6c9ceed4e4a83c2353c1b6da23a"
+        },
+        {
+            "question": "I knew that he was ……………………….. a lie.",
+            "description": "",
+            "answers": [
+                "saying",
+                "telling"
+            ],
+            "correct": 1,
+            "id": "844b9feb9d3d435da2dff9df7f4b9010"
+        },
+        {
+            "question": "‘What time is the meeting?’ ‘I will …………………………… you when I find out.’",
+            "description": "",
+            "answers": [
+                "tell",
+                "say"
+            ],
+            "correct": 0,
+            "id": "47863fcdbdee4e4da51d92aa55f252e3"
+        },
+        {
+            "question": "He …………………………… that he wanted some water.",
+            "description": "",
+            "answers": [
+                "said",
+                "told"
+            ],
+            "correct": 0,
+            "id": "4395c6992f7640a29b872e2d7f82d900"
+        },
+        {
+            "question": "She ………………………… that she was not interested.",
+            "description": "",
+            "answers": [
+                "said",
+                "told"
+            ],
+            "correct": 0,
+            "id": "77654f58564342328a5e0b6fb62b0783"
+        }
+    ]
+}

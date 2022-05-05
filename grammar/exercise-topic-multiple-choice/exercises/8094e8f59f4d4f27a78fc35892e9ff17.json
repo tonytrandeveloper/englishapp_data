@@ -1,0 +1,139 @@
+{
+    "id": "8094e8f59f4d4f27a78fc35892e9ff17",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "This is the first time I …………………. that song.",
+            "description": "We use a present perfect tense in sentences constructed with ‘this is the first / second / third / last time’.",
+            "answers": [
+                "heard",
+                "have heard",
+                "was hearing"
+            ],
+            "correct": 1,
+            "id": "ad62631f839844f888482ed2eefd26fd"
+        },
+        {
+            "question": "Sorry, I am late. .....................… long?",
+            "description": "The present perfect continuous tense is used to talk about actions and situations that started in the past and have continued up to the present.",
+            "answers": [
+                "Are you waiting",
+                "Have you been waiting"
+            ],
+            "correct": 1,
+            "id": "2209cec18ff5431bb908ff2e98339216"
+        },
+        {
+            "question": "Alice ……………….. ten minutes ago.",
+            "description": "We use the simple past tense to say that something happened sometime ago.",
+            "answers": [
+                "phoned",
+                "have phoned",
+                "had phoned"
+            ],
+            "correct": 0,
+            "id": "76ccd40b929440d4a4b303801518b057"
+        },
+        {
+            "question": "I ..................... there for three months.",
+            "description": "The present perfect and present perfect continuous tenses are used with the time expressions since and for.",
+            "answers": [
+                "am working",
+                "have been working",
+                "had been waiting"
+            ],
+            "correct": 1,
+            "id": "27cbfadc279246e380e630ba74616fb7"
+        },
+        {
+            "question": "I think the baby ………………. enough – I will wake her up.",
+            "description": "",
+            "answers": [
+                "slept",
+                "has slept",
+                "is sleeping"
+            ],
+            "correct": 1,
+            "id": "0d8d2ceee8454e678f4f37433721eac8"
+        },
+        {
+            "question": "How long ..................... English?",
+            "description": "The present perfect continuous tense is used to talk about actions and situations that started in the past and have continued up to the present.",
+            "answers": [
+                "are you learning",
+                "have you been learning",
+                "do you learn"
+            ],
+            "correct": 1,
+            "id": "55d9cf8317fe443fb6440444f303a5ca"
+        },
+        {
+            "question": "The Chinese ……………… paper.",
+            "description": "The simple past tense is the normal tense for talking about finished events in the past.",
+            "answers": [
+                "invented",
+                "have invented",
+                "had invented"
+            ],
+            "correct": 0,
+            "id": "0fe3f7cfb8014e46b06a206205f1b2b8"
+        },
+        {
+            "question": "I …………………. James yet.",
+            "description": "In American English, both the simple past and the present perfect tense are used with indefinite past time adverbs already, yet, ever and before.",
+            "answers": [
+                "didn't call",
+                "haven't called",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "0a1f856c3dd9466595017846b12d3f00"
+        },
+        {
+            "question": "I ………………… two books since morning.",
+            "description": "We use the present perfect to say that something has happened several times up to the present.",
+            "answers": [
+                "read",
+                "am reading",
+                "have read",
+                "had read"
+            ],
+            "correct": 2,
+            "id": "ea69477eea3f482abd2937c83b553895"
+        },
+        {
+            "question": "We .....................… each other since",
+            "description": "The present perfect is often used to talk about how long present situations have lasted.",
+            "answers": [
+                "know",
+                "knew",
+                "have known",
+                "had known"
+            ],
+            "correct": 2,
+            "id": "65610f3cafc447e5947e7a57bd79f3bb"
+        },
+        {
+            "question": "I ……………… the bell several times, but nobody opened the door.",
+            "description": "The simple past is the normal tense for talking about repeated past actions.",
+            "answers": [
+                "rang",
+                "have rung",
+                "was ringing"
+            ],
+            "correct": 0,
+            "id": "f1b2859c42c14ee886ad186f3d6b5926"
+        },
+        {
+            "question": "…………………. you read the Bible?",
+            "description": "The present perfect is often used to say that a finished action is connected to the present in some way. If you have read the Bible, you know the Bible.",
+            "answers": [
+                "Have",
+                "Did",
+                "Had"
+            ],
+            "correct": 0,
+            "id": "c7c2fa74ada440db92dfffdde7500fbd"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "08143b088de54428a2c183c471f42fd3",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "The principal wants to see you ……………… the broken window.",
+            "description": "",
+            "answers": [
+                "because",
+                "owing to",
+                "about",
+                "for"
+            ],
+            "correct": 2,
+            "id": "47359b773d094167a0f953a3559efb3e"
+        },
+        {
+            "question": "The matches were cancelled, ………………… that it rained.",
+            "description": "",
+            "answers": [
+                "as a matter of fact",
+                "owing to the fact",
+                "regardless of the fact",
+                "as"
+            ],
+            "correct": 1,
+            "id": "9b36c0d1be6b43ca849ea99d63aeaced"
+        },
+        {
+            "question": "The giraffe is an ungainly animal ………………….. it has such a long neck.",
+            "description": "",
+            "answers": [
+                "that",
+                "in that",
+                "because of which",
+                "regardless of the fact"
+            ],
+            "correct": 1,
+            "id": "54af831a2c0f4b9a8bd812054c82d8a6"
+        },
+        {
+            "question": "Smoking is indeed dangerous. …………………, a lot of people get cancer because they smoke.",
+            "description": "",
+            "answers": [
+                "In addition",
+                "For instance",
+                "In the same way",
+                "Similarly"
+            ],
+            "correct": 1,
+            "id": "bc8a9c1c2d2b41ebb84712b20417ed0f"
+        },
+        {
+            "question": "The candidate didn’t perform well at the interview. …………………., he was rude to the interviewer.",
+            "description": "",
+            "answers": [
+                "In the same way",
+                "Similarly",
+                "In addition",
+                "Instead"
+            ],
+            "correct": 2,
+            "id": "edeac7f17bdb42b4b2300d0bf0b95ddd"
+        },
+        {
+            "question": "He says he is a socialist, and ………………… he owns five homes and a tea estate.",
+            "description": "",
+            "answers": [
+                "due to this",
+                "with regard to this",
+                "yet",
+                "in addition"
+            ],
+            "correct": 2,
+            "id": "b1a191785db54439ba332d1a98668134"
+        },
+        {
+            "question": "I am not sure if we can afford a big home like that. …………………, I intend to buy it.",
+            "description": "",
+            "answers": [
+                "Any how",
+                "At least",
+                "On the contrary",
+                "On the whole"
+            ],
+            "correct": 0,
+            "id": "65248b0d32e5423d9e603c434d9cc5d1"
+        },
+        {
+            "question": "I was upset by his behavior. ..................... I chose not to make an issue of it.",
+            "description": "",
+            "answers": [
+                "Still",
+                "Of course",
+                "Due to this",
+                "Similarly"
+            ],
+            "correct": 0,
+            "id": "a10b6871dc5346abb54ce7acce9ba718"
+        }
+    ]
+}

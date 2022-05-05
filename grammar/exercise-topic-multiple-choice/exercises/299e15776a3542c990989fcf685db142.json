@@ -1,0 +1,126 @@
+{
+    "id": "299e15776a3542c990989fcf685db142",
+    "title": "Past Simple or Present Perfect Exercise",
+    "questions": [
+        {
+            "question": "I ................................ here when I was a child.",
+            "description": "Here the clause 'when I was a child' clearly shows that we are talking about something completed in the past. The present perfect is not possible here. ",
+            "answers": [
+                "lived",
+                "have lived"
+            ],
+            "correct": 0,
+            "id": "613b81296abd428c8774f18c1099fffd"
+        },
+        {
+            "question": "I .................................. her since last year.",
+            "description": "We prefer the present perfect tense with the time expressions since and for. ",
+            "answers": [
+                "didn't see",
+                "haven't seen"
+            ],
+            "correct": 1,
+            "id": "5224053082c147a981ee9203a9746712"
+        },
+        {
+            "question": "She ................................... unhappy since she left school.",
+            "description": "We prefer perfect tenses with the time expressions since and for. ",
+            "answers": [
+                "was",
+                "has been"
+            ],
+            "correct": 1,
+            "id": "8089d4e9d1494314a6c6513f06a7ac83"
+        },
+        {
+            "question": "'Where is John?' 'He ........................ here ten minutes ago.'",
+            "description": "We do not use the present perfect tense with time expressions referring to the past. ",
+            "answers": [
+                "was",
+                "has been"
+            ],
+            "correct": 0,
+            "id": "ac49c0661d0b45249f766b0d8fdec575"
+        },
+        {
+            "question": "They ................................... the contract last week.",
+            "description": "The present perfect tense is not used with past time expressions. ",
+            "answers": [
+                "signed",
+                "have signed"
+            ],
+            "correct": 0,
+            "id": "473cbd1165ab4738b9270e3fa3465d19"
+        },
+        {
+            "question": "She ............................... ill for a long time.",
+            "description": "Perfect tenses are preferred with the time expressions since and for. ",
+            "answers": [
+                "was",
+                "has been"
+            ],
+            "correct": 1,
+            "id": "286f407d5b1b49e6b0d42de840769cf2"
+        },
+        {
+            "question": "Somebody ............................ their umbrella in the lobby.",
+            "description": "We use the present perfect tense to talk about completed past events when there is no reference to time. ",
+            "answers": [
+                "left",
+                "has left"
+            ],
+            "correct": 1,
+            "id": "8d5fa76411184acea4461c228672559f"
+        },
+        {
+            "question": "................................ a ghost?",
+            "description": "We use the present perfect tense to refer to a period of time that started in the past and has continued up to the present. ",
+            "answers": [
+                "Did you ever see",
+                "Have you ever seen"
+            ],
+            "correct": 1,
+            "id": "f1537549d488478fa2630cbb61039127"
+        },
+        {
+            "question": "I can't get into my house because I .................................. my keys.",
+            "description": "When there is no time reference we use the present perfect tense to talk about finished events. ",
+            "answers": [
+                "lost",
+                "have lost"
+            ],
+            "correct": 1,
+            "id": "4c5d7338dadc418788a42cab985dc0aa"
+        },
+        {
+            "question": "I .................................. six letters since morning.",
+            "description": "",
+            "answers": [
+                "wrote",
+                "have written"
+            ],
+            "correct": 1,
+            "id": "689a792e20f24cbeabb7e83f6947ce04"
+        },
+        {
+            "question": "Sophia .................................... absent since Monday.",
+            "description": "We prefer perfect tenses with the time expressions since and for. ",
+            "answers": [
+                "was",
+                "has been"
+            ],
+            "correct": 1,
+            "id": "83000dff4f044c0ea1b50022d5062a7b"
+        },
+        {
+            "question": "You can't see him now because he ............................. home.",
+            "description": "When there is no time reference, we use the present perfect tense to talk about finished actions. ",
+            "answers": [
+                "went",
+                "has gone"
+            ],
+            "correct": 1,
+            "id": "7f63501625a447c59bc66c205e13bf6a"
+        }
+    ]
+}

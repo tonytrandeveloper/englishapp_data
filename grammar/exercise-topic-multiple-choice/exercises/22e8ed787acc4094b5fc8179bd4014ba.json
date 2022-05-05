@@ -1,0 +1,116 @@
+{
+    "id": "22e8ed787acc4094b5fc8179bd4014ba",
+    "title": "Emphatic And Reflexive Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Who painted this portrait? I did it myself.",
+            "description": "",
+            "answers": [
+                "Myself is reflexive",
+                "Myself is emphatic"
+            ],
+            "correct": 1,
+            "id": "c0d05f08c78547c782e857a1b91ee373"
+        },
+        {
+            "question": "I myself went to the post office to post the letter.",
+            "description": "",
+            "answers": [
+                "Here myself is reflexive",
+                "Myself is emphatic"
+            ],
+            "correct": 1,
+            "id": "eef8e238b1864935859b32826886828d"
+        },
+        {
+            "question": "The captain himself led the attack.",
+            "description": "",
+            "answers": [
+                "Here himself is reflexive",
+                "Here himself is emphatic"
+            ],
+            "correct": 1,
+            "id": "76707547beba43afa7563fd796056ed1"
+        },
+        {
+            "question": "We did it ourselves.",
+            "description": "",
+            "answers": [
+                "Ourselves is reflexive",
+                "Ourselves is emphatic"
+            ],
+            "correct": 1,
+            "id": "33abcc64cd0a4a0eb70963e47ad678c1"
+        },
+        {
+            "question": "Don’t touch that wire. You will hurt yourself.",
+            "description": "",
+            "answers": [
+                "Yourself is reflexive",
+                "Yourself is emphatic"
+            ],
+            "correct": 0,
+            "id": "31dba33d6ccb4de681b50ed85b21be39"
+        },
+        {
+            "question": "I will give myself five days to finish the job.",
+            "description": "",
+            "answers": [
+                "Myself is reflexive",
+                "Myself is emphatic"
+            ],
+            "correct": 0,
+            "id": "e671cdfb53b7470f89d621d542d6e5f0"
+        },
+        {
+            "question": "The spy shot himself.",
+            "description": "",
+            "answers": [
+                "Himself is reflexive",
+                "Himself is emphatic"
+            ],
+            "correct": 0,
+            "id": "772fbf08ffec4f11994a5ac65b0724bf"
+        },
+        {
+            "question": "Jane herself told me that she was quitting the dance class.",
+            "description": "",
+            "answers": [
+                "Herself is emphatic",
+                "Herself is reflexive"
+            ],
+            "correct": 0,
+            "id": "d5fa960a8a024a56bde457e4bee742be"
+        },
+        {
+            "question": "Believe me. I myself heard him.",
+            "description": "",
+            "answers": [
+                "Myself is reflexive",
+                "Myself is emphatic"
+            ],
+            "correct": 1,
+            "id": "9e4f1e012694407f95c302ac5a3bc71c"
+        },
+        {
+            "question": "What is the point in asking them? They themselves don’t know anything.",
+            "description": "",
+            "answers": [
+                "Themselves is emphatic",
+                "Themselves is reflexive"
+            ],
+            "correct": 0,
+            "id": "d7b474589db846259ae82d0ebde3d0bf"
+        },
+        {
+            "question": "She made herself a cup of tea.",
+            "description": "",
+            "answers": [
+                "Herself is emphatic",
+                "Herself is reflexive"
+            ],
+            "correct": 0,
+            "id": "15e37b5f769f4b1784fe89fb2053b805"
+        }
+    ]
+}

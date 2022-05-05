@@ -1,0 +1,116 @@
+{
+    "id": "4326e96e75ee4ce2a7e10e2ff509b903",
+    "title": "Reporting Yes Or No Questions",
+    "questions": [
+        {
+            "question": "The teacher asked Raju if he ....................................... present the previous day.",
+            "description": "",
+            "answers": [
+                "is",
+                "has been",
+                "had been"
+            ],
+            "correct": 2,
+            "id": "791e6d6db632436a9d288db3587f3c28"
+        },
+        {
+            "question": "James asked me if I ..................................... to a zoo.",
+            "description": "",
+            "answers": [
+                "have ever been",
+                "ever went",
+                "had ever been"
+            ],
+            "correct": 2,
+            "id": "ba2a66214e2448fa8e294c2204d3ef32"
+        },
+        {
+            "question": "The master asked the girl if she .......................................... any difficulty solving the problem.",
+            "description": "",
+            "answers": [
+                "has",
+                "had",
+                "was"
+            ],
+            "correct": 1,
+            "id": "9e829d9401b0491888631cc31cb90704"
+        },
+        {
+            "question": "The lady asked the servant if he ............................................... her letters from the post office.",
+            "description": "",
+            "answers": [
+                "collects",
+                "collected",
+                "has collected",
+                "had collected"
+            ],
+            "correct": 3,
+            "id": "d2368771aabe493b865e49288e88452d"
+        },
+        {
+            "question": "Tom asked Ben whether a boy .................................................. a chance to whitewash a fence every day.",
+            "description": "",
+            "answers": [
+                "gets",
+                "got",
+                "has got"
+            ],
+            "correct": 1,
+            "id": "247e3584af7241e18dba47754bcadb2a"
+        },
+        {
+            "question": "I asked the boy whether his father ....................................... to the office.",
+            "description": "",
+            "answers": [
+                "has gone",
+                "had gone",
+                "went"
+            ],
+            "correct": 1,
+            "id": "94d3e716b3674faaa266bddec4c7c856"
+        },
+        {
+            "question": "The girl asked if she ........................................... home.",
+            "description": "",
+            "answers": [
+                "may go",
+                "went",
+                "might go"
+            ],
+            "correct": 2,
+            "id": "d855a0292579408d975b53046036e8b6"
+        },
+        {
+            "question": "One of them asked if they ........................................... call the police.",
+            "description": "",
+            "answers": [
+                "may",
+                "can",
+                "should"
+            ],
+            "correct": 2,
+            "id": "37c0a36ca328417997c9a1e4775a92d5"
+        },
+        {
+            "question": "Della asked Madam if she .................................... her hair.",
+            "description": "",
+            "answers": [
+                "bought",
+                "will buy",
+                "would buy"
+            ],
+            "correct": 2,
+            "id": "8f921c7c547e4137bc5f3f1e5a350893"
+        },
+        {
+            "question": "The man asked the boy if he ........................................... that himself.",
+            "description": "",
+            "answers": [
+                "cannot do",
+                "could not do"
+            ],
+            "correct": 1,
+            "id": "9134da03092a4280865ecad9beddf0be"
+        }
+    ]
+}

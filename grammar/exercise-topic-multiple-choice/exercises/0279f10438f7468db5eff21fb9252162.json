@@ -1,0 +1,126 @@
+{
+    "id": "0279f10438f7468db5eff21fb9252162",
+    "title": "Because And Because Of",
+    "questions": [
+        {
+            "question": "He retired ........................................ injury.",
+            "description": "Because of is a preposition. We use it before a noun. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "ea319fa057dc49b7838eb1b85574fa3a"
+        },
+        {
+            "question": "It was all .......................................... his stupidity that we landed in trouble.",
+            "description": "Because of is a preposition. We use it before a noun. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "4caf71a8303e4d24b3f0b93898258ac0"
+        },
+        {
+            "question": "We stayed indoors ....................................... it was raining.",
+            "description": "Because is a conjunction. We use it before a clause.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "048117f2559c47b48eb44ab024656d2a"
+        },
+        {
+            "question": "I couldn't see anything .......................................... it was dark.",
+            "description": "Because is a conjunction. We use it before a clause. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "8d5b5617beb143549a99f0375955fb2a"
+        },
+        {
+            "question": "I stood by him ....................................... I trusted him.",
+            "description": "",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "409a08d65ef640b09afc2b2aa43338ca"
+        },
+        {
+            "question": "We cannot appoint him ............................................ he lacks the required qualifications.",
+            "description": "Because is a conjunction. We use it before a clause. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "61ad6c37b5f94e8d991843d24d7b689b"
+        },
+        {
+            "question": "I waited outside ................................................ I wanted to meet him.",
+            "description": "",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "f57840b137dc42c1860134ea989506f8"
+        },
+        {
+            "question": "We found it difficult to understand him ........................................... his accent.",
+            "description": "Because of is a preposition. We use it before a noun. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "bd84d61b2dd342a0b85690cf0a27967a"
+        },
+        {
+            "question": "She studied hard ................................................... she wanted to pass the test.",
+            "description": "",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "6cb14918a99946189512b243471d9eca"
+        },
+        {
+            "question": "I was anxious .............................................. I hadn't heard anything from him in days.",
+            "description": "Because is a conjunction. We use it before a clause.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "dd64c1f4e6d94e11b5e84a5830934398"
+        },
+        {
+            "question": "She succeeded ............................................... her teacher.",
+            "description": "Because of is a preposition. We use it before a noun. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "80146e8ae3df47889101c4cbb3d38444"
+        },
+        {
+            "question": "She could not walk without support ............................................ she was blind.",
+            "description": "",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "6ad6fd6a4e214b9abb56a7b957dee7d6"
+        }
+    ]
+}

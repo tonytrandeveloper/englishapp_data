@@ -1,0 +1,138 @@
+{
+    "id": "cc5c4ffaa6e549418381e71f9d430a6a",
+    "title": "Idioms Exercise",
+    "questions": [
+        {
+            "question": "It is no fun being a ...............................",
+            "description": "A guinea pig is essentially a test material.",
+            "answers": [
+                "rabbit",
+                "dodo",
+                "guinea pig"
+            ],
+            "correct": 2,
+            "id": "a8817ad6070a4d488406a13bf5c4e811"
+        },
+        {
+            "question": "My little girl is always as busy as a ................................",
+            "description": "If you are as busy as a beaver, you are very busy.",
+            "answers": [
+                "pigeon",
+                "beaver",
+                "parrot"
+            ],
+            "correct": 1,
+            "id": "9fd180a0d6d34e4c974f0ccb5436f3bf"
+        },
+        {
+            "question": "I was as hungry as a ................................. after the workout.",
+            "description": "If you are as hungry as a bear you are very hungry.",
+            "answers": [
+                "bear",
+                "dog",
+                "wolf"
+            ],
+            "correct": 0,
+            "id": "04664205f3e14cfe899eaeae7d355367"
+        },
+        {
+            "question": "She was as meek as a .................................. and hence people often took advantage of her.",
+            "description": "When you are as meek as a lamb, you are very docile or meek.",
+            "answers": [
+                "duck",
+                "lamb",
+                "chicken"
+            ],
+            "correct": 1,
+            "id": "8ade37aff3d54100ac773c91bd90c464"
+        },
+        {
+            "question": "The boy was as nervous as a .................................. when the teacher caught him cheating on the exam.",
+            "description": "When you are as nervous as a cat, you are very nervous.",
+            "answers": [
+                "dog",
+                "cat",
+                "cow"
+            ],
+            "correct": 1,
+            "id": "5880157e03b342ca9703d187ca823039"
+        },
+        {
+            "question": "When we first came to Singapore, we were as poor as church ............................................",
+            "description": "When you are as poor as a church mouse, you are very poor.",
+            "answers": [
+                "kittens",
+                "mice",
+                "dogs"
+            ],
+            "correct": 1,
+            "id": "e2f34d23065a40fca8773a67747c459c"
+        },
+        {
+            "question": "I was as scared as a ..................................... when the teacher told me to meet the headmaster.",
+            "description": "As scared as a rabbit means very scared.",
+            "answers": [
+                "deer",
+                "mule",
+                "rabbit"
+            ],
+            "correct": 2,
+            "id": "f954fd5e7e7c4452bb8ce09fdb4b6280"
+        },
+        {
+            "question": "He was as sick as a ....................................... when he reached home from work.",
+            "description": "As sick as a dog = very sick.",
+            "answers": [
+                "cat",
+                "dog",
+                "pig"
+            ],
+            "correct": 1,
+            "id": "6d0f8a2da718473bb39a596d02a3797b"
+        },
+        {
+            "question": "Beware of him. He is as sly as a ..................................",
+            "description": "As sly as a fox means very smart and clever.",
+            "answers": [
+                "bear",
+                "wolf",
+                "fox"
+            ],
+            "correct": 2,
+            "id": "16f8e64c67774a8fbb9798ee92d924ad"
+        },
+        {
+            "question": "The boy was as strong as a ................................. and lifted the bed with little effort.",
+            "description": "If you are as strong as a horse, you are very strong.",
+            "answers": [
+                "cow",
+                "horse",
+                "bear"
+            ],
+            "correct": 1,
+            "id": "2287f8676e82454eabf8d24b69465436"
+        },
+        {
+            "question": "There is no point in talking to her, she is as stubborn as a ......................................",
+            "description": "When you are as stubborn as a mule, you are very stubborn.",
+            "answers": [
+                "mule",
+                "hare",
+                "peacock"
+            ],
+            "correct": 0,
+            "id": "6e713015b9e341c3894d8971bc94757a"
+        },
+        {
+            "question": "We backed the wrong .................................... when we nominated him for mayor.",
+            "description": "To back the wrong horse is to support someone who is unlikely to win.",
+            "answers": [
+                "tiger",
+                "bull",
+                "horse"
+            ],
+            "correct": 2,
+            "id": "76c40ac43e3e45ecbf1bed5caec5f442"
+        }
+    ]
+}

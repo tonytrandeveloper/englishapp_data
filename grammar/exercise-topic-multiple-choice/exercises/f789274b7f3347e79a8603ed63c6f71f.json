@@ -1,0 +1,139 @@
+{
+    "id": "f789274b7f3347e79a8603ed63c6f71f",
+    "title": "Modal Auxiliaries Exercise",
+    "questions": [
+        {
+            "question": "The doctor said that I ………………………. exercise. (absolute necessity)",
+            "description": "We use must to express absolute necessity.",
+            "answers": [
+                "must",
+                "should",
+                "had to"
+            ],
+            "correct": 0,
+            "id": "fc33cca15b5a4b04847005f368ebffbb"
+        },
+        {
+            "question": "You …………………………. work tomorrow. (lack of necessity)",
+            "description": "We use need not to express the lack of necessity.",
+            "answers": [
+                "must not",
+                "need not",
+                "should not"
+            ],
+            "correct": 1,
+            "id": "7b97fc158de6443ea941b4daa5887724"
+        },
+        {
+            "question": "That curtain ………………………… be washed. (absolute necessity)",
+            "description": "We use must to express absolute necessity.",
+            "answers": [
+                "need",
+                "must",
+                "should"
+            ],
+            "correct": 1,
+            "id": "c9afdb2718874a8d956330bb4117054f"
+        },
+        {
+            "question": "I …………………………… to walk three miles to school when I was a child. (past necessity)",
+            "description": "We use had to to talk about past necessity.",
+            "answers": [
+                "had",
+                "must",
+                "need"
+            ],
+            "correct": 0,
+            "id": "c1dc1cc2fdc14ca5a546db8cc90c3e65"
+        },
+        {
+            "question": "You ……………………… get a job. (strong necessity)",
+            "description": "We use must to indicate strong necessity.",
+            "answers": [
+                "must",
+                "need",
+                "will"
+            ],
+            "correct": 0,
+            "id": "d8c1726eb37a4cbc8a1385407c7a9e02"
+        },
+        {
+            "question": "………………………. I borrow your car? (permission)",
+            "description": "",
+            "answers": [
+                "Can",
+                "Will",
+                "Shall"
+            ],
+            "correct": 0,
+            "id": "5a0765f0a3dc4419a452741440ce4915"
+        },
+        {
+            "question": "You can but you …………………………… bring it back by evening. (instruction for future)",
+            "description": "",
+            "answers": [
+                "must",
+                "have",
+                "would"
+            ],
+            "correct": 0,
+            "id": "8e9723774bf54f71b63182f4c5f824d1"
+        },
+        {
+            "question": "He said he ………………………… be here at three.",
+            "description": "",
+            "answers": [
+                "will",
+                "would",
+                "can",
+                ""
+            ],
+            "correct": 1,
+            "id": "65fd7a960d9a4da9be744ceb8771f324"
+        },
+        {
+            "question": "She ………………………… have a problem. She is crying. (strong probability)",
+            "description": "",
+            "answers": [
+                "can",
+                "must",
+                "will"
+            ],
+            "correct": 1,
+            "id": "4c66a11df259478e810882d94daa5a3e"
+        },
+        {
+            "question": "She ………………………. be Jane’s sister. She looks just like her. (certainty)",
+            "description": "",
+            "answers": [
+                "can",
+                "must",
+                "will"
+            ],
+            "correct": 1,
+            "id": "e2a7a644fc7346b3b70fe51f7c2dda24"
+        },
+        {
+            "question": "‘There is the doorbell.’ ‘Who ……………………… it be?’ (conclusion)",
+            "description": "We can use can to express conclusion in questions and negatives.",
+            "answers": [
+                "will",
+                "can",
+                "may"
+            ],
+            "correct": 1,
+            "id": "eb90cf7d8d8a4c75abbc1da161b0a865"
+        },
+        {
+            "question": "………………………….. I carry this bag? (Necessity)",
+            "description": "",
+            "answers": [
+                "Would",
+                "Should",
+                "Could"
+            ],
+            "correct": 1,
+            "id": "422b4e0546bf46d3875815ad4e4c7a6f"
+        }
+    ]
+}

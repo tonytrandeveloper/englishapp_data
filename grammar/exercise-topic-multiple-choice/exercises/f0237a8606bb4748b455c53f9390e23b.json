@@ -1,0 +1,135 @@
+{
+    "id": "f0237a8606bb4748b455c53f9390e23b",
+    "title": "Subject-Verb Agreement Exercise",
+    "questions": [
+        {
+            "question": "Neither James nor his children ………………………. English.",
+            "description": "When we connect a singular noun and a plural noun with neither/nor, the verb agrees in number and person with the noun following nor. ",
+            "answers": [
+                "speak",
+                "speaks",
+                "is speaking"
+            ],
+            "correct": 0,
+            "id": "ceae2481d1ba499092699e532fcfb5a1"
+        },
+        {
+            "question": "Neither Sam nor his brother ………………………",
+            "description": "When we connect two singular nouns with neither/nor, the verb is singular. ",
+            "answers": [
+                "work",
+                "works",
+                "are working"
+            ],
+            "correct": 1,
+            "id": "dd1fd42620274bac84f1dd5944515283"
+        },
+        {
+            "question": "The farmer along with his children ……………………. hard day and night.",
+            "description": "When we connect two nouns with along with, the verb agrees with the former. ",
+            "answers": [
+                "toil",
+                "toils",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "ecb048f2a64e49fdb1b76c05f2311745"
+        },
+        {
+            "question": "Neither you nor he ……………………….. capable of doing this.",
+            "description": "When we connect two pronouns with neither/nor, the verb agrees in number and person with the pronoun following nor. ",
+            "answers": [
+                "are",
+                "is",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "a0c19d9210f74a0dacf3a9b04d0518e8"
+        },
+        {
+            "question": "The writer and orator ……………………. no more.",
+            "description": "Here both nouns refer to the same person and hence we use a singular verb. If they referred to different persons, we would use the article before each noun.",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "cedd24606423497e91e59c673a378656"
+        },
+        {
+            "question": "The man as well as his wife …………………….. guilty.",
+            "description": "When we connect two nouns with as well as, the verb agrees with the former in number and person.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "e53ad25a69674bcfa7ca0ff8b53af5fe"
+        },
+        {
+            "question": "Being bilingual ……………………….. an advantage in the modern world.",
+            "description": "Here the subject is the gerund phrase being bilingual. It is considered singular. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "2fe49b030b1b4156a582a958650c8207"
+        },
+        {
+            "question": "Trespassing ……………………… prohibited.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "edaadd1a223b4e0a85bea0462c2017ff"
+        },
+        {
+            "question": "When we were children, we ……………………… long hours playing.",
+            "description": "",
+            "answers": [
+                "will spend",
+                "would spend",
+                "would spent"
+            ],
+            "correct": 1,
+            "id": "bb715238b7bc4e6ebb5e2607522f8ac9"
+        },
+        {
+            "question": "How they escaped ……………………. a mystery.",
+            "description": "When the subject is a noun clause, the verb is singular. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "7c3afd40cd6a43f6b54e613b8ec1f760"
+        },
+        {
+            "question": "Despite ………………………. rich, he is not happy.",
+            "description": "",
+            "answers": [
+                "is",
+                "being",
+                "been",
+                "be"
+            ],
+            "correct": 1,
+            "id": "5da36fa8be4d472fb980fdd5f6d1ef18"
+        },
+        {
+            "question": "Neither you nor I ………………………….. right.",
+            "description": "When we connect two pronouns with neither/nor, the verb agrees with the pronoun following nor. ",
+            "answers": [
+                "are",
+                "am",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "bd0792876c2b469d81dec27248befaf7"
+        }
+    ]
+}

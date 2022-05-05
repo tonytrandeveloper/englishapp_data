@@ -1,0 +1,138 @@
+{
+    "id": "37dc5f2730ce47f2addbbe137a0f0eb7",
+    "title": "Degrees Of Comparison",
+    "questions": [
+        {
+            "question": "James is as ………………… as his brother.",
+            "description": "We use the positive adjective in the structure as ….as to say that people or things are similar.",
+            "answers": [
+                "tall",
+                "taller",
+                "tall than"
+            ],
+            "correct": 0,
+            "id": "e47eeb32d41f4eb3a6511c06b38d9f7d"
+        },
+        {
+            "question": "Alexander was one of ……………………. kings who ever lived.",
+            "description": "We use the superlative to compare one person with the whole group that they belong to.",
+            "answers": [
+                "great",
+                "the greatest",
+                "the greater"
+            ],
+            "correct": 1,
+            "id": "3c9ee3c8842f48189b278c18541a8141"
+        },
+        {
+            "question": "Martin is …………………….. than any other boy in the class.",
+            "description": "We use the comparative to compare one person with another person or persons.",
+            "answers": [
+                "more industrious",
+                "the more industrious",
+                "the most industrious"
+            ],
+            "correct": 0,
+            "id": "548c631cc27741fd8f7b27b36c15d184"
+        },
+        {
+            "question": "Chennai is ……………………. than Mumbai.",
+            "description": "Hotter is the comparative form of hot. We use the comparative to compare one person with another person or persons.",
+            "answers": [
+                "hot",
+                "hotter",
+                "hottest"
+            ],
+            "correct": 1,
+            "id": "a8ae00bc830143b8a641cc3b1fbeaf73"
+        },
+        {
+            "question": "Very few cities in Asia are as ……………………. as Hong Kong.",
+            "description": "We use the positive adjective in the structure as …as",
+            "answers": [
+                "big",
+                "bigger",
+                "biggest"
+            ],
+            "correct": 0,
+            "id": "c326aa18ecbd40cb8e524c2798061bde"
+        },
+        {
+            "question": "This cathedral is the ………………….. in South India.",
+            "description": "We use the superlative to compare one person with the whole group that they belong to.",
+            "answers": [
+                "big",
+                "bigger",
+                "biggest"
+            ],
+            "correct": 2,
+            "id": "d2af179653994eb289cd1cfb1744883d"
+        },
+        {
+            "question": "An airplane flies …………………….. than birds.",
+            "description": "Faster is the comparative form of fast.",
+            "answers": [
+                "more fast",
+                "more faster",
+                "faster"
+            ],
+            "correct": 2,
+            "id": "5502ec043aff441d9b2367b29115984c"
+        },
+        {
+            "question": "Kitchen appliances have made cooking …………………..",
+            "description": "Easier is the comparative form of easy.",
+            "answers": [
+                "more easy",
+                "more easier",
+                "easier"
+            ],
+            "correct": 2,
+            "id": "3b0b6647fd344f3a980468ec82e31b1d"
+        },
+        {
+            "question": "Very few countries are as rich …………………… America.",
+            "description": "The correct structure is as ... as..",
+            "answers": [
+                "than",
+                "as",
+                "so"
+            ],
+            "correct": 1,
+            "id": "035aee454e62491a9fbbd7849e3ae08e"
+        },
+        {
+            "question": "Some beans are at least …………………….. as meat.",
+            "description": "",
+            "answers": [
+                "more nutritious",
+                "as nutritious",
+                "nutritious"
+            ],
+            "correct": 1,
+            "id": "4b6a41ba70034638861974e3f670c3c4"
+        },
+        {
+            "question": "Naomi is ………………….. than her sister.",
+            "description": "Less clever is the comparative form.",
+            "answers": [
+                "less clever",
+                "less cleverer",
+                "lesser clever"
+            ],
+            "correct": 0,
+            "id": "c6e0f2e2103b46029f88b5d7bcec5058"
+        },
+        {
+            "question": "Clara is …………………… than Sara.",
+            "description": "Cleverer is the comparative form of clever.",
+            "answers": [
+                "more clever",
+                "more cleverer",
+                "cleverer"
+            ],
+            "correct": 2,
+            "id": "675855fee15b44f4a89e2c03e7802fed"
+        }
+    ]
+}

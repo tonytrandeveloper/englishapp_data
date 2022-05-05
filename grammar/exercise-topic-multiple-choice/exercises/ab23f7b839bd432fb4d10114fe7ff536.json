@@ -1,0 +1,139 @@
+{
+    "id": "ab23f7b839bd432fb4d10114fe7ff536",
+    "title": "Linking Expressions Exercise",
+    "questions": [
+        {
+            "question": "I waited for them …………………….. they came.",
+            "description": "Till and until are interchangeable.",
+            "answers": [
+                "till",
+                "until",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "757b29e03dd346899ea69d3108efc689"
+        },
+        {
+            "question": "……………………. men sow, so shall they reap.",
+            "description": "As is a conjunction like is a preposition. We need a conjunction to connect two clauses. ",
+            "answers": [
+                "As",
+                "Like",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "cd222e960843449cb8a38adbe91a1556"
+        },
+        {
+            "question": "I am as strong ……………………….. you are.",
+            "description": "To say that people or things are equal in a particular way, we use the structure as…as…",
+            "answers": [
+                "like",
+                "than",
+                "as"
+            ],
+            "correct": 2,
+            "id": "e448a125bdec4614a46cc5279b2cd6ad"
+        },
+        {
+            "question": "He was …………………….. tired that he could barely stand.",
+            "description": "We cannot use a that-clause after very or too. ",
+            "answers": [
+                "so",
+                "very",
+                "too"
+            ],
+            "correct": 0,
+            "id": "c7ab96b18a844f4dadfc80d0ffd5e70d"
+        },
+        {
+            "question": "It is certain …………………… he will be late.",
+            "description": "Noun clauses are often introduced by the conjunction that. ",
+            "answers": [
+                "whether",
+                "that",
+                "what"
+            ],
+            "correct": 1,
+            "id": "298dc218082b4897a9792e5844505d08"
+        },
+        {
+            "question": "………………………. a large sum of money, he gave up speculation.",
+            "description": "He lost a large sum of money. He gave up gambling. We can combine them with the perfect participle 'having lost'.",
+            "answers": [
+                "Have lost",
+                "Lost",
+                "Having lost"
+            ],
+            "correct": 2,
+            "id": "df16579407f540849cc960f732e850c2"
+        },
+        {
+            "question": "……………………….. he will waste his time is certain.",
+            "description": "He will waste his time. That is certain. When we combine them we get: That he will waste his time is certain. ",
+            "answers": [
+                "That",
+                "What",
+                "Whether"
+            ],
+            "correct": 0,
+            "id": "cec5125851694d04baf84dd8ed340b8a"
+        },
+        {
+            "question": "……………………….. he is short-tempered, I like him.",
+            "description": "Despite is a preposition however is a transitional adverb although is a conjunction. We need a conjunction to connect two clauses. ",
+            "answers": [
+                "Despite",
+                "However",
+                "Although"
+            ],
+            "correct": 2,
+            "id": "046fb2e67bdb4cd8a2c9aa9d02c7974b"
+        },
+        {
+            "question": "Ask the guard …………………………. it is time for the train to start?",
+            "description": "Indirect yes/no questions can be introduced by if or whether.",
+            "answers": [
+                "whether",
+                "if",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "afc98912e4684229877340c44072328b"
+        },
+        {
+            "question": "……………………. I know all the facts, I cannot help you.",
+            "description": "Unless mean if not. ",
+            "answers": [
+                "Unless",
+                "Until",
+                "If"
+            ],
+            "correct": 0,
+            "id": "106777ef079a40d48ad99c926d9e507b"
+        },
+        {
+            "question": "The votes on each side …………………… equal, the chairman gave his casting vote against the resolution.",
+            "description": "When we split the sentence we get:\r\nThe votes on each side were equal. The chairman gave his casting vote against the resolution.\r\nWhen we combine these two clauses into a simple sentence, we use the participle ‘being’.\r\n",
+            "answers": [
+                "was",
+                "were",
+                "been",
+                "being"
+            ],
+            "correct": 3,
+            "id": "67d883046b254639b328fde174030126"
+        },
+        {
+            "question": "……………………. tired, he stopped working.",
+            "description": "When we split clauses, we get: He felt tired He stopped working. We can combine them with the present participle 'feeling'.",
+            "answers": [
+                "Felt",
+                "Feeling",
+                "Having felt"
+            ],
+            "correct": 1,
+            "id": "dfd5a81fc04e49e98102c1107721fa61"
+        }
+    ]
+}

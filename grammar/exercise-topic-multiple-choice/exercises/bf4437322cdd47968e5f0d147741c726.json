@@ -1,0 +1,116 @@
+{
+    "id": "bf4437322cdd47968e5f0d147741c726",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "I talked to the man ………………… bag was stolen.",
+            "description": "",
+            "answers": [
+                "whose",
+                "whom",
+                "who's"
+            ],
+            "correct": 0,
+            "id": "1bc607e7b31946dbb8560285b8eeb9d4"
+        },
+        {
+            "question": "I don’t know ………………… he wants.",
+            "description": "",
+            "answers": [
+                "what",
+                "which",
+                "that"
+            ],
+            "correct": 0,
+            "id": "0bf22613e76f4ed3ac54247004e546c9"
+        },
+        {
+            "question": "It is an ill wind ……………….. blows nobody good.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "afb27403cfc7484d97e8aaffe44bfd0f"
+        },
+        {
+            "question": "God helps those ………………… help themselves.",
+            "description": "",
+            "answers": [
+                "who",
+                "which",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "d7733cc21b8e4e71b8f8e3ae4aa1d6f0"
+        },
+        {
+            "question": "Please try to understand ……………… I mean.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "which"
+            ],
+            "correct": 1,
+            "id": "cfe17e99372741fbb6036153f90ec61a"
+        },
+        {
+            "question": "The flowers ………………….. grow on the mountains are very beautiful.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "a1e07e000b2340bfba0131311fc78f84"
+        },
+        {
+            "question": "This is the only chapter in the book ………………… is worth reading.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "what"
+            ],
+            "correct": 0,
+            "id": "d99bf53d8fa34feeac4771dc64a9db9c"
+        },
+        {
+            "question": "All …………….. you say is certainly true.",
+            "description": "",
+            "answers": [
+                "what",
+                "that",
+                "which"
+            ],
+            "correct": 1,
+            "id": "e6f46c98c57b4b2fbccc64c3906530b2"
+        },
+        {
+            "question": "He …………….. dies for a noble cause lives forever.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "4cd8567ebe3848a49c8078fc132efb94"
+        },
+        {
+            "question": "I hope the little ………………… I have done has been useful.",
+            "description": "",
+            "answers": [
+                "what",
+                "which",
+                "that"
+            ],
+            "correct": 2,
+            "id": "6a95c2283fad4611ab6204042e3b0f2a"
+        }
+    ]
+}

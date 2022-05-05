@@ -1,0 +1,139 @@
+{
+    "id": "c3ccd2653beb4f96a23e262db56f509d",
+    "title": "Degrees Of Comparison Exercise",
+    "questions": [
+        {
+            "question": "Mount Everest is the …………………….peak in the world.",
+            "description": "The superlative indicates the highest degree.",
+            "answers": [
+                "highest",
+                "higher",
+                "high"
+            ],
+            "correct": 0,
+            "id": "e8805283d2b24ebebf084c08b6eba7fc"
+        },
+        {
+            "question": "Mount Everest is …………………… than any other peak in the world.",
+            "description": "We use a comparative adjective before the expression than.",
+            "answers": [
+                "higher",
+                "high",
+                "highest"
+            ],
+            "correct": 0,
+            "id": "43331374d5e44c9ca8a8a31a80870baf"
+        },
+        {
+            "question": "Sachin is …………………… famous than any other Indian cricketer.",
+            "description": "We use a comparative adjective before the expression than.",
+            "answers": [
+                "much",
+                "more",
+                "most"
+            ],
+            "correct": 1,
+            "id": "967fa553372241ceb803f45399612c59"
+        },
+        {
+            "question": "Lead is …………………….. metal.",
+            "description": "The article the is used before superlative adjectives.",
+            "answers": [
+                "the heavy",
+                "the heavier",
+                "the heaviest"
+            ],
+            "correct": 2,
+            "id": "05095ff780784cb18483ebe12d3f3f37"
+        },
+        {
+            "question": "No other metal is as …………………… as lead.",
+            "description": "Positive adjectives are used in the construction as …as…",
+            "answers": [
+                "heavy",
+                "heavier",
+                "heaviest"
+            ],
+            "correct": 0,
+            "id": "862310ba3b754de59f5a4b7b5334d7c6"
+        },
+        {
+            "question": "Mayank is …………………….. than any other boy in the class.",
+            "description": "We use a comparative adjective before the expression than.",
+            "answers": [
+                "tall",
+                "taller",
+                "tallest"
+            ],
+            "correct": 1,
+            "id": "1cd43aa26bdc418b8b05a0a1e4d93a80"
+        },
+        {
+            "question": "The elephant is ……………………… land animal.",
+            "description": "",
+            "answers": [
+                "big",
+                "bigger",
+                "biggest",
+                "the biggest"
+            ],
+            "correct": 3,
+            "id": "a59e6fe477614f2993e5dde6e3fdae35"
+        },
+        {
+            "question": "Preeti is …………………… girl in the class.",
+            "description": "We use the superlative to compare one person or thing with the whole group to which that person or thing belongs.",
+            "answers": [
+                "prettier",
+                "the prettier",
+                "the prettiest"
+            ],
+            "correct": 2,
+            "id": "8f2adf380d564844af5eec6a4dab3952"
+        },
+        {
+            "question": "Lotus is …………………….. than any other flower.",
+            "description": "",
+            "answers": [
+                "beautiful",
+                "more beautiful",
+                "most beautiful"
+            ],
+            "correct": 1,
+            "id": "4977dad6d1fe4651b6488f921631991b"
+        },
+        {
+            "question": "You are no …………………….. than me.",
+            "description": "",
+            "answers": [
+                "good",
+                "better",
+                "well",
+                "best"
+            ],
+            "correct": 1,
+            "id": "ac071e4e4e1b4291a5de413398d37c30"
+        },
+        {
+            "question": "Bhim was ……………………….. of the Pandavas.",
+            "description": "",
+            "answers": [
+                "strongest",
+                "the stronger",
+                "the strongest"
+            ],
+            "correct": 2,
+            "id": "effa9852b5da41dab16447a7fd50407f"
+        },
+        {
+            "question": "The peacock is one of the ……………………. birds.",
+            "description": "",
+            "answers": [
+                "more beautiful",
+                "most beautiful"
+            ],
+            "correct": 1,
+            "id": "1e34e9ceeac144aba5e27c87bd900e05"
+        }
+    ]
+}

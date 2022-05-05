@@ -1,0 +1,106 @@
+{
+    "id": "26bab29bf0334dc8b2422bd70ced3b06",
+    "title": "Enough As An Adjective And An Adverb",
+    "questions": [
+        {
+            "question": "Have you bought ......................?",
+            "description": "",
+            "answers": [
+                "apples enough",
+                "enough apples"
+            ],
+            "correct": 1,
+            "id": "53f10ed86ab64e1a9e09f694d4b8a00a"
+        },
+        {
+            "question": "The water is ………………….",
+            "description": "",
+            "answers": [
+                "enough hot",
+                "hot enough"
+            ],
+            "correct": 1,
+            "id": "fd87c26d81be4edaa4ab47643fcb997f"
+        },
+        {
+            "question": "She is .....................… to understand things better.",
+            "description": "",
+            "answers": [
+                "enough old",
+                "old enough"
+            ],
+            "correct": 1,
+            "id": "276e83664ba94d6f8a66d1424646c86c"
+        },
+        {
+            "question": "We haven’t got .....................",
+            "description": "",
+            "answers": [
+                "volunteers enough",
+                "enough volunteers"
+            ],
+            "correct": 1,
+            "id": "2ad3c5d3b16a4fe18f0a8cfd6d0d034e"
+        },
+        {
+            "question": "She hasn’t got …………………",
+            "description": "",
+            "answers": [
+                "experience enough",
+                "enough experience"
+            ],
+            "correct": 1,
+            "id": "01b0096161f4480e87b4580c09a6ff5c"
+        },
+        {
+            "question": "I haven’t got .......................",
+            "description": "",
+            "answers": [
+                "money enough",
+                "enough money"
+            ],
+            "correct": 1,
+            "id": "11d5ba530e8f43a68e87340e7147eafe"
+        },
+        {
+            "question": "He is ..................... to buy a luxury car.",
+            "description": "",
+            "answers": [
+                "enough rich",
+                "rich enough"
+            ],
+            "correct": 1,
+            "id": "bf44c90acc1b4b5a982ec60e6616f2d5"
+        },
+        {
+            "question": "He is ..................... to solve this puzzle.",
+            "description": "",
+            "answers": [
+                "enough clever",
+                "clever enough"
+            ],
+            "correct": 1,
+            "id": "6749a5c22e3240b7a4237d98f8c5ccba"
+        },
+        {
+            "question": "The mangoes are ..................... to be eaten.",
+            "description": "",
+            "answers": [
+                "enough ripe",
+                "ripe enough"
+            ],
+            "correct": 1,
+            "id": "e7945ca61e224358bdac31ed0998cc57"
+        },
+        {
+            "question": "He hasn’t got .....................",
+            "description": "",
+            "answers": [
+                "clothes enough",
+                "enough clothes"
+            ],
+            "correct": 1,
+            "id": "16f53ce4fb31407f85641ab1b9211ba5"
+        }
+    ]
+}

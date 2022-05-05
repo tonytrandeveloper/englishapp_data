@@ -1,0 +1,168 @@
+{
+    "id": "086365f2800a43faa988ac75e7ec2c85",
+    "title": "Question Tags Exercise",
+    "questions": [
+        {
+            "question": "That boy works very hard, ……………………?",
+            "description": "",
+            "answers": [
+                "does he",
+                "doesn't he",
+                "don't he"
+            ],
+            "correct": 1,
+            "id": "9b2e48f86c76424d9d3989a8305f157a"
+        },
+        {
+            "question": "She did not go to school yesterday, …………………..?",
+            "description": "",
+            "answers": [
+                "didn't she",
+                "did she",
+                "had she"
+            ],
+            "correct": 1,
+            "id": "069bd7e80d334588bd2e387ddc01b4e6"
+        },
+        {
+            "question": "You won’t help him, …………………?",
+            "description": "",
+            "answers": [
+                "will you",
+                "won't you",
+                "can't you"
+            ],
+            "correct": 0,
+            "id": "629755a6b9ea4a0b92c751721cecce01"
+        },
+        {
+            "question": "She knows everything, ………………………?",
+            "description": "",
+            "answers": [
+                "does she",
+                "doesn't she",
+                "has she"
+            ],
+            "correct": 1,
+            "id": "8baee64f78f64f9384762692b556a17e"
+        },
+        {
+            "question": "He speaks English very well, ………………… ..?",
+            "description": "",
+            "answers": [
+                "don't he",
+                "doesn't he",
+                "does he"
+            ],
+            "correct": 1,
+            "id": "72fa8abd6b874c6e8015ea20411e9730"
+        },
+        {
+            "question": "Your friend is a good mechanic, ………………… .?",
+            "description": "",
+            "answers": [
+                "isn't he",
+                "is he",
+                "wasn't he"
+            ],
+            "correct": 0,
+            "id": "ffca5ee4d16040de923717b15d05aa4f"
+        },
+        {
+            "question": "There is someone in that room, ………………….?",
+            "description": "",
+            "answers": [
+                "is it",
+                "isn't there",
+                "is there"
+            ],
+            "correct": 1,
+            "id": "ae94e130ee7c489d95d404fa42df393d"
+        },
+        {
+            "question": "Please give me some money, ………………… .?",
+            "description": "",
+            "answers": [
+                "can't you",
+                "can you",
+                "won't you"
+            ],
+            "correct": 2,
+            "id": "aff8125f530443fe9768ec5b5e2c767a"
+        },
+        {
+            "question": "They never drink wine, ……………………?",
+            "description": "",
+            "answers": [
+                "do they",
+                "don't they",
+                "didn't they"
+            ],
+            "correct": 0,
+            "id": "6613d26404b24e7bad1255416f403e89"
+        },
+        {
+            "question": "He often comes late, ………………… .?",
+            "description": "",
+            "answers": [
+                "does he",
+                "doesn't he",
+                "didn't he"
+            ],
+            "correct": 1,
+            "id": "4a4bbdc973644024ba627be73a8d1913"
+        },
+        {
+            "question": "They are not coming today, ………………….?",
+            "description": "",
+            "answers": [
+                "are they",
+                "aren't they",
+                "don't they"
+            ],
+            "correct": 0,
+            "id": "5630a65b67d94284a76606f391423f4a"
+        },
+        {
+            "question": "You go there frequently, …………………?",
+            "description": "",
+            "answers": [
+                "do you",
+                "don't you",
+                "doesn't you"
+            ],
+            "correct": 1,
+            "id": "e9887aac16bd401eb933e01ee440591e"
+        },
+        {
+            "question": "They were playing cricket, …………………..?",
+            "description": "",
+            "answers": [
+                "were they",
+                "weren't they"
+            ],
+            "correct": 1,
+            "id": "e1417f0571c144e3bb8e9fd3c20accd3"
+        },
+        {
+            "question": "The lazy boy hardly does any work, …………………..?",
+            "description": "",
+            "answers": [
+                "does he",
+                "doesn't he"
+            ],
+            "correct": 0,
+            "id": "b3738ed4c48d4765ae6495d9826d35db"
+        },
+        {
+            "question": "You did not do it, …………………?",
+            "description": "",
+            "answers": [
+                "did you",
+                "didn't you"
+            ],
+            "correct": 0,
+            "id": "a648849d550e4747806c4271eb49b62c"
+        }
+    ]
+}

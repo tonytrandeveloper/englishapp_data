@@ -1,0 +1,133 @@
+{
+    "id": "770f0c14abd2475a9bf62f7ddddd3025",
+    "title": "Nouns Worksheet",
+    "questions": [
+        {
+            "question": "We have received no …………………. from them.",
+            "description": "Information is an uncountable noun it does not have a plural form.",
+            "answers": [
+                "information",
+                "informations"
+            ],
+            "correct": 0,
+            "id": "8b4d825470154b74acdfc5da0c788823"
+        },
+        {
+            "question": "I am selling my …………………….",
+            "description": "Furniture does not have a plural form.",
+            "answers": [
+                "furniture",
+                "furnitures"
+            ],
+            "correct": 0,
+            "id": "da92caca113146fca4e258e4d93d4d46"
+        },
+        {
+            "question": "You have got too much …………………….",
+            "description": "Luggage does not have a plural form.",
+            "answers": [
+                "luggages",
+                "luggage"
+            ],
+            "correct": 1,
+            "id": "c658adf7c51c4e80ace26312779a32af"
+        },
+        {
+            "question": "He is collecting money for ………………………",
+            "description": "The blind means all blind people. This expression cannot be used without 'the'.",
+            "answers": [
+                "blinds",
+                "the blind",
+                "the blinds"
+            ],
+            "correct": 1,
+            "id": "1c83c9e6c2c04b89b29df697f2274bda"
+        },
+        {
+            "question": "There are still many ……………………. In the world.",
+            "description": "",
+            "answers": [
+                "poor",
+                "poors",
+                "poor people"
+            ],
+            "correct": 2,
+            "id": "05bc0238f1bc459ba577c818696d6897"
+        },
+        {
+            "question": "I saw two ………………….. in the store.",
+            "description": "Women is the standard expression. ",
+            "answers": [
+                "females",
+                "women",
+                "female"
+            ],
+            "correct": 1,
+            "id": "d105ce667e3c4213a2ef6608f06e0a22"
+        },
+        {
+            "question": "The ……………………. are grazing.",
+            "description": "Cattle is a plural noun.",
+            "answers": [
+                "cattle",
+                "cattles"
+            ],
+            "correct": 0,
+            "id": "77300ca664a74310acf6f2b9ecd257de"
+        },
+        {
+            "question": "He has a huge ……………………. of money.",
+            "description": "Number is used with countable nouns use amount with money.",
+            "answers": [
+                "amount",
+                "number",
+                "quantity"
+            ],
+            "correct": 0,
+            "id": "1c94b47e0b6f4c3e934da84c88220c2e"
+        },
+        {
+            "question": "A large …………………… of people want to buy cars.",
+            "description": "Use number with plural nouns. ",
+            "answers": [
+                "number",
+                "amount",
+                "people"
+            ],
+            "correct": 0,
+            "id": "4ec9f184df9f44588a3ef215e98c059c"
+        },
+        {
+            "question": "She has got lovely black …………………….",
+            "description": "Hair is uncountable in English.",
+            "answers": [
+                "hair",
+                "hairs",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "547573e45b4f4b8b943316a2fd1f9ed3"
+        },
+        {
+            "question": "The news …………………….. too good to be true.",
+            "description": "News is uncountable and takes a singular verb.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "a0c2c8b3f79947a68f772cba67b20990"
+        },
+        {
+            "question": "Can you give me some …………………….?",
+            "description": "Advice does not have a plural noun.",
+            "answers": [
+                "advice",
+                "advices",
+                "advise"
+            ],
+            "correct": 0,
+            "id": "f3d099b7fd8647038bec59d80ed3fbcf"
+        }
+    ]
+}

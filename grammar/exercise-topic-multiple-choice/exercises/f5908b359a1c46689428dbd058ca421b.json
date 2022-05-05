@@ -1,0 +1,105 @@
+{
+    "id": "f5908b359a1c46689428dbd058ca421b",
+    "title": "Types of Sentences",
+    "questions": [
+        {
+            "question": "Their front door was open but nobody was inside.",
+            "description": "",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 2,
+            "id": "6ea7da2b7ad94b419afdf7f27f507bb1"
+        },
+        {
+            "question": "The coffee machine that I bought for my wife was not expensive.",
+            "description": "",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Conditional sentence"
+            ],
+            "correct": 1,
+            "id": "9b9530a55b7b4702b9d04a9207b90e3f"
+        },
+        {
+            "question": "She is the most beautiful girl that I have ever seen.",
+            "description": "",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1,
+            "id": "b995481ddf7a4ac5842f96ff797d5506"
+        },
+        {
+            "question": "I am tired of listening to advice.",
+            "description": "",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 0,
+            "id": "cc476f3bfb16487c9e183e0f2025d9aa"
+        },
+        {
+            "question": "She was punished for lying.",
+            "description": "",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 0,
+            "id": "cdb6d3ccdda848178999c83f88c5098f"
+        },
+        {
+            "question": "John’s mother asked me if I knew where he was.",
+            "description": "",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1,
+            "id": "7544dfa88c984678b00a5642b4a0d02d"
+        },
+        {
+            "question": "I was pleasantly surprised when she told me that she was my fan.",
+            "description": "",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1,
+            "id": "6ab0a6e684df46319f7d57246a43f84b"
+        },
+        {
+            "question": "My mother has wealth, fame, rank and power.",
+            "description": "",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 0,
+            "id": "f2020cb52c324f06bcf4fbc554279b81"
+        },
+        {
+            "question": "She was not very beautiful yet she was the most popular girl in my class.",
+            "description": "",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 2,
+            "id": "d940620cc75d4028a87dd4d53c74ef3c"
+        }
+    ]
+}

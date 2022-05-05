@@ -1,0 +1,138 @@
+{
+    "id": "11128eee34474cdd89846c4e263cd18a",
+    "title": "Figures Of Speech Exercise",
+    "questions": [
+        {
+            "question": "The righteous shall flourish as the palm tree.",
+            "description": "A simile is usually introduced by such words as like, as or so.",
+            "answers": [
+                "simile",
+                "metaphor",
+                "personification"
+            ],
+            "correct": 0,
+            "id": "317d971ffd6f47a1b6e861fbb5618f79"
+        },
+        {
+            "question": "Life is as tedious as a twice-told tale.",
+            "description": "A simile is usually introduced by such words as like, as or so.",
+            "answers": [
+                "Simile",
+                "Metaphor",
+                "Hyperbole"
+            ],
+            "correct": 0,
+            "id": "b386505a320d4bdab0d99a53600da2e3"
+        },
+        {
+            "question": "The camel is the ship of the desert.",
+            "description": "A metaphor is an implied simile. It does not state that one thing is like another. Rather it takes that as granted and proceeds as if the two were one.",
+            "answers": [
+                "Simile",
+                "Metaphor",
+                "Oxymoron"
+            ],
+            "correct": 1,
+            "id": "2eb73e511622435daf8bb195910d8678"
+        },
+        {
+            "question": "Variety is the spice of life.",
+            "description": "A metaphor is an implied simile. It does not state that one thing is like another. Rather it takes that as granted and proceeds as if the two were one.",
+            "answers": [
+                "Simile",
+                "Personification",
+                "Metaphor"
+            ],
+            "correct": 2,
+            "id": "6fa3e18156884eb6a0d9235f7ee68c3c"
+        },
+        {
+            "question": "Pride goeth forth on horseback, grand and gay.",
+            "description": "In personification, inanimate objects and ideas are spoken of as having life and intelligence.",
+            "answers": [
+                "Oxymoron",
+                "Apostrophe",
+                "Personification"
+            ],
+            "correct": 2,
+            "id": "8706076287504f1faa6100fb5f98a027"
+        },
+        {
+            "question": "O Solitude! Where are the charms that sages have seen in thy face?",
+            "description": "An apostrophe is a direct address to a personified object or idea.",
+            "answers": [
+                "Personification",
+                "Hyperbole",
+                "Apostrophe"
+            ],
+            "correct": 2,
+            "id": "c41cb05e78d64dfebd56a6af3050956d"
+        },
+        {
+            "question": "Death lays his icy hands on kings.",
+            "description": "In personification, inanimate objects and ideas are spoken of as having life and intelligence.",
+            "answers": [
+                "Epigram",
+                "Apostrophe",
+                "Personification"
+            ],
+            "correct": 2,
+            "id": "7653aaa948704cb899c20c4776dd5708"
+        },
+        {
+            "question": "Why, man, if the river were dry, I am able to fill it with tears.",
+            "description": "A hyperbole is statement made emphatic by overstatement.",
+            "answers": [
+                "Apostrophe",
+                "Metaphor",
+                "Hyperbole"
+            ],
+            "correct": 2,
+            "id": "7968c8ac8b984ad1ad304a91b3755d79"
+        },
+        {
+            "question": "O Hamlet! Thou hast cleft my heart in twain.",
+            "description": "A hyperbole is statement made emphatic by overstatement.",
+            "answers": [
+                "Metaphor",
+                "Oxymoron",
+                "Hyperbole"
+            ],
+            "correct": 2,
+            "id": "227826714c404ede96118acf525ddb28"
+        },
+        {
+            "question": "Man proposes, God disposes.",
+            "description": "In antithesis a striking contrast of words or ideas are expressed in the same sentence.",
+            "answers": [
+                "Antithesis",
+                "Hyperbole",
+                "Oxymoron"
+            ],
+            "correct": 0,
+            "id": "a1861ef76abb4ae8aca15a30d9dd3933"
+        },
+        {
+            "question": "Many are called, but few are chosen.",
+            "description": "In antithesis a striking contrast of words or ideas are expressed in the same sentence.",
+            "answers": [
+                "Antithesis",
+                "Apostrophe",
+                "Personification"
+            ],
+            "correct": 0,
+            "id": "8826708bff974d45a77f050902e5d2a5"
+        },
+        {
+            "question": "Here is the smell of blood still all the perfumes of Arabia will not sweeten this little hand.",
+            "description": "A hyperbole is statement made emphatic by overstatement.",
+            "answers": [
+                "Euphemism",
+                "Oxymoron",
+                "Hyperbole"
+            ],
+            "correct": 2,
+            "id": "a96a4a4360cf40048beddc7e46eead34"
+        }
+    ]
+}

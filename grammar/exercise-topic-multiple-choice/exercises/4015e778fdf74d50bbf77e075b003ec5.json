@@ -1,0 +1,141 @@
+{
+    "id": "4015e778fdf74d50bbf77e075b003ec5",
+    "title": "Reported Speech Exercise",
+    "questions": [
+        {
+            "question": "He asked me what …………………..",
+            "description": "In reported questions, the auxiliary verb goes after the subject.",
+            "answers": [
+                "was I doing",
+                "I was doing",
+                "I am doing"
+            ],
+            "correct": 1,
+            "id": "70cc26cfb66e4a1293dfa45310b9325a"
+        },
+        {
+            "question": "The stranger enquired where ………………",
+            "description": "In reported questions we do not use do, does or did.",
+            "answers": [
+                "I live",
+                "did I live",
+                "I lived",
+                "do I live"
+            ],
+            "correct": 2,
+            "id": "129880afd2d14b0cb9eac7136c15d017"
+        },
+        {
+            "question": "He asked them ………………… they would listen to such a man.",
+            "description": "We can use if or whether to report Yes/No questions.",
+            "answers": [
+                "if",
+                "whether",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ca4177bc2e63451796200cbd1dfe81c0"
+        },
+        {
+            "question": "The policeman ordered us ……………..",
+            "description": "We use infinitives to report imperative sentences.",
+            "answers": [
+                "that we go away",
+                "to go away",
+                "go away"
+            ],
+            "correct": 1,
+            "id": "468d933d22614b82b4c350558fe5d3b4"
+        },
+        {
+            "question": "She said that she ..................... me.",
+            "description": "Past tenses are used after a past reporting verb.",
+            "answers": [
+                "doesn't believe",
+                "didn't believe",
+                "hasn't believed"
+            ],
+            "correct": 1,
+            "id": "2d5443675a1f406a9889825d55dc97f2"
+        },
+        {
+            "question": "The king asked the philosopher whom he ………………….. the happiest man living.",
+            "description": "Past tenses are used after a past reporting verb.",
+            "answers": [
+                "consider",
+                "considers",
+                "considered"
+            ],
+            "correct": 2,
+            "id": "435eccbb5fb4422a89a5f247dbc04420"
+        },
+        {
+            "question": "I told them …………………",
+            "description": "We report imperatives with infinitives. ",
+            "answers": [
+                "that be quiet",
+                "that they be quiet",
+                "to be quiet"
+            ],
+            "correct": 2,
+            "id": "137c3848a12349a58fe09eb7448fbbdf"
+        },
+        {
+            "question": "Alladin asked the magician what ………………….. to deserve such a severe punishment.",
+            "description": "",
+            "answers": [
+                "had he done",
+                "he had done",
+                "he has done"
+            ],
+            "correct": 1,
+            "id": "21fda95039744549b404d86e7a2497d0"
+        },
+        {
+            "question": "They asked who ..................... and what ……………….",
+            "description": "In reported questions, the subject goes before the auxiliary verb.",
+            "answers": [
+                "are we we want",
+                "we were did we want",
+                "we were we wanted",
+                "were we we wanted"
+            ],
+            "correct": 2,
+            "id": "04c251721d6e492da7d45ceecda2dd80"
+        },
+        {
+            "question": "He told me to wait until he ……………….",
+            "description": "We use past tenses after past reporting verbs.",
+            "answers": [
+                "came",
+                "comes",
+                "had come"
+            ],
+            "correct": 0,
+            "id": "524c8bc66eff429a97e0f512e8b54df1"
+        },
+        {
+            "question": "The king was deeply grieved and asked his wife what ………………….. do for her.",
+            "description": "A past reporting verb is followed by verbs in the past tense.",
+            "answers": [
+                "could he",
+                "he could",
+                "he can",
+                "can he"
+            ],
+            "correct": 1,
+            "id": "9301d7fe97214a31bbc11055778690fe"
+        },
+        {
+            "question": "He proposed that …………….. wait for the news.",
+            "description": "",
+            "answers": [
+                "let them",
+                "let him",
+                "they should"
+            ],
+            "correct": 2,
+            "id": "01572c59b26b4e38b35f5fb22526715e"
+        }
+    ]
+}

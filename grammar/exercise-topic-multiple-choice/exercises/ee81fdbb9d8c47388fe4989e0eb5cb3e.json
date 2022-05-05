@@ -1,0 +1,137 @@
+{
+    "id": "ee81fdbb9d8c47388fe4989e0eb5cb3e",
+    "title": "Gap Filling Exercise",
+    "questions": [
+        {
+            "question": "……………………….. a noise, the thief ran away.",
+            "description": "The present participle is used when one event quickly follows the other.",
+            "answers": [
+                "Hearing",
+                "Having heard",
+                "Having been heard"
+            ],
+            "correct": 0,
+            "id": "e5283bd73cf1403fa7f7c95241f380a7"
+        },
+        {
+            "question": "He is ……………………….. fat to walk fast.",
+            "description": "Note the pattern too...to...",
+            "answers": [
+                "so",
+                "too",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f680ba84da324cae99642e26a865c3dd"
+        },
+        {
+            "question": "…………………………. he left home early, he was late for school.",
+            "description": "Although is a conjunction used to connect two contrasting ideas. ",
+            "answers": [
+                "However",
+                "Although",
+                "Despite"
+            ],
+            "correct": 1,
+            "id": "523d8b08502f4f748791ed177b4dcfc6"
+        },
+        {
+            "question": "Sam, ……………………… was my student many years ago, is now an accomplished architect.",
+            "description": "That cannot be used in non-identifying relative clauses. ",
+            "answers": [
+                "that",
+                "who",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "bcc346fe62344cf1ab567ce33c78873a"
+        },
+        {
+            "question": "He is ……………………….. lazy that he cannot succeed in life.",
+            "description": "The conjunction so...that... shows cause and effect.",
+            "answers": [
+                "so",
+                "too",
+                "very"
+            ],
+            "correct": 0,
+            "id": "9db652cf84974f1b91c347c08c0ec264"
+        },
+        {
+            "question": "………………………… you arrive on time, you will not be able to meet him.",
+            "description": "Unless is similar to if...not...",
+            "answers": [
+                "If",
+                "Unless",
+                "Without"
+            ],
+            "correct": 1,
+            "id": "e567b02c5b2745f7a045faccdafa83ab"
+        },
+        {
+            "question": "………………………….. hard you work, you cannot please him.",
+            "description": "",
+            "answers": [
+                "No matter",
+                "However",
+                ""
+            ],
+            "correct": 1,
+            "id": "6a1f3de7ffac4b53b3b9ad91c77d3d21"
+        },
+        {
+            "question": "…………………………….. his poor health, he attends the office regularly.",
+            "description": "",
+            "answers": [
+                "Though",
+                "In spite of",
+                "However"
+            ],
+            "correct": 1,
+            "id": "d977753f05f04ab0b4c38008a3ef3bc5"
+        },
+        {
+            "question": "Hurry up …………………………. you will be late to work.",
+            "description": "",
+            "answers": [
+                "unless",
+                "or else"
+            ],
+            "correct": 1,
+            "id": "b4af917c175f4ea49b7683a5506912a9"
+        },
+        {
+            "question": "The faster you run, …………………………..",
+            "description": "The same pattern should be used in both clauses. ",
+            "answers": [
+                "you get tired soon",
+                "sooner you get tired",
+                "the sooner you get tired"
+            ],
+            "correct": 2,
+            "id": "0f61a87461154172aec3d2842b5d2077"
+        },
+        {
+            "question": "The older I become, ………………………………",
+            "description": "",
+            "answers": [
+                "the happier I am",
+                "I am happier",
+                "happy I am"
+            ],
+            "correct": 0,
+            "id": "b45201feda6e4981b3bcd180b4b99267"
+        },
+        {
+            "question": "……………………….. it rains, we will get wet.",
+            "description": "If expresses a condition.",
+            "answers": [
+                "Whether",
+                "If",
+                "Unless"
+            ],
+            "correct": 1,
+            "id": "5a3b4d76c275429db37db2addf7f8e01"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "ef0b053b005e4583904882ca56e6e2eb",
+    "title": "Continuous And Non-continuous Verbs",
+    "questions": [
+        {
+            "question": "I ……………………….. doubtful about the new plan.",
+            "description": "When feel means have an opinion, it is not used in the continuous form.",
+            "answers": [
+                "feel",
+                "am feeling",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "50e72868c5384c29b5c1f41aaf6d70a1"
+        },
+        {
+            "question": "I …………………………… this scenery.",
+            "description": "The verb love is not normally used in the continuous form.",
+            "answers": [
+                "am loving",
+                "love",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "ad1318de78894c9ba46e5a75a1d5e23e"
+        },
+        {
+            "question": "I …………………………. fine.",
+            "description": "To talk about feelings that are going on, we can use the simple and continuous forms of the verb.",
+            "answers": [
+                "feel",
+                "am feeling",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "830218a7bd734d09a3001ed24bf8ff43"
+        },
+        {
+            "question": "I ………………………… your mother tomorrow.",
+            "description": "See has a continuous form when it is used to talk about a pre-planned future event. ",
+            "answers": [
+                "see",
+                "am seeing",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "aab52a0903724b6ba2e8abc8837981b1"
+        },
+        {
+            "question": "I ………………………… you have a problem with me.",
+            "description": "When see means understand it is not used in the continuous form.",
+            "answers": [
+                "see",
+                "am seeing",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "749d18c5fbc14efb9d48e93497eb81ba"
+        },
+        {
+            "question": "That creature …………………………. like a rabbit.",
+            "description": "When look means seem, it is not used in the continuous form.",
+            "answers": [
+                "looks",
+                "is looking",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ffcc2856672e4bba83f11226c6d22281"
+        },
+        {
+            "question": "I ………………………… that you are quitting your job.",
+            "description": "The word hear is not normally used in the continuous form.",
+            "answers": [
+                "hear",
+                "am hearing",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "cebf408a9a8d410395669c8a0829c2eb"
+        },
+        {
+            "question": "I ………………………… of writing a novel.",
+            "description": "",
+            "answers": [
+                "think",
+                "am thinking",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "6100f4002c664cc288e1ca0e235df619"
+        },
+        {
+            "question": "I ……………………….. we should not do it.",
+            "description": "When think means have an opinion, it is not used in the continuous form.",
+            "answers": [
+                "think",
+                "am thinking",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "696c3cf1ea02412c8f5f22f89daaf68b"
+        },
+        {
+            "question": "I …………………… with the argument that education should be free for all.",
+            "description": "The verb agree is not normally used in the continuous form.",
+            "answers": [
+                "agree",
+                "am agreeing",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ef56c0c50b604067b959e5abb5bfdcef"
+        },
+        {
+            "question": "We may or may not go. It …………………………. on the weather.",
+            "description": "The verb depend is not normally used in the continuous form.",
+            "answers": [
+                "is depending",
+                "depends",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1a8052bad2ef4930851844b7dd2c959a"
+        },
+        {
+            "question": "I still ………………………… meeting the seer.",
+            "description": "Remember is not normally used in the continuous form.",
+            "answers": [
+                "am remembering",
+                "remember",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1c5dd0c55b0f4f1597b00fc63ad75963"
+        }
+    ]
+}

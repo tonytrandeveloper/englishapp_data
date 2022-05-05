@@ -1,0 +1,143 @@
+{
+    "id": "ec18d2da2cf54b1085bf552fdbdb347c",
+    "title": "Indirect Questions",
+    "questions": [
+        {
+            "question": "I asked who ....................",
+            "description": "In reported questions the subject goes before the auxiliary verb.",
+            "answers": [
+                "she was",
+                "was she",
+                "she is",
+                "is she"
+            ],
+            "correct": 0,
+            "id": "8576c5d1842c47d682675a1a4a9dfdac"
+        },
+        {
+            "question": "She wondered why ...................... a coat.",
+            "description": "In reported questions the subject goes before the auxiliary verb. If the reporting verb is in the past tense, the verb in the reported speech will also be in the past tense. ",
+            "answers": [
+                "I wasn't wearing",
+                "wasn't I wearing",
+                "I weren't wearing"
+            ],
+            "correct": 0,
+            "id": "52f462a0cf084bfca4fd9ae3893ad852"
+        },
+        {
+            "question": "We need to decide where ................ to sleep.",
+            "description": "When the reporting verb is in the present tense, the verb in the reported speech is more likely to be in the present or future tense. ",
+            "answers": [
+                "is she going",
+                "she is going",
+                "she was going"
+            ],
+            "correct": 1,
+            "id": "32b3f8532a9543d1b2e3fffdb8220544"
+        },
+        {
+            "question": "Grandma told me when ........................... arriving but I have forgotten.",
+            "description": "In reported questions the subject goes before the auxiliary verb. If the reporting verb is in the past tense, the verb in the reported speech will also be in the past tense.",
+            "answers": [
+                "was she",
+                "she was",
+                "she will be",
+                "she is"
+            ],
+            "correct": 1,
+            "id": "707e73aadef643c7a44ef8a699e697b6"
+        },
+        {
+            "question": "He explained what ...................",
+            "description": "In reported questions the subject goes before the auxiliary verb. If the reporting verb is in the past tense, the verb in the reported speech will also be in the past tense.",
+            "answers": [
+                "is his problem",
+                "his problem was",
+                "was his problem"
+            ],
+            "correct": 1,
+            "id": "e170be1c43d14f1fa72fcfa9274a37c8"
+        },
+        {
+            "question": "You haven’t said why ................... to come.",
+            "description": "In indirect questions, the auxiliary verb goes after the subject. When the reporting verb is in the present tense, the verb in the reported speech is also likely to be in the present tense. ",
+            "answers": [
+                "don't you want",
+                "you don't want",
+                "you didn't want",
+                "you hadn't wanted"
+            ],
+            "correct": 1,
+            "id": "7b960a8c8c7f49379638419b06b9de38"
+        },
+        {
+            "question": "Tell me when ..................... on holiday.",
+            "description": "In reported questions the subject goes before the auxiliary verb. If the reporting verb is in the past tense, the verb in the reported speech will also be in the past tense.",
+            "answers": [
+                "are you leaving",
+                "you are leaving",
+                "you were leaving"
+            ],
+            "correct": 1,
+            "id": "6334c057db0c40e3aea9c48cf1c35b8a"
+        },
+        {
+            "question": "The traveller asked me if I knew where ..................",
+            "description": "8. The traveller asked me if I knew where ..................",
+            "answers": [
+                "was the inn",
+                "the inn was",
+                "the inn is"
+            ],
+            "correct": 1,
+            "id": "3631a30cd62741c39ca0f89209b957eb"
+        },
+        {
+            "question": "We need to know whether ....................... interested in the proposal.",
+            "description": "When the reporting verb is in the present tense, the verb in the reported speech will most probably be in the present tense. ",
+            "answers": [
+                "are they",
+                "they are",
+                "they were"
+            ],
+            "correct": 1,
+            "id": "8efbb5a9a32e44ba860162c392d9b8fe"
+        },
+        {
+            "question": "Nobody told me why .................... to give up my rights.",
+            "description": "The auxiliary do is not used in indirect questions.",
+            "answers": [
+                "did I have",
+                "I had",
+                "do I have"
+            ],
+            "correct": 1,
+            "id": "3f806cfbde014e6495d8d7306eae1059"
+        },
+        {
+            "question": "I just want to know when .....................",
+            "description": "",
+            "answers": [
+                "are you leaving",
+                "you are leaving",
+                "were you leaving",
+                "you were living"
+            ],
+            "correct": 1,
+            "id": "425e4d0a777a438a9f0408d29243d2a5"
+        },
+        {
+            "question": "She wondered who ..................... the door open.",
+            "description": "",
+            "answers": [
+                "has left",
+                "have left",
+                "did leave",
+                "had left"
+            ],
+            "correct": 3,
+            "id": "889ed08569d7449f942cd82d893361bd"
+        }
+    ]
+}

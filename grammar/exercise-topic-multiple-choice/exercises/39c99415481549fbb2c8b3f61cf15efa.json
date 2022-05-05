@@ -1,0 +1,138 @@
+{
+    "id": "39c99415481549fbb2c8b3f61cf15efa",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Do you know the man ……………………….. called this morning?",
+            "description": "Use who to refer to people. The relative pronoun who acts as the subject of the relative clause. ",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "dfc1e4c93e194b7c8c4e092a9b185138"
+        },
+        {
+            "question": "I know a child ………………………. can do complex math in her head.",
+            "description": "Use who to refer to people. The relative pronoun who acts as the subject of the relative clause. ",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "72cc3392b02c48fc967a018207db5d53"
+        },
+        {
+            "question": "Maria ………………………… parents are rich considers herself above us.",
+            "description": "The relative pronoun whose replaces pronouns like his, her or their.\r\nMaria considers herself above us. Her parents are rich. Maria whose parents are rich considers herself above us.",
+            "answers": [
+                "who",
+                "who's",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "39e98d77068b4102bbe2eb62eb6b973a"
+        },
+        {
+            "question": "It was a puzzle …………………………. no one could solve.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "45193ac4a951404ea2182e5e7f1e4c3b"
+        },
+        {
+            "question": "The man ……………………….. legs were amputated can never walk again.",
+            "description": "",
+            "answers": [
+                "whom",
+                "whose",
+                "who's"
+            ],
+            "correct": 1,
+            "id": "4a5aae55f69d41a2a41af64c9186e912"
+        },
+        {
+            "question": "The girl ………………………….. he is going to marry is an old friend of mine.",
+            "description": "That can replace whom in identifying relative clauses. ",
+            "answers": [
+                "whom",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "028b0ca32d9546e6bbf35a0fb18b1616"
+        },
+        {
+            "question": "The police arrested the man …………………………. rants on social media led to a communal clash.",
+            "description": "",
+            "answers": [
+                "who",
+                "whose",
+                "who's"
+            ],
+            "correct": 1,
+            "id": "3acf74c009da46fd8755d20c881d33b9"
+        },
+        {
+            "question": "The girl ………………………… parents work abroad lives with her grandmother.",
+            "description": "",
+            "answers": [
+                "whose",
+                "who's",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "eeb3f96214904564a58a4222615a691a"
+        },
+        {
+            "question": "He has bought a parrot ……………………….. can speak.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "25096edeb3654d7eb69f66d68dd2c440"
+        },
+        {
+            "question": "This is the estate ………………………. I inherited from my grandfather.",
+            "description": "Either which or that can refer to things. ",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "664d84c0dd584589baa3a2ae9802b3ae"
+        },
+        {
+            "question": "The birds …………………………. were kept in the cage were released by the man.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "51674664481a4b8cb3f9b6771fb55554"
+        },
+        {
+            "question": "All ………………………….. I have is yours.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "754b27cfeb4f4c5d909503b6071ced8d"
+        }
+    ]
+}

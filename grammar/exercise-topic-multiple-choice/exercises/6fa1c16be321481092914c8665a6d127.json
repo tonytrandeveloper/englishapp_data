@@ -1,0 +1,138 @@
+{
+    "id": "6fa1c16be321481092914c8665a6d127",
+    "title": "Identify The Conditional",
+    "questions": [
+        {
+            "question": "If you want to learn a musical instrument, you have to practice.",
+            "description": "",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional"
+            ],
+            "correct": 0,
+            "id": "f6449f2073f746a1b84b7b88b0584cc9"
+        },
+        {
+            "question": "If I have enough time tomorrow, I will come and see you.",
+            "description": "In the first conditional we use a simple present tense in the if clause and will + infinitive in the main clause.",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 0,
+            "id": "55b013d88469429c876c205d4ebcb6f0"
+        },
+        {
+            "question": "If you answered enough questions, you would pass.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "7802194235054dcea1e2091485491fe8"
+        },
+        {
+            "question": "If you eat too much, you will get fat.",
+            "description": "In the first conditional we use a simple present tense in the if clause and will + infinitive in the main clause.",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 0,
+            "id": "7c0d626567de4a65aeec328fdb3ea0c7"
+        },
+        {
+            "question": "If she arrived now, we could go to the movies.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "ff518f6af3f74564a94956a81843b2e2"
+        },
+        {
+            "question": "If it is fine tomorrow, I will paint the walls.",
+            "description": "In the first conditional we use a simple present tense in the if clause and will + infinitive in the main clause.",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 0,
+            "id": "9e28a45d777b4ea4b9b2d1e952b791ab"
+        },
+        {
+            "question": "It would be nice if you cooked dinner today.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "70ee1f35640640f3a43ec864e06063d9"
+        },
+        {
+            "question": "I will get up earlier if there is a good reason to.",
+            "description": "In the first conditional we use a simple present tense in the if clause and will + infinitive in the main clause.",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 0,
+            "id": "0117088c8d9d42e5a642efb54bfc7d04"
+        },
+        {
+            "question": "If we had enough money we could buy a car.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "2fee7dc037114e8c8e66eecf234ec271"
+        },
+        {
+            "question": "If I had won the race, I would have made my parents proud.",
+            "description": "In the third conditional we use a past perfect tense in the if-clause and would have + past participle in the main clause.",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 2,
+            "id": "2b7fa519c49e40dba0ef122070b56b6b"
+        },
+        {
+            "question": "If you had asked me more nicely, I might have bought you a drink.",
+            "description": "In the third conditional we use a past perfect tense in the if-clause and would have + past participle in the main clause.",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 2,
+            "id": "f2a90378c8754718a21d69825d006b7b"
+        },
+        {
+            "question": "If you heat ice it melts.",
+            "description": "In the zero conditional we use a present tense in both clauses.",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional"
+            ],
+            "correct": 0,
+            "id": "cd9122e92579412cab79d4f3db2a00b1"
+        }
+    ]
+}

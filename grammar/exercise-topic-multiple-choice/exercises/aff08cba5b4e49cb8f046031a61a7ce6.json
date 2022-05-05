@@ -1,0 +1,139 @@
+{
+    "id": "aff08cba5b4e49cb8f046031a61a7ce6",
+    "title": "Confusing Words Exercise",
+    "questions": [
+        {
+            "question": "I ………………. the papers to his office.",
+            "description": "We use bring for movements to the place where the speaker or the listener is. We use take for movements to other places.",
+            "answers": [
+                "took",
+                "brought",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "1e4d163d51be470b99df905ecfa38469"
+        },
+        {
+            "question": "This is a lovely beach. Thanks for ………………… me here.",
+            "description": "We use bring for movements to the place where the speaker or the listener is. We use take for movements to other places.",
+            "answers": [
+                "taking",
+                "bringing",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "aeb8364b967248c3b5e87398ce270290"
+        },
+        {
+            "question": "……………….. like swimming.",
+            "description": "Before a noun with a determiner, both and both of are both possible.",
+            "answers": [
+                "Both my parents",
+                "Both of my parents",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c1fdf459c1234105843e9ea5e59ca4c3"
+        },
+        {
+            "question": "I …………….. my camera to James and I never saw it again.",
+            "description": "To lend is to give. You lend something to somebody.",
+            "answers": [
+                "lent",
+                "borrowed",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "fec3b13f50dd4de08a1e1bc8908db4fd"
+        },
+        {
+            "question": "What are the main differences ………………….. dogs, wolves and foxes?",
+            "description": "We use between, not among, after difference.",
+            "answers": [
+                "between",
+                "among",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "4b7c4a753e4240c0b18d6ad1fad4190b"
+        },
+        {
+            "question": "I had ……………… unpleasant experience in the morning.",
+            "description": "A little and a bit are not used with adjectives in attributive position.",
+            "answers": [
+                "a rather",
+                "a bit",
+                "a little"
+            ],
+            "correct": 0,
+            "id": "9191aa89b5b54aba88a2170b4223320a"
+        },
+        {
+            "question": "The house ……………….. is very small.",
+            "description": "That…in can mean where.",
+            "answers": [
+                "that I live in",
+                "where I live",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "eb4c38e57602421ba4f01a785b523df3"
+        },
+        {
+            "question": "American football is very different ……………. soccer.",
+            "description": "From and to are common in British English and than is common in American English.",
+            "answers": [
+                "from",
+                "to",
+                "than",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "a800b61c368c42d7ba138b16a628b4eb"
+        },
+        {
+            "question": "At no time ……………… her self-control.",
+            "description": "If a negative adverb comes at the beginning of a clause, it is usually followed by auxiliary verb + subject.",
+            "answers": [
+                "she did lose",
+                "did she lose",
+                "she lost"
+            ],
+            "correct": 1,
+            "id": "41d4e205dac44ad1b7faafe778ee18d0"
+        },
+        {
+            "question": "I ………………. going to new places and meeting new people.",
+            "description": "Very much does not come between like and its object.",
+            "answers": [
+                "like very much",
+                "very much like",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "c4002d80d1c24ba299531ffe704059ef"
+        },
+        {
+            "question": "A crocodile starts life ………….. an egg.",
+            "description": "",
+            "answers": [
+                "like",
+                "as",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "5a6ebeef6cd440fc92e1969cd166d4ce"
+        },
+        {
+            "question": "Could you ……………. if dad is in the garage?",
+            "description": "Before ‘if’ we can use ‘see’ or ‘look to see’. Look is not used before if or whether. ",
+            "answers": [
+                "see",
+                "look",
+                "look to see"
+            ],
+            "correct": 2,
+            "id": "81ee23cce3ba42ab93283fa33d0dae6b"
+        }
+    ]
+}

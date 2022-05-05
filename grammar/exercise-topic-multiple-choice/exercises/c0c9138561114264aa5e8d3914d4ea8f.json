@@ -1,0 +1,136 @@
+{
+    "id": "c0c9138561114264aa5e8d3914d4ea8f",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "I ..................... him for the past month.",
+            "description": "The present perfect is more common with the time expressions for and since.",
+            "answers": [
+                "haven't met",
+                "didn't meet",
+                "hadn't"
+            ],
+            "correct": 0,
+            "id": "b51b46b77dd24bacb0fe355423cee508"
+        },
+        {
+            "question": "Professionals ..................... doctors and teachers are more useful than artists.",
+            "description": "We use such as to give examples.",
+            "answers": [
+                "such as",
+                "such that",
+                "such"
+            ],
+            "correct": 0,
+            "id": "b695fcf05adc4c1194a48add8a85934d"
+        },
+        {
+            "question": "The girl ....................... walked in right now is my niece.",
+            "description": "We use who to refer to people.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "5bb258b3c29d4fca98e0e8852f292f5f"
+        },
+        {
+            "question": "Something .......................... be done to improve the situation.",
+            "description": "Ought is followed by an infinitive with to. Ought to is similar to should.",
+            "answers": [
+                "ought to",
+                "ought",
+                "should"
+            ],
+            "correct": 2,
+            "id": "a0df59cf3b21433a8b94592284c4353a"
+        },
+        {
+            "question": "You ......................... leave him alone.",
+            "description": "Must is a modal auxiliary. Questions and negatives are made without do.",
+            "answers": [
+                "must not",
+                "don't must",
+                "not must"
+            ],
+            "correct": 0,
+            "id": "dabaf66de85b42d9a71fabe21915c352"
+        },
+        {
+            "question": "I opened the door but I didn't see ......................",
+            "description": "Not anybody means the same as nobody.",
+            "answers": [
+                "anybody",
+                "nobody",
+                "any body"
+            ],
+            "correct": 0,
+            "id": "228d0578a400419fb9862a9964791efb"
+        },
+        {
+            "question": "I rang the doorbell six times but ........................ opened the door.",
+            "description": "",
+            "answers": [
+                "anybody",
+                "nobody",
+                "no body"
+            ],
+            "correct": 1,
+            "id": "81c3d348f173489eb828acb515162c68"
+        },
+        {
+            "question": "She didn't ........................... recognize me.",
+            "description": "",
+            "answers": [
+                "quite",
+                "rather",
+                "much"
+            ],
+            "correct": 0,
+            "id": "11ba0d6398a54ad5988af4207ddb0fa3"
+        },
+        {
+            "question": "This is the .......................... movie I have seen.",
+            "description": "Worst is the superlative form of bad.",
+            "answers": [
+                "worse",
+                "baddest",
+                "worst"
+            ],
+            "correct": 2,
+            "id": "9eed65c1fdb9424699a0cadb63e7cd0a"
+        },
+        {
+            "question": "We got into trouble …………………………. your stupidity.",
+            "description": "Because of is a preposition. It is used before a noun.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "f2b306604eee4272abb43a58cb7637bd"
+        },
+        {
+            "question": "He worked ………………………. the best of his ability.",
+            "description": "",
+            "answers": [
+                "at",
+                "to",
+                "for"
+            ],
+            "correct": 1,
+            "id": "d732fda7d02c428a91e25d4f773a3446"
+        },
+        {
+            "question": "Cain struck Abel …………………………… he was jealous of him.",
+            "description": "Because is a conjunction. It is used before a clause.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "63b2ad78221840cfa0b635a138cf9b0b"
+        }
+    ]
+}

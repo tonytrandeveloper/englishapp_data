@@ -1,0 +1,93 @@
+{
+    "id": "799ada07b2c44529942e888211bb2983",
+    "title": "As, Than And That",
+    "questions": [
+        {
+            "question": "She is taller …………………… her sisters.",
+            "description": "",
+            "answers": [
+                "than",
+                "as"
+            ],
+            "correct": 0,
+            "id": "11182c7fc08447098e43a3cf5c551a54"
+        },
+        {
+            "question": "My hands were as cold …………………… ice.",
+            "description": "",
+            "answers": [
+                "as",
+                "so",
+                "than"
+            ],
+            "correct": 0,
+            "id": "8078005f7c2346c5a3b7b76e669af673"
+        },
+        {
+            "question": "The baby’s eyes are the same color ………………………. yours.",
+            "description": "",
+            "answers": [
+                "than",
+                "as",
+                "that"
+            ],
+            "correct": 1,
+            "id": "950b750baad6401c8d313b61496f4db3"
+        },
+        {
+            "question": "Their relationship was as stormy ………………………….. had been expected.",
+            "description": "",
+            "answers": [
+                "as",
+                "than",
+                "as it"
+            ],
+            "correct": 0,
+            "id": "685a2915b017489b938f430a123a770f"
+        },
+        {
+            "question": "He smokes more ……………………. is good for him.",
+            "description": "",
+            "answers": [
+                "than",
+                "then",
+                "than it"
+            ],
+            "correct": 0,
+            "id": "71918171866a41468a7a918d578e872d"
+        },
+        {
+            "question": "Don’t forget to take your ticket ……………………… last year.",
+            "description": "",
+            "answers": [
+                "as I did",
+                "as I did it",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "962d41dbd06c4657ab3f00afd2092b24"
+        },
+        {
+            "question": "Susie is going to join us, ………………… was agreed last week.",
+            "description": "",
+            "answers": [
+                "as",
+                "than",
+                "as that"
+            ],
+            "correct": 0,
+            "id": "b1fc361a55054cae8b7785ddf0ac095f"
+        },
+        {
+            "question": "They sent more food .....................… I had ordered.",
+            "description": "",
+            "answers": [
+                "than",
+                "then",
+                "as"
+            ],
+            "correct": 0,
+            "id": "9d1878b6071341bf9577d19c3a9b3d5e"
+        }
+    ]
+}

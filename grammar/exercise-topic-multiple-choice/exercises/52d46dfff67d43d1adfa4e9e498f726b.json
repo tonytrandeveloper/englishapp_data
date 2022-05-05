@@ -1,0 +1,116 @@
+{
+    "id": "52d46dfff67d43d1adfa4e9e498f726b",
+    "title": "Possessive Pronouns Or Possessive Adjectives",
+    "questions": [
+        {
+            "question": "We went to their house yesterday.",
+            "description": "",
+            "answers": [
+                "Their is a possessive pronoun",
+                "Their is a possessive adjective"
+            ],
+            "correct": 1,
+            "id": "3bab752441134479b78731c5ace12f21"
+        },
+        {
+            "question": "James has never invited me to his parties.",
+            "description": "",
+            "answers": [
+                "His is a possessive pronoun",
+                "His is a possessive adjective"
+            ],
+            "correct": 1,
+            "id": "9a865fd40fc241a4adb4140d850d8f74"
+        },
+        {
+            "question": "Where is your umbrella?",
+            "description": "",
+            "answers": [
+                "Your is a possessive pronoun",
+                "Your is a possessive adjective"
+            ],
+            "correct": 1,
+            "id": "fc887e63c2cb46d5ac0e157404bd9789"
+        },
+        {
+            "question": "The students are doing their homework.",
+            "description": "",
+            "answers": [
+                "Their is a possessive adjective",
+                "Their is a possessive pronoun"
+            ],
+            "correct": 0,
+            "id": "5b1c612e76cf4ca9852533d286c6fc7c"
+        },
+        {
+            "question": "Your car is faster than hers.",
+            "description": "",
+            "answers": [
+                "Hers is a possessive pronoun",
+                "Hers is a possessive adjective"
+            ],
+            "correct": 0,
+            "id": "b1fb4c62c51644ffb19e21dfac277551"
+        },
+        {
+            "question": "This is my passport. Where is yours?",
+            "description": "",
+            "answers": [
+                "Yours is a possessive adjective",
+                "Yours is a possessive pronoun"
+            ],
+            "correct": 1,
+            "id": "551518e14409465faf2bccc482127be5"
+        },
+        {
+            "question": "You have never visited our home.",
+            "description": "",
+            "answers": [
+                "Our is a possessive pronoun",
+                "Our is a possessive adjective"
+            ],
+            "correct": 1,
+            "id": "1e3f2693c5f14054a64c1d0f6fd57386"
+        },
+        {
+            "question": "Her wardrobe was full of nice clothes.",
+            "description": "",
+            "answers": [
+                "Her is a possessive pronoun",
+                "Her is a possessive adjective"
+            ],
+            "correct": 1,
+            "id": "f40c61cefe3a4e0ea23a49deb6d8ae7c"
+        },
+        {
+            "question": "This is not your phone. It is his.",
+            "description": "",
+            "answers": [
+                "His is a possessive pronoun",
+                "His is a possessive adjective"
+            ],
+            "correct": 0,
+            "id": "74d08ad7201f456489bd0b13c675438b"
+        },
+        {
+            "question": "The cat has had its breakfast.",
+            "description": "",
+            "answers": [
+                "Its is a possessive adjective",
+                "Its is a possessive pronoun"
+            ],
+            "correct": 0,
+            "id": "1911ab5e6b424d85b8d0fb5e7059bc7a"
+        },
+        {
+            "question": "‘Whose phone is this?’ ‘It is mine.’",
+            "description": "",
+            "answers": [
+                "Mine is a possessive pronoun",
+                "Mine is a possessive adjective"
+            ],
+            "correct": 0,
+            "id": "2047aa55ff5a4c69abb6a72837941351"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "id": "0253ac3d4e5042999b4aca69268bef3c",
+    "title": "Simple Past vs. Present Perfect",
+    "questions": [
+        {
+            "question": "I ............................... in Kerala when I was a child.",
+            "description": "When we say when something happened, we normally use the simple past. ",
+            "answers": [
+                "lived",
+                "have lived"
+            ],
+            "correct": 0,
+            "id": "c823acd52ffd4e6190f8ee381b89efdc"
+        },
+        {
+            "question": "I .................................... him since June.",
+            "description": "The present perfect is used to talk about an action or situation that started in the past and has continued up to the present. It is common with the time expressions since and for. ",
+            "answers": [
+                "didn't see",
+                "haven't seen"
+            ],
+            "correct": 1,
+            "id": "b3f235f824c5468dbdce2c223dca7a1d"
+        },
+        {
+            "question": "There ................................ an explosion near the temple.",
+            "description": "The present perfect is commonly used to announce news. ",
+            "answers": [
+                "was",
+                "has been"
+            ],
+            "correct": 0,
+            "id": "c63d4948f8ef430caba54a5e627a8bb5"
+        },
+        {
+            "question": "Last night there .................................... an explosion in the city.",
+            "description": "When we say when something happened, we normally use the simple past. ",
+            "answers": [
+                "was",
+                "has been"
+            ],
+            "correct": 0,
+            "id": "e4a81f5eed844fd0a32c9d58c5bca9de"
+        },
+        {
+            "question": "She .................................. unemployed since she left her country.",
+            "description": "The present perfect is used to talk about an action or situation that started in the past and has continued up to the present. It is common with the time expressions since and for. ",
+            "answers": [
+                "was",
+                "has been"
+            ],
+            "correct": 1,
+            "id": "cfd657d440724801a7a6feff94e74db2"
+        },
+        {
+            "question": "They ........................................ the contract yesterday.",
+            "description": "When we say when something happened, we normally use the simple past. ",
+            "answers": [
+                "signed",
+                "have signed"
+            ],
+            "correct": 0,
+            "id": "c7e4232876d041f6a6af4084d478b5ae"
+        },
+        {
+            "question": "The program ....................................... yet.",
+            "description": "The present perfect can be used in the sense of 'up to now'.",
+            "answers": [
+                "didn't start",
+                "hasn't started"
+            ],
+            "correct": 1,
+            "id": "25a24c5ea2414c9d89bb72e87c7bab78"
+        },
+        {
+            "question": "I ........................................ that movie.",
+            "description": "The present perfect is commonly used to talk about finished events whose time is not mentioned. ",
+            "answers": [
+                "didn't see",
+                "haven't seen"
+            ],
+            "correct": 1,
+            "id": "b66e239eeceb4b1d8db7589205a984d4"
+        },
+        {
+            "question": "I ........................................ working on that project yet.",
+            "description": "",
+            "answers": [
+                "didn't start",
+                "haven't started"
+            ],
+            "correct": 1,
+            "id": "d814c415cb1343a29d4b7d2f1f92a230"
+        },
+        {
+            "question": "Look! Someone ..................................... their umbrella in the hall.",
+            "description": "The present perfect is commonly used to talk about finished events whose time is not mentioned. ",
+            "answers": [
+                "left",
+                "has left"
+            ],
+            "correct": 1,
+            "id": "903d5196a3454b0eb64b08da4192735b"
+        },
+        {
+            "question": "....................................... to Venice?",
+            "description": "The present perfect is commonly used to talk about finished events whose time is not mentioned. ",
+            "answers": [
+                "Did you ever go",
+                "Have you ever been"
+            ],
+            "correct": 1,
+            "id": "e09a86d486d64ff09e349fc7c86a0d23"
+        },
+        {
+            "question": "I ...................................... the bell six times.",
+            "description": "",
+            "answers": [
+                "rang",
+                "have rung"
+            ],
+            "correct": 0,
+            "id": "4c0b53a81a1b435986d8e447b03da7a0"
+        }
+    ]
+}

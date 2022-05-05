@@ -1,0 +1,138 @@
+{
+    "id": "947724cdd4e74d8396a1a9e43421b13f",
+    "title": "Parts Of Speech Exercise",
+    "questions": [
+        {
+            "question": "She had to move out of that tough ...................................",
+            "description": "We need a noun here.",
+            "answers": [
+                "neighborly",
+                "neighboring",
+                "neighborhood"
+            ],
+            "correct": 2,
+            "id": "efcaecf1dd8c481f8c8f0b02a93b1597"
+        },
+        {
+            "question": "The townsfolk were quite ........................................... when we moved here.",
+            "description": "Neighborly means friendly. ",
+            "answers": [
+                "neighbor",
+                "neighboring",
+                "neighborly"
+            ],
+            "correct": 2,
+            "id": "e2c3c62d7ed24c47a7a85bceea75b33d"
+        },
+        {
+            "question": "She is so ...................................... she jumps at the slightest noise.",
+            "description": "We use a noun or adjective as the complement of a verb of incomplete predication. ",
+            "answers": [
+                "nervous",
+                "nervously",
+                "nervousness"
+            ],
+            "correct": 0,
+            "id": "3e9c015cdc494793874d52133703eaa9"
+        },
+        {
+            "question": "He is charming ............................................. I don't quite trust him.",
+            "description": "Nevertheless is a transitional adverb. It is similar to however.",
+            "answers": [
+                "though",
+                "despite",
+                "nevertheless"
+            ],
+            "correct": 2,
+            "id": "2a4eabc4498b45039fdb20d424dcee6f"
+        },
+        {
+            "question": "She gave me a ............................................ answer.",
+            "description": "Noncommittal can mean indefinite or reserved. ",
+            "answers": [
+                "nonchalant",
+                "noncommittal",
+                "nominal"
+            ],
+            "correct": 1,
+            "id": "64bf1d2e2a4a463eb147ee08db1be46a"
+        },
+        {
+            "question": "There will be a ................................................ charge for the lunch.",
+            "description": "Nominal can mean low or small. ",
+            "answers": [
+                "nominate",
+                "nominal",
+                "nominee"
+            ],
+            "correct": 1,
+            "id": "aeb623f245d543848c321cf9b01ddfbd"
+        },
+        {
+            "question": "Paying taxes is ............................................",
+            "description": "Obligatory means compulsory or mandatory. ",
+            "answers": [
+                "obligation",
+                "obligational",
+                "obligatory"
+            ],
+            "correct": 2,
+            "id": "fee37174a4bd4886b16da125dbab3c97"
+        },
+        {
+            "question": "It is hard to be polite to ........................................... people.",
+            "description": "Obtrusive means intrusive or interfering. ",
+            "answers": [
+                "obtrusive",
+                "obstructive",
+                "obstrusive"
+            ],
+            "correct": 0,
+            "id": "37284ada907c4ec6af8e7246dc21b6c1"
+        },
+        {
+            "question": "The weather was good except for an .............................................. shower.",
+            "description": "Occasional is the adjective form. ",
+            "answers": [
+                "occasion",
+                "occasional",
+                "occasionally"
+            ],
+            "correct": 1,
+            "id": "a0e333929c82412b94d4be6bfc2ef8ad"
+        },
+        {
+            "question": "The youth's language was .........................................",
+            "description": "Offensive means insulting. ",
+            "answers": [
+                "offense",
+                "offensive",
+                "offend"
+            ],
+            "correct": 1,
+            "id": "61172a7c147d4f3f8e0e7758ca7f03c9"
+        },
+        {
+            "question": "Inflation will ........................................... the pay raise.",
+            "description": "Offset can mean nullify. ",
+            "answers": [
+                "offset",
+                "off set",
+                "ofset"
+            ],
+            "correct": 0,
+            "id": "d2b37eded4e04a20988ac85da4c9ae36"
+        },
+        {
+            "question": "How ......................................... do you visit your parents?",
+            "description": "",
+            "answers": [
+                "often",
+                "ever",
+                "sometimes"
+            ],
+            "correct": 0,
+            "id": "28bc74d17e054f26a1ea43326bd6edf0"
+        }
+    ]
+}

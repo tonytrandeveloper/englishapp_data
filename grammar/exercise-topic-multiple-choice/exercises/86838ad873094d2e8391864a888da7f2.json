@@ -1,0 +1,138 @@
+{
+    "id": "86838ad873094d2e8391864a888da7f2",
+    "title": "Editing Exercise",
+    "questions": [
+        {
+            "question": "'Where is Samuel?' 'He was working at outside ten minutes ago'.",
+            "description": "There is no preposition before the place adverb outside.",
+            "answers": [
+                "at",
+                "outside",
+                "ago"
+            ],
+            "correct": 0,
+            "id": "216a133447544c77b846b0f41b158d87"
+        },
+        {
+            "question": "There are more unemployed compared to than ever before.",
+            "description": "We use 'more ...than' in comparative structures. ",
+            "answers": [
+                "more",
+                "compared to",
+                "than"
+            ],
+            "correct": 1,
+            "id": "f1db5f46987c4f4093825322239338a6"
+        },
+        {
+            "question": "My grandfather would used to have an old Rolls Royce.",
+            "description": "We can use both would and used to talk about repeated actions in the past. We do not use them both. Also, would cannot be used to talk about past states. ",
+            "answers": [
+                "would",
+                "used to",
+                "an"
+            ],
+            "correct": 0,
+            "id": "824d5018af6b4ebb9a941eb4cf359d77"
+        },
+        {
+            "question": "'She is in a bad mood.' 'Why not you send her some flowers?'",
+            "description": "We use the structure 'why not + infinitive without to' to make suggestions. No pronouns are used in this structure. ",
+            "answers": [
+                "a",
+                "you",
+                "some"
+            ],
+            "correct": 1,
+            "id": "548f40a6c60343ae95a5c0cc6d401f04"
+        },
+        {
+            "question": "The question is whether the man can be trusted with.",
+            "description": "",
+            "answers": [
+                "whether",
+                "be",
+                "with"
+            ],
+            "correct": 2,
+            "id": "7d98c84265a74d6c9f2940daede86bb1"
+        },
+        {
+            "question": "They can't decide whether they should to get married now or wait.",
+            "description": "Infinitives are used without to after modals. ",
+            "answers": [
+                "whether",
+                "should",
+                "to"
+            ],
+            "correct": 2,
+            "id": "272a06c9a6f744d99c3b82d4e0bdce94"
+        },
+        {
+            "question": "I don't want that woman to come here ever over again.",
+            "description": "",
+            "answers": [
+                "that",
+                "ever",
+                "over"
+            ],
+            "correct": 2,
+            "id": "46693783efc743f199426fe3e8b6288f"
+        },
+        {
+            "question": "We are still awaiting for instructions.",
+            "description": "We use await or wait for.",
+            "answers": [
+                "still",
+                "awaiting",
+                "for"
+            ],
+            "correct": 2,
+            "id": "9a8e431005b447ea8bfb9b1fa056a12c"
+        },
+        {
+            "question": "I have just been given a lovely picture to.",
+            "description": "Some verbs take two objects. When these verbs are used in passive structures, the prepositions to and for are not used. ",
+            "answers": [
+                "been",
+                "given",
+                "to"
+            ],
+            "correct": 2,
+            "id": "47b54fdc34604a68ac295f587539cc15"
+        },
+        {
+            "question": "We were all bought nice presents for.",
+            "description": "Some verbs take two objects. When these verbs are used in passive structures, the prepositions to and for are not used. ",
+            "answers": [
+                "were",
+                "all",
+                "for"
+            ],
+            "correct": 2,
+            "id": "c68ea6d1aea54d51af62744330ca539b"
+        },
+        {
+            "question": "Do not expect quick results when you start to learning a language.",
+            "description": "The verb start can be followed by a to-infinitive or an ing form. ",
+            "answers": [
+                "expect",
+                "quick",
+                "to"
+            ],
+            "correct": 2,
+            "id": "52e49c35ae9748af94c51f624af213a0"
+        },
+        {
+            "question": "You need not have to woken me up.",
+            "description": "When need is used as a modal, it is followed by an infinitive without to. ",
+            "answers": [
+                "not",
+                "to",
+                "up"
+            ],
+            "correct": 1,
+            "id": "0c03d2f02d2241cc9ead4843f95f5967"
+        }
+    ]
+}

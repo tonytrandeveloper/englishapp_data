@@ -1,0 +1,138 @@
+{
+    "id": "ac6899db740f44309cec060335dcb961",
+    "title": "Expressing Future",
+    "questions": [
+        {
+            "question": "I ……………………….. for Mumbai tomorrow.",
+            "description": "The present continuous is commonly used to talk about future events which have already been planned or decided.",
+            "answers": [
+                "leave",
+                "will leave",
+                "am leaving"
+            ],
+            "correct": 2,
+            "id": "41d4863628d84fc9b5bf9b548edccb33"
+        },
+        {
+            "question": "The train ………………………….. at 30 pm.",
+            "description": "The simple present is used to talk about time tabled future events.",
+            "answers": [
+                "is departing",
+                "departs",
+                "will depart"
+            ],
+            "correct": 1,
+            "id": "e4c629a4cc6f4b89aba3fc3fba272d55"
+        },
+        {
+            "question": "I ……………………… probably start a business this year.",
+            "description": "We use the simple future to talk about future events which are not already decided.",
+            "answers": [
+                "will",
+                "would",
+                "have"
+            ],
+            "correct": 0,
+            "id": "0b941a46029d4c0d82965c7b8189e8b2"
+        },
+        {
+            "question": "I think I ………………………. the job.",
+            "description": "We use the simple future to talk about future events which are not already decided.",
+            "answers": [
+                "will get",
+                "would get",
+                "am getting"
+            ],
+            "correct": 0,
+            "id": "9bae4434a972465fbf3b07ab86300a75"
+        },
+        {
+            "question": "We ………………………….. to Canada.",
+            "description": "The present continuous is commonly used to talk about future events which have already been planned or decided.",
+            "answers": [
+                "move",
+                "are moving",
+                "will move"
+            ],
+            "correct": 1,
+            "id": "072cd3199de14255ba80915efea1283d"
+        },
+        {
+            "question": "They …………………………… married next month.",
+            "description": "",
+            "answers": [
+                "get",
+                "are getting",
+                "will get"
+            ],
+            "correct": 1,
+            "id": "531dc87084f241c29508b3777fd17538"
+        },
+        {
+            "question": "If we start in the morning, we ………………………… there by evening.",
+            "description": "The simple future is used to make predictions. ",
+            "answers": [
+                "reach",
+                "will reach",
+                "are reaching"
+            ],
+            "correct": 1,
+            "id": "c3b94c6077774169b1506bed08a26ef4"
+        },
+        {
+            "question": "I ……………………………. you if you call me names again.",
+            "description": "Shall and will are common in offers, threats, promises and announcements of decisions.",
+            "answers": [
+                "will kick",
+                "kick",
+                "am kicking"
+            ],
+            "correct": 0,
+            "id": "de9f66106a3e4d1680b58b3d37fcdf7d"
+        },
+        {
+            "question": "……………………………. I carry your bag?",
+            "description": "Shall and will are common in offers, threats, promises and announcements of decisions.",
+            "answers": [
+                "Will",
+                "Shall",
+                "Would"
+            ],
+            "correct": 1,
+            "id": "159832e1e40f4243932060949ced2fdb"
+        },
+        {
+            "question": "I …………………………. probably be working late tonight.",
+            "description": "",
+            "answers": [
+                "will",
+                "am",
+                "would"
+            ],
+            "correct": 0,
+            "id": "4c0dcd8c3b2a488495caf81bc45e03cf"
+        },
+        {
+            "question": "I ………………………… a car if I get my raise.",
+            "description": "To talk about real and possible situations, we use a simple present tense in the if-clause and will + first form of the verb in the main clause.",
+            "answers": [
+                "will  buy",
+                "would buy",
+                "am buying"
+            ],
+            "correct": 0,
+            "id": "d8e5a2ecfecd43cbadd15fa1d22ec920"
+        },
+        {
+            "question": "He …………………………… never act like this.",
+            "description": "",
+            "answers": [
+                "will",
+                "would",
+                "may"
+            ],
+            "correct": 0,
+            "id": "cda6fe5077c040a295231cf05f50c161"
+        }
+    ]
+}

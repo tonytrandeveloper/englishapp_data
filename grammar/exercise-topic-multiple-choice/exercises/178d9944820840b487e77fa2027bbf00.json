@@ -1,0 +1,138 @@
+{
+    "id": "178d9944820840b487e77fa2027bbf00",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "My father ............................... for a brisk walk every evening.",
+            "description": "The simple present is used to talk about habits, routines etc.",
+            "answers": [
+                "is going",
+                "goes",
+                "has gone"
+            ],
+            "correct": 1,
+            "id": "1f7fdf4af1464f2086522c72795f4e12"
+        },
+        {
+            "question": "We ……………………………. for Singapore tomorrow.",
+            "description": "The present continuous is used to talk about future events that are part of a timetable.",
+            "answers": [
+                "leave",
+                "are leaving",
+                "will leave"
+            ],
+            "correct": 1,
+            "id": "561b90a92e7b42e2b3a7f045f7b63dc2"
+        },
+        {
+            "question": "I ……………………….. all of my problems.",
+            "description": "The present perfect is used to talk about finished events when the focus is on completion. ",
+            "answers": [
+                "solved",
+                "have solved",
+                "had solved"
+            ],
+            "correct": 1,
+            "id": "a9ddb56093874f73a6de0dbdd46ae82e"
+        },
+        {
+            "question": "I ………………………. to post the letter yesterday.",
+            "description": "To simply say that something happened in the past, use the simple past. ",
+            "answers": [
+                "have forgotten",
+                "forgot",
+                "had forgotten"
+            ],
+            "correct": 1,
+            "id": "0d7a73fe5d9d40f59531ecd9e8070852"
+        },
+        {
+            "question": "He ………………………. his breakfast when I visited him.",
+            "description": "The past continuous is used for the longer background action that was going on when another action took place. ",
+            "answers": [
+                "had",
+                "has",
+                "was having"
+            ],
+            "correct": 2,
+            "id": "81434715d7e048688b43bc417f4f0bdb"
+        },
+        {
+            "question": "I …………………….. him before.",
+            "description": "The present perfect is common with expressions like never, ever, etc. ",
+            "answers": [
+                "never saw",
+                "have never seen",
+                "had never seen"
+            ],
+            "correct": 1,
+            "id": "82e76d56c1654197a506905f7def2b4f"
+        },
+        {
+            "question": "I ………………………… the problem with the minister last week.",
+            "description": "",
+            "answers": [
+                "have discussed",
+                "discussed",
+                "had discussed"
+            ],
+            "correct": 1,
+            "id": "2a9f8390adb14d80b47d33e97003df7e"
+        },
+        {
+            "question": "He said that he ……………………….. the next day.",
+            "description": "",
+            "answers": [
+                "will come",
+                "would come",
+                "come"
+            ],
+            "correct": 1,
+            "id": "cd767dce9568438f8ab1e2955d970169"
+        },
+        {
+            "question": "The letter ……………………….. yesterday.",
+            "description": "",
+            "answers": [
+                "posted",
+                "was posted",
+                "had posted"
+            ],
+            "correct": 1,
+            "id": "2b763c2f7ceb469ea4e9c46840e91948"
+        },
+        {
+            "question": "The teacher ……………………….. the boy for misbehaving in the class.",
+            "description": "",
+            "answers": [
+                "reprimanded",
+                "reprimands",
+                "had reprimanded"
+            ],
+            "correct": 0,
+            "id": "09d86b8333a146e7b9162c941b8613ba"
+        },
+        {
+            "question": "If you like this book, you ………………………. take it.",
+            "description": "",
+            "answers": [
+                "could",
+                "can",
+                "will"
+            ],
+            "correct": 1,
+            "id": "88cbce8193184c428b4846ee7c0d5dd7"
+        },
+        {
+            "question": "He ………………………… president.",
+            "description": "",
+            "answers": [
+                "elected",
+                "has elected",
+                "was elected"
+            ],
+            "correct": 2,
+            "id": "b8c87a1e5eb242308157f00a3c9a9dbb"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "0a1b81a06a2f4f5e9a77d020a792a36b",
+    "title": "Conjunctions And Prepositions",
+    "questions": [
+        {
+            "question": "……………………….. you knew the answer why didn’t you tell me?",
+            "description": "",
+            "answers": [
+                "If",
+                "Unless",
+                "In case"
+            ],
+            "correct": 0,
+            "id": "dc4ebba2fb1a475f82cab9cde986eb7a"
+        },
+        {
+            "question": "I will not go to their party, …………………………. they invite me.",
+            "description": "Unless is similar to if...not.",
+            "answers": [
+                "if",
+                "unless",
+                "without"
+            ],
+            "correct": 1,
+            "id": "3fe4b8b74e2a4370a07fd37034afdf51"
+        },
+        {
+            "question": "……………………….. he mends his ways, he will be in trouble.",
+            "description": "Unless means if...not...",
+            "answers": [
+                "Unless",
+                "If",
+                "If not"
+            ],
+            "correct": 0,
+            "id": "90142f54070946e8bcee9c8c57ff0fd2"
+        },
+        {
+            "question": "I will not go …………………………. him.",
+            "description": "",
+            "answers": [
+                "without",
+                "unless"
+            ],
+            "correct": 0,
+            "id": "334b971004884c6ba3d2f92a21cea0ca"
+        },
+        {
+            "question": "………………………….. he received the message, he started.",
+            "description": "",
+            "answers": [
+                "As soon as",
+                "No sooner",
+                "Hardly had"
+            ],
+            "correct": 0,
+            "id": "8505ee25082f4c6a9d84d4de27d168ab"
+        },
+        {
+            "question": "…………………………. he is rich, he is not respected.",
+            "description": "Although is used to connect two contrasting ideas. ",
+            "answers": [
+                "Although",
+                "Even if",
+                "If",
+                ""
+            ],
+            "correct": 0,
+            "id": "2aa32af587434db6adb6288dbe263b15"
+        },
+        {
+            "question": "…………………………. you forbid me, I will go.",
+            "description": "",
+            "answers": [
+                "If",
+                "Even if",
+                "Unless"
+            ],
+            "correct": 1,
+            "id": "63301b2d377941ddaf649fa99dab6c4c"
+        },
+        {
+            "question": "If I help him it is ……………………………. I like him.",
+            "description": "",
+            "answers": [
+                "that",
+                "because",
+                "since"
+            ],
+            "correct": 1,
+            "id": "d492185a9eed44f2a9578698cc9b84f4"
+        },
+        {
+            "question": "……………………………. had he returned than he was off again.",
+            "description": "",
+            "answers": [
+                "No sooner",
+                "As soon as",
+                "Hardly"
+            ],
+            "correct": 0,
+            "id": "5a025c47b5a64e7382e83c3713882ca3"
+        },
+        {
+            "question": "Scarcely had he gone to bed, ……………………………. someone knocked at the door.",
+            "description": "",
+            "answers": [
+                "than",
+                "before",
+                "when"
+            ],
+            "correct": 2,
+            "id": "04f32d50abc749fa888a93a0e183b54d"
+        },
+        {
+            "question": "He became angry …………………………….. I had said a word.",
+            "description": "",
+            "answers": [
+                "before",
+                "than",
+                "when"
+            ],
+            "correct": 0,
+            "id": "7d24ba97f7a54318aede33e95dc7c093"
+        },
+        {
+            "question": "This is as good …………………………… not better than that.",
+            "description": "",
+            "answers": [
+                "if",
+                "as",
+                "like"
+            ],
+            "correct": 0,
+            "id": "1ddd5fc2d3f34f3cadb269cb6c73dd14"
+        }
+    ]
+}

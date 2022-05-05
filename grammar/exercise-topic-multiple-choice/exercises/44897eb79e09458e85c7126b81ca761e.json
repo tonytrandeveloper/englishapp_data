@@ -1,0 +1,137 @@
+{
+    "id": "44897eb79e09458e85c7126b81ca761e",
+    "title": "Subject And Object Pronouns Exercise",
+    "questions": [
+        {
+            "question": "I met .............................. at the party but ...................... didn't recognize .................",
+            "description": "He is a subject pronoun him and me are object pronouns. We use subject pronouns are subjects and object pronouns as objects. ",
+            "answers": [
+                "him, he, me",
+                "he, him, I",
+                "he, him, me"
+            ],
+            "correct": 0,
+            "id": "18ba512133814f41a889b9dad395d61b"
+        },
+        {
+            "question": "I think I have seen ...................... before.",
+            "description": "Here we use her because the pronoun acts as the object of the verb have seen. ",
+            "answers": [
+                "she",
+                "her",
+                "hers"
+            ],
+            "correct": 1,
+            "id": "bd9ccfdc9e7140fea073f434a1f7f4c2"
+        },
+        {
+            "question": "You shouldn't have done this to ............................",
+            "description": "Here we use me because the pronoun acts as the object of the preposition to. ",
+            "answers": [
+                "I",
+                "me",
+                "we"
+            ],
+            "correct": 1,
+            "id": "fc0095b732914fbc9a50c33999df7b28"
+        },
+        {
+            "question": "Where could ..................................... have gone at this hour of the night?",
+            "description": "We use 'she' here because the pronoun acts as the subject of the verb. ",
+            "answers": [
+                "she",
+                "her",
+                "hers"
+            ],
+            "correct": 0,
+            "id": "5803f953bddc49d99cad92c9d439b02b"
+        },
+        {
+            "question": "He took .......................... with .......................",
+            "description": "Here them is the object of the verb took and him is the object of the preposition with. ",
+            "answers": [
+                "them, him",
+                "they, he",
+                "them, he"
+            ],
+            "correct": 0,
+            "id": "5848e25e13cb48568e044461b430815f"
+        },
+        {
+            "question": "What is ............................ doing there?",
+            "description": "",
+            "answers": [
+                "she",
+                "her",
+                "hers"
+            ],
+            "correct": 0,
+            "id": "0558c02822aa403f8711b2ecf334e5bc"
+        },
+        {
+            "question": "Why don't you listen to ...........................?",
+            "description": "Here them is the object of the preposition to. ",
+            "answers": [
+                "they",
+                "them",
+                "their"
+            ],
+            "correct": 1,
+            "id": "5899a7f59bbc413aa583f162e888058a"
+        },
+        {
+            "question": "No one would have done this except ........................",
+            "description": "Here him acts as the object of the preposition except. ",
+            "answers": [
+                "he",
+                "him",
+                "his"
+            ],
+            "correct": 1,
+            "id": "5a324cf57ddf419183cbd8f677425a4b"
+        },
+        {
+            "question": "Did anyone see ...........................?",
+            "description": "Here him is the object of the verb see. ",
+            "answers": [
+                "he",
+                "him",
+                "his"
+            ],
+            "correct": 1,
+            "id": "b0c625cae5c04bea9a438e7100644fb0"
+        },
+        {
+            "question": "All of .............................. arrived on time.",
+            "description": "Here them is the object of the preposition of. ",
+            "answers": [
+                "they",
+                "them"
+            ],
+            "correct": 1,
+            "id": "e3cd84a94a5d4cbfa5bb52caddb05726"
+        },
+        {
+            "question": "She is taller than ...........................",
+            "description": "",
+            "answers": [
+                "I am",
+                "me",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "d2d130f5d01d401092697e08ec52a6b2"
+        },
+        {
+            "question": "I saw you and ............................ there.",
+            "description": "Here the pronouns you and her are the objects of the verb saw. ",
+            "answers": [
+                "she",
+                "her",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "9f38b64f81ce4be18fe2703b738fe40a"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "id": "c52956c32fa348efa19574c533c4607d",
+    "title": "Parts Of Speech Exercise",
+    "questions": [
+        {
+            "question": "She thought of a wise plan. Thought is a ............................",
+            "description": "",
+            "answers": [
+                "verb",
+                "adverb",
+                "adjective"
+            ],
+            "correct": 0,
+            "id": "d3fefb6a14a2427c8b4d39f7be8b47f6"
+        },
+        {
+            "question": "I want to go now. Now is a/an .....................................",
+            "description": "",
+            "answers": [
+                "preposition",
+                "adjective",
+                "adverb"
+            ],
+            "correct": 2,
+            "id": "da78ff3188014ef1b993e048844411c8"
+        },
+        {
+            "question": "Where are you going? You is a .....................................",
+            "description": "",
+            "answers": [
+                "verb",
+                "noun",
+                "pronoun"
+            ],
+            "correct": 2,
+            "id": "52139803a5d248ecbb9030d3ad965c48"
+        },
+        {
+            "question": "That was a lovely evening. Lovely is a/an .......................................",
+            "description": "",
+            "answers": [
+                "noun",
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "f7276aab8aea4fe7b8b62fa140e1aa10"
+        },
+        {
+            "question": "My father works in a factory. Factory is a/an ...................................",
+            "description": "",
+            "answers": [
+                "pronoun",
+                "noun",
+                "adjective"
+            ],
+            "correct": 1,
+            "id": "d586e2e6961b47d0b7d42043008634ec"
+        },
+        {
+            "question": "She must be a stupid. Stupid is a/an .....................................",
+            "description": "",
+            "answers": [
+                "noun",
+                "adjective",
+                "verb"
+            ],
+            "correct": 0,
+            "id": "b4bba03e99ae4c508f89d71f81ee4e89"
+        },
+        {
+            "question": "Selena is my best friend. Best is a/an ....................................",
+            "description": "",
+            "answers": [
+                "noun",
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "98b64a7352fc4e6f8df43096a24de08e"
+        },
+        {
+            "question": "The dress was expensive still I bought it. Bought is a ....................................",
+            "description": "",
+            "answers": [
+                "verb",
+                "adverb",
+                "preposition"
+            ],
+            "correct": 0,
+            "id": "25b364da29894840adab29f2d8a43a36"
+        },
+        {
+            "question": "It is my doll. It is a/an .........................................",
+            "description": "",
+            "answers": [
+                "noun",
+                "pronoun",
+                "adjective"
+            ],
+            "correct": 1,
+            "id": "d34ae37b87b04902af7910e9a5ade77a"
+        },
+        {
+            "question": "The sun gives us heat and light. Gives is a/an ........................................",
+            "description": "",
+            "answers": [
+                "verb",
+                "pronoun",
+                "adverb"
+            ],
+            "correct": 0,
+            "id": "d4da621c31064cb5b0d346ad8cefd6de"
+        },
+        {
+            "question": "Do it quickly. Quickly is a/an ..................................",
+            "description": "",
+            "answers": [
+                "adverb",
+                "adjective",
+                "verb"
+            ],
+            "correct": 0,
+            "id": "38a79cfc812f4fecabc84a329c3495a1"
+        },
+        {
+            "question": "She went to the market to buy some vegetables. To is a/an ....................................",
+            "description": "",
+            "answers": [
+                "verb",
+                "preposition",
+                "conjunction"
+            ],
+            "correct": 1,
+            "id": "3760850ed0864e8bac357d6bfc9cbd72"
+        },
+        {
+            "question": "I helped him because I liked him. Because is a/an ...................................",
+            "description": "",
+            "answers": [
+                "preposition",
+                "conjunction",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "1480c4e06c3241d19aa1ca6eb16364df"
+        },
+        {
+            "question": "Jasmines are white in color. White is a/an .....................................",
+            "description": "",
+            "answers": [
+                "noun",
+                "adjective",
+                "pronoun"
+            ],
+            "correct": 1,
+            "id": "21a218f5009c4177ba63ac02365a6b1d"
+        },
+        {
+            "question": "The cat is under the bed. Under is a/an ...................................",
+            "description": "",
+            "answers": [
+                "preposition",
+                "conjunction",
+                "adverb"
+            ],
+            "correct": 0,
+            "id": "bfc58f1c428e449c951862e7698cae89"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "8f8421ddaa7c43b3b3586f2e48b9f824",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "……………………… people believe in ghosts.",
+            "description": "Before a noun without a determiner, we use most.",
+            "answers": [
+                "Most",
+                "Most of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "8b3ce57be3fd4ba6835c6b5c6b26cf76"
+        },
+        {
+            "question": "Has she got ………………………………. friends?",
+            "description": "In questions we use any some is mainly used in affirmative sentences.",
+            "answers": [
+                "some",
+                "any",
+                "any of"
+            ],
+            "correct": 1,
+            "id": "218300c1abd745fe913e1d762d6a63ae"
+        },
+        {
+            "question": "…………………………….. key opens the door.",
+            "description": "Before a noun without a determiner we use neither.",
+            "answers": [
+                "Neither",
+                "Neither of",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "3ee1e7b726ea4e698e251eec0165aa8f"
+        },
+        {
+            "question": "…………………………… these answers is correct.",
+            "description": "We use neither of before a noun with a determiner.",
+            "answers": [
+                "Neither",
+                "Neither of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "8ea73684b01a4d1aaa61f701694316e5"
+        },
+        {
+            "question": "……………………………… my friends wished me on my birthday.",
+            "description": "None of means not a single one of.",
+            "answers": [
+                "No of",
+                "None",
+                "None of"
+            ],
+            "correct": 2,
+            "id": "097edf580009428cb18caebef720c9a8"
+        },
+        {
+            "question": "I haven’t watched …………………………….. his movies.",
+            "description": "We use any of before a noun with a determiner. ",
+            "answers": [
+                "any",
+                "any of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f88cb4d22536456b9561ba5fc7a7a142"
+        },
+        {
+            "question": "………………………………. turned up for my party.",
+            "description": "No one means the same as nobody.",
+            "answers": [
+                "Nobody",
+                "No one",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ce4220b5568c4e8d88b114e89977684e"
+        },
+        {
+            "question": "I can’t take it ………………………………. longer.",
+            "description": "No longer is similar to not any longer.",
+            "answers": [
+                "any",
+                "no",
+                "not any"
+            ],
+            "correct": 0,
+            "id": "e55b52ad89eb4c908ae42a19ab759776"
+        },
+        {
+            "question": "She doesn’t live here ………………………….  more.",
+            "description": "",
+            "answers": [
+                "any",
+                "no",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ca3906a5815047659909cf2d7a4ff540"
+        },
+        {
+            "question": "………………………………. his ideas are complicated.",
+            "description": "We use all of before a noun with a determiner. ",
+            "answers": [
+                "All",
+                "All of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f16dc7b9fd7141618d786fd3426a605b"
+        },
+        {
+            "question": "Can I ask ………………………………. questions?",
+            "description": "Use 'a few' to mean 'a small number of'.",
+            "answers": [
+                "a few",
+                "the few",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "3ac7f3cdaf634ec3b9f19f7c86e8460f"
+        },
+        {
+            "question": "I earn ……………………………. than I used to.",
+            "description": "Less can be used as an adverb. It is the opposite of more. ",
+            "answers": [
+                "less",
+                "lesser",
+                "fewer"
+            ],
+            "correct": 0,
+            "id": "fea47afa745d48fb8c755799337abf3c"
+        }
+    ]
+}

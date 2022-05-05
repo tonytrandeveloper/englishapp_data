@@ -1,0 +1,116 @@
+{
+    "id": "73aab53e94344f1c980dfd005057be3c",
+    "title": "If Clauses Exercise",
+    "questions": [
+        {
+            "question": "It would be nice if you ............................... me a bit with the housework.",
+            "description": "",
+            "answers": [
+                "help",
+                "helped",
+                "had helped"
+            ],
+            "correct": 1,
+            "id": "7705695e37a74a258f300a6be0cf74b6"
+        },
+        {
+            "question": "I would get up earlier if there .................................... a good reason to.",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "had been"
+            ],
+            "correct": 1,
+            "id": "91cf20f998e5424198934fa4e2136a93"
+        },
+        {
+            "question": "If I have enough time tomorrow, I .................................... and see you.",
+            "description": "",
+            "answers": [
+                "will come",
+                "would come",
+                "would have come"
+            ],
+            "correct": 0,
+            "id": "234e544295a24bf8bfb7e3550583c36e"
+        },
+        {
+            "question": "If you ...................................... to learn a musical instrument, you have to practice.",
+            "description": "",
+            "answers": [
+                "want",
+                "wanted",
+                "had wanted"
+            ],
+            "correct": 0,
+            "id": "9f64f6c16701484c8d7fd84bb129fad6"
+        },
+        {
+            "question": "If you eat too much, you ...................................... fat.",
+            "description": "",
+            "answers": [
+                "will get",
+                "would get",
+                "will be getting"
+            ],
+            "correct": 0,
+            "id": "f37e7ad049f34b13a36a73cd424a8975"
+        },
+        {
+            "question": "If you ........................................ here before eight, we can catch the early train.",
+            "description": "",
+            "answers": [
+                "get",
+                "got",
+                "had gotten"
+            ],
+            "correct": 0,
+            "id": "fb27ad0c31624ec2a38582ac19341257"
+        },
+        {
+            "question": "If I .................................. you, we would both be happy.",
+            "description": "",
+            "answers": [
+                "marry",
+                "marrried",
+                "had married"
+            ],
+            "correct": 1,
+            "id": "5a5894552909473f9ffa593e6ca05c15"
+        },
+        {
+            "question": "If my nose were a little longer, I ................................. quite beautiful.",
+            "description": "",
+            "answers": [
+                "will be",
+                "would be",
+                "would have been"
+            ],
+            "correct": 1,
+            "id": "2eb589022fab4ec5ad1d8e6b2ca37e03"
+        },
+        {
+            "question": "If you .................................... me, I would have told you.",
+            "description": "",
+            "answers": [
+                "have asked",
+                "asked",
+                "had asked"
+            ],
+            "correct": 2,
+            "id": "af5cca2ad9e340c09c5b0287d5d9b938"
+        },
+        {
+            "question": "I would have been in bad trouble if he .................................. me.",
+            "description": "",
+            "answers": [
+                "haven't helped",
+                "hadn't helped",
+                "wouldn't help"
+            ],
+            "correct": 1,
+            "id": "95d6bc92f0d54298a9921168a54d83aa"
+        }
+    ]
+}

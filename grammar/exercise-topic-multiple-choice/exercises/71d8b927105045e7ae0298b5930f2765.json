@@ -1,0 +1,116 @@
+{
+    "id": "71d8b927105045e7ae0298b5930f2765",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "He is a cheerful boy ............................................. everybody loves.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 1,
+            "id": "2e00162799e04a81894766260b043c09"
+        },
+        {
+            "question": "This is the house .............................................. Jack built.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "who"
+            ],
+            "correct": 0,
+            "id": "6d10857319dc40d293cbf783c0468930"
+        },
+        {
+            "question": "He is the person ................................................... I want to see.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 1,
+            "id": "d369da0de1404e82bb2832ddbeff2303"
+        },
+        {
+            "question": "He is the offender ................................................ the police have arrested.",
+            "description": "",
+            "answers": [
+                "who",
+                "which",
+                "whom"
+            ],
+            "correct": 2,
+            "id": "1f256fc80b9c48a7897a3b43beb4b4be"
+        },
+        {
+            "question": "My father, ..................................................... hardly received any formal education, went on to become a great leader.",
+            "description": "",
+            "answers": [
+                "who",
+                "that",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "3980cc1db9c0422eab0f5efa72dd676c"
+        },
+        {
+            "question": "He was my teacher .................................................... I will never forget.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 1,
+            "id": "57f9d56a5aec4e53b83aa5db4a4872e3"
+        },
+        {
+            "question": "This is the player ................................................ the committee selected captain.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 1,
+            "id": "44a6ac23da6c4cb288f441891cf6c22f"
+        },
+        {
+            "question": "That is the road ................................................... leads to the railway station.",
+            "description": "",
+            "answers": [
+                "which",
+                "what",
+                "where"
+            ],
+            "correct": 0,
+            "id": "a62a29c0555b4d45a08eb3acb21536fb"
+        },
+        {
+            "question": "My uncle, ...................................................... had been ailing for a while, died last week.",
+            "description": "",
+            "answers": [
+                "who",
+                "which",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "aca92015e02f467289fc2099a0306ea8"
+        },
+        {
+            "question": "The car ................................................. was going at over 100 mph dashed against a tree.",
+            "description": "",
+            "answers": [
+                "what",
+                "which",
+                "who"
+            ],
+            "correct": 1,
+            "id": "a7b1169da2af402aa79dc72e7520b3af"
+        }
+    ]
+}

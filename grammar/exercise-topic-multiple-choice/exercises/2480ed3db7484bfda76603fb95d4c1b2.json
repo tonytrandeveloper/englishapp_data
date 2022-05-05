@@ -1,0 +1,137 @@
+{
+    "id": "2480ed3db7484bfda76603fb95d4c1b2",
+    "title": "Until, Till, By",
+    "questions": [
+        {
+            "question": "Don’t expect me …………………………… midnight.",
+            "description": "Until and till are interchangeable.",
+            "answers": [
+                "until",
+                "till",
+                "by"
+            ],
+            "correct": 1,
+            "id": "e1618bc7fb324703b586c67cdfd886ee"
+        },
+        {
+            "question": "I will wait ……………………………. you arrive.",
+            "description": "Until and till are interchangeable. ",
+            "answers": [
+                "till",
+                "until",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "812be9bfce224059a15a8ae8aba41de7"
+        },
+        {
+            "question": "We walked …………………………… the edge of the forest.",
+            "description": "Until is used to talk about time as far as and up to are used to talk about distance.",
+            "answers": [
+                "until",
+                "as far as",
+                "up to"
+            ],
+            "correct": 2,
+            "id": "56e9cdd6b3f8410e938bbbcb12a95be9"
+        },
+        {
+            "question": "The hall can seat ……………………….. 100 people.",
+            "description": "Up to can indicate quantity.",
+            "answers": [
+                "until",
+                "up to",
+                "as far as"
+            ],
+            "correct": 1,
+            "id": "978f3c6ca33f46c3a7c69a8cc325e278"
+        },
+        {
+            "question": "She earns ……………………… 500 dollars a week.",
+            "description": "",
+            "answers": [
+                "until",
+                "till",
+                "up to"
+            ],
+            "correct": 2,
+            "id": "03617d5bc57848599d6e19595daeee3c"
+        },
+        {
+            "question": "I will wait until she ………………………..",
+            "description": "After until, we use present tenses to refer to future.",
+            "answers": [
+                "come",
+                "comes",
+                "will come"
+            ],
+            "correct": 1,
+            "id": "e3e078da2e344354a518493ec309e248"
+        },
+        {
+            "question": "Can I stay ……………………… the weekend?",
+            "description": "Until refers to time.",
+            "answers": [
+                "up to",
+                "until",
+                "by"
+            ],
+            "correct": 1,
+            "id": "669edd314bcc4a64acd595873e52f539"
+        },
+        {
+            "question": "I was told to leave ………………………… Monday midday.",
+            "description": "We use by to say that an action or event will happen at or before a future event.",
+            "answers": [
+                "until",
+                "by"
+            ],
+            "correct": 1,
+            "id": "5bc4898dc044473ea2ce45ee5441ccc2"
+        },
+        {
+            "question": "I will repair your radio if you leave it …………………….. Monday.",
+            "description": "",
+            "answers": [
+                "by",
+                "until",
+                "up to"
+            ],
+            "correct": 1,
+            "id": "140346713218474693487acea9dce4c4"
+        },
+        {
+            "question": "I will finish the project …………………….. Saturday.",
+            "description": "We use by to say that an action or event will happen at or before a future event.",
+            "answers": [
+                "until",
+                "by",
+                "within"
+            ],
+            "correct": 1,
+            "id": "07d0abbf97b34268828b14449cb2a6df"
+        },
+        {
+            "question": "I won’t be leaving …………………………. Tuesday.",
+            "description": "Not until means the same as not before.",
+            "answers": [
+                "until",
+                "before",
+                "up to"
+            ],
+            "correct": 1,
+            "id": "10a2dccc92c441e5938cc20bf68e38ed"
+        },
+        {
+            "question": "There is only four days left ………………………. Easter.",
+            "description": "",
+            "answers": [
+                "until",
+                "before",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "65a8671e7b6549b8b2aeb7c65a0c4b22"
+        }
+    ]
+}

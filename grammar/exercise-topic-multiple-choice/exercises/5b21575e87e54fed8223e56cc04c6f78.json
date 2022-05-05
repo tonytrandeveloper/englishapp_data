@@ -1,0 +1,138 @@
+{
+    "id": "5b21575e87e54fed8223e56cc04c6f78",
+    "title": "Modal Auxiliary Verbs Exercise",
+    "questions": [
+        {
+            "question": "You …………………….. not play with fire. (prohibition)",
+            "description": "Must can indicate prohibition.",
+            "answers": [
+                "must",
+                "may",
+                "will"
+            ],
+            "correct": 0,
+            "id": "61932571394a4e138fcdb1003cf48d98"
+        },
+        {
+            "question": "The children asked whether they …………………………….. go for a swim. (permission)",
+            "description": "We use can and could to seek permission. ",
+            "answers": [
+                "would",
+                "should",
+                "could"
+            ],
+            "correct": 2,
+            "id": "630bdc0a37db4032a1bcb23aaff20612"
+        },
+        {
+            "question": "We ………………………….. hear music playing in the next room. (ability)",
+            "description": "We use can to show ability.",
+            "answers": [
+                "can",
+                "may",
+                "shall"
+            ],
+            "correct": 0,
+            "id": "8759dbcb6b4c43679ac089a7fee98bf5"
+        },
+        {
+            "question": "If you start now, you ………………………… reach there by midnight. (prediction)",
+            "description": "We use will to make simple predictions about future. ",
+            "answers": [
+                "may",
+                "will",
+                "shall"
+            ],
+            "correct": 1,
+            "id": "84bf9ad799df4b538a55330de13469c7"
+        },
+        {
+            "question": "I did all that I ………………………… (ability)",
+            "description": "A past tense in the main clause is usually followed by a past tense in the subordinate clause. Could is the past tense of can. ",
+            "answers": [
+                "can",
+                "could",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "031e23ab160241208e634d54a1fe3df7"
+        },
+        {
+            "question": "He said that he ……………………….. lay down his life for his country. (determination)",
+            "description": "A past tense in the main clause is usually followed by a past tense in the subordinate clause. Would is the past tense of will. ",
+            "answers": [
+                "will",
+                "would",
+                "might"
+            ],
+            "correct": 1,
+            "id": "d237fbf79c0d44ec87df5130b2326fe2"
+        },
+        {
+            "question": "Work hard lest you ………………………… fail. (certainty)",
+            "description": "Should is the only auxiliary that can follow lest.",
+            "answers": [
+                "would",
+                "should",
+                "might"
+            ],
+            "correct": 1,
+            "id": "8f620944267b4f31a6bdb6cabb9629d1"
+        },
+        {
+            "question": "I ………………………. pass. I am not sure. (weak probability)",
+            "description": "We use might to indicate weak probability. ",
+            "answers": [
+                "may",
+                "might",
+                "would"
+            ],
+            "correct": 1,
+            "id": "bc51e6059b4b41d2a344f13a42ad4fc6"
+        },
+        {
+            "question": "To whom ………………………… I address this letter?",
+            "description": "We use should to ask for suggestions. ",
+            "answers": [
+                "would",
+                "could",
+                "should"
+            ],
+            "correct": 2,
+            "id": "04b970447b4e40eb947e2dcb56f20353"
+        },
+        {
+            "question": "………………………… you mind moving a bit?",
+            "description": "Would is used with mind. ",
+            "answers": [
+                "Should",
+                "Would",
+                "Could"
+            ],
+            "correct": 1,
+            "id": "5f4a67700f12425c99c3c5a7167ddc6f"
+        },
+        {
+            "question": "She ……………………………. not wait any longer. (lack of necessity)",
+            "description": "",
+            "answers": [
+                "must",
+                "need",
+                "should"
+            ],
+            "correct": 1,
+            "id": "3481c161745840e5b6c5d4409ab5783e"
+        },
+        {
+            "question": "I don’t know whether I ………………………… have time.",
+            "description": "",
+            "answers": [
+                "would",
+                "will",
+                "may"
+            ],
+            "correct": 1,
+            "id": "f3b44bcc794d469c8d1b5a24debf609c"
+        }
+    ]
+}

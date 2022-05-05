@@ -1,0 +1,138 @@
+{
+    "id": "7a613d0bb040453694cbf7586107fbc6",
+    "title": "Definite Article Or No Article",
+    "questions": [
+        {
+            "question": "…………….. usually start walking at around one year old.",
+            "description": "No article is used when we talk about people or things in general.",
+            "answers": [
+                "Children",
+                "The children",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "94795b895a214ddfad35587e8daa11e2"
+        },
+        {
+            "question": "…………… prices have nearly doubled recently.",
+            "description": "We use no article with plural and uncountable nouns to talk about things in general.",
+            "answers": [
+                "Oil",
+                "The oil",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "e3567ede585a48d7bf6603afae334435"
+        },
+        {
+            "question": "Do you like ……………..?",
+            "description": "No article is used here because we are talking about cats in general.",
+            "answers": [
+                "cats",
+                "the cats",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "8e01c4b55a2e4969bd361273f43945a3"
+        },
+        {
+            "question": "I would like to meet Jumpa Lahiri, ………………",
+            "description": "After a noun we can use an identifying expression with ‘the’ to give the impression that the person we are talking about is well-known.",
+            "answers": [
+                "writer",
+                "the writer",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "42efb00a910746c986f154f52b8eb13f"
+        },
+        {
+            "question": "Do you know ……………….?",
+            "description": "Here the use of the ‘the’ makes it clear that the speaker knows only one Alderson family.",
+            "answers": [
+                "Aldersons",
+                "The Aldersons",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "724fdcf6d1f54cd7ae4568adf8dfa7cf"
+        },
+        {
+            "question": "My children love ………………. but I like …………",
+            "description": "The article ‘the’ is used with a number of expressions referring to our physical environment. Examples are: the sea, the seaside, the hills, the mountains etc.",
+            "answers": [
+                "seaside, hills",
+                "the seaside, the hills",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "385fd3b2347c45429f486f5f382b1931"
+        },
+        {
+            "question": "Can I have ……………….. pancake?",
+            "description": "We usually use ‘the’ with expressions like first, second, next, last etc.",
+            "answers": [
+                "last",
+                "the last",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "5832de767ae0437086aa1663f738d74f"
+        },
+        {
+            "question": "Have you ever heard of ……………… Years’ War?",
+            "description": "There was only one Thirty Years’ War, so we use ‘the’ with it.",
+            "answers": [
+                "Thirty",
+                "The Thirty",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "407818d9ce724250ab58698de965fe98"
+        },
+        {
+            "question": "I am …………….. in my family.",
+            "description": "We use ‘the’ before superlatives.",
+            "answers": [
+                "youngest",
+                "the youngest",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "fa7bc0a62ec24491839044ae7dd16037"
+        },
+        {
+            "question": "My brother and his wife live in …………….",
+            "description": "We do not normally use articles with place names.",
+            "answers": [
+                "London",
+                "the London",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "4f1e372556174a88b99b00335d04b2e3"
+        },
+        {
+            "question": "Let’s go by ………………",
+            "description": "Articles are not used in some common fixed expressions.",
+            "answers": [
+                "train",
+                "the train",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "6d359d3aa6de434ca1c6257817a441b3"
+        },
+        {
+            "question": "I am tired. I think I should go to …………",
+            "description": "Articles are not used in some common fixed expressions to do with place, time and movement.",
+            "answers": [
+                "bed",
+                "the bed",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "023dea4f956e4656bee0e3864b5895d5"
+        }
+    ]
+}

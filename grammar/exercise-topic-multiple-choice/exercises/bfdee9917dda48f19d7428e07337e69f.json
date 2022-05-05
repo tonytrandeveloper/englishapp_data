@@ -1,0 +1,138 @@
+{
+    "id": "bfdee9917dda48f19d7428e07337e69f",
+    "title": "Parts Of Speech Exercise",
+    "questions": [
+        {
+            "question": "He accumulated a fortune buying and selling used cars. Identify the noun.",
+            "description": "A noun refers to a person, place, thing or idea. ",
+            "answers": [
+                "accumulated",
+                "fortune",
+                "selling"
+            ],
+            "correct": 1,
+            "id": "b45f6af5dcab4eb6af46f352937a1e11"
+        },
+        {
+            "question": "The drawing of the house is accurate in every detail. Identify the adjective.",
+            "description": "",
+            "answers": [
+                "drawing",
+                "house",
+                "accurate"
+            ],
+            "correct": 2,
+            "id": "6b8b258ee53a4c83aa8a2744bcc58f2f"
+        },
+        {
+            "question": "She has acquired a working knowledge of French. Identify the verb.",
+            "description": "Working is a present participle. Present participles are not verbs.",
+            "answers": [
+                "acquired",
+                "working",
+                "knowledge"
+            ],
+            "correct": 0,
+            "id": "eade60b3aa95459ab38b654282e1f43f"
+        },
+        {
+            "question": "He was criticized for one careless act. Identify the adjective.",
+            "description": "Careless modifies the noun act.",
+            "answers": [
+                "criticized",
+                "careless",
+                "for"
+            ],
+            "correct": 1,
+            "id": "1614f8f815e2463488d5cec2b0f4c231"
+        },
+        {
+            "question": "Act now and save money during our annual sale. Identify the conjunction.",
+            "description": "",
+            "answers": [
+                "now",
+                "and",
+                "during"
+            ],
+            "correct": 1,
+            "id": "e846e9bbac394e8fadad83a9660580dc"
+        },
+        {
+            "question": "She is an acquisitive person, always wanting things. Identify the adverb.",
+            "description": "",
+            "answers": [
+                "acquisitive",
+                "always",
+                "wanting"
+            ],
+            "correct": 1,
+            "id": "ba28c47d017544b7a97c56c50d5618b5"
+        },
+        {
+            "question": "A gentleman must conduct himself well in any situation. Identify the pronoun.",
+            "description": "",
+            "answers": [
+                "gentleman",
+                "conduct",
+                "himself"
+            ],
+            "correct": 2,
+            "id": "0d7d904f29fb4204aff693260046161c"
+        },
+        {
+            "question": "Addition is taught before subtraction. Identify the preposition.",
+            "description": "",
+            "answers": [
+                "addition",
+                "taught",
+                "before"
+            ],
+            "correct": 2,
+            "id": "660349afdb6d4024a941863a689ff92d"
+        },
+        {
+            "question": "The chameleon adapts to the surroundings by changing color. Identify the verb.",
+            "description": "",
+            "answers": [
+                "adapts",
+                "surroundings",
+                "changing"
+            ],
+            "correct": 0,
+            "id": "15c71eb88baa4476870546bff840c971"
+        },
+        {
+            "question": "Let’s add up the cost of all our purchases. Identify the preposition.",
+            "description": "",
+            "answers": [
+                "add",
+                "up",
+                "our"
+            ],
+            "correct": 1,
+            "id": "febcf2d6e7574740a6f04676a7729970"
+        },
+        {
+            "question": "All nations must work for the accomplishment of peace. Identify the adjective.",
+            "description": "All modifies the noun nations.",
+            "answers": [
+                "All",
+                "accomplishment",
+                "peace"
+            ],
+            "correct": 0,
+            "id": "5762f73caf82413fa6c2c56c36f25b5e"
+        },
+        {
+            "question": "I am an adult and I expect to be treated accordingly. Identify the adverb.",
+            "description": "Most words ending in ly are adverbs. Adverbs modify verbs, adjectives or other adverbs. ",
+            "answers": [
+                "adult",
+                "treated",
+                "accordingly"
+            ],
+            "correct": 2,
+            "id": "5bc8c60e0299493d892845ef0053445d"
+        }
+    ]
+}

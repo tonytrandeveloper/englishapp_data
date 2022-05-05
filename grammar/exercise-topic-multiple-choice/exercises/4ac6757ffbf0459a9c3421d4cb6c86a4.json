@@ -1,0 +1,138 @@
+{
+    "id": "4ac6757ffbf0459a9c3421d4cb6c86a4",
+    "title": "Each vs. Every",
+    "questions": [
+        {
+            "question": "You have to change the sheets .......................... other day.",
+            "description": "Every is used with expressions like other, few and numbers.",
+            "answers": [
+                "each",
+                "every",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "696fbfde0fc74c25bdac3b7bf3c17deb"
+        },
+        {
+            "question": "Buses leave .......................... ten minutes.",
+            "description": "Every can be used before a plural noun in expressions that refer to intervals. ",
+            "answers": [
+                "each",
+                "every",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "a2cec50171104502944e32b3dcbace62"
+        },
+        {
+            "question": "............................ team in a cricket game has 11 players.",
+            "description": "Each is used to talk about two or more things. Every is used to talk about three or more things.Ever",
+            "answers": [
+                "Each",
+                "Every",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "270b3cbe2ab14a4badf95cc26b362e57"
+        },
+        {
+            "question": ".......................... of them was given a present.",
+            "description": "Every cannot be used before a pronoun.",
+            "answers": [
+                "Each",
+                "Every",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "01de38bbc25f47b98ab5f2f1939e475c"
+        },
+        {
+            "question": "I could understand ........................... word she said.",
+            "description": "",
+            "answers": [
+                "each",
+                "every",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "0808e48b17d7499087074e1fa2d7d652"
+        },
+        {
+            "question": "The four students ........................... received a laptop.",
+            "description": "",
+            "answers": [
+                "each",
+                "every",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "876e20ed046d44b5a7783c0ab6f62347"
+        },
+        {
+            "question": "She kissed them ............................... on the forehead.",
+            "description": "",
+            "answers": [
+                "each",
+                "every",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "8c04e5fd341741abbf929108f382296a"
+        },
+        {
+            "question": "There is ............................ chance that we will win.",
+            "description": "",
+            "answers": [
+                "every",
+                "each",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "e3225a09a75b41c3abdfcffc26e52dea"
+        },
+        {
+            "question": "................................ of them was asked to speak for a few minutes.",
+            "description": "Every cannot be used before a pronoun.",
+            "answers": [
+                "Each",
+                "Every",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "0d9f646ef92d496789e51e995a7b03c9"
+        },
+        {
+            "question": "I visit my grandparents .............................. now and then.",
+            "description": "Every is used in expressions like every now and then.",
+            "answers": [
+                "every",
+                "each",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "729f52b898ad491d97326fc31f940857"
+        },
+        {
+            "question": "I have written to ................................ friend I have.",
+            "description": "Either could be used here",
+            "answers": [
+                "every",
+                "each",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "5aef1fc0e4a94dc5b1dbdc177f218cd9"
+        },
+        {
+            "question": "Almost ............................. child in cities receives school education.",
+            "description": "Each cannot be used with expressions like almost, nearly, practically or without exception.",
+            "answers": [
+                "every",
+                "each",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "807ec8e6e90b43889695cd08a6632291"
+        }
+    ]
+}

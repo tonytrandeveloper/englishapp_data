@@ -1,0 +1,138 @@
+{
+    "id": "586fb68768fe4192a5b7a2fd63d7430e",
+    "title": "Modals Exercise",
+    "questions": [
+        {
+            "question": "They ………………………. come in the evening. (weak possibility)",
+            "description": "May indicates possibility might indicates very weak possibility. Can is not used in affirmative clauses to talk about possibility.",
+            "answers": [
+                "can",
+                "may",
+                "might"
+            ],
+            "correct": 2,
+            "id": "3919c54dfcf74ac0b59095f3c4401224"
+        },
+        {
+            "question": "She ………………….. know his address. (possibility)",
+            "description": "Might is also possible here but it indicates weak possibility.",
+            "answers": [
+                "may",
+                "can",
+                "might"
+            ],
+            "correct": 0,
+            "id": "c8021bb5d585466384410af281448096"
+        },
+        {
+            "question": "………………………. you speak English? (ability)",
+            "description": "Can shows ability.",
+            "answers": [
+                "Will",
+                "Can",
+                "May"
+            ],
+            "correct": 1,
+            "id": "4ccecee2a8d4443da89d0e3b79dc30c0"
+        },
+        {
+            "question": "If you spoke English, you ………………………. get a better job. (ability)",
+            "description": "In type 2 conditional sentences, we use could, not can, to show ability. ",
+            "answers": [
+                "can",
+                "could",
+                "will"
+            ],
+            "correct": 1,
+            "id": "486ecd191c2a4948a187e23b19fb9c7e"
+        },
+        {
+            "question": "You ……………………… be watching too many films.",
+            "description": "",
+            "answers": [
+                "may not",
+                "should not",
+                "would not"
+            ],
+            "correct": 1,
+            "id": "4c3082f814b748588f5a8a97b79b7346"
+        },
+        {
+            "question": "I …………………….. now. (strong obligation)",
+            "description": "Modals are followed by an infinitive without to. ",
+            "answers": [
+                "must quit",
+                "must to quit",
+                "must quits"
+            ],
+            "correct": 0,
+            "id": "e6a8723efba24ff9bd54f61c207f26b9"
+        },
+        {
+            "question": "The roof ………………………. be repaired one of these days.",
+            "description": "Either must or ought to is possible here. Ought is followed by an infinitive with to. ",
+            "answers": [
+                "ought",
+                "ought to",
+                "must"
+            ],
+            "correct": 2,
+            "id": "a6285816e59a45e6b6ecc0237b5dcfb4"
+        },
+        {
+            "question": "I ………………………… work really hard in those days.",
+            "description": "Modals do not normally have past forms.",
+            "answers": [
+                "must",
+                "should",
+                "had to"
+            ],
+            "correct": 2,
+            "id": "f42cc2bbb5464dd8a17d6ca649c77d7d"
+        },
+        {
+            "question": "You ……………………….. me you weren’t coming.",
+            "description": "Should have + past participle can be used to express some past ideas.",
+            "answers": [
+                "should tell",
+                "would tell",
+                "should have told"
+            ],
+            "correct": 2,
+            "id": "4b16b92f89da47059bf06221dcf99aa4"
+        },
+        {
+            "question": "He ……………………….. arrive any time.",
+            "description": "",
+            "answers": [
+                "may",
+                "must",
+                "can"
+            ],
+            "correct": 0,
+            "id": "9ded2e38a355424885c0436d72d0c52b"
+        },
+        {
+            "question": "Where is Janet? She …………………….. be in London, Paris or Berlin – nobody knows.",
+            "description": "Could can express possibility in affirmative clauses. ",
+            "answers": [
+                "can",
+                "could",
+                "would"
+            ],
+            "correct": 1,
+            "id": "8552d895850946f582246aff0ecd4fc9"
+        },
+        {
+            "question": "Kashmir ………………………. be very cold in winter.",
+            "description": "Can indicates behavior typical of a person or thing. ",
+            "answers": [
+                "can",
+                "may",
+                "shall"
+            ],
+            "correct": 0,
+            "id": "251e69501a574c6180960871179d9670"
+        }
+    ]
+}

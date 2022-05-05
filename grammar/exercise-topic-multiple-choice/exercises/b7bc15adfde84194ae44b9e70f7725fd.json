@@ -1,0 +1,72 @@
+{
+    "id": "b7bc15adfde84194ae44b9e70f7725fd",
+    "title": "Conditional Clauses Exercise",
+    "questions": [
+        {
+            "question": "If I see my enemy on the road, I turn my head away.",
+            "description": "",
+            "answers": [
+                "Zero conditional",
+                "First conditional",
+                "Second conditional"
+            ],
+            "correct": 0,
+            "id": "c67d08b3542944e5a16e5e256300d438"
+        },
+        {
+            "question": "If it is a holiday tomorrow, I will go to the cinema.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 0,
+            "id": "5319655b46ad4a82bcc466bcfa437919"
+        },
+        {
+            "question": "If I had a lot of money, I would start a business.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "b143a782bc6946cb932fef4ad4db73b9"
+        },
+        {
+            "question": "If I want to go to Mumbai, I will book a ticket on the Mangala Express.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 0,
+            "id": "da13970e070e4ffeb745807980679645"
+        },
+        {
+            "question": "If you had worked harder, you would have passed the test.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 2,
+            "id": "2daf42dfebb04251a140e8a752bdfbcc"
+        },
+        {
+            "question": "If you got a job in Delhi, you could learn Hindi.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "170814b2cc2d465faaa43befd42d614a"
+        }
+    ]
+}

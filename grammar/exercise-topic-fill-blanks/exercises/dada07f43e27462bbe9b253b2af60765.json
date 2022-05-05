@@ -1,0 +1,325 @@
+{
+    "id": "dada07f43e27462bbe9b253b2af60765",
+    "title": "Present Simple Reported Statements",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He works in a bank.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said he worked in a bank.",
+                        "She said that he worked in a bank."
+                    ]
+                }
+            ],
+            "id": "35ac1fef73e14ecfb6a9630943213cb9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Julie doesn't like going out much.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said Julie didn't like going out much.",
+                        "She said that Julie didn't like going out much."
+                    ]
+                }
+            ],
+            "id": "2785486f90404f3d9813c39140fd3fe9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I don't have a computer.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she didn't have a computer."
+                    ]
+                }
+            ],
+            "id": "c06d41be306c4549823f2b18f569c8fc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They never arrive on time.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said they never arrived on time.",
+                        "She said that they never arrived on time."
+                    ]
+                }
+            ],
+            "id": "2ffc56c662604fcfa152f061cfa9214a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We often meet friends in London at the weekend.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said they often met friends in London at the weekend.",
+                        "She said that they often met friends in London at the weekend."
+                    ]
+                }
+            ],
+            "id": "9d3521f50dd8429395133887dca8bb12"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"David doesn't have any children.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said David didn't have any children.",
+                        "She said that David didn't have any children."
+                    ]
+                }
+            ],
+            "id": "0b8e1990ac7e442c96a79e63a9f4b135"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I don't go to the gym very often.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said she didn't go to the gym very often.",
+                        "She said that she didn't go to the gym very often."
+                    ]
+                }
+            ],
+            "id": "40e4f3652cc94abd90855fe6b2afa037"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Lucy owns three flats in the city.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said Lucy owned three flats in the city.",
+                        "She said that Lucy owned three flats in the city."
+                    ]
+                }
+            ],
+            "id": "7c5594bf64504c158f018339316c2e5b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I never get up early on Sundays.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said she never got up early on Sundays.",
+                        "She said that she never got up early on Sundays."
+                    ]
+                }
+            ],
+            "id": "5ff36881e99e4eb08e58c83c923ced24"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Jill meets her boyfriend at the cinema every Friday night.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said Jill met her boyfriend at the cinema every Friday night.",
+                        "She said that Jill met her boyfriend at the cinema every Friday night."
+                    ]
+                }
+            ],
+            "id": "a6054534c469403f897cffec1f7dce84"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We don't travel much.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said they didn't travel much.",
+                        "She said that they didn't travel much."
+                    ]
+                }
+            ],
+            "id": "e14349efb7d142aca2900dbeb5eed45a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"John doesn't live in Japan any more.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said John didn't live in Japan any more.",
+                        "She said that John didn't live in Japan any more."
+                    ]
+                }
+            ],
+            "id": "13c1cf89d0704fd7b4981097ea3deb10"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They work in Hong Kong.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said they worked in Hong Kong.",
+                        "She said that they worked in Hong Kong.."
+                    ]
+                }
+            ],
+            "id": "d8dbe1eed1c24dd293854a6d12776684"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I have to work until seven or eight pm every night.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said she had to work until seven or eight pm every night.",
+                        "She said that she had to work until seven or eight pm every night."
+                    ]
+                }
+            ],
+            "id": "2c807d5c1a8b4ba29e542776a2a9048d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I don't want to go to the theatre next weekend.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said she didn't want to go to the theatre next weekend.",
+                        "She said that she didn't want to go to the theatre next weekend."
+                    ]
+                }
+            ],
+            "id": "d4d097b61a734c0c957c077cdd7cbcb2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We like working in Paris.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said they liked working in Paris.",
+                        "She said that they liked working in Paris."
+                    ]
+                }
+            ],
+            "id": "7b04541007f843f3bf1fe8dca9c212b7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She doesn't have enough time to do everything.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said she didn't have enough time to do everything.",
+                        "She said that she didn't have enough time to do everything."
+                    ]
+                }
+            ],
+            "id": "6f7c1a7f9d8546ffaccaaa27b7a92196"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Tony hates mushrooms.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said Tony hated mushrooms.",
+                        "She said that Tony hated mushrooms."
+                    ]
+                }
+            ],
+            "id": "8b013b8895914964b1a0ef232bf209d9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They often go on holiday in July.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said they often went on holiday in July.",
+                        "She said that they often went on holiday in July."
+                    ]
+                }
+            ],
+            "id": "3a16c68c5d724a689e09fc9497e1b92b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I live in New York.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said she lived in New York.",
+                        "She said that she lived in New York."
+                    ]
+                }
+            ],
+            "id": "ff25e40855c24e619c680cb046482001"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "id": "09fd55c4ef7c41979d7746b513284c05",
+    "title": "Indirect Speech Exercise",
+    "questions": [
+        {
+            "question": "‘Do you like tea?’ he said.",
+            "description": "",
+            "answers": [
+                "He said to me if I liked tea.",
+                "He asked me if I liked tea.",
+                "He asked me if I like tea."
+            ],
+            "correct": 1,
+            "id": "c312674a4cc647aba585b093765372eb"
+        },
+        {
+            "question": "The teacher said, ‘What are you looking for?’",
+            "description": "",
+            "answers": [
+                "The teacher asked me what are you looking for.",
+                "The teacher asked me what  I am looking for.",
+                "The teacher asked me what I was looking for.",
+                "The teacher asked me what was I looking for."
+            ],
+            "correct": 2,
+            "id": "fad7763bb41e49a6807b1024b1e3ab1e"
+        },
+        {
+            "question": "‘Have you bought enough nails?’ mother said.",
+            "description": "",
+            "answers": [
+                "Mother asked me have I bought enough nails.",
+                "Mother asked me if I have bought enough nails.",
+                "Mother asked me if I had bought enough nails."
+            ],
+            "correct": 2,
+            "id": "72deb44e93e64f2bab094642ba48efca"
+        },
+        {
+            "question": "He asked his daughter …………………. she had finished her homework.",
+            "description": "",
+            "answers": [
+                "that",
+                "weather",
+                "whether"
+            ],
+            "correct": 2,
+            "id": "ef894ad51cce4f9a883026de9bd62de5"
+        },
+        {
+            "question": "I asked him whether he would keep quiet. This is the reported speech of:",
+            "description": "",
+            "answers": [
+                "I asked him ‘Will you keep quiet?’",
+                "I asked him ‘Whether he would keep quiet?’",
+                "I asked him, ‘Would you keep quiet?’"
+            ],
+            "correct": 0,
+            "id": "ce5450e27d1b4be78b3ea824b50a79cb"
+        },
+        {
+            "question": "The teacher asked the students ……………………… they had seen the exhibition.",
+            "description": "",
+            "answers": [
+                "if",
+                "that",
+                "weather"
+            ],
+            "correct": 0,
+            "id": "ae4ef4caa5954452929314740844f6ec"
+        }
+    ]
+}

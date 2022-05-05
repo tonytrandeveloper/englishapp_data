@@ -1,0 +1,138 @@
+{
+    "id": "22fcffb6d24341218e3b982d35c4eabc",
+    "title": "Tenses Worksheet",
+    "questions": [
+        {
+            "question": "I will wait here until you …………………..",
+            "description": "When both clauses refer to future, use a simple future in the main clause and simple present in the subordinate clause.",
+            "answers": [
+                "return",
+                "will return",
+                "returned"
+            ],
+            "correct": 0,
+            "id": "3ac85f67bfe94052915e9e9a3c23ac42"
+        },
+        {
+            "question": "If I knew that you were coming, I ……………………….. dinner.",
+            "description": "In the second conditional, use a simple past in the if-clause and would + first form of the verb in the main clause.",
+            "answers": [
+                "will prepare",
+                "would prepare",
+                "can prepare"
+            ],
+            "correct": 1,
+            "id": "92a5bd76cd314129af295e791d7126ff"
+        },
+        {
+            "question": "If they had paid heed to the warning signs, this …………………………..",
+            "description": "In the third conditional, use a past perfect in the if-clause and would + have + past participle in the main clause.",
+            "answers": [
+                "will not happen",
+                "would not happen",
+                "would not have happened"
+            ],
+            "correct": 2,
+            "id": "ebe98464cbd9450eb58db52bff158383"
+        },
+        {
+            "question": "It took me quite sometime to get used to ………………………… in a large city.",
+            "description": "The to in used to is a preposition. A verb used after a preposition should be in its ing form. ",
+            "answers": [
+                "live",
+                "living"
+            ],
+            "correct": 1,
+            "id": "e077f56e02034f32ab0f7ae31ebe2c80"
+        },
+        {
+            "question": "What she said ………………………. no sense to me.",
+            "description": "",
+            "answers": [
+                "made",
+                "has made",
+                "will make"
+            ],
+            "correct": 0,
+            "id": "cbc555b82cf84c9e81ee0732a4c01112"
+        },
+        {
+            "question": "He asked me if I ………………………. him some money.",
+            "description": "'Can you lend me some money?' he asked. He asked if I could lend him some money. Can in direct speech becomes could in indirect speech. ",
+            "answers": [
+                "can lend",
+                "could lend",
+                "will lend"
+            ],
+            "correct": 1,
+            "id": "f0ca6e55255e4bd2887385b6c1c38277"
+        },
+        {
+            "question": "I waited and waited but he …………………… come.",
+            "description": "When the verb in the main clause is in the simple past, use a past tense in the subordinate clause as well. ",
+            "answers": [
+                "doesn't come",
+                "didn't come",
+                "hadn't come"
+            ],
+            "correct": 1,
+            "id": "fbe8ad13cc2942838607e57a3316d935"
+        },
+        {
+            "question": "I …………………………. to anybody.",
+            "description": "The present perfect is used to refer to time up to now. ",
+            "answers": [
+                "never apologized",
+                "had never apologized",
+                "have never apologized"
+            ],
+            "correct": 2,
+            "id": "eb603471123f4c079f4c2efb7a05b224"
+        },
+        {
+            "question": "I will give you a call when I …………………….. ready.",
+            "description": "When both clauses refer to future, use a simple future in the main clause and simple present in the subordinate clause. ",
+            "answers": [
+                "am",
+                "will be",
+                "would be"
+            ],
+            "correct": 0,
+            "id": "f36d122680f840dc88a1fea3db399c8d"
+        },
+        {
+            "question": "I asked him where he ……………………….. the previous day.",
+            "description": "I asked him, 'Where were you yesterday?' I asked him where he had been the previous day. Simple past in the direct speech becomes past perfect in the indirect speech.",
+            "answers": [
+                "was",
+                "had been",
+                "has been"
+            ],
+            "correct": 1,
+            "id": "f693838a62234670af3c6a231e41148e"
+        },
+        {
+            "question": "It is time you ……………………… a job.",
+            "description": "Use a simple past after it is time.",
+            "answers": [
+                "find",
+                "found",
+                "had found"
+            ],
+            "correct": 1,
+            "id": "9a89cb955a674ad493017c7c2f5aa475"
+        },
+        {
+            "question": "I would rather you ………………………… home now.",
+            "description": "Use a simple past after would rather. ",
+            "answers": [
+                "go",
+                "will go",
+                "went",
+                "had gone"
+            ],
+            "correct": 2,
+            "id": "71783856109a439cb5f0a94443d61925"
+        }
+    ]
+}

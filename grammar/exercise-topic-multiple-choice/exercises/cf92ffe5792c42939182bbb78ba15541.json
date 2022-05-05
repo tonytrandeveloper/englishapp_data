@@ -1,0 +1,119 @@
+{
+    "id": "cf92ffe5792c42939182bbb78ba15541",
+    "title": "Adverbs Exercise",
+    "questions": [
+        {
+            "question": "Don’t speak loudly. We are in the church.",
+            "description": "",
+            "answers": [
+                "speak",
+                "loudly",
+                "in"
+            ],
+            "correct": 1,
+            "id": "118ede2a97574650b550fbd6347f5b57"
+        },
+        {
+            "question": "Can I come tomorrow?",
+            "description": "",
+            "answers": [
+                "can",
+                "come",
+                "tomorrow"
+            ],
+            "correct": 2,
+            "id": "1f2031fdfc2a4decbb6e6783f00b30f6"
+        },
+        {
+            "question": "Are you busy now?",
+            "description": "",
+            "answers": [
+                "are",
+                "busy",
+                "now"
+            ],
+            "correct": 2,
+            "id": "99196c0d097f4818af954b056fd55e43"
+        },
+        {
+            "question": "Don’t worry. You will hear from us soon.",
+            "description": "",
+            "answers": [
+                "worry",
+                "will",
+                "from",
+                "soon"
+            ],
+            "correct": 3,
+            "id": "edec55f38f5349febfa0cbf5cb913729"
+        },
+        {
+            "question": "Listen carefully to what I say.",
+            "description": "",
+            "answers": [
+                "listen",
+                "carefully",
+                "what"
+            ],
+            "correct": 1,
+            "id": "f1e2ecd5f929406c845beaa46ba1810f"
+        },
+        {
+            "question": "The sun is shining brightly.",
+            "description": "",
+            "answers": [
+                "sun",
+                "shining",
+                "brightly"
+            ],
+            "correct": 2,
+            "id": "2d9163816d5446128fbc5bf857b6c6e1"
+        },
+        {
+            "question": "I had a strange experience yesterday.",
+            "description": "",
+            "answers": [
+                "had",
+                "strange",
+                "yesterday"
+            ],
+            "correct": 2,
+            "id": "f4cf212c357740c19c055a15c67a8716"
+        },
+        {
+            "question": "I wanted to talk to her but she hastily left the room.",
+            "description": "",
+            "answers": [
+                "talk",
+                "her",
+                "hastily",
+                "left"
+            ],
+            "correct": 2,
+            "id": "75813abfa2ff4a248fe474b6390e562e"
+        },
+        {
+            "question": "He is standing outside.",
+            "description": "",
+            "answers": [
+                "is",
+                "standing",
+                "outside"
+            ],
+            "correct": 2,
+            "id": "2370f979bbc34becb331a65caa95f175"
+        },
+        {
+            "question": "This has been going on for a while.",
+            "description": "",
+            "answers": [
+                "been",
+                "going",
+                "for",
+                "while"
+            ],
+            "correct": 3,
+            "id": "4fdfe0ff1a6c4283838993b3c39b3c5d"
+        }
+    ]
+}

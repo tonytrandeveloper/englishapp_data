@@ -1,0 +1,128 @@
+{
+    "id": "74b97541eafc4cbd97515b80e95fbc76",
+    "title": "Adjectives Or Adverbs",
+    "questions": [
+        {
+            "question": "Janet is a ................................. girl.",
+            "description": "Here the adjective beautiful modifies the noun girl.",
+            "answers": [
+                "beautiful",
+                "beatifully"
+            ],
+            "correct": 0,
+            "id": "1680ef0fa7814594a6975a990062ef03"
+        },
+        {
+            "question": "The children sang .....................................",
+            "description": "Here the adverb beautifully modifies the verb sang.",
+            "answers": [
+                "beautiful",
+                "beautifully"
+            ],
+            "correct": 1,
+            "id": "680b35cfe68b48da879c0e9d69687989"
+        },
+        {
+            "question": "The radio is too ................................. Please turn down its volume.",
+            "description": "Adjectives can be the complement of a verb of incomplete predication (is/am/are/was/were). Adverbs cannot be used like this. ",
+            "answers": [
+                "loud",
+                "loudly"
+            ],
+            "correct": 0,
+            "id": "bb55d849e81542339ff081ab0b147da9"
+        },
+        {
+            "question": "Why are you speaking so ................................?",
+            "description": "We use the adverb loudly to modify the verb speaking.",
+            "answers": [
+                "loud",
+                "loudly"
+            ],
+            "correct": 1,
+            "id": "bb33d7edf5c24d1aa9ade237db610ad7"
+        },
+        {
+            "question": "He is a .................................... learner.",
+            "description": "Fast can be an adjective and an adverb. There is no such word as fastly.",
+            "answers": [
+                "fast",
+                "fastly"
+            ],
+            "correct": 0,
+            "id": "71dd95d9483349f98ac89c034be2b4c2"
+        },
+        {
+            "question": "I know him .................................. well.",
+            "description": "Quite is the adverb. There is no such word as quitely.",
+            "answers": [
+                "quite",
+                "quitely",
+                "quietly"
+            ],
+            "correct": 0,
+            "id": "9ef4be21dfcf4538a31f6fe9e24fd771"
+        },
+        {
+            "question": "Proofread your work ...................................... before submitting it.",
+            "description": "Here the adverb carefully modifies the verb proofread.",
+            "answers": [
+                "careful",
+                "carefully"
+            ],
+            "correct": 1,
+            "id": "ab5b35940b794e77829f0ed15179934c"
+        },
+        {
+            "question": "You have done an ....................................... job.",
+            "description": "Here we use the adjective excellent to modify the noun job.",
+            "answers": [
+                "excellent",
+                "excellently"
+            ],
+            "correct": 0,
+            "id": "22fe9a516a744ce6a3fd1d5394d4f69f"
+        },
+        {
+            "question": "I thought I would pass the test ..................................., but I failed after all.",
+            "description": "Here we need the adverb easily to modify the verb pass.",
+            "answers": [
+                "easy",
+                "easyly",
+                "easily"
+            ],
+            "correct": 2,
+            "id": "84244a8b248f41e29377ef7007379300"
+        },
+        {
+            "question": "I have ...................................... had any rest since morning.",
+            "description": "",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 1,
+            "id": "0b04bd03057849df9339531540c14e1f"
+        },
+        {
+            "question": "I have been having a lot of headaches of .............................",
+            "description": "Of late is similar to lately.",
+            "answers": [
+                "late",
+                "lately"
+            ],
+            "correct": 0,
+            "id": "1735e0cebcbc4102823d24bbf38bba04"
+        },
+        {
+            "question": "He was very .................................... of the plan.",
+            "description": "Adjectives can be the complement of a verb of incomplete predication (is/am/are/was/were). Adverbs cannot be used like this. ",
+            "answers": [
+                "critical",
+                "critically"
+            ],
+            "correct": 0,
+            "id": "84898c85b1634c46a7a40c73eacfc6d9"
+        }
+    ]
+}

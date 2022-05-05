@@ -1,0 +1,135 @@
+{
+    "id": "76173d3dc38a4a9fb3786f0d83014fa1",
+    "title": "Gap Fills",
+    "questions": [
+        {
+            "question": "Would you rather ……………………. here or go home?",
+            "description": "Would rather is followed by an infinitive without to. ",
+            "answers": [
+                "to stay",
+                "stay",
+                "staying"
+            ],
+            "correct": 1,
+            "id": "78b8d84467854e04bcffcdd28ea61146"
+        },
+        {
+            "question": "I would rather you …………………………. now.",
+            "description": "To say that you would prefer someone to do something, we use a past tense after would rather.",
+            "answers": [
+                "leave",
+                "left",
+                "have left"
+            ],
+            "correct": 1,
+            "id": "d8081e29b3144d7399aa816046671bbf"
+        },
+        {
+            "question": "I decided to phone rather than …………………………",
+            "description": "When the main clause has a to-infinitive, rather than is usually followed by an infinitive without to. Ing forms are also possible.",
+            "answers": [
+                "write",
+                "writing",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "32d7631fe6f64ee1b946273de8596450"
+        },
+        {
+            "question": "She took her child with ………………………..",
+            "description": "The reflexive pronoun is unusual after a preposition of place.",
+            "answers": [
+                "her",
+                "herself",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "799aa6e35fa242a29fd1f348eac58a31"
+        },
+        {
+            "question": "Would you mind if I ………………………… the window?",
+            "description": "A past tense is used after would you mind.",
+            "answers": [
+                "open",
+                "opened",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "d5256da25aab4fc6a9b2dd1a1e525324"
+        },
+        {
+            "question": "Would you mind if I ……………………….. late?",
+            "description": "",
+            "answers": [
+                "come",
+                "came",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "1726c2299dfa4ac2abf4cfed76d3020f"
+        },
+        {
+            "question": "Do you mind if I ………………………. music?",
+            "description": "A present tense is used after do you mind.",
+            "answers": [
+                "play",
+                "played"
+            ],
+            "correct": 0,
+            "id": "a55134b58bd441108240ae70228095ec"
+        },
+        {
+            "question": "Do you mind people ……………………….. in your room?",
+            "description": "",
+            "answers": [
+                "smoke",
+                "smoking"
+            ],
+            "correct": 1,
+            "id": "0814957992c4426985f1cf6e81683594"
+        },
+        {
+            "question": "Would you mind ………………………… people smoked in your house?",
+            "description": "",
+            "answers": [
+                "if",
+                "that",
+                "whether"
+            ],
+            "correct": 0,
+            "id": "1eba124584d0412199bce50715ff3244"
+        },
+        {
+            "question": "A new ………………………….. of communication was developed in the 19th century.",
+            "description": "Means is always used in the plural form.",
+            "answers": [
+                "mean",
+                "means"
+            ],
+            "correct": 1,
+            "id": "d048622a557d4eb493a2ede2a1eb531e"
+        },
+        {
+            "question": "I wouldn’t mind ……………………….. this again.",
+            "description": "An ing form is used in this structure. ",
+            "answers": [
+                "do",
+                "to do",
+                "doing"
+            ],
+            "correct": 2,
+            "id": "5a0c63a320e44448bd9f2dc53a16e79f"
+        },
+        {
+            "question": "I hope ………………………… them soon.",
+            "description": "An infinitive is used after I hope.",
+            "answers": [
+                "see",
+                "seeing",
+                "to see"
+            ],
+            "correct": 2,
+            "id": "2f796574558c42598cb19f684e3d32c3"
+        }
+    ]
+}

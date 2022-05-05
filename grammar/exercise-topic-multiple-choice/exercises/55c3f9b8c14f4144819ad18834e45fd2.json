@@ -1,0 +1,136 @@
+{
+    "id": "55c3f9b8c14f4144819ad18834e45fd2",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": ".................................... like hamburgers.",
+            "description": "All + noun cannot be the subject of a negative verb. Instead we write ‘not all + noun + affirmative verb’.",
+            "answers": [
+                "Not all Americans",
+                "All Americans do not"
+            ],
+            "correct": 0,
+            "id": "1ff5dc947e894dd4ab155b1441228497"
+        },
+        {
+            "question": "I have been round ............................ looking for my puppy.",
+            "description": "The expression ‘all the village’ means every part of the village. ",
+            "answers": [
+                "every village",
+                "all the village"
+            ],
+            "correct": 1,
+            "id": "0008673b6ae544538389142c6bb2388b"
+        },
+        {
+            "question": "Susie spent .................................. at home.",
+            "description": "The article should go before whole.",
+            "answers": [
+                "whole week",
+                "whole the week",
+                "the whole week"
+            ],
+            "correct": 2,
+            "id": "0fbe9f7523e34c58be2d8faf2adc1d60"
+        },
+        {
+            "question": "I spent ................................ at home.",
+            "description": "The article goes after all.",
+            "answers": [
+                "all the day",
+                "the all day",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "f6405615f5a644b88186d9e4b815e0ff"
+        },
+        {
+            "question": "My dog understands every word I say – he is ............................ human.",
+            "description": "Almost can mean ‘similar to but not exactly the same’. Nearly is not used with this meaning. ",
+            "answers": [
+                "almost",
+                "nearly",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "e8f2148474174ab7a3d0a5c2e0ea3884"
+        },
+        {
+            "question": "I ............................ wish I had accepted the invite.",
+            "description": "Almost can mean ‘similar to but not exactly the same’. Nearly is not used with this meaning. ",
+            "answers": [
+                "almost",
+                "nearly",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "422f9bcf48c944608474678a300068af"
+        },
+        {
+            "question": ".............................. nobody came.",
+            "description": "Nearly cannot be used before negative words.",
+            "answers": [
+                "Almost",
+                "Nearly",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "bc701b05860b4331a66fe555e219a8da"
+        },
+        {
+            "question": "I have just read ............................. Brothers Karamazov.",
+            "description": "Before proper nouns all of and the whole of are both possible.",
+            "answers": [
+                "the whole of",
+                "all of",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "508932da908c4ef9b5bfcf10f209479c"
+        },
+        {
+            "question": "Students are not ................................. to park here.",
+            "description": "The verbs allowed and permitted can both be used in passive structures.",
+            "answers": [
+                "allowed",
+                "permitted",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "8c045440767842dca61b3757a4bcd60b"
+        },
+        {
+            "question": "I wasn’t .............................. to enter the club.",
+            "description": "Let is not used in the passive.",
+            "answers": [
+                "allowed",
+                "let",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ad1a3702d3074281ad496c09384f0c5d"
+        },
+        {
+            "question": "‘She is kind.’ ‘Her sister is .............................’",
+            "description": "We do not normally use also in short answers.",
+            "answers": [
+                "as well",
+                "also",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "2b071d1883154625b7147de1f47bf53d"
+        },
+        {
+            "question": "Please give me some rice ............................",
+            "description": "Also is not normally used in imperatives.",
+            "answers": [
+                "as well",
+                "also",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "1a75d49adefc4c29b440f4798513b14b"
+        }
+    ]
+}

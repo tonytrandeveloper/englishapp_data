@@ -1,0 +1,134 @@
+{
+    "id": "bd538fc2593f4a84904bcd9940b73feb",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "The dog wagged ……………………… tail.",
+            "description": "It's means it is or it has.",
+            "answers": [
+                "it's",
+                "its"
+            ],
+            "correct": 1,
+            "id": "4f175815915e4aba8ea3c459c08b4501"
+        },
+        {
+            "question": "It is time you ……………………. your hair.",
+            "description": "After it’s time, a past tense is used with a present meaning.",
+            "answers": [
+                "trim",
+                "trimmed",
+                "have trimmed"
+            ],
+            "correct": 1,
+            "id": "1cfa001b91f249d2bd085363cc1c85e6"
+        },
+        {
+            "question": "The farmer has a hen that ………………………. golden eggs.",
+            "description": "To lay is to put something down flat.",
+            "answers": [
+                "lies",
+                "lays",
+                "lains"
+            ],
+            "correct": 1,
+            "id": "cb4d82c3e67b40feb99f71ffd2822060"
+        },
+        {
+            "question": "She does ………………………. work than I do and yet she earns more.",
+            "description": "Use less with uncountable nouns and fewer with plural nouns.",
+            "answers": [
+                "less",
+                "fewer",
+                "lesser"
+            ],
+            "correct": 0,
+            "id": "8e791073a72b415c9a6b6be3afaaeb28"
+        },
+        {
+            "question": "His composition won the first prize because it had the ………………………… mistakes.",
+            "description": "Use the superlative form after the. Fewest is used with plural nouns and least is used with uncountable nouns. ",
+            "answers": [
+                "least",
+                "fewest",
+                "fewer",
+                "less"
+            ],
+            "correct": 1,
+            "id": "7616c37d9a984ae98d9a2f87de541e2f"
+        },
+        {
+            "question": "You look  ……………………",
+            "description": "Look is a copular verb. We use an adjective to modify copular verbs. ",
+            "answers": [
+                "happy",
+                "happily"
+            ],
+            "correct": 0,
+            "id": "8574637d9ee84b2e836a882a9aac71bf"
+        },
+        {
+            "question": "I can’t make him ……………………. his mind.",
+            "description": "Make is followed by object + infinitive without to.",
+            "answers": [
+                "change",
+                "to change",
+                "changing"
+            ],
+            "correct": 0,
+            "id": "5147752b0dae42f48e640eb0c1ebccba"
+        },
+        {
+            "question": "I don’t speak English very well but I can make myself ……………………….",
+            "description": "",
+            "answers": [
+                "understand",
+                "understood"
+            ],
+            "correct": 1,
+            "id": "520f0c0d755e433ebb5db063f4ae79ce"
+        },
+        {
+            "question": "She will not ………………………. this.",
+            "description": "The infinitive is used without to after modals.",
+            "answers": [
+                "permit",
+                "to permit"
+            ],
+            "correct": 0,
+            "id": "da140b31f14e4c718a4fd48760e468e5"
+        },
+        {
+            "question": "He ……………………….. to her for twenty years.",
+            "description": "The present perfect is used to talk about an action or situation that started in the past and has continued up to the present. ",
+            "answers": [
+                "is married",
+                "has been married",
+                "has married"
+            ],
+            "correct": 1,
+            "id": "75b1a36636a24a629d1459f3bc6fe5da"
+        },
+        {
+            "question": "……………………… you are right.",
+            "description": "Perhaps is similar to maybe. ",
+            "answers": [
+                "Maybe",
+                "May be",
+                "Perhaps"
+            ],
+            "correct": 2,
+            "id": "e6fb5f03717d4489b3aec4d60b785d90"
+        },
+        {
+            "question": "Would you mind ............................. me with the homework?",
+            "description": "We use ing forms or if-clauses after do you mind…? and would you mind….?\r\n\r\n",
+            "answers": [
+                "to help",
+                "helping"
+            ],
+            "correct": 1,
+            "id": "45bdf42c0b304a8d9e393fa6c5613a34"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "id": "5f21b87ada014fc8864ff53378a3309e",
+    "title": "Prepositions Exercise",
+    "questions": [
+        {
+            "question": "The boy ran …………………………….. the street.",
+            "description": "",
+            "answers": [
+                "across",
+                "on",
+                "to"
+            ],
+            "correct": 0,
+            "id": "dda3bd6058e147efa46d1db4803421a8"
+        },
+        {
+            "question": "He walked ………………………….. the building.",
+            "description": "",
+            "answers": [
+                "over",
+                "around",
+                "on"
+            ],
+            "correct": 1,
+            "id": "4c32dfe261e54786a1121fc2f32a4c0d"
+        },
+        {
+            "question": "The train goes ……………………….. a tunnel.",
+            "description": "",
+            "answers": [
+                "from",
+                "through",
+                "along"
+            ],
+            "correct": 1,
+            "id": "8e99ab31fd2a4384bf8636d246fedc06"
+        },
+        {
+            "question": "I walked …………………………….. the river bank.",
+            "description": "",
+            "answers": [
+                "on",
+                "in",
+                "along"
+            ],
+            "correct": 2,
+            "id": "08578c1f0aaf44e68a85f8b70ea999ab"
+        },
+        {
+            "question": "Who is standing …………………………. the gate?",
+            "description": "",
+            "answers": [
+                "on",
+                "in",
+                "at"
+            ],
+            "correct": 2,
+            "id": "4334585d712e45568fde606fc9c25260"
+        },
+        {
+            "question": "Your glasses are ………………………….. your nose.",
+            "description": "",
+            "answers": [
+                "at",
+                "over",
+                "on"
+            ],
+            "correct": 2,
+            "id": "7060661814b940d196ffa38825e7af3f"
+        },
+        {
+            "question": "The cat is hiding ………………………….. the door.",
+            "description": "",
+            "answers": [
+                "behind",
+                "below",
+                "under"
+            ],
+            "correct": 0,
+            "id": "d018daa2930245d8af899abf7f9931f3"
+        },
+        {
+            "question": "Come and stand ………………………….. me, Jane.",
+            "description": "",
+            "answers": [
+                "over",
+                "in front of",
+                "across"
+            ],
+            "correct": 1,
+            "id": "a9e10b337d474fa5986e1b333ae1f520"
+        },
+        {
+            "question": "The dog came running …………………………… its master, wagging its tail.",
+            "description": "",
+            "answers": [
+                "at",
+                "to",
+                "for"
+            ],
+            "correct": 1,
+            "id": "6a977faa578d493484bbc999305095ab"
+        },
+        {
+            "question": "They walked …………………………………. each other.",
+            "description": "",
+            "answers": [
+                "at",
+                "for",
+                "towards"
+            ],
+            "correct": 2,
+            "id": "f3f5e73fd785432d9c17ccea1d05c694"
+        }
+    ]
+}

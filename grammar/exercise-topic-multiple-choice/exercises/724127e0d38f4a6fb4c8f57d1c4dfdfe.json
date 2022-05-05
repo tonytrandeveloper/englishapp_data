@@ -1,0 +1,112 @@
+{
+    "id": "724127e0d38f4a6fb4c8f57d1c4dfdfe",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "This leather is inferior ……………….. that.",
+            "description": "",
+            "answers": [
+                "than",
+                "to",
+                "from",
+                "off"
+            ],
+            "correct": 1,
+            "id": "ffb26320eb3a4a4fb864a7211564567d"
+        },
+        {
+            "question": "Do you like ……………….. of meat pie?",
+            "description": "",
+            "answers": [
+                "this sort",
+                "this sorts",
+                "these sort",
+                "these sorts"
+            ],
+            "correct": 0,
+            "id": "2ed13df164024794ab5f799ee33e7da1"
+        },
+        {
+            "question": "The book …………… on the chest of the drawers.",
+            "description": "",
+            "answers": [
+                "was lain",
+                "was laid",
+                "was lied",
+                "has lied"
+            ],
+            "correct": 1,
+            "id": "8ebcac826ad1472192d324308d11c168"
+        },
+        {
+            "question": "The garden shears ……………… used to clip the hedge.",
+            "description": "",
+            "answers": [
+                "was",
+                "were",
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "264a7ffdb79e49579abe50ed1db02046"
+        },
+        {
+            "question": "Each of the boys ………………… given a prize today.",
+            "description": "",
+            "answers": [
+                "were",
+                "was",
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "ac0b8a11b04c4022b74c5a03b374970e"
+        },
+        {
+            "question": "A strimmer is a machine ………………… grass and weeds.",
+            "description": "",
+            "answers": [
+                "to cut",
+                "to cutting",
+                "for cutting"
+            ],
+            "correct": 2,
+            "id": "92ab67e15e77437eaf3cb52aa2a9cfc4"
+        },
+        {
+            "question": "To ………………, she got divorced shortly afterwards.",
+            "description": "",
+            "answers": [
+                "noone’s surprise",
+                "no one’s surprise",
+                "no ones surprise",
+                "no ones’ surprise"
+            ],
+            "correct": 1,
+            "id": "b56b999a5ef049388356b88151ace7a3"
+        },
+        {
+            "question": "The circus ………………. round of applause for the perfectly timed acrobatic stunt.",
+            "description": "",
+            "answers": [
+                "audience received a well-deserved",
+                "audience gave a well-deserved",
+                "audience gave a well deserved"
+            ],
+            "correct": 1,
+            "id": "fda56fe97e014adaaaf7b5500d93963d"
+        },
+        {
+            "question": "Because of its warm tropical climate, Hawaii ………………. subzero temperatures.",
+            "description": "",
+            "answers": [
+                "almost experiences never",
+                "experiences never almost",
+                "experiences almost never",
+                "almost never experiences"
+            ],
+            "correct": 3,
+            "id": "2055e482d92f478990e1aba8d946a68c"
+        }
+    ]
+}

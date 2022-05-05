@@ -1,0 +1,94 @@
+{
+    "id": "5b60cffdfddf4acd857c1f8e55d53f01",
+    "title": "Degrees of Comparison Exercise",
+    "questions": [
+        {
+            "question": "The elephant is ...................... land animal.",
+            "description": "",
+            "answers": [
+                "the big",
+                "the bigger",
+                "the biggest"
+            ],
+            "correct": 2,
+            "id": "3b916e8b594d4f2fa2da2e347ec9cecf"
+        },
+        {
+            "question": "The cheetah is ....................... animal.",
+            "description": "",
+            "answers": [
+                "the fast",
+                "the faster",
+                "the fastest"
+            ],
+            "correct": 2,
+            "id": "6cdd23fbb72f463b9f30d87d13742c1a"
+        },
+        {
+            "question": "The tortoise has a ………………. lifespan than any other animal.",
+            "description": "",
+            "answers": [
+                "long",
+                "longer",
+                "longest"
+            ],
+            "correct": 1,
+            "id": "f816233b9404483fabc56b9a38e71d2d"
+        },
+        {
+            "question": "Mt. Everest is ………………… peak in the world.",
+            "description": "",
+            "answers": [
+                "the high",
+                "the higher",
+                "the highest"
+            ],
+            "correct": 2,
+            "id": "61426bccbee445ff80eb5866b04b4c41"
+        },
+        {
+            "question": "Asia is ..................... than Africa.",
+            "description": "",
+            "answers": [
+                "big",
+                "bigger",
+                "biggest"
+            ],
+            "correct": 1,
+            "id": "370ed98ef2a74d059ae553cbd0cb09f9"
+        },
+        {
+            "question": "One gram is …………………. than a kilo.",
+            "description": "",
+            "answers": [
+                "light",
+                "lighter",
+                "lightest"
+            ],
+            "correct": 1,
+            "id": "8b3eb12f863e4e3da74a2d6ab996c3c6"
+        },
+        {
+            "question": "The Nile is ……………….. than any other river.",
+            "description": "",
+            "answers": [
+                "long",
+                "longer",
+                "longest"
+            ],
+            "correct": 1,
+            "id": "fe33003449994869ba254342c7779a77"
+        },
+        {
+            "question": "Greenland is …………….. island.",
+            "description": "",
+            "answers": [
+                "the large",
+                "the larger",
+                "the largest"
+            ],
+            "correct": 2,
+            "id": "703dfec675fe497a9eda55334c18381a"
+        }
+    ]
+}

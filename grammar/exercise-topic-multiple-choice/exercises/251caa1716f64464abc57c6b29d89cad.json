@@ -1,0 +1,100 @@
+{
+    "id": "251caa1716f64464abc57c6b29d89cad",
+    "title": "Comparative Structures Exercise",
+    "questions": [
+        {
+            "question": "The baby doesn’t look much ……………….. you.",
+            "description": "As is a conjunction. It should be followed by a clause. Like is a preposition. It is followed by a noun. ",
+            "answers": [
+                "as",
+                "like"
+            ],
+            "correct": 1,
+            "id": "3cf9f875713242ee8146c6e7d81a5124"
+        },
+        {
+            "question": "Her eyes are not at all the same color ………………. yours.",
+            "description": "Note the pattern 'same...as'.",
+            "answers": [
+                "as",
+                "like"
+            ],
+            "correct": 0,
+            "id": "0e157c054ae04da4b4c86ce2d3931654"
+        },
+        {
+            "question": "I earn as much money ……………….. you.",
+            "description": "Note the pattern 'as...as'.",
+            "answers": [
+                "as",
+                "like"
+            ],
+            "correct": 0,
+            "id": "8b9129e8bcb64dbb8a223a7b235409a8"
+        },
+        {
+            "question": "It was ………………….. than I thought.",
+            "description": "",
+            "answers": [
+                "more expensive",
+                "expensive",
+                "most expensive"
+            ],
+            "correct": 0,
+            "id": "ae875bbea1f14067a1010d5925805a97"
+        },
+        {
+            "question": "The car is running ………………… since it had a service.",
+            "description": "",
+            "answers": [
+                "faster",
+                "more fast"
+            ],
+            "correct": 0,
+            "id": "85dff2fa2ef24328b919263dc1ee26bc"
+        },
+        {
+            "question": "You are ……………….. annoying person in the whole neighborhood.",
+            "description": "",
+            "answers": [
+                "most",
+                "the most",
+                "more"
+            ],
+            "correct": 1,
+            "id": "aeb05afc5b9048e2bcacd8bacd2e4437"
+        },
+        {
+            "question": "She is ………………….. than her sister.",
+            "description": "",
+            "answers": [
+                "less pretty",
+                "less prettier"
+            ],
+            "correct": 0,
+            "id": "e7e15520ba19455d9142f16f83761bdb"
+        },
+        {
+            "question": "I have got ……………….. than I used to have.",
+            "description": "",
+            "answers": [
+                "less energy",
+                "least energy",
+                "the less energy"
+            ],
+            "correct": 0,
+            "id": "2d8eeca6ef9d48fbb1e766ee8ca9f213"
+        },
+        {
+            "question": "I want to spend ...................... working.",
+            "description": "",
+            "answers": [
+                "the less possible time",
+                "the least possible time",
+                "the lesser possible time"
+            ],
+            "correct": 1,
+            "id": "c40c95db12d1487da5f74fd978c5d71b"
+        }
+    ]
+}

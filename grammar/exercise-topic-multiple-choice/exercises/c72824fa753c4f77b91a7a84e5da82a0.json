@@ -1,0 +1,129 @@
+{
+    "id": "c72824fa753c4f77b91a7a84e5da82a0",
+    "title": "Gerund vs. Infinitive",
+    "questions": [
+        {
+            "question": "We stopped ........................... a drink.",
+            "description": "The infinitive is used to talk about doing something on a specific occasion. The gerund is used for making general statements or to refer to things happened in the past.",
+            "answers": [
+                "to have",
+                "having",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "6be05fa10f8b46d09c20ac9499a68169"
+        },
+        {
+            "question": "He stopped .............................. when he developed liver trouble.",
+            "description": "The infinitive is used to talk about doing something on a specific occasion. The gerund is used for making general statements or to refer to things happened in the past.",
+            "answers": [
+                "to drink",
+                "drinking",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "88dac6852f6741f5a2841a921ef4dd4b"
+        },
+        {
+            "question": "He started .................................. at thirteen.",
+            "description": "The infinitive is used to talk about doing something on a specific occasion. The gerund is used for making general statements or to refer to things happened in the past.",
+            "answers": [
+                "to work",
+                "working"
+            ],
+            "correct": 1,
+            "id": "6971287225d74d28abd17ec6ecb63835"
+        },
+        {
+            "question": "I stopped ............................... them at school.",
+            "description": "The infinitive is used to talk about doing something on a specific occasion. The gerund is used for making general statements or to refer to things happened in the past.",
+            "answers": [
+                "dropping",
+                "to drop"
+            ],
+            "correct": 1,
+            "id": "f9da6b0474c64c1a9ed90643f143341e"
+        },
+        {
+            "question": "I remember ................................ him at the bus stop.",
+            "description": "A gerund after remember refers to the past. ",
+            "answers": [
+                "to meet",
+                "meeting"
+            ],
+            "correct": 1,
+            "id": "ab0153bd5560444cbf870f011cdb44d0"
+        },
+        {
+            "question": "Remember ............................. the check before Friday.",
+            "description": "An infinitive after remember refers to the future.",
+            "answers": [
+                "posting",
+                "to post"
+            ],
+            "correct": 1,
+            "id": "9777d8bfce95419da1bd08f1f79b82d4"
+        },
+        {
+            "question": "Did you remember ............................... the door when you left?",
+            "description": "The infinitive is used to talk about doing something on a specific occasion. The gerund is used for making general statements or to refer to things happened in the past.",
+            "answers": [
+                "locking",
+                "to lock"
+            ],
+            "correct": 1,
+            "id": "002bd57a75b740f8b0947403c5aff976"
+        },
+        {
+            "question": "I don't ever remember ................................. to her.",
+            "description": "The infinitive is used to talk about doing something on a specific occasion. The gerund is used for making general statements or to refer to things happened in the past.",
+            "answers": [
+                "to talk",
+                "talking"
+            ],
+            "correct": 1,
+            "id": "f831bc1a7cea4b04885b041e9f840a61"
+        },
+        {
+            "question": "I regret ............................. school at fifteen.",
+            "description": "An infinitive after regret refers to the present or future. A gerund refers to the past.",
+            "answers": [
+                "to leave",
+                "leaving"
+            ],
+            "correct": 1,
+            "id": "877ee49e7a734a35bd2334498f82429a"
+        },
+        {
+            "question": "I regret ................................ you that you have lost your job.",
+            "description": "An infinitive after regret refers to the present or future. A gerund refers to the past.",
+            "answers": [
+                "informing",
+                "to inform"
+            ],
+            "correct": 1,
+            "id": "91c06d12a4b24b57979b09ed2fc1c59a"
+        },
+        {
+            "question": "I would like ………………………………. this scenery.",
+            "description": "The infinitive is used to talk about doing something on a specific occasion. The gerund is used for making general statements or to refer to things happened in the past.",
+            "answers": [
+                "painting",
+                "to paint"
+            ],
+            "correct": 1,
+            "id": "33751184410e4a2dbf6feda41436d887"
+        },
+        {
+            "question": "I like ………………………………",
+            "description": "Either could be used here. However, generally speaking, the gerund is more appropriate here. ",
+            "answers": [
+                "to paint",
+                "painting",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "0a908ab116414f14942445f977ead3b2"
+        }
+    ]
+}

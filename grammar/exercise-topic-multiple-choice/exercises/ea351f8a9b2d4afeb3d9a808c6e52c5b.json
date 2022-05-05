@@ -1,0 +1,139 @@
+{
+    "id": "ea351f8a9b2d4afeb3d9a808c6e52c5b",
+    "title": "Such And So",
+    "questions": [
+        {
+            "question": "You are ……………………… baby.",
+            "description": "We use such before a noun with or without an adjective.",
+            "answers": [
+                "such a",
+                "such",
+                "so",
+                "so a"
+            ],
+            "correct": 0,
+            "id": "1117d7f9f5ca43aba00a27f9318315a4"
+        },
+        {
+            "question": "I am surprised that you have ………………….. patience.",
+            "description": "We use such before abstract nouns.",
+            "answers": [
+                "such",
+                "such a",
+                "so"
+            ],
+            "correct": 0,
+            "id": "f6e027f487044e2793921e34d06ea063"
+        },
+        {
+            "question": "She is ……………………… beautiful.",
+            "description": "We use so before an adjective.",
+            "answers": [
+                "such",
+                "such a",
+                "so"
+            ],
+            "correct": 2,
+            "id": "b00c6519b5e04ecd8b04cd2c7fc5095b"
+        },
+        {
+            "question": "They are …………………….. idiots.",
+            "description": "We use such before plural nouns.",
+            "answers": [
+                "such",
+                "such an",
+                "so"
+            ],
+            "correct": 0,
+            "id": "8e32ab466b5a4547be99bef30ed4ce0f"
+        },
+        {
+            "question": "She has got ……………………….. bizarre habits.",
+            "description": "We use such before plural nouns.",
+            "answers": [
+                "such",
+                "such a",
+                "so"
+            ],
+            "correct": 0,
+            "id": "f50c9a99af014744a9692f61208fa246"
+        },
+        {
+            "question": "I have never met …………………….. beautiful woman.",
+            "description": "We use such a before a singular countable noun.",
+            "answers": [
+                "such",
+                "such a",
+                "so"
+            ],
+            "correct": 1,
+            "id": "0c4aade010d5483b81eaed1fed5f9273"
+        },
+        {
+            "question": "She is ……………………… childish.",
+            "description": "Before adjectives, we use so.",
+            "answers": [
+                "such",
+                "so",
+                "such a"
+            ],
+            "correct": 1,
+            "id": "669373a74ff04c709eb6029b92caed29"
+        },
+        {
+            "question": "She has got ………………………. crazy ideas.",
+            "description": "",
+            "answers": [
+                "such",
+                "such a",
+                "so"
+            ],
+            "correct": 0,
+            "id": "6b7fa3833bdc47d7bb23533864ae28d5"
+        },
+        {
+            "question": "She is ………………………. intelligent.",
+            "description": "We use so before adjectives.",
+            "answers": [
+                "such",
+                "such an",
+                "so"
+            ],
+            "correct": 2,
+            "id": "0b13dd938a464eb29bba1f4e9c640715"
+        },
+        {
+            "question": "It was …………………….. loud noise that it woke everybody.",
+            "description": "",
+            "answers": [
+                "such",
+                "such a",
+                "so"
+            ],
+            "correct": 1,
+            "id": "92621e2b14d94f56a9e45b6644b9473e"
+        },
+        {
+            "question": "I am glad that you are feeling …………………… better.",
+            "description": "We cannot use so before a comparative adjective. Instead, we use so much.",
+            "answers": [
+                "so",
+                "such",
+                "so much"
+            ],
+            "correct": 2,
+            "id": "a63681d2a95d46ce8779dbbbf9ddc9eb"
+        },
+        {
+            "question": "We have got ………………………. to do.",
+            "description": "We can use much or so much before an infinitive. ",
+            "answers": [
+                "so",
+                "so much",
+                "such"
+            ],
+            "correct": 1,
+            "id": "b06195f66e8d4ba996c83f82f5f33183"
+        }
+    ]
+}

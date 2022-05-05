@@ -1,0 +1,138 @@
+{
+    "id": "312410fe4d3f4e2ea5061d2028fbe903",
+    "title": "Gap Filling Grammar Exercise",
+    "questions": [
+        {
+            "question": "I have lived in cities so I …………………………….. the noise.",
+            "description": "",
+            "answers": [
+                "am used to",
+                "am using to",
+                "used to"
+            ],
+            "correct": 0,
+            "id": "7cb762b98bdc4e469d15a77a8a00522c"
+        },
+        {
+            "question": "It wasn’t easy for me to get ……………………………… up in the middle of the night.",
+            "description": "An ing form or a noun is used after get used to or be used to.",
+            "answers": [
+                "used to getting",
+                "used to get",
+                "used getting"
+            ],
+            "correct": 0,
+            "id": "114c6cf3c0b94d72949a34a526b72b82"
+        },
+        {
+            "question": "He …………………………… smoke, but now he doesn’t.",
+            "description": "We use used to to talk about past habits. ",
+            "answers": [
+                "used to",
+                "is used to",
+                "has used to"
+            ],
+            "correct": 0,
+            "id": "8cc6e977312046c68c626371871344bf"
+        },
+        {
+            "question": "I …………………………………. living alone.",
+            "description": "",
+            "answers": [
+                "used to",
+                "am used to",
+                "am using to"
+            ],
+            "correct": 1,
+            "id": "10aee7556e8a44c9a6d154f4d5238f51"
+        },
+        {
+            "question": "When I was a child, I …………………………….. watch a lot of movies.",
+            "description": "Used to shows past habits.",
+            "answers": [
+                "was used to",
+                "used to",
+                "got used to"
+            ],
+            "correct": 1,
+            "id": "0fcf8e741f9743aab18909e80986b968"
+        },
+        {
+            "question": "He ……………………………. he was feeling better.",
+            "description": "That can be dropped after said.",
+            "answers": [
+                "said",
+                "said that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c063c4d97a68403c831e5c225f98d21b"
+        },
+        {
+            "question": "I ………………………………… she was lying.",
+            "description": "That can be dropped after think.",
+            "answers": [
+                "thought",
+                "thought that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "8c14fedc690a4eae816f14347bba84db"
+        },
+        {
+            "question": "He ………………………………. I should wait a little longer.",
+            "description": "That can be dropped after suggest. ",
+            "answers": [
+                "suggested",
+                "suggested that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "3b56bb0890d043b3b91051abf165c697"
+        },
+        {
+            "question": "He …………………………………. he was not coming.",
+            "description": "That cannot be dropped after reply.",
+            "answers": [
+                "replied",
+                "replied that",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "5ec347891fb14df3ab366a8394922821"
+        },
+        {
+            "question": "She………………………………. she was busy.",
+            "description": "That cannot be dropped after shout.",
+            "answers": [
+                "shouted",
+                "shouted that",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "bf89fbcef926473a89dc94e3db63fda1"
+        },
+        {
+            "question": "No one paid attention to the ……………………………………. the child felt lonely at home.",
+            "description": "",
+            "answers": [
+                "fact",
+                "fact that",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "14e0669c6d674b1c9fb7cc0fe1c29685"
+        },
+        {
+            "question": "You can borrow my car ……………………………. you bring it back tomorrow.",
+            "description": "",
+            "answers": [
+                "provided",
+                "provided that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "97861c71cfc0410ea2cdb457de18afa4"
+        }
+    ]
+}

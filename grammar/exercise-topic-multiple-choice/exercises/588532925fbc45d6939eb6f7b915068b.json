@@ -1,0 +1,116 @@
+{
+    "id": "588532925fbc45d6939eb6f7b915068b",
+    "title": "Conditional Forms Exercise",
+    "questions": [
+        {
+            "question": "If I knew he was in trouble, I ……………….. him.",
+            "description": "",
+            "answers": [
+                "will help",
+                "would help",
+                "would have helped"
+            ],
+            "correct": 1,
+            "id": "b0d360ff06e04b22b2ab9567d895efd6"
+        },
+        {
+            "question": "If she ………………. more politely, I would lend her my car.",
+            "description": "",
+            "answers": [
+                "asks",
+                "asked",
+                "had asked"
+            ],
+            "correct": 1,
+            "id": "4c24ca5fb0ba4e1cab55636829c0361d"
+        },
+        {
+            "question": "If he ………………….. me, I would have been in real trouble.",
+            "description": "",
+            "answers": [
+                "doesn't help",
+                "didn't help",
+                "hadn't helped"
+            ],
+            "correct": 2,
+            "id": "f8721443f8604e9495ac8a6f26d7dfdc"
+        },
+        {
+            "question": "If I had known his name, I ………………… you.",
+            "description": "",
+            "answers": [
+                "will tell",
+                "would tell",
+                "would have told"
+            ],
+            "correct": 2,
+            "id": "d90141884cd84d2abedd28e127051e23"
+        },
+        {
+            "question": "If she ………………… prompt medical attention, she would have survived.",
+            "description": "",
+            "answers": [
+                "received",
+                "has received",
+                "had received"
+            ],
+            "correct": 2,
+            "id": "b8d711c4360f4cd1a688acbbcf30ceaf"
+        },
+        {
+            "question": "If I were you, I ……………… that examined by a doctor.",
+            "description": "",
+            "answers": [
+                "will get",
+                "would get",
+                "would have got"
+            ],
+            "correct": 1,
+            "id": "f82a36c7b8504c6eaf999937db343b5e"
+        },
+        {
+            "question": "If the weather stays good, we ……………….. a game of tennis.",
+            "description": "",
+            "answers": [
+                "would play",
+                "will play",
+                "would have played"
+            ],
+            "correct": 1,
+            "id": "639a5dac53064d08ac74addfc6474aab"
+        },
+        {
+            "question": "If she …………………. on time, she would have received the job.",
+            "description": "",
+            "answers": [
+                "applied",
+                "applies",
+                "had applied"
+            ],
+            "correct": 2,
+            "id": "a8ff00d7311842da93340ba50021639d"
+        },
+        {
+            "question": "If I ……………… you what happened, will you keep it to yourself?",
+            "description": "",
+            "answers": [
+                "tell",
+                "told",
+                "had told"
+            ],
+            "correct": 0,
+            "id": "a118b07cb0ca4dc88710bdecbc3933cc"
+        },
+        {
+            "question": "If I were you, I ………………. celebrating this occasion.",
+            "description": "",
+            "answers": [
+                "will be",
+                "would",
+                "would be"
+            ],
+            "correct": 2,
+            "id": "1a02461de123468891cac7fb3a8eee3e"
+        }
+    ]
+}

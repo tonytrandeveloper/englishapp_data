@@ -1,0 +1,116 @@
+{
+    "id": "e40cb1aa8ec44731b5a5c81255c469e5",
+    "title": "Grammar Exercise",
+    "questions": [
+        {
+            "question": "Andy enjoys …………………………. tennis.",
+            "description": "",
+            "answers": [
+                "playing",
+                "to play",
+                "to playing"
+            ],
+            "correct": 0,
+            "id": "7940d25ce51c436c85d6220bfedee5eb"
+        },
+        {
+            "question": "Does Sharon …………………………… models from clay?",
+            "description": "",
+            "answers": [
+                "make",
+                "making",
+                "made"
+            ],
+            "correct": 2,
+            "id": "9d758555f7204b99a101c95e3e86e98c"
+        },
+        {
+            "question": "………………………… holidaying in Toronto, Jane acquired a strong Canadian accent.",
+            "description": "",
+            "answers": [
+                "As",
+                "While",
+                "Since"
+            ],
+            "correct": 1,
+            "id": "6a4e7638c473445fbfdba585f5451a8c"
+        },
+        {
+            "question": "…………………………, she could not find her way out.",
+            "description": "",
+            "answers": [
+                "Shocked she was",
+                "Shocked she was as",
+                "Shocked as she was"
+            ],
+            "correct": 2,
+            "id": "43810e2df50b4db9951dcd4f5fc9e46f"
+        },
+        {
+            "question": "William ………………………… all the ginger beer.",
+            "description": "",
+            "answers": [
+                "drinks",
+                "drank",
+                "drunk"
+            ],
+            "correct": 1,
+            "id": "32a4a53d831a4fa9953f9a58a0716a76"
+        },
+        {
+            "question": "Her new skirts …………………………. after a week.",
+            "description": "",
+            "answers": [
+                "shrink",
+                "shrank",
+                "shrunk"
+            ],
+            "correct": 1,
+            "id": "c2b5e080c1694581b6900bffaf0d6d57"
+        },
+        {
+            "question": "There …………………………. at the front door.",
+            "description": "",
+            "answers": [
+                "was anybody",
+                "was nobody",
+                "wasn't nobody"
+            ],
+            "correct": 1,
+            "id": "7b1c1a3b1906424d831b8e9c81e59e47"
+        },
+        {
+            "question": "Alice says she has already ……………………….. the table.",
+            "description": "",
+            "answers": [
+                "lain",
+                "laid",
+                "lied"
+            ],
+            "correct": 1,
+            "id": "7c572067ca9b4e10b317ba0b05e0f552"
+        },
+        {
+            "question": "His old car goes ………………………. but sounds …………………………..",
+            "description": "",
+            "answers": [
+                "quickly noisily",
+                "quick noisy",
+                "quickly noisy"
+            ],
+            "correct": 2,
+            "id": "63790bb2ef234fde900ce3e69d457430"
+        },
+        {
+            "question": "Did you do ………………………… in the test after not feeling ………………………?",
+            "description": "",
+            "answers": [
+                "good good",
+                "well well",
+                "good well"
+            ],
+            "correct": 1,
+            "id": "2d46b3c2e81b47269f0bc26beaf2439d"
+        }
+    ]
+}

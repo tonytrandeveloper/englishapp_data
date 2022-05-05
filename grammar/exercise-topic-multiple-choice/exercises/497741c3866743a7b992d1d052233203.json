@@ -1,0 +1,138 @@
+{
+    "id": "497741c3866743a7b992d1d052233203",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "After ……………………… this form, give it to the secretary.",
+            "description": "After + ing can be used instead of after + subject + verb. This sentence can also be written as:\r\nAfter you have completed this form, give it to the secretary.\r\n",
+            "answers": [
+                "complete",
+                "completing",
+                "completed"
+            ],
+            "correct": 1,
+            "id": "18f1b0761ee74ca9a0538335ce68d899"
+        },
+        {
+            "question": "After the movie we had dinner and went to a night club then we ………………………… went home.",
+            "description": "After all does not mean finally.",
+            "answers": [
+                "lastly",
+                "after all",
+                "finally"
+            ],
+            "correct": 2,
+            "id": "d76dfe25f4ee40cda0169e8b85a81dd7"
+        },
+        {
+            "question": "Give me some soup ……………………",
+            "description": "We do not normally use also in imperative sentences.",
+            "answers": [
+                "as well as",
+                "also",
+                "as well"
+            ],
+            "correct": 2,
+            "id": "b66628a6d44b4fe6886e2bec2b2e9b79"
+        },
+        {
+            "question": "……………………. I don’t like him, I think he is honest.",
+            "description": "",
+            "answers": [
+                "Although",
+                "Even if",
+                "As though"
+            ],
+            "correct": 0,
+            "id": "70b1ac6c58c34de59280557d600b29d1"
+        },
+        {
+            "question": "The shop is open from Monday ………………… Saturday.",
+            "description": "In American English, either through or to can be used here. In British English, to is preferred.",
+            "answers": [
+                "through",
+                "to",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "0473e23128cf46f0b574b2e90f21222b"
+        },
+        {
+            "question": "She has bought …………………… car.",
+            "description": "Another means extra or additional. It is used with singular countable nouns.",
+            "answers": [
+                "another",
+                "an other",
+                "other"
+            ],
+            "correct": 0,
+            "id": "62fb0552fc884e6594ecafeecbd15d5e"
+        },
+        {
+            "question": "She is unhappy because she has got ………………….. friends.",
+            "description": "No means the same as not any, but it is more emphatic.",
+            "answers": [
+                "any",
+                "some",
+                "no"
+            ],
+            "correct": 2,
+            "id": "0eeb96c225be45ee9fa2f6442bc9cf4b"
+        },
+        {
+            "question": "If I were …………………… younger, I would marry you.",
+            "description": "Any can modify comparatives. This is common after if.",
+            "answers": [
+                "any",
+                "some",
+                "little"
+            ],
+            "correct": 0,
+            "id": "1f9b19a8e0f44b6fa996de361f130103"
+        },
+        {
+            "question": "What time does the sun ……………………?",
+            "description": "Rise means get higher or come up.",
+            "answers": [
+                "rise",
+                "arise",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "b209819abf964ac3959e4325a6395d8f"
+        },
+        {
+            "question": "……………………… must have patience.",
+            "description": "A singular countable noun must have an article with it. A teacher means any teacher.",
+            "answers": [
+                "Teacher",
+                "A teacher",
+                "The teacher"
+            ],
+            "correct": 1,
+            "id": "6f8ba9421918471a874075a7420f5831"
+        },
+        {
+            "question": "…………………….. usually start walking at around one year old.",
+            "description": "We do not use articles with plural and uncountable nouns to talk about people or things in general.",
+            "answers": [
+                "Children",
+                "The children",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "8cc990476f3f4c80be7e1e37a332c44e"
+        },
+        {
+            "question": "There is a cat ……………………. the bed.",
+            "description": "Under and underneath can both indicate physical position.",
+            "answers": [
+                "under",
+                "underneath",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "3d6794efdac74352b048890c8ca129ef"
+        }
+    ]
+}

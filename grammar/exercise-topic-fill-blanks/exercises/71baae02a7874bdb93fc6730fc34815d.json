@@ -1,0 +1,505 @@
+{
+    "id": "71baae02a7874bdb93fc6730fc34815d",
+    "title": "Mixed Future Forms Exercise",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future simple (She / win the competition?)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Will she win the competition?"
+                    ]
+                }
+            ],
+            "id": "3b257525acc145c7b73c18075a06fed4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future continuous (She / wait when we arrive)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She will be waiting when we arrive.",
+                        "She'll be waiting when we arrive."
+                    ]
+                }
+            ],
+            "id": "867b77e0baa34187895dd58f61581781"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future perfect (By next week I / finish this work)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "By next week I will have finished this work.",
+                        "By next week I'll have finished this work."
+                    ]
+                }
+            ],
+            "id": "e4658e420b90455b920d0d2c3a71ea55"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future perfect continuous (I / live here for one year next week)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I will have been living here for one year next week.",
+                        "I'll have been living here for one year next week."
+                    ]
+                }
+            ],
+            "id": "0c0c0ebe29f94c929e77aa9aaaf9bcac"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future simple (Who / pass the exam?)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Who will pass the exam?",
+                        "Who'll pass the exam?"
+                    ]
+                }
+            ],
+            "id": "d983fcfd2b7c405487b187ae7ce5f72a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future perfect continuous (She / study so she will be tired)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She will have been studying so she will be tired.",
+                        "She'll have been studying so she will be tired."
+                    ]
+                }
+            ],
+            "id": "4adf8931c1e4463ca5c9a8aa9a99dfbc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future continuous (How / you / get home?)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How will you be getting home?"
+                    ]
+                }
+            ],
+            "id": "603a88c3015344aba99fbbb0c983e2ab"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future simple (I / come later)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I will come later.",
+                        "I'll come later."
+                    ]
+                }
+            ],
+            "id": "9a9dadd1635241cbbe033d39f50aa18d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future perfect (She / catch the train by 3pm)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She will have caught the train by 3pm.",
+                        "She'll have caught the train by 3pm."
+                    ]
+                }
+            ],
+            "id": "6db96071d0cc4e659ba789c253fd7170"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future simple (It / rain tomorrow)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "It will rain tomorrow."
+                    ]
+                }
+            ],
+            "id": "6c09a745f0fa4f788cc3dca41503f1d5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future perfect (We / arrive in Bermuda by this time tomorrow)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We will have arrived in Bermuda by this time tomorrow.",
+                        "We'll have arrived in Bermuda by this time tomorrow."
+                    ]
+                }
+            ],
+            "id": "f13a18e82f964e918531318288e116e1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future continuous (John / sleep at 4am)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "John will be sleeping at 4am.",
+                        "John'll be sleeping at 4am."
+                    ]
+                }
+            ],
+            "id": "00107055f3d44c77ba8708f9a55a7ec4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future perfect (I / not / complete the report by 5pm tomorrow)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I will not have completed the report by 5pm tomorrow.",
+                        "I won't have completed the report by 5pm tomorrow."
+                    ]
+                }
+            ],
+            "id": "a490b68110ae4e5695e83be60e0d3814"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future perfect continuous (How long / you / see your boyfriend when you get married?)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How long will you have been seeing your boyfriend when you get married?"
+                    ]
+                }
+            ],
+            "id": "21ee14cc1d004ca4bf320110ea71e0b2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future perfect (You / have dinner by 8pm?)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Will you have had dinner by 8pm?"
+                    ]
+                }
+            ],
+            "id": "431c59f1a779484eb1f1719660a9a5d2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future continuous (It / rain in Scotland next week)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "It will be raining in Scotland next week."
+                    ]
+                }
+            ],
+            "id": "7cbf532ae26d43449190f26a0c92a611"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future perfect (When / she / sell the house?)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "When will she have sold the house?"
+                    ]
+                }
+            ],
+            "id": "e943093d115b4534810b9cc721998d04"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future simple (She / not / do her homework)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She will not do her homework.",
+                        "She won't do her homework."
+                    ]
+                }
+            ],
+            "id": "c984fc3eb9c74a2482bb2764206ea72e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future perfect continuous (How long / you / work here when you retire?)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How long will you have been working here when you retire?"
+                    ]
+                }
+            ],
+            "id": "983c70b0dd2c48da8d5f7568b7912fbb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future perfect (When / you / do everything you want to?)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "When will you have done everything you want to?"
+                    ]
+                }
+            ],
+            "id": "a8351515c8d949f4ad84e36aec84a607"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future simple (They / not / be able to arrive on time)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They will not be able to arrive on time.",
+                        "They won't be able to arrive on time."
+                    ]
+                }
+            ],
+            "id": "1adb53677cd04a58a4a2e925d1b6c5c0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future continuous (We / not / eat dinner at that time)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We will not be eating dinner at that time.",
+                        "We won't be eating dinner at that time."
+                    ]
+                }
+            ],
+            "id": "5b411465976c49faaa0aa67da097e20d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future perfect continuous (He / not / work here for three years next month)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He will not have been working here for three years next month.",
+                        "He won't have been working here for three years next month."
+                    ]
+                }
+            ],
+            "id": "c9823d1326ee43bd80dc1994f1c8b42d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future continuous (She / take her car to the party?)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Will she be taking her car to the party?"
+                    ]
+                }
+            ],
+            "id": "e68ceb3c320e43a8bc979b06c34528d0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future perfect continuous (They / not / exercise before we meet)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They will not have been exercising before we meet.",
+                        "They won't have been exercising before we meet."
+                    ]
+                }
+            ],
+            "id": "904843fa82cd4d628f4d0698d3a12d1b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future simple (He / not / be happy)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He will not be happy.",
+                        "He won't be happy."
+                    ]
+                }
+            ],
+            "id": "1a5bad9057bf4e3c940ccdf37a0c4411"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future perfect continuous (What / you / do before dinner?)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What will you have been doing before dinner?"
+                    ]
+                }
+            ],
+            "id": "6b1d2312fe6c4430aa80739ca8940c11"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future simple (You / drive here?)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Will you drive here?"
+                    ]
+                }
+            ],
+            "id": "5973f11721da4bdc8857a1d370e58e73"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future continuous (She / not / lie on the beach yet)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She will not be lying on the beach yet.",
+                        "She won't be lying on the beach yet."
+                    ]
+                }
+            ],
+            "id": "b65f570f42fa4fac8912b865c9d24aa8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future perfect continuous (They / work all day so I will cook)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They will have been working all day so I will cook.",
+                        "They'll have been working all day so I will cook."
+                    ]
+                }
+            ],
+            "id": "0702595e818141f79003b157b614f237"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future continuous (What time / you / arrive?)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What time will you be arriving?"
+                    ]
+                }
+            ],
+            "id": "b342aac4198c4530a98f86f84fe1b1e8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "future perfect (He / not / finish the cleaning by the time she gets home)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He will not have finished the cleaning by the time she gets home.",
+                        "He won't have finished the cleaning by the time she gets home."
+                    ]
+                }
+            ],
+            "id": "7851b2f919454ecfac9a33432152ad99"
+        }
+    ]
+}

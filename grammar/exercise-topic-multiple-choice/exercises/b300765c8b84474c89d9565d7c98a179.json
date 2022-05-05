@@ -1,0 +1,154 @@
+{
+    "id": "b300765c8b84474c89d9565d7c98a179",
+    "title": "Do or Have Exercise",
+    "questions": [
+        {
+            "question": "………………… you have school today?",
+            "description": "",
+            "answers": [
+                "Do",
+                "Have"
+            ],
+            "correct": 0,
+            "id": "20e9d867fa4a44a780dfee54dddae4e8"
+        },
+        {
+            "question": "…………………. you finished your homework?",
+            "description": "",
+            "answers": [
+                "Do",
+                "Have"
+            ],
+            "correct": 1,
+            "id": "a73274b12f644e4fbe13188f848fa82e"
+        },
+        {
+            "question": "…………………… .. you got a light?",
+            "description": "",
+            "answers": [
+                "Have",
+                "Do"
+            ],
+            "correct": 0,
+            "id": "e4449f899d6149899239abb6ec01e76f"
+        },
+        {
+            "question": "What …………………… .. you do then?",
+            "description": "",
+            "answers": [
+                "did",
+                "have",
+                "had"
+            ],
+            "correct": 0,
+            "id": "72c65c882c94471dbb098a0e71bb15ee"
+        },
+        {
+            "question": "…………………….. you know where he lives?",
+            "description": "",
+            "answers": [
+                "Do",
+                "Have"
+            ],
+            "correct": 0,
+            "id": "812ef337cedf436996ecae5755812e45"
+        },
+        {
+            "question": "…………………… he gone to the market?",
+            "description": "",
+            "answers": [
+                "Has",
+                "Have",
+                "Do"
+            ],
+            "correct": 0,
+            "id": "d3ee310b69e2432cb4c31bf32b6f56ca"
+        },
+        {
+            "question": "……………………… you go to school yesterday?",
+            "description": "",
+            "answers": [
+                "Did",
+                "Had",
+                "Have"
+            ],
+            "correct": 0,
+            "id": "9715bde175334047beb4d56e678ba944"
+        },
+        {
+            "question": "I …………………… .. not see anybody there.",
+            "description": "",
+            "answers": [
+                "did",
+                "do",
+                "have"
+            ],
+            "correct": 0,
+            "id": "6556f980153f4c409489b9181862f96c"
+        },
+        {
+            "question": "…………………… you often have meetings?",
+            "description": "",
+            "answers": [
+                "Do",
+                "Have"
+            ],
+            "correct": 0,
+            "id": "5a5fdde5bd814172b208ccc21324b81d"
+        },
+        {
+            "question": "…………………. he exercise every day?",
+            "description": "",
+            "answers": [
+                "Does",
+                "Do",
+                "Has"
+            ],
+            "correct": 0,
+            "id": "bd2d4831d227443a8b378c1ce69605d7"
+        },
+        {
+            "question": "………………… he give you anything?",
+            "description": "",
+            "answers": [
+                "Had",
+                "Did",
+                "Do"
+            ],
+            "correct": 1,
+            "id": "0f5fb36e41df404a933c6963064e5f84"
+        },
+        {
+            "question": "………………….. you paid the dues?",
+            "description": "",
+            "answers": [
+                "Have",
+                "Do",
+                "Did"
+            ],
+            "correct": 0,
+            "id": "9019a7e4322642408dfcc91839173e51"
+        },
+        {
+            "question": "I …………………. read almost all novels written by Hemingway.",
+            "description": "",
+            "answers": [
+                "have",
+                "do",
+                "did"
+            ],
+            "correct": 0,
+            "id": "50e3ec37bdb04562abb15f23ac43147e"
+        },
+        {
+            "question": "She …………………… not believe in ghosts.",
+            "description": "",
+            "answers": [
+                "does",
+                "has"
+            ],
+            "correct": 0,
+            "id": "700b8ab9504c4f71bb6f19984d98c8f2"
+        }
+    ]
+}

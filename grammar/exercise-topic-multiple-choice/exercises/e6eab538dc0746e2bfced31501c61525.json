@@ -1,0 +1,139 @@
+{
+    "id": "e6eab538dc0746e2bfced31501c61525",
+    "title": "Modal Auxiliary Verbs Exercise",
+    "questions": [
+        {
+            "question": "She ………………… speak Italian really well.",
+            "description": "We use can to talk about ability.",
+            "answers": [
+                "can",
+                "may",
+                "might"
+            ],
+            "correct": 0,
+            "id": "1b18f1e332a942b8b2831594a8d3f38d"
+        },
+        {
+            "question": "I asked if you ………………………….. arrive in the afternoon.",
+            "description": "When the verb in the main clause is in the past tense, we use a past tense in the subordinate clause. Could is the past tense of can.",
+            "answers": [
+                "can",
+                "could",
+                "might"
+            ],
+            "correct": 1,
+            "id": "34dd6da636314b38906418d1a95cd441"
+        },
+        {
+            "question": "She ………………………… walk when she was just nine months old.",
+            "description": "",
+            "answers": [
+                "can",
+                "could",
+                "might"
+            ],
+            "correct": 1,
+            "id": "6794fa79279e435385bbeae41bdeb7fa"
+        },
+        {
+            "question": "If you take rest for an hour, you ……………………… feel better.",
+            "description": "All of these can be used to talk about possibility in affirmative sentences.",
+            "answers": [
+                "may",
+                "can",
+                "could",
+                "might"
+            ],
+            "correct": 3,
+            "id": "67f68cdb8b41474f9146faa1e72aadba"
+        },
+        {
+            "question": "After giving birth, a woman ……………………. suffer from depression for many months.",
+            "description": "May is often used to talk about typical occurrences.",
+            "answers": [
+                "may",
+                "can",
+                "shall"
+            ],
+            "correct": 0,
+            "id": "3806316e80a8456bad1228d13f8356ac"
+        },
+        {
+            "question": "She said that she ………………………….. go to the movies.",
+            "description": "Might is the past tense of may. ",
+            "answers": [
+                "may",
+                "can",
+                "might"
+            ],
+            "correct": 2,
+            "id": "fa839b4e4ebf46f7aa972ae43986977d"
+        },
+        {
+            "question": "You …………………………… have lots of money, but that doesn’t mean you are better than me.",
+            "description": "",
+            "answers": [
+                "might",
+                "would",
+                "should"
+            ],
+            "correct": 0,
+            "id": "3a30952532684c44acd5da838db0747c"
+        },
+        {
+            "question": "When I was a child, I …………………………. watch TV whenever I wanted.",
+            "description": "We use could to talk about past ability.",
+            "answers": [
+                "may",
+                "might",
+                "could"
+            ],
+            "correct": 2,
+            "id": "c7d955a6ed854fd18ea527800c994c09"
+        },
+        {
+            "question": "…………………………… he arrive on time?",
+            "description": "",
+            "answers": [
+                "Will",
+                "Would",
+                "Shall"
+            ],
+            "correct": 0,
+            "id": "2b1bd643603a46dbba4747ab5f6dca23"
+        },
+        {
+            "question": "I ………………………. be happy even if I do not win the prize.",
+            "description": "Will is used to make predictions about the future. ",
+            "answers": [
+                "will",
+                "could",
+                "may"
+            ],
+            "correct": 0,
+            "id": "574d2a3c5d1e443e8c1fcfff822f7d6d"
+        },
+        {
+            "question": "She …………………………… be here soon.",
+            "description": "We often use should to talk about logical possibility.",
+            "answers": [
+                "shall",
+                "should",
+                "would"
+            ],
+            "correct": 1,
+            "id": "eeb872ab7d23464cb885bc34694f855b"
+        },
+        {
+            "question": "I …………………………….. kill him if he reads my letters again.",
+            "description": "Will is used in threats. ",
+            "answers": [
+                "will",
+                "shall",
+                "would"
+            ],
+            "correct": 0,
+            "id": "0c6c9a0f621e449d9d5b520d61e97430"
+        }
+    ]
+}

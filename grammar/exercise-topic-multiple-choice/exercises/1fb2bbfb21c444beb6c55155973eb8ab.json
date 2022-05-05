@@ -1,0 +1,138 @@
+{
+    "id": "1fb2bbfb21c444beb6c55155973eb8ab",
+    "title": "Prepositions And Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "We haven’t seen him ……………………. last month.",
+            "description": "Since shows the starting point of time. ",
+            "answers": [
+                "for",
+                "since",
+                "from"
+            ],
+            "correct": 1,
+            "id": "cc0e5c983ca64cbcbc9c4d2c3a1f7f19"
+        },
+        {
+            "question": "………………………. it is raining, we cannot go out now.",
+            "description": "As and since can show the reason.",
+            "answers": [
+                "As",
+                "Since",
+                "For"
+            ],
+            "correct": 1,
+            "id": "023240fbc6544fa0b580229185112a21"
+        },
+        {
+            "question": "……………………… it was a holiday, I did some reading.",
+            "description": "",
+            "answers": [
+                "Since",
+                "For",
+                "As"
+            ],
+            "correct": 2,
+            "id": "a602379eee4f478ca0acb6fb29f1f5a4"
+        },
+        {
+            "question": "He did not study well ……………………… he was lazy.",
+            "description": "Because shows the reason.",
+            "answers": [
+                "because",
+                "if",
+                "so"
+            ],
+            "correct": 0,
+            "id": "8b2541226ba24817a7e396763d0f00ac"
+        },
+        {
+            "question": "He walked slowly ……………………… he was ill.",
+            "description": "Because shows the reason.",
+            "answers": [
+                "because",
+                "so",
+                "though"
+            ],
+            "correct": 0,
+            "id": "5017347b4faf4578ad4300f15f69e4cc"
+        },
+        {
+            "question": "The oranges ………………………… you gave me yesterday were very sweet.",
+            "description": "Either that or which can refer to objects in identifying relative clauses.",
+            "answers": [
+                "which",
+                "that",
+                "what"
+            ],
+            "correct": 1,
+            "id": "53d1ee151a3e44568af683459ed355dd"
+        },
+        {
+            "question": "Sam, …………………….. we met on the train, is an architect.",
+            "description": "Whom is the correct answer. Who is possible here in an informal style. That cannot be used in non-identifying relative clauses.",
+            "answers": [
+                "whom",
+                "that",
+                "who"
+            ],
+            "correct": 0,
+            "id": "c1de084ab8ba4cc69df3c8867c5dd20a"
+        },
+        {
+            "question": "………………………… I was in Spain, I visited many museums there.",
+            "description": "While can mean at the same time that.",
+            "answers": [
+                "As",
+                "While",
+                "If"
+            ],
+            "correct": 1,
+            "id": "45ecdeb8acdf4ee9bc3b92c6b0a0852d"
+        },
+        {
+            "question": "……………………… the rain has stopped, we can resume the match.",
+            "description": "",
+            "answers": [
+                "Now that",
+                "Now",
+                "That"
+            ],
+            "correct": 0,
+            "id": "30d47ea8ed094fdca99524da8b4d9113"
+        },
+        {
+            "question": "He does not know any language …………………….. Hindi.",
+            "description": "",
+            "answers": [
+                "except",
+                "in addition",
+                ""
+            ],
+            "correct": 0,
+            "id": "d064bc378ffb4980aac7df581362ddc3"
+        },
+        {
+            "question": "……………………….. you start now, you will miss the train.",
+            "description": "",
+            "answers": [
+                "If",
+                "Unless",
+                "Without"
+            ],
+            "correct": 1,
+            "id": "c4d04cad3a6b4b84b9dbb775d703ea66"
+        },
+        {
+            "question": "……………………… he is immensely rich, he leads a simple life.",
+            "description": "Even if refers to past even though refers to future. ",
+            "answers": [
+                "Even though",
+                "Even if",
+                "If"
+            ],
+            "correct": 0,
+            "id": "49eed522fbdd478ab0d76d0f2702e906"
+        }
+    ]
+}

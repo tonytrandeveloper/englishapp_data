@@ -1,0 +1,136 @@
+{
+    "id": "35215d9764be4ddaa166bef75365b986",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "He was Catholic, …………………….. most of his friends.",
+            "description": "As is sometimes followed by auxiliary verb + subject.",
+            "answers": [
+                "were as",
+                "as were",
+                "and were"
+            ],
+            "correct": 1,
+            "id": "bef43c92791d4a1db5a34f30f77c6887"
+        },
+        {
+            "question": "In 1939, …………………………. in 1914, everybody wanted war.",
+            "description": "As is a conjunction. It can be used before an expression beginning with a preposition.",
+            "answers": [
+                "as",
+                "like",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "bc244a063acd44f8b0149015c72ce8e3"
+        },
+        {
+            "question": "I never enjoyed ……………………………",
+            "description": "When life refers to a particular way of living, it is usually uncountable.",
+            "answers": [
+                "a city life",
+                "the city life",
+                "city life"
+            ],
+            "correct": 2,
+            "id": "3a2bf97d82bb4a66abd058f9b5bdf8fc"
+        },
+        {
+            "question": "They kept watch all night, ………………………. robbers should come.",
+            "description": "Lest is similar to in case.",
+            "answers": [
+                "if",
+                "lest",
+                "unless"
+            ],
+            "correct": 1,
+            "id": "6f589a94ed53456c98806019f876d6e1"
+        },
+        {
+            "question": "There are ……………………… if you are hungry.",
+            "description": "Left goes at the end of the structure.",
+            "answers": [
+                "left two bananas",
+                "two bananas left",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "da92f68a4142442595b37ca04909006b"
+        },
+        {
+            "question": "……………………………. cook their own food these days.",
+            "description": "Before nouns without determiners (articles, possessives etc.), we use fewer without of.",
+            "answers": [
+                "Fewer people",
+                "Fewer of people",
+                "less people"
+            ],
+            "correct": 0,
+            "id": "516fc846865e459fa8052e726d53a522"
+        },
+        {
+            "question": "I would like to spend ……………………….. my time doing laundry.",
+            "description": "We use less of before a noun with a determiner.",
+            "answers": [
+                "less",
+                "less of",
+                "fewer"
+            ],
+            "correct": 1,
+            "id": "e844244789374192a91c177c6d58f65a"
+        },
+        {
+            "question": "…………………………. have been quite stressful.",
+            "description": "We generally use ‘the last few days’, not ‘last few days’.",
+            "answers": [
+                "Last few days",
+                "The last few days"
+            ],
+            "correct": 1,
+            "id": "f36538aa804246b1a9cf747d76a5b2c7"
+        },
+        {
+            "question": "Do you enjoy your ………………………….. job?",
+            "description": "We use latest to refer to very recent things.",
+            "answers": [
+                "last",
+                "latest",
+                "later"
+            ],
+            "correct": 1,
+            "id": "da232905c6fa4adab2b552a1de95ca55"
+        },
+        {
+            "question": "This is the last letter he …………………………. from me.",
+            "description": "Both present and future tenses are possible after ‘this is the last ….’",
+            "answers": [
+                "gets",
+                "will get",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "fe394c555cec45c5803983ee741f2967"
+        },
+        {
+            "question": "Do you know …………………………?",
+            "description": "Know cannot be followed directly by an infinitive. We use ‘know how to’.",
+            "answers": [
+                "to swim",
+                "how to swim"
+            ],
+            "correct": 1,
+            "id": "bb9564730360454bbeec101652eb1412"
+        },
+        {
+            "question": "I am tired. It is time we …………………….. home",
+            "description": "After ‘it is time’ we use a past tense with a present meaning.",
+            "answers": [
+                "go",
+                "have gone",
+                "went"
+            ],
+            "correct": 2,
+            "id": "018befe3958c4623956d63a6b4dbd9ef"
+        }
+    ]
+}

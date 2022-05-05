@@ -1,0 +1,139 @@
+{
+    "id": "41509d1963604ecca00088afb6b20c17",
+    "title": "Agreement Exercise",
+    "questions": [
+        {
+            "question": "Vermin ………………….. our property and carry disease.",
+            "description": "Though vermin is singular in form, it is always used as a plural noun.",
+            "answers": [
+                "destroy",
+                "destroys",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "5203b5aa22cb4bbba9e79c7bc3568bc5"
+        },
+        {
+            "question": "Whose cattle ……………………?",
+            "description": "Though cattle is singular in form, it is always used as a plural noun.",
+            "answers": [
+                "is this",
+                "are this",
+                "are these"
+            ],
+            "correct": 2,
+            "id": "585917f1f44047c194a6298363490a0f"
+        },
+        {
+            "question": "His means ………………….. small, but he has no debt.",
+            "description": "When means is used with the meaning of wealth, it is always plural.",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f8c293003aa4493bac263f12542bbe56"
+        },
+        {
+            "question": "A new means of communication ……………………….. invented in the 19th century.",
+            "description": "Both the singular and the plural of means end in –s.",
+            "answers": [
+                "was",
+                "were",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "47be36deb2174ded823b3c622978708b"
+        },
+        {
+            "question": "I bought two ………………….. mangoes.",
+            "description": "When dozen is used after a number, it does not have a plural form.",
+            "answers": [
+                "dozen",
+                "dozens",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "6ffdb46693364656b8ac841dedaf611d"
+        },
+        {
+            "question": "Man is the only animal that …………………….. fire.",
+            "description": "Here the antecedent of the relative pronoun is a singular noun (animal) and hence we use the singular verb uses.",
+            "answers": [
+                "use",
+                "uses",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "b2b378af745c4366938ce2dfb8ddeeab"
+        },
+        {
+            "question": "Hunting tigers ……………………… a favorite sport in this country.",
+            "description": "Here the subject is the gerund phrase hunting tigers. It is singular.",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "e26b8b6fc65f4ff2a9068c174c286dcf"
+        },
+        {
+            "question": "There ……………………. little hope of his recovery.",
+            "description": "Hope is a singular noun hence we use is.",
+            "answers": [
+                "is",
+                "are",
+                "has"
+            ],
+            "correct": 0,
+            "id": "90d1d656fddf4a9e8bb2741a2c224ae7"
+        },
+        {
+            "question": "Every one of these chairs ……………………. broken.",
+            "description": "We use a singular verb after every one.",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d3c14303405f4c74b36f8ed7d39d4379"
+        },
+        {
+            "question": "He visits us every ……………………….",
+            "description": "We use a singular noun after every.",
+            "answers": [
+                "week",
+                "weeks",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "603808fde8724e2aa70e75cc2aef7b30"
+        },
+        {
+            "question": "He visits us every three ………………….",
+            "description": "A plural noun is used after every + numeral.",
+            "answers": [
+                "day",
+                "days",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "52d998ddf0d94bf8a52e8bd036fd1a3c"
+        },
+        {
+            "question": "A house divided against …………………… cannot stand.",
+            "description": "Here the subject and the object refer to the same thing and hence we use the reflexive pronoun itself. ",
+            "answers": [
+                "itself",
+                "it",
+                "that",
+                "themselves"
+            ],
+            "correct": 0,
+            "id": "3c9c4b62802d4c10a2f9786eaec8bab0"
+        }
+    ]
+}

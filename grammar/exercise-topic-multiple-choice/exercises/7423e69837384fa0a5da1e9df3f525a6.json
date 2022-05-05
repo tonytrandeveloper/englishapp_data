@@ -1,0 +1,110 @@
+{
+    "id": "7423e69837384fa0a5da1e9df3f525a6",
+    "title": "Adverb Clause Of Comparison",
+    "questions": [
+        {
+            "question": "She is older than ................................................",
+            "description": "",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 1,
+            "id": "d65e369970fd42b3aa7561fdd2f54c26"
+        },
+        {
+            "question": "She looks older than ..............................................",
+            "description": "",
+            "answers": [
+                "her",
+                "she is",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "833de8d2208340b2abd81e297ed782df"
+        },
+        {
+            "question": "He earns more money ............................................... me.",
+            "description": "",
+            "answers": [
+                "than",
+                "then"
+            ],
+            "correct": 0,
+            "id": "7117dfc26fde45668cc9703e748f4489"
+        },
+        {
+            "question": "I am ............................................. than you.",
+            "description": "",
+            "answers": [
+                "more strong",
+                "stronger"
+            ],
+            "correct": 1,
+            "id": "a3b9e4f20f60414da40723d298b0f9c8"
+        },
+        {
+            "question": "We are ................................................... than our neighbors.",
+            "description": "",
+            "answers": [
+                "richer",
+                "the richer",
+                "the richest"
+            ],
+            "correct": 0,
+            "id": "cea6a62e1ff44134813277347df59a3a"
+        },
+        {
+            "question": "She is ............................................. than her sisters.",
+            "description": "",
+            "answers": [
+                "prettiest",
+                "prettier"
+            ],
+            "correct": 1,
+            "id": "c48388dbe1f94642a8710eff511942f7"
+        },
+        {
+            "question": "He runs ................................................... than you.",
+            "description": "",
+            "answers": [
+                "faster",
+                "more fast"
+            ],
+            "correct": 0,
+            "id": "778b7ff02480431e9611835af9304060"
+        },
+        {
+            "question": "He is .............................................. stupid as he is lazy.",
+            "description": "",
+            "answers": [
+                "more",
+                "as",
+                "much"
+            ],
+            "correct": 1,
+            "id": "9d8316c8ce0641dcb7cde84c19a60db5"
+        },
+        {
+            "question": "Nobody loves you more than .............................................",
+            "description": "",
+            "answers": [
+                "me",
+                "I",
+                "I do"
+            ],
+            "correct": 2,
+            "id": "c60065868908427dab1e49c826433f97"
+        },
+        {
+            "question": "I earn more than ............................................ does.",
+            "description": "",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 0,
+            "id": "431318d55cce4b53b0fe5d3516dbc07a"
+        }
+    ]
+}

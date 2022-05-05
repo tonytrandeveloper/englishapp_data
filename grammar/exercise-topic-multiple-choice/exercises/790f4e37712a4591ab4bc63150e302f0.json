@@ -1,0 +1,94 @@
+{
+    "id": "790f4e37712a4591ab4bc63150e302f0",
+    "title": "Conditional Forms Exercise",
+    "questions": [
+        {
+            "question": "She wouldn’t come if you didn’t invite her.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "4d718abb983540edb9b2006f039d22b2"
+        },
+        {
+            "question": "If I manage to save enough money, I will buy a car this year.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 0,
+            "id": "63bd7108c82a42b196dc463553fc5cce"
+        },
+        {
+            "question": "If I were you, I wouldn’t believe that story.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "c82b700c399a4dc6b18a4509a24532bb"
+        },
+        {
+            "question": "If he had been more careful, he wouldn’t have suffered that loss.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 2,
+            "id": "8420232cf2a1481d85ff74bdaa2547c6"
+        },
+        {
+            "question": "If I get the invitation, I will fly to Toronto next week.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 0,
+            "id": "f7c80a11db914ca596cb725fbba36c91"
+        },
+        {
+            "question": "I will make a cake if I have time.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 0,
+            "id": "ed746f5fe4814843bb9f8317c9aa0596"
+        },
+        {
+            "question": "If I had known, I wouldn’t have gone there.",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 2,
+            "id": "be2a73711e3646a8bd69ccf72f57f1d4"
+        },
+        {
+            "question": "Were you to win the lottery, what would you do?",
+            "description": "",
+            "answers": [
+                "First conditional",
+                "Second conditional",
+                "Third conditional"
+            ],
+            "correct": 1,
+            "id": "91bbb1e876fb40f8b381fa7ec99d8a02"
+        }
+    ]
+}

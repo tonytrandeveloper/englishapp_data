@@ -1,0 +1,88 @@
+{
+    "id": "c84d4d9680c24c0c8889fcb0609beb53",
+    "title": "Participles Exercise",
+    "questions": [
+        {
+            "question": "........................................ by his family, he decided to become a monk.",
+            "description": "",
+            "answers": [
+                "Rejected",
+                "Rejecting"
+            ],
+            "correct": 0,
+            "id": "52879b8e223f42e48fd709ba7cd0b95b"
+        },
+        {
+            "question": "Who is that pretty girl ........................................ in the corner?",
+            "description": "",
+            "answers": [
+                "sitting",
+                "sat"
+            ],
+            "correct": 0,
+            "id": "42a005f053054b6b8eb3b3a231796790"
+        },
+        {
+            "question": "Most of the people ............................................ to the party, didn’t turn up.",
+            "description": "",
+            "answers": [
+                "inviting",
+                "invited"
+            ],
+            "correct": 1,
+            "id": "34ed2ed6473a47dbbc75fe22fc47bf22"
+        },
+        {
+            "question": "Not ................................................ what to do, I called the police.",
+            "description": "",
+            "answers": [
+                "knowing",
+                "known"
+            ],
+            "correct": 0,
+            "id": "a6e93ad735e94176ad73c60353ee283a"
+        },
+        {
+            "question": "He was sitting at a table .......................................... with papers.",
+            "description": "",
+            "answers": [
+                "covered",
+                "covering"
+            ],
+            "correct": 0,
+            "id": "b5b84c8e5f684617a57df0e0d4014ca9"
+        },
+        {
+            "question": "Who is that girl ........................................... with your brother?",
+            "description": "",
+            "answers": [
+                "danced",
+                "dancing"
+            ],
+            "correct": 1,
+            "id": "6c2b7b7351994b989a951b878dd7703e"
+        },
+        {
+            "question": ".......................................... much blood, she became unconscious.",
+            "description": "",
+            "answers": [
+                "Losing",
+                "Lost",
+                "Having lost"
+            ],
+            "correct": 2,
+            "id": "36b9c9e00d4f40138817293671af326b"
+        },
+        {
+            "question": "................................................ my engineering exams, I took up cheating.",
+            "description": "",
+            "answers": [
+                "Failing",
+                "Failed",
+                "Having failed"
+            ],
+            "correct": 2,
+            "id": "03c0020b3db64ac6b89585141abb7c30"
+        }
+    ]
+}

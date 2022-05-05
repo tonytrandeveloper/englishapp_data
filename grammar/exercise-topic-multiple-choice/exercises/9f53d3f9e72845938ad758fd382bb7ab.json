@@ -1,0 +1,116 @@
+{
+    "id": "9f53d3f9e72845938ad758fd382bb7ab",
+    "title": "Always, Ever, Never",
+    "questions": [
+        {
+            "question": "Have you ..................... met my mother?",
+            "description": "",
+            "answers": [
+                "never",
+                "ever",
+                "always"
+            ],
+            "correct": 1,
+            "id": "163cd2be949c4bb08b19d033a76b4376"
+        },
+        {
+            "question": "I will ........................ remember you.",
+            "description": "",
+            "answers": [
+                "ever",
+                "never",
+                "always"
+            ],
+            "correct": 2,
+            "id": "493b3386e5c546b8b24a98cbb2b5c73e"
+        },
+        {
+            "question": "I have loved him ........................ since I met him.",
+            "description": "",
+            "answers": [
+                "ever",
+                "never",
+                "always"
+            ],
+            "correct": 2,
+            "id": "6f62791210b3467495b2954dfef88799"
+        },
+        {
+            "question": "I ........................... want to see you again.",
+            "description": "",
+            "answers": [
+                "never",
+                "ever",
+                "always"
+            ],
+            "correct": 0,
+            "id": "ef7c4579c0504b9391089939626f3046"
+        },
+        {
+            "question": "Nobody ....................... visits them.",
+            "description": "",
+            "answers": [
+                "ever",
+                "never",
+                "always"
+            ],
+            "correct": 0,
+            "id": "89352d7dc780421bbc6ea7de4ff936b6"
+        },
+        {
+            "question": "She will ....................... beg.",
+            "description": "",
+            "answers": [
+                "ever",
+                "never",
+                "always"
+            ],
+            "correct": 1,
+            "id": "0ec89191402c4c19b499df3d89f09b87"
+        },
+        {
+            "question": "It is the largest monument .................... built.",
+            "description": "",
+            "answers": [
+                "ever",
+                "never",
+                "always"
+            ],
+            "correct": 0,
+            "id": "ce402c123aaf48e4aab2dd9b078ccbf5"
+        },
+        {
+            "question": "I had ....................... thought of getting married before I met Gautam.",
+            "description": "",
+            "answers": [
+                "never",
+                "ever",
+                "always"
+            ],
+            "correct": 0,
+            "id": "f141b087abe34887ac327b8f78df59b3"
+        },
+        {
+            "question": "Has any woman ....................... managed to climb Everest in winter?",
+            "description": "",
+            "answers": [
+                "ever",
+                "never",
+                "always"
+            ],
+            "correct": 0,
+            "id": "da29991222c445b7963e263ac23ed32b"
+        },
+        {
+            "question": "What is the best movie you have .................. watched?",
+            "description": "",
+            "answers": [
+                "ever",
+                "never",
+                "always"
+            ],
+            "correct": 0,
+            "id": "a67dace8de7c41be90fdd46f548123f1"
+        }
+    ]
+}

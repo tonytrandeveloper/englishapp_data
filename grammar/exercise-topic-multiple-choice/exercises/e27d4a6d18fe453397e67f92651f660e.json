@@ -1,0 +1,127 @@
+{
+    "id": "e27d4a6d18fe453397e67f92651f660e",
+    "title": "Inversion",
+    "questions": [
+        {
+            "question": "I wondered what time …………………… starting.",
+            "description": "In indirect questions, the auxiliary verb goes after the subject.",
+            "answers": [
+                "was the show",
+                "the show was"
+            ],
+            "correct": 1,
+            "id": "31ebd846bb1a42cf99b5d7f258eb7f3a"
+        },
+        {
+            "question": "She asked me what ……………………….. thinking about.",
+            "description": "In indirect questions, the auxiliary verb goes after the subject.",
+            "answers": [
+                "was I",
+                "I was"
+            ],
+            "correct": 1,
+            "id": "7bb67a063c684165a6443059aead5861"
+        },
+        {
+            "question": "I wondered who ………………………",
+            "description": "In indirect questions, the auxiliary verb goes after the subject.",
+            "answers": [
+                "had left the door open",
+                "the door had left open"
+            ],
+            "correct": 0,
+            "id": "b2862a7ba6ea4f86afacdc121be55bb2"
+        },
+        {
+            "question": "What a lovely place ………………………….!",
+            "description": "The auxiliary verb usually goes after the subject in exclamations with how and what.",
+            "answers": [
+                "is Shimla",
+                "Shimla is"
+            ],
+            "correct": 1,
+            "id": "50aaa6e1deeb4d97a8ebeeea069ee4b5"
+        },
+        {
+            "question": "How beautiful ………………………..!",
+            "description": "The auxiliary verb usually goes after the subject in exclamations with how and what.",
+            "answers": [
+                "are the flowers",
+                "the flowers are"
+            ],
+            "correct": 1,
+            "id": "e6ca957984494029ab9d8f06335d17c1"
+        },
+        {
+            "question": "At no time ………………………….. aware of what was happening.",
+            "description": "If a negative expression comes at the beginning of a clause, it is usually followed by auxiliary verb + subject.",
+            "answers": [
+                "he was",
+                "was he"
+            ],
+            "correct": 1,
+            "id": "d360b1961a894d94a166f542dbd21556"
+        },
+        {
+            "question": "Hardly ……………………… arrived when trouble started.",
+            "description": "Inversion is common after words like hardly, seldom, rarely, little or never.",
+            "answers": [
+                "had he",
+                "he had"
+            ],
+            "correct": 0,
+            "id": "81227bdf90b14c3c92031faa7f6b7a03"
+        },
+        {
+            "question": "Never ……………………….. seen such a mess.",
+            "description": "Inversion is common after words like hardly, seldom, rarely, little or never.",
+            "answers": [
+                "I have",
+                "have I"
+            ],
+            "correct": 1,
+            "id": "1e78552698aa44b980b11ffd2fa886ec"
+        },
+        {
+            "question": "Little ……………………….. what she was doing",
+            "description": "Inversion is common after words like hardly, seldom, rarely, little or never.",
+            "answers": [
+                "did she realize",
+                "she realized"
+            ],
+            "correct": 0,
+            "id": "b76fa3c95bee44c69f44eda845752c60"
+        },
+        {
+            "question": "Only then ………………………… what I had done.",
+            "description": "When only comes at the beginning of the sentence, it is followed by an inverted word order. ",
+            "answers": [
+                "did I understand",
+                "I understood"
+            ],
+            "correct": 0,
+            "id": "3c48fb7f4a054527b0d62507feddc9f9"
+        },
+        {
+            "question": "Not only ………………………. our money, but we were nearly kidnapped.",
+            "description": "When not only comes at the beginning of the sentence, it is followed by an inverted word order. ",
+            "answers": [
+                "we lost",
+                "lost we",
+                "did we lose"
+            ],
+            "correct": 2,
+            "id": "16db268630b64ff993bf4b6402ae9b69"
+        },
+        {
+            "question": "What a lovely morning ……………………….!",
+            "description": "The auxiliary verb usually goes after the subject in exclamations with how and what.",
+            "answers": [
+                "is it",
+                "it is"
+            ],
+            "correct": 1,
+            "id": "6d4f4457b29e421ca6cc03941f101b26"
+        }
+    ]
+}

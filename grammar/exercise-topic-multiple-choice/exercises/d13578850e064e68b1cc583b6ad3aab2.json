@@ -1,0 +1,136 @@
+{
+    "id": "d13578850e064e68b1cc583b6ad3aab2",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "We ………………………. each other since our school days.",
+            "description": "We normally use the present perfect or past perfect tense with since.",
+            "answers": [
+                "know",
+                "knew",
+                "have known"
+            ],
+            "correct": 2,
+            "id": "f1c2daa1706c4aa2bc884eb665b0ee6d"
+        },
+        {
+            "question": "They had been close friends since Janet …………………. small.",
+            "description": "A past tense can be used in the since-clause depending upon the meaning.",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 1,
+            "id": "b142bae2f67241a7a243d9147617ec7d"
+        },
+        {
+            "question": "In my opinion, too ………………………… mathematics is taught in schools.",
+            "description": "The words mathematics, physics and politics are singular countable and have no plural forms. Hence we use much with them.",
+            "answers": [
+                "many",
+                "much",
+                "more"
+            ],
+            "correct": 1,
+            "id": "080b110fefcf4c66aaba563f0800a96c"
+        },
+        {
+            "question": "Politics ………………………… a dirty game.",
+            "description": "Politics is normally used as a singular uncountable noun.",
+            "answers": [
+                "is",
+                "are",
+                "have"
+            ],
+            "correct": 0,
+            "id": "174404707de64a1493487aa8a0933554"
+        },
+        {
+            "question": "The unemployment statistics …………………………. disturbing.",
+            "description": "While statistics is usually singular, it does have a plural use.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "24653d2701814b858f78969590c8a79e"
+        },
+        {
+            "question": "Cattle …………………………… dying due to drought.",
+            "description": "Cattle is a plural word and hence it takes a plural verb.",
+            "answers": [
+                "is",
+                "are",
+                "was"
+            ],
+            "correct": 1,
+            "id": "ce823d6f2e6c491d8b91d46273c0bc53"
+        },
+        {
+            "question": "They have a house on the ………………………… of the city.",
+            "description": "Outskirts is usually plural and has no singular form. ",
+            "answers": [
+                "outskirt",
+                "outskirts",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "b13cc2ce4df044e8ae04c0bc66102abd"
+        },
+        {
+            "question": "They are raising ………………………….. for disadvantaged children.",
+            "description": "Funds means money. ",
+            "answers": [
+                "fund",
+                "funds"
+            ],
+            "correct": 1,
+            "id": "a62469a63a5c489ab36b9f6f98f730d2"
+        },
+        {
+            "question": "My …………………………. too tight.",
+            "description": "The noun trousers is always used in the singular form.",
+            "answers": [
+                "trouser is",
+                "trousers is",
+                "trousers are"
+            ],
+            "correct": 2,
+            "id": "4257c5280f0c42ee8c353c258c83d35e"
+        },
+        {
+            "question": "If I were in that situation, I would scream until somebody …………………………. to help me.",
+            "description": "Would and should are mainly used in main clauses. To express the same idea we use a past tense in the subordinate clauses.",
+            "answers": [
+                "comes",
+                "would come",
+                "came"
+            ],
+            "correct": 2,
+            "id": "c9c0aa7ab1cd4fbb896608a1fe773c07"
+        },
+        {
+            "question": "A couple of my friends ……………………………. visiting us today.",
+            "description": "Plural verbs are used after expressions like a couple of + plural noun.",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "575c79e1197f495294f7793a3d8dfbd4"
+        },
+        {
+            "question": "Half of his students …………………………. understand his theories.",
+            "description": "We use a plural verb after half of.",
+            "answers": [
+                "doesn't",
+                "don't",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "4fe0b6e4358f432e9b4c9d558981e602"
+        }
+    ]
+}

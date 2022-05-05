@@ -1,0 +1,104 @@
+{
+    "id": "296452509bfe4957919de3747c8b6dee",
+    "title": "So Am I, Neither Am I",
+    "questions": [
+        {
+            "question": "‘I am tired.’ ‘…………………’",
+            "description": "",
+            "answers": [
+                "So do I",
+                "So am I",
+                "Neither am I"
+            ],
+            "correct": 1,
+            "id": "378963d069df4c0f9336b41944fb3649"
+        },
+        {
+            "question": "‘I am not happy with this decision.’ ‘………………’",
+            "description": "",
+            "answers": [
+                "So am I",
+                "Neither am I",
+                "Neither do I"
+            ],
+            "correct": 1,
+            "id": "cc291fea618a490cbf75e08a1036f09f"
+        },
+        {
+            "question": "‘I was depressed.’ ‘………………….’",
+            "description": "",
+            "answers": [
+                "So am I",
+                "Neither am I",
+                "So was I"
+            ],
+            "correct": 2,
+            "id": "1098281cd0f04e4faf955570ada83220"
+        },
+        {
+            "question": "‘I didn’t know the answer.’ ‘…………………’",
+            "description": "",
+            "answers": [
+                "So did I",
+                "Neither did I"
+            ],
+            "correct": 1,
+            "id": "d85eab8c6ae4496a9d10872f4618f250"
+        },
+        {
+            "question": "‘I enjoyed the movie.’ ‘…………………’",
+            "description": "",
+            "answers": [
+                "So do I",
+                "So did I",
+                "Neither did I"
+            ],
+            "correct": 1,
+            "id": "d9aff433cee342d389f0a5a3afb0be11"
+        },
+        {
+            "question": "‘I have a headache.’ ‘………………….’",
+            "description": "",
+            "answers": [
+                "So do I",
+                "So have I",
+                "Neither have I"
+            ],
+            "correct": 1,
+            "id": "67f9fa0212b94cc9b661d17c6f454864"
+        },
+        {
+            "question": "‘I have lost his phone number.’ ‘………………….’",
+            "description": "",
+            "answers": [
+                "So do I",
+                "So have I",
+                "Neither have I"
+            ],
+            "correct": 1,
+            "id": "b017b62c28a04c75b523dabda55250e6"
+        },
+        {
+            "question": "‘I can’t swim.’ ‘…………………’",
+            "description": "",
+            "answers": [
+                "So can I",
+                "Neither do I",
+                "Neither can I"
+            ],
+            "correct": 2,
+            "id": "c5927219acfd4b508ecf8d0833b08e2c"
+        },
+        {
+            "question": "‘I didn’t go.’ ‘…………………..’",
+            "description": "",
+            "answers": [
+                "Neither do I",
+                "So do I",
+                "Neither did I"
+            ],
+            "correct": 2,
+            "id": "2454d576375f4603b53a8ede233918fe"
+        }
+    ]
+}

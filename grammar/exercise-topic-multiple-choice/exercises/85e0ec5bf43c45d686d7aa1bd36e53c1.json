@@ -1,0 +1,140 @@
+{
+    "id": "85e0ec5bf43c45d686d7aa1bd36e53c1",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "…………………. fast, I managed to catch up with him.",
+            "description": "",
+            "answers": [
+                "Running",
+                "Having ran",
+                "Being run"
+            ],
+            "correct": 0,
+            "id": "c2e41a96d4de4c6e9a6aa0f91f77600f"
+        },
+        {
+            "question": "He is …………………… loyal to cheat on her.",
+            "description": "This sentence means the same as 'He is so loyal that he will not / cannot cheat on her.'",
+            "answers": [
+                "too",
+                "so",
+                "very"
+            ],
+            "correct": 0,
+            "id": "55acf77201544cfeaf8f8e7aeb88caea"
+        },
+        {
+            "question": "………………….. the doctors tried their best, they could not save the patient.",
+            "description": "Although is a conjunction connecting two contrasting ideas. ",
+            "answers": [
+                "Although",
+                "Despite",
+                "However"
+            ],
+            "correct": 0,
+            "id": "f59256f3d90b49ccb7f3c0dc5bdd402c"
+        },
+        {
+            "question": "James, ………………………. works abroad, is coming home next week.",
+            "description": "That cannot be used to refer people in non-identifying relative clauses.",
+            "answers": [
+                "that",
+                "who",
+                "which"
+            ],
+            "correct": 1,
+            "id": "84838737de344084b8d21dd28a53a51f"
+        },
+        {
+            "question": "………………… their best efforts, they could not save him.",
+            "description": "Despite is a preposition use it before a noun or ing form.",
+            "answers": [
+                "Despite",
+                "Though",
+                "However"
+            ],
+            "correct": 0,
+            "id": "52e977b24e4f4ed19c3f47ec750793cf"
+        },
+        {
+            "question": "The higher you go, ………………………… it gets.",
+            "description": "",
+            "answers": [
+                "the cool",
+                "the cold",
+                "colder",
+                "the colder"
+            ],
+            "correct": 3,
+            "id": "bfdeaf60d4a6430cb2412b07fc3c0d43"
+        },
+        {
+            "question": "They fought to the finish …………………………, they could not win.",
+            "description": "However is a transitional adverb it does not connect two clauses. ",
+            "answers": [
+                "though",
+                "despite",
+                "however"
+            ],
+            "correct": 2,
+            "id": "ee18b47361d44c3fbcdeccb1514b6ccc"
+        },
+        {
+            "question": "If the manager finds out, we ………………………… in trouble.",
+            "description": "In the first conditional, use a simple present tense in the if-clause and will + first form of the verb in the main clause. ",
+            "answers": [
+                "will be",
+                "would be",
+                "would have been"
+            ],
+            "correct": 0,
+            "id": "c9bc182f1b534ef9b7296c4be0bebfe5"
+        },
+        {
+            "question": "I would rather you ………………….. me alone.",
+            "description": "After would rather, we use a simple past with present or future meaning. ",
+            "answers": [
+                "leave",
+                "left",
+                "had left"
+            ],
+            "correct": 1,
+            "id": "6f3e83448cfd48afb3e65ecfe9e766cd"
+        },
+        {
+            "question": "You had better not …………………. him up.",
+            "description": "Use the bare infinitive after had better. ",
+            "answers": [
+                "woke",
+                "wake",
+                "woken"
+            ],
+            "correct": 1,
+            "id": "2b9eb1a784974f26919a212ccf8cdd09"
+        },
+        {
+            "question": "I am not ………………………….. so hard.",
+            "description": "",
+            "answers": [
+                "used to work",
+                "used to working",
+                "used working",
+                ""
+            ],
+            "correct": 1,
+            "id": "70a583b18273430c987aa8ae9d12ee69"
+        },
+        {
+            "question": "It is time she ……………………… her mistake.",
+            "description": "Use a simple past after it is time. ",
+            "answers": [
+                "realizes",
+                "realized",
+                "has realized"
+            ],
+            "correct": 1,
+            "id": "5ea2f7a88b5e4c919d7f741a4b8fbb61"
+        }
+    ]
+}

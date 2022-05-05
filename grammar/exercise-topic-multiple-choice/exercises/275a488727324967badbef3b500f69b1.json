@@ -1,0 +1,128 @@
+{
+    "id": "275a488727324967badbef3b500f69b1",
+    "title": "Simple Present vs. Present Continuous Tense",
+    "questions": [
+        {
+            "question": "The shirt ................................ fine, but the trousers are small.",
+            "description": "The word fit is not normally used in the continuous form. ",
+            "answers": [
+                "fits",
+                "is fitting"
+            ],
+            "correct": 0,
+            "id": "323435dad94546a5a35b6ea63d75a0df"
+        },
+        {
+            "question": "She ................................ at the screen.",
+            "description": "The present continuous is used to talk about an ongoing situation. ",
+            "answers": [
+                "looks",
+                "is looking",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "fbb8f0efd0554f37b3fb1ff5e430824f"
+        },
+        {
+            "question": "The whole family ................................ a leisurely walk in the park now.",
+            "description": "",
+            "answers": [
+                "is enjoying",
+                "enjoys"
+            ],
+            "correct": 0,
+            "id": "830c95bd5ca84497b0319571ec144fe6"
+        },
+        {
+            "question": "She ............................. to be a perfectly sane person.",
+            "description": "The word appear is not normally used in the continuous form.",
+            "answers": [
+                "appears",
+                "is appearing"
+            ],
+            "correct": 0,
+            "id": "a9ad42d053ae42e3b07134aaf20778fe"
+        },
+        {
+            "question": "It .............................. like you are no longer interested in me.",
+            "description": "The word look is not normally used in the continuous form.",
+            "answers": [
+                "looks",
+                "is looking"
+            ],
+            "correct": 0,
+            "id": "77f499589db840c190de98029d1ce575"
+        },
+        {
+            "question": "I ........................... the fabric to see if it is rough.",
+            "description": "",
+            "answers": [
+                "feel",
+                "am feeling"
+            ],
+            "correct": 1,
+            "id": "efc56b9249bd4245b7e8a28ae293fd0c"
+        },
+        {
+            "question": "We ............................. a burglar alarm.",
+            "description": "",
+            "answers": [
+                "fit",
+                "are fitting"
+            ],
+            "correct": 1,
+            "id": "3e6557f599cc4e0f8e95a0d6caf5b1bf"
+        },
+        {
+            "question": "Both my children ............................... playing football.",
+            "description": "The simple present is used to talk about likes, dislikes, preferences etc. ",
+            "answers": [
+                "enjoy",
+                "are enjoying"
+            ],
+            "correct": 0,
+            "id": "b758c2bb5af34fd986a94afe24ad202e"
+        },
+        {
+            "question": "She ............................... in a new play.",
+            "description": "When appear refers to an action, it is normally used in the continuous form. ",
+            "answers": [
+                "appears",
+                "is appearing"
+            ],
+            "correct": 1,
+            "id": "232dbe1b09c444549388acccf4f0281b"
+        },
+        {
+            "question": "He .............................. upset.",
+            "description": "The word seem is not normally used in the continuous form. ",
+            "answers": [
+                "seems",
+                "is seeming"
+            ],
+            "correct": 0,
+            "id": "8caf12c5cf0e40f69e4bb47afbeb6671"
+        },
+        {
+            "question": "What ......................... you ........................... at?",
+            "description": "When look refers to an action, it is commonly used in the continuous form.",
+            "answers": [
+                "do, look",
+                "are, looking",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "85350bab1c004b009955c7294f32f45a"
+        },
+        {
+            "question": "This color ......................... me.",
+            "description": "The word suit is not normally used in the continuous form. ",
+            "answers": [
+                "does not suit",
+                "is not suiting"
+            ],
+            "correct": 0,
+            "id": "5c97e3a8e93049c6bb16de8dd01592df"
+        }
+    ]
+}

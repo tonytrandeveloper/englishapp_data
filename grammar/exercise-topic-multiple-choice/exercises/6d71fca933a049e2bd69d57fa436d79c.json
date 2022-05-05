@@ -1,0 +1,116 @@
+{
+    "id": "6d71fca933a049e2bd69d57fa436d79c",
+    "title": "Parts Of Speech Exercise",
+    "questions": [
+        {
+            "question": "Muslims fast in the month of Ramzan. Here fast is a/an ............................",
+            "description": "",
+            "answers": [
+                "verb",
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0,
+            "id": "e7be2477733d48f3a569299ccfb69337"
+        },
+        {
+            "question": "He is the right man in the right place. Here right is a/an ...................................",
+            "description": "",
+            "answers": [
+                "noun",
+                "pronoun",
+                "adjective"
+            ],
+            "correct": 2,
+            "id": "19817caf3f054a0eafaf6d96c08cf084"
+        },
+        {
+            "question": "There is not much truth in what he says. Here truth is a/an .....................................",
+            "description": "",
+            "answers": [
+                "verb",
+                "adjective",
+                "noun"
+            ],
+            "correct": 2,
+            "id": "aac0db0d191c40f8b9a1834956c5163f"
+        },
+        {
+            "question": "His theories are hard to understand. Here hard is a / an ................................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "adverb",
+                "verb"
+            ],
+            "correct": 0,
+            "id": "11e337e15bbf43b4897c26276171e7ef"
+        },
+        {
+            "question": "A little learning is a dangerous thing. Here dangerous is a/an ....................................",
+            "description": "",
+            "answers": [
+                "adverb",
+                "adjective",
+                "noun"
+            ],
+            "correct": 1,
+            "id": "2cf17e34cb7846d38b6c7791ec693f1c"
+        },
+        {
+            "question": "Still waters run deep. Here waters is a/an ....................................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "noun",
+                "verb"
+            ],
+            "correct": 1,
+            "id": "181bb98639424781885ead5042175d8e"
+        },
+        {
+            "question": "What annoys me most is his obstinacy. Here annoys is a/an ...................................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "adverb",
+                "verb"
+            ],
+            "correct": 2,
+            "id": "6f715e2c880a47d790734031939426f2"
+        },
+        {
+            "question": "As he was ambitious, I felt that I shouldn’t trust him. Here trust is a/an ..............................",
+            "description": "",
+            "answers": [
+                "noun",
+                "adverb",
+                "verb"
+            ],
+            "correct": 2,
+            "id": "b0c9b9fff6be4b9596726e2e7d4e0427"
+        },
+        {
+            "question": "He is like his father. Here like is a/an ...................................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "conjunction",
+                "preposition"
+            ],
+            "correct": 2,
+            "id": "b51157566cb5472988301aa7cad19fe4"
+        },
+        {
+            "question": "Do not talk like that. Here that is a/an ....................................",
+            "description": "",
+            "answers": [
+                "noun",
+                "pronoun",
+                "adjective"
+            ],
+            "correct": 1,
+            "id": "4fdf725917df4ed285e27abbf6bb9748"
+        }
+    ]
+}

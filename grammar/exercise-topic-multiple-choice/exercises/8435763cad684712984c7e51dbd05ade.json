@@ -1,0 +1,138 @@
+{
+    "id": "8435763cad684712984c7e51dbd05ade",
+    "title": "Simple, Complex vs. Compound",
+    "questions": [
+        {
+            "question": "In spite of his hard work, he could not score good marks.",
+            "description": "A simple sentence has just one finite verb and one clause in it. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "899d70af551e4954853a9158036eb20a"
+        },
+        {
+            "question": "As soon as we heard the gunshots, we rushed indoors.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "971d024cf61a44fa8a8e696801df1a7c"
+        },
+        {
+            "question": "When I opened the door, the cat jumped out.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "9b605ab2a1554743b0dd8f24214a8980"
+        },
+        {
+            "question": "His remarks angered me but I said nothing.",
+            "description": "A compound sentence has two or more coordinate clauses connected by coordinating conjunctions. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "52055d4e343241d28adff8843e361689"
+        },
+        {
+            "question": "Though it was a holiday, I went to work as usual.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "fc744e1caf0c40d2b8c0d93ad42681c9"
+        },
+        {
+            "question": "If it rains, I will open the umbrella.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "cda56dbb40bd483aa6c81e1220170643"
+        },
+        {
+            "question": "She passed the test because of her hard work.",
+            "description": "A simple sentence has just one finite verb and one clause in it. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "f61b8305bd7347e4a0b5e8883a4bc4ec"
+        },
+        {
+            "question": "He failed despite his hard work.",
+            "description": "A simple sentence has just one finite verb and one clause in it. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "df2f4967baf2440b9ba505aa28c53624"
+        },
+        {
+            "question": "It has been several months since we last met.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "c4c9d40933de4b6ebdaecc3a91960f4f"
+        },
+        {
+            "question": "We are in trouble because of your stupidity.",
+            "description": "A simple sentence has just one finite verb and one clause in it. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "377949bbfe35483cb2570a1d763e5aa6"
+        },
+        {
+            "question": "She opened the book and started reading.",
+            "description": "A compound sentence has two or more coordinate clauses connected by coordinating conjunctions. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "0ec6841de6aa4b95b06dc35b9328f10c"
+        },
+        {
+            "question": "I turned around but I didn’t see anyone.",
+            "description": "A compound sentence has two or more coordinate clauses connected by coordinating conjunctions. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "64151a2c254a427994f78c41152c508c"
+        }
+    ]
+}

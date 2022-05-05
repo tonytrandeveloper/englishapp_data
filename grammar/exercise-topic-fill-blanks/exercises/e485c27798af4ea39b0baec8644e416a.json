@@ -1,0 +1,311 @@
+{
+    "id": "e485c27798af4ea39b0baec8644e416a",
+    "title": "Reported Speech Mixed Exercise 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Don't do it!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me not to do it."
+                    ]
+                }
+            ],
+            "id": "8a79a2f0e1fd44fe865149675560caae"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm leaving tomorrow.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she was leaving tomorrow.",
+                        "She said that she was leaving the next day."
+                    ]
+                }
+            ],
+            "id": "a9a7887d761d4672a310b34447bf2769"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Please get me a cup of tea.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to get her a cup of tea."
+                    ]
+                }
+            ],
+            "id": "093cc4f3f6c542ac91098e746159c243"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She got married last year.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she had got married last year.",
+                        "She said that she got married last year."
+                    ]
+                }
+            ],
+            "id": "c5e1d3d00c52462d87235ea4045f4a07"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Be quick!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me to be quick."
+                    ]
+                }
+            ],
+            "id": "19e37783f87d4d959c9f5e0b7d4787c5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Could you explain number four, please?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to explain number four."
+                    ]
+                }
+            ],
+            "id": "237ea81ca9f548e096e497742ace24bb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Where do you live?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me where I lived."
+                    ]
+                }
+            ],
+            "id": "4fabb7bde84049f4866cea5797d5fe81"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We went to the cinema and then to a Chinese restaurant.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that they had gone to the cinema and then to a Chinese restaurant.",
+                        "She said that they went to the cinema and then to a Chinese restaurant."
+                    ]
+                }
+            ],
+            "id": "e0d90b55fe0a470da96adc0453ac5395"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'll come and help you at twelve.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she would come and help me at twelve."
+                    ]
+                }
+            ],
+            "id": "6f28691d105449d6aec8a540c4af19ba"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"What are you doing tomorrow?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me what I was doing tomorrow.",
+                        "She asked me what I was doing the next day."
+                    ]
+                }
+            ],
+            "id": "fa3f2c31e96a47f89c5d0a815cd5bb9c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Don't go!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me not to go."
+                    ]
+                }
+            ],
+            "id": "3c5465a2f0ed47d0ac51b9194a726a47"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do you work in London?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if I worked in London."
+                    ]
+                }
+            ],
+            "id": "c6439dc3eb694607b8386a7bfca9a33f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Could you tell me where the post office is?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to tell her where the post office was."
+                    ]
+                }
+            ],
+            "id": "ed79698cf49c43329f3a7bf23dbfb26b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Come here!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me to come here.",
+                        "She told me to come there."
+                    ]
+                }
+            ],
+            "id": "63b45a9f053f402ab8912130a194d84b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I've never been to Wales.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she had never been to Wales."
+                    ]
+                }
+            ],
+            "id": "9532a438335040ee8a1d452b4d29183d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Have you ever seen The Lord of the Rings?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if I had ever seen The Lord of the Rings."
+                    ]
+                }
+            ],
+            "id": "1b291916266f49a699a723e958064203"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I don't like mushrooms.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she didn't like mushrooms."
+                    ]
+                }
+            ],
+            "id": "b95304ca25cb4a3cb63f9e6b5713a2e0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Don't be silly!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me not to be silly."
+                    ]
+                }
+            ],
+            "id": "4174efedeb144754b36e3f5befd5eb91"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Would you mind waiting a moment please?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to wait a moment."
+                    ]
+                }
+            ],
+            "id": "6e11e6e8013e4454a5c43059b16ce968"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How often do you play sport?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me how often I played sport."
+                    ]
+                }
+            ],
+            "id": "0c7405b15e994232b164b44b82f1a5fc"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "a1000d621a224c79a254cf0ab4340052",
+    "title": "Since, For, From, In",
+    "questions": [
+        {
+            "question": "He has been away …………………… six years.",
+            "description": "Use for with perfect tenses to show duration.",
+            "answers": [
+                "for",
+                "since",
+                "from"
+            ],
+            "correct": 0,
+            "id": "824318ea19a84b19b21c9f21e4259095"
+        },
+        {
+            "question": "She has been learning classical music ………………………… five years.",
+            "description": "Use for with perfect tenses to show duration.",
+            "answers": [
+                "since",
+                "for",
+                "from"
+            ],
+            "correct": 1,
+            "id": "3715aaf364fe45779157db8ed3c877ee"
+        },
+        {
+            "question": "He was here ……………………… two months.",
+            "description": "Use for to show duration.",
+            "answers": [
+                "since",
+                "for",
+                "from"
+            ],
+            "correct": 1,
+            "id": "be04b7fb8003435e9af006dcbd84b5cd"
+        },
+        {
+            "question": "I haven’t met her ………………………. I left college.",
+            "description": "Use since with perfect tenses to indicate the starting point. ",
+            "answers": [
+                "since",
+                "for",
+                "from"
+            ],
+            "correct": 0,
+            "id": "464435d44d2c409f9675dd6d6fb882d6"
+        },
+        {
+            "question": "We are going to Malaysia ……………………….. the summer.",
+            "description": "",
+            "answers": [
+                "for",
+                "since",
+                "from"
+            ],
+            "correct": 0,
+            "id": "b00d6117c5f2464ba5f1bbb02ca989ad"
+        },
+        {
+            "question": "We have been good friends ……………………….. our school days.",
+            "description": "Use since with perfect tenses to indicate the starting point. ",
+            "answers": [
+                "for",
+                "since",
+                "from"
+            ],
+            "correct": 1,
+            "id": "30163308aaca4ef491adecd00b3cf1d4"
+        },
+        {
+            "question": "How long have you been here …………………………?",
+            "description": "Use for to indicate duration. ",
+            "answers": [
+                "since",
+                "for",
+                "from"
+            ],
+            "correct": 1,
+            "id": "9912dbf07ed147d0bd343a13cadd5936"
+        },
+        {
+            "question": "…………………………. when have you been here?",
+            "description": "Use since with perfect tenses to indicate the starting point. ",
+            "answers": [
+                "Since",
+                "For",
+                "From"
+            ],
+            "correct": 0,
+            "id": "64501bba7f214cf0b37e7364f541ed63"
+        },
+        {
+            "question": "It was the best dinner I had …………………….. years.",
+            "description": "Either in or for is possible here. ",
+            "answers": [
+                "for",
+                "since",
+                "in"
+            ],
+            "correct": 2,
+            "id": "0bfdea6a2671428aa1fccb508d0e6b3a"
+        },
+        {
+            "question": "I will be here …………………………. 3 o’clock onwards.",
+            "description": "From is used with simple tenses. ",
+            "answers": [
+                "for",
+                "since",
+                "from"
+            ],
+            "correct": 2,
+            "id": "22ff84a061154a628456d3932d58f780"
+        },
+        {
+            "question": "The shop is open ……………………….. six in the morning.",
+            "description": "",
+            "answers": [
+                "for",
+                "since",
+                "from"
+            ],
+            "correct": 2,
+            "id": "3e96ef259c1249babf563f4ba2cb23e5"
+        },
+        {
+            "question": "I have been waiting ………………………. morning.",
+            "description": "Use since to indicate the starting point. ",
+            "answers": [
+                "since",
+                "for",
+                "from"
+            ],
+            "correct": 0,
+            "id": "fa41c45b5caf4ce2887a050f265cd81a"
+        }
+    ]
+}

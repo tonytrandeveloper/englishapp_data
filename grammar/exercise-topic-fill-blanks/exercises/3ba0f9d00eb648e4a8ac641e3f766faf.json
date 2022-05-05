@@ -1,0 +1,383 @@
+{
+    "id": "3ba0f9d00eb648e4a8ac641e3f766faf",
+    "title": "Some and Any Exercise 2",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Have we got"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "any"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "bread? (A real question, I have no idea.)"
+                }
+            ],
+            "id": "3052d5b773f4426dadb3966b7633a50b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Any",
+                        "any"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "student will tell you that they don't have enough money. (It doesn't matter which student.)"
+                }
+            ],
+            "id": "eedb6b32a9a945778c0dc8460c5b6bbb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We've got"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "some"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "furniture, but we still need a table."
+                }
+            ],
+            "id": "e00c2b9b1b7641d89c0ebebb4aeee76c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She bought"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "some"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "new clothes."
+                }
+            ],
+            "id": "4e0c867d614345b588c243991e1bcdfd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You can buy beer in"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "any"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "pub. (It doesn't matter which pub.)"
+                }
+            ],
+            "id": "488711ae38ab4098ab78e15ef45f8c17"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Can I have"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "some"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "more juice? (I expect you will say 'yes'.)"
+                }
+            ],
+            "id": "06f4ca42c6814ba0aad17b58defc2d6e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did you buy"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "any"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "juice? (I have no idea, this is a real question.)"
+                }
+            ],
+            "id": "9df4bcbbc4774701946b81f768ad6c2b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I can speak"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "some"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "French."
+                }
+            ],
+            "id": "79c9e54a8b4044369f16a8c00e3ad6ba"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Would you like"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "some"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "tea? (An offer - I think you will say 'yes'.)"
+                }
+            ],
+            "id": "624d5dd296e44fc0a1187ee57fdd9900"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "In London in the winter there's hardly"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "any"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "sunlight."
+                }
+            ],
+            "id": "de34cc32198b4a1facfd6058d8e72c17"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Go into"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "any"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "shop on the high street and ask. (It doesn't matter which shop.)"
+                }
+            ],
+            "id": "e5bba18a68d44240aa7ab56caead14fa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Would you like"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "some"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "more meat? (An offer - I think you will say 'yes'.)"
+                }
+            ],
+            "id": "1605128fad4c46c188ef62613e2679f8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There's"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "some"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "money in my handbag."
+                }
+            ],
+            "id": "e960ee1e502e460aa2900aa0d24e9ed0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did you buy"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "some"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "chicken? (I expect you will say 'yes', because we talked about it before.)"
+                }
+            ],
+            "id": "f2935bb6981040f19371c7b324268beb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I don't have"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "any"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "sunblock with me."
+                }
+            ],
+            "id": "2d857939ebfa46e9a03ae1b753d41d2d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She never drinks"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "any"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "water."
+                }
+            ],
+            "id": "9528e13b422d40af948a9c8ea3fb3d62"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do you have"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "some"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "sugar? (I expect you will say 'yes', because usually you have sugar.)"
+                }
+            ],
+            "id": "9c0f556a43b6479a8f670eacf72a20fa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's hard in a new city without"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "any"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "friends."
+                }
+            ],
+            "id": "23cd10cca058410fbc3efe2e16214710"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I didn't find"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "any"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "problems."
+                }
+            ],
+            "id": "da5c824e04534a39991d1e6a21ab46a1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you give me"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "some"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "paper? (A request - I expect you will say 'yes'.)"
+                }
+            ],
+            "id": "1319abcbcf97400fa3c9589b93283b5e"
+        }
+    ]
+}

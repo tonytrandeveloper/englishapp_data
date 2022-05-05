@@ -1,0 +1,136 @@
+{
+    "id": "1c0f2ccec7d94580b3028a0bd99b833d",
+    "title": "English Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "He had a …………….. interest in arts.",
+            "description": "Lasting interest means interest that lasts. ",
+            "answers": [
+                "lasted",
+                "lasting",
+                "last"
+            ],
+            "correct": 1,
+            "id": "7efdfa66c3e049caacf28bc54bbc12c4"
+        },
+        {
+            "question": "The wagon driver …………………… the horses.",
+            "description": "We need a verb here.",
+            "answers": [
+                "lash",
+                "lashed",
+                "lashing"
+            ],
+            "correct": 1,
+            "id": "1b60cf85722f472e82bfeeda4026cce6"
+        },
+        {
+            "question": "He owed his success …………………… to hard work.",
+            "description": "Largely is an adverb. We need an adverb to modify the verb owed. ",
+            "answers": [
+                "large",
+                "largely"
+            ],
+            "correct": 1,
+            "id": "24aec4abb70d4969a7941b0623c3d10d"
+        },
+        {
+            "question": "He was ………………………… to see his brother again.",
+            "description": "Joyful is an adjective.",
+            "answers": [
+                "joyed",
+                "joyful",
+                "joy"
+            ],
+            "correct": 1,
+            "id": "3f096c0ac95d467ca7494232d1ea0181"
+        },
+        {
+            "question": "He was not ……………………… in the way he handled the interview.",
+            "description": "Judicious means sensible.\r\nJudicial refers to an official decision made by a court.\r\n",
+            "answers": [
+                "judicial",
+                "judicious",
+                "just"
+            ],
+            "correct": 1,
+            "id": "83371d3571e144e3a3cadcd17708679e"
+        },
+        {
+            "question": "The lawyers awaited the ………………………. decision of the Supreme Court.",
+            "description": "Judicial refers to an official decision made by a court.",
+            "answers": [
+                "judicial",
+                "judicious"
+            ],
+            "correct": 0,
+            "id": "3d2053e0a78a4b089de21b375fd7706c"
+        },
+        {
+            "question": "The citizens’ lobby was ……………………….. in changing the election laws.",
+            "description": "We need an adjective to complete the verb of incomplete predication here.",
+            "answers": [
+                "influencing",
+                "influenced",
+                "influential"
+            ],
+            "correct": 2,
+            "id": "4289a0ed372c4b0d864661637516fde0"
+        },
+        {
+            "question": "It was an ………………………… article.",
+            "description": "We need an adjective here to modify the noun article.",
+            "answers": [
+                "information",
+                "informative",
+                "informed"
+            ],
+            "correct": 1,
+            "id": "c04c9afd81ca4a9699c19a1b0a27437a"
+        },
+        {
+            "question": "The student showed ………………………. in solving the difficult math problem.",
+            "description": "We need a noun here. Ingenuous and ingenious are adjectives. ",
+            "answers": [
+                "ingenuity",
+                "ingenuous",
+                "ingenious"
+            ],
+            "correct": 0,
+            "id": "4aec59fa526041d386235f9cff3eefa2"
+        },
+        {
+            "question": "No one ………………………. that dilapidated house.",
+            "description": "",
+            "answers": [
+                "inhabitant",
+                "inhabitate",
+                "inhabits"
+            ],
+            "correct": 2,
+            "id": "96295a99929543ac801a669b87d953d5"
+        },
+        {
+            "question": "The large ………………………. made him quite wealthy.",
+            "description": "We need a noun here because the adjective large modifies a noun. ",
+            "answers": [
+                "inherit",
+                "inheritance",
+                "inherited"
+            ],
+            "correct": 1,
+            "id": "763b4f82a3ae4d44a1f2d271fd4ab13e"
+        },
+        {
+            "question": "The ………………………. boys jumped into the pond fully clothed.",
+            "description": "We need an adjective to modify the noun boys. ",
+            "answers": [
+                "impulsive",
+                "impulsively",
+                "impulse"
+            ],
+            "correct": 0,
+            "id": "3358aafb89ce42c29a1ce866e9772d66"
+        }
+    ]
+}

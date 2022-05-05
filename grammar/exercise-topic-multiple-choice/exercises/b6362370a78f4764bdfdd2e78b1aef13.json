@@ -1,0 +1,140 @@
+{
+    "id": "b6362370a78f4764bdfdd2e78b1aef13",
+    "title": "Relative Pronouns Which, That, Where And Whose",
+    "questions": [
+        {
+            "question": "This is the road ………………………….. takes you to the railway station.",
+            "description": "When we split we get: \r\nThis is the road.\r\nIt takes you to the railway station.\r\nThe relative pronouns which and that can replace the pronoun ‘it’.\r\nIn identifying relative clauses, either which or that can be used to refer to things.\r\n",
+            "answers": [
+                "which",
+                "that",
+                "whose",
+                "where"
+            ],
+            "correct": 1,
+            "id": "b350f06b859e4783a6b070e25550f272"
+        },
+        {
+            "question": "These are some pencils ……………………….. for drawing.",
+            "description": "Reduced relative clauses are often used with adjectives.",
+            "answers": [
+                "which are good",
+                "good",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "baad977cf254453c9b4a510dd5f72e66"
+        },
+        {
+            "question": "The oranges ……………………………. you gave me yesterday were very sweet.",
+            "description": "In identifying relative clauses, either which or that can be used to refer to things.",
+            "answers": [
+                "that",
+                "which",
+                "what",
+                "Either that or which"
+            ],
+            "correct": 3,
+            "id": "421a66945abb476c9e22974ea3d46da9"
+        },
+        {
+            "question": "The Taj Mahal …………………………… was built by Shah Jahan is the finest tomb in the world.",
+            "description": "In non-identifying relative clauses, that cannot be used here.",
+            "answers": [
+                "which",
+                "that",
+                "what"
+            ],
+            "correct": 0,
+            "id": "71ee41f278454ecb99bb7789f845a9d4"
+        },
+        {
+            "question": "On this map show me the small island …………………………. is to the south of India.",
+            "description": "In identifying relative clauses, either which or that can be used to refer to things.",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "bb01d6d15c8b47f1adfde348086a124c"
+        },
+        {
+            "question": "This is the new radio …………………………… my father bought yesterday.",
+            "description": "In identifying relative clauses, either which or that can be used to refer to things.",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "3edfd59e9abd4a6682405d294126fa77"
+        },
+        {
+            "question": "Nobody knows the place …………………………….. he keeps his money.",
+            "description": "When we split we get:\r\nNobody knows the place.\r\nHe keeps his money there.\r\nThe relative pronoun ‘where’ replaces words like there and here.",
+            "answers": [
+                "there",
+                "where",
+                "which"
+            ],
+            "correct": 1,
+            "id": "5274e53b11b549a4a316f0d8f821a40a"
+        },
+        {
+            "question": "The school ……………………………. my brother teaches is the only school in this island.",
+            "description": "When we split we get:\r\nThis is the only school in this island. My brother teaches there.\r\nThe relative pronoun ‘where’ replaces words like there and here.",
+            "answers": [
+                "there",
+                "where",
+                "which"
+            ],
+            "correct": 1,
+            "id": "3bf22f38d81c44dda66091b1ab320285"
+        },
+        {
+            "question": "The boy ………………………… watch had been stolen complained to the teacher.",
+            "description": "The boy complained to the teacher. His watch had been stolen. The relative pronoun whose replaces the pronouns his, their, her etc.",
+            "answers": [
+                "who",
+                "whom",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "6bc3975d07a4431cb9229aa4a71d4c79"
+        },
+        {
+            "question": "Jennifer …………………………. father is a native of Germany speaks both German and English fluently.",
+            "description": "Jennifer speaks both German and English fluently.\r\nHer father is a native of Germany.\r\nThe relative pronoun whose replaces the pronouns his, their, her etc.",
+            "answers": [
+                "who",
+                "whose",
+                "who's"
+            ],
+            "correct": 1,
+            "id": "cb7fcf17b2934a0eb83146f74f9f1eb7"
+        },
+        {
+            "question": "This is the spot ………………………… I left my car.",
+            "description": "The relative pronoun ‘where’ replaces words like there and here.",
+            "answers": [
+                "there",
+                "where",
+                "that"
+            ],
+            "correct": 1,
+            "id": "36353da107b54e61b8c36cc36ab6cd62"
+        },
+        {
+            "question": "This is the field ………………………….. the  battle was fought.",
+            "description": "",
+            "answers": [
+                "there",
+                "where",
+                "which"
+            ],
+            "correct": 1,
+            "id": "287fb9021eb142e6896b5cb1eb43b9a9"
+        }
+    ]
+}

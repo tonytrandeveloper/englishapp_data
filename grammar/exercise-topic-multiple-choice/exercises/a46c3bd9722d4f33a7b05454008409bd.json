@@ -1,0 +1,171 @@
+{
+    "id": "a46c3bd9722d4f33a7b05454008409bd",
+    "title": "Change The Voice",
+    "questions": [
+        {
+            "question": "James broke another window. / Another window ........................ by James",
+            "description": "",
+            "answers": [
+                "had broken",
+                "was broken",
+                "had been broken"
+            ],
+            "correct": 1,
+            "id": "ae9ba047c4ab46d783e5c756f057a819"
+        },
+        {
+            "question": "I know the answer. / The answer ........................ to me.",
+            "description": "",
+            "answers": [
+                "knows",
+                "has known",
+                "is known"
+            ],
+            "correct": 2,
+            "id": "355a5f185c2f4a5ea55713a942c3c6ae"
+        },
+        {
+            "question": "She did not accept the invitation. / The invitation ............................ by her.",
+            "description": "",
+            "answers": [
+                "has not accepted",
+                "was not accepted",
+                "had not accepted"
+            ],
+            "correct": 1,
+            "id": "0d27f5abf0dd4477aa3ad17520fc0771"
+        },
+        {
+            "question": "They have sold their house. / Their house ..........................",
+            "description": "",
+            "answers": [
+                "has been sold",
+                "have been sold",
+                "had sold"
+            ],
+            "correct": 0,
+            "id": "e568ed9799234434a870173970621634"
+        },
+        {
+            "question": "Ancient Indians knew the science of ship-building. / The science of ship-building ............................. to ancient Indians.",
+            "description": "",
+            "answers": [
+                "has known",
+                "was known",
+                "had known"
+            ],
+            "correct": 1,
+            "id": "48c95cc942084bf38a07af0d57e3c423"
+        },
+        {
+            "question": "She showed me a nice portrait. / I ........................ a nice portrait.",
+            "description": "",
+            "answers": [
+                "was showed",
+                "have showed",
+                "was shown"
+            ],
+            "correct": 2,
+            "id": "ab1de2e816bd4ac0a439da261e2d4848"
+        },
+        {
+            "question": "My mother knits sweaters. / Sweaters ........................ by my mother.",
+            "description": "",
+            "answers": [
+                "knitted",
+                "have been knitted",
+                "are knitted"
+            ],
+            "correct": 2,
+            "id": "2acb3a24e0f543319eb5101e7ce52fbf"
+        },
+        {
+            "question": "He bought some land and two horses. / Some land and two horses ................. by him.",
+            "description": "",
+            "answers": [
+                "was bought",
+                "were bought",
+                "had been bought"
+            ],
+            "correct": 1,
+            "id": "feb94b87669f438ba7a18223ffdf086c"
+        },
+        {
+            "question": "We will not tolerate this. / This ............................ by us.",
+            "description": "",
+            "answers": [
+                "would not be tolerated",
+                "will not be tolerated",
+                "is not tolerated"
+            ],
+            "correct": 1,
+            "id": "bd63adfd6abf49dc856eedd77f0b5b71"
+        },
+        {
+            "question": "She has written two books. / Two books ...................... by her.",
+            "description": "",
+            "answers": [
+                "has been written",
+                "have been written",
+                "were written"
+            ],
+            "correct": 1,
+            "id": "781f22eab88448b2b3945068d097e15f"
+        },
+        {
+            "question": "They made a lot of profit. / A lot of profit ..................... by them.",
+            "description": "",
+            "answers": [
+                "is made",
+                "was made",
+                "had made"
+            ],
+            "correct": 1,
+            "id": "5cb1ca08266c4b479d8bd4da7e5c8a64"
+        },
+        {
+            "question": "He owns six apartments. / Six apartments ...................... by him.",
+            "description": "",
+            "answers": [
+                "are owned",
+                "have owned",
+                "were owned"
+            ],
+            "correct": 0,
+            "id": "a53f0cd2ce7f4f44a26800f9ccb45c6f"
+        },
+        {
+            "question": "He donated all his money to charities. / All his money ................... to charities.",
+            "description": "",
+            "answers": [
+                "has donated",
+                "was donated",
+                "were donated"
+            ],
+            "correct": 1,
+            "id": "4498c720585e40509aa8b47850b5e65d"
+        },
+        {
+            "question": "He has won a jackpot. / A jackpot ......................... by him.",
+            "description": "",
+            "answers": [
+                "is won",
+                "has been won",
+                "had been won"
+            ],
+            "correct": 1,
+            "id": "4118792b1cf9498fbaed8104f03fd919"
+        },
+        {
+            "question": "The police have arrested the smugglers. / The smugglers ............................. by the police.",
+            "description": "",
+            "answers": [
+                "have arrested",
+                "have been arrested",
+                "are arrested"
+            ],
+            "correct": 1,
+            "id": "f839cd0ad96a45b1bcc8cb6a8bdebdb6"
+        }
+    ]
+}

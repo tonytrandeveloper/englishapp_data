@@ -1,0 +1,111 @@
+{
+    "id": "4330a3f8a91240e3b290c67bd32ad249",
+    "title": "Simple Past Or Present Perfect Tense Exercise",
+    "questions": [
+        {
+            "question": "She ………………….. English for the last 20 years.",
+            "description": "",
+            "answers": [
+                "taught",
+                "has taught",
+                "teaches"
+            ],
+            "correct": 1,
+            "id": "2cdd2664efda4794934288d26159d4ad"
+        },
+        {
+            "question": "She ………………… English at university before she became a fulltime writer.",
+            "description": "",
+            "answers": [
+                "taught",
+                "has taught"
+            ],
+            "correct": 0,
+            "id": "73307439eab848ed8d622860231882fd"
+        },
+        {
+            "question": "I ………………… every book written by Jane Austen.",
+            "description": "",
+            "answers": [
+                "read",
+                "have read"
+            ],
+            "correct": 1,
+            "id": "8d230aa132294ff8a31fb0701e3573e5"
+        },
+        {
+            "question": "Who …………………. ‘Pride and Prejudice’?",
+            "description": "",
+            "answers": [
+                "wrote",
+                "has written",
+                "had written"
+            ],
+            "correct": 0,
+            "id": "09e32bd49bb14f019c2fd3921518ea66"
+        },
+        {
+            "question": "Peter …………………… .. a window last night.",
+            "description": "",
+            "answers": [
+                "broke",
+                "has broken"
+            ],
+            "correct": 0,
+            "id": "5addbf7872b44b1ba502605c7b0116ab"
+        },
+        {
+            "question": "She ………………… all her childhood in Mexico.",
+            "description": "",
+            "answers": [
+                "spent",
+                "has spent",
+                "had spent"
+            ],
+            "correct": 0,
+            "id": "ee78a3666d4c40ab8c91da1fce523178"
+        },
+        {
+            "question": "I can’t walk because I ………………… .. my leg.",
+            "description": "",
+            "answers": [
+                "broke",
+                "have broken"
+            ],
+            "correct": 1,
+            "id": "9336f71a00a046ecac78fd72e06cc9e5"
+        },
+        {
+            "question": "Regularly every summer, Andrew ………………… . in love.",
+            "description": "",
+            "answers": [
+                "had fallen",
+                "fell",
+                "has fallen"
+            ],
+            "correct": 1,
+            "id": "ee9edbbcaa6141edb64935adffcf2df7"
+        },
+        {
+            "question": "Who ………………….. you those marbles?",
+            "description": "",
+            "answers": [
+                "gave",
+                "has given"
+            ],
+            "correct": 0,
+            "id": "2a7a4fe9323d48f7893dba1e4345f50c"
+        },
+        {
+            "question": "I’m sure we ………………….. before.",
+            "description": "",
+            "answers": [
+                "met",
+                "have met",
+                "had met"
+            ],
+            "correct": 1,
+            "id": "d0032f5bf7aa4294ab2c43fe6e595c36"
+        }
+    ]
+}

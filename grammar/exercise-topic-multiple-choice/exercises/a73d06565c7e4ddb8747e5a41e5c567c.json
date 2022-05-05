@@ -1,0 +1,129 @@
+{
+    "id": "a73d06565c7e4ddb8747e5a41e5c567c",
+    "title": "Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Each of these boys …………………………. the guitar.",
+            "description": "Each is followed by a singular verb.",
+            "answers": [
+                "play",
+                "plays"
+            ],
+            "correct": 1,
+            "id": "6354839953df4d01928e6f4f43fda2e3"
+        },
+        {
+            "question": "………………………….. the party.",
+            "description": "We do not normally write ‘both do/did not’. Instead we use ‘neither’.",
+            "answers": [
+                "Both did not attend",
+                "Neither attended",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "772e79f38d29412fbdd6e7be74ddaf9c"
+        },
+        {
+            "question": "Each ...................................... has five fingers.",
+            "description": "We use a singular noun after each and every.",
+            "answers": [
+                "hand",
+                "hands"
+            ],
+            "correct": 0,
+            "id": "7f6e99b623d847189f00978e43593c36"
+        },
+        {
+            "question": "Each of these roads ………………………… to the station.",
+            "description": "Each is followed by a singular verb.",
+            "answers": [
+                "lead",
+                "leads"
+            ],
+            "correct": 1,
+            "id": "0791c1f3a3014ebeac8e3296509c9a73"
+        },
+        {
+            "question": "Here is my bottle. Please ………………………………",
+            "description": "Fill is a transitive verb. It is followed by an object. ",
+            "answers": [
+                "fill",
+                "fill it"
+            ],
+            "correct": 1,
+            "id": "01d8f9e98df1449389d93735d7abdb43"
+        },
+        {
+            "question": "He ………………………… during the holidays.",
+            "description": "Enjoy is a transitive verb. It requires an object.",
+            "answers": [
+                "enjoyed",
+                "enjoyed himself"
+            ],
+            "correct": 1,
+            "id": "772bf9dc9ad045e0a4f2dbdd781be416"
+        },
+        {
+            "question": "Let ………………………….. have a look at this.",
+            "description": "Let is a verb and a pronoun used as its object should be in its object form.",
+            "answers": [
+                "me",
+                "I"
+            ],
+            "correct": 0,
+            "id": "21ea05252e0748f09490aa9c09ee0beb"
+        },
+        {
+            "question": "I am not as tall as ………………………………….",
+            "description": "Object pronouns are possible after as and than. If subject pronouns are used they should be followed by a verb.",
+            "answers": [
+                "him",
+                "he is",
+                "he"
+            ],
+            "correct": 1,
+            "id": "61c3ec1aa07743c0a6a51faf8d4be82c"
+        },
+        {
+            "question": "…………………………….. is responsible for his failure.",
+            "description": "",
+            "answers": [
+                "Only he",
+                "He alone"
+            ],
+            "correct": 1,
+            "id": "fb403fb3ca8746a19b941f5dac7718e5"
+        },
+        {
+            "question": "Whoever does best ……………………………… get the first prize.",
+            "description": "",
+            "answers": [
+                "he will",
+                "will"
+            ],
+            "correct": 1,
+            "id": "3ed6ee26b13e43d59d7dcb9b375f906e"
+        },
+        {
+            "question": "People starve when ………………………… have no money.",
+            "description": "Use the plural pronoun they to refer to the plural noun people.",
+            "answers": [
+                "we",
+                "you",
+                "they"
+            ],
+            "correct": 2,
+            "id": "cdb851beddf4430ba05dee74541d18a0"
+        },
+        {
+            "question": "…………………………. a cloudy day, we did not go out.",
+            "description": "",
+            "answers": [
+                "Being",
+                "It being"
+            ],
+            "correct": 1,
+            "id": "b740ed1026564e7ebe67e537c67c7452"
+        }
+    ]
+}

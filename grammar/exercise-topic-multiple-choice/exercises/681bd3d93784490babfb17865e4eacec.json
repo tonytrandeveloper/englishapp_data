@@ -1,0 +1,138 @@
+{
+    "id": "681bd3d93784490babfb17865e4eacec",
+    "title": "Mixed Conditionals Exercise",
+    "questions": [
+        {
+            "question": "If I .................... you, I wouldn't do this.",
+            "description": "Was is also possible here however, were is preferred. In the second conditional we use a simple past tense in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "was",
+                "were",
+                "am"
+            ],
+            "correct": 1,
+            "id": "ad8e8991c2044ad2b67172124729088a"
+        },
+        {
+            "question": "If you ................... red and green, you get yellow.",
+            "description": "The zero conditional is used to talk about situations that are always true. In the zero conditional, we use a simple present tense in both clauses. ",
+            "answers": [
+                "will mix",
+                "mix",
+                "mixed"
+            ],
+            "correct": 1,
+            "id": "00e3cb910b2b4f6ba9ba0fdb97e205b6"
+        },
+        {
+            "question": "If I had known the answer, I .................................. you.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "will tell",
+                "would tell",
+                "would have told"
+            ],
+            "correct": 2,
+            "id": "a5f834e941934a86a615d71c1b81b151"
+        },
+        {
+            "question": "Unless you start now, you ........................ late.",
+            "description": "",
+            "answers": [
+                "will be",
+                "would be",
+                "would have been"
+            ],
+            "correct": 0,
+            "id": "872fd0548bcb48efbe00d75a2887c204"
+        },
+        {
+            "question": "If I were you, I ........................ this.",
+            "description": "",
+            "answers": [
+                "would never do",
+                "would never have done",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "80fb84d8bbe6407d8de4c0d1bf53ba19"
+        },
+        {
+            "question": "Provided that you ......................... there half an hour earlier, you will be able to get straight in.",
+            "description": "In the first conditional, we use a simple present tense in the subordinate clause and will + infinitive in the main clause. ",
+            "answers": [
+                "get",
+                "will get",
+                "would get"
+            ],
+            "correct": 0,
+            "id": "75778866534b452ba2f987d12ee70325"
+        },
+        {
+            "question": "Unless you ........................ smoking, you will develop serious health problems.",
+            "description": "In the first conditional, we use a simple present tense in the subordinate clause and will + infinitive in the main clause. ",
+            "answers": [
+                "stop",
+                "will stop",
+                "stopped"
+            ],
+            "correct": 0,
+            "id": "541f863a1e4e403784eba963676dd24e"
+        },
+        {
+            "question": "If I had been there, I .............................. this from happening.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "will prevent",
+                "would prevent",
+                "would have prevented"
+            ],
+            "correct": 2,
+            "id": "9fcf8e855ab446258555e67f4ce2aa7c"
+        },
+        {
+            "question": "If you ........................... hurry, you will miss the flight.",
+            "description": "We use the first conditional to talk about real and possible situations. In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause. ",
+            "answers": [
+                "do not",
+                "did not",
+                "would not"
+            ],
+            "correct": 0,
+            "id": "57a0af486afe409bb766185beadd8e33"
+        },
+        {
+            "question": "If weather permits, we ......................... again.",
+            "description": "In the first conditional, we use a simple present tense in the if clause and will + infinitive in the main clause. ",
+            "answers": [
+                "will meet",
+                "would meet",
+                "would have met"
+            ],
+            "correct": 0,
+            "id": "1e49c9b316044244bb2ab1287e0eec9f"
+        },
+        {
+            "question": "If I ....................... I will come tomorrow.",
+            "description": "",
+            "answers": [
+                "can",
+                "could",
+                "could have"
+            ],
+            "correct": 0,
+            "id": "bbd9f156b6314b1ebbec4c60b500d4eb"
+        },
+        {
+            "question": "........................... you come tomorrow if you can?",
+            "description": "",
+            "answers": [
+                "Will",
+                "Would",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d2c71723a40e4d2891cb1646c2890c42"
+        }
+    ]
+}

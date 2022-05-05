@@ -1,0 +1,138 @@
+{
+    "id": "8490935e13234e24976b47329b645cba",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "Sam ............................ before I reached his place.",
+            "description": "We use the past perfect to show that an action had completed before another action commenced.",
+            "answers": [
+                "have left",
+                "had left",
+                "will leave"
+            ],
+            "correct": 1,
+            "id": "96ea322eb09248e58dc354280e213e5f"
+        },
+        {
+            "question": "She no longer .............................. here.",
+            "description": "We use the simple present tense to talk about permanent situations.",
+            "answers": [
+                "lives",
+                "is living",
+                "lived"
+            ],
+            "correct": 0,
+            "id": "fd7026b5b40347c48761324a0a83416b"
+        },
+        {
+            "question": "I .................................. in Mumbai for twenty years by next January.",
+            "description": "We use the future perfect and future perfect continuous tenses to say that something will be completed or finished by a certain time.",
+            "answers": [
+                "will have lived",
+                "will have been living",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "2c6cbb384147462cac176432618d262d"
+        },
+        {
+            "question": "I .............................. my homework before I went to play.",
+            "description": "We normally use the past perfect to show that an action had completed before another action commenced. However, the simple past is also possible here because the same idea can be expressed using the time conjunctions before and after.",
+            "answers": [
+                "did",
+                "had done",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "126f1cdbb3ec4b1690a1018e67a53e34"
+        },
+        {
+            "question": "I .................................. him twice before he went to Amsterdam.",
+            "description": "We use the past perfect to show that an action had completed before another action commenced.",
+            "answers": [
+                "have met",
+                "had met",
+                "meet"
+            ],
+            "correct": 1,
+            "id": "e99c29e8a08e47ea901a5bd91012281b"
+        },
+        {
+            "question": "Before he became a famous inventor, Edison ................................ newspapers to earn a living.",
+            "description": "The simple past is used to talk about finished actions and situations in the past.",
+            "answers": [
+                "sells",
+                "sold",
+                "had sold"
+            ],
+            "correct": 1,
+            "id": "551b00b7a671451c8440bd23c694864b"
+        },
+        {
+            "question": "When I was young, I ................................ out every day.",
+            "description": "The simple past is used to talk about finished actions and situations in the past.",
+            "answers": [
+                "work",
+                "worked",
+                "will work"
+            ],
+            "correct": 1,
+            "id": "3a319c0942734773bf541e968c005b87"
+        },
+        {
+            "question": "We ............................. for Singapore this evening.",
+            "description": "We use the present continuous to talk about pre-planned future events.",
+            "answers": [
+                "leave",
+                "are leaving",
+                "will leave"
+            ],
+            "correct": 1,
+            "id": "c7950f2e02f84c7e9a32f105e93cb4d9"
+        },
+        {
+            "question": "If you pour oil on water, it ....................................",
+            "description": "In the zero conditional, we use a simple present tense in both clauses.",
+            "answers": [
+                "float",
+                "floats",
+                "would float"
+            ],
+            "correct": 1,
+            "id": "548ed1bcee68402cbda7b0785a5d116c"
+        },
+        {
+            "question": "We ..................................... in Mumbai for 15 years.",
+            "description": "We use the present perfect or present perfect continuous tense to talk about actions or situations that started in the past and has continued up to the present. ",
+            "answers": [
+                "have lived",
+                "have been living",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c0460661b5d94764871af7e37fd342af"
+        },
+        {
+            "question": "Did you ............................... him yesterday?",
+            "description": "We use the first form of the verb after do, does and did.",
+            "answers": [
+                "see",
+                "saw",
+                "seen"
+            ],
+            "correct": 0,
+            "id": "ef45bf7ccaf1465fa439c7c0030bbb83"
+        },
+        {
+            "question": "He might .............................. our offer.",
+            "description": "After the modals we use the infinitive without to.",
+            "answers": [
+                "reject",
+                "rejected",
+                "rejecting"
+            ],
+            "correct": 0,
+            "id": "31108377fa404a77a86dd09a5e6590ca"
+        }
+    ]
+}

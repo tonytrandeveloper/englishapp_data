@@ -1,0 +1,138 @@
+{
+    "id": "211cdc38c2854f148309893605d8b308",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "………………………… they live here?",
+            "description": "Have is followed by the past participle are is followed by an ing form do is followed by the infinitive without to.",
+            "answers": [
+                "Have",
+                "Do",
+                "Are"
+            ],
+            "correct": 1,
+            "id": "fdb273418540421aa4b7d9c9ffa9c8ee"
+        },
+        {
+            "question": "………………………… the door when you leave.",
+            "description": "The simple present is used in imperatives. ",
+            "answers": [
+                "Lock",
+                "Locking",
+                "Locks"
+            ],
+            "correct": 0,
+            "id": "140ce4239aea4687b7e71ac105def8d0"
+        },
+        {
+            "question": "I would rather you …………………………… talking to him.",
+            "description": "A simple past is used after would rather to refer to the present or future. ",
+            "answers": [
+                "stop",
+                "stopped",
+                "have stopped"
+            ],
+            "correct": 1,
+            "id": "cbc4da491abe4a89aba906a0e0b94334"
+        },
+        {
+            "question": "He asked if we ……………………………. our food.",
+            "description": "Present perfect becomes past perfect in the reported speech.",
+            "answers": [
+                "ate",
+                "have eaten",
+                "had eaten"
+            ],
+            "correct": 2,
+            "id": "c6ac6d0ef4114e868e15760e3834c1b0"
+        },
+        {
+            "question": "He ……………………….. care of his health.",
+            "description": "",
+            "answers": [
+                "does not take",
+                "do not take",
+                "is not take"
+            ],
+            "correct": 0,
+            "id": "af8bbd499de646629d97c7d8f83d49da"
+        },
+        {
+            "question": "Neither of these answers ………………………………. right.",
+            "description": "Use a singular verb after neither or either.",
+            "answers": [
+                "is",
+                "are",
+                "were"
+            ],
+            "correct": 0,
+            "id": "15fe13a376dc4187a8ecace3304752e1"
+        },
+        {
+            "question": "Marconi ………………………….. the radio.",
+            "description": "Use the simple past to simply say that something happened. ",
+            "answers": [
+                "has invented",
+                "invented",
+                "had invented"
+            ],
+            "correct": 1,
+            "id": "5f89ec3191984dd99c576b75e06a4bc9"
+        },
+        {
+            "question": "He asked if he …………………………….. home.",
+            "description": "",
+            "answers": [
+                "can go",
+                "could go",
+                "could to go"
+            ],
+            "correct": 1,
+            "id": "f656295cc18248f9b4d25a8968875b83"
+        },
+        {
+            "question": "He is used to …………………………… hard.",
+            "description": "The to in used to is a preposition. Use an ing form after a preposition.",
+            "answers": [
+                "work",
+                "working",
+                "worked"
+            ],
+            "correct": 1,
+            "id": "bcf0453ad8834fab85683bb6eafaccd5"
+        },
+        {
+            "question": "Iron …………………………… in many countries.",
+            "description": "Is found is the passive form of find. ",
+            "answers": [
+                "is found",
+                "has found",
+                "found"
+            ],
+            "correct": 0,
+            "id": "7e0c79b3299a437d8ae0a240a2f281f1"
+        },
+        {
+            "question": "While he was walking across the field, he ……………………………. by a snake.",
+            "description": "Was bitten is the passive form of bite.",
+            "answers": [
+                "bite",
+                "was bitten",
+                "bitten"
+            ],
+            "correct": 1,
+            "id": "3d9d85d38bb34f59aa3faa9af3df0be3"
+        },
+        {
+            "question": "She would rather starve than ………………………..",
+            "description": "",
+            "answers": [
+                "beg",
+                "to beg",
+                "begging"
+            ],
+            "correct": 0,
+            "id": "136410f853204890b81462fa449c5b70"
+        }
+    ]
+}

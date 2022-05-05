@@ -1,0 +1,397 @@
+{
+    "id": "8782ce32806e4ee480c20a49e75df919",
+    "title": "Past Continuous Positive and Negative",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was sleeping"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(sleep) at three o'clock."
+                }
+            ],
+            "id": "eaa813e9933840f7b0a53908920f1933"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were studying"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) at three o'clock."
+                }
+            ],
+            "id": "8f2424b53ae941cc9d3d013aa4d6b535"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Luke"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was reading"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(read) at three o'clock."
+                }
+            ],
+            "id": "c190ecd319f24809b24b6e099005d5fd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(work) at three o'clock."
+                }
+            ],
+            "id": "6f07f8408aaa4f288b5412bc59e98661"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were eating"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) chocolate at three o'clock."
+                }
+            ],
+            "id": "d51eebf80df640f39dbade4b8747f4cd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was playing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(play) tennis at three o'clock."
+                }
+            ],
+            "id": "34958e943acc4d1895cea77c9d42285a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were watching"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(watch) TV at three o'clock."
+                }
+            ],
+            "id": "ca02644142e446758dc10206198fd27b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was using"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(use) the internet at three o'clock."
+                }
+            ],
+            "id": "f61027fc39c647f79780fb612ed8a114"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were cooking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(cook) lunch at three o'clock."
+                }
+            ],
+            "id": "7d0d63fae57e43e6a327220eb70c5899"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were travelling",
+                        "were travelling"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(travel) to London at three o'clock."
+                }
+            ],
+            "id": "5fdd336a71a8461e982242c48738e525"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Mrs Brown"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wasn't walking",
+                        "was not walking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/walk) in the garden when the murder happened."
+                }
+            ],
+            "id": "5ac2bc1d341c4fb0b7c78bc19e6dcd7e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Mr Black"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wasn't working",
+                        "was not working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/work) in his study when the murder happened."
+                }
+            ],
+            "id": "94cc7abe3a9945f4b0f856fdda73b096"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Miss Jones"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wasn't talking",
+                        "was not talking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/talk) to Mr. White when the murder happened."
+                }
+            ],
+            "id": "fdd852f3a5824e918b968c9074206adb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "weren't playing",
+                        "were not playing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/play) cards when the murder happened."
+                }
+            ],
+            "id": "8dbaaf9486ae431e9eff09d95763b24a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Dr Ford"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wasn't reading",
+                        "was not reading"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/read) in his room when the murder happened."
+                }
+            ],
+            "id": "ae512de6372e4e92ae97468e87bd5be3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Mr. and Mrs. Green"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "weren't eating",
+                        "were not eating"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/eat) in the dining room when the murder happened."
+                }
+            ],
+            "id": "952519e38a3f4d97a67cc3e7b4748013"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Mr Blue"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wasn't drinking",
+                        "was not drinking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/drink) coffee in the library when the murder happened."
+                }
+            ],
+            "id": "ce29edad986c4482969e6b6d15dba682"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The maid"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wasn't cleaning",
+                        "was not cleaning"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/clean) the bedrooms when the murder happened."
+                }
+            ],
+            "id": "48ebba0ba982409d832b636588cbfde5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wasn't listening",
+                        "was not listening"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/listen) to music when the murder happened."
+                }
+            ],
+            "id": "c9a4550aaaa347a8be712ea22d76b82d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The dogs"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "weren't playing",
+                        "were not playing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/play) outside when the murder happened."
+                }
+            ],
+            "id": "df8fd54ddd7b4d698066a918d7579382"
+        }
+    ]
+}

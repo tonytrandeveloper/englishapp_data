@@ -1,0 +1,127 @@
+{
+    "id": "a1b25773aad04b8e80e7eb8700ee2c65",
+    "title": "Confusing Words Exercise",
+    "questions": [
+        {
+            "question": "I .............................. my cell phone yesterday.",
+            "description": "When you lose something, you are deprived of it.",
+            "answers": [
+                "missed",
+                "lost"
+            ],
+            "correct": 1,
+            "id": "e58502a3095245c69ad4e14a9b1eebe8"
+        },
+        {
+            "question": "At least 10 people ……………………. their lives in the accident.",
+            "description": "When you lose something, you suffer the loss of it.",
+            "answers": [
+                "lost",
+                "missed"
+            ],
+            "correct": 0,
+            "id": "31f4444d5536470785cd1e5838303ead"
+        },
+        {
+            "question": "I ................................ the flight because I overslept.",
+            "description": "When you miss something, you fail to access it.",
+            "answers": [
+                "lost",
+                "missed"
+            ],
+            "correct": 1,
+            "id": "8d20ff9d9675412592319775d28dddf6"
+        },
+        {
+            "question": "We played well yet we ……………………. the match.",
+            "description": "When you lose the game, you are defeated.",
+            "answers": [
+                "missed",
+                "lost"
+            ],
+            "correct": 1,
+            "id": "0e6df1047e3048a3b9803a3e46ead831"
+        },
+        {
+            "question": "The ……………………. climbers have been found.",
+            "description": "Missing climbers means lost climbers.",
+            "answers": [
+                "missing",
+                "losing"
+            ],
+            "correct": 0,
+            "id": "b5f36d7cbe534438bfb453129e31d5a9"
+        },
+        {
+            "question": "Although they searched the entire neighborhood, they couldn’t find the ……………………… cat.",
+            "description": "The missing cat is the lost cat. ",
+            "answers": [
+                "missing",
+                "lost",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "bf1d632ef1974e65935cd4a2fc385073"
+        },
+        {
+            "question": "The shooter ………………………. the target.",
+            "description": "Miss can mean fail to hit.",
+            "answers": [
+                "lost",
+                "missed"
+            ],
+            "correct": 1,
+            "id": "b2a22bb7580f4a528482f30804de6584"
+        },
+        {
+            "question": "I ………………………. the show because I couldn’t leave work on time.",
+            "description": "",
+            "answers": [
+                "missed",
+                "lost"
+            ],
+            "correct": 0,
+            "id": "bf958cf97e6048d2b91468200a2b665b"
+        },
+        {
+            "question": "I can't .................................. any more deadlines.",
+            "description": "Miss can mean fail to meet",
+            "answers": [
+                "miss",
+                "lose"
+            ],
+            "correct": 0,
+            "id": "be609d75693d4e879f579f9c18b5f9c2"
+        },
+        {
+            "question": "Although I lost the phone yesterday, I didn’t …………………….. it until this morning.",
+            "description": "Miss can mean notice the loss or absence of",
+            "answers": [
+                "lose",
+                "miss"
+            ],
+            "correct": 1,
+            "id": "ef8153b8002344f7b346ddfa62396aec"
+        },
+        {
+            "question": "Now that dad is away for work, I ……………………….. him badly.",
+            "description": "When you miss somebody you long for them.",
+            "answers": [
+                "miss",
+                "lose"
+            ],
+            "correct": 0,
+            "id": "b0e4f24f437a4165b4bd3c0b9ca0fc11"
+        },
+        {
+            "question": "We …………………….. the project because of some issues with the client.",
+            "description": "",
+            "answers": [
+                "missed",
+                "lost"
+            ],
+            "correct": 1,
+            "id": "5df2ff06d0c44b82aa01e50b17fd4b58"
+        }
+    ]
+}

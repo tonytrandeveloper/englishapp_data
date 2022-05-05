@@ -1,0 +1,138 @@
+{
+    "id": "b5494566fe424c5d86ddf2c6447bd6d4",
+    "title": "Prepositions Exercise",
+    "questions": [
+        {
+            "question": "I am waiting .......................... them.",
+            "description": "wait + for",
+            "answers": [
+                "of",
+                "for",
+                "to"
+            ],
+            "correct": 1,
+            "id": "072d01f49a634c44bb7d963479f6b5d4"
+        },
+        {
+            "question": "I don't think that he will agree .............................. our suggestion.",
+            "description": "",
+            "answers": [
+                "to",
+                "of",
+                "for"
+            ],
+            "correct": 0,
+            "id": "db945b7b640f4926a71163b729ac7687"
+        },
+        {
+            "question": "We can't bank .................................. them.",
+            "description": "",
+            "answers": [
+                "of",
+                "with",
+                "on"
+            ],
+            "correct": 2,
+            "id": "ddb49b64785c456ab860f583a8f30faf"
+        },
+        {
+            "question": "Whom does this bag belong ..............................?",
+            "description": "",
+            "answers": [
+                "for",
+                "of",
+                "to"
+            ],
+            "correct": 2,
+            "id": "14829983d35e47d1ba8fa8f3482ddb24"
+        },
+        {
+            "question": "We walked right ................................ the desert.",
+            "description": "Across is used to indicate movement in two dimensional spaces.",
+            "answers": [
+                "across",
+                "over",
+                "through"
+            ],
+            "correct": 0,
+            "id": "0338150af04e4cb59f3df165f0a84a21"
+        },
+        {
+            "question": "She complained ………………………….. pain in her abdomen.",
+            "description": "",
+            "answers": [
+                "about",
+                "of",
+                "from"
+            ],
+            "correct": 1,
+            "id": "2f0fa9279dfb4569acc3c703b702ca2f"
+        },
+        {
+            "question": "Dad was upset when I failed ........................... my test.",
+            "description": "fail + in",
+            "answers": [
+                "at",
+                "in",
+                "on"
+            ],
+            "correct": 1,
+            "id": "6f9ea9a1703740faacddb805316f38d9"
+        },
+        {
+            "question": "I lent my bicycle ……………………………. him and never saw it again.",
+            "description": "lent + direct object + to + indirect object",
+            "answers": [
+                "for",
+                "to",
+                "with"
+            ],
+            "correct": 1,
+            "id": "8fa0c21a68914fc3aabb74bca7bdcad4"
+        },
+        {
+            "question": "I haven't heard anything .............................. him.",
+            "description": "",
+            "answers": [
+                "from",
+                "on",
+                "with"
+            ],
+            "correct": 0,
+            "id": "1006d582fc3e4cfe933f72fac23a21e2"
+        },
+        {
+            "question": "He was robbed .............................. his belongings.",
+            "description": "",
+            "answers": [
+                "of",
+                "off",
+                "from"
+            ],
+            "correct": 0,
+            "id": "97cd34dbe0c44cfdb4d95a1b1e3b5d21"
+        },
+        {
+            "question": "I can't agree ............................ this argument.",
+            "description": "",
+            "answers": [
+                "with",
+                "at",
+                "on"
+            ],
+            "correct": 0,
+            "id": "9af986e9db414eb39699cd8760675e3e"
+        },
+        {
+            "question": "He is quite good .............................. drawing.",
+            "description": "We say good at.",
+            "answers": [
+                "at",
+                "with",
+                "in"
+            ],
+            "correct": 0,
+            "id": "8ae93117f21c49ee950612924c4bf970"
+        }
+    ]
+}

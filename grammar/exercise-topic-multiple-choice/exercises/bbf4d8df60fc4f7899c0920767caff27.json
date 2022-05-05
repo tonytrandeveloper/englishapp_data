@@ -1,0 +1,138 @@
+{
+    "id": "bbf4d8df60fc4f7899c0920767caff27",
+    "title": "Can, Could Or Be Able To",
+    "questions": [
+        {
+            "question": "This game ……………… be played by two people.",
+            "description": "Be able to is not normally used in passive structures.",
+            "answers": [
+                "can",
+                "be able to",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "83bedfdd33ff4e64be1223d27b7841e5"
+        },
+        {
+            "question": "How many mangoes ………………. get?",
+            "description": "We do not normally use could to say that somebody managed to do something on one occasion.",
+            "answers": [
+                "could you",
+                "were you able to",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "bc3aab6b10b84f2e95870f697490f5c2"
+        },
+        {
+            "question": "She …………… speak six languages.",
+            "description": "Be able to often has the same meaning as can.",
+            "answers": [
+                "can",
+                "is able to",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "d25094bbd6fa41f886ae98041cd44dcd"
+        },
+        {
+            "question": "Chennai …………….. be very warm in summer.",
+            "description": "We often use ‘can’ to say what is common or typical.",
+            "answers": [
+                "can",
+                "could",
+                "is able to"
+            ],
+            "correct": 0,
+            "id": "518b8607be3049ed8317712edeee79cf"
+        },
+        {
+            "question": "I ………………. so I didn’t go in for the race.",
+            "description": "",
+            "answers": [
+                "can't have won",
+                "was not able to win",
+                "couldn't have won"
+            ],
+            "correct": 2,
+            "id": "b16fd024c329473da36f09130f348cfb"
+        },
+        {
+            "question": "I …………….. the race if I tried.",
+            "description": "We can use could have + past participle to talk about hypothetical situations. ",
+            "answers": [
+                "can have won",
+                "could have won",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "f53c390ec9854e44a14f518120d4a05e"
+        },
+        {
+            "question": "I ………………… understand what you want.",
+            "description": "Be able to often has the same meaning as can.",
+            "answers": [
+                "can't",
+                "am unable to",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "a4fa5276004a4666a1579fcc5aa584ed"
+        },
+        {
+            "question": "One day, I ………………… afford a home and a car.",
+            "description": "Can is not grammatically possible in future tenses.",
+            "answers": [
+                "can",
+                "will can",
+                "will be able to"
+            ],
+            "correct": 2,
+            "id": "17ba260ae22343b7ade61648101e073f"
+        },
+        {
+            "question": "I might ……………….. come.",
+            "description": "Can and could are not possible after modal auxiliary verbs.",
+            "answers": [
+                "can",
+                "could",
+                "be able to"
+            ],
+            "correct": 2,
+            "id": "fbbae4296fea4ea19c18c1fdddefc74e"
+        },
+        {
+            "question": "War …………….. break out any day.",
+            "description": "",
+            "answers": [
+                "can",
+                "could",
+                "is able to"
+            ],
+            "correct": 1,
+            "id": "f49e553c7ef44234861882f4e43eee37"
+        },
+        {
+            "question": "……………… I ask you something if you are not too busy?",
+            "description": "",
+            "answers": [
+                "Can",
+                "Could",
+                "Am I able to"
+            ],
+            "correct": 1,
+            "id": "da062be58daf486a8c33c48494749b69"
+        },
+        {
+            "question": "You ………………. borrow my car if you asked.",
+            "description": "In the second conditional, we use a simple past tense in the if-clause and would / could + infinitive in the main clause.",
+            "answers": [
+                "can",
+                "could",
+                "were able to"
+            ],
+            "correct": 1,
+            "id": "e73b6189a3fa40b894494d78edd49e56"
+        }
+    ]
+}

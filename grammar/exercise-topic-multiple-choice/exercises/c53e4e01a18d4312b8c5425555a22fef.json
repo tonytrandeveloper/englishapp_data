@@ -1,0 +1,138 @@
+{
+    "id": "c53e4e01a18d4312b8c5425555a22fef",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "We often ……………………… to the cinema on Sundays.",
+            "description": "The simple present tense is used to talk about things that happen regularly.",
+            "answers": [
+                "go",
+                "are going",
+                "goes"
+            ],
+            "correct": 0,
+            "id": "2e49b6d5c2f64d9fa981aff82245957c"
+        },
+        {
+            "question": "He …………………………. a lot of TV.",
+            "description": "The simple present tense is used to talk about things that happen regularly.",
+            "answers": [
+                "is watching",
+                "watches",
+                "will watch"
+            ],
+            "correct": 1,
+            "id": "cf00844d43db4901890fc4ccaba9dc50"
+        },
+        {
+            "question": "I can’t come out – I …………………………. my homework.",
+            "description": "The present continuous is used to talk about things that are happening now.",
+            "answers": [
+                "do",
+                "am doing",
+                "have been doing"
+            ],
+            "correct": 1,
+            "id": "67adbfd1a8164083a78401b73bed3d77"
+        },
+        {
+            "question": "She ………………………….. with her parents now.",
+            "description": "The present continuous is used to talk about things that are happening now.",
+            "answers": [
+                "stays",
+                "is staying",
+                "has been staying"
+            ],
+            "correct": 1,
+            "id": "3b063b23a3d94d6295138fd9de7445e8"
+        },
+        {
+            "question": "She ……………………………. in Mumbai for six months.",
+            "description": "The present perfect continuous tense is used to talk about actions or situations that started in the past and has continued up to the present.",
+            "answers": [
+                "is working",
+                "works",
+                "has been working"
+            ],
+            "correct": 2,
+            "id": "1a063a2b9e5a4649bba19ff2dd76bbad"
+        },
+        {
+            "question": "I ………………………….. to New York next week.",
+            "description": "The present continuous is also used to talk about arrangements for future events.",
+            "answers": [
+                "fly",
+                "am flying",
+                "will fly"
+            ],
+            "correct": 1,
+            "id": "b6febf869ce844bc923ad18e231b2a4e"
+        },
+        {
+            "question": "I …………………………. Alice in the cafe.",
+            "description": "The simple past is used for single actions in the past.",
+            "answers": [
+                "met",
+                "have met",
+                "had met"
+            ],
+            "correct": 0,
+            "id": "ac9b1d6b453c430fb21dabecb10041ba"
+        },
+        {
+            "question": "When I was in Singapore, I often ………………………. lunch with her.",
+            "description": "The simple past is also used for repeated actions in the past.",
+            "answers": [
+                "have",
+                "had",
+                "would have"
+            ],
+            "correct": 1,
+            "id": "024f79df40b84ff0a096dc004a13a21e"
+        },
+        {
+            "question": "The family ………………………….. an outing at the beach last weekend.",
+            "description": "The simple past is used for single actions in the past.",
+            "answers": [
+                "enjoys",
+                "has enjoyed",
+                "enjoyed"
+            ],
+            "correct": 2,
+            "id": "951ba7ebfaca44e98ec73f1684fd09a4"
+        },
+        {
+            "question": "We ……………………………. in the kitchen when Dad came in.",
+            "description": "The past continuous is used to talk about actions or situations that were going on at a particular point of time in the past.",
+            "answers": [
+                "sat",
+                "are sitting",
+                "were sitting"
+            ],
+            "correct": 2,
+            "id": "65828b69457440e585c6fff8b931d475"
+        },
+        {
+            "question": "I ……………………………. you later.",
+            "description": "The simple future is used to talk about things in the future.",
+            "answers": [
+                "phone",
+                "will phone",
+                "would phone"
+            ],
+            "correct": 1,
+            "id": "d1bcf564530f4b1c9046a50680b2ac61"
+        },
+        {
+            "question": "She ………………………….. her plants as she does her children.",
+            "description": "",
+            "answers": [
+                "mothered",
+                "mothers",
+                "is mothering"
+            ],
+            "correct": 1,
+            "id": "cbaccab0a0234c83bf24e9d4eeff1dce"
+        }
+    ]
+}

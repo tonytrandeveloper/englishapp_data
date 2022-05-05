@@ -1,0 +1,196 @@
+{
+    "id": "6601cf0370a541b7b3efc8b28768b833",
+    "title": "Superlatives with The and No Article Exercise 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Everest is"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "the"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "highest mountain in the world."
+                }
+            ],
+            "id": "ee29c6bf6c084ea383421d0b3b688988"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who is"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "the"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "oldest person in your family?"
+                }
+            ],
+            "id": "79a2b02a91204683a4bf25682a3ea942"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This dress was"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "cheapest."
+                }
+            ],
+            "id": "164f563e56ce4de787503ffe0c718449"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Which language do you think is"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "easiest to learn."
+                }
+            ],
+            "id": "e43c0ecfbf104598819d01d617091c1e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This book is"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "the"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "most serious one on the topic."
+                }
+            ],
+            "id": "605f4c19308c4e50976c992e06e43b9d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I think that one over there is"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "the"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "strongest horse."
+                }
+            ],
+            "id": "04aa8dd11b5749b2ad1ea5f9521b6d13"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This film is"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "shortest."
+                }
+            ],
+            "id": "20408b11ae354e41b10df49bcdf5c6f1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She's"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "the"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "fastest runner in her school."
+                }
+            ],
+            "id": "7e8d2151b17648a7b057762c3bdb721a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That suitcase is"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "lightest."
+                }
+            ],
+            "id": "dc68c7f9325e44fe8d74393bddacf988"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Out of all the cities in Europe, London is"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "biggest."
+                }
+            ],
+            "id": "72d0f50000614ee3a310bf1dcce421ca"
+        }
+    ]
+}

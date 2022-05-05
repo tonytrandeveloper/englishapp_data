@@ -1,0 +1,115 @@
+{
+    "id": "9c83518ab59a476e9a315d0b3221c73f",
+    "title": "Sentence Agreement Exercise",
+    "questions": [
+        {
+            "question": "Two and two ………………… four.",
+            "description": "",
+            "answers": [
+                "is",
+                "are",
+                "Either is or are"
+            ],
+            "correct": 2,
+            "id": "a36247602e534b8398613e899a7ad37a"
+        },
+        {
+            "question": "Nobody was late, …………………… .. they?",
+            "description": "",
+            "answers": [
+                "was",
+                "were",
+                "did"
+            ],
+            "correct": 1,
+            "id": "e2d1f3a3cf1d472fa004f1dc661e0e89"
+        },
+        {
+            "question": "A serious problem in our garden ………………… .. wasps.",
+            "description": "",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "a8f6725ccda146c3a7be746d71168ae7"
+        },
+        {
+            "question": "Nobody except his best friends …………………… .. him.",
+            "description": "",
+            "answers": [
+                "like",
+                "likes",
+                "is liking",
+                "are liking"
+            ],
+            "correct": 1,
+            "id": "d09a5bc67ef74290acbd114f9cb8b362"
+        },
+        {
+            "question": "My baggage ……………………… sent to Paris by mistake.",
+            "description": "",
+            "answers": [
+                "have been",
+                "has been",
+                "were",
+                "had"
+            ],
+            "correct": 1,
+            "id": "8dfda6ad78c2466fa782789bd12aeea2"
+        },
+        {
+            "question": "Romeo and Juliet …………………… one of Shakespeare’s most popular plays.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "7e90dc8c15b74f1bbd140f6cb70efe43"
+        },
+        {
+            "question": "The Prime Minister, as well as some of his Cabinet Ministers, ……………………… in opening up the economy.",
+            "description": "",
+            "answers": [
+                "believe",
+                "believes",
+                "is believing"
+            ],
+            "correct": 1,
+            "id": "f5b1118017fc46009f08ac50d91e6872"
+        },
+        {
+            "question": "Your ……………………… pretty.",
+            "description": "",
+            "answers": [
+                "hair is",
+                "hair are",
+                "hairs are"
+            ],
+            "correct": 0,
+            "id": "db1e7b1b03a747ae911bbec15b8de9f0"
+        },
+        {
+            "question": "A number of people ………………… trying to immigrate.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "9479a7237f944950a03a5dffb1c4586d"
+        },
+        {
+            "question": "A group of us …………………. going on holiday next week.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "eafd45bc06864d5e9dc064af0a793e28"
+        }
+    ]
+}

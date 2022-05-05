@@ -1,0 +1,130 @@
+{
+    "id": "eca99e3edb1d4dd3b285c2473a97b265",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "He ................................. his work with diligence.",
+            "description": "",
+            "answers": [
+                "does",
+                "do"
+            ],
+            "correct": 0,
+            "id": "3e08f80d27444475ab2901f2263b724f"
+        },
+        {
+            "question": "I .................................... his instructions.",
+            "description": "",
+            "answers": [
+                "follow",
+                "follows"
+            ],
+            "correct": 0,
+            "id": "eaa51ced753d4297967f155202895b79"
+        },
+        {
+            "question": "This ......................................... interesting.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "0cef7548fc144b42b9f2ee41d7fe23db"
+        },
+        {
+            "question": "I .................................... allow this to happen.",
+            "description": "",
+            "answers": [
+                "not",
+                "did not",
+                "not did"
+            ],
+            "correct": 1,
+            "id": "54ab9c989b11489b8ee7d9403b6d72d0"
+        },
+        {
+            "question": "My trip to the USA ..................................... successful.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "feb039f977a542edbfecb51b15901326"
+        },
+        {
+            "question": "He will be ........................................ very hard.",
+            "description": "",
+            "answers": [
+                "worked",
+                "working"
+            ],
+            "correct": 1,
+            "id": "edb117c4237d469d90fdab2278362bc5"
+        },
+        {
+            "question": "I have never ........................................ any demand.",
+            "description": "",
+            "answers": [
+                "raised",
+                "raising"
+            ],
+            "correct": 0,
+            "id": "81ff3e33d0a74e7e85633272a2efe4bc"
+        },
+        {
+            "question": "He ........................................ out of the room without looking at anybody.",
+            "description": "",
+            "answers": [
+                "walk",
+                "will walk"
+            ],
+            "correct": 1,
+            "id": "548d58fe73ec4e318909885cd0028d6b"
+        },
+        {
+            "question": "He had been ............................................. at the top of his voice.",
+            "description": "",
+            "answers": [
+                "crying",
+                "cried"
+            ],
+            "correct": 0,
+            "id": "f8e423b12ffc43fe9a6dc9af2e96b3ea"
+        },
+        {
+            "question": "Great deeds ........................................... never done by small men.",
+            "description": "",
+            "answers": [
+                "is",
+                "are",
+                "have"
+            ],
+            "correct": 1,
+            "id": "2974dab56db54dedb27fe6e480a6c9d5"
+        },
+        {
+            "question": "I ......................................... never betray my country.",
+            "description": "",
+            "answers": [
+                "am",
+                "do",
+                "will"
+            ],
+            "correct": 2,
+            "id": "9b2dff57de2947c88233783777931e05"
+        },
+        {
+            "question": "John ..................................... his leg.",
+            "description": "",
+            "answers": [
+                "has breaking",
+                "has broken",
+                "have broken"
+            ],
+            "correct": 1,
+            "id": "611a04ba77324be782f12f0ddfcc9e62"
+        }
+    ]
+}

@@ -1,0 +1,396 @@
+{
+    "id": "39374f2a2ba84eb29d0c87ab8af60638",
+    "title": "Past Simple Positive and Negative with 'be'",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) cold yesterday."
+                }
+            ],
+            "id": "cebac56509d740fb9c8f4262714c61b2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) hungry."
+                }
+            ],
+            "id": "ec22922c8fd34046b305aa26333df07f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) late for the meeting."
+                }
+            ],
+            "id": "60862e84588b433393d4165d4a705247"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) tired last night."
+                }
+            ],
+            "id": "559ad4ae26754f90b7fa125683eb3316"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The exam"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) difficult."
+                }
+            ],
+            "id": "dff6ee88033e414da56a91761898e516"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in Berlin."
+                }
+            ],
+            "id": "bbfa34cfb2494e43bf189528b2a9e5cf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in the library when I called you."
+                }
+            ],
+            "id": "64c35c62a2e74c66aac3c17cec723218"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The holiday"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) fun."
+                }
+            ],
+            "id": "6ef99a1e325e4fb9bce98559593b7a27"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) early for the interview."
+                }
+            ],
+            "id": "fddf291bf62747e786fe844191267fa0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The people we met last night"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "were"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) French."
+                }
+            ],
+            "id": "cea80e75c66541918eebc83822895850"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That woman"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wasn't",
+                        "was not"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) Spanish."
+                }
+            ],
+            "id": "675015e0a17a496a8e4239756e4f459b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wasn't",
+                        "was not"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) late for the class."
+                }
+            ],
+            "id": "d5bf7f0e995d4e3690585005f97189ab"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The food"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wasn't",
+                        "was not"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) very good."
+                }
+            ],
+            "id": "40bbd4321450427c80c71b03de73b9aa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "weren't",
+                        "were not"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) my uncle and aunt."
+                }
+            ],
+            "id": "e56d2339622140bc947d39f5031d202c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wasn't",
+                        "was not"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) rude to the waitress."
+                }
+            ],
+            "id": "80d14298cef7490fa540ff582033d17c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The test"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wasn't",
+                        "was not"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) easy."
+                }
+            ],
+            "id": "786d1f3ad731488288ed0744f140b357"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "weren't",
+                        "were not"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) tired when we arrived."
+                }
+            ],
+            "id": "e7c26e803e224ba78504dab34932b7b8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "weren't",
+                        "were not"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) on the bus when I called."
+                }
+            ],
+            "id": "7b74136a02ab45f49875f1ddd7a2aca9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "weren't",
+                        "were not"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) here when she came."
+                }
+            ],
+            "id": "1cd42872b0884e5f9b7ae68c3baa5328"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wasn't",
+                        "was not"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) my boyfriend."
+                }
+            ],
+            "id": "5eba783aabc74991b86d128fe213e6aa"
+        }
+    ]
+}

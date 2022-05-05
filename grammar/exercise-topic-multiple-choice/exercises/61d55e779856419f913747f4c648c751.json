@@ -1,0 +1,134 @@
+{
+    "id": "61d55e779856419f913747f4c648c751",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "He stayed here for ……………………… days.",
+            "description": "A few refers to a small number. Few means almost none.",
+            "answers": [
+                "few",
+                "a few"
+            ],
+            "correct": 1,
+            "id": "71a5e45ef3b54da3b900ea1e0cbf5411"
+        },
+        {
+            "question": "He is taller than ………………………… of his four brothers.",
+            "description": "We use all to talk about more than two.",
+            "answers": [
+                "either",
+                "both",
+                "all"
+            ],
+            "correct": 2,
+            "id": "2933603171e54c8b945ecbddf7771999"
+        },
+        {
+            "question": "Hindi is …………………….. difficult than Chinese.",
+            "description": "Less is the comparative form of little. ",
+            "answers": [
+                "little",
+                "less",
+                "lesser"
+            ],
+            "correct": 1,
+            "id": "e058f2f8569e48348ab3184caeb87da6"
+        },
+        {
+            "question": "Sam is ……………………. than Mary.",
+            "description": "Elder and eldest can only be used before a noun. ",
+            "answers": [
+                "older",
+                "elder",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ff5c029f18b04495a660732273ce98e7"
+        },
+        {
+            "question": "There aren’t ……………………… people who can afford to buy a yacht.",
+            "description": "Use many with plural nouns much with uncountable nouns.",
+            "answers": [
+                "many",
+                "much",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "bf93c29bdda640e781de3c330e09e594"
+        },
+        {
+            "question": "……………………… money was wasted on the project.",
+            "description": "Use much before an uncountable noun. ",
+            "answers": [
+                "Much",
+                "Many"
+            ],
+            "correct": 0,
+            "id": "3cae11f6fd074082a0290112cda1c141"
+        },
+        {
+            "question": "This is ……………………… book on World War II.",
+            "description": "Use the with superlative adjectives. ",
+            "answers": [
+                "best",
+                "the best"
+            ],
+            "correct": 1,
+            "id": "d9fa06eeeace44eabfc830a33e702b60"
+        },
+        {
+            "question": "A donkey is …………………………. than a horse.",
+            "description": "",
+            "answers": [
+                "usefuller",
+                "more useful",
+                "useful"
+            ],
+            "correct": 1,
+            "id": "390f919ef3174a1a845f10e50ac9b442"
+        },
+        {
+            "question": "I prefer tea ……………………… coffee.",
+            "description": "",
+            "answers": [
+                "to",
+                "with",
+                "for"
+            ],
+            "correct": 0,
+            "id": "347b311bb0a04b37a42eaaf3ed7f831b"
+        },
+        {
+            "question": "He is …………………………of the two.",
+            "description": "We use the comparative form to talk of two people or things.",
+            "answers": [
+                "cleverer",
+                "the cleverer",
+                "the cleverest"
+            ],
+            "correct": 1,
+            "id": "329a18cfa7a74511ae01f55641a3ee69"
+        },
+        {
+            "question": "We have never seen …………………….. a good boy.",
+            "description": "Such is used before a noun or adjective + noun. ",
+            "answers": [
+                "so",
+                "such"
+            ],
+            "correct": 1,
+            "id": "72a45eb855d14bf99a25606e6d31974f"
+        },
+        {
+            "question": "The children performed really …………………………",
+            "description": "Well is an adverb and good is an adjective. ",
+            "answers": [
+                "well",
+                "good",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "8e6da07472534d4d9bcece60a7d7e2e6"
+        }
+    ]
+}

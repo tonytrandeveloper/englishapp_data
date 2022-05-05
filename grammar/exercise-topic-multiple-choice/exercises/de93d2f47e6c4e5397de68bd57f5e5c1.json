@@ -1,0 +1,93 @@
+{
+    "id": "de93d2f47e6c4e5397de68bd57f5e5c1",
+    "title": "Would Rather, Had Better | Exercise",
+    "questions": [
+        {
+            "question": "I would rather you ……………… home now.",
+            "description": "",
+            "answers": [
+                "go",
+                "went",
+                "have gone"
+            ],
+            "correct": 1,
+            "id": "818ef2e342834495af8438c5870b881c"
+        },
+        {
+            "question": "I would rather you ……………… invite John to our party.",
+            "description": "",
+            "answers": [
+                "haven't",
+                "don't",
+                "didn't"
+            ],
+            "correct": 2,
+            "id": "1ab4feff70094283833c05be6bc6a98a"
+        },
+        {
+            "question": "I wish I …………….. to work on Saturdays.",
+            "description": "",
+            "answers": [
+                "haven't",
+                "hadn't",
+                "didn't have"
+            ],
+            "correct": 2,
+            "id": "492ba08e9afb445ab90a3b3206eb143b"
+        },
+        {
+            "question": "You had better ………….. his permission if you don’t want to get into trouble.",
+            "description": "",
+            "answers": [
+                "ask",
+                "to ask",
+                "asked"
+            ],
+            "correct": 0,
+            "id": "be36738a7896479ba820d42e75eeed60"
+        },
+        {
+            "question": "After the way he behaved at the party, I wish I ……………….. him.",
+            "description": "",
+            "answers": [
+                "didn't invite",
+                "hadn't invited",
+                "wouldn't"
+            ],
+            "correct": 1,
+            "id": "7ab23276bcea4cc098762cf88ac82e68"
+        },
+        {
+            "question": "I’d rather ……………… at the weekend.",
+            "description": "",
+            "answers": [
+                "not work",
+                "not to work",
+                "work not",
+                "to not work"
+            ],
+            "correct": 0,
+            "id": "2e08eae1c5704ff684814aff83626b8c"
+        },
+        {
+            "question": "Check your bag. You had better ………………. your tickets again.",
+            "description": "",
+            "answers": [
+                "not to forget",
+                "not forget"
+            ],
+            "correct": 1,
+            "id": "56da5f4bada44159abc46bfce275e21d"
+        },
+        {
+            "question": "We had better ……………. time.",
+            "description": "",
+            "answers": [
+                "not waste",
+                "not to waste"
+            ],
+            "correct": 0,
+            "id": "9bb77bbda5814c4988fcc2790c7506ab"
+        }
+    ]
+}

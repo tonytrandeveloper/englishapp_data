@@ -1,0 +1,132 @@
+{
+    "id": "6c4b26e070ae488f82f3a0686a5e0f13",
+    "title": "Grammar And Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "The travellers rested under a …………………….. of trees.",
+            "description": "",
+            "answers": [
+                "choir",
+                "clump",
+                "clan"
+            ],
+            "correct": 1,
+            "id": "51011b4ec55e49e285861a3847fc9000"
+        },
+        {
+            "question": "While taking a stroll in my garden, I was attacked by a ………………………… of bees.",
+            "description": "",
+            "answers": [
+                "swarm",
+                "group",
+                "cluster"
+            ],
+            "correct": 0,
+            "id": "b7e3c4996beb4c1183f9b0f1efe6c198"
+        },
+        {
+            "question": "What will you do if you find an abandoned ………………………….. of kittens?",
+            "description": "",
+            "answers": [
+                "troupe",
+                "litter",
+                "band"
+            ],
+            "correct": 1,
+            "id": "c3bbbc70b3a64131a30e9649e40828df"
+        },
+        {
+            "question": "Each of these novels ……………………… worth reading.",
+            "description": "Use a singular verb after each.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "b4f8f162790c4194b7e35bdb7529d34e"
+        },
+        {
+            "question": "The children were accompanied …………………….. their mother.",
+            "description": "",
+            "answers": [
+                "of",
+                "by",
+                "with"
+            ],
+            "correct": 1,
+            "id": "517f659041da4351986f45cb74605a65"
+        },
+        {
+            "question": "I found ……………………….. empty bottle floating on the water.",
+            "description": "",
+            "answers": [
+                "an",
+                "a"
+            ],
+            "correct": 0,
+            "id": "093e5cd22f2748f0b2b83fe53e9c259f"
+        },
+        {
+            "question": "He, as well as I, ……………………….. great interest in politics.",
+            "description": "When we connect two nouns with as well as, the verb agrees with the former. ",
+            "answers": [
+                "have",
+                "has"
+            ],
+            "correct": 1,
+            "id": "ea2b9912a31442ae946ead7cf8cdf3d6"
+        },
+        {
+            "question": "The minister unlike his sons ……………………… honest.",
+            "description": "Here the subject is the singular noun minister.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "5f5f856745b241ebb401c4014da30af5"
+        },
+        {
+            "question": "Close the door. Change into passive",
+            "description": "",
+            "answers": [
+                "Door be closed.",
+                "Be the door closed.",
+                "Let the door be closed."
+            ],
+            "correct": 2,
+            "id": "05c7af6c9ceb4a7fa933a95b821aa611"
+        },
+        {
+            "question": "Either you or your brother ……………………….. to clean the room.",
+            "description": "When two singular nouns are connected with either/or, the verb agrees with the latter.",
+            "answers": [
+                "have",
+                "has"
+            ],
+            "correct": 1,
+            "id": "4cc47ab62fe84341afc4d055c00f8c4e"
+        },
+        {
+            "question": "Neither my brother nor my sisters ……………………. married.",
+            "description": "When two singular nouns are connected with either/or, the verb agrees with the latter.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "4905434f602046bf8a91a003f6704c88"
+        },
+        {
+            "question": "What is the female of fox …………………..",
+            "description": "",
+            "answers": [
+                "Foxen",
+                "Foxess",
+                "Vixen"
+            ],
+            "correct": 2,
+            "id": "2abbe23c748e495a8aff0f4020e03409"
+        }
+    ]
+}

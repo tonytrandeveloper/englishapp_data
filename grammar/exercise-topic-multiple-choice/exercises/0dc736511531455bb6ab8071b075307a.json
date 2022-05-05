@@ -1,0 +1,126 @@
+{
+    "id": "0dc736511531455bb6ab8071b075307a",
+    "title": "Gap Filling Exercise",
+    "questions": [
+        {
+            "question": "'I haven't turned in the assignment ‘………………………….. have I.’",
+            "description": "After a negative remark, we can add another negative remark to it with neither or nor. ",
+            "answers": [
+                "So",
+                "Neither",
+                "Nor"
+            ],
+            "correct": 1,
+            "id": "3bd8f52fcc2c4cdabd86aec40f0eb76f"
+        },
+        {
+            "question": "She is ........................... cute.",
+            "description": "We do not use so much to modify adjectives and adverbs.",
+            "answers": [
+                "very",
+                "so",
+                "so much"
+            ],
+            "correct": 1,
+            "id": "b9ac6af8de2849aca62b9d32d477cbd1"
+        },
+        {
+            "question": "She worked hard so that she ................................. more.",
+            "description": "",
+            "answers": [
+                "will earn",
+                "might earn",
+                "can earn"
+            ],
+            "correct": 1,
+            "id": "060ca19b1a9841c1b4684170690a317c"
+        },
+        {
+            "question": "I waited for ........................... two hours and then I went home.",
+            "description": "We can use another with plural expressions of quantity.",
+            "answers": [
+                "an other",
+                "another",
+                "other"
+            ],
+            "correct": 1,
+            "id": "c71c0c5e185d45808a0ce18a13198375"
+        },
+        {
+            "question": "I call my mother ..............................",
+            "description": "Everyday means ordinary or typical. Every day means each day.",
+            "answers": [
+                "everyday",
+                "every day",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "bbe69a7c0bcf4ac4ac2b4d99fe5aed25"
+        },
+        {
+            "question": "My ………………………………  too heavy.",
+            "description": "Luggage does not have a plural form.",
+            "answers": [
+                "luggage is",
+                "luggage are",
+                "luggages are"
+            ],
+            "correct": 0,
+            "id": "45cda7558a77498b967cac240eaa399e"
+        },
+        {
+            "question": "Either Sam or Peter .............................. to bring the violin.",
+            "description": "Use a singular verb when two singular nouns are connected by either/or. ",
+            "answers": [
+                "have",
+                "has",
+                "does"
+            ],
+            "correct": 1,
+            "id": "12c46933069440438e5cc388de6f67e7"
+        },
+        {
+            "question": "I would rather you .................................... talking to her.",
+            "description": "Use a past tense after would rather to refer to the future. ",
+            "answers": [
+                "stop",
+                "stopped",
+                "will stop"
+            ],
+            "correct": 1,
+            "id": "f217f20040324e3b98960d9d8c93a179"
+        },
+        {
+            "question": "At least 10 people ................................... in the explosion.",
+            "description": "A passive verb is required here. ",
+            "answers": [
+                "have killed",
+                "had killed",
+                "have been killed"
+            ],
+            "correct": 2,
+            "id": "f2708c62f0ca400fbeca7dfa1058edb3"
+        },
+        {
+            "question": "A number of people .................................. to migrate.",
+            "description": "Use a plural verb after a number of use the simple present to talk about facts. ",
+            "answers": [
+                "want",
+                "wants",
+                "are wanting"
+            ],
+            "correct": 0,
+            "id": "7be42a8d24ad4d848d5077191e4228ed"
+        },
+        {
+            "question": "The number of people who want to migrate ................................. on the rise.",
+            "description": "Use a singular verb after the number of.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "06346273ee0b4758b1ad2e04f658854e"
+        }
+    ]
+}

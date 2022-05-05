@@ -1,0 +1,126 @@
+{
+    "id": "a0fde8ee40234fbe97c87cc60f6de8ed",
+    "title": "Will vs. Would",
+    "questions": [
+        {
+            "question": "I .......................... accept that job if they offer a good salary.",
+            "description": "When the verb in the if-clause is in the simple present tense, we use will + first form of the verb in the main clause.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "6c2caaa46862408ab0b578b01d66ff17"
+        },
+        {
+            "question": "....................................... you like to join us?",
+            "description": "We use would in polite offers.",
+            "answers": [
+                "Would",
+                "Will"
+            ],
+            "correct": 0,
+            "id": "da1b7fe245824f5c98ea8cc626a884a9"
+        },
+        {
+            "question": "I promise, I ................................. not lie again.",
+            "description": "Will is used in promises.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "0622f17acccc442c8e44aa485ea67000"
+        },
+        {
+            "question": "'There is someone at the door.' 'I ............................. go.'",
+            "description": "Will is used to announce decisions that we make at the time of speaking.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "82cd5417d0544a39b1980b1aef914bde"
+        },
+        {
+            "question": "I didn't expect that she ……………………. do this to me.",
+            "description": "When the main verb is in the past tense, we use would in the subordinate clause.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "f0f5d080f7094add81a6a4f2a73ed87c"
+        },
+        {
+            "question": "If she ran faster, she ……………………. win.",
+            "description": "When the verb in the if-clause is in the simple past tense, we use would + first form of the verb in the main clause.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "c3e3b3f003d24fc08697157d0a808b8d"
+        },
+        {
+            "question": "I ……………………… wait until you come.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "74227a9656e94950909d62e02a81e888"
+        },
+        {
+            "question": "I .................................. get up early if there is a good reason to.",
+            "description": "When the verb in the if-clause is in the simple present tense, we use will + first form of the verb in the main clause.",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "c4e77b8e98244b2f80cee1415560770a"
+        },
+        {
+            "question": "Do you think she .................................... come if we invited her?",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 1,
+            "id": "a7ac4adae84548caa87f229f5a06e6ec"
+        },
+        {
+            "question": "1o. I don't know whether or not I ……………………… pass the test.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "e8af5688240c442394466d7d18e3190e"
+        },
+        {
+            "question": "I ............................. inform you when I have more details.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "cf60870ec4f34fc195094276c7ca8b4a"
+        },
+        {
+            "question": "It is no use calling them now. They ………………………. have left.",
+            "description": "",
+            "answers": [
+                "will",
+                "would"
+            ],
+            "correct": 0,
+            "id": "878293246153450e990f639719ce05cc"
+        }
+    ]
+}

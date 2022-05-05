@@ -1,0 +1,105 @@
+{
+    "id": "3a1ae5893fd24285896ea8ce7e5796f5",
+    "title": "Past Continuous Tense Exercise",
+    "questions": [
+        {
+            "question": "I …………………….. TV at eight o’clock yesterday evening.",
+            "description": "",
+            "answers": [
+                "am watching",
+                "was watching",
+                "watched"
+            ],
+            "correct": 0,
+            "id": "610944048da14cc3bcdb730b5cd51aa7"
+        },
+        {
+            "question": "I …………………… all day yesterday.",
+            "description": "",
+            "answers": [
+                "painted",
+                "was painting",
+                "have painted"
+            ],
+            "correct": 1,
+            "id": "6fddcb1bc1b043b7bb4e53f6c96592d2"
+        },
+        {
+            "question": "They ………………………… the whole time they were together.",
+            "description": "",
+            "answers": [
+                "quarreled",
+                "are quarreling",
+                "were quarreling"
+            ],
+            "correct": 2,
+            "id": "6b408b1195c649f4b74034b630bfc26f"
+        },
+        {
+            "question": "As I …………………….. down the road, I saw Philip.",
+            "description": "",
+            "answers": [
+                "am walking",
+                "walked",
+                "was walking"
+            ],
+            "correct": 2,
+            "id": "09b4526750ac497aa6fa848568fcb7ad"
+        },
+        {
+            "question": "The phone rang while I …………………………. dinner.",
+            "description": "",
+            "answers": [
+                "am having",
+                "had",
+                "was having"
+            ],
+            "correct": 2,
+            "id": "2c490931797e44e3811f79c90c56d3cb"
+        },
+        {
+            "question": "It happened while I ……………………….. in Southampton last year.",
+            "description": "",
+            "answers": [
+                "lived",
+                "was living",
+                "am living"
+            ],
+            "correct": 1,
+            "id": "0072210e152042b1a3e4373c109601fd"
+        },
+        {
+            "question": "When I entered her room, she ………………………. the piano.",
+            "description": "",
+            "answers": [
+                "played",
+                "playing",
+                "was playing"
+            ],
+            "correct": 2,
+            "id": "80074ba9a8ef4c228497e1c44c0cf5f1"
+        },
+        {
+            "question": "When I got up this morning, the sun ………………………….",
+            "description": "",
+            "answers": [
+                "shining",
+                "was shining",
+                "is shining"
+            ],
+            "correct": 1,
+            "id": "ad6e67e34a6249d7bff9d4714c636ff0"
+        },
+        {
+            "question": "At the time when it happened, I ……………………… to the opera a lot.",
+            "description": "",
+            "answers": [
+                "went",
+                "was going",
+                "am going"
+            ],
+            "correct": 1,
+            "id": "e8088f340b8f44e6b78c030756985082"
+        }
+    ]
+}

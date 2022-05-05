@@ -1,0 +1,135 @@
+{
+    "id": "cfce83106d7f4eebada21bfeb9b165bd",
+    "title": "Articles Exercise",
+    "questions": [
+        {
+            "question": "Is there ……………………. supermarket near your house?",
+            "description": "A is similar to any",
+            "answers": [
+                "a",
+                "an",
+                "the"
+            ],
+            "correct": 0,
+            "id": "aa3fc96beb744768b892df1969e6b8c9"
+        },
+        {
+            "question": "…………………………. unemployed are losing hope.",
+            "description": "The unemployed means all unemployed people.",
+            "answers": [
+                "The",
+                "An"
+            ],
+            "correct": 0,
+            "id": "94a17614d8b2452a87008b3f078e65dc"
+        },
+        {
+            "question": "………………………… cousin of mine is ………………………… sailor.",
+            "description": "A is similar to one. ",
+            "answers": [
+                "A, a",
+                "The, a",
+                "The, the"
+            ],
+            "correct": 0,
+            "id": "1e99f72a10154a9b8aeef1739f2694ea"
+        },
+        {
+            "question": "Sam is …………………………. brother of Mary.",
+            "description": "We use the to talk about particular people, things or places. A is similar to one. ",
+            "answers": [
+                "a",
+                "the"
+            ],
+            "correct": 1,
+            "id": "717128b4980c49bcaae82f91e6ebd6fe"
+        },
+        {
+            "question": "…………………………. lion is ……………………. king of beasts.",
+            "description": "The is used to generalize things.",
+            "answers": [
+                "The, the",
+                "A, the",
+                "A, a"
+            ],
+            "correct": 0,
+            "id": "bca9d7187cd949a393bfdb096bdc1e65"
+        },
+        {
+            "question": "………………………… rich must help ……………………. poor",
+            "description": "The rich means all rich people.",
+            "answers": [
+                "A, a",
+                "The, a",
+                "The, the"
+            ],
+            "correct": 2,
+            "id": "9c31dd3dfdae4320800979e4dc28883a"
+        },
+        {
+            "question": "Can I have ………………………. copy of this book?",
+            "description": "A copy means one copy.",
+            "answers": [
+                "the",
+                "a"
+            ],
+            "correct": 1,
+            "id": "090f06cc90bb47dd8e40dabe3572156e"
+        },
+        {
+            "question": "Yesterday I received …………………………. letter from ………………………. old friend.",
+            "description": "",
+            "answers": [
+                "the, an",
+                "a, an",
+                "a, the"
+            ],
+            "correct": 1,
+            "id": "34762f0ff02b452e8d5de60c85b42c65"
+        },
+        {
+            "question": "My sister wants to be …………………………… architect.",
+            "description": "Use an before vowel sounds.",
+            "answers": [
+                "the",
+                "a",
+                "an"
+            ],
+            "correct": 2,
+            "id": "a5963008010e480999afff66739258c6"
+        },
+        {
+            "question": "I have ………………………….. cousin who wants to be ………………………… singer.",
+            "description": "",
+            "answers": [
+                "a, a",
+                "the, the",
+                "the, a"
+            ],
+            "correct": 0,
+            "id": "8cde62fa2cc842d0ad5445ed68c2137a"
+        },
+        {
+            "question": "She is married to …………………….. eminent doctor.",
+            "description": "Use an before vowel sounds.",
+            "answers": [
+                "a",
+                "the",
+                "an"
+            ],
+            "correct": 2,
+            "id": "2e6ab885423b4a2d8567829abe7649c2"
+        },
+        {
+            "question": "……………………….. girl I met in the store was very pretty.",
+            "description": "Use the to talk about particular people or things.",
+            "answers": [
+                "A",
+                "The",
+                "An"
+            ],
+            "correct": 1,
+            "id": "584ae3f8b5ea4ad28d6729132750eac6"
+        }
+    ]
+}

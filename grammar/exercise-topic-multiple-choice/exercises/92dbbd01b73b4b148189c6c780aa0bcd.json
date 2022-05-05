@@ -1,0 +1,139 @@
+{
+    "id": "92dbbd01b73b4b148189c6c780aa0bcd",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "………………………. up, the thief ran away.",
+            "description": "When we split the clauses we get:\r\nThe thief jumped up. He ran away. We can connect them with the present participle jumping.\r\n",
+            "answers": [
+                "Jumped",
+                "Jumping",
+                "Having jumping"
+            ],
+            "correct": 1,
+            "id": "f875299d4d064ac191acc5640b4bac5c"
+        },
+        {
+            "question": "………………………… he sat down to rest.",
+            "description": "When we split the clauses we get:\r\nHe was tired. He sat down to rest.\r\nWe can combine them using being tired.\r\n",
+            "answers": [
+                "Tiring",
+                "Having tired",
+                "Being tired"
+            ],
+            "correct": 2,
+            "id": "ff38e69ab3c64343841a4dfa3209b0ca"
+        },
+        {
+            "question": "William I defeated Harold …………………… was the successor of Edward the Confessor in",
+            "description": "We use who to refer to people. ",
+            "answers": [
+                "who",
+                "whom",
+                "that",
+                "which"
+            ],
+            "correct": 0,
+            "id": "8dd25cae4cc94a3c9cf57d9e3341d656"
+        },
+        {
+            "question": "This town ……………………….. was once a prosperous sea-port is now a heap of ruins.",
+            "description": "We use which to refer to places and things.",
+            "answers": [
+                "what",
+                "which",
+                "who"
+            ],
+            "correct": 1,
+            "id": "a2c7b800b238402d8d7c1c8758b412a7"
+        },
+        {
+            "question": "The young woman fainted ………………….. hearing the news of her husband’s death.",
+            "description": "",
+            "answers": [
+                "at",
+                "on",
+                "with"
+            ],
+            "correct": 1,
+            "id": "42e92f8eb5bb4fd5be6b5b4a6d729f1f"
+        },
+        {
+            "question": "The police ………………………, the mob dispersed.",
+            "description": "The two clauses are:\r\nThe police arrived. The mob dispersed. Here the clauses have different subjects. We can connect them using ‘having arrived’.\r\n",
+            "answers": [
+                "arriving",
+                "arrived",
+                "having arrived"
+            ],
+            "correct": 2,
+            "id": "e9d36680e78e4846aa0daafa4e7e5b4f"
+        },
+        {
+            "question": "………………………… his foot, he stopped.",
+            "description": "He hurt his foot. He stopped. We can combine them using 'having hurt'.",
+            "answers": [
+                "Being hurt",
+                "Having hurt",
+                "Hurt"
+            ],
+            "correct": 1,
+            "id": "32e4dfa730d9480ba10ff6bedbbe4aea"
+        },
+        {
+            "question": "The cow provides milk ………………………… is a nutritious food.",
+            "description": "We use which to refer to things.",
+            "answers": [
+                "which",
+                "what",
+                "who"
+            ],
+            "correct": 0,
+            "id": "69833b932e944698b04d066647ad04db"
+        },
+        {
+            "question": "His uncle ………………………. was a millionaire sent him to England for higher studies.",
+            "description": "That is not used in non-identifying relative clauses. ",
+            "answers": [
+                "whom",
+                "who",
+                "that"
+            ],
+            "correct": 1,
+            "id": "eb8590bf6c7c48729659269fb1273ef3"
+        },
+        {
+            "question": "Chaucer ………………………… was the first great English poet was born in",
+            "description": "That is not used in non-identifying relative clauses. ",
+            "answers": [
+                "who",
+                "that",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "1fa8b99ac30e4b2cb2a6a2debecacc38"
+        },
+        {
+            "question": "Nobody knows ………………………… Homer, the great poet, was born.",
+            "description": "",
+            "answers": [
+                "where",
+                "there",
+                "that"
+            ],
+            "correct": 0,
+            "id": "fb9f8acbc6834a199e947b316d876bb1"
+        },
+        {
+            "question": "He ………………………. does not work must starve.",
+            "description": "Only who can replace pronouns like he and she.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "a73b46059da84e1fb368e736871fbd5a"
+        }
+    ]
+}

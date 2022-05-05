@@ -1,0 +1,138 @@
+{
+    "id": "11bfd39d878d4cd0911e3b8274366786",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "This is the 6th time, you ………………………. the same question.",
+            "description": "The present perfect is used after this is the first /second/last etc. ",
+            "answers": [
+                "asked",
+                "are asking",
+                "have asked"
+            ],
+            "correct": 2,
+            "id": "9adc0a153f5e4cdb9dfcaa7b4ea20ad1"
+        },
+        {
+            "question": "I ………………………. a strange experience yesterday.",
+            "description": "Use the simple past to say that something happened sometime ago. ",
+            "answers": [
+                "have",
+                "had",
+                "am"
+            ],
+            "correct": 1,
+            "id": "62361148a37c4df7972542dcc23f6890"
+        },
+        {
+            "question": "As soon as she saw me, she …………………….. towards me.",
+            "description": "",
+            "answers": [
+                "rushed",
+                "had rushed",
+                "have rushed"
+            ],
+            "correct": 0,
+            "id": "e342477f2b124a99a937a945abd991f4"
+        },
+        {
+            "question": "Those who are against this proposal …………………………. their hand.",
+            "description": "Rise is intransitive raise is transitive. ",
+            "answers": [
+                "should rise",
+                "should raise",
+                "would raise"
+            ],
+            "correct": 1,
+            "id": "45bc3406a0e64218945febb4ee7dc839"
+        },
+        {
+            "question": "She asked if I ………………………… her cat.",
+            "description": "Present perfect in the direct speech becomes past perfect in the indirect speech. ",
+            "answers": [
+                "saw",
+                "have seen",
+                "had seen"
+            ],
+            "correct": 2,
+            "id": "9ab5f292c499456b90bcb33404883e76"
+        },
+        {
+            "question": "Although I had all the qualifications, my application …………………………….",
+            "description": "Use the passive form here because the subject is not the doer. ",
+            "answers": [
+                "rejected",
+                "was rejected",
+                "had rejected"
+            ],
+            "correct": 1,
+            "id": "96564a3030aa4cff86bc709d84f67352"
+        },
+        {
+            "question": "Despite her best efforts, she …………………………… pass the test.",
+            "description": "",
+            "answers": [
+                "does not",
+                "could not",
+                "has not"
+            ],
+            "correct": 1,
+            "id": "cb0d80e6341f444494c1deb03d989303"
+        },
+        {
+            "question": "He said he regretted that he ………………………. so hastily.",
+            "description": "",
+            "answers": [
+                "acts",
+                "acted",
+                "had acted"
+            ],
+            "correct": 2,
+            "id": "3c2b40f7c7664d81b6a9a1b752a167d6"
+        },
+        {
+            "question": "He …………………………… for incompetence.",
+            "description": "A passive verb is required here because the subject is not the doer of the action. ",
+            "answers": [
+                "dismissed",
+                "was dismissed",
+                "was dismissing"
+            ],
+            "correct": 1,
+            "id": "422dadc4fce14e1782f5c87fcc4323b1"
+        },
+        {
+            "question": "He was clever but he …………………………. industry.",
+            "description": "",
+            "answers": [
+                "lacks",
+                "lacked",
+                "was lacking"
+            ],
+            "correct": 1,
+            "id": "a6b2eea5a3054d72be0599001fbab843"
+        },
+        {
+            "question": "As they were poor, they …………………………. great hardship.",
+            "description": "When one verb is in the past tense, the other verbs too will most probably be in the past tense. ",
+            "answers": [
+                "suffered",
+                "suffers",
+                "suffer"
+            ],
+            "correct": 0,
+            "id": "e99b8ac7d0974a098acebf699b6988a7"
+        },
+        {
+            "question": "I conceded to his request because I ………………………….. to disappoint him.",
+            "description": "",
+            "answers": [
+                "do not want",
+                "did not want",
+                "does not"
+            ],
+            "correct": 1,
+            "id": "a28c0ad14bf844d7b9aa60dccb8b25f9"
+        }
+    ]
+}

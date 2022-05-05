@@ -1,0 +1,138 @@
+{
+    "id": "ae0b7f809cf640c0af64f549350155d4",
+    "title": "Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "English ……………….. all over the world.",
+            "description": "In the simple present tense, we make the passive verb form by putting is/am/are before the past participle form of the verb.",
+            "answers": [
+                "is spoken",
+                "has spoken",
+                "has been spoken"
+            ],
+            "correct": 0,
+            "id": "6bb51b51635549988cb35af11813fac4"
+        },
+        {
+            "question": "The show …………………….. by the audience.",
+            "description": "In the present continuous tense, we make the passive form by putting is/am/are + being before the past participle form of the verb. ",
+            "answers": [
+                "has watched",
+                "is watching",
+                "is being watched"
+            ],
+            "correct": 2,
+            "id": "42ce9f9b15cd499c8b4362f176a13571"
+        },
+        {
+            "question": "The thief ……………………… by the police.",
+            "description": "In the present perfect tense, we make the passive form by putting has/have + been before the past participle form of the verb.",
+            "answers": [
+                "has arrested",
+                "has been arrested",
+                "is arresting"
+            ],
+            "correct": 1,
+            "id": "f1b9b8463aab46c992c83b03cdf74e4c"
+        },
+        {
+            "question": "The wounded man …………………….. by some boys.",
+            "description": "In the past continuous tense, we make the passive verb form by putting was/were + being before the past participle form of the verb.",
+            "answers": [
+                "was being helped",
+                "was helping",
+                "has helped"
+            ],
+            "correct": 0,
+            "id": "546a8313e423462eb2531f85d7193998"
+        },
+        {
+            "question": "Football ……………………. all over the world.",
+            "description": "In the simple present tense, we make the passive verb form by putting is/am/are before the past participle form of the verb.",
+            "answers": [
+                "is playing",
+                "is played",
+                "has played"
+            ],
+            "correct": 1,
+            "id": "3e4ed10d524f425aad65c4c20cb0fb4f"
+        },
+        {
+            "question": "The match ……………………….. by our team.",
+            "description": "In the simple future, we make the passive verb form by putting will + be before the past participle form of the verb.",
+            "answers": [
+                "will win",
+                "will be won",
+                "will be winning"
+            ],
+            "correct": 1,
+            "id": "be962c16fd914117a16fa82b4c987167"
+        },
+        {
+            "question": "The results ……………………… yet.",
+            "description": "In the present perfect tense, we make the passive form by putting has/have + been before the past participle form of the verb.",
+            "answers": [
+                "haven't announced",
+                "haven't been announced",
+                "isn't been announced"
+            ],
+            "correct": 1,
+            "id": "7d578a07639b47c99b1904094c346eb3"
+        },
+        {
+            "question": "Her looks ……………………….. by people.",
+            "description": "In the present perfect tense, we make the passive form by putting has/have + been before the past participle form of the verb.",
+            "answers": [
+                "have always admired",
+                "have always been admired",
+                "was always admired"
+            ],
+            "correct": 1,
+            "id": "a9caa0fb127641849635a30dc8b22ba7"
+        },
+        {
+            "question": "The answers ……………………. on both sides of the paper.",
+            "description": "",
+            "answers": [
+                "should write",
+                "should be written",
+                "should be writing"
+            ],
+            "correct": 1,
+            "id": "2a07f13dce0c4a2caf464066bd32608c"
+        },
+        {
+            "question": "The injured person ……………………. to hospital.",
+            "description": "In the simple past, we make the passive verb form by putting was/were before the past participle form of the verb. ",
+            "answers": [
+                "was taken",
+                "has taken",
+                "have been taken"
+            ],
+            "correct": 0,
+            "id": "356c673bb52e4cddb47b2566348ce731"
+        },
+        {
+            "question": "He …………………….. by anybody.",
+            "description": "In the simple past, we make the passive verb form by putting was/were before the past participle form of the verb. ",
+            "answers": [
+                "was not invited",
+                "has not invited",
+                "was not inviting"
+            ],
+            "correct": 0,
+            "id": "364eff1bd0724ecab1894942b4dadda6"
+        },
+        {
+            "question": "He ……………………. by evil advisors.",
+            "description": "In the simple past, we make the passive verb form by putting was/were before the past participle form of the verb. ",
+            "answers": [
+                "was surrounded",
+                "has surrounded",
+                "was surrounding"
+            ],
+            "correct": 0,
+            "id": "eefb71d0c4054098aded0cc956b045d1"
+        }
+    ]
+}

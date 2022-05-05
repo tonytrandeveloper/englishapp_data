@@ -1,0 +1,138 @@
+{
+    "id": "b1e48a1648bb4e1bb714b4d962f6d997",
+    "title": "Clauses Exercise",
+    "questions": [
+        {
+            "question": "My friend helped me when I was in danger.",
+            "description": "Here the subordinate clause is an adverb clause because it shows the time of the action mentioned in the main clause.",
+            "answers": [
+                "Adjective clause",
+                "Adverb clause",
+                "Noun clause"
+            ],
+            "correct": 1,
+            "id": "eeba5ad68e9a4bebaddb02ccc49662e0"
+        },
+        {
+            "question": "We believe in democracy though it has its shortcomings.",
+            "description": "Clauses introduced by the conjunction though are adverb clauses.",
+            "answers": [
+                "Adjective clause",
+                "Adverb clause",
+                "Noun clause"
+            ],
+            "correct": 1,
+            "id": "2ef5990d11b4415ebf140b31b5184056"
+        },
+        {
+            "question": "My parents were happy because I won the first prize.",
+            "description": "Clauses introduced by because are adverb clauses.",
+            "answers": [
+                "Adjective clause",
+                "Adverb clause",
+                "Noun clause"
+            ],
+            "correct": 1,
+            "id": "b9f0a0288c2a4deb89f0b821dbc71123"
+        },
+        {
+            "question": "This is the girl who talked to me yesterday.",
+            "description": "An adjective clause modifies a noun in the previous clause.",
+            "answers": [
+                "Adjective clause",
+                "Adverb clause",
+                "Noun clause"
+            ],
+            "correct": 0,
+            "id": "64c3d795ac474bbc9d374cff1d1da332"
+        },
+        {
+            "question": "I have lost the tickets which I bought.",
+            "description": "An adjective clause modifies a noun in the previous clause.",
+            "answers": [
+                "Adjective clause",
+                "Adverb clause",
+                "Noun clause"
+            ],
+            "correct": 0,
+            "id": "dfcd95534a934867a4b4d75e1a172a9f"
+        },
+        {
+            "question": "He could not answer any of the questions that I asked him.",
+            "description": "An adjective clause modifies a noun in the previous clause.",
+            "answers": [
+                "Adjective clause",
+                "Adverb clause",
+                "Noun clause"
+            ],
+            "correct": 0,
+            "id": "30f3b8d0a52441b2a8eb27614cc2de6c"
+        },
+        {
+            "question": "Although he is very rich, he is a miser.",
+            "description": "Clauses beginning with although are adverb clauses.",
+            "answers": [
+                "Adjective clause",
+                "Adverb clause",
+                "Noun clause"
+            ],
+            "correct": 1,
+            "id": "174460bfc4c34f5b853a7bfd791fc94e"
+        },
+        {
+            "question": "Everybody admits that he is a brave man.",
+            "description": "A noun clause acts as the object of the verb in the main clause.",
+            "answers": [
+                "Adjective clause",
+                "Adverb clause",
+                "Noun clause"
+            ],
+            "correct": 2,
+            "id": "c9d22c73377045e8a1dd801ecbe17d46"
+        },
+        {
+            "question": "We knew that he was guilty.",
+            "description": "A noun clause acts as the subject or object of the verb in the main clause.",
+            "answers": [
+                "Adjective clause",
+                "Adverb clause",
+                "Noun clause"
+            ],
+            "correct": 2,
+            "id": "fd94d5cf3fdb425c86586c804265eb87"
+        },
+        {
+            "question": "What he told me was a lie.",
+            "description": "A noun clause can be the subject of the verb in the main clause.",
+            "answers": [
+                "Adjective clause",
+                "Adverb clause",
+                "Noun clause"
+            ],
+            "correct": 2,
+            "id": "6a154dee7e634f0dbf26df481dbf15bd"
+        },
+        {
+            "question": "He gave me everything that I asked for.",
+            "description": "",
+            "answers": [
+                "Adjective clause",
+                "Adverb clause",
+                "Noun clause"
+            ],
+            "correct": 0,
+            "id": "0efcedc5d7ba475fb931889daa0de63a"
+        },
+        {
+            "question": "Your statement that you lost the money cannot be believed.",
+            "description": "A noun clause can be used in apposition to a noun or pronoun.",
+            "answers": [
+                "Adjective clause",
+                "Adverb clause",
+                "Noun clause"
+            ],
+            "correct": 2,
+            "id": "63dc53bd76914366a2c128737b00ff08"
+        }
+    ]
+}

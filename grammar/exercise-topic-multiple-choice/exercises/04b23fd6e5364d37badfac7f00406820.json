@@ -1,0 +1,82 @@
+{
+    "id": "04b23fd6e5364d37badfac7f00406820",
+    "title": "Sentence Synthesis Exercise",
+    "questions": [
+        {
+            "question": "He is .............................. clever to be deceived.",
+            "description": "",
+            "answers": [
+                "too",
+                "so"
+            ],
+            "correct": 0,
+            "id": "10b62256d577443baf6b73b54e77b718"
+        },
+        {
+            "question": "................................. her ring she started crying.",
+            "description": "",
+            "answers": [
+                "Lost",
+                "Having lost",
+                "Losing"
+            ],
+            "correct": 1,
+            "id": "d4780cf3750141a3a41b0ca2d8874b0f"
+        },
+        {
+            "question": "....................................... on a branch the monkey gibbered.",
+            "description": "",
+            "answers": [
+                "Sitting",
+                "Sat",
+                "Having sat"
+            ],
+            "correct": 0,
+            "id": "bf1afe4059e549b8be0eb9423aeed7db"
+        },
+        {
+            "question": "................................ a noise the crow flew away.",
+            "description": "",
+            "answers": [
+                "Hearing",
+                "Heard",
+                "Having heard"
+            ],
+            "correct": 0,
+            "id": "fcabb389956442f2b009b1996d45fc5e"
+        },
+        {
+            "question": ".................................... the man to be honest, I lent him ten thousand pounds.",
+            "description": "",
+            "answers": [
+                "Believing",
+                "Believed",
+                "Having believed"
+            ],
+            "correct": 0,
+            "id": "3354186f794048f9b19bf43abf0bc214"
+        },
+        {
+            "question": ".................................. by a snake, the constable died.",
+            "description": "",
+            "answers": [
+                "Having bitten",
+                "Having been bitten",
+                "Being bitten"
+            ],
+            "correct": 1,
+            "id": "25ddde109b9444d5a23de48d6a591317"
+        },
+        {
+            "question": "..................................... breakfast, he went to office.",
+            "description": "",
+            "answers": [
+                "Having finished",
+                "Finished",
+                "Being finished"
+            ],
+            "correct": 0,
+            "id": "c03df4c4a60642a8851ce185f6fd6f37"
+        }
+    ]
+}

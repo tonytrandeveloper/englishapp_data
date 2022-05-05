@@ -1,0 +1,138 @@
+{
+    "id": "c904dd042da143398668994ca8436e31",
+    "title": "General Grammar Exercise (Beginner)",
+    "questions": [
+        {
+            "question": "We ............................... heard anything from them yet.",
+            "description": "We use have before the third form of the verb.",
+            "answers": [
+                "aren't",
+                "didn't",
+                "haven't"
+            ],
+            "correct": 2,
+            "id": "61b376494aa94585a5defd7edc7751ac"
+        },
+        {
+            "question": ".................................. you think we are doing the right thing?",
+            "description": "We use do with you.",
+            "answers": [
+                "Do",
+                "Does",
+                "Have"
+            ],
+            "correct": 0,
+            "id": "d0c5c0a4fe3544a692c72cb05f50a7bc"
+        },
+        {
+            "question": ".................................... you see him yesterday?",
+            "description": "We use the simple past with past time expressions like yesterday. ",
+            "answers": [
+                "Did",
+                "Have",
+                "Do"
+            ],
+            "correct": 0,
+            "id": "f991ad5337c64133830e9ba293152744"
+        },
+        {
+            "question": "................................... you free this evening?",
+            "description": "",
+            "answers": [
+                "Are",
+                "Do",
+                "Have"
+            ],
+            "correct": 0,
+            "id": "f8c5c67434e543589930fb44fa7c0850"
+        },
+        {
+            "question": "How long ....................................... it take you to finish a project?",
+            "description": "Does is used with the first form of the verb has is used with the third form.",
+            "answers": [
+                "do",
+                "does",
+                "has"
+            ],
+            "correct": 1,
+            "id": "6ddd2a0ac3db4a76bcc75d2044da97ed"
+        },
+        {
+            "question": "She ...................................... rung back yet.",
+            "description": "We use has/have/had with the third form of the verb. The past perfect is totally unnecessary here. ",
+            "answers": [
+                "didn't",
+                "hasn't",
+                "hadn't"
+            ],
+            "correct": 1,
+            "id": "e2b181842303424582456a5db7a3c637"
+        },
+        {
+            "question": ".......................................... you call her in the morning?",
+            "description": "We use did in the simple past. ",
+            "answers": [
+                "Did",
+                "Have",
+                "Do"
+            ],
+            "correct": 0,
+            "id": "eea7e181473d4407afd3c6075461d267"
+        },
+        {
+            "question": "........................................ you play football when you were young?",
+            "description": "Did is used with the first form of the verb. Have and had are used with the third form.",
+            "answers": [
+                "Did",
+                "Have",
+                "Had"
+            ],
+            "correct": 0,
+            "id": "26e62cea9dc046b98b35ea3432f78dde"
+        },
+        {
+            "question": "........................................ you enjoy your stay here?",
+            "description": "",
+            "answers": [
+                "Do",
+                "Have",
+                "Has"
+            ],
+            "correct": 0,
+            "id": "0fbcbb455e484a16b0bae98cf32bb580"
+        },
+        {
+            "question": "..................................... you enjoying this visit?",
+            "description": "With ing forms we use are/is/am/was/were.",
+            "answers": [
+                "Do",
+                "Are",
+                "Have"
+            ],
+            "correct": 1,
+            "id": "b9036b5a86cb43b3a17c303d95c8701c"
+        },
+        {
+            "question": ".................................. anybody here?",
+            "description": "Anybody is used with a singular verb.",
+            "answers": [
+                "Is",
+                "Are",
+                "Have"
+            ],
+            "correct": 0,
+            "id": "322a84468fbf4140b1b2de1b00437fdb"
+        },
+        {
+            "question": "Where ........................................ they live?",
+            "description": "",
+            "answers": [
+                "have",
+                "do",
+                "does"
+            ],
+            "correct": 1,
+            "id": "70168e24bc6448be95312a3eee8fb2ae"
+        }
+    ]
+}

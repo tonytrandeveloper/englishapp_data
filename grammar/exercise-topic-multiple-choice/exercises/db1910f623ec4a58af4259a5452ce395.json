@@ -1,0 +1,138 @@
+{
+    "id": "db1910f623ec4a58af4259a5452ce395",
+    "title": "Idioms Exercise",
+    "questions": [
+        {
+            "question": "His parents bail him ............................... whenever he is in trouble.",
+            "description": "To bail somebody out is to rescue them when they are in difficulty.",
+            "answers": [
+                "up",
+                "off",
+                "out"
+            ],
+            "correct": 2,
+            "id": "68fdd9c4b5514a3791908403b0c8a9fe"
+        },
+        {
+            "question": "We cannot sell things ................................... a loss.",
+            "description": "To sell things at a loss is to sell at less than the cost.",
+            "answers": [
+                "with",
+                "at",
+                "for"
+            ],
+            "correct": 1,
+            "id": "fbf10075c280401c8ddab435d49adf9c"
+        },
+        {
+            "question": "The new promotional campaign gave much ............................... for the buck.",
+            "description": "Bang for the buck means value for the money spent.",
+            "answers": [
+                "bang",
+                "bonanza",
+                "booze"
+            ],
+            "correct": 0,
+            "id": "15e9997004ca4358b33fc0dcf615ccc4"
+        },
+        {
+            "question": "Few people have the luxury of working ................................ hours these days.",
+            "description": "Banker's hours means short work hours.",
+            "answers": [
+                "banker's",
+                "baker's",
+                "writer's"
+            ],
+            "correct": 0,
+            "id": "c8c7e0ae9091405ba72d70756fbd6cf5"
+        },
+        {
+            "question": "He had no one to ..................................... him when he launched his business.",
+            "description": "To bankroll somebody is to finance them.",
+            "answers": [
+                "bail",
+                "bankroll",
+                "back off"
+            ],
+            "correct": 1,
+            "id": "c738ae23e6df42ac9b4a92e9211ec024"
+        },
+        {
+            "question": "He is a big ....................................... in his company.",
+            "description": "All of these expressions refer to an important person.",
+            "answers": [
+                "wheel",
+                "gun",
+                "cheese",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "b407e9c80e344206bcd3a664f0d8eced"
+        },
+        {
+            "question": "If we had done our homework, we wouldn't have .................................. that deal.",
+            "description": "To blow a deal is to ruin a business.",
+            "answers": [
+                "burst",
+                "blown"
+            ],
+            "correct": 1,
+            "id": "b4e8a800898b483f87ac9f4d3b5864bf"
+        },
+        {
+            "question": "When the ........................................... fell out of the property market, many builders had to cancel projects.",
+            "description": "When the bottom falls out a collapse occurs and prices fall too much.",
+            "answers": [
+                "top",
+                "bottom",
+                "head"
+            ],
+            "correct": 1,
+            "id": "32e54f46c44047afa1842bd3ab18e014"
+        },
+        {
+            "question": "Before investing in a company, you should examine its ........................................",
+            "description": "The bottom line is the final figure on a balance sheet.",
+            "answers": [
+                "top line",
+                "bottom line",
+                "margin"
+            ],
+            "correct": 1,
+            "id": "b0750b3233e844b29e00bf9b98a599b6"
+        },
+        {
+            "question": "It took us two years to break ...................................",
+            "description": "A company breaks even when its expenses equal profits.",
+            "answers": [
+                "up",
+                "even",
+                "odd"
+            ],
+            "correct": 1,
+            "id": "dcf788dd2dc44348847ee11aa7af3e16"
+        },
+        {
+            "question": "The large company is buying .................................... several small companies.",
+            "description": "To buy out is to buy the ownership of something.",
+            "answers": [
+                "off",
+                "out",
+                "up"
+            ],
+            "correct": 1,
+            "id": "0f85ea39e422478694f75cb0e6133f52"
+        },
+        {
+            "question": "The deal is almost fixed. Now we only have to sign on the …………………….. line.",
+            "description": "",
+            "answers": [
+                "dotted",
+                "blank",
+                "raised"
+            ],
+            "correct": 0,
+            "id": "250afee9f8974edca5ede56951157a5d"
+        }
+    ]
+}

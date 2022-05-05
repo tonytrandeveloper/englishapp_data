@@ -1,0 +1,136 @@
+{
+    "id": "201e2609d7f6493a9b976e46d8bc2393",
+    "title": "Phrasal Verbs Exercise",
+    "questions": [
+        {
+            "question": "The event has been ………………………… until next week.",
+            "description": "To put off is to postpone.",
+            "answers": [
+                "put out",
+                "put off",
+                "put down"
+            ],
+            "correct": 1,
+            "id": "1fee15c07c554299b6d800c45f175822"
+        },
+        {
+            "question": "Please ………………………….. your coat. I am taking you to the doctor.",
+            "description": " To put on is to wear",
+            "answers": [
+                "put on",
+                "put out",
+                "put in"
+            ],
+            "correct": 0,
+            "id": "f9c145de9d5e4ac8b77d4de49559c3ac"
+        },
+        {
+            "question": "………………………… the toys once you have finished playing with them.",
+            "description": "To put away is to store for future use.",
+            "answers": [
+                "Put away",
+                "Put off",
+                "Put in"
+            ],
+            "correct": 0,
+            "id": "baf74c2232dc46898c44871825fd9e71"
+        },
+        {
+            "question": "They …………………………….. the fire in the basement of the building.",
+            "description": "To put out is to extinguish.",
+            "answers": [
+                "put up",
+                "put out",
+                "put down"
+            ],
+            "correct": 1,
+            "id": "f741bb40100948fdb871727403a8aa8e"
+        },
+        {
+            "question": "We are planning to ……………………………. a fence around the property.",
+            "description": "To put up is to erect.",
+            "answers": [
+                "put over",
+                "put up",
+                "put in"
+            ],
+            "correct": 1,
+            "id": "9490ee47e1dd4f0d9ac285c40296571b"
+        },
+        {
+            "question": "She ……………………………. a lot of effort to succeed in her business.",
+            "description": "To put in is to invest.",
+            "answers": [
+                "put up",
+                "put in",
+                "put out"
+            ],
+            "correct": 1,
+            "id": "c48949ef4e654b908e5d1e2967a5e3fb"
+        },
+        {
+            "question": "I can no longer ……………………………….. his insolence.",
+            "description": "To put up with something is to tolerate it.",
+            "answers": [
+                "put out with",
+                "put up with",
+                "put off with"
+            ],
+            "correct": 1,
+            "id": "87f7c20f76b34510857d26ed92c97e81"
+        },
+        {
+            "question": "I ……………………………. the whole neighborhood but nobody had seen my cat.",
+            "description": "To ask around is to ask the same question to a lot of people.",
+            "answers": [
+                "asked around",
+                "asked out",
+                "asked in"
+            ],
+            "correct": 0,
+            "id": "627868d9249b4783a8f2afa3f8d9c3b5"
+        },
+        {
+            "question": "We had a small …………………………… yesterday.",
+            "description": "To get together is to meet.",
+            "answers": [
+                "get off",
+                "get together"
+            ],
+            "correct": 1,
+            "id": "b5c2f93e6ff04e4ca53a153853e070a0"
+        },
+        {
+            "question": "The noise …………………………….. after some time.",
+            "description": "When noise dies down, it becomes weaker.",
+            "answers": [
+                "died over",
+                "died down"
+            ],
+            "correct": 1,
+            "id": "bb21c0c8269f4108be61008cd0456fcb"
+        },
+        {
+            "question": "The scheme ............................... for want of support.",
+            "description": "When something falls through, it fails.",
+            "answers": [
+                "fell off",
+                "fell out",
+                "fell through"
+            ],
+            "correct": 2,
+            "id": "775a62b113614d6c9864e8334a39e023"
+        },
+        {
+            "question": "Suddenly the wheel .................................... the bicycle.",
+            "description": "To come off is to become detached. ",
+            "answers": [
+                "came over",
+                "came off",
+                "came out"
+            ],
+            "correct": 1,
+            "id": "f46131a90bec4312b4df13a8111387f5"
+        }
+    ]
+}

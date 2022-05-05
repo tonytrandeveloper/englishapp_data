@@ -1,0 +1,139 @@
+{
+    "id": "32323e2d25c3485292a64a7595581527",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "The know the man ……………………….. filed the complaint.",
+            "description": "Use who to refer to people.",
+            "answers": [
+                "that",
+                "who",
+                "which"
+            ],
+            "correct": 1,
+            "id": "981d3a33b83e443c928868097a9dbc3b"
+        },
+        {
+            "question": "This is the boy ………………………….. I was talking about.",
+            "description": "In identifying relative clauses that can be used instead of whom.",
+            "answers": [
+                "who",
+                "that",
+                "which"
+            ],
+            "correct": 1,
+            "id": "c5a9ca52ca8840969dbb2a1f8c61fe4d"
+        },
+        {
+            "question": "I know a woman ………………………….. sells spices in the market.",
+            "description": "Use who to refer to people.",
+            "answers": [
+                "that",
+                "who",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "405698ba50ca42eaa0becd3d7eb0ba30"
+        },
+        {
+            "question": "It was a question …………………………. no one could answer.",
+            "description": "In identifying relative clauses, either which or that can refer to things, ideas etc. ",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "348a994931f245f1a3e8f23dceae8720"
+        },
+        {
+            "question": "The plants ………………………….. I bought from the nursery last week have died.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "138ac0250a5345b1bd35daf7170556eb"
+        },
+        {
+            "question": "The woman ………………………… knee was broken required surgery.",
+            "description": "The woman required surgery. Her knee was broken. We use whose in the place of possessive adjectives like his, her, their etc. The woman whose knee was broken required surgery.",
+            "answers": [
+                "whom",
+                "who's",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "13e720aea0ce4b7e92f8381edc018e9f"
+        },
+        {
+            "question": "The child ……………………….. parents had died now lives in an orphanage.",
+            "description": "",
+            "answers": [
+                "who's",
+                "whose",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "99079102362a4e7188ecff8482527859"
+        },
+        {
+            "question": "The flowers ………………………….. were used to decorate the stage were not real.",
+            "description": "Either that or which is possible here. ",
+            "answers": [
+                "that",
+                "which",
+                "what"
+            ],
+            "correct": 1,
+            "id": "d07832730efe46b5adf928fcd557c4c6"
+        },
+        {
+            "question": "The parrot ………………………….. I have been keeping for a while can speak a few words.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "whom",
+                "what"
+            ],
+            "correct": 1,
+            "id": "9cd3cb3ee554419eab34be641f307292"
+        },
+        {
+            "question": "The boys ……………………………. have been selected for the team are practicing in the stadium.",
+            "description": "",
+            "answers": [
+                "who",
+                "which",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "c56acd5e544c4f56a009b96977f5646a"
+        },
+        {
+            "question": "This is the house …………………………..  I bought from my uncle.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "e1111b09afb142c1af24e32d45219c74"
+        },
+        {
+            "question": "The man released the birds ………………………….. were kept in a cage.",
+            "description": "Either which or that can refer to things, animals etc in identifying relative clauses. ",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "076ffab5099149dc8c0fca13f59d3b6e"
+        }
+    ]
+}

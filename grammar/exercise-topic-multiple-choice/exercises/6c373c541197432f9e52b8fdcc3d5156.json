@@ -1,0 +1,138 @@
+{
+    "id": "6c373c541197432f9e52b8fdcc3d5156",
+    "title": "Types Of Sentences",
+    "questions": [
+        {
+            "question": "Soldiers were forbidden to fraternize with local citizens.",
+            "description": "A sentence that has only one clause is a simple sentence.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "e086c7d6ad484db9a028d9f570686a6d"
+        },
+        {
+            "question": "There was a lot of frantic activity just before the royal visitors arrived.",
+            "description": "A complex sentence consists of one main clause and one or more dependent clauses.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "6dac30a595dc49baaa7727a45b80d82e"
+        },
+        {
+            "question": "Do you remember the fragrance of lilacs after a rain?",
+            "description": "A sentence that has only one clause is a simple sentence.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "da8184e508ff40bead9a6d63b9fc5858"
+        },
+        {
+            "question": "A liking for flattery was one of his frailties.",
+            "description": "A sentence that has only one clause is a simple sentence.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "923c8609f4624371abd57a0ff6313d52"
+        },
+        {
+            "question": "Perhaps certain gifted persons can foretell the future.",
+            "description": "A sentence that has only one clause is a simple sentence.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "72b9f116931e4123a7084e401a136f5c"
+        },
+        {
+            "question": "Fold the napkins and put one by each plate.",
+            "description": "A compound sentence has two or more coordinate clauses connected by a coordinating conjunction.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "5160d2b62076495dafc7f4e7cf203ded"
+        },
+        {
+            "question": "The preacher said that one of the brothers had strayed from the fold.",
+            "description": "A complex sentence consists of one main clause and one or more dependent clauses.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "8196bd3f573849e88eb4d736caf2a20a"
+        },
+        {
+            "question": "I hated the show but it has a large following.",
+            "description": "A compound sentence has two or more coordinate clauses connected by a coordinating conjunction.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "e46580beac85476a92c02ec583a48a5b"
+        },
+        {
+            "question": "He eluded his followers by crossing the river.",
+            "description": "A sentence that has only one clause is a simple sentence.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "6599c55febe749e094f08704b7ceeb05"
+        },
+        {
+            "question": "Who will follow the prime minister when he retires?",
+            "description": "A complex sentence consists of one main clause and one or more dependent clauses.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "a23f7fbcf5aa48c981f8e62334dbfe38"
+        },
+        {
+            "question": "The rains flooded the farmlands and destroyed all crops.",
+            "description": "",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "f1d4e7f9e26f4f6ea1803943db9717b8"
+        },
+        {
+            "question": "The dinner party was a flop because the guest of honor didn’t show up.",
+            "description": "A complex sentence consists of one main clause and one or more dependent clauses.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "855c333b8a304e778abb0807b63c84f5"
+        }
+    ]
+}

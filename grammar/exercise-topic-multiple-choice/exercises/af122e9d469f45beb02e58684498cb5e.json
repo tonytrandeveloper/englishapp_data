@@ -1,0 +1,138 @@
+{
+    "id": "af122e9d469f45beb02e58684498cb5e",
+    "title": "Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "Close the windows. Let the windows ...................",
+            "description": "When we change an imperative sentence to passive voice, we use let with be + past participle. ",
+            "answers": [
+                "close",
+                "are closed",
+                "be closed"
+            ],
+            "correct": 2,
+            "id": "a44df1806bdb4f8c90e19caecf9a4484"
+        },
+        {
+            "question": "Feed the dogs. Let the dogs .....................",
+            "description": "When we change an imperative sentence to passive voice, we use let with be + past participle. ",
+            "answers": [
+                "are fed",
+                "feed",
+                "be fed"
+            ],
+            "correct": 2,
+            "id": "6f5349a2bde84bcfae0bb4f87df95f80"
+        },
+        {
+            "question": "Tell the truth. Let the truth .......................",
+            "description": "When we change an imperative sentence to passive voice, we use let with be + past participle. ",
+            "answers": [
+                "tell",
+                "is told",
+                "be told"
+            ],
+            "correct": 2,
+            "id": "edca919bbfd44dcc8ed77d23b5966501"
+        },
+        {
+            "question": "Has anybody answered your question? Has your question ...........................?",
+            "description": "The present perfect in the passive form becomes has/have + been + past participle.",
+            "answers": [
+                "answered",
+                "been answered",
+                "being answered"
+            ],
+            "correct": 1,
+            "id": "64a95ade03ad4a2f9de266a7d3ce2678"
+        },
+        {
+            "question": "Do cats attack snakes? ................ snakes .................... by cats?",
+            "description": "In the simple present tense, the passive form is made with is/am/are + past participle form of the verb.",
+            "answers": [
+                "Do, attacked",
+                "Are, attacked",
+                "Are, attacking"
+            ],
+            "correct": 1,
+            "id": "37a1b0cae1e8491d858ea95ef1622b63"
+        },
+        {
+            "question": "Did the noise frighten you? .............. you .................. by the noise?",
+            "description": "In the simple past tense, the passive form is made with was/were + past participle form of the verb.",
+            "answers": [
+                "Did, frightened",
+                "Were, frightened",
+                "Are, frightened"
+            ],
+            "correct": 1,
+            "id": "92f86e07b9384c4caa1d06e3783c77d9"
+        },
+        {
+            "question": "When will they announce the results? / When will the results ......................?",
+            "description": "In the simple future, the passive form is made with will + be + past participle form of the verb.",
+            "answers": [
+                "announced",
+                "be announced",
+                "are announced"
+            ],
+            "correct": 1,
+            "id": "edba14c4949444a9b23e4df4e2ad057b"
+        },
+        {
+            "question": "Do foolish drivers cause accidents? ................... accidents ................... by foolish drivers?",
+            "description": "In the simple present tense, the passive form is made with is/am/are + past participle form of the verb.",
+            "answers": [
+                "Do, caused",
+                "Are, caused",
+                "Were, caused"
+            ],
+            "correct": 1,
+            "id": "c59963e7d60341b9a53472e096d9ee2d"
+        },
+        {
+            "question": "They have spent a lot of money on the new house. / A lot of money ........................ on the new house.",
+            "description": "In the present perfect, the passive form is made with has/have + been + past participle form of the verb. ",
+            "answers": [
+                "is spent",
+                "have been spent",
+                "has been spent"
+            ],
+            "correct": 2,
+            "id": "4983143ea530498691a46af7096c6f89"
+        },
+        {
+            "question": "The cat is chasing the mouse. / The mouse ........................ by the cat.",
+            "description": "In the present continuous tense, the passive form is made with is/are/am + being + past participle form of the verb.",
+            "answers": [
+                "is chased",
+                "is being chased",
+                "has been chased"
+            ],
+            "correct": 1,
+            "id": "2c5927198f994244a6d8294c1b782c41"
+        },
+        {
+            "question": "The Pied Piper's music attracted the rats of Hamelin. / The rats of Hamelin ....................... by the Pied Piper's music.",
+            "description": "In the simple past tense, the passive form is made with was/were + past participle form of the verb.",
+            "answers": [
+                "attracted",
+                "are attracted",
+                "were attracted"
+            ],
+            "correct": 2,
+            "id": "e88c4b647c7748b69db8551a0b1942ee"
+        },
+        {
+            "question": "Why did they give her a big box? Why ....................... she .................... a big box?",
+            "description": "In the simple past tense, the passive form is made with was/were + past participle form of the verb.",
+            "answers": [
+                "did, given",
+                "was, given",
+                "is, given"
+            ],
+            "correct": 1,
+            "id": "9d6cc96e771241fa9c68fce2a1f7aee9"
+        }
+    ]
+}

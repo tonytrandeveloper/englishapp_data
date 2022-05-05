@@ -1,0 +1,138 @@
+{
+    "id": "984bec3d990346f784616fa2462422ee",
+    "title": "Modals Exercise",
+    "questions": [
+        {
+            "question": "He ………………………. come yesterday.",
+            "description": "Use couldn't to talk about past inability.",
+            "answers": [
+                "couldn't",
+                "can't",
+                "wouldn't"
+            ],
+            "correct": 0,
+            "id": "c36fe69e75234f56bb3656b530ff3f94"
+        },
+        {
+            "question": "They …………………………. come in the evening.",
+            "description": "We do not use can in affirmative sentences to talk about possibility. ",
+            "answers": [
+                "can",
+                "might",
+                "shall"
+            ],
+            "correct": 1,
+            "id": "edcda5b2a6334d879a33059d0363a236"
+        },
+        {
+            "question": "She ……………………….. spend hours talking to herself.",
+            "description": "Use would to talk about past habits. ",
+            "answers": [
+                "would",
+                "might",
+                "may"
+            ],
+            "correct": 0,
+            "id": "fc1d2dc4d34b4909b6110d4e8dda1da5"
+        },
+        {
+            "question": "When we were kids, we ………………………….. go swimming every weekend.",
+            "description": "Use would to talk about past habits. ",
+            "answers": [
+                "will",
+                "would",
+                "may"
+            ],
+            "correct": 1,
+            "id": "6e309c48987b4541b8922231ee8e7a26"
+        },
+        {
+            "question": "You ………………………… apologize for being rude to him.",
+            "description": "Must shows strong obligation. ",
+            "answers": [
+                "must",
+                "may",
+                "ought"
+            ],
+            "correct": 0,
+            "id": "e0eb5ebf1b1446f88d7f4c4171bfd7a7"
+        },
+        {
+            "question": "If you have already applied, you …………………………… not apply again.",
+            "description": "Need shows lack of obligation.",
+            "answers": [
+                "need",
+                "ought",
+                "will"
+            ],
+            "correct": 0,
+            "id": "bf26de8964ea486fa1181c47f986027b"
+        },
+        {
+            "question": "You …………………………. to exercise regularly.",
+            "description": "Ought is the only modal auxiliary followed by a to-infinitive. ",
+            "answers": [
+                "should",
+                "ought",
+                "need"
+            ],
+            "correct": 1,
+            "id": "8f6484bba17f4fd3b2d9c2b00e3daed3"
+        },
+        {
+            "question": "I ………………………….. never forget this experience.",
+            "description": "",
+            "answers": [
+                "will",
+                "should",
+                "could"
+            ],
+            "correct": 0,
+            "id": "d768f0797cce44de9ac696445ef4930e"
+        },
+        {
+            "question": "I …………………….. do this without help.",
+            "description": "",
+            "answers": [
+                "cannot",
+                "must",
+                "ought"
+            ],
+            "correct": 0,
+            "id": "4e73d0e7a8684764a4578e3e74edfd82"
+        },
+        {
+            "question": "Glass ………………………….. be blown.",
+            "description": "Use can to talk about theoretical possibility.",
+            "answers": [
+                "may",
+                "can",
+                "might"
+            ],
+            "correct": 1,
+            "id": "5b03794a29db40f6a20a1f754eea7b0b"
+        },
+        {
+            "question": "Chennai …………………………. be quite hot in summer.",
+            "description": "Use can to talk about properties typical of a person or thing. ",
+            "answers": [
+                "can",
+                "may",
+                "must"
+            ],
+            "correct": 0,
+            "id": "ea2d511441f7481cb273c1babb4df0ef"
+        },
+        {
+            "question": "You …………………………… never throw away anything useful.",
+            "description": "",
+            "answers": [
+                "should",
+                "could",
+                "ought"
+            ],
+            "correct": 0,
+            "id": "4277ae2091214f9c813da08370175feb"
+        }
+    ]
+}

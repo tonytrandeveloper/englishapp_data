@@ -1,0 +1,138 @@
+{
+    "id": "8a59f7311891499e9a97104d1baa4266",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "I always ................................... my grandmother on the weekends.",
+            "description": "Use the simple present to talk about habits, routines etc.",
+            "answers": [
+                "visit",
+                "am visiting",
+                "will visit"
+            ],
+            "correct": 0,
+            "id": "125405a1f51d4f5591303a22a11616c2"
+        },
+        {
+            "question": "The President ............................... the nation at 8 pm.",
+            "description": "The present continuous is considered more appropriate here because the plan already exists. ",
+            "answers": [
+                "addresses",
+                "is addressing",
+                "will address"
+            ],
+            "correct": 1,
+            "id": "88e058559e82481d991de5be112d2107"
+        },
+        {
+            "question": "The summer term ............................... in July.",
+            "description": "The simple present is used to talk about future events that are part of a time table. ",
+            "answers": [
+                "starts",
+                "is starting",
+                "will start"
+            ],
+            "correct": 0,
+            "id": "6b1ded467a8e45969c64a20b92424aa9"
+        },
+        {
+            "question": "He never .............................. his front door open.",
+            "description": "The simple present is used to talk about habits, routines etc. ",
+            "answers": [
+                "is leaving",
+                "leave",
+                "leaves"
+            ],
+            "correct": 2,
+            "id": "41d2b7ec57b44ec8bd43e2468b86a7a6"
+        },
+        {
+            "question": "She ................................. immense joy from feeding stray animals.",
+            "description": "Use the simple present to talk bout facts, likes, dislikes, habits, routines etc. ",
+            "answers": [
+                "gets",
+                "is getting",
+                "get"
+            ],
+            "correct": 0,
+            "id": "9acaa6189e234af89f7e9c850c7f1ee8"
+        },
+        {
+            "question": "He .................................. at gun point.",
+            "description": "The passive verb is required here because the subject is not the doer of the action. ",
+            "answers": [
+                "robbed",
+                "was robbed",
+                "was robbing"
+            ],
+            "correct": 1,
+            "id": "6bfd0fd6c0fe4b218036dfd66638425e"
+        },
+        {
+            "question": "During the holidays, I ……………………. a lot of sleeping and eating.",
+            "description": "Use the simple past to talk about a finished action or situation. ",
+            "answers": [
+                "was doing",
+                "did",
+                "have done"
+            ],
+            "correct": 1,
+            "id": "81b2552c2281416686b210cb65212c37"
+        },
+        {
+            "question": "I .................................... Janet in the afternoon.",
+            "description": "Use the present continuous to talk about a future event when the plan already exists. ",
+            "answers": [
+                "meet",
+                "am meeting",
+                "have met"
+            ],
+            "correct": 1,
+            "id": "0f492fd5121842b7b5a847d6bd2a558b"
+        },
+        {
+            "question": "Dad cooked dinner while Mom ................................. TV.",
+            "description": "",
+            "answers": [
+                "watched",
+                "is watching",
+                "have watched"
+            ],
+            "correct": 0,
+            "id": "53e32276f7d14794ae17f12c2ba5598b"
+        },
+        {
+            "question": "You never let me .................................... a sentence.",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "finish",
+                "to finish",
+                "finishing"
+            ],
+            "correct": 0,
+            "id": "e3ff0ccbbf6a47a9ac4d4d8be1999df4"
+        },
+        {
+            "question": "I ............................................ by UFOs.",
+            "description": "A passive verb is required here.",
+            "answers": [
+                "always fascinated",
+                "have always fascinated",
+                "have always been fascinated"
+            ],
+            "correct": 2,
+            "id": "3be4df063de842dba7ef150f7edae99d"
+        },
+        {
+            "question": "Somebody ................................. at the gate.",
+            "description": "Use the present continuous to talk about an ongoing action or situation. ",
+            "answers": [
+                "stands",
+                "is standing",
+                "has stood"
+            ],
+            "correct": 1,
+            "id": "ae59efb5d2a44db88cfeec39a25ea581"
+        }
+    ]
+}

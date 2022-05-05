@@ -1,0 +1,1002 @@
+[
+    {
+        "id": "01b58dd4bfce4ba6805754a3f3b9af30",
+        "question": "It really ... you.",
+        "answers": [
+            "help",
+            "helps",
+            "do help"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "709393109d9848cf8320101d3017dbba",
+        "question": "They ... it very well.",
+        "answers": [
+            "know",
+            "knows",
+            "can knows"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "4cbefce068a248b3a70e4678818f29b7",
+        "question": "I see they ... this city.",
+        "answers": [
+            "like",
+            "likes",
+            "liking"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "28d7c81b1be5473199b6d1c0016683b6",
+        "question": "Unfortunately, it sometimes ... .",
+        "answers": [
+            "happens",
+            "happen",
+            "hapens"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "b4c865b7f73b44c3819ec0366a0f2566",
+        "question": "She ... there.",
+        "answers": [
+            "live",
+            "lifes",
+            "lives"
+        ],
+        "correct": 2
+    },
+    {
+        "id": "a076397395f84c7f8927fc5ff52594d0",
+        "question": "We ... very hard.",
+        "answers": [
+            "work",
+            "works",
+            "is working"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "562c956fe1354508944be3773f395cf6",
+        "question": "She ... English fluently.",
+        "answers": [
+            "speaks",
+            "speak",
+            "spokes"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "b135e005811e4dbda1bacfa626da5fea",
+        "question": "They ... business.",
+        "answers": [
+            "does",
+            "do",
+            "doing"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "e84660c363794beaa5c289be4e04a48c",
+        "question": "She ... English at kindergarten.",
+        "answers": [
+            "study",
+            "studys",
+            "studies"
+        ],
+        "correct": 2
+    },
+    {
+        "id": "e4cba2b13b784288bd6eafa6ed078082",
+        "question": "I ... so, too.",
+        "answers": [
+            "think",
+            "thinks",
+            "are thinking"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "2816d7ac66834964b4b21bbef668fa29",
+        "question": "The news ... quite interesting.",
+        "answers": [
+            "seems",
+            "seem",
+            "are"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "6aa8bf6e5de6466fb9eea667069f23a4",
+        "question": "My friend ... a fairly good computer.",
+        "answers": [
+            "has",
+            "have",
+            "have s"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "0d67f0915eab4a719af701eb555ecefc",
+        "question": "The ticket ... 75 pence.",
+        "answers": [
+            "cost",
+            "costs",
+            "is costing"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "3b92ef3c08624fb8bf76a90b00f9fa57",
+        "question": "These flats ... 400,000 dollars.",
+        "answers": [
+            "cost",
+            "cost",
+            "costed"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "768627ec25f043058f097cc8ff7a3bed",
+        "question": "Our new teacher ... a lot.",
+        "answers": [
+            "know",
+            "is knowning",
+            "knows"
+        ],
+        "correct": 2
+    },
+    {
+        "id": "af0970fb4166407c957d045b7f176ad5",
+        "question": "This lesson ... interesting.",
+        "answers": [
+            "looks",
+            "look",
+            "seem"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "c26c04781c5a4f5bb5be428a5804e45f",
+        "question": "My closest friends ... this movie.",
+        "answers": [
+            "likes",
+            "like",
+            "enjoys"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "a33495b6fbf34a8ebac18c78b65352c8",
+        "question": "Your girlfriend always ... interesting things.",
+        "answers": [
+            "says",
+            "say",
+            "think"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "e33f8ed4a6d544999fef1282066ae577",
+        "question": "This software ... very well.",
+        "answers": [
+            "work",
+            "works",
+            "working"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "a1fd239314534897b8e0f11ee30eb7dd",
+        "question": "My sister ... to university.",
+        "answers": [
+            "goes",
+            "go",
+            "gone"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "40da9fc39d0c48368d4df11952b640fb",
+        "question": "It ... interest her.",
+        "answers": [
+            "doesn’t",
+            "don’t",
+            "wasn’t"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "927e6f76160e4251a31db04e98ec5905",
+        "question": "She ... want to do it again.",
+        "answers": [
+            "don’t",
+            "doesn’t",
+            "isn’t"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "5f33445816fc45b890252417b7489a04",
+        "question": "I ... believe her.",
+        "answers": [
+            "doesn’t",
+            "don’t",
+            "am not"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "621c35a199aa4050b810fddf93b2c587",
+        "question": "We ... know what to say.",
+        "answers": [
+            "don’t",
+            "doesn’t",
+            "not"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "4e16dae68717465a85d3de999429aa88",
+        "question": "She ... tell them all the truth.",
+        "answers": [
+            "doesn’t",
+            "don’t",
+            "aren’t"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "5839e38ac6204059aa65fff317acec95",
+        "question": "I ... know all the information.",
+        "answers": [
+            "don’t",
+            "doesn’t",
+            "no t"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "35b4be2b006645b482a99ac003ecdb39",
+        "question": "He ... have any brothers or sisters.",
+        "answers": [
+            "don’t",
+            "isn’t",
+            "doesn’t"
+        ],
+        "correct": 2
+    },
+    {
+        "id": "c70715c704214e639eb8ea8aea96f7a3",
+        "question": "She ... earn this sum of money.",
+        "answers": [
+            "doesn’t",
+            "don’t",
+            "haven’t"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "ba90c941f5c1402fa01683a05d91236a",
+        "question": "It ... help me.",
+        "answers": [
+            "don’t",
+            "doesn’t",
+            "isn’t"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "b2ea0ea9f2954a48b4690536c6028428",
+        "question": "They ... believe you.",
+        "answers": [
+            "don’t",
+            "doesn’t",
+            "not"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "7ca37034e6fb4d138596a4314f4a1d51",
+        "question": "This thing ... interest me.",
+        "answers": [
+            "doesn’t",
+            "don’t",
+            "aren’t"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "8bc85f89811544499cb732442b711512",
+        "question": "Our teacher ... know what to do.",
+        "answers": [
+            "don’t",
+            "not",
+            "doesn’t"
+        ],
+        "correct": 2
+    },
+    {
+        "id": "507c9598e10b4c199337ef07d1ce4117",
+        "question": "This situation ... seem quite strange.",
+        "answers": [
+            "doesn’t",
+            "don’t",
+            "not"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "f4a6498d74104206a9510754b40e76ba",
+        "question": "Most students ... learn French effectively.",
+        "answers": [
+            "doesn’t",
+            "don’t",
+            "haven’t"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "cfe26a8000a9473abc703e15b081cf4c",
+        "question": "This news ... seem unusual.",
+        "answers": [
+            "doesn’t",
+            "don’t",
+            "aren’t"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "043ff1af863e43bbb0230a82f0df13fa",
+        "question": "Their lessons ... start on time.",
+        "answers": [
+            "doesn’t",
+            "don’t",
+            "hadn’t"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "1c5289b312514206b1340eceeb3698cb",
+        "question": "These things ... seem important.",
+        "answers": [
+            "doesn’t",
+            "don’t",
+            "have"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "268f759581bf44c8ba102d1fcc0f15a8",
+        "question": "My results ... look very good.",
+        "answers": [
+            "don’t",
+            "doesn’t",
+            "aren’t looking"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "a38a20f6f2dc47f6a80b4a8d8726305c",
+        "question": "Her husband ... spend much money.",
+        "answers": [
+            "doesn’t",
+            "don’t",
+            "isn’ t"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "83dd2d7c967c4b998cb7ae9055b2f6d2",
+        "question": "My boyfriend ... remember it.",
+        "answers": [
+            "has",
+            "don’t",
+            "doesn’t"
+        ],
+        "correct": 2
+    },
+    {
+        "id": "16957e9d48794f35b2f6c6bdd504ac4d",
+        "question": "... he speak English?",
+        "answers": [
+            "Do",
+            "Does",
+            "Has"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "158bd7ec3bec402996690a7bbd5ac0c8",
+        "question": "... you live there?",
+        "answers": [
+            "Does",
+            "Do",
+            "Are"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "f0dbdcd2775045d2be69b53a37dfaf4a",
+        "question": "... you agree with us?",
+        "answers": [
+            "Is",
+            "Does",
+            "Do"
+        ],
+        "correct": 2
+    },
+    {
+        "id": "8393f5d7c6154687ae236a9c2447b2ae",
+        "question": "... you understand me?",
+        "answers": [
+            "Does",
+            "Do",
+            "Are"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "fca9f38c1f3b4561aca2ebaeadaeddb2",
+        "question": "... we learn Russian effectively?",
+        "answers": [
+            "Do",
+            "Does",
+            "Have"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "512e9ad1229a4b169c35b13cdae6017f",
+        "question": "... I show better results?",
+        "answers": [
+            "Doe",
+            "Have",
+            "Do"
+        ],
+        "correct": 2
+    },
+    {
+        "id": "f32ed340ae6e442ba769ea26d6cba1f9",
+        "question": "... it really work?",
+        "answers": [
+            "Does",
+            "Do",
+            "Is"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "b11733be9e4c4dab805e0e7b52ee85ad",
+        "question": "... she support you?",
+        "answers": [
+            "Do",
+            "Does",
+            "Is"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "2d807ecff29741ba85cb824cfc364f8e",
+        "question": "... he usually buy cheap or expensive things?",
+        "answers": [
+            "Does",
+            "Do",
+            "Has"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "a0e0ef51919e48c0be0ccbdd1edf8d2e",
+        "question": "... it at times happen?",
+        "answers": [
+            "Does",
+            "Do",
+            "Is"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "9431ed95281740c38fb50d50590476a0",
+        "question": "... your grandparents also think so?",
+        "answers": [
+            "Does",
+            "Do",
+            "Are"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "303ad96d0e584cada871e77bac31012a",
+        "question": "... his friends think the same?",
+        "answers": [
+            "Does",
+            "Do",
+            "Hav e"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "0a175d854489416184ac68249098ff72",
+        "question": "... that thing matter?",
+        "answers": [
+            "Is",
+            "Do",
+            "Does"
+        ],
+        "correct": 2
+    },
+    {
+        "id": "473d7bf97eb04833b9dd167802206459",
+        "question": "... her success motivate you?",
+        "answers": [
+            "Do",
+            "Does",
+            "Isn’t"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "a7e5c20c5da24af0abcf51d25305b9d9",
+        "question": "... all people like this fruit?",
+        "answers": [
+            "Do",
+            "Does",
+            "Are"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "9151fc2162c640c58e6205eb79c735e0",
+        "question": "... your mother do business?",
+        "answers": [
+            "Do",
+            "Does",
+            "Has"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "61d1b18883bc47cd88fb6427c62672b0",
+        "question": "... these words inspire you?",
+        "answers": [
+            "Does",
+            "Do",
+            "Are"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "f05e4997f0de402a9d5e37d94ed1fccf",
+        "question": "... your business partner work professionally?",
+        "answers": [
+            "Do",
+            "Does",
+            "Is"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "d023e5530c984c678688e207f523f678",
+        "question": "... your teacher give you way too much homework?",
+        "answers": [
+            "Does",
+            "Do",
+            "Don’t"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "f2ec49cd8b4b4475b0077eb7d4bf8185",
+        "question": "... these projects bring you benefits?",
+        "answers": [
+            "Do",
+            "Does",
+            "Doesn’t"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "806e71009dd94a32839413812de8168c",
+        "question": "... their success motivate you?",
+        "answers": [
+            "Does",
+            "Do",
+            "Isn’t"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "dea27bcc0a41493b8b4febe6aa69efcc",
+        "question": "... his parents think so?",
+        "answers": [
+            "Do",
+            "Does",
+            "Are"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "78261dff0076410996efdb8353f65479",
+        "question": "... all people like it?",
+        "answers": [
+            "Does",
+            "Have",
+            "Do"
+        ],
+        "correct": 2
+    },
+    {
+        "id": "23a50c3b5a244dfabf32c0972c9011ff",
+        "question": "... your grandfather do business?",
+        "answers": [
+            "Do",
+            "Does",
+            "Is"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "9bd1b499843d4e63a200fd6a640949d0",
+        "question": "... those projects bring you benefit?",
+        "answers": [
+            "Do",
+            "Does",
+            "Ar e"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "cedff1b68fba42edb0db87df1825d412",
+        "question": "... your business partner work professionally?",
+        "answers": [
+            "Do",
+            "Does",
+            "Don’t"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "c0f504a701ea4d81ab6dd2a6db67331e",
+        "question": "... this thing really matter for you?",
+        "answers": [
+            "Don’t",
+            "Do",
+            "Does"
+        ],
+        "correct": 2
+    },
+    {
+        "id": "0224390fdb5a4a11816b770b8ca8a94f",
+        "question": "... your close friends think the same?",
+        "answers": [
+            "Does",
+            "Do",
+            "Are"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "3ea52e9058c64922a6749612f0b247bf",
+        "question": "... these words inspire you?",
+        "answers": [
+            "Do",
+            "Does",
+            "Doesn’t"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "a7e0fffbf64d474cb3da1456c5f99340",
+        "question": "... your teacher give you way too much homework during the week?",
+        "answers": [
+            "Do",
+            "Does",
+            "Don’t"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "d0631063ff704842a90131c1e343d01b",
+        "question": "Who ... you?",
+        "answers": [
+            "do help",
+            "helps",
+            "aid"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "1be348f4dbbf4380af3b2d202703a9d1",
+        "question": "Who ... you know?",
+        "answers": [
+            "does",
+            "do",
+            "have"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "f2159423ba294fe8ac95aaf06e32074e",
+        "question": "What ... so interesting in your opinion?",
+        "answers": [
+            "do seem",
+            "seems",
+            "seeming"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "a764306ff7374912ab4649fc34112de6",
+        "question": "What TV channels ... you watch?",
+        "answers": [
+            "do",
+            "does",
+            "is"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "4fc381b668fd436b92c3ed54bd21861a",
+        "question": "Where ... they live?",
+        "answers": [
+            "do",
+            "does",
+            "doesn’t"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "eb50958bd8ef4b54b68700c1b19403c4",
+        "question": "When ... it begin?",
+        "answers": [
+            "do",
+            "is",
+            "does"
+        ],
+        "correct": 2
+    },
+    {
+        "id": "2a6aab1770b84684b632cf9da6521f14",
+        "question": "How often ... he go to the gym?",
+        "answers": [
+            "does",
+            "do",
+            "is"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "809ba2f8803242edaf8c3cf8f2360a34",
+        "question": "How much ... it cost?",
+        "answers": [
+            "do",
+            "does",
+            "ha s"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "aa0bc85f6baf42c8b1a4dc54ee142568",
+        "question": "How many times a month ... they go swimming?",
+        "answers": [
+            "do",
+            "does",
+            "are"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "a819146a543a43e7bb23d0caa97612a5",
+        "question": "How ... you find this idea?",
+        "answers": [
+            "does",
+            "do",
+            "have"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "a2b47d310ad5458a9fef8b090119df15",
+        "question": "How far ... his parents live?",
+        "answers": [
+            "does",
+            "are",
+            "do"
+        ],
+        "correct": 2
+    },
+    {
+        "id": "c674bd17c72943b2a90dc9d2408cb925",
+        "question": "Could you tell me how often ... this thing happen?",
+        "answers": [
+            "does",
+            "do",
+            "is"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "c7b72ca55942426893f8a41bc8131cd7",
+        "question": "Where ... your cousin work?",
+        "answers": [
+            "does",
+            "do",
+            "are"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "cf37232616a84062bc998cc8145becec",
+        "question": "What ... so strange?",
+        "answers": [
+            "do look",
+            "looks",
+            "are looking"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "51e9dd9ff5ec4c65bc8d21c13aaaaf39",
+        "question": "What time ... the lesson finish?",
+        "answers": [
+            "does",
+            "do",
+            "is"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "560edd728ec847129834dbbd2caa1265",
+        "question": "Who ... it?",
+        "answers": [
+            "recommends",
+            "do recommend",
+            "does recommend"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "1165104065ed4c2bb7b375bff6fd2c46",
+        "question": "Where ... your boyfriend come from?",
+        "answers": [
+            "does",
+            "do",
+            "is"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "c902a31b80da4abc913f968dce3b3fbc",
+        "question": "What kind of advice ... her work colleagues need?",
+        "answers": [
+            "does",
+            "are",
+            "do"
+        ],
+        "correct": 2
+    },
+    {
+        "id": "988c90c072c14eb4a4572ec5f1ca6ef7",
+        "question": "How ... your teacher explain it to you?",
+        "answers": [
+            "does",
+            "do",
+            "don’t"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "ed6509822b9541d19a4e83e6d2e7283c",
+        "question": "Why ... their result seem so bad?",
+        "answers": [
+            "do",
+            "does",
+            "are"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "5d2af466ff1c4a7ba574400eb62fc577",
+        "question": "I ... so happy with you.",
+        "answers": [
+            "are",
+            "am",
+            "wil l"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "101a3c3005fe49f4859e86377481522c",
+        "question": "This knowledge ... enough.",
+        "answers": [
+            "is",
+            "are",
+            "aren’t"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "9d2719ae2be94ea48838475c9e5ac174",
+        "question": "We ... at their home.",
+        "answers": [
+            "am",
+            "are",
+            "be"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "780494ab452342d086f39c0697f113ee",
+        "question": "It ... fairly interesting.",
+        "answers": [
+            "are",
+            "is",
+            "has"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "c193b3e593c44b50895b9337a53520d2",
+        "question": "She ... a student.",
+        "answers": [
+            "aren’t being",
+            "are",
+            "is"
+        ],
+        "correct": 2
+    },
+    {
+        "id": "322edb10e0b04e80a67f0df417d669ae",
+        "question": "You ... so talented in my opinion.",
+        "answers": [
+            "are",
+            "have",
+            "has"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "fe5a7ef2335e4de08a3f68d0522870b7",
+        "question": "She ... very beautiful tonight.",
+        "answers": [
+            "were",
+            "is",
+            "are"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "21b664a0e3e94ae08f83a8d270a987de",
+        "question": "They forever say information ... power.",
+        "answers": [
+            "have",
+            "is",
+            "mean"
+        ],
+        "correct": 1
+    },
+    {
+        "id": "458679e4e36848b29e42d2fa69767a8b",
+        "question": "The morning news ... surprising.",
+        "answers": [
+            "is",
+            "are",
+            "be"
+        ],
+        "correct": 0
+    },
+    {
+        "id": "522351369eec4950a3c4b2f1c59ddddc",
+        "question": "He ... our partner.",
+        "answers": [
+            "were",
+            "have",
+            "is"
+        ],
+        "correct": 2
+    }
+]

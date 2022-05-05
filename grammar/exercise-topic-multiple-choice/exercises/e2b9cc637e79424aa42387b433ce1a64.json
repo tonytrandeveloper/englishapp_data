@@ -1,0 +1,72 @@
+{
+    "id": "e2b9cc637e79424aa42387b433ce1a64",
+    "title": "Common Idioms",
+    "questions": [
+        {
+            "question": "I really feel that we should give him the ........................................ of doubt.",
+            "description": "",
+            "answers": [
+                "chance",
+                "benefit",
+                "advantage"
+            ],
+            "correct": 1,
+            "id": "a24736a411e6472687653e876cc4bacc"
+        },
+        {
+            "question": "The eels gave me the ...............................................",
+            "description": "",
+            "answers": [
+                "chills",
+                "creeps",
+                "shivers"
+            ],
+            "correct": 1,
+            "id": "11f719ab76ca4a8682f5d99ba8246f89"
+        },
+        {
+            "question": "Susie was upset with Michael and gave him the cold ........................................ when she met him at the party.",
+            "description": "",
+            "answers": [
+                "face",
+                "hand",
+                "shoulder"
+            ],
+            "correct": 2,
+            "id": "49357a8be569453cbc7892c3ee169b74"
+        },
+        {
+            "question": "I wanted to give my parents a surprise gift on their wedding anniversary, but my sister unwittingly gave the ............................................... away.",
+            "description": "",
+            "answers": [
+                "match",
+                "game",
+                "prize"
+            ],
+            "correct": 1,
+            "id": "3c0e9390cfd94d55b9a77a190a21250d"
+        },
+        {
+            "question": "My parents have given me the .................................................... light to join the local soccer team.",
+            "description": "",
+            "answers": [
+                "red",
+                "white",
+                "green"
+            ],
+            "correct": 2,
+            "id": "8c95db8444164b88b8871c372ca0cc3c"
+        },
+        {
+            "question": "My sister gave me the ................................................. eye when I told our parents that she had let the cat in.",
+            "description": "",
+            "answers": [
+                "cat",
+                "evil",
+                "black"
+            ],
+            "correct": 1,
+            "id": "21571f4909ac4d80986967bb47957662"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "id": "8c4184e4d4384a11915336db2eaf49ef",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "The older I get, ……………… I am.",
+            "description": "",
+            "answers": [
+                "the happy",
+                "the happier",
+                "happier",
+                "happy"
+            ],
+            "correct": 1,
+            "id": "8b2f30ffd71f41feaed9317d9bac4ea7"
+        },
+        {
+            "question": "Your accent is ………………… in the class.",
+            "description": "",
+            "answers": [
+                "worst",
+                "the worst",
+                "worse"
+            ],
+            "correct": 1,
+            "id": "892682a2c56242578b6f0c80c21d0145"
+        },
+        {
+            "question": "I stayed an extra night so that I …………………. see Ann.",
+            "description": "",
+            "answers": [
+                "can",
+                "could",
+                "may"
+            ],
+            "correct": 1,
+            "id": "dc5f34d408154e0a89ea581622e113cd"
+        },
+        {
+            "question": "While I ………………. a shower, I slipped on the floor.",
+            "description": "The main verb is in the past tense, so we need a past tense in the subordinate clause as well. ",
+            "answers": [
+                "am having",
+                "was having",
+                "had"
+            ],
+            "correct": 1,
+            "id": "ffe22a64850143f9bed4a705c7925cd8"
+        },
+        {
+            "question": "The man …………………. she married was an old friend of mine.",
+            "description": "In identifying relative clauses, that can be used instead of whom.",
+            "answers": [
+                "that",
+                "whom",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "68ea4e9ca1b746bb83d24b8049d210eb"
+        },
+        {
+            "question": "The house ……………….. I live is very small.",
+            "description": "",
+            "answers": [
+                "where",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "c2feae7c4f0e4882bd2b27c86f389b22"
+        },
+        {
+            "question": "There is the girl ……………….. works with my sister.",
+            "description": "Here the relative pronoun is the subject of the relative clause and hence we use who.",
+            "answers": [
+                "who",
+                "whom",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "751f0412e1204b638a8d06b4eb269a03"
+        },
+        {
+            "question": "The road is getting ......................",
+            "description": "",
+            "answers": [
+                "more and more steep",
+                "steeper and steeper",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "50c3f5d5f0ef4a06ace1bb38d99c60ce"
+        },
+        {
+            "question": "I have got …………………. than I used to have.",
+            "description": "Less is the comparative form of little. Lesser is now only used in expressions like 'the lesser of the two evils'.",
+            "answers": [
+                "less energy",
+                "lesser energy",
+                "least energy"
+            ],
+            "correct": 0,
+            "id": "5ffcffde0a6e441d89f5e227bb9d9454"
+        },
+        {
+            "question": "She likes music, and ………………..",
+            "description": "",
+            "answers": [
+                "so I",
+                "so do I",
+                "I so"
+            ],
+            "correct": 1,
+            "id": "a33be5d279de4e3090a7f7b1177c9e79"
+        }
+    ]
+}

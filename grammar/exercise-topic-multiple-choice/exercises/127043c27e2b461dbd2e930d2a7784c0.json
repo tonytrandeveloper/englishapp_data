@@ -1,0 +1,138 @@
+{
+    "id": "127043c27e2b461dbd2e930d2a7784c0",
+    "title": "Gap Filling Exercise",
+    "questions": [
+        {
+            "question": "It is time you ………………………… that mole checked.",
+            "description": "A simple past is used after it is time to refer to the present or future. ",
+            "answers": [
+                "get",
+                "got",
+                "should get"
+            ],
+            "correct": 1,
+            "id": "210f89d50a954236915d5cff13a8db15"
+        },
+        {
+            "question": "There …………………………… be a tea stall in that corner.",
+            "description": "Used to can be used to talk about past states. Would cannot be used with this meaning. ",
+            "answers": [
+                "would",
+                "used to",
+                "was"
+            ],
+            "correct": 1,
+            "id": "dfd2185f7e1b4775aabf0262f999bade"
+        },
+        {
+            "question": "He …………………………… to be a singer.",
+            "description": "Use the simple present to talk about needs, wants, desires, aspirations etc.",
+            "answers": [
+                "aspires",
+                "is aspiring",
+                "aspire"
+            ],
+            "correct": 0,
+            "id": "f0b34908ea5c40c1abe4bb43b2a9cd16"
+        },
+        {
+            "question": "You ………………………….. never violate the rules.",
+            "description": "Must shows strong obligation.",
+            "answers": [
+                "must",
+                "should",
+                "would"
+            ],
+            "correct": 0,
+            "id": "5d1c4855699043b4be8070b5ce8c4cf5"
+        },
+        {
+            "question": "If she left home at six, she ……………………………… be here soon.",
+            "description": "Should shows logical possibility. ",
+            "answers": [
+                "should",
+                "need",
+                "would"
+            ],
+            "correct": 0,
+            "id": "9fec9518f398497cba856bd0b3049040"
+        },
+        {
+            "question": "There are no secrets between you and …………………………….",
+            "description": "Between is a preposition. A pronoun used after the preposition should be in its object form.",
+            "answers": [
+                "I",
+                "me",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "5c8b66afc25c48e7a558eb0a78e47970"
+        },
+        {
+            "question": "She patted ………………………… on the back for completing the project on time.",
+            "description": "When the subject and object refer to the same person, the reflexive pronoun (herself, yourself etc.) is used instead of the object pronoun. ",
+            "answers": [
+                "her",
+                "herself",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "6749e32062a74276ba94762584f1f1f9"
+        },
+        {
+            "question": "I waited ………………………… hours and then I went home.",
+            "description": "For is used with duration.",
+            "answers": [
+                "since",
+                "for",
+                "from"
+            ],
+            "correct": 1,
+            "id": "01c19f89e3724367b26cb8015dda24ec"
+        },
+        {
+            "question": "………………………………. playing to the best of our ability, we could not win the match.",
+            "description": "Either despite or in spite of can be used here.",
+            "answers": [
+                "In spite of",
+                "Despite of",
+                "Despite"
+            ],
+            "correct": 2,
+            "id": "44519a72fc924b9e9a8325c27bbed25c"
+        },
+        {
+            "question": "They congratulated her …………………………………. her success.",
+            "description": "Either for or on is possible here. ",
+            "answers": [
+                "for",
+                "on",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ec0a58ec490f47febafd8091fdbf58f5"
+        },
+        {
+            "question": "Why are you always shouting ………………………….. me?",
+            "description": "",
+            "answers": [
+                "on",
+                "with",
+                "at"
+            ],
+            "correct": 2,
+            "id": "385d335aa8834b1d8c5785e25b1b5f0c"
+        },
+        {
+            "question": "…………………………….. of them was there.",
+            "description": "All and some should be followed by a plural verb.",
+            "answers": [
+                "None",
+                "All",
+                "Some"
+            ],
+            "correct": 0,
+            "id": "1630804aaf6244928c1c1e8e24779fa1"
+        }
+    ]
+}

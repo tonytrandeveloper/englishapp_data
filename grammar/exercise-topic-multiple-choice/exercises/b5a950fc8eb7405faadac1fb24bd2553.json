@@ -1,0 +1,129 @@
+{
+    "id": "b5a950fc8eb7405faadac1fb24bd2553",
+    "title": "Sentence Correction Exercise",
+    "questions": [
+        {
+            "question": "My father knows how to teach English .............................",
+            "description": "",
+            "answers": [
+                "well",
+                "good"
+            ],
+            "correct": 0,
+            "id": "c6092fca4bd24c1ab2a054c5e269f477"
+        },
+        {
+            "question": "We want a new house to ....................................",
+            "description": "",
+            "answers": [
+                "live",
+                "live in"
+            ],
+            "correct": 1,
+            "id": "4874f9535f5f4cdda5306de80b80c030"
+        },
+        {
+            "question": "I ....................................... for you since 9 o’clock in the morning.",
+            "description": "",
+            "answers": [
+                "am waiting",
+                "have been waiting"
+            ],
+            "correct": 1,
+            "id": "5fcd8f988d2e4739bf81a91820f1c48e"
+        },
+        {
+            "question": "James ..................................... suffering from fever since yesterday.",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 2,
+            "id": "e73b77f19f0e401b9f1f9994b2e6c759"
+        },
+        {
+            "question": "Neither Ann nor Mary .................................... arrived.",
+            "description": "",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "1ba336a03cd94833960eac79ff48b30a"
+        },
+        {
+            "question": "I will call on you before I .....................................",
+            "description": "",
+            "answers": [
+                "leave",
+                "will leave"
+            ],
+            "correct": 0,
+            "id": "95960fa1427e4a1ba8cc272124f77c2a"
+        },
+        {
+            "question": "I ..................................... all the books to the library yesterday.",
+            "description": "",
+            "answers": [
+                "returned",
+                "have returned"
+            ],
+            "correct": 0,
+            "id": "0be73fc1c62f4a2aa19e1ad2238e2f24"
+        },
+        {
+            "question": "Each man and each woman ...................................... the right to vote.",
+            "description": "",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "a113634d79b44ee98f9dea5e39da2733"
+        },
+        {
+            "question": "Walking along the road, the old man was .............................. by a bus.",
+            "description": "",
+            "answers": [
+                "ran over",
+                "run over"
+            ],
+            "correct": 1,
+            "id": "39dc6ee78a644c78a6a4dea5c1910350"
+        },
+        {
+            "question": "He ...................................... hard for the last two weeks.",
+            "description": "",
+            "answers": [
+                "is studying",
+                "was studying",
+                "has been studying"
+            ],
+            "correct": 2,
+            "id": "118a5473ed6041b690dd3c7ef2f01492"
+        },
+        {
+            "question": "I am not used ...................................... in busy streets.",
+            "description": "",
+            "answers": [
+                "to drive",
+                "driving",
+                "to driving"
+            ],
+            "correct": 2,
+            "id": "523b5f486a7a46e99c4b5d05de83e528"
+        },
+        {
+            "question": "The poet and dramatist ....................................... dead.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "c4cb291f54af40a28b25ed4bd72ed996"
+        }
+    ]
+}

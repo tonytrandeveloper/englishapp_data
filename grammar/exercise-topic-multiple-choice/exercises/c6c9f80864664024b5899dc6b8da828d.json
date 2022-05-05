@@ -1,0 +1,139 @@
+{
+    "id": "c6c9f80864664024b5899dc6b8da828d",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "When I opened my eyes, I ………………. a strange sight.",
+            "description": "We use the simple past tense to talk about two quickly finished actions in the past.",
+            "answers": [
+                "saw",
+                "was seeing",
+                "have seen"
+            ],
+            "correct": 0,
+            "id": "28ace9d352d447e5874baf6822bdd9de"
+        },
+        {
+            "question": "Every morning she …………….. up early and gets ready for work.",
+            "description": "We use the simple present tense to talk about habits and routines.",
+            "answers": [
+                "is waking",
+                "wakes",
+                "has woken"
+            ],
+            "correct": 1,
+            "id": "b37877cdc4df4fe7bf7e82349445762a"
+        },
+        {
+            "question": "If I knew what he wanted, I ………………. this.",
+            "description": "We use the second conditional to talk about imaginary situations. In the second conditional, we use a simple past tense in the if-clause and would + infinitive in the main clause.",
+            "answers": [
+                "will not permit",
+                "would not permit",
+                "would not have permitted"
+            ],
+            "correct": 1,
+            "id": "77dfa40b40f3477d9ad46c78e8f7ba19"
+        },
+        {
+            "question": "I ………………….. anything from her in a long time.",
+            "description": "",
+            "answers": [
+                "didn't hear",
+                "haven't heard",
+                "am not hearing"
+            ],
+            "correct": 1,
+            "id": "b654206ee5d64c459c4cb829e837252d"
+        },
+        {
+            "question": "The headmaster ……………… to talk to you.",
+            "description": "The simple present is used to talk about facts. ",
+            "answers": [
+                "want",
+                "wants",
+                "is wanting"
+            ],
+            "correct": 1,
+            "id": "f996ef0245274d45b6f47223a0ca66f5"
+        },
+        {
+            "question": "Jane ………………. with her parents.",
+            "description": "We use the simple present to talk about permanent situations.",
+            "answers": [
+                "is living",
+                "lives",
+                "has lived"
+            ],
+            "correct": 1,
+            "id": "c7286cd4fa7f41399dac31da1c067701"
+        },
+        {
+            "question": "We ..................... Greece next month.",
+            "description": "The present continuous tense can be used to talk about future events if the arrangement already exists. ",
+            "answers": [
+                "visit",
+                "will visit",
+                "would visit",
+                "are visiting"
+            ],
+            "correct": 3,
+            "id": "076d4d12d5914623aade104865be398b"
+        },
+        {
+            "question": "The moon …………….. around the earth.",
+            "description": "We use the simple present to talk about facts and general truths.",
+            "answers": [
+                "is revolving",
+                "has revolved",
+                "revolves"
+            ],
+            "correct": 2,
+            "id": "2fd7882254e14df08bd5a20bf9d0d1ce"
+        },
+        {
+            "question": "She ………………… a novel.",
+            "description": "We use the present perfect here because there is no reference to time.",
+            "answers": [
+                "wrote",
+                "writes",
+                "has written"
+            ],
+            "correct": 2,
+            "id": "9ba685c2c6934a6ca3c723625e3a8373"
+        },
+        {
+            "question": "All students ………………. in their work.",
+            "description": "",
+            "answers": [
+                "handed",
+                "have handed",
+                "hand"
+            ],
+            "correct": 1,
+            "id": "56001882c9294b468408988f5913c7c2"
+        },
+        {
+            "question": "I …………………. English for twelve years.",
+            "description": "We use the present perfect continuous tense to talk about actions and situations that started in the past and have continued up to the present. ",
+            "answers": [
+                "am teaching",
+                "have been teaching",
+                "will be teaching"
+            ],
+            "correct": 1,
+            "id": "c04f622ccff54fd4b423ea219849c49e"
+        },
+        {
+            "question": "The students ............................. their dialogues.",
+            "description": "We use the present continuous to talk about actions and situations that are going on at the moment of speaking. ",
+            "answers": [
+                "rehearse",
+                "are rehearsing",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "7bce28619fb94942b8ba9d8b92029bd9"
+        }
+    ]
+}

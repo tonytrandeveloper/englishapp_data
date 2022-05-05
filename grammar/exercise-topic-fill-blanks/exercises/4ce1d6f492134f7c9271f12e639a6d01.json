@@ -1,0 +1,308 @@
+{
+    "id": "4ce1d6f492134f7c9271f12e639a6d01",
+    "title": "Past Simple Reported Statements",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Jane left the party early.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me Jane had left the party early."
+                    ]
+                }
+            ],
+            "id": "9f7d5e5e50684369a201f064d48c2f7d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I didn't go out at the weekend.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he hadn't gone out at the weekend."
+                    ]
+                }
+            ],
+            "id": "f4f280cd45bc4128b8c3d94001b09674"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He didn't like chocolate as a child.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he hadn't liked chocolate as a child."
+                    ]
+                }
+            ],
+            "id": "890d3707c8dc491da421affe164e1473"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They visited Japan.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me they had visited Japan."
+                    ]
+                }
+            ],
+            "id": "efd8782bfc4741a8998b23b7d9e61fa7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She didn't buy the dress.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me she hadn't bought the dress."
+                    ]
+                }
+            ],
+            "id": "0a6c2aba8d8f4e6f9ad884b7a76677af"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I travelled through India and Pakistan.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he had travelled through India and Pakistan."
+                    ]
+                }
+            ],
+            "id": "a4b4f3211fbe4e51b71bbfefad9abf8f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He met his girlfriend in a café.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he had met his girlfriend in a café."
+                    ]
+                }
+            ],
+            "id": "5136203f90fb4738882531a43364ea67"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"David didn't arrive until 10 o'clock.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me David hadn't arrived until 10 o'clock."
+                    ]
+                }
+            ],
+            "id": "bd2af63e0e074c659f6c8cfa72e2f28a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We went to the park to have a picnic.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me they had gone to the park to have a picnic."
+                    ]
+                }
+            ],
+            "id": "da7e7561d6ee42f984ff35d98fe249df"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We ate Chinese food, then we walked home.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me they had eaten Chinese food, then they walked home."
+                    ]
+                }
+            ],
+            "id": "cf813e78b3b24cb48dd03870f0c75e54"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She forgot to bring the CDs.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me she had forgotten to bring the CDs."
+                    ]
+                }
+            ],
+            "id": "5a921b3c24b845d296a45c8262b610a5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I didn't like the food in the restaurant.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he hadn't liked the food in the restaurant."
+                    ]
+                }
+            ],
+            "id": "2b9ad96509b3441c9b14294301d6f304"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He didn't take a shower.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he hadn't taken a shower."
+                    ]
+                }
+            ],
+            "id": "a301c0a7e6fa475a82720fe806492188"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I worked until six.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he had worked until six."
+                    ]
+                }
+            ],
+            "id": "4ae94f096976472791c0d6f0e355d4e1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We went to Paris for the weekend.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me they had gone to Paris for the weekend.",
+                        "He told me they had been to Paris for the weekend."
+                    ]
+                }
+            ],
+            "id": "0a631a13047948c687fbb1289f2e24a1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"The plane left at seven.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me the plane had left at seven."
+                    ]
+                }
+            ],
+            "id": "f4e4f3f099a7499ab5e5070d7d7949ae"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I came to London in 2004.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he had come to London in 2004."
+                    ]
+                }
+            ],
+            "id": "a8d3acb9e04f47819aedab1d247230a0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Lucy didn't go to university.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me Lucy hadn't gone to university.",
+                        "He told me Lucy hadn't been to university."
+                    ]
+                }
+            ],
+            "id": "45e81ca793374113a18cc34be0d0dc4d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"John never studied German.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me John had never studied  German."
+                    ]
+                }
+            ],
+            "id": "d9575ac641234ef4864578539058297b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I went to the cinema yesterday.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He told me he had been to the cinema yesterday."
+                    ]
+                }
+            ],
+            "id": "15fcc580af08496cabba84ec7b87da9e"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "id": "9f35fd189a14420ead4b0eb1870d6734",
+    "title": "Wish",
+    "questions": [
+        {
+            "question": "I wish I ……………… speak English.",
+            "description": "",
+            "answers": [
+                "would",
+                "could"
+            ],
+            "correct": 1,
+            "id": "87fab2cb07a540a7bc8a58faf1adeb20"
+        },
+        {
+            "question": "I wish you ………………… stop making that noise.",
+            "description": "",
+            "answers": [
+                "would",
+                "could"
+            ],
+            "correct": 0,
+            "id": "8c79f4ebc72e451ab6bce14a22ec0444"
+        },
+        {
+            "question": "I ………………….. to the manager.",
+            "description": "",
+            "answers": [
+                "wish to talk",
+                "am wishing to talk",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "fba2b7c3af9e444ea05bed58bd00dcb3"
+        },
+        {
+            "question": "I wish that I ………………… better looking.",
+            "description": "",
+            "answers": [
+                "was",
+                "am"
+            ],
+            "correct": 0,
+            "id": "fba6710de3204819ad96c1401a4bd683"
+        },
+        {
+            "question": "I …………………. your exams.",
+            "description": "",
+            "answers": [
+                "wish you would pass",
+                "hope you pass"
+            ],
+            "correct": 1,
+            "id": "7409d5f34bac444a8b115121a00ecabb"
+        },
+        {
+            "question": "I wish I …………………. there.",
+            "description": "",
+            "answers": [
+                "am",
+                "was"
+            ],
+            "correct": 1,
+            "id": "51c1a2d7b59749d4a1d42fad0f18434d"
+        },
+        {
+            "question": "I wish I ………………… that yesterday.",
+            "description": "",
+            "answers": [
+                "hadn't said",
+                "didn't say"
+            ],
+            "correct": 0,
+            "id": "35a7f3fdd56943ec887e2dac96d07f54"
+        },
+        {
+            "question": "I wish you …………………. stop smoking.",
+            "description": "",
+            "answers": [
+                "could",
+                "would"
+            ],
+            "correct": 1,
+            "id": "c4e61d428d3845839abafaad27db66ec"
+        },
+        {
+            "question": "I wish today ………………… Sunday.",
+            "description": "",
+            "answers": [
+                "was",
+                "would be"
+            ],
+            "correct": 0,
+            "id": "bea5842352cb438da99f7bda0620e746"
+        },
+        {
+            "question": "I wish I ………………… somewhere else.",
+            "description": "",
+            "answers": [
+                "live",
+                "lived"
+            ],
+            "correct": 1,
+            "id": "9552c6b31aae45deacd25445d2b39679"
+        }
+    ]
+}

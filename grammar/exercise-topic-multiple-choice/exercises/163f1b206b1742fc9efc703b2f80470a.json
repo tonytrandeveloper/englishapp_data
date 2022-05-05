@@ -1,0 +1,138 @@
+{
+    "id": "163f1b206b1742fc9efc703b2f80470a",
+    "title": "Phrasal Verbs With Set",
+    "questions": [
+        {
+            "question": "While I was going to school two stray dogs set ................................ me.",
+            "description": "To set about somebody is to attack them.",
+            "answers": [
+                "on",
+                "about",
+                "off"
+            ],
+            "correct": 1,
+            "id": "a81c1416cefc436e82a98385ca22d1d8"
+        },
+        {
+            "question": "............................ at least 30 minutes for exercise.",
+            "description": "To set something aside is to reserve it for a specific purpose.",
+            "answers": [
+                "Set aside",
+                "Set off",
+                "Set about"
+            ],
+            "correct": 0,
+            "id": "295269baf9014e4089fb87bd2b9f17fb"
+        },
+        {
+            "question": "The side trip set us ........................... by a few hours but it was worth our while.",
+            "description": "If something sets you back it delays you.",
+            "answers": [
+                "out",
+                "back",
+                "off"
+            ],
+            "correct": 1,
+            "id": "c7edefe22f054bbdb2cbfa14d046c03a"
+        },
+        {
+            "question": "That coat set me .............................. 600 dollars.",
+            "description": "Set back can also mean cost money.",
+            "answers": [
+                "out",
+                "back",
+                "off"
+            ],
+            "correct": 1,
+            "id": "2604ba17dddd43489581b65ef2022ce6"
+        },
+        {
+            "question": "I decided to set ............................. all those experiences so that  others can benefit.",
+            "description": "To set something down is to narrate it in writing. ",
+            "answers": [
+                "out",
+                "down",
+                "off"
+            ],
+            "correct": 1,
+            "id": "cca9a8b2d1ec493199059c75cde17819"
+        },
+        {
+            "question": "They set ............................. with hardly any money.",
+            "description": "To set forth is to begin a journey or expedition.",
+            "answers": [
+                "forth",
+                "on",
+                "up"
+            ],
+            "correct": 0,
+            "id": "440bee9d69824136a8218475db8fd6ab"
+        },
+        {
+            "question": "What sets him ............................. is his utmost dedication to his cause.",
+            "description": "If a quality sets you apart, it makes you seem superior.",
+            "answers": [
+                "off",
+                "apart",
+                "aside"
+            ],
+            "correct": 1,
+            "id": "c08a4a44e8604ff4af34cf7c56b4d103"
+        },
+        {
+            "question": "We set ................................. early in the morning.",
+            "description": "Set off can mean begin a journey.",
+            "answers": [
+                "on",
+                "off",
+                "in"
+            ],
+            "correct": 1,
+            "id": "018d1d1ae0734de7bbf65fcadb2fdf03"
+        },
+        {
+            "question": "Her rude remarks set him ...........................",
+            "description": "If something sets you off, it makes you angry.",
+            "answers": [
+                "up",
+                "on",
+                "off"
+            ],
+            "correct": 2,
+            "id": "9639b7101a3647e39e6e30cba5e9b8e2"
+        },
+        {
+            "question": "They set the dogs ............................ the hapless beggar.",
+            "description": "To set an animal on is to encourage it to attack someone.",
+            "answers": [
+                "about",
+                "in",
+                "on"
+            ],
+            "correct": 2,
+            "id": "e0eb9c54809f4793a9f6a047ed42f65c"
+        },
+        {
+            "question": "The opposition parties alleged that the election was set ................................",
+            "description": "If election is set up, it is rigged. ",
+            "answers": [
+                "in",
+                "on",
+                "up"
+            ],
+            "correct": 2,
+            "id": "886f6f6bcfb041c58481086205eab80c"
+        },
+        {
+            "question": "She set herself .................................. as a freelance designer.",
+            "description": "Set up can mean establish yourself in a business.",
+            "answers": [
+                "on",
+                "up",
+                "out"
+            ],
+            "correct": 1,
+            "id": "e1040af56eaf4835b6e2736e929ed16f"
+        }
+    ]
+}

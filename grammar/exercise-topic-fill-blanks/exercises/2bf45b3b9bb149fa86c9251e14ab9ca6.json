@@ -1,0 +1,346 @@
+{
+    "id": "2bf45b3b9bb149fa86c9251e14ab9ca6",
+    "title": "Present Perfect Continuous Questions",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Has she been running"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/run) much recently?"
+                }
+            ],
+            "id": "801f9e9f38ee46a6aeb9f7ef54dcfe7c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Has it been raining"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(it/rain)?"
+                }
+            ],
+            "id": "8d83d208fc3b46ec88827e9136799279"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Has he been working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(he/work) today?"
+                }
+            ],
+            "id": "25434ab9369f446ab019814a46c98a61"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Have I been talking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(I/talk) a lot?"
+                }
+            ],
+            "id": "7afd71f7f85549818c49e013789db6de"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Have we been eating"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(we/eat) too much?"
+                }
+            ],
+            "id": "768cc82934c04d73b60e2e98e66f5bc9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Have they been living"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(they/live) for a long time?"
+                }
+            ],
+            "id": "77d373bb9158495fae7f35449176aaac"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Has Julia been working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(Julia/work) in this company for more than five years?"
+                }
+            ],
+            "id": "4e5c9e9d53344e80a407ff1789dec9c9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Have you been studying"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/study) English for a long time?"
+                }
+            ],
+            "id": "6d5e685328954fd28c3f32b8b3e3bf26"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Have I been doing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(I/do) too much recently?"
+                }
+            ],
+            "id": "f979dbb16bb248eaa4ea69df2d20ce9a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Have we been going out"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(we/go out) with each other for three years already?"
+                }
+            ],
+            "id": "673787aa2e9848eb9a7a2e5cf51021f4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "have you been studying"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/study) Japanese?"
+                }
+            ],
+            "id": "bbb5c21e9e324be2a22ec7417265430b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has she been working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/work)?"
+                }
+            ],
+            "id": "565e83b554674e3eae291559a2246c14"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has she been playing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/play) tennis?"
+                }
+            ],
+            "id": "00db638b9d8c4d798395d04aecc8218b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "have they been drinking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(they/drink)?"
+                }
+            ],
+            "id": "7127c4ea23a04ab4818e7077a536cc4f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "have you been living"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/live) here?"
+                }
+            ],
+            "id": "5c8a697795d64884853ac77f9dc09739"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has the child been eating"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(the child/eat)?"
+                }
+            ],
+            "id": "bd36ba85109d43d0a5ef5c12e72c029c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has he been working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(he/work) in the bank?"
+                }
+            ],
+            "id": "62deae9eea494c7a8b4ce827f15104ac"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has she been buying"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/buy) food?"
+                }
+            ],
+            "id": "2d0253422af34fd592674e40f19600e0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "have we been waiting"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(we/wait) for the bus?"
+                }
+            ],
+            "id": "f3f2a8fd57c942488aba3cb79ecc21f3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "have you been doing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/do) all day?"
+                }
+            ],
+            "id": "9725aba03c59420bb207cddfc694f619"
+        }
+    ]
+}

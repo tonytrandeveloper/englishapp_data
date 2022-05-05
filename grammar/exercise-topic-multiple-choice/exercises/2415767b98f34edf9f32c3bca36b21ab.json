@@ -1,0 +1,73 @@
+{
+    "id": "2415767b98f34edf9f32c3bca36b21ab",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "Which one of the following sentences is correct?",
+            "description": "",
+            "answers": [
+                "I saw John yesterday.",
+                "I have seen John yesterday.",
+                "I will see John yesterday."
+            ],
+            "correct": 0,
+            "id": "984c291f965d49ce9d594dfd90eb477d"
+        },
+        {
+            "question": "Which of the following tenses are used to talk about recent actions that have present results?",
+            "description": "",
+            "answers": [
+                "present perfect and present continuous",
+                "present perfect and present perfect continuous",
+                "simple past and present perfect"
+            ],
+            "correct": 1,
+            "id": "7f43d36989c843689151342ec0c0d6e7"
+        },
+        {
+            "question": "Which one of the following tenses is used to talk about general truths?",
+            "description": "",
+            "answers": [
+                "Simple present",
+                "Present continuous",
+                "Present perfect"
+            ],
+            "correct": 0,
+            "id": "eb81f4d26fdb4f34856f83d7f29c27ca"
+        },
+        {
+            "question": "Which one of the following tenses is used to talk about actions and events that are going on at around the time of talking?",
+            "description": "",
+            "answers": [
+                "Present continuous",
+                "Simple present",
+                "Present perfect"
+            ],
+            "correct": 0,
+            "id": "5994d9e864e142968d3bd345d5f57a97"
+        },
+        {
+            "question": "Which one of the following tenses are used to talk about actions and situations that started in the past and have continued up to the present?",
+            "description": "",
+            "answers": [
+                "present continuous",
+                "present perfect continuous",
+                "past continuous",
+                "past perfect continuous"
+            ],
+            "correct": 1,
+            "id": "4f32b39283bf473e86d45272b1b12395"
+        },
+        {
+            "question": "Which of the following sentences are grammatically correct?",
+            "description": "",
+            "answers": [
+                "I will have finished this job by next week.",
+                "I have finished this job by next week.",
+                "I have been finishing this job by next week."
+            ],
+            "correct": 0,
+            "id": "f96785aba5114937ad510e4e230d8b81"
+        }
+    ]
+}

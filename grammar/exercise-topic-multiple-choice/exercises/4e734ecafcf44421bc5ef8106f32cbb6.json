@@ -1,0 +1,138 @@
+{
+    "id": "4e734ecafcf44421bc5ef8106f32cbb6",
+    "title": "Direct And Indirect Speech Exercise",
+    "questions": [
+        {
+            "question": "I asked how old you ..............................",
+            "description": "Although the reporting verb is in the past tense, a present tense is possible in the reported speech if the original speaker and the reporter are in the same situation. ",
+            "answers": [
+                "are",
+                "were",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "cf71482791ea4a429e8d37589730f080"
+        },
+        {
+            "question": "She told me that she .............................. to my father.",
+            "description": "The original speaker's present perfect and past tenses are often reported using past perfect tenses. ",
+            "answers": [
+                "has just spoken",
+                "had just spoken",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e67fbb1efc8448a48b9de2a95dab0354"
+        },
+        {
+            "question": "I asked him what ........................................",
+            "description": "In reported questions constructed with who, what or which, be can go before or after the complement. ",
+            "answers": [
+                "was the matter",
+                "the matter was",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "654f17810446449381fc4233aa82bb5c"
+        },
+        {
+            "question": "She asked which ...............................................",
+            "description": "In reported questions constructed with who, what or which, be can go before or after the complement. ",
+            "answers": [
+                "her seat was",
+                "was her seat",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "7514266034464c5f88cca568b290538f"
+        },
+        {
+            "question": "The ancient Greeks and Romans thought that the sun ........................................... around the earth.",
+            "description": "The original speaker's simple present is often reported using simple past. ",
+            "answers": [
+                "goes",
+                "went",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "ee3065c222154f4fb2d17ce420791edf"
+        },
+        {
+            "question": "I want to know if I ............................................ be needed tomorrow.",
+            "description": "When the reporting verb is in the present tense, the original speaker's simple future is reported using simple future. ",
+            "answers": [
+                "will",
+                "would",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "35043399f4fc40b6a49ebd6e898d10f2"
+        },
+        {
+            "question": "He said that he ..................................... to go home and left.",
+            "description": "When the reporting verb is in the past tense, the verb in the reported speech will also be in the past tense. ",
+            "answers": [
+                "wants",
+                "wanted",
+                "had wanted"
+            ],
+            "correct": 1,
+            "id": "a3b97839a2564b96800d119123b98385"
+        },
+        {
+            "question": "I asked where ...................................... staying.",
+            "description": "In reported questions, the auxiliary verb goes after the subject. ",
+            "answers": [
+                "the minister was",
+                "was the minister",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "74b8c11e94c14f4f8a5f15371dd1c5b1"
+        },
+        {
+            "question": "I knew how .......................................",
+            "description": "The auxiliary do is not used in reported questions. ",
+            "answers": [
+                "did she feel",
+                "she felt",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "30186eae2c0c468dbdea4fe566e9e89b"
+        },
+        {
+            "question": "He suggested ....................................... quit.",
+            "description": "Infinitive structures cannot be used after suggest. ",
+            "answers": [
+                "me to",
+                "that I should",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "758fe2d4e5b5470ab59762c9a0f06fa0"
+        },
+        {
+            "question": "The doctor said ........................................... smoking.",
+            "description": "Infinitive structures cannot be used after say. ",
+            "answers": [
+                "me to quit",
+                "that I must quit",
+                "quitting"
+            ],
+            "correct": 1,
+            "id": "ebbdbd21622649e0b3a4d639d7da6534"
+        },
+        {
+            "question": "He said that he .................................. Maria at the club a few days before.",
+            "description": "The original speaker's present perfect and past tenses are often reported using past perfect tenses. ",
+            "answers": [
+                "saw",
+                "has seen",
+                "had seen"
+            ],
+            "correct": 2,
+            "id": "aa9b4eb0c72446a18718a405337c5ce1"
+        }
+    ]
+}

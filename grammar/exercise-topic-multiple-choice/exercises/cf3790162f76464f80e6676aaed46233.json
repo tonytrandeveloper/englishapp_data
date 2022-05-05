@@ -1,0 +1,138 @@
+{
+    "id": "cf3790162f76464f80e6676aaed46233",
+    "title": "Modal Auxiliaries",
+    "questions": [
+        {
+            "question": "………………………… you work this sum?",
+            "description": "Can expresses ability.",
+            "answers": [
+                "Can",
+                "Will",
+                "May"
+            ],
+            "correct": 0,
+            "id": "e4d11bbb4dc5457ebc8b5840a9dda2d1"
+        },
+        {
+            "question": "I ………………………… lift this box.",
+            "description": "Cannot expresses inability.",
+            "answers": [
+                "cannot",
+                "may not",
+                "shall not"
+            ],
+            "correct": 0,
+            "id": "be125d136f6540459d0988695e79a254"
+        },
+        {
+            "question": "He …………………………. be at home now.",
+            "description": "May expresses possibility in affirmative sentences.",
+            "answers": [
+                "can",
+                "may",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "038859452d0f43adbb5641070852a7d5"
+        },
+        {
+            "question": "………………………… it be a dog?",
+            "description": "Can expresses possibility in questions and negative sentences.",
+            "answers": [
+                "May",
+                "Will",
+                "Can"
+            ],
+            "correct": 2,
+            "id": "768570552f51441dbe7e9a3b765fe569"
+        },
+        {
+            "question": "No. It ……………………….. be a tiger.",
+            "description": "Can expresses possibility in questions and negative sentences.",
+            "answers": [
+                "may not",
+                "cannot",
+                "will not"
+            ],
+            "correct": 1,
+            "id": "1d2b7df3da864739b04fe536e6f56263"
+        },
+        {
+            "question": "I ………………………….. run miles when I was young.",
+            "description": "Could shows past ability.",
+            "answers": [
+                "could",
+                "might",
+                "can"
+            ],
+            "correct": 0,
+            "id": "1b7d859f994e44188cd12eef8a88fe2f"
+        },
+        {
+            "question": "He said that I …………………………… go home.",
+            "description": "Both could and might can indicate permission.",
+            "answers": [
+                "could",
+                "might",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c38305426ae143de9f5baadd5e2a3270"
+        },
+        {
+            "question": "You …………………………. not enter my house again.",
+            "description": "With second and third person pronouns shall can be used to express a command or threat.",
+            "answers": [
+                "shall",
+                "would",
+                "could"
+            ],
+            "correct": 0,
+            "id": "af1d0f5f964f42eea0b6671ec26092ec"
+        },
+        {
+            "question": "I ……………………………. not permit this.",
+            "description": "Will indicates determination.",
+            "answers": [
+                "would",
+                "will",
+                ""
+            ],
+            "correct": 1,
+            "id": "6ba2f14114cc49b9a89a0e5b0c5ab78e"
+        },
+        {
+            "question": "She ………………………….. sit for hours listening to the radio.",
+            "description": "We can use will to express characteristic habit.",
+            "answers": [
+                "shall",
+                "will",
+                "may"
+            ],
+            "correct": 1,
+            "id": "0dbd090a6a7441019b21dc06ef75aafe"
+        },
+        {
+            "question": "………………………….. you lend me your pen?",
+            "description": "Will is often used in polite requests.",
+            "answers": [
+                "Will",
+                "Shall",
+                "Should"
+            ],
+            "correct": 0,
+            "id": "ca0ed4f417fe49c585e6cfa49d053732"
+        },
+        {
+            "question": "She said she ………………………. buy me drinks.",
+            "description": "",
+            "answers": [
+                "will",
+                "would",
+                "shall"
+            ],
+            "correct": 1,
+            "id": "6d9842c264d54cb68454ed96d1b7f359"
+        }
+    ]
+}

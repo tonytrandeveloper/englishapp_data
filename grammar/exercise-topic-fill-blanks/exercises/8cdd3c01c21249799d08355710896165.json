@@ -1,0 +1,326 @@
+{
+    "id": "8cdd3c01c21249799d08355710896165",
+    "title": "Mixed Tense Reported Statements",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He works in a bank.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that he worked in a bank.",
+                        "She said he worked in a bank."
+                    ]
+                }
+            ],
+            "id": "5380176136d24fbfa13577c01aff09c2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We went out last night.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that they had gone out last night.",
+                        "She said they went out last night."
+                    ]
+                }
+            ],
+            "id": "c66c7387cba941e6adfac484bccd130f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm coming!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she was coming.",
+                        "She said she was coming."
+                    ]
+                }
+            ],
+            "id": "3e61f8e7be1d42e1b74f99bba0bfc9bb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I was waiting for the bus when he arrived.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she had been waiting for the bus when he arrived.",
+                        "She said she had been waiting for the bus when he arrived."
+                    ]
+                }
+            ],
+            "id": "868a5e88ded24f28a65c9125e09d6388"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'd never been there before.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she had never been there before.",
+                        "She said she had never been there before."
+                    ]
+                }
+            ],
+            "id": "4f2b0ffb246c42c1bc39e1c4e799a69c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I didn't go to the party.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she hadn't gone to the party.",
+                        "She said that she didn't go to the party."
+                    ]
+                }
+            ],
+            "id": "812394ba65a44b1bbbb939fb66071c94"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Lucy will come later.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that Lucy would come later.",
+                        "She said Lucy would come later."
+                    ]
+                }
+            ],
+            "id": "f6340fc94ceb47f4b9d48fd17f0388c9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He hasn't eaten breakfast.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that he hadn't eaten breakfast.",
+                        "She said he hadn't eaten breakfast."
+                    ]
+                }
+            ],
+            "id": "d70a5ebf97fb4658ac32de14451106bc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I can help you tomorrow.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she could help me tomorrow.",
+                        "She said that she could help me the next day."
+                    ]
+                }
+            ],
+            "id": "62986073771f4ce0ac5b3b04e894308f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"You should go to bed early.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that I should go to bed early.",
+                        "She said I should go to bed early."
+                    ]
+                }
+            ],
+            "id": "d43fd244f70d47d0a8bf8b8ad1f76659"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I don't like chocolate.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she didn't like chocolate.",
+                        "She said she didn't like chocolate."
+                    ]
+                }
+            ],
+            "id": "dec89219af5b4b8bb9f794a77e48ca86"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I won't see you tomorrow.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she wouldn't see me tomorrow.",
+                        "She said that she wouldn't see me the next day."
+                    ]
+                }
+            ],
+            "id": "2ecc994de7dd4d0db148ee9f04473d04"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She's living in Paris for a few months.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she was living in Paris for a few months.",
+                        "She said she was living in Paris for a few months."
+                    ]
+                }
+            ],
+            "id": "79251c66bbc74bd38fcc472873ac98d9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I visited my parents at the weekend.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she had visited her parents at the weekend.",
+                        "She said that she visited her parents at the weekend."
+                    ]
+                }
+            ],
+            "id": "4308c4153f09486eb5853e177666b161"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She hasn't eaten sushi before.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she hadn't eaten sushi before.",
+                        "She said she hadn't eaten sushi before."
+                    ]
+                }
+            ],
+            "id": "66072d3de8e246f5b997f51cf7a3fdcc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I hadn't travelled by underground before I came to London.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she hadn't travelled by underground before she came to London.",
+                        "She said she hadn't travelled by underground before she came to London."
+                    ]
+                }
+            ],
+            "id": "4ede165a70a1412198db8f3ad482b753"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They would help if they could.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that they would help if they could.",
+                        "She said they would help if they could."
+                    ]
+                }
+            ],
+            "id": "f4c57fc32db14b77b21c40f5db5e30a8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'll do the washing-up later.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she would do the washing-up later.",
+                        "She said she would do the washing-up later."
+                    ]
+                }
+            ],
+            "id": "3651e27c517649a59d71b0b5c05fb1c4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He could read when he was three.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that he could read when he was three.",
+                        "She said he could read when he was three."
+                    ]
+                }
+            ],
+            "id": "a4157774d0214d6081e70a97427e4195"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I was sleeping when Julie called.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she had been sleeping when Julie called.",
+                        "She said she had been sleeping when Julie called."
+                    ]
+                }
+            ],
+            "id": "1fd8074e1ccd47429f6bca574688c106"
+        }
+    ]
+}

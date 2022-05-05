@@ -1,0 +1,127 @@
+{
+    "id": "e5fea05d766243459282bf7c6d657c76",
+    "title": "Present Or Past Participle",
+    "questions": [
+        {
+            "question": "The house was ……………………………… in the quake.",
+            "description": "When past participles are used like adjectives/adverbs, they have a passive meaning. A damaged house is a house that had been damaged. ",
+            "answers": [
+                "damaged",
+                "damaging"
+            ],
+            "correct": 0,
+            "id": "e5463114596e4c319818e716eb6cb3e5"
+        },
+        {
+            "question": "It was …………………………….. in the storm.",
+            "description": "When past participles are used like adjectives/adverbs, they have a passive meaning.",
+            "answers": [
+                "breaking",
+                "broken"
+            ],
+            "correct": 1,
+            "id": "556ecb9d5d2344d49c710b9328cbe759"
+        },
+        {
+            "question": "The new office is going to be ……………………… in June.",
+            "description": "",
+            "answers": [
+                "opening",
+                "opened"
+            ],
+            "correct": 1,
+            "id": "a8567da9380c4916beef302b2e16bec8"
+        },
+        {
+            "question": "You are ………………………..",
+            "description": "Here also the meaning is passive because something is being done to the subject. ",
+            "answers": [
+                "fired",
+                "firing"
+            ],
+            "correct": 0,
+            "id": "8b301065890b4f66aaf630106de46913"
+        },
+        {
+            "question": "Who is that pretty girl …………………………… in the corner?",
+            "description": "When present participles are used like adjectives or adverbs, they have an active meaning.\r\nGirl sitting is the girl who is sitting. \r\n",
+            "answers": [
+                "sitting",
+                "sat",
+                "sit"
+            ],
+            "correct": 0,
+            "id": "8ef1010bca2741309df9e13980a3a6af"
+        },
+        {
+            "question": "Most of the people ……………………….. to the wedding didn’t turn up.",
+            "description": "When past participles are used like adjectives/adverbs, they have a passive meaning. People invited are the people who were invited. ",
+            "answers": [
+                "inviting",
+                "invited"
+            ],
+            "correct": 1,
+            "id": "9c90fdf44a824f1e9c0ea59bdb598462"
+        },
+        {
+            "question": "Your explanation made me very ………………………….",
+            "description": "The past participle is used to say how people feel.",
+            "answers": [
+                "confusing",
+                "confused"
+            ],
+            "correct": 1,
+            "id": "e96f9c41f6b544b9b8c10430e14d803e"
+        },
+        {
+            "question": "The ……………………………. prisoner has been caught.",
+            "description": "When past participles are used like adjectives/adverbs, they have a passive meaning. People invited are the people who were invited. ",
+            "answers": [
+                "escaping",
+                "escaped"
+            ],
+            "correct": 1,
+            "id": "b61ad6e495bd4ef7adba780860638c70"
+        },
+        {
+            "question": "He lived alone, …………………………… by everybody.",
+            "description": "When past participles are used like adjectives/adverbs, they have a passive meaning. He had been forgotten by everybody.",
+            "answers": [
+                "forgetting",
+                "forgotten"
+            ],
+            "correct": 1,
+            "id": "aecafc34a11d4b348dcc0b1943389268"
+        },
+        {
+            "question": "The above ………………………….. point deserves special attention.",
+            "description": "The above mentioned point is a point that has been mentioned. ",
+            "answers": [
+                "mentioning",
+                "mentioned"
+            ],
+            "correct": 1,
+            "id": "9af7764a4b21405c838f72474ff59e2d"
+        },
+        {
+            "question": "His idea seems ……………………………",
+            "description": "The present participle is used to describe people or things that cause the feelings mentioned in the sentence.",
+            "answers": [
+                "exciting",
+                "excited"
+            ],
+            "correct": 0,
+            "id": "d041758461f740fd93412785e0f31962"
+        },
+        {
+            "question": "The children were terribly ………………………… when they received the gifts.",
+            "description": "The past participle is used to say how people feel.",
+            "answers": [
+                "exciting",
+                "excited"
+            ],
+            "correct": 1,
+            "id": "ef5106b0d5b64a55b1898d74e02050d5"
+        }
+    ]
+}

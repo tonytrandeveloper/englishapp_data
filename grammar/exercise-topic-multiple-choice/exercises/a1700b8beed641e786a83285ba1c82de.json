@@ -1,0 +1,61 @@
+{
+    "id": "a1700b8beed641e786a83285ba1c82de",
+    "title": "Adverbs Of Reason",
+    "questions": [
+        {
+            "question": "………………… I was ill for several months, I lost my job.",
+            "description": "",
+            "answers": [
+                "Because",
+                "Because of",
+                "Due to"
+            ],
+            "correct": 0,
+            "id": "d72359f69b1148b4a8adc838e229a2e8"
+        },
+        {
+            "question": "It is raining again, …………………. we will have to cancel the picnic.",
+            "description": "",
+            "answers": [
+                "so",
+                "as",
+                "since"
+            ],
+            "correct": 0,
+            "id": "7e86062a3f5c402eb4099ae9aceae066"
+        },
+        {
+            "question": "I decided to take a break, ………………. I was feeling tired.",
+            "description": "",
+            "answers": [
+                "for",
+                "because",
+                "therefore"
+            ],
+            "correct": 1,
+            "id": "de97160b67ab411e81546fa2640f16a6"
+        },
+        {
+            "question": "We were late ……………….. it rained.",
+            "description": "",
+            "answers": [
+                "because",
+                "because of",
+                "due to"
+            ],
+            "correct": 0,
+            "id": "970dea5564a149c1acc152f45fa3c62e"
+        },
+        {
+            "question": "The match was cancelled ………………. bad weather.",
+            "description": "",
+            "answers": [
+                "because",
+                "due to",
+                "because of"
+            ],
+            "correct": 2,
+            "id": "5d408e926c8248438088bad03fadb45a"
+        }
+    ]
+}

@@ -1,0 +1,600 @@
+{
+    "id": "d40001fc19d64c97a832c04930b08bb2",
+    "title": "Make the third conditional",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't been",
+                        "had not been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) late, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wouldn't have missed",
+                        "would not have missed"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/miss) the bus."
+                }
+            ],
+            "id": "21c80aad867b4f7cbc1fe6a2634f7977"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had studied"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have passed"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(pass) the exam."
+                }
+            ],
+            "id": "5196add90bcb4d79b4b34c87d4ff4586"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had arrived"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) earlier, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have seen"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(see) John."
+                }
+            ],
+            "id": "efa8e506c8de4353b2488ed7b3da978c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had gone"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to bed early, they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wouldn't have woken",
+                        "would not have woken"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/wake) up late."
+                }
+            ],
+            "id": "846cedf9150648cba16932c7718de057"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had become"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(become) a musician, he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have recorded"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(record) a CD."
+                }
+            ],
+            "id": "51cf092810384fd8b815b7798699a06a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had gone"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to art school, she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have become"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(become) a painter."
+                }
+            ],
+            "id": "4473a184ef8d4d9398bde463970e9ec5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) born in a different country, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have learned",
+                        "would have learnt"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(learn) to speak a different language."
+                }
+            ],
+            "id": "832acc1240b24bcb91e14322109746d9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had gone"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to university, she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have studied"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) French."
+                }
+            ],
+            "id": "b18f256f25ca443bab0bd48ddd71c850"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't gone",
+                        "had not gone"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) to the party, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wouldn't have met",
+                        "would not have met"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/meet) them."
+                }
+            ],
+            "id": "e9883ce4c7eb44698d6a0426444371a1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't taken",
+                        "had not taken"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/take) the job, he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have gone"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) travelling."
+                }
+            ],
+            "id": "6df1d5d585644b46bdbefd92fdef62f4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) happier if he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had stayed"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(stay) at home."
+                }
+            ],
+            "id": "dd4f7c8ed703467da61a97c2be6ab180"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have passed"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(pass) the exam if she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had studied"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) harder."
+                }
+            ],
+            "id": "50e03ba6b04d46adb26cb8cea9dba5c3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wouldn't have got",
+                        "would not have got"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/get) married if we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't gone",
+                        "had not gone"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) to the same university."
+                }
+            ],
+            "id": "1f63d448ab364188adbc3588ffef530f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) late if they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't taken",
+                        "had not taken"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/take) a taxi."
+                }
+            ],
+            "id": "5fc12af6d80847bbb18e1a1f94ebb0be"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wouldn't have met",
+                        "would not have met"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/meet) him if she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't come",
+                        "had not come"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/come) to London."
+                }
+            ],
+            "id": "0e2a2f9a74c647d7ad06c370d39f4f0c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have taken"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(take) a taxi if he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) enough money."
+                }
+            ],
+            "id": "f74caafe6a5d411a8bd14d057770bf10"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have called"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(call) you if I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't forgotten",
+                        "had not forgotten"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/forget) my phone."
+                }
+            ],
+            "id": "b3b27c88fca74a6d8057bdbfbb31fcfd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have come"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(come) if we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) invited."
+                }
+            ],
+            "id": "3a53f1c0e7e249ae9657988be35a1add"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wouldn't have done",
+                        "would not have done"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/do) it if she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had known"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(know) you were ill."
+                }
+            ],
+            "id": "ead62b08b86746499e1d3e33eeb07769"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "would have been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) on time if he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had left"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) earlier."
+                }
+            ],
+            "id": "87e95e5d12b94ee9ba0a360388cec79a"
+        }
+    ]
+}

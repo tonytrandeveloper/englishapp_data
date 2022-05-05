@@ -1,0 +1,138 @@
+{
+    "id": "f46b5596ab23444eb7d457e2c34109c0",
+    "title": "Gap Filling Exercise",
+    "questions": [
+        {
+            "question": "I want to know why ………………………….. late.",
+            "description": "In indirect questions, the subject goes before the verb. ",
+            "answers": [
+                "are you",
+                "you are",
+                "you"
+            ],
+            "correct": 1,
+            "id": "1ff0fdf880d94be196aab523630bcef9"
+        },
+        {
+            "question": "If she had asked me, I …………………………….. her.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "will tell",
+                "would tell",
+                "would have told"
+            ],
+            "correct": 2,
+            "id": "b943847cc91e4ad9aa1369cc03b7644a"
+        },
+        {
+            "question": "She would have come if you …………………………….. her.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "inform",
+                "informed",
+                "had informed"
+            ],
+            "correct": 2,
+            "id": "433285e1cc1d4f4dabba96be1dbda566"
+        },
+        {
+            "question": "We are looking forward ……………………………. you.",
+            "description": "Write to + ing form after look forward/looking forward. ",
+            "answers": [
+                "of meeting",
+                "to meet",
+                "to meeting"
+            ],
+            "correct": 2,
+            "id": "def25ad5e3c248819c8396a255806f96"
+        },
+        {
+            "question": "The more you praise him the more arrogant …………………………..",
+            "description": "The same pattern is used in both clauses. ",
+            "answers": [
+                "becomes he",
+                "he becomes",
+                "does he become"
+            ],
+            "correct": 1,
+            "id": "21a86e3ab530469eb8ccc56c47849a0f"
+        },
+        {
+            "question": "The louder you speak ………………………………. you confuse me.",
+            "description": "The + comparative is used in both clauses. ",
+            "answers": [
+                "more",
+                "the more",
+                "the most"
+            ],
+            "correct": 1,
+            "id": "dd16f809565946b4a04361423e184cef"
+        },
+        {
+            "question": "Would you mind …………………………… me your pen?",
+            "description": "Ing forms or if-clauses are used after would you mind.",
+            "answers": [
+                "to lending",
+                "lending",
+                "to lend"
+            ],
+            "correct": 1,
+            "id": "daaee812eedd42bbbef4ef0010370011"
+        },
+        {
+            "question": "…………………………… you study well, you cannot pass.",
+            "description": "If is grammatically correct in that sentence, but it does not make logical sense. ",
+            "answers": [
+                "Unless",
+                "If",
+                "Whether"
+            ],
+            "correct": 0,
+            "id": "65d1716dac214329b70fde3f5f7199cc"
+        },
+        {
+            "question": "This boy is ………………………… to work.",
+            "description": "Note the pattern too...to...",
+            "answers": [
+                "very lazy",
+                "so lazy",
+                "too lazy"
+            ],
+            "correct": 2,
+            "id": "2045f50cca19473a8dc813576606e91b"
+        },
+        {
+            "question": "If I were the king, you ………………………………. my queen.",
+            "description": "In the second conditional, we use past simple in the if-clause and would + infinitive in the main clause. ",
+            "answers": [
+                "will be",
+                "would be",
+                "would have been"
+            ],
+            "correct": 1,
+            "id": "e923977ac85c455e91981b2e1f9994c5"
+        },
+        {
+            "question": "She is very fond ……………………………. her cats and dogs.",
+            "description": "",
+            "answers": [
+                "of",
+                "to",
+                "with"
+            ],
+            "correct": 0,
+            "id": "768e16386c31435ba1cac454873d69a6"
+        },
+        {
+            "question": "He enjoys ……………………………….. with children.",
+            "description": "Write an ing form after enjoy. ",
+            "answers": [
+                "to play",
+                "playing",
+                "to playing"
+            ],
+            "correct": 1,
+            "id": "27af22f0202e40329e3380a0fac398f2"
+        }
+    ]
+}

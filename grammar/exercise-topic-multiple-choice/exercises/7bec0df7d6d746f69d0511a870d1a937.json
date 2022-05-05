@@ -1,0 +1,115 @@
+{
+    "id": "7bec0df7d6d746f69d0511a870d1a937",
+    "title": "Compound And Complex Sentence",
+    "questions": [
+        {
+            "question": "The doctor must come at once ............................................... the patient will die.",
+            "description": "",
+            "answers": [
+                "or",
+                "if",
+                "and"
+            ],
+            "correct": 0,
+            "id": "c383fdba271a40c784971646d77f6069"
+        },
+        {
+            "question": "............................................. the doctor does not come at once, the patient will die.",
+            "description": "",
+            "answers": [
+                "Unless",
+                "If",
+                "Whether"
+            ],
+            "correct": 1,
+            "id": "b2d626af71a54b3ba014c0ba43e1f6e3"
+        },
+        {
+            "question": "Gandhi believed in non-violence ........................................... some of his followers were extremists.",
+            "description": "",
+            "answers": [
+                "and",
+                "so",
+                "but"
+            ],
+            "correct": 2,
+            "id": "b7377c5ce1aa456ebf0325dae87f5278"
+        },
+        {
+            "question": "........................................... Gandhi believed in non-violence some of his followers were extremists.",
+            "description": "",
+            "answers": [
+                "However",
+                "Though",
+                "Despite"
+            ],
+            "correct": 1,
+            "id": "23de2c79282949e48570d16136d5cd3e"
+        },
+        {
+            "question": "Search his pockets .................................................. you will find the stolen watch.",
+            "description": "",
+            "answers": [
+                "so",
+                "and",
+                "than"
+            ],
+            "correct": 1,
+            "id": "4be6ccb990914e0abd073cd569f9ff94"
+        },
+        {
+            "question": "....................................................... you search his pockets, you will find the stolen watch.",
+            "description": "",
+            "answers": [
+                "If",
+                "Whether",
+                "Unless"
+            ],
+            "correct": 0,
+            "id": "16518ebded984038b12cd9a01fdfde60"
+        },
+        {
+            "question": "You must hurry .............................................. you will miss the train.",
+            "description": "",
+            "answers": [
+                "unless",
+                "if",
+                "or"
+            ],
+            "correct": 2,
+            "id": "a66e3944a86e463babc4475f0f416ae4"
+        },
+        {
+            "question": "................................................ you do not hurry you will miss the train.",
+            "description": "",
+            "answers": [
+                "Unless",
+                "If",
+                "Whether"
+            ],
+            "correct": 1,
+            "id": "709cfe8656004f329ccff7166aebef28"
+        },
+        {
+            "question": "He wants to be a scholar, ........................................... he is studying hard.",
+            "description": "",
+            "answers": [
+                "therefore",
+                "hence",
+                "so"
+            ],
+            "correct": 2,
+            "id": "8557edcd262f4192a2ddcf415afbc7e5"
+        },
+        {
+            "question": "................................................... he wants to be a scholar he is studying hard.",
+            "description": "",
+            "answers": [
+                "As",
+                "So"
+            ],
+            "correct": 0,
+            "id": "864e096d0bc74151a0e0ab904432c2e1"
+        }
+    ]
+}

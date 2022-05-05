@@ -1,0 +1,481 @@
+{
+    "id": "29cafc3b1e2145ccab6e86329475b8d5",
+    "title": "Past Simple Positive Irregular Verbs (exercise 1)",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "heard"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(hear) a new song on the radio."
+                }
+            ],
+            "id": "b9889e3d89af4102bf7b5774badb16ea"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "read"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(read) three books last week."
+                }
+            ],
+            "id": "3ae4114a18f44dc999395b710c592ce4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "spoke"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(speak) French to the waitress."
+                }
+            ],
+            "id": "6f640cbbe81a427d991e6195369f247a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "understood"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(understand) during the class, but now he doesn't understand."
+                }
+            ],
+            "id": "ad3841b1047845caafd2a666187d7f65"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "forgot"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(forget) to buy some milk."
+                }
+            ],
+            "id": "29b10311f05f4eed84b7a4fc87221edf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a baby in June."
+                }
+            ],
+            "id": "8a703ae43a524f75b3f95a9bb9078b97"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "lost"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(lose) your keys last week."
+                }
+            ],
+            "id": "23943fa7743b4d8985eeb2d235c30197"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "swam"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(swim) 500m."
+                }
+            ],
+            "id": "10053f13875b407c8c4f9ba5aa32f5b7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "gave"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(give) my mother a CD for Christmas."
+                }
+            ],
+            "id": "a53558b1e396456ba51b2f5f4cb45672"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At the age of 23, she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "became"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(become) a doctor."
+                }
+            ],
+            "id": "44121eb8ec644adaa67189a0623b3e6c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "knew"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(know) the answer yesterday."
+                }
+            ],
+            "id": "abc9f466b2b6424aa3e4e984040be46e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "told"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(tell) me that he lived in Toronto."
+                }
+            ],
+            "id": "17afa793aa0d4154acac535a1da4cb99"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "lent"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(lend) John £200."
+                }
+            ],
+            "id": "0e10435cc5484468babc3e6bd78c9817"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "drank"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(drink) too much coffee yesterday."
+                }
+            ],
+            "id": "93b5957fdafa4d37a520cdd2258f5e2d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "slept"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(sleep) in the car."
+                }
+            ],
+            "id": "3b9f064bd2464272aad4855423f3acaf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "kept"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(keep) his promise."
+                }
+            ],
+            "id": "f9f5f1ca1f734188ab7a3d847b0d9d9e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "chose"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(choose) steak for dinner."
+                }
+            ],
+            "id": "1df482fde61d4c67a10ffd4470834cd6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The film"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "began"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(begin) late."
+                }
+            ],
+            "id": "7f1af64f06c54fa49bb791b0b3f7b9f5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "flew"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(fly) to Sydney."
+                }
+            ],
+            "id": "37b1356f147342758912c0c862ca6d8f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "drove"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(drive) to Beijing."
+                }
+            ],
+            "id": "1d6ce0921b754ca6a74d5bc6fb264e17"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "taught"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(teach) English at the University."
+                }
+            ],
+            "id": "de48648e4f2b47c0961d53c6b1973e06"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "sent"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(send) you an email earlier."
+                }
+            ],
+            "id": "a6ee387136ab49979ef89d82840da6cc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "left"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) the house at 7am."
+                }
+            ],
+            "id": "dbb2ffa98f3347859ceaa1f20f10f1c1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "felt"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(feel) terrible after eating the prawns."
+                }
+            ],
+            "id": "08cfe74a2eb94104beaf3c137391d28a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "brought"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(bring) some chocolates to the party."
+                }
+            ],
+            "id": "48ffc7a81b75460f973d4e66d75c9d5d"
+        }
+    ]
+}

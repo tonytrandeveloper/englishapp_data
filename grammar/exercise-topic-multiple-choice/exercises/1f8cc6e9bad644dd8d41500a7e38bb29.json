@@ -1,0 +1,117 @@
+{
+    "id": "1f8cc6e9bad644dd8d41500a7e38bb29",
+    "title": "Subject-Verb Agreement Quiz",
+    "questions": [
+        {
+            "question": "A number of students ………………. absent today.",
+            "description": "We use a plural verb after the expression 'a number of'",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e14c924c06404bdcb23b490e3c42e120"
+        },
+        {
+            "question": "The girls ………………… dancing merrily.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "6b6e4267e94a4267b70b17210cbaecf7"
+        },
+        {
+            "question": "In hot weather milk ……………….. sour fast.",
+            "description": "Use singular verbs with uncountable nouns.",
+            "answers": [
+                "turn",
+                "turns"
+            ],
+            "correct": 1,
+            "id": "bd29f1e7db6c4bc19142b235784c90d7"
+        },
+        {
+            "question": "The list of eligible students ..................... been published.",
+            "description": "Here the subject is the singular expression 'the list'.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0,
+            "id": "be7e5d0072b24ba6877e966c4b46bd8c"
+        },
+        {
+            "question": "The news ………………… false.",
+            "description": "Nouns such as news and information are always singular. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "1614d45980e145a8b27bd33d46a06d9c"
+        },
+        {
+            "question": "The earth ………………… on its own axis.",
+            "description": "In the simple present tense when the subject is a singular noun or pronoun, the verb takes the marker -s.",
+            "answers": [
+                "rotate",
+                "rotates"
+            ],
+            "correct": 1,
+            "id": "651eb0a407d54736bc5c311558dd12a7"
+        },
+        {
+            "question": "Gulliver’s Travels …………………. an interesting novel.",
+            "description": "Names of books are singular. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "cfe9ff4f8b044e9ca1f2f5009be9a9a8"
+        },
+        {
+            "question": "Thousand dollars ………………. a huge amount.",
+            "description": "Here the reference is to the entire sum and not to the coins and currency notes that make up 1000 dollars, so we need a singular verb here. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "af8bb91524dc46baaf563adde3ece1d6"
+        },
+        {
+            "question": "The boy ………………… actually waiting for school to reopen.",
+            "description": "",
+            "answers": [
+                "were",
+                "was"
+            ],
+            "correct": 1,
+            "id": "9b4afdaee51c4449a619bbf24f2c2ad8"
+        },
+        {
+            "question": "Neither the principal nor the teachers ………………….. able to give a satisfactory explanation.",
+            "description": "When we connect two nouns with neither…nor, the verb agrees with the noun close to it. Here we use the plural verb, because the noun close to it (teachers) is plural.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "31973426cebd410596aa429e72c73838"
+        },
+        {
+            "question": "Neither the headmaster nor the teacher …………………. responsible for this.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "4fa7db92943a4f40a819d4b0f0227213"
+        }
+    ]
+}

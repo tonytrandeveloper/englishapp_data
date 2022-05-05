@@ -1,0 +1,128 @@
+{
+    "id": "85099d4f10b0438f9635da505105ac54",
+    "title": "Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "How much will it cost to overhaul the motor? Overhaul can be replaced by …………………..",
+            "description": "Revamp means the same as overhaul.",
+            "answers": [
+                "regig",
+                "revamp",
+                "rip"
+            ],
+            "correct": 1,
+            "id": "fc1158be8e654fe3baa98366949f3fc1"
+        },
+        {
+            "question": "Did you mean to leave the door unlocked or was it an oversight? Oversight can be replaced by ………………………………?",
+            "description": "Oversight means the same ad heedlessness. ",
+            "answers": [
+                "scrupulousness",
+                "diligence",
+                "heedlessness"
+            ],
+            "correct": 2,
+            "id": "100da61e28564dd1bfa46777b8377ddd"
+        },
+        {
+            "question": "The waiter was furious at being given such a paltry tip. Paltry can be replaced by ………………………..",
+            "description": "Paltry means measly. ",
+            "answers": [
+                "measly",
+                "resolute",
+                "resourceful"
+            ],
+            "correct": 0,
+            "id": "999c70460fbc414eab902b23c3e7dea8"
+        },
+        {
+            "question": "She pampers her husband like a baby. Pampers can be replaced by ……………………….",
+            "description": "Pampers means the same as indulges.",
+            "answers": [
+                "indulges",
+                "pacifies",
+                "patronizes"
+            ],
+            "correct": 0,
+            "id": "a24ee704d1484a449cf2351d283e689a"
+        },
+        {
+            "question": "Pandemonium broke out when the teacher left the room. Pandemonium can be replaced by ………………………….",
+            "description": "Both words mean chaos.",
+            "answers": [
+                "bedlam",
+                "mischief",
+                "malevolence"
+            ],
+            "correct": 0,
+            "id": "a2fce3a3ba454949a7dc43ee9df68576"
+        },
+        {
+            "question": "The child led a cloistered life. Here cloistered can be replaced by ………………………..",
+            "description": "Cloistered and insulated can both mean the same.",
+            "answers": [
+                "insinuated",
+                "insulated",
+                "reserved"
+            ],
+            "correct": 1,
+            "id": "d7438b1b68b1471381350efa287a5d2f"
+        },
+        {
+            "question": "Certain drugs cause blood to coagulate. Here coagulate can be replaced by ………………………………..",
+            "description": "Both words mean clot.",
+            "answers": [
+                "curdle",
+                "ambulate",
+                "percolate"
+            ],
+            "correct": 0,
+            "id": "2d8e1fee4835428a9391338e2ea70371"
+        },
+        {
+            "question": "The retiring chairman received a panegyric from the new chairman. Here panegyric can be replaced by ………………………….",
+            "description": "",
+            "answers": [
+                "tribute",
+                "encomium",
+                "eulogy",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "c2df86100ed44cfa859572e930c4e0ef"
+        },
+        {
+            "question": "The bedrooms were painted in pastel colors. Pastel can be replaced by …………………………",
+            "description": "Pastels can mean light or muted.",
+            "answers": [
+                "light",
+                "vibrant",
+                "dark"
+            ],
+            "correct": 0,
+            "id": "186320f4f6cb4eed8e2fb964e440e0e1"
+        },
+        {
+            "question": "When you ask him a question you get a pedantic answer. Here pedantic can be replaced by ………………………..",
+            "description": "",
+            "answers": [
+                "succinct",
+                "pithy",
+                "didactic"
+            ],
+            "correct": 2,
+            "id": "df50048d48fb417a9d5fcfa701068358"
+        },
+        {
+            "question": "He had a penchant for rich desserts. Here penchant can be replaced by ……………………………",
+            "description": "",
+            "answers": [
+                "aversion",
+                "repulsion",
+                "propensity"
+            ],
+            "correct": 2,
+            "id": "73c57b4dee0e48e985305ca46a763b1e"
+        }
+    ]
+}

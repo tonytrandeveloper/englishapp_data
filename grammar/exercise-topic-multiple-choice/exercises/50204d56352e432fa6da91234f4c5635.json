@@ -1,0 +1,112 @@
+{
+    "id": "50204d56352e432fa6da91234f4c5635",
+    "title": "Vocabulary Exercise",
+    "questions": [
+        {
+            "question": "That boy does not ………………. either of his parents.",
+            "description": "Resemble is followed by a direct object without preposition. ",
+            "answers": [
+                "resemble",
+                "resemble to",
+                "resemble with",
+                "resemble of"
+            ],
+            "correct": 0,
+            "id": "6e32127351fd44fe96d1d2a0b949f7c2"
+        },
+        {
+            "question": "The train is now …………………. Birmingham.",
+            "description": "Approach is followed by a direct object without preposition.",
+            "answers": [
+                "approaching to",
+                "approaching",
+                "approaching at",
+                "approaching on"
+            ],
+            "correct": 1,
+            "id": "ba970966f39f40c9b5bb4c274710a657"
+        },
+        {
+            "question": "She …………………. her disapproval of the proceedings by leaving the meeting.",
+            "description": "To evince is to reveal",
+            "answers": [
+                "evinced",
+                "saw",
+                "engaged",
+                "envisaged"
+            ],
+            "correct": 0,
+            "id": "9ddf3a7663c1424fb04760fa31049be5"
+        },
+        {
+            "question": "His questions must have provoked her for they …………………. a bitter retort.",
+            "description": "To evoke is to obtain a response.",
+            "answers": [
+                "evinced",
+                "evoked",
+                "resulted",
+                "invoked"
+            ],
+            "correct": 1,
+            "id": "548a0a764b3d4625b7ea00010e4f0f63"
+        },
+        {
+            "question": "Her silence merely ……………….. the problem.",
+            "description": "To exacerbate something is to make it worse. ",
+            "answers": [
+                "solved",
+                "exacerbated",
+                "accelerated",
+                "improved"
+            ],
+            "correct": 1,
+            "id": "fc24264229c34991ace5c92f0f21d05f"
+        },
+        {
+            "question": "This book is an ………………. account of the actor’s life.",
+            "description": "Exhaustive means covering all aspects fully",
+            "answers": [
+                "exhaustive",
+                "exhausted",
+                "expressive"
+            ],
+            "correct": 0,
+            "id": "0c0e3aa6636e481b863aff7400872f64"
+        },
+        {
+            "question": "They bought the car at an ………………… price.",
+            "description": "Exorbitant means unreasonably high.",
+            "answers": [
+                "extreme",
+                "exorbitant",
+                "high",
+                "extra"
+            ],
+            "correct": 1,
+            "id": "6f84de395255492db9ce32e33cbd79a5"
+        },
+        {
+            "question": "Her shameless affair is the ........................... in the family cupboard.",
+            "description": "",
+            "answers": [
+                "skeleton",
+                "bone",
+                "secret",
+                "lock"
+            ],
+            "correct": 0,
+            "id": "28e521789a5b4d11a75d6553479a1d43"
+        },
+        {
+            "question": "If we both put our .......................... on the table it would be easier to negotiate.",
+            "description": "",
+            "answers": [
+                "cards",
+                "hands",
+                "wallets"
+            ],
+            "correct": 0,
+            "id": "8ee624d7b8c24d50b28598ef438e9847"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "id": "95c6d2c8c50b4c03b3ffcd8a5ae586bd",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "I did it ............................. my own.",
+            "description": "The correct expression is on my own.",
+            "answers": [
+                "on",
+                "by",
+                "through"
+            ],
+            "correct": 0,
+            "id": "2099e6ea28c74c24aa7d3291ff9a9b50"
+        },
+        {
+            "question": "We went to Greece .................................. a holiday.",
+            "description": "",
+            "answers": [
+                "for",
+                "on"
+            ],
+            "correct": 0,
+            "id": "65f413118a594b919311f2ebc007120c"
+        },
+        {
+            "question": "I have ................................. my homework.",
+            "description": "People do their homework. They don't make it.",
+            "answers": [
+                "made",
+                "done"
+            ],
+            "correct": 1,
+            "id": "fd1676c769e746e3be145bbfdafbc9ad"
+        },
+        {
+            "question": "She is ………………………. holiday.",
+            "description": "",
+            "answers": [
+                "on",
+                "in",
+                "for"
+            ],
+            "correct": 0,
+            "id": "98c509ec1a024c4899427917d44b77a2"
+        },
+        {
+            "question": "She spends hours admiring ………………………. in the mirror.",
+            "description": "When the subject and object refer to the same person, the reflexive pronoun is used for the object. ",
+            "answers": [
+                "her",
+                "herself"
+            ],
+            "correct": 1,
+            "id": "00556229b8d64f52910f6e271991ef25"
+        },
+        {
+            "question": "Leave the diagnosis ……………………….. the doctor.",
+            "description": "",
+            "answers": [
+                "with",
+                "to",
+                "for"
+            ],
+            "correct": 1,
+            "id": "1097007dcddf4eaaa49c2d9833fe9f7b"
+        },
+        {
+            "question": "................................. bride looked gorgeous.",
+            "description": "Here, obviously, we are talking about someone that the listener or the reader knows. Hence we use the.",
+            "answers": [
+                "A",
+                "The"
+            ],
+            "correct": 1,
+            "id": "f39b175f65c94eacaab7286e491a5682"
+        },
+        {
+            "question": "I have broken ...................................... leg.",
+            "description": "",
+            "answers": [
+                "a",
+                "my"
+            ],
+            "correct": 1,
+            "id": "04e7b8b5b4124b7bb9ee45c81ff476eb"
+        },
+        {
+            "question": "I walked ............................................ the road.",
+            "description": "",
+            "answers": [
+                "along",
+                "besides"
+            ],
+            "correct": 0,
+            "id": "8438f7601c4a4e8c8179026cf6bb2718"
+        },
+        {
+            "question": "They have an apartment ........................................ the sixth floor.",
+            "description": "",
+            "answers": [
+                "in",
+                "on",
+                "at"
+            ],
+            "correct": 1,
+            "id": "3967e2a2e78d4a6f9fc92fd295f82104"
+        },
+        {
+            "question": "I could eat hardly anything ........................................... I was anxious.",
+            "description": "Use because before a clause. ",
+            "answers": [
+                "because",
+                "because of",
+                ""
+            ],
+            "correct": 0,
+            "id": "ba4a1aed64e84b8d858075c29c61d2b7"
+        },
+        {
+            "question": "You ........................................ eat anything.",
+            "description": "",
+            "answers": [
+                "didn't",
+                "hadn't",
+                "doesn't"
+            ],
+            "correct": 0,
+            "id": "b5117103b7934228882b86fed3b98d1e"
+        }
+    ]
+}

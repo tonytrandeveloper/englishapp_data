@@ -1,0 +1,136 @@
+{
+    "id": "156cf51d502b49caae4f1b7132fb560d",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "She is more intelligent ……………………….. I thought.",
+            "description": "More intelligent is a comparative word. It is followed by than.",
+            "answers": [
+                "than",
+                "then",
+                "compared to"
+            ],
+            "correct": 0,
+            "id": "144db99527d74cd2af18cba06482a279"
+        },
+        {
+            "question": "I have hardly eaten ………………………… since yesterday.",
+            "description": "Hardly is a negative word. It cannot be used with nothing.",
+            "answers": [
+                "something",
+                "anything",
+                "nothing"
+            ],
+            "correct": 1,
+            "id": "9fa45095c38042a9ab0f117688eac84f"
+        },
+        {
+            "question": "I have …………………………. been to a foreign country.",
+            "description": "Never is used in affirmative sentences.",
+            "answers": [
+                "ever",
+                "never"
+            ],
+            "correct": 1,
+            "id": "5e528c91e68941ed8430a88f4493c075"
+        },
+        {
+            "question": "Have you …………………………….. seen a ghost?",
+            "description": "In questions we use ever.",
+            "answers": [
+                "ever",
+                "never",
+                ""
+            ],
+            "correct": 0,
+            "id": "b994b21c8f1c482dbf898df674fc3626"
+        },
+        {
+            "question": "The teachers were present there, but …………………………….. the principal.",
+            "description": "To make a word, expression or clause negative, we use not.",
+            "answers": [
+                "no",
+                "not",
+                "none"
+            ],
+            "correct": 1,
+            "id": "d6181f3d71c343f8a29bda5505682a24"
+        },
+        {
+            "question": "She had great difficulty ………………………… a job.",
+            "description": "Difficulty is followed by (in) + ing form.",
+            "answers": [
+                "finding",
+                "in finding",
+                "to find"
+            ],
+            "correct": 1,
+            "id": "6a2d4b260578453893b46f28b369c9a4"
+        },
+        {
+            "question": "…………………………. doctors went on strike.",
+            "description": "No can mean not any.",
+            "answers": [
+                "No",
+                "None",
+                "Not"
+            ],
+            "correct": 0,
+            "id": "12e13c96b00a4bc9930bc779b489a872"
+        },
+        {
+            "question": "…………………………… you say, I will do what I want.",
+            "description": "",
+            "answers": [
+                "No matter what",
+                "Whatever",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "d576ddedf1a14086bfbf98b57485beac"
+        },
+        {
+            "question": "I will do it ……………………………… difficult it is.",
+            "description": "",
+            "answers": [
+                "No matter how",
+                "However",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4a2fe59eb52b4bcc9df742743c4d6b9f"
+        },
+        {
+            "question": "She is ……………………….. a great dancer than I am.",
+            "description": "",
+            "answers": [
+                "No more",
+                "No longer",
+                "Not more"
+            ],
+            "correct": 0,
+            "id": "0ab31d0a2e4449f596b8991ceafdb924"
+        },
+        {
+            "question": "It took me months to ………………………… in the city.",
+            "description": "",
+            "answers": [
+                "get used to drive",
+                "get used to driving",
+                "used to get driving"
+            ],
+            "correct": 1,
+            "id": "5fb4d4663c8c44e483acc25a84417178"
+        },
+        {
+            "question": "You look …………………………..",
+            "description": "Look is a copular verb. We use adjectives, not adverbs, to modify copular verbs. ",
+            "answers": [
+                "jubilant",
+                "jubilantly"
+            ],
+            "correct": 0,
+            "id": "c5467e18b1b343c488a90624b9754643"
+        }
+    ]
+}

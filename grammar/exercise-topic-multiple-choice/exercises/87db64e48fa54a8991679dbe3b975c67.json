@@ -1,0 +1,115 @@
+{
+    "id": "87db64e48fa54a8991679dbe3b975c67",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "Will you wait here ………………….. I come back?",
+            "description": "",
+            "answers": [
+                "till",
+                "until",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "81cbab710cf44b0684d1fcbd576b39b2"
+        },
+        {
+            "question": "I will visit you ………………… I have time.",
+            "description": "",
+            "answers": [
+                "if",
+                "when",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "9a7519a8d5c9405ca4fd4e0a14deeb9b"
+        },
+        {
+            "question": "The train will have left …………………. the time we reach the station.",
+            "description": "",
+            "answers": [
+                "by",
+                "before",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d4f382d4d5ad4530a47838bc94c2c3cf"
+        },
+        {
+            "question": "The train had left …………………. we reached the station.",
+            "description": "",
+            "answers": [
+                "by",
+                "before"
+            ],
+            "correct": 1,
+            "id": "75af138e40f741b1b74421845dd9a569"
+        },
+        {
+            "question": "You can leave ………………….. you are ready.",
+            "description": "",
+            "answers": [
+                "as soon as",
+                "when",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "d2ab26c790944c6fbe9a1bd92f705c8b"
+        },
+        {
+            "question": "You have to finish it …………………. you leave.",
+            "description": "",
+            "answers": [
+                "before",
+                "as soon as",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "fe17462b11d94edb8e5ff077999efa25"
+        },
+        {
+            "question": "I hurt myself …………………. playing cricket.",
+            "description": "",
+            "answers": [
+                "while",
+                "whenever",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "8f0f852620ee4ce0b1f964d4dc626e2e"
+        },
+        {
+            "question": "I injured my foot ……………….. I was playing cricket.",
+            "description": "",
+            "answers": [
+                "when",
+                "while",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "4c814a8c315d476baca9fe5c2b4f32ed"
+        },
+        {
+            "question": "He gave me the message …………………… I arrived.",
+            "description": "",
+            "answers": [
+                "moment",
+                "the moment",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "204e0377844b4412948e930a3c904532"
+        },
+        {
+            "question": "I will only pay you …………………. you finish the work on time.",
+            "description": "",
+            "answers": [
+                "if",
+                "unless",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "e9a46c1848c2458f8ba43cbfdbb2063b"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "id": "25823c2d097b484a8e2179edbf738984",
+    "title": "Sentence Improvement Exercise",
+    "questions": [
+        {
+            "question": "The traveler asked me if I ......................... the way to the nearest inn.",
+            "description": "",
+            "answers": [
+                "know",
+                "knew",
+                "had known"
+            ],
+            "correct": 1,
+            "id": "6bcdc71263ac4b739e7d7f2fe2806abb"
+        },
+        {
+            "question": "The doctor ........................ a holiday.",
+            "description": "",
+            "answers": [
+                "suggested me to take",
+                "suggested that I should",
+                "suggested to take"
+            ],
+            "correct": 1,
+            "id": "8f4b1da476374dfbb1a167527520674e"
+        },
+        {
+            "question": "He was ........................ his rheumatism by a specialist.",
+            "description": "",
+            "answers": [
+                "cured of",
+                "cured from",
+                "cured with"
+            ],
+            "correct": 0,
+            "id": "b31e1d0a97e44c529139cdccb98d6fde"
+        },
+        {
+            "question": "He threatened that he would shoot me ........................ I didn’t obey his instructions.",
+            "description": "",
+            "answers": [
+                "if",
+                "unless",
+                "if not",
+                "whether"
+            ],
+            "correct": 0,
+            "id": "9d300a58fe9e42ca96be499ce453bad3"
+        },
+        {
+            "question": "There is .......................... she broke it.",
+            "description": "",
+            "answers": [
+                "no question of denying the fact that",
+                "no denying the fact that",
+                "no denial the fact that"
+            ],
+            "correct": 1,
+            "id": "a8c9315f86a64b4bae701002c78adc4e"
+        }
+    ]
+}

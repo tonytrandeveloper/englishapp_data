@@ -1,0 +1,138 @@
+{
+    "id": "c887017da964463492ca8bea86a67e7e",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "Air conditioning …………………………. for a comfortable house.",
+            "description": "We use the simple present to talk about facts.",
+            "answers": [
+                "is making",
+                "makes",
+                "make"
+            ],
+            "correct": 1,
+            "id": "0967d35795324577bf51bef1abd89d2e"
+        },
+        {
+            "question": "The new hospital ……………………………… in the coming year.",
+            "description": "To express simple futurity, we use the simple future. The passive form is used here because the subject is not the doer of the action.",
+            "answers": [
+                "will build",
+                "will be built",
+                "would be built"
+            ],
+            "correct": 1,
+            "id": "f6011d55cc954a8ba43989339b35329a"
+        },
+        {
+            "question": "The dancing ………………………….. right after the dinner",
+            "description": "To express simple futurity, we use the simple future.",
+            "answers": [
+                "will commence",
+                "will be commencing",
+                "is commencing"
+            ],
+            "correct": 0,
+            "id": "5bb039aa6eb3429e83a6810706389cea"
+        },
+        {
+            "question": "When I went to his place yesterday, his wife ………………………….. me a cold reception.",
+            "description": "We use the simple past to talk about finished events in the past. ",
+            "answers": [
+                "gives",
+                "gave",
+                "has given"
+            ],
+            "correct": 1,
+            "id": "24295be90feb4f67b8c8382ccf6fa822"
+        },
+        {
+            "question": "My birthday …………………………….. with my wedding anniversary.",
+            "description": "",
+            "answers": [
+                "is coinciding",
+                "coincides",
+                "coincide"
+            ],
+            "correct": 1,
+            "id": "42a0b06c19aa4e05841e53b4da2bd640"
+        },
+        {
+            "question": "His parents ………………………… him because he was an only child.",
+            "description": "",
+            "answers": [
+                "pampers",
+                "has pampered",
+                "pampered"
+            ],
+            "correct": 2,
+            "id": "93c17140d2184f4999da8d2151c71cb6"
+        },
+        {
+            "question": "In hemophilia the blood ………………………. properly.",
+            "description": "Use the simple present to talk about facts. ",
+            "answers": [
+                "does not clot",
+                "do not clot",
+                "not clot"
+            ],
+            "correct": 0,
+            "id": "f3909e3735cc491fa0766761bd28c9cd"
+        },
+        {
+            "question": "Pine trees …………………………. to the ever green class.",
+            "description": "Use the simple present to talk about facts. ",
+            "answers": [
+                "belong",
+                "belonging",
+                "are belonging"
+            ],
+            "correct": 0,
+            "id": "17a03b7040a049f2b742d46c2299ace8"
+        },
+        {
+            "question": "The class ……………………………. graduating in June.",
+            "description": "Collective nouns are usually treated as singular.",
+            "answers": [
+                "is",
+                "are",
+                "have been"
+            ],
+            "correct": 0,
+            "id": "3537d0627c6d41c5b95efc3dd56f937e"
+        },
+        {
+            "question": "Eggs ………………………….. according to size.",
+            "description": "",
+            "answers": [
+                "classify",
+                "are classified",
+                "have classified"
+            ],
+            "correct": 1,
+            "id": "2284ff06f79c4e4c99f0353ba44217f5"
+        },
+        {
+            "question": "Butter …………………………. by churning cream.",
+            "description": "The passive verb is used here because the subject is not the doer of the action. ",
+            "answers": [
+                "made",
+                "is made",
+                "has made"
+            ],
+            "correct": 1,
+            "id": "70a3ff92711a49b3b67cb269054a2fe6"
+        },
+        {
+            "question": "The circuit of the earth around the sun …………………………… about a year.",
+            "description": "We use the simple present to talk about facts.",
+            "answers": [
+                "is taking",
+                "takes",
+                "has taken"
+            ],
+            "correct": 1,
+            "id": "7b0192be149840aab92c5bcb3fcec71a"
+        }
+    ]
+}

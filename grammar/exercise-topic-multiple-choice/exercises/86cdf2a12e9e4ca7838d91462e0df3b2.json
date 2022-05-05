@@ -1,0 +1,138 @@
+{
+    "id": "86cdf2a12e9e4ca7838d91462e0df3b2",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "I know the place …………………….. he lives.",
+            "description": "When we separate the clauses we get:\r\nI know the place. He lives there.\r\nThe relative pronoun where replaces place words like there.\r\n",
+            "answers": [
+                "which",
+                "where",
+                "there"
+            ],
+            "correct": 1,
+            "id": "d17263ab254d43209590d1a0f39df297"
+        },
+        {
+            "question": "He is the man ……………………….. rescued my sister.",
+            "description": "When we separate the clauses we get:\r\nHe is the man. He rescued my sister.\r\nThe relative pronoun who replaces words like he, she and they.\r\n",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "26c718fa62db478a8d5c410cd87483bc"
+        },
+        {
+            "question": "He never does anything ………………………….. is silly.",
+            "description": "The relative pronoun that is preferred after words like all, any or anything.",
+            "answers": [
+                "that",
+                "what",
+                "which"
+            ],
+            "correct": 0,
+            "id": "d7dfbcd9025d4da3a931f03bbd314213"
+        },
+        {
+            "question": "Here is the book …………………….. you want.",
+            "description": "When we separate the clauses we get:\r\nHere is the book. You want it.\r\nThe relative pronoun that can replace words like he, she and it. \r\n",
+            "answers": [
+                "that",
+                "what",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "a379bf18f98f4b5c8c26ed6d9b9da945"
+        },
+        {
+            "question": "People ………………………. live in glass houses should not throw stones.",
+            "description": "The relative pronoun who is used to talk about people.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "3de2acaa11024c168e75788c3501ff4a"
+        },
+        {
+            "question": "Any student ………………………… fails to do the homework will be punished.",
+            "description": "",
+            "answers": [
+                "who",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "cdcd614da04e4bf5bbaf76e860f11114"
+        },
+        {
+            "question": "He laughs best ……………………….. laughs last.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "54f6639f4e1942c7ad80b56ec6a4163e"
+        },
+        {
+            "question": "This is the reason ………………………… he came late.",
+            "description": "We can use that or why after reason.",
+            "answers": [
+                "that",
+                "why",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "e3aa55b6da954304aaf43801e7322ac6"
+        },
+        {
+            "question": "The explanation …………………………. he gave us was not satisfactory.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ab85f7dde459412ca7e7b29791872d60"
+        },
+        {
+            "question": "The houses in …………………………… the Burmese live are generally built of bamboo.",
+            "description": "",
+            "answers": [
+                "there",
+                "where",
+                "which"
+            ],
+            "correct": 2,
+            "id": "e33f69f15df2451687cae1ebf6d905a0"
+        },
+        {
+            "question": "He met a girl ……………………….. eyes were blue.",
+            "description": "The relative pronoun whose replaces words like his or her.",
+            "answers": [
+                "who",
+                "whose",
+                "who's"
+            ],
+            "correct": 1,
+            "id": "26b4dc185d434cdabac55508da342225"
+        },
+        {
+            "question": "The author lives in that cottage ……………………….. overlooks the lake.",
+            "description": "That and which can both refer to things in identifying relative clauses.",
+            "answers": [
+                "which",
+                "there",
+                "where"
+            ],
+            "correct": 0,
+            "id": "f00269feb2894102a009751e98a11e97"
+        }
+    ]
+}

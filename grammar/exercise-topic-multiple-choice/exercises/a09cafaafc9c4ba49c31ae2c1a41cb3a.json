@@ -1,0 +1,116 @@
+{
+    "id": "a09cafaafc9c4ba49c31ae2c1a41cb3a",
+    "title": "Can, May, And Could",
+    "questions": [
+        {
+            "question": "He ……………….. be on holiday, but I’m not sure.",
+            "description": "",
+            "answers": [
+                "may",
+                "can",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "4de526b5899e4e6cb01ac5941a2efafe"
+        },
+        {
+            "question": "You ……………….. be right, but I would still like to check.",
+            "description": "",
+            "answers": [
+                "may",
+                "can",
+                "should"
+            ],
+            "correct": 0,
+            "id": "f405354ca8cd4afd8770e833503487b7"
+        },
+        {
+            "question": "………………. you turn down the volume, please?",
+            "description": "",
+            "answers": [
+                "Can",
+                "May",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "9885a4c940d3440b94aab41ae87d8793"
+        },
+        {
+            "question": "You ……………… go when you have finished.",
+            "description": "",
+            "answers": [
+                "can",
+                "may",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "9382039682e5420cb3977c18046e9a4a"
+        },
+        {
+            "question": "You ……………….. ask whatever questions you have.",
+            "description": "",
+            "answers": [
+                "may",
+                "can",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "37ba5f1f74e94008a90984e3ddc2520b"
+        },
+        {
+            "question": "You ………………… smoke in the kitchen.",
+            "description": "",
+            "answers": [
+                "must not",
+                "cannot",
+                "should not",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "c6224643520b4c2b8ccad14f7a46f0d8"
+        },
+        {
+            "question": "From his accent, he ………………….. be from Toronto.",
+            "description": "",
+            "answers": [
+                "can",
+                "could"
+            ],
+            "correct": 1,
+            "id": "0e04076ead2a4e2f8443ad5e26e33c09"
+        },
+        {
+            "question": "‘Who can it be?’ ‘It ……………….. the postman.’",
+            "description": "",
+            "answers": [
+                "may not",
+                "cannot",
+                "must not"
+            ],
+            "correct": 1,
+            "id": "ba22f7e6ebfe4fbd96e1aa5369bee4b0"
+        },
+        {
+            "question": "The weather ……………… be hotter tomorrow.",
+            "description": "",
+            "answers": [
+                "may",
+                "could",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "f203209de10e4b9fb1c0f5c68635538c"
+        },
+        {
+            "question": "………………. you dance?",
+            "description": "",
+            "answers": [
+                "Can",
+                "May",
+                "Could"
+            ],
+            "correct": 0,
+            "id": "ee0f48ea8de34aef869fe64c9fd9f373"
+        }
+    ]
+}

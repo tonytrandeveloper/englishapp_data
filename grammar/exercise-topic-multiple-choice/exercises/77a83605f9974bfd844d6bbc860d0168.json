@@ -1,0 +1,140 @@
+{
+    "id": "77a83605f9974bfd844d6bbc860d0168",
+    "title": "Too, Enough, and So...That",
+    "questions": [
+        {
+            "question": "She wasn't .......................... to be discouraged by some of her teachers.",
+            "description": "",
+            "answers": [
+                "too weak",
+                "weak enough",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "a0017f7e93054f8d8ce5138516833844"
+        },
+        {
+            "question": "She soon grew ......................... to manage without a hearing aid.",
+            "description": "",
+            "answers": [
+                "so deaf",
+                "too deaf",
+                "deaf enough"
+            ],
+            "correct": 1,
+            "id": "9fd3a8c1cd3844af87639b2aa7b86f6f"
+        },
+        {
+            "question": "The task was ............................ for any teenager fresh from a Scottish farm.",
+            "description": "Enough is an adverb. It goes after the adjective or adverb modified by it. ",
+            "answers": [
+                "enough daunting",
+                "daunting enough",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "0bca278d4f15489480525a59c7bcebba"
+        },
+        {
+            "question": "Rahul was .......................... busy that he could not talk to me.",
+            "description": "Note the pattern 'so....that'.",
+            "answers": [
+                "too",
+                "so",
+                "enough",
+                "All of the above"
+            ],
+            "correct": 1,
+            "id": "ddd2c17546ba45ef8e88e3e7d70f1146"
+        },
+        {
+            "question": "The car is ........................... to seat six people.",
+            "description": "The expression 'too large' has a negative meaning. 'Large enough' shows adequacy. ",
+            "answers": [
+                "too large",
+                "so large",
+                "large enough"
+            ],
+            "correct": 2,
+            "id": "36a5929467fa41258bbc31b55788c3f9"
+        },
+        {
+            "question": "He walked ............................ fast that I could not catch up with him.",
+            "description": "Note the pattern 'so...that'.",
+            "answers": [
+                "too",
+                "so",
+                "enough"
+            ],
+            "correct": 1,
+            "id": "b3a378574cee4d559438c91f5362167f"
+        },
+        {
+            "question": "She is ............................ to buy a car.",
+            "description": "When enough is used as an adverb, it goes after the adjective or adverb modified by it.  The expression 'rich enough' has a positive meaning whereas the expression 'too rich' has a negative meaning. ",
+            "answers": [
+                "enough rich",
+                "rich enough",
+                "too rich"
+            ],
+            "correct": 1,
+            "id": "2b0ff7f26c1340208c0ee606f4ab64f9"
+        },
+        {
+            "question": "He was ......................... proud to apologize.",
+            "description": "Note the pattern 'too...to'.",
+            "answers": [
+                "too",
+                "so",
+                "enough"
+            ],
+            "correct": 0,
+            "id": "7c518cf4533a4491957edff5095c7931"
+        },
+        {
+            "question": "None of the mangoes is .............................. to be eaten.",
+            "description": "Enough goes after the adjective modified by it. ",
+            "answers": [
+                "ripe enough",
+                "enough ripe",
+                "so ripe"
+            ],
+            "correct": 0,
+            "id": "7cf269f76da14ed9b0dd462b37f8036b"
+        },
+        {
+            "question": "She has ............................. many students in her class that she cannot give them individual attention.",
+            "description": "Note the pattern 'so...that'. We cannot use a that-clause after very.",
+            "answers": [
+                "too",
+                "so",
+                "very"
+            ],
+            "correct": 1,
+            "id": "4b4b0d01020143869068ce668fd19340"
+        },
+        {
+            "question": "He is ................................ to solve the problem.",
+            "description": "The expression 'intelligent enough' has a positive meaning whereas the expression 'too intelligent' has a negative meaning. ",
+            "answers": [
+                "enough intelligent",
+                "intelligent enough",
+                "too intelligent"
+            ],
+            "correct": 1,
+            "id": "580e05b7ef9f478891626ab0f2dd5415"
+        },
+        {
+            "question": "The light was not .............................. for one to see things clearly.",
+            "description": "'Bright enough' has a positive meaning. It shows adequacy. 'Too bright' has a negative meaning. ",
+            "answers": [
+                "enough bright",
+                "bright enough",
+                "too bright",
+                "very bright"
+            ],
+            "correct": 1,
+            "id": "4b788d7bea314a638212d1ce3ab0dd4a"
+        }
+    ]
+}

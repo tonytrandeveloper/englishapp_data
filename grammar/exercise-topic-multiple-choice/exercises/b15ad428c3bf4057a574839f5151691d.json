@@ -1,0 +1,115 @@
+{
+    "id": "b15ad428c3bf4057a574839f5151691d",
+    "title": "Reported Speech Exercise",
+    "questions": [
+        {
+            "question": "Jane said that she was quite sure that she ........................... in time.",
+            "description": "",
+            "answers": [
+                "will return",
+                "would return",
+                "returned"
+            ],
+            "correct": 1,
+            "id": "f620774b95fb40b4af341e05836f3601"
+        },
+        {
+            "question": "He ............................... his friend good bye.",
+            "description": "",
+            "answers": [
+                "bid",
+                "bade",
+                "bidden"
+            ],
+            "correct": 1,
+            "id": "741a40375c0440de82d15e819708d687"
+        },
+        {
+            "question": "My mother ................................ me home.",
+            "description": "",
+            "answers": [
+                "welcome",
+                "welcoming",
+                "welcomed"
+            ],
+            "correct": 2,
+            "id": "c14256bba1064963a86ed6438e50055a"
+        },
+        {
+            "question": "The boy ................................ me for my help.",
+            "description": "",
+            "answers": [
+                "thank",
+                "thanked",
+                "thanking"
+            ],
+            "correct": 1,
+            "id": "c1cd1c764bb3424b9f0f56d03187d505"
+        },
+        {
+            "question": "He expressed his hope that I ............................... well.",
+            "description": "",
+            "answers": [
+                "am",
+                "was",
+                "were"
+            ],
+            "correct": 1,
+            "id": "2ff4924f6feb423cb323ce05b93cfce3"
+        },
+        {
+            "question": "The accused ................................... not guilty.",
+            "description": "",
+            "answers": [
+                "plead",
+                "pleaded",
+                "pleading"
+            ],
+            "correct": 1,
+            "id": "54118c229d1146af8876219554577ec9"
+        },
+        {
+            "question": "I advised him ............................... his parents.",
+            "description": "",
+            "answers": [
+                "to obey",
+                "that he obey"
+            ],
+            "correct": 0,
+            "id": "8e144ef5a7ca42a3ba61e492e39f1607"
+        },
+        {
+            "question": "The mother asked her daughter if she knew where the keys ..................................",
+            "description": "",
+            "answers": [
+                "was",
+                "were",
+                "are"
+            ],
+            "correct": 1,
+            "id": "67e8b03b5c8545aa8d22c11d8664a306"
+        },
+        {
+            "question": "James asked me if I ................................... spare some money for him.",
+            "description": "",
+            "answers": [
+                "can",
+                "could",
+                "had"
+            ],
+            "correct": 1,
+            "id": "f9bb9bdba7724e9c96a532ae00d097cd"
+        },
+        {
+            "question": "Voila asked Rosalind where she ...................................",
+            "description": "",
+            "answers": [
+                "was going",
+                "am going",
+                "has going"
+            ],
+            "correct": 0,
+            "id": "6c97cd464a6240acbd9a6dd87a06bcbb"
+        }
+    ]
+}

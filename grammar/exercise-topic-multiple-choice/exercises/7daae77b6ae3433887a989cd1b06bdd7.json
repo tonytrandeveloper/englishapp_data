@@ -1,0 +1,131 @@
+{
+    "id": "7daae77b6ae3433887a989cd1b06bdd7",
+    "title": "Confusing Words Exercise",
+    "questions": [
+        {
+            "question": "The library has …………………………… of books.",
+            "description": "Write lots or a lot.",
+            "answers": [
+                "lots",
+                "lot"
+            ],
+            "correct": 0,
+            "id": "4fe950d65d0342c2b5292a3fd9115a0c"
+        },
+        {
+            "question": "The ………………………… of the ship ended his career as a captain.",
+            "description": "Loss is a noun. Lose is the verb.",
+            "answers": [
+                "loss",
+                "lose",
+                "loose"
+            ],
+            "correct": 0,
+            "id": "799be85a4d4d48e6ab821e78f9eebe19"
+        },
+        {
+            "question": "The …………………………… file was never found.",
+            "description": "Lost can be an adjective. ",
+            "answers": [
+                "lost",
+                "loss",
+                "losed"
+            ],
+            "correct": 0,
+            "id": "4bb6724283f5494789eff2fdba268a78"
+        },
+        {
+            "question": "The dog ran …………………………… in the yard.",
+            "description": "Loose is the opposite of tight.",
+            "answers": [
+                "lose",
+                "loose",
+                "loss"
+            ],
+            "correct": 1,
+            "id": "deea3ebf29094206b5a8ac626ec61031"
+        },
+        {
+            "question": "The plan was presented in a ………………………….. manner.",
+            "description": "Logical is the adjective. Logic is a noun.",
+            "answers": [
+                "logic",
+                "logical"
+            ],
+            "correct": 1,
+            "id": "192a2c013db1424fb902030fa16e0f13"
+        },
+        {
+            "question": "They ……………………………. the prisoners’ bonds and set them free.",
+            "description": "Loosed is the past tense of loose which can also be a verb. As a verb loose means untie.",
+            "answers": [
+                "loosed",
+                "losed",
+                "lost"
+            ],
+            "correct": 0,
+            "id": "45504b5444bd4e62a12c6627670db309"
+        },
+        {
+            "question": "The play’s ………………………….. is Mumbai.",
+            "description": "Locale means setting.",
+            "answers": [
+                "local",
+                "locale"
+            ],
+            "correct": 1,
+            "id": "5f105c30e3864ac19cd26071328ec0ea"
+        },
+        {
+            "question": "The salesman is …………………………. to accept a job in a new territory.",
+            "description": "Loath means unwilling or averse.",
+            "answers": [
+                "loath",
+                "loathe"
+            ],
+            "correct": 0,
+            "id": "cd4a0dde2a3c4206af841006445ad6e1"
+        },
+        {
+            "question": "They …………………………. pretension.",
+            "description": "Loathe means hate.",
+            "answers": [
+                "loath",
+                "loathe"
+            ],
+            "correct": 1,
+            "id": "2a95358421414d74b4703110894ba356"
+        },
+        {
+            "question": "A few luxuries make life more …………………………….",
+            "description": "",
+            "answers": [
+                "livable",
+                "liveable",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "f227dbe1773544109b92464bdaf98bb5"
+        },
+        {
+            "question": "If we make a ………………………… effort we will win the game.",
+            "description": "Collective means unified.",
+            "answers": [
+                "collective",
+                "collected"
+            ],
+            "correct": 0,
+            "id": "42bffaef869046f4a908ed32566c53b6"
+        },
+        {
+            "question": "The witness was remarkably ……………………………… under the cross examination.",
+            "description": "Collected means self controlled.",
+            "answers": [
+                "collective",
+                "collected"
+            ],
+            "correct": 1,
+            "id": "98a3ba44b94e4785a881a18c99547856"
+        }
+    ]
+}

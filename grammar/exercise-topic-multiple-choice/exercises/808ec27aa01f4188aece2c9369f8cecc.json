@@ -1,0 +1,94 @@
+{
+    "id": "808ec27aa01f4188aece2c9369f8cecc",
+    "title": "Grammar Exercise",
+    "questions": [
+        {
+            "question": "..................... she read the telegram she fainted.",
+            "description": "",
+            "answers": [
+                "Hardly when",
+                "Scarcely",
+                "As soon as"
+            ],
+            "correct": 2,
+            "id": "65b371b7aedb4b8a9ccd11e4502594d5"
+        },
+        {
+            "question": "................. my children are all employed, I have no financial difficulties.",
+            "description": "",
+            "answers": [
+                "Now",
+                "That",
+                "Now that"
+            ],
+            "correct": 2,
+            "id": "e7573038ea974e689123ee5c495e337b"
+        },
+        {
+            "question": "The house is ......................... to accommodate them all.",
+            "description": "",
+            "answers": [
+                "enough spacious",
+                "spacious enough",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "be64702c95ad4bd9acec0088167258b3"
+        },
+        {
+            "question": "Germs are ..................... small that they cannot be seen with the naked eye.",
+            "description": "",
+            "answers": [
+                "very",
+                "too",
+                "so"
+            ],
+            "correct": 2,
+            "id": "8ed9e2f7f49747c39d4fee100d222f73"
+        },
+        {
+            "question": ".................... the hunter raised his gun the birds flew away.",
+            "description": "",
+            "answers": [
+                "No sooner than",
+                "As soon as",
+                "As long as"
+            ],
+            "correct": 1,
+            "id": "db069c058b174bd9a6c5fa121fd3f994"
+        },
+        {
+            "question": "He is ...................... strong to be defeated.",
+            "description": "",
+            "answers": [
+                "very",
+                "so",
+                "too"
+            ],
+            "correct": 2,
+            "id": "708d6dcbced446c9945f65e54a00cc7c"
+        },
+        {
+            "question": "You must take your medicine ..................... get well.",
+            "description": "",
+            "answers": [
+                "so that",
+                "in order that",
+                "in order to"
+            ],
+            "correct": 2,
+            "id": "75526d1d00ce40778241ff2b9181ab73"
+        },
+        {
+            "question": "Peter, as well as Mary, ..................... shocked by the news.",
+            "description": "",
+            "answers": [
+                "was",
+                "were",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "85cd3f696823476e823954d7cebaf8f6"
+        }
+    ]
+}

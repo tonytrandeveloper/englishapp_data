@@ -1,0 +1,106 @@
+{
+    "id": "6d8cf2cca25e4d3694aef9a6f0aa0610",
+    "title": "Adjective Or Adverb",
+    "questions": [
+        {
+            "question": "If you work too …………………………………., you will fall ill.",
+            "description": "",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 0,
+            "id": "3d42822dd63c4061aea4eb5bb882e081"
+        },
+        {
+            "question": "The country received …………………………………… any rainfall this year.",
+            "description": "",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 1,
+            "id": "e6cc37b147da415abaa5b03ea94b0114"
+        },
+        {
+            "question": "In a democratic country, everybody has the right to speak …………………………….",
+            "description": "",
+            "answers": [
+                "free",
+                "freely"
+            ],
+            "correct": 1,
+            "id": "c9f2c1bcc5f44a7380d2294f32d446f5"
+        },
+        {
+            "question": "He hit the nail ................................................",
+            "description": "",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 0,
+            "id": "e918fef4cc244504b11d60874f51d42d"
+        },
+        {
+            "question": "The show was ……………………………………… amusing.",
+            "description": "",
+            "answers": [
+                "high",
+                "highly"
+            ],
+            "correct": 1,
+            "id": "576f83d1ece942c58e832f27c242e956"
+        },
+        {
+            "question": "Throw it as ………………………………………. as you can.",
+            "description": "",
+            "answers": [
+                "high",
+                "highly"
+            ],
+            "correct": 0,
+            "id": "4a466950a806404fa47630e5719f497c"
+        },
+        {
+            "question": "He has ……………………………………. arrived.",
+            "description": "",
+            "answers": [
+                "just",
+                "justly"
+            ],
+            "correct": 0,
+            "id": "351eda718dfc4e468721fca5bb30eb59"
+        },
+        {
+            "question": "All criminals must be ……………………………………….. punished for their crimes.",
+            "description": "",
+            "answers": [
+                "just",
+                "justly"
+            ],
+            "correct": 1,
+            "id": "b4fb1d9de23b4ae797fe77d0ab6a2d13"
+        },
+        {
+            "question": "He is never ………………………………………… for work.",
+            "description": "",
+            "answers": [
+                "late",
+                "lately"
+            ],
+            "correct": 0,
+            "id": "feecc99e70f24c278f87347ee81fc2cb"
+        },
+        {
+            "question": "I haven’t been to the theatre much …………………………………………",
+            "description": "",
+            "answers": [
+                "late",
+                "lately"
+            ],
+            "correct": 1,
+            "id": "3aaa8ecae2d34d518053cbaaadaf3662"
+        }
+    ]
+}

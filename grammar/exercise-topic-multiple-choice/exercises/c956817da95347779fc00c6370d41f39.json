@@ -1,0 +1,138 @@
+{
+    "id": "c956817da95347779fc00c6370d41f39",
+    "title": "Intermediate Grammar Exercise",
+    "questions": [
+        {
+            "question": "I wish I ................................ better.",
+            "description": "We use a past tense after I wish to talk about our wishes.",
+            "answers": [
+                "look",
+                "looked",
+                "have looked"
+            ],
+            "correct": 1,
+            "id": "13e320abb73043c3a08e4a32794d6c2d"
+        },
+        {
+            "question": "I wish I .................................. taller.",
+            "description": "We use a past tense after I wish to talk about our wishes.",
+            "answers": [
+                "am",
+                "was",
+                "have been"
+            ],
+            "correct": 1,
+            "id": "dae214cc5f8943358ba868f2ded1b2c1"
+        },
+        {
+            "question": "I do have some regrets. I wish I ................................... harder.",
+            "description": "We use past perfect after I wish to talk about unfulfilled past wishes.",
+            "answers": [
+                "worked",
+                "have worked",
+                "had worked"
+            ],
+            "correct": 2,
+            "id": "e584aab23f594fdcb77d3abf60e78d5c"
+        },
+        {
+            "question": "My mother ..................................... knit beautiful sweaters.",
+            "description": "We use can to talk about ability.",
+            "answers": [
+                "can",
+                "may",
+                "could"
+            ],
+            "correct": 0,
+            "id": "7813de0409624ffdaec06a3f66f6a92a"
+        },
+        {
+            "question": "He ..................................... drive four wheelers.",
+            "description": "We use can to mean 'know how to'.",
+            "answers": [
+                "can",
+                "is able to",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "2bd6d6a177d34dafa275f9f60ce7ef03"
+        },
+        {
+            "question": "We will ........................................... reach there on time.",
+            "description": "We cannot use can after will.",
+            "answers": [
+                "can",
+                "be able to",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "d767caf6dde84dda87addf9e80f6ed1e"
+        },
+        {
+            "question": "How much time can you devote ...................................... English?",
+            "description": "Devote is followed by to + ing form.",
+            "answers": [
+                "to learn",
+                "to learning",
+                "learning"
+            ],
+            "correct": 1,
+            "id": "8e267491a8814984b348dcd7359ae376"
+        },
+        {
+            "question": "I hope that date is not set in ................................",
+            "description": "If a date is set in stone, it cannot be changed.",
+            "answers": [
+                "slab",
+                "rock",
+                "stone"
+            ],
+            "correct": 2,
+            "id": "50e62fca277b45d1866636613716e825"
+        },
+        {
+            "question": "He is a busy man without ..................................... patience.",
+            "description": "Patience is an uncountable noun. We use much before uncountable nouns.",
+            "answers": [
+                "much",
+                "many",
+                "plenty of"
+            ],
+            "correct": 0,
+            "id": "b5ad03d1d1f74fa288f82bdfeff047aa"
+        },
+        {
+            "question": "You ............................... better mend your ways.",
+            "description": "Had better refers to the present and future. There is no such thing as have better.",
+            "answers": [
+                "have",
+                "had",
+                "have had"
+            ],
+            "correct": 1,
+            "id": "5552f79961ff431b876abd003714c1df"
+        },
+        {
+            "question": "Here is my number just ......................................... you would like to keep in touch with me.",
+            "description": "",
+            "answers": [
+                "if",
+                "in case",
+                "in case of"
+            ],
+            "correct": 1,
+            "id": "c94578049287466a9e324ebdbbaadb47"
+        },
+        {
+            "question": "I enjoy ........................................ time with you.",
+            "description": "We use an ing form after enjoy.",
+            "answers": [
+                "spending",
+                "to spend",
+                "to spending"
+            ],
+            "correct": 0,
+            "id": "6323c08ac2254ea98eba0ced5e390ea5"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "id": "14481e69ce0842258816b27b3e6e2dd4",
+    "title": "Adjectives Exercise",
+    "questions": [
+        {
+            "question": "That was an incredible sight.",
+            "description": "That is a pronoun and sight is a noun. Incredible is the adjective modifying the noun sight.",
+            "answers": [
+                "that",
+                "incredible",
+                "sight"
+            ],
+            "correct": 1,
+            "id": "7713a3e2bcde439388977e5c647d2405"
+        },
+        {
+            "question": "It was a stupid thing to do.",
+            "description": "Here the adjective stupid modifies the noun thing. ",
+            "answers": [
+                "was",
+                "stupid",
+                "thing",
+                "do"
+            ],
+            "correct": 1,
+            "id": "43977865ad0242afaead25e9b9f68b75"
+        },
+        {
+            "question": "She is cleverer than I thought.",
+            "description": "Clever indicates a quality. Words describing qualities are adjectives. ",
+            "answers": [
+                "is",
+                "cleverer",
+                "than",
+                "thought"
+            ],
+            "correct": 1,
+            "id": "3acba63db9ff4d8da6ba7aa4b0d43d9f"
+        },
+        {
+            "question": "Do you know any shop that sells coconuts?",
+            "description": "Here the adjective any modifies the noun shop. ",
+            "answers": [
+                "know",
+                "any",
+                "sells"
+            ],
+            "correct": 1,
+            "id": "c6481529ccea411cb5ddcb527937e2f9"
+        },
+        {
+            "question": "She seems to be very intelligent.",
+            "description": "",
+            "answers": [
+                "seems",
+                "very",
+                "intelligent"
+            ],
+            "correct": 2,
+            "id": "ba01459c79fc49b3accbe821d1ac5925"
+        },
+        {
+            "question": "He was a mischievous boy who always landed himself in trouble.",
+            "description": "Here mischievous is the adjective modifying the noun boy.",
+            "answers": [
+                "mischievous",
+                "boy",
+                "trouble"
+            ],
+            "correct": 0,
+            "id": "fd815fec4fa74495aa3a4adb73f9e29a"
+        },
+        {
+            "question": "She looked gorgeous in that gown.",
+            "description": "Words describing qualities are all adjectives. ",
+            "answers": [
+                "looked",
+                "gown",
+                "gorgeous"
+            ],
+            "correct": 2,
+            "id": "991ed752a5ca4834b64ebe43a76f3f4a"
+        },
+        {
+            "question": "This is the eighth chocolate you have eaten today.",
+            "description": "Both cardinal and ordinal numbers are adjectives. ",
+            "answers": [
+                "eighth",
+                "eaten",
+                "today"
+            ],
+            "correct": 0,
+            "id": "88fbd76bb28948098041fabb584b27cc"
+        },
+        {
+            "question": "Thank you for your quick reply.",
+            "description": "Here the adjective quick modifies the noun reply. ",
+            "answers": [
+                "thank",
+                "for",
+                "quick"
+            ],
+            "correct": 2,
+            "id": "a9c37ce863b84c6191a9438f2eb63f86"
+        },
+        {
+            "question": "The sun is the brightest object in the sky.",
+            "description": "",
+            "answers": [
+                "sun",
+                "brightest",
+                "in"
+            ],
+            "correct": 1,
+            "id": "a2f882c645194926914b58283902d25f"
+        },
+        {
+            "question": "It was an unforgettable experience.",
+            "description": "",
+            "answers": [
+                "it",
+                "experience",
+                "unforgettable"
+            ],
+            "correct": 2,
+            "id": "27b21b9f4cfb4df4856aa955a12dad8f"
+        },
+        {
+            "question": "The job was more difficult than I thought.",
+            "description": "",
+            "answers": [
+                "job",
+                "difficult",
+                "than"
+            ],
+            "correct": 1,
+            "id": "0a9650b433dc4a4297efd7cf4d4c30cb"
+        }
+    ]
+}

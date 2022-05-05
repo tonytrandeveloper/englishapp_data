@@ -1,0 +1,138 @@
+{
+    "id": "0235f11899784affabfdaff1bee86c8a",
+    "title": "Conditional Clauses Exercise",
+    "questions": [
+        {
+            "question": "If I were you, I ................................",
+            "description": "In the second conditional we use a simple past tense in the if-clause and would/could/might + v1 in the main clause.",
+            "answers": [
+                "won't go",
+                "wouldn't go",
+                "wouldn't have gone"
+            ],
+            "correct": 1,
+            "id": "2620a55decfc4f2baf17c2322422ac48"
+        },
+        {
+            "question": "She said that she would be happy if she ................................ more money.",
+            "description": "In the second conditional we use a simple past tense in the if-clause and would/could/might + v1 in the main clause.",
+            "answers": [
+                "has",
+                "had",
+                "had had"
+            ],
+            "correct": 1,
+            "id": "8b5d6bc78524432a8aa8d22588e8ffbc"
+        },
+        {
+            "question": "If you leave now, you ............................... the bus.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will/can/may + v1 in the main clause.",
+            "answers": [
+                "will catch",
+                "would catch",
+                "could catch"
+            ],
+            "correct": 0,
+            "id": "d6cd5d2d81e949d4b22dd7381daa809f"
+        },
+        {
+            "question": "My mother told me that if I had passed the test, she ....................................... me a bike.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would/could/might + have + past participle in the main clause.",
+            "answers": [
+                "will buy",
+                "would buy",
+                "would have bought"
+            ],
+            "correct": 2,
+            "id": "eaa7dab11cfb4e10924b105a4fd15cd4"
+        },
+        {
+            "question": "If I were rich, I ............................... more time on traveling.",
+            "description": "In the second conditional we use a simple past tense in the if-clause and would/could/might + v1 in the main clause.",
+            "answers": [
+                "will spend",
+                "would spend",
+                "would have spent"
+            ],
+            "correct": 1,
+            "id": "0236a4ba0e674561b053ec8da695151a"
+        },
+        {
+            "question": "If she had come on time, he ................................... mad.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would/could/might + have + past participle in the main clause.",
+            "answers": [
+                "will not go",
+                "would not go",
+                "would not have gone"
+            ],
+            "correct": 2,
+            "id": "861a3c7e10a847479d422aa3d6ff090c"
+        },
+        {
+            "question": "If you had apologized, they ................................... any further actions against you.",
+            "description": "",
+            "answers": [
+                "will not take",
+                "would not take",
+                "would not have taken"
+            ],
+            "correct": 2,
+            "id": "6235ad4d8b9c4399838aad701fd4b283"
+        },
+        {
+            "question": "If you ................................ early, you could meet her.",
+            "description": "In the second conditional we use a simple past tense in the if-clause and would/could/might + v1 in the main clause.",
+            "answers": [
+                "arrive",
+                "arrived",
+                "had arrived"
+            ],
+            "correct": 1,
+            "id": "273b3c20ed2d41d49881ab204728da99"
+        },
+        {
+            "question": "If I ................................ the money, I would have admitted it.",
+            "description": "In the third conditional, we use a past perfect tense in the if-clause and would/could/might + have + past participle in the main clause.",
+            "answers": [
+                "take",
+                "took",
+                "had taken"
+            ],
+            "correct": 2,
+            "id": "83e6308a952e4cd3a15cb6bc5e0271c8"
+        },
+        {
+            "question": "If you ............................... more politely, she would lend you her car.",
+            "description": "In the second conditional we use a simple past tense in the if-clause and would/could/might + v1 in the main clause.",
+            "answers": [
+                "asked",
+                "ask",
+                "had asked"
+            ],
+            "correct": 0,
+            "id": "2d87cec2fe5346d380dca40e4b71d51b"
+        },
+        {
+            "question": "If you love me, I .................................. you.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will/can/may + v1 in the main clause.",
+            "answers": [
+                "will love",
+                "would love",
+                "would have loved"
+            ],
+            "correct": 0,
+            "id": "feae0058a1fe429899fcb19e2f04ec23"
+        },
+        {
+            "question": "If she ........................................... Spanish at university, she could work as a translator.",
+            "description": "In the second conditional we use a simple past tense in the if-clause and would/could/might + v1 in the main clause.",
+            "answers": [
+                "learn",
+                "learned",
+                "had learned"
+            ],
+            "correct": 1,
+            "id": "dcf862add76a49d3b2e5977a02ccab74"
+        }
+    ]
+}

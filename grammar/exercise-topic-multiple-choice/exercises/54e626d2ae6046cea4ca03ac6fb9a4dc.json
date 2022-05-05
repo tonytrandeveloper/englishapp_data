@@ -1,0 +1,114 @@
+{
+    "id": "54e626d2ae6046cea4ca03ac6fb9a4dc",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "Does Amar enjoy ..................... models from clay?",
+            "description": "",
+            "answers": [
+                "make",
+                "making",
+                "to make",
+                "to making"
+            ],
+            "correct": 1,
+            "id": "b40c787ed9004a0e89c159389e1b02f2"
+        },
+        {
+            "question": "While holidaying in London, Mary ………………… a strong Canadian accent.",
+            "description": "",
+            "answers": [
+                "caught",
+                "acquired",
+                "earned",
+                "gathered"
+            ],
+            "correct": 1,
+            "id": "39456761268c49a795e6341e51417c89"
+        },
+        {
+            "question": "…………………. he was, he played well.",
+            "description": "",
+            "answers": [
+                "Tired though",
+                "Though tired",
+                "As tired",
+                "Although tired"
+            ],
+            "correct": 0,
+            "id": "fe896008f8984a43b4b29ad6e16a9155"
+        },
+        {
+            "question": "………………. she was, she could not find her way.",
+            "description": "",
+            "answers": [
+                "Though frightened",
+                "Although frightened",
+                "As frightened",
+                "Frightened as"
+            ],
+            "correct": 3,
+            "id": "ee2a67f57ef94d6780e344d15034ea72"
+        },
+        {
+            "question": "Their front door was open, …………………. nobody was at home.",
+            "description": "",
+            "answers": [
+                "but",
+                "and",
+                "as",
+                "so"
+            ],
+            "correct": 0,
+            "id": "8dfb863f83864367a6b2da4f43a2951e"
+        },
+        {
+            "question": "The bell for dinner has already ………………..",
+            "description": "",
+            "answers": [
+                "rang",
+                "rung",
+                "ringing",
+                "ring"
+            ],
+            "correct": 1,
+            "id": "dcb795d606714bee9b332f077a81201c"
+        },
+        {
+            "question": "Stella ………………… wait until her birthday.",
+            "description": "",
+            "answers": [
+                "can't hardly",
+                "can hardly",
+                "won't hardly",
+                "wouldn't hardly"
+            ],
+            "correct": 1,
+            "id": "9506c687dd4345a48d1ac52864ae9569"
+        },
+        {
+            "question": "There were ………………….. children in the class than expected.",
+            "description": "",
+            "answers": [
+                "fewer",
+                "few",
+                "less",
+                "lesser"
+            ],
+            "correct": 0,
+            "id": "922d72158e8d46f49597b00073fd3212"
+        },
+        {
+            "question": "We were given ……………….. work today than yesterday.",
+            "description": "",
+            "answers": [
+                "less",
+                "lesser",
+                "few",
+                "fewer"
+            ],
+            "correct": 0,
+            "id": "8f601c5922594495b3f90ac747ed9cf9"
+        }
+    ]
+}

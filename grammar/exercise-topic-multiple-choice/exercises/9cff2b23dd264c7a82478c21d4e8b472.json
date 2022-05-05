@@ -1,0 +1,137 @@
+{
+    "id": "9cff2b23dd264c7a82478c21d4e8b472",
+    "title": "Articles Exercise",
+    "questions": [
+        {
+            "question": "She has been living in ................................. Bangkok for three years.",
+            "description": "Articles are not normally used before the names of countries, cities or continents.",
+            "answers": [
+                "a",
+                "the",
+                "No article"
+            ],
+            "correct": 2,
+            "id": "4d04d6429c544cdbb6f3c201ba724b6b"
+        },
+        {
+            "question": "......................... Nile is the longest river in the world.",
+            "description": "Articles are used before the names of rivers.",
+            "answers": [
+                "A",
+                "The",
+                "No Article"
+            ],
+            "correct": 1,
+            "id": "311c96895f9549c0942405f2d8c64c0f"
+        },
+        {
+            "question": "Some of my friends live in ............................... United States of America.",
+            "description": "",
+            "answers": [
+                "the",
+                "No article"
+            ],
+            "correct": 0,
+            "id": "f1400f3dec7d470f8ff290e5fb63572a"
+        },
+        {
+            "question": "............................. Netherlands is also called ............................ Holland.",
+            "description": "The article the is used with United States, United Kingdom, Netherlands and United Arab Emirates.",
+            "answers": [
+                "The, no article",
+                "No articles are required",
+                "The, the"
+            ],
+            "correct": 0,
+            "id": "92f3678560364576b6a11c7171a77d9a"
+        },
+        {
+            "question": "He spent his holidays in .............................. Alps.",
+            "description": "Articles are used before the names of mountain ranges.",
+            "answers": [
+                "a",
+                "the",
+                "No article"
+            ],
+            "correct": 1,
+            "id": "12beab49e0e74042b4b84eea417c8081"
+        },
+        {
+            "question": "............................. Andes is the longest mountain range in the world.",
+            "description": "Articles are used before the names of mountain ranges.",
+            "answers": [
+                "A",
+                "The",
+                "No article"
+            ],
+            "correct": 1,
+            "id": "41fd8bed05d740afbca5e3563be83ef7"
+        },
+        {
+            "question": "............................ Mount Everest is the highest mountain in the world.",
+            "description": "Articles are not used before the names of individual mountains.",
+            "answers": [
+                "A",
+                "The",
+                "No article"
+            ],
+            "correct": 2,
+            "id": "7a3b43700820423b9ccb1fff8d791e63"
+        },
+        {
+            "question": "............................. Bahamas is a group of islands in ............................ West Atlantic Ocean.",
+            "description": "Articles are used before the names of groups of islands and oceans.",
+            "answers": [
+                "No articles are required",
+                "The, the",
+                "The, a"
+            ],
+            "correct": 1,
+            "id": "1a82c24568f445838b95291e755840e5"
+        },
+        {
+            "question": ".............................. Sahara is the largest desert in the world.",
+            "description": "",
+            "answers": [
+                "The",
+                "A",
+                "No article"
+            ],
+            "correct": 0,
+            "id": "e53ac1551f0b416697826fbc0ef92d09"
+        },
+        {
+            "question": "............................. India is a country in ..................................",
+            "description": "Articles are not normally used before the names of countries, cities or continents.",
+            "answers": [
+                "The, the",
+                "The, a",
+                "No articles are required"
+            ],
+            "correct": 2,
+            "id": "e63435b9d62e455090c3bfcf7eace433"
+        },
+        {
+            "question": "She emigrated to .............................. Canada in",
+            "description": "Articles are not normally used before the names of countries or cities.",
+            "answers": [
+                "a",
+                "the",
+                "No article"
+            ],
+            "correct": 2,
+            "id": "7f12249d9d1b434cbe35804acf0a4c80"
+        },
+        {
+            "question": "They spent their holidays on ……………………… island.",
+            "description": "",
+            "answers": [
+                "a",
+                "an",
+                "No article"
+            ],
+            "correct": 1,
+            "id": "767bd96d18af4271b31cece60c659657"
+        }
+    ]
+}

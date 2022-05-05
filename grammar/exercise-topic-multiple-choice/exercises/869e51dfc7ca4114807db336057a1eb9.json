@@ -1,0 +1,116 @@
+{
+    "id": "869e51dfc7ca4114807db336057a1eb9",
+    "title": "Articles Exercise",
+    "questions": [
+        {
+            "question": "I was born in …………………",
+            "description": "",
+            "answers": [
+                "May",
+                "the May",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "44dd149f93a847e497d3db3d410f1509"
+        },
+        {
+            "question": "My brother lives in …………………",
+            "description": "",
+            "answers": [
+                "Mumbai",
+                "the Mumbai",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "6ec5abf5ffbe458dbe63f9ce376a5121"
+        },
+        {
+            "question": "We watched …………….. yesterday.",
+            "description": "",
+            "answers": [
+                "movie",
+                "a movie",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3306e42facc4458eb8158a31b01e4c04"
+        },
+        {
+            "question": "Festivals are …………………. to celebrate.",
+            "description": "",
+            "answers": [
+                "occasion",
+                "an occasion",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "062a4e03365c460db76e1fab76589009"
+        },
+        {
+            "question": "When ……………… sets, darkness descends.",
+            "description": "",
+            "answers": [
+                "sun",
+                "the sun",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "4ab18cdb7e7b4a50aa312ece6acc3eb5"
+        },
+        {
+            "question": "The birds were pecking at ………………",
+            "description": "",
+            "answers": [
+                "tree",
+                "the tree",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "fdd479f424bc4f7e9e84eace091c0a00"
+        },
+        {
+            "question": "I will never forget your acts of ………………..",
+            "description": "",
+            "answers": [
+                "kindness",
+                "the kindness",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "dd55185c16a546939c63060d84abe4ca"
+        },
+        {
+            "question": "Milk is the best food for ………………..",
+            "description": "",
+            "answers": [
+                "baby",
+                "a baby",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "95fd3504c6564701a8330bd0cd907139"
+        },
+        {
+            "question": "………………. arrived on time.",
+            "description": "",
+            "answers": [
+                "Train",
+                "The train",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "b00796c22cc74914a1b193453717c742"
+        },
+        {
+            "question": "Give me ……………….",
+            "description": "",
+            "answers": [
+                "pen",
+                "a pen",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "c6ee163fdcb84b7db84c124813a694b3"
+        }
+    ]
+}

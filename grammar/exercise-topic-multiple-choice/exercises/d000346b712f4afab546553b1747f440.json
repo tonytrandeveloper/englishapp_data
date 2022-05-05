@@ -1,0 +1,137 @@
+{
+    "id": "d000346b712f4afab546553b1747f440",
+    "title": "Questions And Negatives",
+    "questions": [
+        {
+            "question": "She …………………. want to be disturbed while she is working.",
+            "description": "In the simple present tense, we make negatives by putting do not or does not before the infinitive. We use does not when the subject is a singular noun or pronoun.",
+            "answers": [
+                "does not",
+                "do not",
+                "has not"
+            ],
+            "correct": 0,
+            "id": "a4d3713c032e47eeb84766631441a9bd"
+        },
+        {
+            "question": "You ………………… returned the camera you borrowed from me.",
+            "description": "The past participle 'returned' clearly indicates that we need have, not do, here.",
+            "answers": [
+                "has not",
+                "did not",
+                "have not"
+            ],
+            "correct": 2,
+            "id": "f9b36c59a3e24cff85f7908cfebb8a52"
+        },
+        {
+            "question": "Michael ………………… speak French.",
+            "description": "We use ‘does not’ here because Michael is a singular noun.",
+            "answers": [
+                "do not",
+                "does not",
+                "has not"
+            ],
+            "correct": 1,
+            "id": "9dd31de052fe4eb4987e7d638ad03961"
+        },
+        {
+            "question": "Did you ………………. the parcel last week?",
+            "description": "After do and does we use the infinitive (first form of the verb). Did + send -> sent",
+            "answers": [
+                "sent",
+                "send"
+            ],
+            "correct": 1,
+            "id": "e10b5d5d5c3343d08d1876a45aacde92"
+        },
+        {
+            "question": "They ……………….. the meeting yesterday.",
+            "description": "The present perfect tense cannot be used with past time expressions.",
+            "answers": [
+                "didn't attend",
+                "haven't attended",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "58096f29fc0e46e886b7d1bdda7984e1"
+        },
+        {
+            "question": "She buys a lot of things she ………………",
+            "description": "We use does with singular nouns and pronouns. Also, we use the simple present to talk about habits. ",
+            "answers": [
+                "do not want",
+                "does not want",
+                "has not wanted"
+            ],
+            "correct": 1,
+            "id": "514209ade2954981990ee6c2f50406c5"
+        },
+        {
+            "question": "…………………. you injure yourself while playing football yesterday?",
+            "description": "The auxiliaries do and have are used in the present tenses. ",
+            "answers": [
+                "Do",
+                "Did",
+                "Have"
+            ],
+            "correct": 1,
+            "id": "9341c30e161c4995b3e9ad1b7c086a93"
+        },
+        {
+            "question": "Where could .....................… at this hour of the night?",
+            "description": "In questions, only the first of the two auxiliaries goes before the subject.",
+            "answers": [
+                "have she gone",
+                "she have gone",
+                "she have went"
+            ],
+            "correct": 1,
+            "id": "fda128a340e0439e974a5bc16ff5ce74"
+        },
+        {
+            "question": "……………… I told you not to be late?",
+            "description": "",
+            "answers": [
+                "Didn't",
+                "Haven't",
+                "Don’t"
+            ],
+            "correct": 1,
+            "id": "1582c92d61ea46fca50fd5d54c4731cc"
+        },
+        {
+            "question": "They …………………. tabulated the marks yet.",
+            "description": "",
+            "answers": [
+                "did not",
+                "have not",
+                "do not"
+            ],
+            "correct": 1,
+            "id": "16ae6081c0704058b3164c7e391e3bae"
+        },
+        {
+            "question": "Have you been ………………. for long?",
+            "description": "In the present perfect continuous tense, we use has/have + been + ing form of the verb.",
+            "answers": [
+                "wait",
+                "waiting",
+                "waited"
+            ],
+            "correct": 1,
+            "id": "1d24625bb5e342ca8328234eaf863740"
+        },
+        {
+            "question": "Rahul ………………. the test in the first attempt.",
+            "description": "",
+            "answers": [
+                "did not pass",
+                "has not pass",
+                "does not pass"
+            ],
+            "correct": 0,
+            "id": "f59cac2c8de1450f9d6af1f0e1bc7344"
+        }
+    ]
+}

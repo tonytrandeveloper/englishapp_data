@@ -1,0 +1,127 @@
+{
+    "id": "963a412966264051a3fdf03a606acfcd",
+    "title": "Active And Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "The boy had stolen the purse. / The purse ..................... by the boy.",
+            "description": "",
+            "answers": [
+                "was stolen",
+                "has been stolen",
+                "had been stolen"
+            ],
+            "correct": 2,
+            "id": "2abb3922ceee4972bf37b7e5e48ab06a"
+        },
+        {
+            "question": "The cat had drunk the milk. / The milk ............................... by the cat.",
+            "description": "",
+            "answers": [
+                "was drunk",
+                "has been drunk",
+                "had been drunk"
+            ],
+            "correct": 2,
+            "id": "5ef4270fc5e24cc29129f899b3d47a4c"
+        },
+        {
+            "question": "She had taken the tablet. / The tablet .......................... by her.",
+            "description": "",
+            "answers": [
+                "had been taken",
+                "has been taken",
+                "was taken"
+            ],
+            "correct": 0,
+            "id": "59541cd7f78d45a49621f71eedfab7e4"
+        },
+        {
+            "question": "I had learnt my lessons. / My lessons ............................. by me.",
+            "description": "",
+            "answers": [
+                "had been learnt",
+                "has been learnt",
+                "have been learnt"
+            ],
+            "correct": 2,
+            "id": "8baa479fb59d433eb47910719348da48"
+        },
+        {
+            "question": "I had sent the parcel. / The parcel .........................",
+            "description": "",
+            "answers": [
+                "has been sent",
+                "had been sent",
+                "was sent"
+            ],
+            "correct": 1,
+            "id": "8a5a171f4f0e4ce39411f236d6f8e6fa"
+        },
+        {
+            "question": "I had booked two tickets. / Two tickets ........................ by me.",
+            "description": "",
+            "answers": [
+                "were booked",
+                "have booked",
+                "had been booked"
+            ],
+            "correct": 2,
+            "id": "bc0376310b0e4551bb9e99f5be777f6f"
+        },
+        {
+            "question": "They had finished the job. / The job ............................ by them.",
+            "description": "",
+            "answers": [
+                "has been finished",
+                "was finished",
+                "had been finished"
+            ],
+            "correct": 2,
+            "id": "ef6b585a7725442ba5817d4d2e0eca56"
+        },
+        {
+            "question": "I had missed the flight. / The flight ......................... by me.",
+            "description": "",
+            "answers": [
+                "was missed",
+                "has missed",
+                "had been missed"
+            ],
+            "correct": 2,
+            "id": "4348f7c5680e4a36bd37217a86631499"
+        },
+        {
+            "question": "She had won the first prize. / The first prize ......................... by her.",
+            "description": "",
+            "answers": [
+                "had won",
+                "had been won",
+                "have been won"
+            ],
+            "correct": 1,
+            "id": "454153ddefca4c70b9e8ff24071f5e0f"
+        },
+        {
+            "question": "The constable had caught the thief. / The thief ............................. by the constable.",
+            "description": "",
+            "answers": [
+                "had caught",
+                "had been caught",
+                "was caught"
+            ],
+            "correct": 1,
+            "id": "05880f48dcaf47eca131d7aedca47dd1"
+        },
+        {
+            "question": "She had created many problems. / Many problems .......................... by her.",
+            "description": "",
+            "answers": [
+                "had created",
+                "have been created",
+                "had been created"
+            ],
+            "correct": 2,
+            "id": "0aeead72b17041039ac3fb13b40b9eee"
+        }
+    ]
+}

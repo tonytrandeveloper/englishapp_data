@@ -1,0 +1,115 @@
+{
+    "id": "9b8d5080b9b84e3f9a17fb3b81abe3d2",
+    "title": "So, Such, Very, Too",
+    "questions": [
+        {
+            "question": "It was …………………. hot that we didn’t go out.",
+            "description": "",
+            "answers": [
+                "so",
+                "such",
+                "very"
+            ],
+            "correct": 0,
+            "id": "5a9d30008e9741e3ab44f272357c5483"
+        },
+        {
+            "question": "She is ……………….. old to work.",
+            "description": "",
+            "answers": [
+                "very",
+                "too",
+                "so"
+            ],
+            "correct": 1,
+            "id": "fc2b1b4f28504371af0ab37a5afce48b"
+        },
+        {
+            "question": "The tea was …………………. hot.",
+            "description": "",
+            "answers": [
+                "too",
+                "very",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "6ee4ad0592d046dabe41a386260ac50b"
+        },
+        {
+            "question": "The milk was …………………. good that we couldn’t stop drinking it.",
+            "description": "",
+            "answers": [
+                "very",
+                "too",
+                "so"
+            ],
+            "correct": 2,
+            "id": "29434312defb4522880ad631842758ef"
+        },
+        {
+            "question": "It’s ………………… terrible weather.",
+            "description": "",
+            "answers": [
+                "such",
+                "so",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "35e5191954bf4f598ab72cb8a7e91095"
+        },
+        {
+            "question": "She is looking ………………….. older.",
+            "description": "",
+            "answers": [
+                "so",
+                "so much",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "45854a7fb7f34f4c8778cffc583f84e0"
+        },
+        {
+            "question": "It was ………………….. warm when we were in Vienna.",
+            "description": "",
+            "answers": [
+                "very",
+                "so"
+            ],
+            "correct": 0,
+            "id": "cd625fdab2e74929adb4be18998d50f0"
+        },
+        {
+            "question": "He spoke ………………… fast that nobody could understand.",
+            "description": "",
+            "answers": [
+                "so",
+                "very",
+                "too"
+            ],
+            "correct": 0,
+            "id": "51032f56946f4687a7ed248268b8c795"
+        },
+        {
+            "question": "Would you be ………………….. kind as to tell me the time?",
+            "description": "",
+            "answers": [
+                "so",
+                "very",
+                "too"
+            ],
+            "correct": 0,
+            "id": "77eb102809c84401b59c3c30206546f3"
+        },
+        {
+            "question": "He is a ………………….. intelligent child.",
+            "description": "",
+            "answers": [
+                "very",
+                "so",
+                "too"
+            ],
+            "correct": 0,
+            "id": "a9c9eb4258314a199654590cc6c51936"
+        }
+    ]
+}

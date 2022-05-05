@@ -1,0 +1,138 @@
+{
+    "id": "2ddc9f37e6a54bc182d62b4bd403c9f6",
+    "title": "Irregular Verbs Exercise",
+    "questions": [
+        {
+            "question": "He is ................................. on mischief.",
+            "description": "The past participle of bend is bent.",
+            "answers": [
+                "bend",
+                "bended",
+                "bent"
+            ],
+            "correct": 2,
+            "id": "92264cc180bb42cc8060f2e537902ae3"
+        },
+        {
+            "question": "I have ..................................... them for a long time.",
+            "description": "We use the past participle form of the verb after has, have or had.",
+            "answers": [
+                "knowed",
+                "knew",
+                "known"
+            ],
+            "correct": 2,
+            "id": "0e18d0a487fb4c24991de5d4d6436fb0"
+        },
+        {
+            "question": "Political conflict has ........................................ the nation.",
+            "description": "The past participle of tear is torn.",
+            "answers": [
+                "tore",
+                "torn",
+                "teared"
+            ],
+            "correct": 1,
+            "id": "76931ab3c6534d64ae6735711a4d4afe"
+        },
+        {
+            "question": "The kitten .................................... a hole in the curtain.",
+            "description": "The past simple form of tear is tore.",
+            "answers": [
+                "teared",
+                "tore",
+                "torn"
+            ],
+            "correct": 1,
+            "id": "74296a2d7acc457f96ffe501c249d649"
+        },
+        {
+            "question": "The man was ............................................. by a speeding vehicle.",
+            "description": "The past participle of hit is hit.",
+            "answers": [
+                "hit",
+                "hitted",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "5c057e64fbf54153952546dab819a6fb"
+        },
+        {
+            "question": "The house was .............................................. among the trees.",
+            "description": "The past participle of hide is hidden.",
+            "answers": [
+                "hided",
+                "hidden",
+                "hid"
+            ],
+            "correct": 1,
+            "id": "8ed00cfe740e4f57bdd94f83cf013859"
+        },
+        {
+            "question": "The farmer was .......................................... by the dog.",
+            "description": "The past participle of bite is bitten.",
+            "answers": [
+                "bite",
+                "byte",
+                "bitten"
+            ],
+            "correct": 2,
+            "id": "6a881696b71940829d8d8005cfbd0ef4"
+        },
+        {
+            "question": "Last winter the water pipes ....................................... in the cold weather.",
+            "description": "Burst has only one form - burst",
+            "answers": [
+                "burst",
+                "bursted",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "38a23b44bc3b466dafed465346c2db94"
+        },
+        {
+            "question": "I ........................................ my hand yesterday.",
+            "description": "",
+            "answers": [
+                "burnt",
+                "burned",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ed503aa805e94e6388b689ca3d0f4619"
+        },
+        {
+            "question": "The hikers ............................................ their way up the hill.",
+            "description": "The past of wind is wound.",
+            "answers": [
+                "winded",
+                "wound",
+                "wounded"
+            ],
+            "correct": 1,
+            "id": "22d2adca94cc49b79631462d3fd51e7f"
+        },
+        {
+            "question": "The sweater has ............................................ thin at the elbows.",
+            "description": "The past participle of wear is worn.",
+            "answers": [
+                "wore",
+                "worn",
+                "worned"
+            ],
+            "correct": 1,
+            "id": "6cf4d1f7b03a4556a3f3d693a60417b5"
+        },
+        {
+            "question": "Much water has ....................................................... under the bridge.",
+            "description": "Flown is the past participle of flow.",
+            "answers": [
+                "flowed",
+                "flew",
+                "flown"
+            ],
+            "correct": 2,
+            "id": "5900c050470c44ed93c9d78dccfcc848"
+        }
+    ]
+}

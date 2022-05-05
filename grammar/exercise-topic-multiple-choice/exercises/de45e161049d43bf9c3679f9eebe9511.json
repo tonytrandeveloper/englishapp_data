@@ -1,0 +1,110 @@
+{
+    "id": "de45e161049d43bf9c3679f9eebe9511",
+    "title": "Relative Pronouns And Adverbs",
+    "questions": [
+        {
+            "question": "The town ………………….. I was born is not far from here.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "where"
+            ],
+            "correct": 2,
+            "id": "ab4c827746f44996b7f5566c2bcdc6b6"
+        },
+        {
+            "question": "That is the office in …………….. I used to work.",
+            "description": "",
+            "answers": [
+                "where",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "328bd366482d4401b6de51f6cb3e4b0e"
+        },
+        {
+            "question": "This is the house ………………… Winston Churchill was born.",
+            "description": "",
+            "answers": [
+                "which",
+                "where"
+            ],
+            "correct": 1,
+            "id": "2291662cb9594071913668a5e7785639"
+        },
+        {
+            "question": "Do you know ………………. she is from?",
+            "description": "",
+            "answers": [
+                "which",
+                "where"
+            ],
+            "correct": 1,
+            "id": "312adca3d0554dd8b2930e5d18bc5fb3"
+        },
+        {
+            "question": "This is the house in ………………… my daughter was born.",
+            "description": "",
+            "answers": [
+                "which",
+                "where"
+            ],
+            "correct": 0,
+            "id": "4383910dcf784e8b9a65a7b5b335d784"
+        },
+        {
+            "question": "I will never forget the day on ………………..  I first met Jane.",
+            "description": "",
+            "answers": [
+                "when",
+                "which"
+            ],
+            "correct": 1,
+            "id": "bbc774279c714f33a33533892fccbd42"
+        },
+        {
+            "question": "This is the house ………………… I live.",
+            "description": "",
+            "answers": [
+                "which",
+                "where"
+            ],
+            "correct": 1,
+            "id": "d5213bbd6e1e49da8c74cfc1c1d2678e"
+        },
+        {
+            "question": "Do you know a shop ……………… I can find toys?",
+            "description": "",
+            "answers": [
+                "where",
+                "there",
+                "which"
+            ],
+            "correct": 0,
+            "id": "87aaece3c4774325a387dc23e88f4c1d"
+        },
+        {
+            "question": "Does anybody know the reason for ……………… she hates me?",
+            "description": "",
+            "answers": [
+                "what",
+                "which"
+            ],
+            "correct": 1,
+            "id": "7bd7ecf155844c71a750446872d95108"
+        },
+        {
+            "question": "He is somebody ……………….. I really can’t stand.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "6419cc8b8f874830a941efc5ddfecc2d"
+        }
+    ]
+}

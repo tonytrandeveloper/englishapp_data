@@ -1,0 +1,116 @@
+{
+    "id": "5e90c1732efb40c78999a73999b3222d",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "We usually go to Singapore on a holiday, but this year we ................................... to Bangkok.",
+            "description": "",
+            "answers": [
+                "go",
+                "went",
+                "gone"
+            ],
+            "correct": 1,
+            "id": "ed2363380693495dacb847937d8cf41e"
+        },
+        {
+            "question": "Heat expands and cold ......................................",
+            "description": "",
+            "answers": [
+                "contract",
+                "contracts",
+                "will contract"
+            ],
+            "correct": 1,
+            "id": "48e1553be25b42d1841d2638fc2d2956"
+        },
+        {
+            "question": "A good player ....................................... every day.",
+            "description": "",
+            "answers": [
+                "practice",
+                "practices",
+                "practiced"
+            ],
+            "correct": 1,
+            "id": "14eac4a39315405ebc8b2350e167ba24"
+        },
+        {
+            "question": "John usually ....................................... coffee in the morning, but today he ................................ tea.",
+            "description": "",
+            "answers": [
+                "drinks, drinks",
+                "drinks, drank",
+                "drank, drinks"
+            ],
+            "correct": 1,
+            "id": "751b3be4a4dd4c8b965e48232d0841dc"
+        },
+        {
+            "question": "The child ................................ from pneumonia since last week.",
+            "description": "",
+            "answers": [
+                "suffers",
+                "has been suffering",
+                "suffered"
+            ],
+            "correct": 1,
+            "id": "b67b9600d82b4beabc15e558603a1b17"
+        },
+        {
+            "question": "He ............................................ a novel since October last, and he is about to finish it.",
+            "description": "",
+            "answers": [
+                "wrote",
+                "has been writing",
+                "is writing"
+            ],
+            "correct": 1,
+            "id": "dc8e2c1396ec4c99ab6741a88b48a144"
+        },
+        {
+            "question": "If he ........................................... hard, he will pass.",
+            "description": "",
+            "answers": [
+                "works",
+                "will work",
+                "worked"
+            ],
+            "correct": 0,
+            "id": "4b1abeb8ded043969bfae41521272113"
+        },
+        {
+            "question": "I ................................................... you if I had had money.",
+            "description": "",
+            "answers": [
+                "will help",
+                "would help",
+                "would have helped"
+            ],
+            "correct": 2,
+            "id": "ab9e8a6fd5624f2d85d10b9f56a0f55a"
+        },
+        {
+            "question": "Time and tide ........................................... for no man.",
+            "description": "",
+            "answers": [
+                "wait",
+                "waits",
+                "will wait"
+            ],
+            "correct": 1,
+            "id": "148df152709a471e96ba98bf8073a97f"
+        },
+        {
+            "question": "By this time next year he .......................................... the construction of his house.",
+            "description": "",
+            "answers": [
+                "will complete",
+                "will have completed",
+                "would complete"
+            ],
+            "correct": 1,
+            "id": "3aeb57da5b4641ffa196e26b2571d211"
+        }
+    ]
+}

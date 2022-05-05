@@ -1,0 +1,139 @@
+{
+    "id": "56cbc3a3571e4d2d86bf9304ddaf983d",
+    "title": "So, Too And Very",
+    "questions": [
+        {
+            "question": "The room was ………………………….. hot that I could not sleep at all.",
+            "description": "We cannot use too or very before a that-clause.",
+            "answers": [
+                "so",
+                "very",
+                "too"
+            ],
+            "correct": 0,
+            "id": "7d811a64ec8f4f76911d60ee1a72160f"
+        },
+        {
+            "question": "She is ……………………………. polite a person to refuse.",
+            "description": "Note the pattern too..to. We can also express this idea using so. She is so polite that she cannot refuse.",
+            "answers": [
+                "so",
+                "very",
+                "too"
+            ],
+            "correct": 2,
+            "id": "f7aa7c7a79f34a7e9763edee69dcf577"
+        },
+        {
+            "question": "The trains are …………………………. crowded.",
+            "description": "Either could be used to talk about extremes.",
+            "answers": [
+                "too",
+                "very",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "88f1164bd87f465d996deaf5fec2c7a3"
+        },
+        {
+            "question": "There were far …………………………….. many applicants for the job.",
+            "description": "The expression too many can be modified by far.",
+            "answers": [
+                "very",
+                "so",
+                "too"
+            ],
+            "correct": 2,
+            "id": "18a112babb284c3b9244f8bc80da3aba"
+        },
+        {
+            "question": "She was …………………………. upset that she did not talk to anybody.",
+            "description": "Only so is possible before a that-clause.",
+            "answers": [
+                "so",
+                "too",
+                "very"
+            ],
+            "correct": 0,
+            "id": "f490c424c139400188b4d71c492bb2db"
+        },
+        {
+            "question": "The water is …………………………… salty that we cannot drink it.",
+            "description": "Only so is possible before a that-clause.",
+            "answers": [
+                "so",
+                "very",
+                "too"
+            ],
+            "correct": 0,
+            "id": "cae93fc013824def8358ad9ff2423265"
+        },
+        {
+            "question": "You have always been ……………………………. kind to me.",
+            "description": "We cannot use too much before an adjective without a noun.",
+            "answers": [
+                "too",
+                "too much",
+                "too many"
+            ],
+            "correct": 0,
+            "id": "941091a6f88f47d0a810be22f1e26ad9"
+        },
+        {
+            "question": "We arrived ……………………………… late to have dinner.",
+            "description": "We cannot use too much before an adjective without a noun.",
+            "answers": [
+                "too",
+                "too much",
+                "very much"
+            ],
+            "correct": 0,
+            "id": "09dc1e401ee94f779f7d286d1f9b2799"
+        },
+        {
+            "question": "He is a …………………………… intelligent child.",
+            "description": "We cannot use so before adjective + noun.",
+            "answers": [
+                "very",
+                "so",
+                "too"
+            ],
+            "correct": 0,
+            "id": "83fbde3316ce44bc90e91bb7ba05459e"
+        },
+        {
+            "question": "We shall be …………………………. pleased if you can spend a few days with us.",
+            "description": "The expression only too can mean very.",
+            "answers": [
+                "only too",
+                "very",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "b7bf56965fc446ee8c7bd0f878e41d42"
+        },
+        {
+            "question": "You ask …………………………………… too many questions.",
+            "description": "We can use far to modify too many. Much is not used before too many.",
+            "answers": [
+                "far",
+                "much",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "80fcd387f028428a84315d2839bee912"
+        },
+        {
+            "question": "We got ……………………………… answers to our advertisement.",
+            "description": "",
+            "answers": [
+                "so many",
+                "too many",
+                "very many",
+                "All of the above"
+            ],
+            "correct": 3,
+            "id": "caa35fda0893498ebba9b50886ca9637"
+        }
+    ]
+}

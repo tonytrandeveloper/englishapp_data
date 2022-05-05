@@ -1,0 +1,160 @@
+{
+    "id": "8770a226db2449c794b13778718ed0d3",
+    "title": "Parts Of Speech Exercise",
+    "questions": [
+        {
+            "question": "If you don’t want something, then it is expensive at any price.",
+            "description": "",
+            "answers": [
+                "Any is an adjective",
+                "Any is an adverb",
+                "Any is a conjunction"
+            ],
+            "correct": 0,
+            "id": "25059f2e80e748c1962d38e9a64ec931"
+        },
+        {
+            "question": "He is as deaf as a post.",
+            "description": "",
+            "answers": [
+                "Deaf is an adjective",
+                "Deaf is an adverb",
+                "Deaf is a preposition"
+            ],
+            "correct": 0,
+            "id": "9c96c3c93eb540c6bad34aabd1c145c0"
+        },
+        {
+            "question": "I change, but I cannot die.",
+            "description": "",
+            "answers": [
+                "But is a preposition",
+                "But is a conjunction",
+                "But is a verb"
+            ],
+            "correct": 1,
+            "id": "1d74ee11dc2b4957978991b0d329b6e3"
+        },
+        {
+            "question": "He died that he might save his country.",
+            "description": "",
+            "answers": [
+                "That is a preposition",
+                "That is a conjunction",
+                "That is an adverb"
+            ],
+            "correct": 1,
+            "id": "699fd9c52a8b407480f19cbadc503b59"
+        },
+        {
+            "question": "May comes after April.",
+            "description": "",
+            "answers": [
+                "April is a noun",
+                "April is a verb",
+                "April is an adjective"
+            ],
+            "correct": 0,
+            "id": "2346ace5b72343a6a97cb708fc1a0486"
+        },
+        {
+            "question": "What annoys me most is his obstinacy.",
+            "description": "",
+            "answers": [
+                "Obstinacy is a verb",
+                "Obstinacy is an adverb",
+                "Obstinacy is a noun"
+            ],
+            "correct": 2,
+            "id": "81f7501b21354fdebcb09cfa0c50ed93"
+        },
+        {
+            "question": "He still lives in that house.",
+            "description": "",
+            "answers": [
+                "Still is a verb",
+                "Still is an adverb",
+                "Still is a noun"
+            ],
+            "correct": 1,
+            "id": "8b446e9339be4aab813ee120fc9c6b8e"
+        },
+        {
+            "question": "Suddenly one of the wheels came off.",
+            "description": "",
+            "answers": [
+                "Off is an adverb",
+                "Off is a preposition",
+                "Off is a conjunction"
+            ],
+            "correct": 0,
+            "id": "7023fe3bbb0248e997f06479dc742f32"
+        },
+        {
+            "question": "Men who work hard enjoy their life fully.",
+            "description": "",
+            "answers": [
+                "Hard is an adjective",
+                "Hard is an adverb",
+                "Hard is a verb"
+            ],
+            "correct": 1,
+            "id": "3f33303363964868a8b55d2fdd522464"
+        },
+        {
+            "question": "Do not speak so loudly.",
+            "description": "",
+            "answers": [
+                "Loudly is a verb",
+                "Loudly is an adverb",
+                "Loudly is an adjective"
+            ],
+            "correct": 1,
+            "id": "923e523f59a8470a9740f43b6c5cc230"
+        },
+        {
+            "question": "Right the wrong.",
+            "description": "",
+            "answers": [
+                "Right is an adjective",
+                "Right is a verb",
+                "Right is an adverb"
+            ],
+            "correct": 1,
+            "id": "16ea07e673554effb69262d73d4100eb"
+        },
+        {
+            "question": "Do not talk like that.",
+            "description": "",
+            "answers": [
+                "Like is a preposition",
+                "Like is a verb",
+                "Like is an adverb"
+            ],
+            "correct": 0,
+            "id": "6a120efec39f4ff6940182312ee86743"
+        },
+        {
+            "question": "The fool is busy in everyone’s business but his own.",
+            "description": "",
+            "answers": [
+                "But is a conjunction",
+                "But is a preposition",
+                "But is a verb"
+            ],
+            "correct": 1,
+            "id": "1a0e6f282eef4c8bac3ef3cbe8534f6d"
+        },
+        {
+            "question": "I like this offer.",
+            "description": "",
+            "answers": [
+                "Like is a verb",
+                "Like is an adverb",
+                "Like is an adjective"
+            ],
+            "correct": 0,
+            "id": "c667b5d2cbb5449ba0ecf72992501dfe"
+        }
+    ]
+}

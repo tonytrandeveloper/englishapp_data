@@ -1,0 +1,306 @@
+{
+    "id": "55f9f62f754440c6914ea6c7c78570a9",
+    "title": "Present Simple Yes / No Questions with 'be'",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John / in the garden?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is John in the garden?"
+                    ]
+                }
+            ],
+            "id": "4fe7ca51d7f7466890ba334c97e82e2d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They / hungry?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are they hungry?"
+                    ]
+                }
+            ],
+            "id": "67fe6a172c4141e58b79fc3f7ef002aa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We / late?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are we late?"
+                    ]
+                }
+            ],
+            "id": "6561e9336a544798b90de9fd4e080aa2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You / tired?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you tired?"
+                    ]
+                }
+            ],
+            "id": "c44ad1c4a0484c329a5776109e03a079"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He / French??"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is he French?"
+                    ]
+                }
+            ],
+            "id": "9b44286e6e834efd8338b314c153e005"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She / a teacher?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is she a teacher?"
+                    ]
+                }
+            ],
+            "id": "84397dacbc444678b03e3c7892837428"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Harry and Lucy / from London?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are Harry and Lucy from London?"
+                    ]
+                }
+            ],
+            "id": "cc4b2b486a444ddfad963842a5185918"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I / early?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Am I early?"
+                    ]
+                }
+            ],
+            "id": "d033ca3cb4074a0f91526e9e32bf0dc4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You / thirsty?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you thirsty?"
+                    ]
+                }
+            ],
+            "id": "1972ee5c337a4bf68fbf023377e14ef0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She / on the bus?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is she on the bus?"
+                    ]
+                }
+            ],
+            "id": "3522527790814bfdb3a142ef91c6ef4f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We / on time?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are we on time??"
+                    ]
+                }
+            ],
+            "id": "2433fe44e51a48c9a2216eb6286e7e56"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Pedro / from Spain?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is Pedro from Spain?"
+                    ]
+                }
+            ],
+            "id": "c095e26439ba4704bcd1a86d2b00e3f0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They / in Tokyo?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are they in Tokyo?"
+                    ]
+                }
+            ],
+            "id": "34e57c815b55458bb1630bc20ce3547d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie / at home?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is Julie at home?"
+                    ]
+                }
+            ],
+            "id": "931b6179295d4307ab892036b05a9f0a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children / at school?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are the children at school?"
+                    ]
+                }
+            ],
+            "id": "6a49b06809cc4665bb8d6d3632d686b4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You / in a cafe?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you in a cafe?"
+                    ]
+                }
+            ],
+            "id": "6d1fa500baab41b89d1ec75782c8e4b5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I / right?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Am I right?"
+                    ]
+                }
+            ],
+            "id": "7c56999a7831416b8b5bd99a07f87706"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We / in the right place?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are we in the right place?"
+                    ]
+                }
+            ],
+            "id": "aea6f60e151a425d8262e0a60be2e5c8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She / German?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is she German?"
+                    ]
+                }
+            ],
+            "id": "9761215d0c8c40469c283b645a807fcf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He / a doctor?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is he a doctor?"
+                    ]
+                }
+            ],
+            "id": "fa11832f0eb54ec48844f9690dd8ca23"
+        }
+    ]
+}

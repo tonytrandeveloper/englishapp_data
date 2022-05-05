@@ -1,0 +1,138 @@
+{
+    "id": "40ee7d38d2c04f67959d2dc33a4b2c1b",
+    "title": "Tenses Quiz",
+    "questions": [
+        {
+            "question": "This time yesterday, I ………………………….. in my garden.",
+            "description": "The past continuous is used to talk about an activity that was in progress at a particular point of time in the past. ",
+            "answers": [
+                "am working",
+                "was working",
+                "will be working"
+            ],
+            "correct": 1,
+            "id": "739bdcc0d6cf4d75a54809acd255759f"
+        },
+        {
+            "question": "This time tomorrow, I ………………………….. my homework.",
+            "description": "The future continuous is used to talk about an activity that will be in progress at a particular point of time in future. ",
+            "answers": [
+                "am doing",
+                "will do",
+                "will be doing"
+            ],
+            "correct": 2,
+            "id": "3915bfc96525443da79588dfbe59580b"
+        },
+        {
+            "question": "My grandfather ………………………….. own six cars.",
+            "description": "Used to can be used to talk about past states. ",
+            "answers": [
+                "used to",
+                "would",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "6c92008aac7d4b7b816732bd284248b0"
+        },
+        {
+            "question": "I will call you when I ………………………… ready.",
+            "description": "When the main clause is in the simple future, use a simple present in the when clause to refer to future. ",
+            "answers": [
+                "am",
+                "will be",
+                "would be"
+            ],
+            "correct": 0,
+            "id": "49d6cb6788724bf6b9d90169e0608483"
+        },
+        {
+            "question": "Although he was the most deserving candidate, he …………………….. the job.",
+            "description": "",
+            "answers": [
+                "do not get",
+                "did not get",
+                "had not got"
+            ],
+            "correct": 1,
+            "id": "5e85f8ba466044ee85d32fba8186ec67"
+        },
+        {
+            "question": "She ………………………. many national and international awards for her work.",
+            "description": "Use the present perfect to give news. ",
+            "answers": [
+                "has won",
+                "is won",
+                "had won"
+            ],
+            "correct": 0,
+            "id": "9342a6eaae4546f3b1ae12775f700dbc"
+        },
+        {
+            "question": "We …………………………. the project by the end of this month.",
+            "description": "Use the future perfect to say that an activity will have been completed by a certain point of time in future. ",
+            "answers": [
+                "will deliver",
+                "will be delivering",
+                "will have delivered"
+            ],
+            "correct": 2,
+            "id": "e79de61fcce243a8b05c2354933661ca"
+        },
+        {
+            "question": "She told me that she ……………………….. her homework.",
+            "description": "'I have done my homework,' she told me. She told me that she had done her homework. Present perfect tense in the direct speech becomes past perfect in the indirect speech. ",
+            "answers": [
+                "did",
+                "has done",
+                "had done"
+            ],
+            "correct": 2,
+            "id": "776dc15e04c04fe4941bf09c2bddfff8"
+        },
+        {
+            "question": "He …………………………. jobless for six months.",
+            "description": "To talk about an action or situation that started in the past and has continued up to the present, use the present perfect or present perfect continuous with the time expressions since or for. ",
+            "answers": [
+                "is",
+                "has been",
+                "is being"
+            ],
+            "correct": 1,
+            "id": "8b08138ba4ac476599d64c04710c9a54"
+        },
+        {
+            "question": "He ………………………….. stray dogs for many years.",
+            "description": "To talk about an action or situation that started in the past and has continued up to the present, use the present perfect or present perfect continuous with the time expressions since or for. ",
+            "answers": [
+                "has been feeding",
+                "is feeding",
+                "have been feeding"
+            ],
+            "correct": 0,
+            "id": "1c0370832947499089fcbece4229b286"
+        },
+        {
+            "question": "I looked around but I ……………………….. anyone.",
+            "description": "When the main clause is in the past tense, use a past tense in the subordinate clause as well.",
+            "answers": [
+                "didn't see",
+                "hadn't seen",
+                "haven't seen"
+            ],
+            "correct": 0,
+            "id": "eecf2a342d224357b6c8a93bceb91ee3"
+        },
+        {
+            "question": "I said that I …………………………… in that offer.",
+            "description": "When the main clause is in the past tense, use a past tense in the subordinate clause as well.",
+            "answers": [
+                "am not interested",
+                "was not interested",
+                "was not interesting"
+            ],
+            "correct": 1,
+            "id": "e1b8afd8a17241ce92a728ef83bc604c"
+        }
+    ]
+}

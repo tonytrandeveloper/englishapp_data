@@ -1,0 +1,138 @@
+{
+    "id": "23976a8ce85d4cb4b10e0967054eaf81",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "If I had completed my studies, I …………………… a better job.",
+            "description": "In the third conditional we use a past perfect tense in the if-clause and would/could/might have + past participle in the main clause.",
+            "answers": [
+                "could find",
+                "can find",
+                "could have found"
+            ],
+            "correct": 2,
+            "id": "b9602734fab744c8ab62ae17afccf0df"
+        },
+        {
+            "question": "Get that cat ............................. the piano.",
+            "description": "",
+            "answers": [
+                "from",
+                "off",
+                "up"
+            ],
+            "correct": 1,
+            "id": "15be2e1c7cf0415a9b3790045a88e162"
+        },
+        {
+            "question": "You can eat as much as you ……………………",
+            "description": "",
+            "answers": [
+                "will want",
+                "want",
+                "wanted"
+            ],
+            "correct": 1,
+            "id": "7e3df379992c4eb3bcbc6129dfe750c0"
+        },
+        {
+            "question": "She said that she ............................ coming.",
+            "description": "When the main verb is in the past tense, the verb in the subordinate clause too will be in the past tense.",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 1,
+            "id": "9b5d5ad582284d62a925dd85176dce0b"
+        },
+        {
+            "question": "……………………. she tried, she could not solve the problem.",
+            "description": "Fronted adjectives/adverbs are possible in a structure with as or though.",
+            "answers": [
+                "Hard as",
+                "Hard though",
+                "Though hard"
+            ],
+            "correct": 1,
+            "id": "ca3957ce8ff84485b98477695f17a5fc"
+        },
+        {
+            "question": "The show was ……………………..",
+            "description": "The present participle shows the action or people that cause the feeling. ",
+            "answers": [
+                "interesting",
+                "interested",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "7d60f7e0d50249efabb89acd8b14b9e3"
+        },
+        {
+            "question": "He asked me what ................................. doing there.",
+            "description": "The subject goes before the verb in indirect questions.",
+            "answers": [
+                "was I",
+                "I was",
+                "I am"
+            ],
+            "correct": 1,
+            "id": "702b001523da47f1a4bf551d604c0d06"
+        },
+        {
+            "question": "Hardly ................................ sat down to rest, when someone knocked on the door.",
+            "description": "Inversion is used when a sentence starts with only or hardly or seldom.",
+            "answers": [
+                "I had",
+                "Had I",
+                "I did"
+            ],
+            "correct": 1,
+            "id": "1a253c1565374388954726bd95acfd2d"
+        },
+        {
+            "question": "Seldom ................................ seen such a mess.",
+            "description": "Inversion is used when a sentence starts with only or hardly or seldom.",
+            "answers": [
+                "I have",
+                "have I",
+                "did I"
+            ],
+            "correct": 1,
+            "id": "51de64f93f6744bf9e74b616e7fd6019"
+        },
+        {
+            "question": "'I don't want to do.' '......................... do I.'",
+            "description": "After a negative statement we can add another negative statement with neither or nor. ",
+            "answers": [
+                "So",
+                "Neither",
+                "Nor"
+            ],
+            "correct": 2,
+            "id": "83dab3f3c4cf4d3d81e790d392d85c4e"
+        },
+        {
+            "question": "We cannot go out ................................... it rains.",
+            "description": "",
+            "answers": [
+                "as soon as",
+                "as long as",
+                "as far as"
+            ],
+            "correct": 1,
+            "id": "2490afe038fb40bfb2e5a867f6962f09"
+        },
+        {
+            "question": "I would rather you .............................. now.",
+            "description": "We use a past tense with a present meaning after would rather. ",
+            "answers": [
+                "leave",
+                "left",
+                "had left"
+            ],
+            "correct": 1,
+            "id": "3878eecbe207447ab4c72ab03879db80"
+        }
+    ]
+}

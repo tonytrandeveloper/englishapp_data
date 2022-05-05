@@ -1,0 +1,386 @@
+{
+    "id": "cdcf8788d7624c3ea3bffd00d5759d30",
+    "title": "Make or Do Exercise 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John worked hard and"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "did"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "his best at his job, but he still wasn't promoted."
+                }
+            ],
+            "id": "044195bb3c1848cea21641bf23ae17ca"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The teenagers were"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "making"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "such a noise that the neighbour called the police."
+                }
+            ],
+            "id": "5ced1545dec54944a9f28c4240e14749"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "makes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a payment on her debt every month. Soon she'll have finished paying it off."
+                }
+            ],
+            "id": "5b478f435e084d03899c2ba53ccd6429"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "So many chores to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "! I need to clean the bathroom and the kitchen, hoover and change all the beds."
+                }
+            ],
+            "id": "b3b71cc2ada343569376a576885780ec"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Sorry, I've"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a mistake. The restaurant isn't here, but on another street."
+                }
+            ],
+            "id": "7654baafce7c49c7b5d84d117f472b2e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's late, and we should go home. Let's"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a move."
+                }
+            ],
+            "id": "d084516bf0d34022b7f1010c1b92b9cb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Unfortunately, his business"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a huge loss last year and had to close down."
+                }
+            ],
+            "id": "92c56cd3a3ee476d90e29327027985c8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you don't speak English, you'll find it hard to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "business in the UK."
+                }
+            ],
+            "id": "2dd33a1732554192aaf98ad2eb7a8126"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a promise to his grandmother that he'd never fight anyone ever again."
+                }
+            ],
+            "id": "3b895c83de5f4a48a32bf9e5e1305347"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I called the hotel and"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a reservation for two people for Saturday the 16th."
+                }
+            ],
+            "id": "69a3083a434b4d9e858ec2301dabde04"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The washing machine flooded and the water"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "did"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a lot of damage. All the carpets had to be replaced."
+                }
+            ],
+            "id": "96d0af4d20ff49f3a039438226554658"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "makes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a lot of lists of things to do, but she never does any of the things!."
+                }
+            ],
+            "id": "5fd4fa5daee948398ed6004acbd4cfb6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Unfortunately, all the students"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "did"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "very badly on the test."
+                }
+            ],
+            "id": "b7d4e31d26744f818af895475fc8806a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Children"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "such a mess! I spend my whole life tidying up."
+                }
+            ],
+            "id": "420e2d3db540458aa1de5bf0b4435012"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The car was"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "doing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "90 miles per hour on the motorway when it was stopped by the police."
+                }
+            ],
+            "id": "14a40aa45a654b7592ba7fbf4b22bc3f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John went outside to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a phone call."
+                }
+            ],
+            "id": "b94c9c5b991b4cbdaa21da5f6c86fa9f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy has decided to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a course this autumn. She's going to study Spanish."
+                }
+            ],
+            "id": "e91d2baad12b4f9680a1eb70c9de9110"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My grandmother loves"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "doing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "crosswords."
+                }
+            ],
+            "id": "105f6ba9502b47778a5ccf82a3c39866"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Anne"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a good point. She said that it's often cheaper to fly in the UK than take the train."
+                }
+            ],
+            "id": "2c2dfdbbc7e8422392bd1b7ab5cead90"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I were to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "a prediction, I'd say that it'll rain this afternoon."
+                }
+            ],
+            "id": "f935b170fa014996b6aa3fd8942e3959"
+        }
+    ]
+}

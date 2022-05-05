@@ -1,0 +1,151 @@
+{
+    "id": "c7604423b40343989c01586d381ed5d6",
+    "title": "Active And Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "John won the first prize. / The first prize .................. by John.",
+            "description": "",
+            "answers": [
+                "won",
+                "was won",
+                "has won",
+                "had won"
+            ],
+            "correct": 1,
+            "id": "7ecd6101ab0f4571b0f6723a0b1928c5"
+        },
+        {
+            "question": "They have appointed them as their monitor. / He ....................... their monitor.",
+            "description": "",
+            "answers": [
+                "has appointed",
+                "has been appointed",
+                "have been appointed"
+            ],
+            "correct": 1,
+            "id": "b5add1c0421f4cc19bd4e69e22535216"
+        },
+        {
+            "question": "She has written two books. / Two books .................. by her.",
+            "description": "",
+            "answers": [
+                "are written",
+                "have been written",
+                "have written"
+            ],
+            "correct": 1,
+            "id": "63aa13cba5914e60aab32046ac79c5aa"
+        },
+        {
+            "question": "I sent the parcel in the morning. / The parcel .......................... in the morning.",
+            "description": "",
+            "answers": [
+                "was sent",
+                "had been sent",
+                "has been sent"
+            ],
+            "correct": 0,
+            "id": "25dae1c4dfd9430a8809bef57592165b"
+        },
+        {
+            "question": "They made the boy drink the milk. / The boy .................. to drink the milk.",
+            "description": "",
+            "answers": [
+                "has made",
+                "was made",
+                "had been made"
+            ],
+            "correct": 1,
+            "id": "ac875d35c52445e582e374fd0fa7fd38"
+        },
+        {
+            "question": "They asked him to wait. / He ........................ to wait.",
+            "description": "",
+            "answers": [
+                "has asked",
+                "had asked",
+                "was asked"
+            ],
+            "correct": 2,
+            "id": "fc0d40f3c0a440f1b2bfca27962dc60c"
+        },
+        {
+            "question": "They have invited me to their party. / I ..................... to their party.",
+            "description": "",
+            "answers": [
+                "have invited",
+                "have been invited",
+                "had been invited"
+            ],
+            "correct": 1,
+            "id": "88fbe25a68764d9abfcf57dcb03a2d57"
+        },
+        {
+            "question": "They have called off their wedding. / Their wedding ................. called off.",
+            "description": "",
+            "answers": [
+                "has been",
+                "have been",
+                "had been"
+            ],
+            "correct": 0,
+            "id": "b827848754244414a9aeb98d66f9881c"
+        },
+        {
+            "question": "Positive hydrogen atoms attract negative oxygen atoms. / Negative hydrogen atoms ...................... to positive hydrogen atoms.",
+            "description": "",
+            "answers": [
+                "attracted",
+                "are attracted",
+                "have attracted"
+            ],
+            "correct": 1,
+            "id": "8d957bcb9cf74605add4e400cb87baf9"
+        },
+        {
+            "question": "They took the child to the doctor. / The child ...................... to the doctor.",
+            "description": "",
+            "answers": [
+                "took",
+                "has taken",
+                "had taken",
+                "was taken"
+            ],
+            "correct": 3,
+            "id": "27380962416f4045b4013b141175594d"
+        },
+        {
+            "question": "The abductors tortured the boy. / The boy ...................... by the abductors.",
+            "description": "",
+            "answers": [
+                "has tortured",
+                "was tortured",
+                "had tortured"
+            ],
+            "correct": 1,
+            "id": "e9241918e3914497b9fc28ebeb9ae7b0"
+        },
+        {
+            "question": "They hanged the criminal. / The criminal ...................... by them.",
+            "description": "",
+            "answers": [
+                "has hanged",
+                "was hanged",
+                "had hanged"
+            ],
+            "correct": 1,
+            "id": "b8c37c06f8fc41f1bddd80da30d29a93"
+        },
+        {
+            "question": "The masons are building the house. / The house ........................ by the masons.",
+            "description": "",
+            "answers": [
+                "is built",
+                "is being built",
+                "has been building"
+            ],
+            "correct": 1,
+            "id": "f36fc066cfda4a1fb2c19cdd0b836913"
+        }
+    ]
+}

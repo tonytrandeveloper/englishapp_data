@@ -1,0 +1,141 @@
+{
+    "id": "142682acb90842f5a6c08c16ec3e67a0",
+    "title": "Verbs Quiz",
+    "questions": [
+        {
+            "question": "I ............................... for a pen ............................ this composition.",
+            "description": "We use the present continuous to talk about actions or situations that are going on at the moment of speaking. ",
+            "answers": [
+                "look, write",
+                "am looking, to write",
+                "look, for writing"
+            ],
+            "correct": 1,
+            "id": "e201b9a668294dd3a8ca8bb085786661"
+        },
+        {
+            "question": "She ............................. up the stairs slowly because she didn't want ............................",
+            "description": "We use the simple past to say that somebody did something in the past.",
+            "answers": [
+                "was climbing, fall",
+                "climbed, to fall",
+                "was climbing, falling"
+            ],
+            "correct": 1,
+            "id": "fa834a625c2b45edb6082445dc468a9d"
+        },
+        {
+            "question": "The teacher .............................. the students ............................. the sum.",
+            "description": "",
+            "answers": [
+                "was asking, to solve",
+                "asked, solved",
+                "asked, to solve"
+            ],
+            "correct": 2,
+            "id": "c328aa15db8c4d2aa48ebbb8b71ff5e7"
+        },
+        {
+            "question": "Nobody ................................ that he is innocent.",
+            "description": "Since the verb in the subordinate clause is in the present tense, the verb in the main clause is also likely to be in the present or future tense. A past tense seems improbable. Nobody is singular and hence the verb takes the marker -s. ",
+            "answers": [
+                "is believing",
+                "believes",
+                "believe",
+                "believed"
+            ],
+            "correct": 1,
+            "id": "54b2a96e43544fd1ac8e0886527e88ce"
+        },
+        {
+            "question": "Although the children were tired, they ................................... playing.",
+            "description": "",
+            "answers": [
+                "were continuing",
+                "continued",
+                "had continued"
+            ],
+            "correct": 1,
+            "id": "d066617fe02c47a2b6d5df94982dc8bb"
+        },
+        {
+            "question": "The stranger ............................... the shopkeeper to give him a glass of water because he ...................... thirsty.",
+            "description": "The simple past is the most normal tense to talk about the past. ",
+            "answers": [
+                "was requesting, was",
+                "requested, was",
+                "requested, is"
+            ],
+            "correct": 1,
+            "id": "677d25f82b3147be9ad62f0dbe88b495"
+        },
+        {
+            "question": "Mother .............................. busy cooking for the guests who are arriving in the evening.",
+            "description": "To talk about a situation that started in the past and has continued up to the present, we use the present perfect tense. ",
+            "answers": [
+                "was",
+                "has been",
+                "has",
+                "had been"
+            ],
+            "correct": 1,
+            "id": "dd2efcc99adb418099c45d44843f05ab"
+        },
+        {
+            "question": "As I ............................. my eyes, I ......................... a strange sight.",
+            "description": "We use the past simple to talk about two short past actions that happened at the same time. ",
+            "answers": [
+                "was opening, was seeing",
+                "opened, saw",
+                "opened, was seeing",
+                "was opening, saw"
+            ],
+            "correct": 1,
+            "id": "e420ca4dcd684c6dbd3f5523068ac5b0"
+        },
+        {
+            "question": "The sparrow ............................ away happily after eating the mango.",
+            "description": "",
+            "answers": [
+                "flies",
+                "flew",
+                "is flying"
+            ],
+            "correct": 1,
+            "id": "de6affe8e9434fd0ab165ea14a5d3e75"
+        },
+        {
+            "question": "In spite of being very intelligent, he ............................. score good marks.",
+            "description": "",
+            "answers": [
+                "does not",
+                "has not",
+                "do not"
+            ],
+            "correct": 0,
+            "id": "f26498625e1e42008965769935e6edc4"
+        },
+        {
+            "question": "The erring students ............................... with a strict warning by the principal.",
+            "description": "",
+            "answers": [
+                "let off",
+                "were let off",
+                "have let off"
+            ],
+            "correct": 1,
+            "id": "4a5dc4588d37423c97a88e40d6508a1b"
+        },
+        {
+            "question": "Penguins are different from other birds because they ........................... to life in the water.",
+            "description": "",
+            "answers": [
+                "are adapting",
+                "are adapted",
+                "have adapting"
+            ],
+            "correct": 1,
+            "id": "52658eccd462416e9f3e95ab2b701f66"
+        }
+    ]
+}

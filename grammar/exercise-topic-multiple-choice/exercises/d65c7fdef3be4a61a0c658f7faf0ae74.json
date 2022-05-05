@@ -1,0 +1,137 @@
+{
+    "id": "d65c7fdef3be4a61a0c658f7faf0ae74",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "I …………………………….. him for a long time.",
+            "description": "In sentences with since and for, we normally use the present or past perfect tense in the main clause.",
+            "answers": [
+                "have known",
+                "knew",
+                "had known"
+            ],
+            "correct": 0,
+            "id": "7ab1d655acb14ba5a9e1fc558dcc7ffc"
+        },
+        {
+            "question": "I was sorry when Janet moved to another city. We ……………………….. good friends since our childhood.",
+            "description": "In sentences with since and for, we normally use the present or past perfect tense in the main clause.",
+            "answers": [
+                "have been",
+                "had been",
+                "were"
+            ],
+            "correct": 1,
+            "id": "d8822872d4ec4e5bbd8bea22c0ac0a6b"
+        },
+        {
+            "question": "I ……………………………. about six letters since morning.",
+            "description": "In sentences with since and for, we normally use the present or past perfect tense in the main clause.",
+            "answers": [
+                "have written",
+                "had written",
+                "wrote"
+            ],
+            "correct": 0,
+            "id": "e8c8904d0c4c41f38f9c45a969fea578"
+        },
+        {
+            "question": "It is important that she ………………………….. me before she leaves.",
+            "description": "In British English the structure with should is more common, whereas in American English subjunctives without should are more common.",
+            "answers": [
+                "should meet",
+                "meet",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "09d3a5937a204001850547e24d9559cb"
+        },
+        {
+            "question": "You ……………………………… more polite to him.",
+            "description": "Should have been and ought to have been can be used to talk about unfulfilled past obligations.",
+            "answers": [
+                "should have been",
+                "ought to have been",
+                "must have been"
+            ],
+            "correct": 1,
+            "id": "16943cd053224839b76cc48eb132bfc4"
+        },
+        {
+            "question": "He insisted that he …………………………… heard.",
+            "description": "In British English the structure with should is more common, whereas in American English subjunctives without should are more common.",
+            "answers": [
+                "be",
+                "should be",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "5ebac18b77164e20ab9b5f7999147910"
+        },
+        {
+            "question": "You ………………………………….. him an idiot – it really upset him.",
+            "description": "",
+            "answers": [
+                "should not call",
+                "should not have called",
+                "would not have called"
+            ],
+            "correct": 1,
+            "id": "0bbedcf5c5754895ae2a21b6a78042cc"
+        },
+        {
+            "question": "I am sure I …………………………….. him before.",
+            "description": "We use the present perfect for past events where we are thinking of a period of time continuing up to the present. ",
+            "answers": [
+                "have met",
+                "met",
+                "had met"
+            ],
+            "correct": 0,
+            "id": "30ff03a79eda43fbbd8c2a85185308fb"
+        },
+        {
+            "question": "I got caught in the rain and my coat …………………………….",
+            "description": "The present passive often has the same meaning as the present perfect passive.",
+            "answers": [
+                "is ruined",
+                "has been ruined",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ced15dcc93834fb5ba947dc60fa80f63"
+        },
+        {
+            "question": "The phone rang while I ……………………………. in the kitchen.",
+            "description": "When the verb in the main clause is in the past tense, the verb in the subordinate clause will also be in the past tense. ",
+            "answers": [
+                "am",
+                "was",
+                "have been"
+            ],
+            "correct": 1,
+            "id": "4ef2f85b3cd8483ba5aa9eb33c93f7e6"
+        },
+        {
+            "question": "Negatives oxygen atoms ……………………………….. positive hydrogen atoms.",
+            "description": "",
+            "answers": [
+                "are attracted",
+                "attract",
+                "attracting"
+            ],
+            "correct": 1,
+            "id": "b38d4a7d32894fdc99c50a7bac73351c"
+        },
+        {
+            "question": "You ………………………………. me any help.",
+            "description": "The present perfect is commonly used with ever and never. ",
+            "answers": [
+                "never gave",
+                "have never given"
+            ],
+            "correct": 1,
+            "id": "996b3584203c4663bc3984c4f27fd7f6"
+        }
+    ]
+}

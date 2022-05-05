@@ -1,0 +1,309 @@
+{
+    "id": "db0b735653f84bd49761163b03408116",
+    "title": "Present Simple Mixed Forms 2",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / wear suits to work)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do they wear suits to work?"
+                    ]
+                }
+            ],
+            "id": "0a3f006714eb4767b658feeb56872010"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / say much)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He doesn't say much.",
+                        "He does not say much."
+                    ]
+                }
+            ],
+            "id": "59690f760ce449e99802c2d1c21c2aa3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(when / she / study)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "When does she study?"
+                    ]
+                }
+            ],
+            "id": "f8be12ebff8540a59b6e4a9a0b851d5a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / know a lot about cooking)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She knows a lot about cooking."
+                    ]
+                }
+            ],
+            "id": "4dcb19f8227149a3a48620d68ebd9393"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / make dinner at the weekends)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We make dinner at the weekends."
+                    ]
+                }
+            ],
+            "id": "e4d01e768f194374a74caae4ca312ca8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / leave work on time very often)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I don't leave work on time very often.",
+                        "I do not leave work on time very often."
+                    ]
+                }
+            ],
+            "id": "6fd7f0dbfc5e4299ab5cb708c446b933"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / meet her brother every week)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Does she meet her brother every week?"
+                    ]
+                }
+            ],
+            "id": "4375244939934b588b7fb12af0964af7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / find London's weather cold)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They find London's weather cold."
+                    ]
+                }
+            ],
+            "id": "8eb081dcd56a4fbca98b415cbe4bfbbd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / use the computer every day)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do we use the computer every day?"
+                    ]
+                }
+            ],
+            "id": "4670a313a2444311add85823292ff14b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / smoke)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You don't smoke."
+                    ]
+                }
+            ],
+            "id": "cb7ca07736d343a5b53e85006b29ebc5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / we / always get into trouble)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Why do we always get into trouble?"
+                    ]
+                }
+            ],
+            "id": "c1be3d0bfa3b47e797109af1504e6804"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what/ they / usually cook)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What do they usually cook?"
+                    ]
+                }
+            ],
+            "id": "7cfbbd5dd76f486c93641915fcc9f067"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / we / need)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What do we need?"
+                    ]
+                }
+            ],
+            "id": "d5f41415638042108d7aab057328d659"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / win at tennis)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They don't win at tennis.",
+                        "They do not win at tennis."
+                    ]
+                }
+            ],
+            "id": "b9d1551675cc4b2e8ff862e466aa9ffc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / they / like to watch on TV)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What do they like to watch on TV?"
+                    ]
+                }
+            ],
+            "id": "0c711ebffd7d43c6b2c1ec1ca71cc180"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / do my homework every night)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I do my homework every night."
+                    ]
+                }
+            ],
+            "id": "1c636d3f50e74acbb18730580605c3df"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / she / swim every morning)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Why does she swim every morning?"
+                    ]
+                }
+            ],
+            "id": "409bcd3e4f424ab19419877f599cfee9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / walk to the station every day)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "You walk to the station every day."
+                    ]
+                }
+            ],
+            "id": "bc05688a5bb947aea95f4c5b319cd0e6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / teach in a school)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Does he teach in a school?"
+                    ]
+                }
+            ],
+            "id": "d7a6f4f414624e878af8d04a66921377"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / study English at a night class)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He studies English at a night class."
+                    ]
+                }
+            ],
+            "id": "b759645716044496b928a4b90d8a8cf4"
+        }
+    ]
+}

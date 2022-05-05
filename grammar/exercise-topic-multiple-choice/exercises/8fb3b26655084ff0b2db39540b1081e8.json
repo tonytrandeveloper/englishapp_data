@@ -1,0 +1,126 @@
+{
+    "id": "8fb3b26655084ff0b2db39540b1081e8",
+    "title": "Words Ending In -ic And -ical",
+    "questions": [
+        {
+            "question": "She is interested in learning ……………… languages.",
+            "description": "Classical languages are languages of Rome and Greece.",
+            "answers": [
+                "classic",
+                "classical"
+            ],
+            "correct": 1,
+            "id": "d31884dbbd67481599be458efd35ada8"
+        },
+        {
+            "question": "She had a ………………. expression on her face.",
+            "description": "Comical means funny.",
+            "answers": [
+                "comic",
+                "comical"
+            ],
+            "correct": 1,
+            "id": "da99e443465d4751ae41ecccb6225e66"
+        },
+        {
+            "question": "I enjoy watching ………………. movies.",
+            "description": "Comic is the adjective for artistic comedy.",
+            "answers": [
+                "comic",
+                "comical"
+            ],
+            "correct": 0,
+            "id": "6f8f0829d12746299fab89bb14f26125"
+        },
+        {
+            "question": "A lot of people believe that the government’s ……………….. policy is in the ruins.",
+            "description": "Economic means the science of economics.",
+            "answers": [
+                "economic",
+                "economical"
+            ],
+            "correct": 0,
+            "id": "9ea0ca2b4ae24368b4215c58069ab93f"
+        },
+        {
+            "question": "I want to buy an ……………….. car.",
+            "description": "An economical car does not consume much gas.",
+            "answers": [
+                "economic",
+                "economical"
+            ],
+            "correct": 1,
+            "id": "6c5064d62c454ff8a55f46d426933b17"
+        },
+        {
+            "question": "He is doing masters in ………………. engineering.",
+            "description": "",
+            "answers": [
+                "electric",
+                "electrical"
+            ],
+            "correct": 1,
+            "id": "3b660afedabd4f248b92708f8b6a1619"
+        },
+        {
+            "question": "It was a ………………… occasion whose importance was not realized at that time.",
+            "description": "Historic means making history.",
+            "answers": [
+                "historic",
+                "historical"
+            ],
+            "correct": 0,
+            "id": "05f831de4da54e90889d4fa6d94ac8b9"
+        },
+        {
+            "question": "Do you enjoy reading ………………. novels?",
+            "description": "\r\nHistorical means connected with history\r\n",
+            "answers": [
+                "historic",
+                "historical"
+            ],
+            "correct": 1,
+            "id": "bafd40fdfa5742048c29f3141c2761db"
+        },
+        {
+            "question": "If only we could solve all the problems of the world with the flick of a ………………. wand.",
+            "description": "A magic wand is a stick used by a magician.",
+            "answers": [
+                "magic",
+                "magical"
+            ],
+            "correct": 0,
+            "id": "352ce02d80d7445bba365dea373bcc70"
+        },
+        {
+            "question": "It is not ……………… to take another loan now.",
+            "description": "Politic means wise or prudent.",
+            "answers": [
+                "politic",
+                "political"
+            ],
+            "correct": 0,
+            "id": "236c75dfd2a24918a15f17b568ab40d3"
+        },
+        {
+            "question": "That scandal destroyed his ……………… career.",
+            "description": "Political means connected with politics.",
+            "answers": [
+                "politic",
+                "political"
+            ],
+            "correct": 1,
+            "id": "d2a2690cc9044978bc8f768625ebde14"
+        },
+        {
+            "question": "The experience was purely ………………",
+            "description": "Magical means wonderful or exciting.",
+            "answers": [
+                "magic",
+                "magical"
+            ],
+            "correct": 1,
+            "id": "23c31721c9ab46a9b53778b8c5a8c646"
+        }
+    ]
+}

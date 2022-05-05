@@ -1,0 +1,406 @@
+{
+    "id": "97027526bf5e41b7aca6ccb9eeb779cd",
+    "title": "Present Perfect Continuous Positive and Negative",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has been working",
+                        "'s been working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(work) here for five years."
+                }
+            ],
+            "id": "f7b9bb90aa6248fba01aa764c3ae846e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been studying",
+                        "have been studying"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) all day."
+                }
+            ],
+            "id": "10a7b7c9778b421694e50c4d6c0235e7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been eating",
+                        "have been eating"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) a lot recently."
+                }
+            ],
+            "id": "622127b184bd4e338018457261851bc3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been living",
+                        "have been living"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in London for six months."
+                }
+            ],
+            "id": "88a8c33f03154c69a85d747098c77dbd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has been playing",
+                        "'s been playing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(play) football, so he's tired."
+                }
+            ],
+            "id": "c54260f3b34e48d394648ee4d3a82926"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been learning",
+                        "have been learning"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(learn) English for two years."
+                }
+            ],
+            "id": "73ff6192373b4cceae416731c2b151c4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been cooking",
+                        "have been cooking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(cook) so I'm really hot."
+                }
+            ],
+            "id": "0d04c4ea400a4f3d926c7eca82fa646a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has been going",
+                        "'s been going"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the cinema every weekend for years."
+                }
+            ],
+            "id": "393199dfc8e2486cb15a7f80d95a1b0b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "has been raining",
+                        "'s been raining"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(rain) the pavement is wet."
+                }
+            ],
+            "id": "5b022108c6ff48338657fc4c2cc51c9d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ve been sleeping",
+                        "have been sleeping"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(sleep) for twelve hours."
+                }
+            ],
+            "id": "c44775f46f9f4d68ae7775b1c8219c8c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "haven't been working",
+                        "have not been working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/work) today."
+                }
+            ],
+            "id": "79fc4b9fa174416a9f97ff03c52f671c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "haven't been eating",
+                        "have not been eating"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/eat) well recently."
+                }
+            ],
+            "id": "5148b9c3c2fa464d9ff856aa350dee9a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "haven't been exercising",
+                        "have not been exercising"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/exercise) enough."
+                }
+            ],
+            "id": "ceb5c0cf78f14c8b975a2ef13d5ea8df"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hasn't been studying",
+                        "has not been studying"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/study)."
+                }
+            ],
+            "id": "5ffe81b82df047a8ab5e6928efdc6caf"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "haven't been living",
+                        "have not been living"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/live) here for very long."
+                }
+            ],
+            "id": "bf637117666e4086b794b55001fbdc88"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hasn't been snowing",
+                        "has not been snowing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/snow)."
+                }
+            ],
+            "id": "5208cfab93a24a1989a581ce836ac930"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hasn't been playing",
+                        "has not been playing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/play) football for five years."
+                }
+            ],
+            "id": "e601d593163847d6a6ca5b94ec4dda0d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "haven't been drinking",
+                        "have not been drinking"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/drink) enough water - that's why we feel tired."
+                }
+            ],
+            "id": "67ecb4effee34371bb0a937699ae089b"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "haven't been sleeping",
+                        "have not been sleeping"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/sleep) I was reading."
+                }
+            ],
+            "id": "3cd0f8ed4e8c40fcb41a34df1ac13e3e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "haven't been watching",
+                        "have not been watching"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/watch) TV much recently."
+                }
+            ],
+            "id": "6cd2dfa0944a4b1086e86a98e7db6880"
+        }
+    ]
+}

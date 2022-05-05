@@ -1,0 +1,136 @@
+{
+    "id": "73917428558a4bdcbd583125111f6efa",
+    "title": "Verbs And Their Complements",
+    "questions": [
+        {
+            "question": "He appears to be very ……………………… today.",
+            "description": "Appear is a copular verb. We use adjectives, not adverbs, to modify copular verbs.",
+            "answers": [
+                "angry",
+                "angrily",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "2ad360124e96421f8216c9e46f0966f3"
+        },
+        {
+            "question": "She doesn’t want to continue her studies. It ……………………. a pity.",
+            "description": "Seem can be used to talk about subjective impressions and feelings. Appear is mainly used to talk about objective facts.",
+            "answers": [
+                "seems",
+                "appears",
+                "looks"
+            ],
+            "correct": 0,
+            "id": "c6c5e65edf59429580f6604a41efe19f"
+        },
+        {
+            "question": "She seems ………………………… an attitude problem.",
+            "description": "We use a to-infinitive after seem.",
+            "answers": [
+                "to have",
+                "having",
+                "that has"
+            ],
+            "correct": 0,
+            "id": "94c7dafa75cc4d98b7369446efbbc57f"
+        },
+        {
+            "question": "I hope …………………………. a good job soon.",
+            "description": "We use a to-infinitive after hope.",
+            "answers": [
+                "getting",
+                "to get",
+                "that I get"
+            ],
+            "correct": 1,
+            "id": "de485a79d56f437fa3ee7ec2116ef7f3"
+        },
+        {
+            "question": "It is not easy ………………………… smoking.",
+            "description": "We use a to-infinitive after easy.",
+            "answers": [
+                "stopping",
+                "to stop",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "7355102ca9184f99b2a636a4abe9050c"
+        },
+        {
+            "question": "I suggest ……………………………. a lawyer.",
+            "description": "Suggest can be followed by an ing form or a that-clause. It cannot be followed by a to-infinitive. ",
+            "answers": [
+                "seeing",
+                "to see",
+                "that you see"
+            ],
+            "correct": 2,
+            "id": "913fb3a8fb4547d7bef6b6dedd47d6ba"
+        },
+        {
+            "question": "The doctor recommended …………………………… down on my sugar intake.",
+            "description": "After recommend you can write an ing form or a that-clause. You cannot write a to-infinitive.",
+            "answers": [
+                "me to cut",
+                "that I cut",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "99a24f06e75d4fa5a4422598f1f1fc39"
+        },
+        {
+            "question": "The doctor recommended …………………….. a long break.",
+            "description": "After recommend you can write an ing form or a that-clause. You cannot write a to-infinitive.",
+            "answers": [
+                "me to take",
+                "taking",
+                "that I take"
+            ],
+            "correct": 2,
+            "id": "52b0cb0f50244e0386ff7a6a379bfce8"
+        },
+        {
+            "question": "The boy insisted ………………………….. nothing wrong.",
+            "description": "We use a that-clause after insist.",
+            "answers": [
+                "to do",
+                "doing",
+                "that he did"
+            ],
+            "correct": 2,
+            "id": "fe2bc3e05019411fab1ff15c13118cff"
+        },
+        {
+            "question": "Now that I am getting older, I tend ………………………. things.",
+            "description": "We use a to-infinitive after tend.",
+            "answers": [
+                "forgetting",
+                "to forget",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "e9eed04b45164957a955016f42d9573b"
+        },
+        {
+            "question": "Let’s cut it ………………………..",
+            "description": "Here short is the complement of the object it. Object complements are usually adjectives or nouns.",
+            "answers": [
+                "short",
+                "shortly"
+            ],
+            "correct": 0,
+            "id": "1c0458a14df341da986a4ff831e31887"
+        },
+        {
+            "question": "I find her attitude …………………………",
+            "description": "Here strange is the complement of the object attitude. Object complements are usually adjectives or nouns.",
+            "answers": [
+                "strange",
+                "strangely"
+            ],
+            "correct": 0,
+            "id": "b8d23ad3dfee4c789a51b504df12a8f2"
+        }
+    ]
+}

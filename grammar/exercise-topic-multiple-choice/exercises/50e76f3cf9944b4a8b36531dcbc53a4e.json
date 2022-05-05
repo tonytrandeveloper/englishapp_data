@@ -1,0 +1,138 @@
+{
+    "id": "50e76f3cf9944b4a8b36531dcbc53a4e",
+    "title": "Phrasal Verbs Exercise",
+    "questions": [
+        {
+            "question": "It is important to abide .............................. the rules and regulations.",
+            "description": "To abide by a rule is to respect it.",
+            "answers": [
+                "with",
+                "by",
+                "of"
+            ],
+            "correct": 1,
+            "id": "3ddc5dcd1b4f474b89ade9cd909a8297"
+        },
+        {
+            "question": "I hope you can account ........................... the money you spent on that expensive vacation.",
+            "description": "To account for is to explain.",
+            "answers": [
+                "of",
+                "for",
+                "to"
+            ],
+            "correct": 1,
+            "id": "1cb08237c258427b9c78166d0c6ea19c"
+        },
+        {
+            "question": "Her explanations just do not add ............................",
+            "description": "When explanations add up, they make sense.",
+            "answers": [
+                "on",
+                "up",
+                "with"
+            ],
+            "correct": 1,
+            "id": "d90ef50211cd4270a9493a1677f1e3a9"
+        },
+        {
+            "question": "The old man advised me ............................. walking alone after sunset.",
+            "description": "To advise against something is to recommend not doing it.",
+            "answers": [
+                "for",
+                "against",
+                "to"
+            ],
+            "correct": 1,
+            "id": "87ace000269f43359e5792fd22c824ef"
+        },
+        {
+            "question": "Do you agree .................................. the opinion that education should be free for all?",
+            "description": "When you agree with something, you have the same opinion.",
+            "answers": [
+                "to",
+                "with",
+                "on"
+            ],
+            "correct": 1,
+            "id": "aa245ae5f03549339a038990dcc46ac0"
+        },
+        {
+            "question": "We must allow .................................. potential problems that can delay the completion of the project.",
+            "description": "To allow for something is to take that into consideration.",
+            "answers": [
+                "for",
+                "with",
+                "to"
+            ],
+            "correct": 0,
+            "id": "90488db87992407f90a747c589e61a1d"
+        },
+        {
+            "question": "The idea of spending an afternoon at the beach just does not appeal ............................... me.",
+            "description": "If something appeals to you, you find it attractive or interesting. ",
+            "answers": [
+                "with",
+                "to",
+                "for"
+            ],
+            "correct": 1,
+            "id": "a562cf9cf06e4f529b7b6a5393e9cd81"
+        },
+        {
+            "question": "When the child saw the snake, he backed ................................... in fright.",
+            "description": "To back away is to move backwards in fear.",
+            "answers": [
+                "down",
+                "away",
+                "up"
+            ],
+            "correct": 1,
+            "id": "7cb537d95b2e42b2a046e39c902ac3b7"
+        },
+        {
+            "question": "The protesters forced the government to back .................................. on its attempts to demolish the old fort.",
+            "description": "To back down is to withdraw or concede defeat.",
+            "answers": [
+                "out",
+                "down",
+                "off"
+            ],
+            "correct": 1,
+            "id": "cca32ce8ec444346ae25b616a0c3e051"
+        },
+        {
+            "question": "When I was in trouble, there was no one to back me ................................",
+            "description": "To back somebody up is to give them support.",
+            "answers": [
+                "out",
+                "up",
+                "off"
+            ],
+            "correct": 1,
+            "id": "15cdc5e8deb34e1495856c0e421a6db2"
+        },
+        {
+            "question": "Why are you blowing ................................. at me when it is not my fault?",
+            "description": "To blow up at somebody is to get angry with them.",
+            "answers": [
+                "out",
+                "up",
+                "on"
+            ],
+            "correct": 1,
+            "id": "6e4a27fa2b0e46beb6bb79f4f20a002e"
+        },
+        {
+            "question": "Riots have broken ................................ in parts of the country.",
+            "description": "When a riot breaks out, it starts suddenly.",
+            "answers": [
+                "up",
+                "over",
+                "out"
+            ],
+            "correct": 2,
+            "id": "e7fbb8a2900d48c89d0cff1c8700965e"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "id": "722a4c65ff2e4452a26c6cc26f041771",
+    "title": "Question Tags Exercise",
+    "questions": [
+        {
+            "question": "You don’t know the answer, ……………………….?",
+            "description": "Affirmative tags are used after negative sentences. ",
+            "answers": [
+                "do you",
+                "does you",
+                "don't you"
+            ],
+            "correct": 0,
+            "id": "1e716c733638424890fc30d924dd9816"
+        },
+        {
+            "question": "He is disappointed with his results, ………………………….?",
+            "description": "",
+            "answers": [
+                "is he",
+                "isn't he",
+                "does he"
+            ],
+            "correct": 1,
+            "id": "ab56d0bafbee44d1bf175f5b25446161"
+        },
+        {
+            "question": "He drove as fast as he could, ………………………….?",
+            "description": "Negative tags are used after affirmative sentences. ",
+            "answers": [
+                "did he",
+                "could he",
+                "didn't he"
+            ],
+            "correct": 2,
+            "id": "eebbf35166814667b6b09a05d3ff8f23"
+        },
+        {
+            "question": "Whenever we play chess, Ann beats me, ……………………….?",
+            "description": "Negative tags are used after affirmative sentences. ",
+            "answers": [
+                "does she",
+                "doesn't she",
+                "do she"
+            ],
+            "correct": 1,
+            "id": "de8ce956b22941e09033287d07a103e0"
+        },
+        {
+            "question": "He recognized you, ……………………………?",
+            "description": "Negative tags are used after affirmative sentences. ",
+            "answers": [
+                "did he",
+                "didn't he",
+                "hadn't he"
+            ],
+            "correct": 1,
+            "id": "3105ca62df024ba89064954a93f9d9cf"
+        },
+        {
+            "question": "He wants to be an architect, ………………………….?",
+            "description": "Negative tags are used after affirmative sentences. ",
+            "answers": [
+                "does he",
+                "doesn't he",
+                "hasn't he"
+            ],
+            "correct": 1,
+            "id": "8c896b8ee60e43ff981b826557a9538c"
+        },
+        {
+            "question": "He was dead by the time they found him, ………………………..?",
+            "description": "Negative tags are used after affirmative sentences. ",
+            "answers": [
+                "wasn't he",
+                "was he",
+                "didn't he"
+            ],
+            "correct": 0,
+            "id": "372f4589759144759a501bed6967fc4d"
+        },
+        {
+            "question": "He called me names, …………………………..?",
+            "description": "Negative tags are used after affirmative sentences. ",
+            "answers": [
+                "did he",
+                "didn't he",
+                "hadn't he"
+            ],
+            "correct": 1,
+            "id": "8379d012d2444c2b8f9f2369051e34ba"
+        },
+        {
+            "question": "He broke his leg while playing football, …………………………..?",
+            "description": "Negative tags are used after affirmative sentences. ",
+            "answers": [
+                "did he",
+                "didn't he",
+                "hadn't he"
+            ],
+            "correct": 1,
+            "id": "f4e6b41ef9784a529a4ebeac8e51860f"
+        },
+        {
+            "question": "She never wastes an opportunity to degrade me, ……………………………?",
+            "description": "Affirmative tags are used after words like never. ",
+            "answers": [
+                "does she",
+                "doesn't she"
+            ],
+            "correct": 0,
+            "id": "4d0c95922c514843a18add75b0f29360"
+        },
+        {
+            "question": "They stopped him, ……………………………",
+            "description": "Negative tags are used after affirmative sentences. ",
+            "answers": [
+                "did they",
+                "didn't they",
+                "hadn't they"
+            ],
+            "correct": 1,
+            "id": "14cbc1abef9c41c598e3cf94278045f6"
+        },
+        {
+            "question": "He will not permit this, …………………………?",
+            "description": "Affirmative tags are used after negative sentences. ",
+            "answers": [
+                "will he",
+                "won't he"
+            ],
+            "correct": 0,
+            "id": "21116f2f04884b7cb5957175bb0dc59a"
+        }
+    ]
+}

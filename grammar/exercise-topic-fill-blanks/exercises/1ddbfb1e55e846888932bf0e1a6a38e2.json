@@ -1,0 +1,326 @@
+{
+    "id": "1ddbfb1e55e846888932bf0e1a6a38e2",
+    "title": "Passive with verbs with two objects",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John gave a bar of chocolate to Jill (start with 'Jill')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Jill was given a bar of chocolate (by John).",
+                        "A bar of chocolate was given to Jill (by John)."
+                    ]
+                }
+            ],
+            "id": "581c7698ee5b4da3967947b651df62da"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John gave a bar of chocolate to Jill (start with 'a bar of chocolate')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "A bar of chocolate was given to Jill (by John).",
+                        "Jill was given a bar of chocolate (by John)."
+                    ]
+                }
+            ],
+            "id": "ad7db8ca3a944238adf39fa66526d767"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I lent a pencil to Graham (start with 'Graham')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Graham was lent a pencil (by me).",
+                        "A pencil was lent to Graham (by me)."
+                    ]
+                }
+            ],
+            "id": "8c6a37212f9c4da6b9fb5a87854335ca"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I lent a pencil to Graham (start with 'a pencil')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "A pencil was lent to Graham (by me).",
+                        "Graham was lent a pencil (by me)."
+                    ]
+                }
+            ],
+            "id": "81330c158c8d4295a5a9ccadc7b8b7f6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Fiona told the truth to Julian (start with 'Julian')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Julian was told the truth (by Fiona).",
+                        "The truth was told to Julian (by Fiona)."
+                    ]
+                }
+            ],
+            "id": "29599aabe97849658c512f02418349cc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Fiona told the truth to Julian (start with 'the truth')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The truth was told to Julian (by Fiona).",
+                        "Julian was told the truth (by Fiona)."
+                    ]
+                }
+            ],
+            "id": "8496c112d7fd4b019072f4118348f105"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They offered the job to Simon (start with 'Simon')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Simon was offered the job (by them).",
+                        "The job was offered to Simon (by them)."
+                    ]
+                }
+            ],
+            "id": "3d1bd89a20394ba48afa528b168f924a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They offered the job to Simon (start with 'the job')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The job was offered to Simon (by them).",
+                        "Simon was offered the job (by them)."
+                    ]
+                }
+            ],
+            "id": "829dd05d9d934c67bfb50d208498c4b3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The boss showed the new computer to Anna (start with 'Anna')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Anna was shown the new computer (by the boss).",
+                        "The new computer was shown to Anna (by the boss)."
+                    ]
+                }
+            ],
+            "id": "d54204606b024ad8af6e5aa2ced614f8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The boss showed the new computer to Anna (start with 'the new computer')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The new computer was shown to Anna (by the boss).",
+                        "Anna was shown the new computer (by the boss)."
+                    ]
+                }
+            ],
+            "id": "b40e9c41c8514bb6b27e1097bb8e3c11"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie taught the grammar to the students (start with 'the students')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The students were taught the grammar (by Julie).",
+                        "The grammar was taught to the students (by Julie)."
+                    ]
+                }
+            ],
+            "id": "8b7339aad330475f8fbe85d2db69a1b9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie taught the grammar to the students (start with 'the grammar')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The grammar was taught to the students (by Julie).",
+                        "The students were taught the grammar (by Julie)."
+                    ]
+                }
+            ],
+            "id": "98111a8842ba467ca716ded40075bd3e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I sent the email to John (start with 'John')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "John was sent the email (by me).",
+                        "The email was sent to John (by me)."
+                    ]
+                }
+            ],
+            "id": "869474bfe3134c01a7dda3e639c57414"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I sent the email to John (start with 'the email')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The email was sent to John (by me).",
+                        "John was sent the email (by me)."
+                    ]
+                }
+            ],
+            "id": "11c88ffda40d40c88bcf3cf1e68f5d2c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy threw the ball to the child (start with 'the child')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The child was thrown the ball (by Lucy).",
+                        "The ball was thrown to the child (by Lucy)."
+                    ]
+                }
+            ],
+            "id": "050abe34fdeb422eadcaf8b05947adf1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy threw the ball to the child (start with 'the ball')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The ball was thrown to the child (by Lucy).",
+                        "The child was thrown the ball (by Lucy)."
+                    ]
+                }
+            ],
+            "id": "5d54aedb50a244d0a178833bd94f9b50"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Sophia sold the car to a doctor (start with 'a doctor')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "A doctor was sold the car (by Sophia).",
+                        "The car was sold to a doctor (by Sophia)."
+                    ]
+                }
+            ],
+            "id": "5ec8081a4f7f497dae0f9c988281207c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Sophia sold the car to a doctor (start with 'the car')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The car was sold to a doctor (by Sophia).",
+                        "A doctor was sold the car (by Sophia)."
+                    ]
+                }
+            ],
+            "id": "1ed8057edcb1401e8acc7a9424baf103"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I asked the question to David (start with 'David')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "David was asked the question (by me).",
+                        "The question was asked to David (by me)."
+                    ]
+                }
+            ],
+            "id": "84c4222c62b1409d906405629a819b8d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I asked the question to David (start with 'the question')."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The question was asked to David (by me).",
+                        "David was asked the question (by me)."
+                    ]
+                }
+            ],
+            "id": "bb44c2d270234aa289c5f43b9ca05eac"
+        }
+    ]
+}

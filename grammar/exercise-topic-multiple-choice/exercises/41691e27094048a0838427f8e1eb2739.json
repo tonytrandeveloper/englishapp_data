@@ -1,0 +1,137 @@
+{
+    "id": "41691e27094048a0838427f8e1eb2739",
+    "title": "Pronouns Exercise",
+    "questions": [
+        {
+            "question": "I really .................................... when I was on holiday.",
+            "description": "Enjoyed is a transitive verb and requires an object. If there is no object, we use a reflexive pronoun as the object.\r\n",
+            "answers": [
+                "enjoyed",
+                "enjoyed me",
+                "enjoyed myself"
+            ],
+            "correct": 2,
+            "id": "4917fb6177af457384b134971332248e"
+        },
+        {
+            "question": "He hurt .................................. while playing football.",
+            "description": "We use reflexive pronouns when the object refers to the same person as the subject.",
+            "answers": [
+                "him",
+                "himself",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "6e04a8a9f26c4dcca5fe34fdb34f6783"
+        },
+        {
+            "question": "They praised .......................................",
+            "description": "We use reflexive pronouns when the object refers to the same person as the subject.",
+            "answers": [
+                "them",
+                "themself",
+                "themselves"
+            ],
+            "correct": 2,
+            "id": "1d26ea7493c946ac9d3a225d42873cfd"
+        },
+        {
+            "question": "He patted ...................................... on the back.",
+            "description": "We use reflexive pronouns when the object refers to the same person as the subject.",
+            "answers": [
+                "him",
+                "himself",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3b94065070c544c9a5b80427b3fd33de"
+        },
+        {
+            "question": "She was beside ......................................... with sorrow.",
+            "description": "A reflexive pronoun can be used after a preposition.",
+            "answers": [
+                "her",
+                "herself"
+            ],
+            "correct": 1,
+            "id": "b8c46286a9cb490aa8fe3059f7309e28"
+        },
+        {
+            "question": "He did it all by ....................................",
+            "description": "We use a reflexive pronoun after a preposition. ",
+            "answers": [
+                "him",
+                "himself",
+                "himselves"
+            ],
+            "correct": 1,
+            "id": "d1c5deb4f5c14d9a8225de2b647a9c5c"
+        },
+        {
+            "question": "No one loves me better than ................................. do.",
+            "description": "The reflexive pronoun is used only when the subject and the object refer to the same person or thing.",
+            "answers": [
+                "yourself",
+                "you",
+                "yourselves"
+            ],
+            "correct": 1,
+            "id": "c444d631bf52456cae74ea41d146d1a8"
+        },
+        {
+            "question": "He only loves ........................................",
+            "description": "",
+            "answers": [
+                "him",
+                "himself",
+                "himselves"
+            ],
+            "correct": 1,
+            "id": "c8dee31db8ae43bfa0c924f75660d2b7"
+        },
+        {
+            "question": "Rani and ................................. went shopping yesterday.",
+            "description": "The reflexive pronoun is not used as the subject of the verb.",
+            "answers": [
+                "me",
+                "I",
+                "myself"
+            ],
+            "correct": 1,
+            "id": "cf9865fea5ff422688c5ed574e3e2c15"
+        },
+        {
+            "question": "The first prize was won by John and ................................",
+            "description": "The reflexive pronoun is used only when the object refers to the same person as the subject. ",
+            "answers": [
+                "I",
+                "me",
+                "myself"
+            ],
+            "correct": 1,
+            "id": "65ef6065daa642e3adf52141b5f6619e"
+        },
+        {
+            "question": "............................... wrote this essay.",
+            "description": "",
+            "answers": [
+                "Me",
+                "I",
+                "Myself"
+            ],
+            "correct": 1,
+            "id": "bb4fd76bd24a4bf6b629136d2127fccb"
+        },
+        {
+            "question": "You have never offered ................................... any help.",
+            "description": "",
+            "answers": [
+                "me",
+                "I",
+                "myself"
+            ],
+            "correct": 0,
+            "id": "25b8e4a16eaa4c5b9cddd1fb94e96dc0"
+        }
+    ]
+}

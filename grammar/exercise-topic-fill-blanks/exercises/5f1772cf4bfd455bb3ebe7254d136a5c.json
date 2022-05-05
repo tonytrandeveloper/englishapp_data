@@ -1,0 +1,301 @@
+{
+    "id": "5f1772cf4bfd455bb3ebe7254d136a5c",
+    "title": "Present Continuous 'Wh' and 'Yes / No' Questions 2",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / drink / tea )?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you drinking tea?"
+                    ]
+                }
+            ],
+            "id": "98d07e79fc334d6b8ebcc3a42db431f9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you / stay)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Where are you staying?"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(why / you / watch TV now)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Why are you watching TV now?"
+                    ]
+                }
+            ],
+            "id": "bb330bd715ba40c3b63590570899560c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / work in a bar)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is she working in a bar?"
+                    ]
+                }
+            ],
+            "id": "3213089cbd7e4db1bd0c85448d539d7a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / he / do)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What is he doing?"
+                    ]
+                }
+            ],
+            "id": "bbcb40b371c14b538453735de471fcc8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / she / call her friend now)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Why is she calling her friend now?"
+                    ]
+                }
+            ],
+            "id": "59fc15f4c0dc40b4bf0978eefd251b88"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / lose weight)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Am I losing weight?"
+                    ]
+                }
+            ],
+            "id": "b0c1620a096f47fcaa7b448424fad760"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / work tomorrow)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are we working tomorrow?"
+                    ]
+                }
+            ],
+            "id": "36cab87a8d194ef38138d0e4d61bf1fc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(when / you / arrive)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "When are you arriving?"
+                    ]
+                }
+            ],
+            "id": "3371f3ff27404023b829bbcbf264972d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / take dance classes)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is he taking dance classes?"
+                    ]
+                }
+            ],
+            "id": "30cabae7da1644c7bfb7683c08a3d174"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / stay in a hotel)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is she staying in a hotel?"
+                    ]
+                }
+            ],
+            "id": "fe9758b609e2461b8aea9d69af4cc58e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how much / he / eat)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How much is he eating?"
+                    ]
+                }
+            ],
+            "id": "aa5dcb97a0c34873a103df4c49848b50"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how long / you / stay in China)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How long are you staying in China?"
+                    ]
+                }
+            ],
+            "id": "0d90fea1f96746e794ac338e52f46d01"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / study in the library now)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is she studying in the library now?"
+                    ]
+                }
+            ],
+            "id": "97bc2ad84c4645c1aa974ac8480c0ad2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / come)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you coming?"
+                    ]
+                }
+            ],
+            "id": "54942ec3963c4c7ba8525593e468dab9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / rent a car)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are they renting a car?"
+                    ]
+                }
+            ],
+            "id": "b495daf4a1b94ef2b3efb62d5eebcdb1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(when / they / have a barbeque)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "When are they having a barbeque?"
+                    ]
+                }
+            ],
+            "id": "f7d842fe0a2a41dc971b24f7be6f21fa"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / Julie / do tonight)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What is Julie doing tonight?"
+                    ]
+                }
+            ],
+            "id": "bf15ffeefe4b4d4aa3646da8bbb3d6a4"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / feel sleepy)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you feeling sleepy?"
+                    ]
+                }
+            ],
+            "id": "ec0e198e221245a9b3f384af50a9210f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how long / you / stay in Paris)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "How long are you staying in Paris?"
+                    ]
+                }
+            ],
+            "id": "5579af4768ec4c02b45f847160dceded"
+        }
+    ]
+}

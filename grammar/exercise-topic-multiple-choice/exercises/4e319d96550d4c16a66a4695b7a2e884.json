@@ -1,0 +1,106 @@
+{
+    "id": "4e319d96550d4c16a66a4695b7a2e884",
+    "title": "Nouns Exercise",
+    "questions": [
+        {
+            "question": "Where is your ......................................?",
+            "description": "",
+            "answers": [
+                "luggage",
+                "luggages"
+            ],
+            "correct": 0,
+            "id": "5d5c1aeff8c741d7b5ff4b38c3e232cb"
+        },
+        {
+            "question": "I would like to paint the ........................................",
+            "description": "",
+            "answers": [
+                "scenery",
+                "sceneries"
+            ],
+            "correct": 0,
+            "id": "458094b0c8dd4364835cbdd2b8173fec"
+        },
+        {
+            "question": "She gave me some ........................................",
+            "description": "",
+            "answers": [
+                "advice",
+                "advices"
+            ],
+            "correct": 0,
+            "id": "666a47cf4a3e4704aac3427fb29c6179"
+        },
+        {
+            "question": "He has eaten two .............................................",
+            "description": "",
+            "answers": [
+                "loaves of bread",
+                "breads"
+            ],
+            "correct": 0,
+            "id": "0f7378c512244fde80c36cdae3379c0d"
+        },
+        {
+            "question": "I have ............................................... important work to do.",
+            "description": "",
+            "answers": [
+                "an",
+                "some"
+            ],
+            "correct": 1,
+            "id": "0b5c83b5075b4d5bb225979eb7fa5b94"
+        },
+        {
+            "question": "......................................... lightning struck the building.",
+            "description": "",
+            "answers": [
+                "A",
+                "A flash of"
+            ],
+            "correct": 1,
+            "id": "1dff7dcc90154cde9ad509fcffbab9cc"
+        },
+        {
+            "question": "The lightning was followed by a deafening ..........................................",
+            "description": "",
+            "answers": [
+                "clap of thunder",
+                "thunder"
+            ],
+            "correct": 0,
+            "id": "738eb0dd9c61414a8f1c721a7b04f48e"
+        },
+        {
+            "question": "I heard ..............................................",
+            "description": "",
+            "answers": [
+                "a news",
+                "a piece of news"
+            ],
+            "correct": 1,
+            "id": "3d2b4a7dccef40a59c87d2d4bbb20a99"
+        },
+        {
+            "question": "We need to buy ............................................. furniture.",
+            "description": "",
+            "answers": [
+                "a",
+                "some"
+            ],
+            "correct": 1,
+            "id": "9b54c145a4b54464ab9ce38f9e7ff14f"
+        },
+        {
+            "question": "Have you got ......................................... equipment to fix this?",
+            "description": "",
+            "answers": [
+                "an",
+                "some"
+            ],
+            "correct": 1,
+            "id": "a4b7f2fdda7a4229b0987044e7479a1d"
+        }
+    ]
+}

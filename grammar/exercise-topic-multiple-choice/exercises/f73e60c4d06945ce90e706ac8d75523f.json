@@ -1,0 +1,105 @@
+{
+    "id": "f73e60c4d06945ce90e706ac8d75523f",
+    "title": "Although, However, In Spite Of And Despite",
+    "questions": [
+        {
+            "question": "We went out ………………… the rain.",
+            "description": "",
+            "answers": [
+                "in spite of",
+                "although",
+                "though"
+            ],
+            "correct": 0,
+            "id": "d5de29466d00484999fca48b520d5320"
+        },
+        {
+            "question": "We went out …………………. it was cold.",
+            "description": "",
+            "answers": [
+                "though",
+                "although",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c9de453b9314433b9679f207a62f6a54"
+        },
+        {
+            "question": "He went out ………………….. the fact that he was tired.",
+            "description": "",
+            "answers": [
+                "although",
+                "in spite of",
+                "despite of"
+            ],
+            "correct": 1,
+            "id": "f6d2a7c899f140109139bc09cc722bc5"
+        },
+        {
+            "question": "………………….. she didn’t like the film, I enjoyed it a lot.",
+            "description": "",
+            "answers": [
+                "Though",
+                "In spite of",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "4e5b5d1643e24fcfb06e861fe19b7475"
+        },
+        {
+            "question": "She bought the dress ………………… it was expensive.",
+            "description": "",
+            "answers": [
+                "though",
+                "despite",
+                "in spite of"
+            ],
+            "correct": 0,
+            "id": "10314f1a8f02470dbb3f616bf3a660c2"
+        },
+        {
+            "question": "I failed the test. …………………., my friend passed.",
+            "description": "",
+            "answers": [
+                "although",
+                "despite",
+                "however"
+            ],
+            "correct": 2,
+            "id": "577dc8eb5a6b47cc82438d79a52d38c9"
+        },
+        {
+            "question": "………………… I failed the test, my friend passed.",
+            "description": "",
+            "answers": [
+                "Although",
+                "However",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "5e336b2e1005470bab52186f271d90a2"
+        },
+        {
+            "question": "They managed to do it, ………………….. I was not there.",
+            "description": "",
+            "answers": [
+                "however",
+                "despite",
+                "although"
+            ],
+            "correct": 2,
+            "id": "2ef92cd02ee44d39846211c5da41eada"
+        },
+        {
+            "question": "She managed to finish on time, ………………… being late.",
+            "description": "",
+            "answers": [
+                "despite",
+                "though",
+                "however"
+            ],
+            "correct": 0,
+            "id": "30546c01cf2545de85df6a7670d4fe2f"
+        }
+    ]
+}

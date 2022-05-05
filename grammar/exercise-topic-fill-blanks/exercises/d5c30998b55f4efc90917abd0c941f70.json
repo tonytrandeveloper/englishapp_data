@@ -1,0 +1,363 @@
+{
+    "id": "d5c30998b55f4efc90917abd0c941f70",
+    "title": "Choose the Present Simple or Present Continuous Exercise 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you coming"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/come) tonight?"
+                }
+            ],
+            "id": "8e32bafdc59548bfa1e65b3b4d0ed9b9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Does he eat"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(he/eat) rice every day?"
+                }
+            ],
+            "id": "337996f8d0c64798bea01a2a9d547706"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'m working",
+                        "am working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(work) at the moment."
+                }
+            ],
+            "id": "d3e3e7e9669b4571a3466997a9e0e716"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Does he come"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(he/come) to London often?"
+                }
+            ],
+            "id": "ecbf88175c304f3594c9cf53079f37c1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s playing",
+                        "is playing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(play) tennis now."
+                }
+            ],
+            "id": "abca21763bfb4cdfa700b8f5fa9643a9"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you coming"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/come) to the cinema later?"
+                }
+            ],
+            "id": "de936a7fc44c425ab20c67d1036a6f91"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "aren't coming",
+                        "Are not coming"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/come) to the party tomorrow."
+                }
+            ],
+            "id": "52c7c0308b4a4f2eb69f6e3c27eea615"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "isn't playing",
+                        "is not playing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/play) golf now."
+                }
+            ],
+            "id": "a4cd9a1ac6fe46e4914ed09d73d34f21"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you playing"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/play) tennis this Sunday?"
+                }
+            ],
+            "id": "537c1f1eb5d347078dc6828fd248c32f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to a restaurant every Saturday."
+                }
+            ],
+            "id": "0c1e83da0a2443fba46ca1705b9d6040"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "doesn't go",
+                        "does not go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) to the cinema very often."
+                }
+            ],
+            "id": "c321bb75b4794851811b85321a49260a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You usually"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "arrive"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) late."
+                }
+            ],
+            "id": "8095fe22db7948e08ae17a9f4954c37f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He normally"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "eats"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) dinner at home."
+                }
+            ],
+            "id": "9910ea63c34543e380d128391f1b8d69"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do you study"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/study) every night?"
+                }
+            ],
+            "id": "6c22c1165b9a40488846feddd0c150b5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Do they work"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(they/work) late usually?"
+                }
+            ],
+            "id": "7ce81017b6f64200b8279c3048ce55f7"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "aren't going",
+                        "are not going"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) out later."
+                }
+            ],
+            "id": "54f533da45964a21b81361fab08fdb6a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'m not working",
+                        "am not working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/work) tonight."
+                }
+            ],
+            "id": "525c02b0f16c40b9878e2d109196eb44"
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is she working"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/work) at the moment?"
+                }
+            ],
+            "id": "398e31e4e51543cfb29523165da330e6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "don't drink",
+                        "do not drink"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/drink) coffee very often."
+                }
+            ],
+            "id": "92d0df4673ba40ce99418261fd178cc3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'s sleeping",
+                        "is sleeping"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(sleep) now."
+                }
+            ],
+            "id": "e10b68bb61ef481a903d1f5305fdcc9e"
+        }
+    ]
+}

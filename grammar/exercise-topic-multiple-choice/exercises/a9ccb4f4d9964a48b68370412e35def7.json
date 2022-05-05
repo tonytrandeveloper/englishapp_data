@@ -1,0 +1,138 @@
+{
+    "id": "a9ccb4f4d9964a48b68370412e35def7",
+    "title": "Phrasal Verbs With Carry",
+    "questions": [
+        {
+            "question": "You will need a truck to .................................... all these books.",
+            "description": "To carry off is to transport.",
+            "answers": [
+                "carry off",
+                "carry on",
+                "carry over"
+            ],
+            "correct": 0,
+            "id": "6032d1e09e6d49ffb61b771b20be6192"
+        },
+        {
+            "question": "She .................................. her role really well.",
+            "description": "To carry off one's role is to act convincingly.",
+            "answers": [
+                "carried on",
+                "carried off",
+                "carried out"
+            ],
+            "correct": 1,
+            "id": "d783bd53fcfc491d9c496ede721cf724"
+        },
+        {
+            "question": "Every year epidemics ................................ thousands of people.",
+            "description": "Carry off can mean cause death.",
+            "answers": [
+                "carry away",
+                "carry over",
+                "carry off"
+            ],
+            "correct": 2,
+            "id": "79ee03e1cec84281b71e917cc04ce590"
+        },
+        {
+            "question": "She moved to the city to ................................ her work.",
+            "description": "To carry on something is to continue doing it.",
+            "answers": [
+                "carry over",
+                "carry out",
+                "carry on"
+            ],
+            "correct": 2,
+            "id": "966998491c464212b465f3a518f438a1"
+        },
+        {
+            "question": "You cannot ............................. spending money like that if you do not want to end up in debt.",
+            "description": "To carry on something is to continue doing it.",
+            "answers": [
+                "carry off",
+                "carry through",
+                "carry on"
+            ],
+            "correct": 2,
+            "id": "13bd3901818b4d89807dfe0b1aff0062"
+        },
+        {
+            "question": "It is difficult to .............................. a conversation if you do not know the language.",
+            "description": "To carry on is to maintain.",
+            "answers": [
+                "carry out",
+                "carry with",
+                "carry on"
+            ],
+            "correct": 2,
+            "id": "485efc77e540491ca0a59628e368f2b4"
+        },
+        {
+            "question": "As my subordinate, your duty is to .............................. my instructions.",
+            "description": "To carry out is to fulfill.",
+            "answers": [
+                "carry with",
+                "carry through",
+                "carry out"
+            ],
+            "correct": 2,
+            "id": "1ccfc59d33f14706870284ccc41c1a4c"
+        },
+        {
+            "question": "They ................................ several experiments to prove their theory.",
+            "description": "To carry out is to do or perform.",
+            "answers": [
+                "carried on",
+                "carried out",
+                "carried over"
+            ],
+            "correct": 1,
+            "id": "477cbef8458b4aae9ced5fa5b69f0f29"
+        },
+        {
+            "question": "His problems in his personal life,  ............................... to his work.",
+            "description": "If something carries over, it continues to exist.",
+            "answers": [
+                "carried out",
+                "carried over",
+                "carried through"
+            ],
+            "correct": 1,
+            "id": "aaffa8e8152d48ef8c046632e07a30c5"
+        },
+        {
+            "question": "Though she was extremely tired, she ............................. to the finish.",
+            "description": "To carry something through is to finish it successfully.",
+            "answers": [
+                "carried out",
+                "carried over",
+                "carried through"
+            ],
+            "correct": 2,
+            "id": "f9841ce2bf5a417d8b511b925ab7f3fd"
+        },
+        {
+            "question": "We don't have enough supplies to carry us ............................ the winter.",
+            "description": "To carry someone through something is to help them survive a period of time.",
+            "answers": [
+                "over",
+                "through",
+                "off"
+            ],
+            "correct": 1,
+            "id": "947b8bdd28654c6dabe87e2e11bf276f"
+        },
+        {
+            "question": "Her faith ................................. difficult times.",
+            "description": "",
+            "answers": [
+                "carried her off",
+                "carried her away",
+                "carried her through"
+            ],
+            "correct": 2,
+            "id": "de120b317935490e8a1a2e854d4fcffe"
+        }
+    ]
+}

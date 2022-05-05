@@ -1,0 +1,138 @@
+{
+    "id": "0ba695cb564043b8a94bbbc529811343",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "Even though ......................... my children were born in Mumbai, ......................... of them speaks Marathi.",
+            "description": "",
+            "answers": [
+                "both, neither",
+                "all, neither",
+                "both, both"
+            ],
+            "correct": 0,
+            "id": "76a4b0f936974a05a39cf5d29c543b7e"
+        },
+        {
+            "question": "He has three daughters but .............................. of them lives with him.",
+            "description": "Either and neither are used to talk about two people or things Use none for more than two.",
+            "answers": [
+                "neither",
+                "either",
+                "none"
+            ],
+            "correct": 2,
+            "id": "8fc7ba74ad72491fbef5bb94d0850921"
+        },
+        {
+            "question": "I visit my parents ............................ Sunday.",
+            "description": "",
+            "answers": [
+                "all",
+                "each",
+                "every"
+            ],
+            "correct": 2,
+            "id": "a8e9aa858a7440a58f8bc183d3dba0cc"
+        },
+        {
+            "question": "In a football game, ........................... team has 11 players.",
+            "description": "Each is used to talk about  2 or more. Every is used to talk about 3 or more. ",
+            "answers": [
+                "every",
+                "each",
+                "both"
+            ],
+            "correct": 1,
+            "id": "fe94cfc8a1c84c63b6cdcb6e57e03288"
+        },
+        {
+            "question": ".............................. three girls are intelligent and hard working.",
+            "description": "",
+            "answers": [
+                "All",
+                "Both",
+                "Each"
+            ],
+            "correct": 0,
+            "id": "6c62892babac497e9cf740bd6abf676f"
+        },
+        {
+            "question": ".......................... my father and my mother were there at my graduation ceremony.",
+            "description": "Neither should be followed by a singular verb both should be followed by a plural verb.",
+            "answers": [
+                "Both",
+                "Neither",
+                "Either"
+            ],
+            "correct": 0,
+            "id": "3ffe23eec34243b38c9bc5cd86a72431"
+        },
+        {
+            "question": "There was ............................. room on the bus, so we got off.",
+            "description": "",
+            "answers": [
+                "no",
+                "not any",
+                "none"
+            ],
+            "correct": 0,
+            "id": "cedf72fe67974bb08fc925f7047c631b"
+        },
+        {
+            "question": "He hasn't got .......................... a brother or a sister.",
+            "description": "Neither means the same as not neither. We can also write 'He has got neither a brother nor a sister.'",
+            "answers": [
+                "either",
+                "neither",
+                "both"
+            ],
+            "correct": 0,
+            "id": "41ac01b418ba40239c3fa03e46b545cf"
+        },
+        {
+            "question": "They were .............................. rich nor poor.",
+            "description": "Neither means not this nor that. ",
+            "answers": [
+                "neither",
+                "either",
+                "both"
+            ],
+            "correct": 0,
+            "id": "0e7668b978f44827b14dfb38710f618d"
+        },
+        {
+            "question": "I gave her .......................... food.",
+            "description": "",
+            "answers": [
+                "any",
+                "some",
+                "none"
+            ],
+            "correct": 1,
+            "id": "c74812e11fcc40299ee4015de9828a9f"
+        },
+        {
+            "question": "........................... of these answers is correct.",
+            "description": "Both should be followed by a plural verb.",
+            "answers": [
+                "Either",
+                "Neither",
+                "Both"
+            ],
+            "correct": 1,
+            "id": "cdc83ecea2a74a5387dacc9a37c163e5"
+        },
+        {
+            "question": "………………………. them were there.",
+            "description": "Use both of before a pronoun. ",
+            "answers": [
+                "Both",
+                "Both of",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "bb287c3a3e284892bc02e754cd99f27b"
+        }
+    ]
+}

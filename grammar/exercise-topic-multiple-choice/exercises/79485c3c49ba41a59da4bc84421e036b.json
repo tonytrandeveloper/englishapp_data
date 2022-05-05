@@ -1,0 +1,116 @@
+{
+    "id": "79485c3c49ba41a59da4bc84421e036b",
+    "title": "Had Better",
+    "questions": [
+        {
+            "question": "You had better ..................... the tickets now.",
+            "description": "",
+            "answers": [
+                "buy",
+                "bought",
+                "to buy"
+            ],
+            "correct": 0,
+            "id": "b4405a230aa942cfa56c9fb162827b0e"
+        },
+        {
+            "question": "You had better ......................... another car now.",
+            "description": "",
+            "answers": [
+                "to not buy",
+                "not to buy",
+                "not buy"
+            ],
+            "correct": 2,
+            "id": "0f0f0be1a72c4d2c8b4b2a4817a06a80"
+        },
+        {
+            "question": "You had better ....................... this medicine.",
+            "description": "",
+            "answers": [
+                "to take",
+                "take",
+                "taken"
+            ],
+            "correct": 1,
+            "id": "68f834e5969e4312aff30c658682645e"
+        },
+        {
+            "question": "We had better ..................... on him.",
+            "description": "",
+            "answers": [
+                "not depend",
+                "not to depend",
+                "to not depend"
+            ],
+            "correct": 0,
+            "id": "6833edd1b56e480fbceca6929a1f51f3"
+        },
+        {
+            "question": "You had better ....................... quarrelling with her.",
+            "description": "",
+            "answers": [
+                "to stop",
+                "stop",
+                "stopped"
+            ],
+            "correct": 1,
+            "id": "9ec25d0f1caa4777b1e29a9a8df4556a"
+        },
+        {
+            "question": "You had better ..................... the door before you leave.",
+            "description": "",
+            "answers": [
+                "to lock",
+                "lock",
+                "locked"
+            ],
+            "correct": 1,
+            "id": "d84f962109a4487694b81f4d8d910c94"
+        },
+        {
+            "question": "You had better ...................... in the hostel.",
+            "description": "",
+            "answers": [
+                "stay",
+                "to stay",
+                "stayed"
+            ],
+            "correct": 0,
+            "id": "1090d52a47bf48e284c388dc0adb66be"
+        },
+        {
+            "question": "I had better ..................... this book soon.",
+            "description": "",
+            "answers": [
+                "publish",
+                "to publish",
+                "published"
+            ],
+            "correct": 0,
+            "id": "fd822bed5a974b1cb62efc0d0ca6b072"
+        },
+        {
+            "question": "You had better ....................... him one of these days.",
+            "description": "",
+            "answers": [
+                "visit",
+                "to visit",
+                "visited"
+            ],
+            "correct": 0,
+            "id": "c95138c523e141f8aae2ec860f333151"
+        },
+        {
+            "question": "You had better ..................... your money in some profitable business.",
+            "description": "",
+            "answers": [
+                "invest",
+                "to invest",
+                "invested"
+            ],
+            "correct": 0,
+            "id": "34ffbce5ba3a492fa902f306b066c32d"
+        }
+    ]
+}

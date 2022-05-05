@@ -1,0 +1,108 @@
+{
+    "id": "093be4bfa23b44fb99bd7a15e2bde0dd",
+    "title": "Will Or Going To",
+    "questions": [
+        {
+            "question": "I can’t lift this box. OK. I ………………… help you.",
+            "description": "",
+            "answers": [
+                "will",
+                "am going to"
+            ],
+            "correct": 0,
+            "id": "fb4d3838677c4c76a1558fd6f8558677"
+        },
+        {
+            "question": "I don’t think that she …………………… recognize me.",
+            "description": "",
+            "answers": [
+                "will",
+                "is going to"
+            ],
+            "correct": 0,
+            "id": "d3017f6c93174f99aafac56d2acc8aa7"
+        },
+        {
+            "question": "Careful! You ………………… fall.",
+            "description": "",
+            "answers": [
+                "will",
+                "are going to"
+            ],
+            "correct": 1,
+            "id": "e2255b19fb6e47f0863db9e02f9bedd7"
+        },
+        {
+            "question": "She ………………….. graduate next year.",
+            "description": "",
+            "answers": [
+                "will",
+                "is going to",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "492408c3900349bf98539283e0c0dde3"
+        },
+        {
+            "question": "The flight …………………… at 9 pm.",
+            "description": "",
+            "answers": [
+                "departs",
+                "will depart"
+            ],
+            "correct": 0,
+            "id": "6c224df56e854036826f7583a23a60e8"
+        },
+        {
+            "question": "I …………………. meet your dad tomorrow afternoon.",
+            "description": "",
+            "answers": [
+                "am going to",
+                "will"
+            ],
+            "correct": 0,
+            "id": "4b1d31403d9647abb0878086bb19e251"
+        },
+        {
+            "question": "He is very hard-working. I think he ........................................ be very successful.",
+            "description": "",
+            "answers": [
+                "will",
+                "is going to"
+            ],
+            "correct": 0,
+            "id": "d1503463ee444c24a7419d1fc5857c97"
+        },
+        {
+            "question": "..................................... you marry me?",
+            "description": "",
+            "answers": [
+                "Will",
+                "Are you going to"
+            ],
+            "correct": 0,
+            "id": "c8c5f1f874c640e3b00b649ea06f84ec"
+        },
+        {
+            "question": "Who do you think …………………….. win the championship?",
+            "description": "",
+            "answers": [
+                "will",
+                "is going to"
+            ],
+            "correct": 0,
+            "id": "9844a140a55243b3b017f45ee8473b05"
+        },
+        {
+            "question": "I ………………… to America next month.",
+            "description": "",
+            "answers": [
+                "fly",
+                "will fly",
+                "am flying"
+            ],
+            "correct": 2,
+            "id": "4fff301eece642f998d4c362ba0152ae"
+        }
+    ]
+}

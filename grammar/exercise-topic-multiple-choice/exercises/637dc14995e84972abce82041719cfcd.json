@@ -1,0 +1,138 @@
+{
+    "id": "637dc14995e84972abce82041719cfcd",
+    "title": "Conjunctions Exercise",
+    "questions": [
+        {
+            "question": "I have been in such a pickle …………………….. I saw you last.",
+            "description": "Since can indicate time. It is used to show the starting point of something.",
+            "answers": [
+                "since",
+                "after",
+                "when"
+            ],
+            "correct": 0,
+            "id": "b5b6c380ddfc4f8391625c1a92d6ab01"
+        },
+        {
+            "question": "I ………………………… him since that unfortunate incident.",
+            "description": "When since indicates time, it is preceded by a verb in the present perfect tense.",
+            "answers": [
+                "did not see",
+                "have not seen",
+                "don't see"
+            ],
+            "correct": 1,
+            "id": "11ee07dae81342f09ee4713a1b94872e"
+        },
+        {
+            "question": "The soldiers were not wanting in strength or courage ……………………… they were badly fed.",
+            "description": "But is used to connect two contradictory ideas.",
+            "answers": [
+                "and",
+                "but",
+                "since"
+            ],
+            "correct": 1,
+            "id": "a463f165dae24d37a77d6200ab0d3702"
+        },
+        {
+            "question": "I asked him ……………………… he would help me.",
+            "description": "We use if to introduce indirect questions.",
+            "answers": [
+                "that",
+                "if",
+                "unless"
+            ],
+            "correct": 1,
+            "id": "f26a7f29e056479a8e98b741308185c3"
+        },
+        {
+            "question": "He was annoyed …………………………….. he was contradicted.",
+            "description": "We can use that to express a reason or cause. It is equivalent to because.",
+            "answers": [
+                "that",
+                "because",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "0c4f982d96064b948df25dfb3d786db1"
+        },
+        {
+            "question": "He kept quiet …………………………… the situation wouldn’t get worse.",
+            "description": "That can indicate purpose. It is equivalent to in order that.",
+            "answers": [
+                "that",
+                "for",
+                "because"
+            ],
+            "correct": 0,
+            "id": "28e6be0c83cc46d8a08e5ce90d91bf92"
+        },
+        {
+            "question": "He bled so profusely ……………………….. he died.",
+            "description": "That can express a consequence or result.",
+            "answers": [
+                "that",
+                "because",
+                "as"
+            ],
+            "correct": 0,
+            "id": "b2ba811855c3435fb13415199b459af9"
+        },
+        {
+            "question": "I see you oftener …………………………. I see him.",
+            "description": "Than is a conjunction and it follows adjectives or adverbs in the comparative degree. ",
+            "answers": [
+                "than",
+                "then",
+                "as"
+            ],
+            "correct": 0,
+            "id": "7726f734aeec4552bcf36059498294c9"
+        },
+        {
+            "question": "…………………………. there is life, there is hope.",
+            "description": "While can mean during the time that. It is similar to as long as.",
+            "answers": [
+                "While",
+                "As long as",
+                "Whereas"
+            ],
+            "correct": 1,
+            "id": "999d2001a4a543b9861281be39728d46"
+        },
+        {
+            "question": "…………………………….. this is true of some, it is not true of all.",
+            "description": "While can mean whereas.",
+            "answers": [
+                "While",
+                "Whereas",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "094059b4f7974320962d893696e783c3"
+        },
+        {
+            "question": "He abhorred hypocrisy …………………………. he was not too stern with the hypocrite.",
+            "description": "We use but to connect two contradictory ideas. ",
+            "answers": [
+                "as",
+                "and",
+                "but"
+            ],
+            "correct": 2,
+            "id": "f30d73f08efb45eda5492a61edfbea06"
+        },
+        {
+            "question": "…………………………. he lived he was the guiding star of a brave nation.",
+            "description": "",
+            "answers": [
+                "As long as",
+                "Whereas",
+                "Since"
+            ],
+            "correct": 0,
+            "id": "17615e47e2a240fea3107a82276db5a5"
+        }
+    ]
+}

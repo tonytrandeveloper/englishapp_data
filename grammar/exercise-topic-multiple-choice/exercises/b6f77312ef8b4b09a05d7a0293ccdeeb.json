@@ -1,0 +1,138 @@
+{
+    "id": "b6f77312ef8b4b09a05d7a0293ccdeeb",
+    "title": "Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Sam hasn’t returned the razor ………………………….. borrowed from ………………………",
+            "description": "A pronoun used as a subject should be in its subject form and object should be in its object form. ",
+            "answers": [
+                "he, me",
+                "he, I",
+                "him, me"
+            ],
+            "correct": 0,
+            "id": "232cc852754c47aba6af8182b32d73c2"
+        },
+        {
+            "question": "What are you doing in ……………………………. room?",
+            "description": "The possessive forms of pronouns are - my, mine, his, her, hers, their, theirs, your and yours.",
+            "answers": [
+                "my",
+                "me",
+                "I"
+            ],
+            "correct": 0,
+            "id": "4da00c8b4b6542acae4ded72c7539cf4"
+        },
+        {
+            "question": "Why is ………………………….. so angry today?",
+            "description": "A pronoun used as the subject should be in its subject forms. Subject pronouns are: he, she, they, you, we and it.",
+            "answers": [
+                "he",
+                "him",
+                "him"
+            ],
+            "correct": 0,
+            "id": "26dace0dd8e24aa097b5a4c205d25e16"
+        },
+        {
+            "question": "I don’t know what happened to ……………………………",
+            "description": "A pronoun used as the object of a preposition should be in its object form. Examples are: her, him, me, you, them and us.",
+            "answers": [
+                "she",
+                "her",
+                "hers"
+            ],
+            "correct": 1,
+            "id": "6c1267213eab4061964ce0009c25244a"
+        },
+        {
+            "question": "I didn’t recognize ……………………. but ……………………. recognized …………………..",
+            "description": "",
+            "answers": [
+                "her, she, I",
+                "she, her, me",
+                "her, she, me"
+            ],
+            "correct": 2,
+            "id": "b4c1a974af8242fda0704e4fcee0ee87"
+        },
+        {
+            "question": "It took ……………………………. quite some time to realize what ……………………… was doing.",
+            "description": "",
+            "answers": [
+                "I, me",
+                "me, I",
+                "me, me"
+            ],
+            "correct": 1,
+            "id": "0a8b4fd91cd84a4189cb260de024b72d"
+        },
+        {
+            "question": "They have never invited ………………………… to ………………………. parties.",
+            "description": "",
+            "answers": [
+                "us, their",
+                "we, their",
+                "us, theirs"
+            ],
+            "correct": 0,
+            "id": "eac16caad3154a3ebed808badf31c374"
+        },
+        {
+            "question": "I expected ………………………… to arrive but ………………………. didn’t.",
+            "description": "",
+            "answers": [
+                "he, he",
+                "him, he",
+                "him, him"
+            ],
+            "correct": 1,
+            "id": "c9bd770d6b784b57871bd86a8ed37e80"
+        },
+        {
+            "question": "I asked …………………………… what ………………………. problem was.",
+            "description": "",
+            "answers": [
+                "he, him",
+                "him, his",
+                "he, him"
+            ],
+            "correct": 1,
+            "id": "22cecf36aaf940c58103eefa351bca68"
+        },
+        {
+            "question": "You should have invited ………………………………",
+            "description": "Here the pronoun them is the object of the verb invited. Them is the object form of they. ",
+            "answers": [
+                "they",
+                "them",
+                "their"
+            ],
+            "correct": 1,
+            "id": "c2bbe8de892945e3bac66bc1cda9fafa"
+        },
+        {
+            "question": "I don’t know ………………………… personally.",
+            "description": "Her is the object form of she.",
+            "answers": [
+                "she",
+                "her",
+                "hers"
+            ],
+            "correct": 1,
+            "id": "d42d8f835dd64246a80ba4bb7c869ed6"
+        },
+        {
+            "question": "Will you do …………………………. a favour?",
+            "description": "",
+            "answers": [
+                "I",
+                "me",
+                "we"
+            ],
+            "correct": 1,
+            "id": "f2858402bb604e67896db5d165c8e7f8"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "id": "0a131c69aa1c488ba1647ea6ba57a7ad",
+    "title": "Object Pronoun Or Reflexive Pronoun",
+    "questions": [
+        {
+            "question": "I injured ............................. while playing football.",
+            "description": "The reflexive pronoun is used when the subject and object refer to the same person.",
+            "answers": [
+                "me",
+                "myself"
+            ],
+            "correct": 1,
+            "id": "253c8e9f847c40fe88d8126e83ee0ebe"
+        },
+        {
+            "question": "We got out of the river and dried ...................................",
+            "description": "The reflexive pronoun is used when the subject and object refer to the same person.",
+            "answers": [
+                "us",
+                "ourselves"
+            ],
+            "correct": 1,
+            "id": "3394b80f10904f72a4d5c8cec8954366"
+        },
+        {
+            "question": "I went to the shops to get .................................... some clothes.",
+            "description": "The reflexive pronoun is used when the subject and object refer to the same person.",
+            "answers": [
+                "me",
+                "myself"
+            ],
+            "correct": 1,
+            "id": "32f0003ba2724030ad36530c8696d9ae"
+        },
+        {
+            "question": "She likes to talk about .....................................",
+            "description": "The reflexive pronoun is used when the subject and object refer to the same person.",
+            "answers": [
+                "her",
+                "herself"
+            ],
+            "correct": 1,
+            "id": "74516fa9ed4e4bbdaf808e119bc8da45"
+        },
+        {
+            "question": "His stories are all about ...................................",
+            "description": "The reflexive pronoun is used when the subject and object refer to the same person.",
+            "answers": [
+                "him",
+                "himself"
+            ],
+            "correct": 1,
+            "id": "a00504efe2d54efe9dc84f3a6bcb31f5"
+        },
+        {
+            "question": "I wanted to see it ..................................",
+            "description": "When myself is used for emphasis, it is called an emphatic pronoun. ",
+            "answers": [
+                "myself",
+                "me",
+                "myselves"
+            ],
+            "correct": 0,
+            "id": "75a705e960f0475ab6cf9bc451577946"
+        },
+        {
+            "question": "She is so ill she can't walk .....................................",
+            "description": "The reflexive pronoun is used when the subject and object refer to the same person.",
+            "answers": [
+                "her",
+                "herself"
+            ],
+            "correct": 1,
+            "id": "f7db7a6b14784f8e899ce9cd5ca91f48"
+        },
+        {
+            "question": "I saw ……………………………… there yesterday.",
+            "description": "When the subject and object refer to different people or things we use an object pronoun as the object of the verb.",
+            "answers": [
+                "he",
+                "him",
+                "himself"
+            ],
+            "correct": 1,
+            "id": "b86da97bc96946ee94e9b458d93fb293"
+        },
+        {
+            "question": "I have invited ………………………………… to my party.",
+            "description": "When the subject and object refer to different people or things we use an object pronoun as the object of the verb.",
+            "answers": [
+                "they",
+                "them",
+                "themselves"
+            ],
+            "correct": 1,
+            "id": "2016398f21b94ffba6ef9cf2aa3e1619"
+        },
+        {
+            "question": "Rani has asked ………………………………. to accompany her.",
+            "description": "When the subject and object refer to different people or things we use an object pronoun as the object of the verb.",
+            "answers": [
+                "me",
+                "myself",
+                "I"
+            ],
+            "correct": 0,
+            "id": "9e11f0216fb542bbbf7f01b8e285feac"
+        },
+        {
+            "question": "He helped ………………………………. when we were in trouble",
+            "description": "When the subject and object refer to different people or things we use an object pronoun as the object of the verb.",
+            "answers": [
+                "we",
+                "us",
+                "ourselves"
+            ],
+            "correct": 1,
+            "id": "8b481f63cb62486094636c51194fe234"
+        },
+        {
+            "question": "They took ……………………………… home.",
+            "description": "When the subject and object refer to different people or things we use an object pronoun as the object of the verb.",
+            "answers": [
+                "he",
+                "him",
+                "himself"
+            ],
+            "correct": 1,
+            "id": "c61cb353901c4c7384e0f8841ed550f7"
+        }
+    ]
+}

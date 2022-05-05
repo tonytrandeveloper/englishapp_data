@@ -1,0 +1,134 @@
+{
+    "id": "8d1da5a1454d4c719b4d551ca7d3a9f3",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "What do you think of this dessert? I ......................... it.",
+            "description": "Like is not normally used in the continuous form.",
+            "answers": [
+                "like",
+                "am liking",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "2e092c1256b341afa8b58d2340e95505"
+        },
+        {
+            "question": "'Do you like cricket?' 'Yes, I .............................'",
+            "description": "Like requires an object. ",
+            "answers": [
+                "like",
+                "like it"
+            ],
+            "correct": 1,
+            "id": "9555b2f704dd47d28780f43b97f6fbf3"
+        },
+        {
+            "question": "Would you like .................................. with me?",
+            "description": "Would you like is followed by a to-infinitive.",
+            "answers": [
+                "dance",
+                "dancing",
+                "to dance"
+            ],
+            "correct": 2,
+            "id": "f7839f45f8c041e199779f8aadf84cf8"
+        },
+        {
+            "question": "He likes ............................... stray dogs.",
+            "description": "Like + to infinitive is used to talk about choices and habits.",
+            "answers": [
+                "feeding",
+                "to feed"
+            ],
+            "correct": 1,
+            "id": "ad64637aad924f2199ee7b916c8c1eee"
+        },
+        {
+            "question": "He likes ................................. in the sea.",
+            "description": "In British English, like + ing form is mainly used to talk about enjoyment. In American English, like + infinitive is more common.",
+            "answers": [
+                "swimming",
+                "to swim",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "8f1d3fe81eea4c41ab2488d379aba47e"
+        },
+        {
+            "question": "Do you mind if I ............................. a little early today?",
+            "description": "After do you mind, simple present is used in the if-clause. ",
+            "answers": [
+                "leave",
+                "left",
+                "am leaving"
+            ],
+            "correct": 0,
+            "id": "f2cf314f39ca402eab6ee9ac7d39f496"
+        },
+        {
+            "question": "Would you mind if I .......................... a friend along?",
+            "description": "A simple past tense is used after would you mind.",
+            "answers": [
+                "bring",
+                "brought",
+                "am bringing"
+            ],
+            "correct": 1,
+            "id": "4283f15de90741d797823946f0493b63"
+        },
+        {
+            "question": "Age brings wisdom but I .............................. stay young and stupid.",
+            "description": "Would rather shows preference. Prefer is followed by a to-infinitive. ",
+            "answers": [
+                "prefer",
+                "would rather",
+                "rather"
+            ],
+            "correct": 1,
+            "id": "2f54e7f3f66f4d9d869803a62ba55aa2"
+        },
+        {
+            "question": "He ................................. a singer.",
+            "description": "The verb marry does not take a preposition. ",
+            "answers": [
+                "married",
+                "married to",
+                "married with"
+            ],
+            "correct": 0,
+            "id": "9a5b654529cb466c9c5815d850d363cc"
+        },
+        {
+            "question": "He is .............................. a singer.",
+            "description": "The preposition to is used after be married. ",
+            "answers": [
+                "married to",
+                "married"
+            ],
+            "correct": 0,
+            "id": "42430c8ef10647e0a2875cf536e897ac"
+        },
+        {
+            "question": "He worked .......................... a bartender for six years.",
+            "description": "We use as to talk about people's roles.",
+            "answers": [
+                "like",
+                "as"
+            ],
+            "correct": 1,
+            "id": "0b40f5df4a6d479eb08a94621e5670ce"
+        },
+        {
+            "question": "It looks ............................... we are going to run into trouble all over again.",
+            "description": "",
+            "answers": [
+                "as",
+                "as if",
+                "as though"
+            ],
+            "correct": 2,
+            "id": "afb6a1884e7447f9b0c7b8d7c4c9d40c"
+        }
+    ]
+}

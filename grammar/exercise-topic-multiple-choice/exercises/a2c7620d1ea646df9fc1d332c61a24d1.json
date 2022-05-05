@@ -1,0 +1,113 @@
+{
+    "id": "a2c7620d1ea646df9fc1d332c61a24d1",
+    "title": "Nouns Exercise",
+    "questions": [
+        {
+            "question": "That kind of movies doesn’t give me any ........................",
+            "description": "",
+            "answers": [
+                "amuse",
+                "amusement",
+                "amusing"
+            ],
+            "correct": 1,
+            "id": "cc2b515003064f2087e8a187879974f3"
+        },
+        {
+            "question": "The .................................. of this article is $",
+            "description": "",
+            "answers": [
+                "cost",
+                "costs"
+            ],
+            "correct": 0,
+            "id": "e17a9b6932684099b32e014df61ecef2"
+        },
+        {
+            "question": "He is a .................................. to his family.",
+            "description": "",
+            "answers": [
+                "disgrace",
+                "disgraceful",
+                "disgraced"
+            ],
+            "correct": 0,
+            "id": "ecbc2337135a48a18394814687531224"
+        },
+        {
+            "question": "He put up a brave .........................................",
+            "description": "",
+            "answers": [
+                "fighting",
+                "fight"
+            ],
+            "correct": 1,
+            "id": "b5505258d4634d2c9ca0b1b63668b636"
+        },
+        {
+            "question": "He gave a curt .....................................",
+            "description": "",
+            "answers": [
+                "reply",
+                "replied",
+                "replying"
+            ],
+            "correct": 0,
+            "id": "47a5ffc0e006454eaabf72b7f89ca04f"
+        },
+        {
+            "question": "There is a slight .................................. between these two shades.",
+            "description": "",
+            "answers": [
+                "difference",
+                "different",
+                "differ"
+            ],
+            "correct": 0,
+            "id": "51c6bd98155a4ac8b1e1435a5fca1f2e"
+        },
+        {
+            "question": "I see him ..................................",
+            "description": "Daily is an adverb.",
+            "answers": [
+                "daily",
+                "every day"
+            ],
+            "correct": 1,
+            "id": "27551877e4ff4181bd937f178d8b5091"
+        },
+        {
+            "question": "He read the letter with .....................................",
+            "description": "",
+            "answers": [
+                "care",
+                "caring",
+                "careful"
+            ],
+            "correct": 0,
+            "id": "2b69daaefc55431c85e8358cede175a2"
+        },
+        {
+            "question": "Though the ant is small it has as much ..................................... as the elephant.",
+            "description": "",
+            "answers": [
+                "intelligence",
+                "intelligent",
+                "intelligently"
+            ],
+            "correct": 0,
+            "id": "ffd60a625d3e4d73826e0717aa387566"
+        },
+        {
+            "question": "He is so industrious that he wins everybody’s .......................................",
+            "description": "",
+            "answers": [
+                "admiration",
+                "admire",
+                "admiringly"
+            ],
+            "correct": 0,
+            "id": "bf49f53ce6364e7c96e91055e31c7f88"
+        }
+    ]
+}

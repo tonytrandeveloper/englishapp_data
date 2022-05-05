@@ -1,0 +1,126 @@
+{
+    "id": "d055fa331319427ebc6857410743bcf5",
+    "title": "He's = He Is Or He Has",
+    "questions": [
+        {
+            "question": "He's already arrived.",
+            "description": "He's can mean he is or he has. Here it means ‘he has’. ",
+            "answers": [
+                "He's = he is",
+                "He's = he has"
+            ],
+            "correct": 1,
+            "id": "7f5abb82fc2949c9b71ff7a207374f4c"
+        },
+        {
+            "question": "It's raining.",
+            "description": "It’s can mean it is or it has. Here it means ‘it is.’",
+            "answers": [
+                "It's = it is",
+                "It's = it has"
+            ],
+            "correct": 0,
+            "id": "4f3fa431a2ff4e7481259302089e9e75"
+        },
+        {
+            "question": "She's preparing for her exam.",
+            "description": "She’s can mean she is or she has. Here it means ‘she is’.",
+            "answers": [
+                "She's = she is",
+                "She's = she has"
+            ],
+            "correct": 0,
+            "id": "c208a271ffc84236a4b07b9a03f10bc8"
+        },
+        {
+            "question": "There's a problem with my phone.",
+            "description": "There’s can mean ‘there is’ or ‘there has’. Here it means ‘there is.’",
+            "answers": [
+                "There's = there is",
+                "There's = there has"
+            ],
+            "correct": 0,
+            "id": "7a1d86f4b22849c5abf1f0270f070ea1"
+        },
+        {
+            "question": "He's arriving in the afternoon.",
+            "description": "He’s can mean ‘he is’ or ‘he has’. Here it means ‘he is.’",
+            "answers": [
+                "He's = he is",
+                "He's = he has"
+            ],
+            "correct": 0,
+            "id": "eb767b98c05d4a25ac0490547dddf0ba"
+        },
+        {
+            "question": "He's received the report.",
+            "description": "He’s can mean he has or he is. Here it means he has.",
+            "answers": [
+                "He's = he is",
+                "He's = he has"
+            ],
+            "correct": 1,
+            "id": "2dcda66479cc433ea76c9849bdd3a951"
+        },
+        {
+            "question": "It's no longer important.",
+            "description": "It’s can mean it is or it has. Here it means it is.",
+            "answers": [
+                "It's = it is",
+                "It's = it has"
+            ],
+            "correct": 0,
+            "id": "5d5fdf271c244da797d0fb939af7530e"
+        },
+        {
+            "question": "He's finished working on the project.",
+            "description": "He’s can mean he is or he has. Here it means he has.",
+            "answers": [
+                "He's = he has",
+                "He's = he is"
+            ],
+            "correct": 0,
+            "id": "87a8fc0fdde9433590ac05d92afae741"
+        },
+        {
+            "question": "There's been an explosion near the temple.",
+            "description": "There’s can mean there is or there has. Here it means there has.",
+            "answers": [
+                "There's = there is",
+                "There's = there has"
+            ],
+            "correct": 1,
+            "id": "a9a0929321ab4c86a191c2ae4a2c97c8"
+        },
+        {
+            "question": "He's been living here for sixty years.",
+            "description": "He’s can mean he is or he has. Here it means he has.",
+            "answers": [
+                "He's = he is",
+                "He's = he has"
+            ],
+            "correct": 1,
+            "id": "0f5fa26d045d4e0daed2823cdf318170"
+        },
+        {
+            "question": "There's nothing left.",
+            "description": "",
+            "answers": [
+                "There's = there is",
+                "There's = there has"
+            ],
+            "correct": 0,
+            "id": "9e68dc1f17904fa2b92871642ae2f88e"
+        },
+        {
+            "question": "I It's now or never.",
+            "description": "",
+            "answers": [
+                "It's = it is",
+                "It's = it has"
+            ],
+            "correct": 0,
+            "id": "df72178e487c4912a469262e0327e8f1"
+        }
+    ]
+}

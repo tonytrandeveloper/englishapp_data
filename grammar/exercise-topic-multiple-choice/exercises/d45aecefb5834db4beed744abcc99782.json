@@ -1,0 +1,138 @@
+{
+    "id": "d45aecefb5834db4beed744abcc99782",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "I ………………….. a lot.",
+            "description": "We use the simple present to talk about habits, routines etc.",
+            "answers": [
+                "read",
+                "am reading",
+                "reads"
+            ],
+            "correct": 0,
+            "id": "8c2d667ba55649e19683051ccefc2539"
+        },
+        {
+            "question": "Sam ……………………… the letter yesterday.",
+            "description": "We use the simple past to talk about finished events.",
+            "answers": [
+                "posted",
+                "posts",
+                "has posted"
+            ],
+            "correct": 0,
+            "id": "5e5212f459884e148b1ef783744399ff"
+        },
+        {
+            "question": "I …………………….. the money tomorrow.",
+            "description": "The simple future is used to make promises.",
+            "answers": [
+                "will send",
+                "would send",
+                "send"
+            ],
+            "correct": 0,
+            "id": "73ece4de62db4e56874444a74ec0af05"
+        },
+        {
+            "question": "He ……………………….. for a walk in the morning.",
+            "description": "The simple present is used to talk about habits, routines etc.",
+            "answers": [
+                "goes",
+                "is going",
+                "has gone"
+            ],
+            "correct": 0,
+            "id": "22c252f09dfc4bfaa6d1efe643b3381f"
+        },
+        {
+            "question": "Sugar ………………………….. in water.",
+            "description": "The simple present is used to talk about general truths or facts.",
+            "answers": [
+                "dissolve",
+                "dissolves",
+                "is dissolving"
+            ],
+            "correct": 1,
+            "id": "969e785cfe174c97ab25b745c3b76f1c"
+        },
+        {
+            "question": "Fortune …………………………. the brave.",
+            "description": "The simple present is used to talk about general truths. ",
+            "answers": [
+                "favors",
+                "is favoring",
+                "favor"
+            ],
+            "correct": 0,
+            "id": "a23149ed50ff41a2830dd524838f94e2"
+        },
+        {
+            "question": "These flowers ……………………… good.",
+            "description": "The simple present is used to talk about facts. The verb smell is not normally used in the continuous form.",
+            "answers": [
+                "smell",
+                "are smelling",
+                "have smelled"
+            ],
+            "correct": 0,
+            "id": "631e4551da8a44a4aee3bbeeabb262fe"
+        },
+        {
+            "question": "She ………………………….. ill.",
+            "description": "The verb look is not normally used in the continuous form.",
+            "answers": [
+                "looks",
+                "is looking",
+                "has looked"
+            ],
+            "correct": 0,
+            "id": "f2d96eea15f849bcb50ce32b33f885c3"
+        },
+        {
+            "question": "I still remember the story that you ………………………… me last month.",
+            "description": "",
+            "answers": [
+                "told",
+                "have told",
+                "were telling"
+            ],
+            "correct": 0,
+            "id": "3ca1a66c00e144079218f74af4e5511e"
+        },
+        {
+            "question": "They …………………………. to a hill tribe.",
+            "description": "Belong is not normally used in the continuous form. ",
+            "answers": [
+                "belong",
+                "have belonged",
+                "are belonging"
+            ],
+            "correct": 0,
+            "id": "142bf2792dcc44289b9775a4ca039cff"
+        },
+        {
+            "question": "I ………………………….. him to be trustworthy.",
+            "description": "Consider is not normally used in the continuous form. ",
+            "answers": [
+                "consider",
+                "am considering",
+                "have considered"
+            ],
+            "correct": 0,
+            "id": "15222958fed146008d0684dbc3658fa7"
+        },
+        {
+            "question": "This bundle ……………………….. 100 sticks.",
+            "description": "The verb contain is not normally used in the continuous form. ",
+            "answers": [
+                "contains",
+                "is containing",
+                "has contained"
+            ],
+            "correct": 0,
+            "id": "ce7046d797a641f4bcb1b79b19421c34"
+        }
+    ]
+}

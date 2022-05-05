@@ -1,0 +1,134 @@
+{
+    "id": "208de2e063174fa88269dac153d5dc60",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "He was loved and respected by the people ...................................",
+            "description": "Prepositions can come either before relative pronouns or at the end of relative clauses.",
+            "answers": [
+                "that he worked with",
+                "Either could be used here",
+                "with whom he worked"
+            ],
+            "correct": 1,
+            "id": "aeec9220fb2744e38891ed5c8549a6a3"
+        },
+        {
+            "question": "This is the house .............................. I was born.",
+            "description": "In relative clauses 'where' can be used instead of 'in which'.",
+            "answers": [
+                "where",
+                "in which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "ed95734cb43e4ace874f68dce30439c7"
+        },
+        {
+            "question": "In that year she met James, ....................... she was later to marry.",
+            "description": "Whom is the correct option here, but who is also possible in an informal style.",
+            "answers": [
+                "whom",
+                "who",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "2cb44adc40274f37ab5d45755c6e049d"
+        },
+        {
+            "question": "Is this all ........................... is left?",
+            "description": "After quantifiers like all, every, some and any, we prefer 'that' to 'which'.",
+            "answers": [
+                "that",
+                "which"
+            ],
+            "correct": 0,
+            "id": "05cb5c6a3d5d49758d02c94ddaca875d"
+        },
+        {
+            "question": "It is the best film ................................ has ever been made about dementia.",
+            "description": "After superlatives, we prefer 'that' to 'which'.",
+            "answers": [
+                "which",
+                "that"
+            ],
+            "correct": 1,
+            "id": "1265383c9be847f69ab5744efbcc790c"
+        },
+        {
+            "question": "All ............................. you say is true.",
+            "description": "What cannot be used instead of that.",
+            "answers": [
+                "that",
+                "what"
+            ],
+            "correct": 0,
+            "id": "8b5ad33d248d46c48e0080effd778edd"
+        },
+        {
+            "question": "I saw a girl .................................. beauty took my breath away.",
+            "description": "Whose is a relative possessive word used before nouns in the same way as his, her, its or their.",
+            "answers": [
+                "whom",
+                "which",
+                "whose"
+            ],
+            "correct": 2,
+            "id": "29838eafe78f407c82f7d203d2a84eab"
+        },
+        {
+            "question": "He has launched a business .....................………. I have forgotten.",
+            "description": "Instead of whose, we can use of which",
+            "answers": [
+                "whose name",
+                "the name of which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "f688549c680d4fd7a683729812aa838b"
+        },
+        {
+            "question": "..................... she said made me angry.",
+            "description": "What means the things which.",
+            "answers": [
+                "What",
+                "That",
+                "Which"
+            ],
+            "correct": 0,
+            "id": "12e0e026f451443d879cac603e8b6a42"
+        },
+        {
+            "question": "The only thing ……………….. keeps me awake is coffee.",
+            "description": "'What' can only be used to mean ‘the things which’.",
+            "answers": [
+                "that",
+                "what"
+            ],
+            "correct": 0,
+            "id": "30e4fa39495c47429e5427d1cf40bde8"
+        },
+        {
+            "question": "We have …………………. we need.",
+            "description": "That which is possible here but it is unusual in modern English.",
+            "answers": [
+                "what",
+                "that which",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "3e1bde27c11240f387f9a3cb83fccd16"
+        },
+        {
+            "question": "He got married again a few months later, ..................... .. surprised everybody.",
+            "description": "Which can refer to the whole of a relative clause.",
+            "answers": [
+                "which",
+                "that",
+                "what"
+            ],
+            "correct": 0,
+            "id": "62b82a81d3dd4ffa8cf9f8e7541459d5"
+        }
+    ]
+}

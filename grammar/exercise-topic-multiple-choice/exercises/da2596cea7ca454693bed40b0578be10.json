@@ -1,0 +1,136 @@
+{
+    "id": "da2596cea7ca454693bed40b0578be10",
+    "title": "Gap Filling Grammar Exercise",
+    "questions": [
+        {
+            "question": "What you said ……………………… unpardonable.",
+            "description": "Here the subject is the noun clause 'what you said'. When the subject is a clause, the verb is usually singular. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "49ead14b7259464f9d97630b9f36b4e9"
+        },
+        {
+            "question": "They spoke in a low voice lest they ………………………. wake up the baby.",
+            "description": "Should is the only auxiliary that can be used after lest. ",
+            "answers": [
+                "would",
+                "could",
+                "should"
+            ],
+            "correct": 2,
+            "id": "c75eb426d1464d5d8351730a8103e03e"
+        },
+        {
+            "question": "I have invited them ……………………. dinner.",
+            "description": "",
+            "answers": [
+                "to",
+                "for",
+                "on"
+            ],
+            "correct": 0,
+            "id": "d2f48b348296473c82f7035064cb1fdb"
+        },
+        {
+            "question": "If you had called her, she ……………………… happy.",
+            "description": "In the third conditional, use a past perfect tense in the if-clause and would have + past participle in the main clause. ",
+            "answers": [
+                "will be",
+                "would be",
+                "would have been"
+            ],
+            "correct": 2,
+            "id": "1592270e74ed45f8aafbaf093b567c4d"
+        },
+        {
+            "question": "Which of the following words does not have a plural form?",
+            "description": "",
+            "answers": [
+                "Accommodation",
+                "Pleasure",
+                "Addiction"
+            ],
+            "correct": 0,
+            "id": "cd4b64592b284d2b969a805ea2c26862"
+        },
+        {
+            "question": "Smoking is injurious to health. Here smoking is a ………………….",
+            "description": "Ing forms used as the subject of a clause is a gerund. ",
+            "answers": [
+                "Present participle",
+                "Adjective",
+                "Gerund"
+            ],
+            "correct": 2,
+            "id": "288c42acd7d34d73b623ea6a0905698e"
+        },
+        {
+            "question": "There is a cottage ……………………… the river.",
+            "description": "Above is preferred when one thing is not directly over another. ",
+            "answers": [
+                "over",
+                "above",
+                "across"
+            ],
+            "correct": 1,
+            "id": "2e11ddf0b82946acb8322c93dd882614"
+        },
+        {
+            "question": "Nobody came, ……………………?",
+            "description": "Affirmative tags are used after negative expressions like nobody. In question tags, use they to refer to nobody, somebody, anybody. ",
+            "answers": [
+                "did nobody",
+                "did they",
+                "didn't they"
+            ],
+            "correct": 1,
+            "id": "af7731074aee430b8d206ec58521b353"
+        },
+        {
+            "question": "Neither fish nor meat …………………….. with me.",
+            "description": "When you connect two singular subjects with neither/nor, the verb is singular. ",
+            "answers": [
+                "agrees",
+                "agree"
+            ],
+            "correct": 0,
+            "id": "c95234e6d3ff485caecfc75e0a0a4d89"
+        },
+        {
+            "question": "To ruffle feathers is to ………………….",
+            "description": "",
+            "answers": [
+                "encourage people",
+                "excite people",
+                "upset people"
+            ],
+            "correct": 2,
+            "id": "fea78c274ff145a0a40fbae85bda157e"
+        },
+        {
+            "question": "Call them at once. Change into passive.",
+            "description": "We use let to change imperatives into passive. ",
+            "answers": [
+                "They be called at once.",
+                "Let them be called at once.",
+                "They should be called at once."
+            ],
+            "correct": 1,
+            "id": "76227c5d72d04fa4aee28b93fa261804"
+        },
+        {
+            "question": "My sister …………………….. abroad.",
+            "description": "The simple present is used to talk about permanent living arrangements. ",
+            "answers": [
+                "is living",
+                "lives",
+                "live"
+            ],
+            "correct": 1,
+            "id": "4ab8a7c3dc6b4fcca403a102ab72915e"
+        }
+    ]
+}

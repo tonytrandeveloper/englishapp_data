@@ -1,0 +1,306 @@
+{
+    "id": "7248686408874051ae47a47cbb12912d",
+    "title": "Reported Wh Questions",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Why is Julie sad?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me why Julie was sad."
+                    ]
+                }
+            ],
+            "id": "65f936e0bc1945b9910a306718ad2ba3"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"What's for dinner?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me what was for dinner."
+                    ]
+                }
+            ],
+            "id": "c1aaec071b994709854ef6924a1d7a46"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Who is the woman in the red dress?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me who the woman in the red dress was."
+                    ]
+                }
+            ],
+            "id": "7dd168b15e6c485fba413751d3a22cc2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How is your grandmother?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me how my grandmother was."
+                    ]
+                }
+            ],
+            "id": "437956f9d6e84051a17d34a53a637a20"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"When is the party?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me when the party was."
+                    ]
+                }
+            ],
+            "id": "fee69da1cb5a4e30b2a945b798febcd8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How much is the rent on your flat?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me how much the rent on my flat was."
+                    ]
+                }
+            ],
+            "id": "40bb530ce19b463fbee459c54637622a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Where are the glasses?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me where the glasses were."
+                    ]
+                }
+            ],
+            "id": "e50f254ad4794adfad9688a8fb0e09c0"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How is the weather in Chicago?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me how the weather in Chicago was."
+                    ]
+                }
+            ],
+            "id": "551f05ceddcf48149336e0f296c2b7f5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Who is the Prime Minister of Canada?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me who the Prime Minister of Canada was."
+                    ]
+                }
+            ],
+            "id": "3fb8b8000f77443595b29ff47c5592fd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Where do you usually go swimming?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me where I usually went swimming."
+                    ]
+                }
+            ],
+            "id": "4831bffe1f8d42efb6f099a8506c9fd8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"What does Luke do at the weekend?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me what Luke did at the weekend."
+                    ]
+                }
+            ],
+            "id": "c9df6055f9814400bff38ecd8fbfa519"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Where do your parents live?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me where my parents lived."
+                    ]
+                }
+            ],
+            "id": "db36d1cd4b554eeab5ebc85bba49ee24"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Who do you go running with?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me who I went running with."
+                    ]
+                }
+            ],
+            "id": "5c56ca8462a24a4db937d4d3b775657c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"When does Lucy get up?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me when Lucy got up."
+                    ]
+                }
+            ],
+            "id": "470c419a619745c5a255c6ada3a34ba6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How much TV do you watch?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me how much TV I watched."
+                    ]
+                }
+            ],
+            "id": "f198b9a2711a458eb968f5965dd5ecda"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How many books do they own?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me how many books they owned."
+                    ]
+                }
+            ],
+            "id": "68a7a5951c3a4f5b8e307a5e608f9737"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Where does John work?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me where John worked."
+                    ]
+                }
+            ],
+            "id": "bdb2e19fa71447b794fe569a13ccd46e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"What do the children study on Fridays?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me what the children studied on Fridays."
+                    ]
+                }
+            ],
+            "id": "38788d15bb614171bfa0e06d045657e2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Why do you study English?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me why I studied English."
+                    ]
+                }
+            ],
+            "id": "809de1b5da4245f891dddaf10bd5c896"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Where is the post office?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me where the post office was."
+                    ]
+                }
+            ],
+            "id": "848fb142303f442db2e9e4f223ab6d6c"
+        }
+    ]
+}

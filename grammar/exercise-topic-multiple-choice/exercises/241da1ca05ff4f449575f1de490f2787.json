@@ -1,0 +1,82 @@
+{
+    "id": "241da1ca05ff4f449575f1de490f2787",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Have you got anything ............................... belongs to me?",
+            "description": "",
+            "answers": [
+                "that",
+                "which"
+            ],
+            "correct": 0,
+            "id": "c37609ba1f4d4337a7dc4c4fbc31a5f8"
+        },
+        {
+            "question": "This is Mr. Mathews, ................................ is joining us next week.",
+            "description": "",
+            "answers": [
+                "that",
+                "who",
+                "whom"
+            ],
+            "correct": 1,
+            "id": "78f8e6afbc654ebf836a9ef326fd5e8c"
+        },
+        {
+            "question": "Ruth, .................................. does my hair, has moved to another hairdresser’s.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "that"
+            ],
+            "correct": 0,
+            "id": "b9ab2bdca48648509a4966e461da2008"
+        },
+        {
+            "question": "I hope the little .................................. I have done has been useful.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "what"
+            ],
+            "correct": 1,
+            "id": "127f6c3b308e4b0d81a602b1e37246a7"
+        },
+        {
+            "question": "He got married a year later, ................................. surprised everybody.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "what"
+            ],
+            "correct": 0,
+            "id": "a9ba727791774819b64462bba201d539"
+        },
+        {
+            "question": "What is the name of the fat woman ................................ just came in?",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "7697e59034cb4c83a3ba74edae9ccdd6"
+        },
+        {
+            "question": "The idea ................................ she put forward was interesting.",
+            "description": "",
+            "answers": [
+                "which",
+                "whom",
+                "what"
+            ],
+            "correct": 0,
+            "id": "9ac967bfca744fd19b28a0cc889b8ae6"
+        }
+    ]
+}

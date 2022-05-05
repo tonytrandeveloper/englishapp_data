@@ -1,0 +1,138 @@
+{
+    "id": "3a4ff8e3e3334eb181a12ce76784d879",
+    "title": "Tenses quiz",
+    "questions": [
+        {
+            "question": "This time tomorrow, I ............................... on the beach.",
+            "description": "To say that an activity will be in progress at a particular time in the future, we use the future continuous tense.",
+            "answers": [
+                "am lying",
+                "will lie",
+                "will be lying"
+            ],
+            "correct": 2,
+            "id": "28f2eaf8e1eb4f5ca275063ecff2ba48"
+        },
+        {
+            "question": "She said that she ....................... help me.",
+            "description": "When the verb in the main clause is in the past tense, we use a past tense in the subordinate clause as well.",
+            "answers": [
+                "will",
+                "shall",
+                "would"
+            ],
+            "correct": 2,
+            "id": "9b9c98088f624ed5964a405f1781b4e9"
+        },
+        {
+            "question": "Phone me when you ............................ time.",
+            "description": "In many subordinate clauses we use the present tenses to refer to the future. ",
+            "answers": [
+                "have",
+                "would have",
+                "will have"
+            ],
+            "correct": 0,
+            "id": "ae9a0c71c4e64536aa6b5c9bffee374e"
+        },
+        {
+            "question": "I will follow you wherever you ...........................",
+            "description": "When the verb in the main clause is in the future tense, we use a present tense in the subordinate clause to refer to future. ",
+            "answers": [
+                "go",
+                "goes",
+                "will go"
+            ],
+            "correct": 0,
+            "id": "e35e1ca696fb4c40ae6819d4162f2e30"
+        },
+        {
+            "question": "You ........................... an accident if you go on driving like that.",
+            "description": "In conditional sentences, when the verb in the if-clause is in the simple present tense, we use will + infinitive in the main clause.",
+            "answers": [
+                "are having",
+                "will have",
+                "would have"
+            ],
+            "correct": 1,
+            "id": "57e8d8716d5c433583b9b73cc48c681f"
+        },
+        {
+            "question": "When you phoned, I ................................. in the garage.",
+            "description": "We use the past continuous to talk about a past event that was going on a particular time in the past. ",
+            "answers": [
+                "worked",
+                "am working",
+                "was working"
+            ],
+            "correct": 2,
+            "id": "0129e78974b643cb88e10189b597101a"
+        },
+        {
+            "question": "I .............................. all my childhood in South India.",
+            "description": "The simple past is the normal tense for talking about the past. We use it when we don't have a special reason to use another tense. ",
+            "answers": [
+                "was spending",
+                "spend",
+                "spent"
+            ],
+            "correct": 2,
+            "id": "dd3f25befb6942e9b39803e745d1ef9c"
+        },
+        {
+            "question": "The phone ......................... while I was having a bath.",
+            "description": "We use the simple past to refer to shorter actions that happen in the middle of a longer action.",
+            "answers": [
+                "rings",
+                "rang",
+                "was ringing"
+            ],
+            "correct": 1,
+            "id": "b53145199e624fe08b753e4c3b458db2"
+        },
+        {
+            "question": "I tried a little of the soup to see how it ..........................",
+            "description": "Some verbs are not normally used in the continuous form. Taste is one of them.",
+            "answers": [
+                "tastes",
+                "is tasting",
+                "tasted"
+            ],
+            "correct": 2,
+            "id": "12f4834094f24ebdb8d818d1a85877be"
+        },
+        {
+            "question": "When we were children we ............................. our own toys.",
+            "description": "We use the simple past to talk about habitual past actions.",
+            "answers": [
+                "were making",
+                "made",
+                "had made"
+            ],
+            "correct": 1,
+            "id": "5cc6c9d1a2d84af8b6b5e0111aa8175b"
+        },
+        {
+            "question": "I can't dance because I ........................... my leg.",
+            "description": "The present tense is used to say that a finished action is connected with the present in some way.",
+            "answers": [
+                "have broken",
+                "broke",
+                "had broken"
+            ],
+            "correct": 0,
+            "id": "dd873781c14a425e9ad87ae2a831d529"
+        },
+        {
+            "question": "I .......................... the bell six times but no one opened the door.",
+            "description": "We use the simple past to talk about repeated past actions.",
+            "answers": [
+                "was ringing",
+                "have rung",
+                "rang"
+            ],
+            "correct": 2,
+            "id": "829d8482971c461d9150beb1c237f152"
+        }
+    ]
+}

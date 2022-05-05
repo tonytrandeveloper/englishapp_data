@@ -1,0 +1,126 @@
+{
+    "id": "82ad29b3fa284e8bb8725515f2ba617c",
+    "title": "Because And Because Of | Grammar Exercise",
+    "questions": [
+        {
+            "question": "We cancelled the trip ........................... the rain.",
+            "description": "Because is a conjunction. It should be followed by a clause. Because of is a preposition. It is followed by a noun. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "6d4629743c0242b2bafb866fc987619a"
+        },
+        {
+            "question": "It was ............................... you that I got into trouble.",
+            "description": "Because is a conjunction. It should be followed by a clause. Because of is a preposition. It is followed by a noun or pronoun which acts as its object. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "d9f58867f01b4ad981bc942e27233c0d"
+        },
+        {
+            "question": "We hurried indoors ........................... it started raining.",
+            "description": "Because is a conjunction. It should be followed by a clause. Because of is a preposition. It is followed by a noun or pronoun which acts as its object",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "f88cf59af18741cf8041d98617bc86ec"
+        },
+        {
+            "question": "I was late ........................... I missed the train.",
+            "description": "Here the conjunction because is followed by the clause 'I missed the train'. Because is a conjunction. It should be followed by a clause. Because of is a preposition. It is followed by a noun or pronoun which acts as its object",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "20fc7e008f6643e6bac7a40221fe1ef1"
+        },
+        {
+            "question": "We couldn't work .............................. the power outage.",
+            "description": "Because is a conjunction. It should be followed by a clause. Because of is a preposition. It is followed by a noun or pronoun which acts as its object. Here the noun phrase 'the power outage' is the object of the preposition 'because of.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "39e5416b172641bfa259587534bbe878"
+        },
+        {
+            "question": "I passed the test easily ........................... I had studied well.",
+            "description": "Because is a conjunction. It should be followed by a clause. Because of is a preposition. It is followed by a noun or pronoun which acts as its object",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "cf2ecd5691d1460ca247fd8a6b2617a6"
+        },
+        {
+            "question": "She can't walk ........................... arthritis.",
+            "description": "Because of is a preposition and as such it needs a noun or pronoun after it. Arthritis is a noun. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "392a8df0967a44bfb5dc52f24b0bf528"
+        },
+        {
+            "question": "Hundreds of people lost their jobs .............................. recession.",
+            "description": "Because is a conjunction. It should be followed by a clause. Because of is a preposition. It is followed by a noun or pronoun which acts as its object",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "e6f8288ce92c4720bd25b627fa3f227d"
+        },
+        {
+            "question": "He found working in China quite difficult ............................. he didn't understand Chinese.",
+            "description": "Because is a conjunction. It should be followed by a clause. Because of is a preposition. It is followed by a noun or pronoun which acts as its object.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "c9669f02e0784808beae857e4b5f9b80"
+        },
+        {
+            "question": "We couldn't understand him ........................... his accent.",
+            "description": "Because is a conjunction. It should be followed by a clause. Because of is a preposition. It is followed by a noun or pronoun which acts as its object. Here the expression 'his accent' acts as the object of the preposition 'because of'.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "36987721f25e4202822a1135cea312c9"
+        },
+        {
+            "question": "She quit her job ............................... she wanted to spend more time with her children.",
+            "description": "Before a clause, we use 'because'.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "7c64570371d14f5cb6fa9e36ddafe7e5"
+        },
+        {
+            "question": "She ate only a salad ............................. she is a vegetarian.",
+            "description": "Because is a conjunction. It should be followed by a clause. Because of is a preposition. It is followed by a noun or pronoun which acts as its object.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0,
+            "id": "b56b0c09e5a34a1494d9a01f678bc0f4"
+        }
+    ]
+}

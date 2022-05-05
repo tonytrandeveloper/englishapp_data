@@ -1,0 +1,126 @@
+{
+    "id": "c850cf0b60e940b59384b50d6a46a6fd",
+    "title": "Since vs. For",
+    "questions": [
+        {
+            "question": "They have been living here ...................................... six years.",
+            "description": "For indicates duration. It is used with a period of time.",
+            "answers": [
+                "for",
+                "since"
+            ],
+            "correct": 0,
+            "id": "afd8f85837e344f3a684a5412ca95796"
+        },
+        {
+            "question": "I have been working in this office .................................... July.",
+            "description": "Since indicates the starting point of something.",
+            "answers": [
+                "for",
+                "since"
+            ],
+            "correct": 1,
+            "id": "3808b841414d4b8ba02641bf792b4f6d"
+        },
+        {
+            "question": "I haven't seen him ..................................... Monday.",
+            "description": "Since indicates the starting point of something.",
+            "answers": [
+                "since",
+                "for"
+            ],
+            "correct": 0,
+            "id": "812c1058790f4639b8f0e38416e256a3"
+        },
+        {
+            "question": "It has been a long time ...................................... I watched a movie.",
+            "description": "Since indicates the starting point of something.",
+            "answers": [
+                "since",
+                "for"
+            ],
+            "correct": 0,
+            "id": "e994a6c90e6f48379eaa67f9d9ffc410"
+        },
+        {
+            "question": "She has been learning English .................................. six months.",
+            "description": "For indicates duration. It is used with a period of time.",
+            "answers": [
+                "since",
+                "for"
+            ],
+            "correct": 1,
+            "id": "1fb206226a2c48638fd584b8ba16f0b9"
+        },
+        {
+            "question": "I have known him ..................................... our school days.",
+            "description": "Since indicates the starting point of something.",
+            "answers": [
+                "for",
+                "since"
+            ],
+            "correct": 1,
+            "id": "815b0afa7521468ca19983723d0f2a0a"
+        },
+        {
+            "question": "It hasn't stopped raining ......................................... yesterday.",
+            "description": "Since indicates the starting point of something.",
+            "answers": [
+                "since",
+                "for"
+            ],
+            "correct": 0,
+            "id": "6ebc15a3b3e14af9a41efd3ca4b0ecac"
+        },
+        {
+            "question": "She has been unemployed ......................................... she left college.",
+            "description": "Since indicates the starting point of something.",
+            "answers": [
+                "since",
+                "for"
+            ],
+            "correct": 0,
+            "id": "615fede031d84e4c8cb6a9cf4019ed4b"
+        },
+        {
+            "question": "It has been a long time ....................................... we last met.",
+            "description": "Since indicates the starting point of something.",
+            "answers": [
+                "since",
+                "for"
+            ],
+            "correct": 0,
+            "id": "80b112a3443946c9890e8ac068582a0d"
+        },
+        {
+            "question": "She has been unhappy ......................................... her divorce.",
+            "description": "Since indicates the starting point of something.",
+            "answers": [
+                "since",
+                "for"
+            ],
+            "correct": 0,
+            "id": "b35c43fbf10646a0b9544acd4bc62eba"
+        },
+        {
+            "question": "I have worked hard ........................................ years.",
+            "description": "For indicates duration. It is used with a period of time.",
+            "answers": [
+                "for",
+                "since"
+            ],
+            "correct": 0,
+            "id": "8d522afd3dc04ec4a6eacfcd4e9b61b6"
+        },
+        {
+            "question": "I haven't seen him .......................................... a long time.",
+            "description": "For indicates duration. It is used with a period of time.",
+            "answers": [
+                "for",
+                "since"
+            ],
+            "correct": 0,
+            "id": "cd4541d3422a46dc9b3474584c761f8e"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": "710413737bfb4c02874a1e6367a83cad",
+    "title": "Modal Auxiliary Verbs Exercise",
+    "questions": [
+        {
+            "question": "…………………….. you mind posting this letter for me?",
+            "description": "Would is used in polite requests.",
+            "answers": [
+                "Could",
+                "Would",
+                "Should"
+            ],
+            "correct": 1,
+            "id": "6b104ea01294419baa1922346c120bc2"
+        },
+        {
+            "question": "…………………… you lend me your bicycle?",
+            "description": "Will is used in polite requests.",
+            "answers": [
+                "Shall",
+                "Will",
+                "May"
+            ],
+            "correct": 1,
+            "id": "cfc823ce1b50401d8b2067325851bb14"
+        },
+        {
+            "question": "You ……………………….. not come to my door again.",
+            "description": "Shall can express an order when used with second and third person pronouns.",
+            "answers": [
+                "will",
+                "shall",
+                "would"
+            ],
+            "correct": 1,
+            "id": "76fa3641a0d140ab876efd0d79927537"
+        },
+        {
+            "question": "You ……………………….. regret this.",
+            "description": "When used with second and third person pronouns, shall can express a threat. ",
+            "answers": [
+                "shall",
+                "may",
+                "can"
+            ],
+            "correct": 0,
+            "id": "dccce6a974b64242b462cf16eefd670e"
+        },
+        {
+            "question": "What ……………………….. we do now?",
+            "description": "Shall can be used to request instruction.",
+            "answers": [
+                "will",
+                "shall",
+                "can"
+            ],
+            "correct": 1,
+            "id": "e4720fa9deb54427ac20d3c5a349b0f0"
+        },
+        {
+            "question": "Parents ………………………… teach their children to be honest.",
+            "description": "Should expresses duty.",
+            "answers": [
+                "shall",
+                "should",
+                "would"
+            ],
+            "correct": 1,
+            "id": "c0ec11e359344ac488532d87746f46ee"
+        },
+        {
+            "question": "He …………………………. take rest if he is tired.",
+            "description": "We can use can to express permission.",
+            "answers": [
+                "would",
+                "can",
+                "shall"
+            ],
+            "correct": 1,
+            "id": "ca97b45ecd6042c98194101cd4950e44"
+        },
+        {
+            "question": "You ………………………….. have told me before borrowing my car.",
+            "description": "The expression should have is used to criticize people for not doing things.",
+            "answers": [
+                "would",
+                "should",
+                "might"
+            ],
+            "correct": 1,
+            "id": "2bd4b577e6a4486cae81265347589a89"
+        },
+        {
+            "question": "The students asked if they ………………………. go home early.",
+            "description": "",
+            "answers": [
+                "would",
+                "could",
+                "can"
+            ],
+            "correct": 1,
+            "id": "fe0f15ac9e16435b9b4de75085994eee"
+        },
+        {
+            "question": "I ………………………… run faster when I was younger.",
+            "description": "Could indicates past ability.",
+            "answers": [
+                "would",
+                "should",
+                "could"
+            ],
+            "correct": 2,
+            "id": "10153bb69a45475ea9d788a2427e8ea6"
+        },
+        {
+            "question": "You …………………………. not light a match. Gas is leaking.",
+            "description": "Must indicates prohibition.",
+            "answers": [
+                "must",
+                "should",
+                "could"
+            ],
+            "correct": 0,
+            "id": "af61b72a918142efbc0127d2497d9efb"
+        },
+        {
+            "question": "I …………………………. smoke before I fell ill.",
+            "description": "We use used to to talk about past habits. ",
+            "answers": [
+                "was used to",
+                "used to"
+            ],
+            "correct": 1,
+            "id": "63b336cc03194591b39e4c7d017cbd44"
+        }
+    ]
+}

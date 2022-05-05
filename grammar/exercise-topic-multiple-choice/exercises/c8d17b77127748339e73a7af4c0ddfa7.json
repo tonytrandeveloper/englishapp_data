@@ -1,0 +1,140 @@
+{
+    "id": "c8d17b77127748339e73a7af4c0ddfa7",
+    "title": "Degrees Of Comparison Quiz",
+    "questions": [
+        {
+            "question": "He is ……………………… man in his village.",
+            "description": "Eldest is used to speak of people of a family. The superlative form is required here. ",
+            "answers": [
+                "the eldest",
+                "the oldest",
+                "the older"
+            ],
+            "correct": 1,
+            "id": "f129a39bd44048a2a97c78cb757c96e1"
+        },
+        {
+            "question": "This is …………………. botanical garden in the country.",
+            "description": "The superlative form is used to compare a person or thing with the whole group they belong to.",
+            "answers": [
+                "the large",
+                "the larger",
+                "the largest"
+            ],
+            "correct": 2,
+            "id": "93ff8d8f10d1427c92c6771617bc7f31"
+        },
+        {
+            "question": "She is …………………………. than you think.",
+            "description": "Cleverer is the comparative form of clever. ",
+            "answers": [
+                "more clever",
+                "cleverer",
+                "more cleverer"
+            ],
+            "correct": 1,
+            "id": "245e874a1a284b74baf264f00fbdc1d8"
+        },
+        {
+            "question": "A deer is not as ………………………. as a tiger.",
+            "description": "Use the positive form of the adjective in the construction as...as....",
+            "answers": [
+                "fast",
+                "faster",
+                "fastest"
+            ],
+            "correct": 0,
+            "id": "db1e6d4c38cc41eaa5c54a2af8eefa69"
+        },
+        {
+            "question": "She is as …………………………. as you are.",
+            "description": "Use the positive form of the adjective in the structure as...as...",
+            "answers": [
+                "intelligent",
+                "more intelligent",
+                "intelligenter"
+            ],
+            "correct": 0,
+            "id": "074a25ce5014480096b8fe5164ae1a88"
+        },
+        {
+            "question": "A crow is ……………………….. than a peacock.",
+            "description": "",
+            "answers": [
+                "clever",
+                "cleverer",
+                "cleverest"
+            ],
+            "correct": 1,
+            "id": "9456e3a7a98a4f7eb773c50f73e1599a"
+        },
+        {
+            "question": "Platinum is ……………………… than gold.",
+            "description": "Costlier is the comparative form of costly.",
+            "answers": [
+                "costly",
+                "costlier",
+                "more costly",
+                "more costlier"
+            ],
+            "correct": 1,
+            "id": "37bf80c6b1dc4562b0c4e28c9cca02d2"
+        },
+        {
+            "question": "She was …………………….. than I thought.",
+            "description": "Younger is the comparative form of young.",
+            "answers": [
+                "young",
+                "more young",
+                "younger"
+            ],
+            "correct": 2,
+            "id": "22f267146e0d4d60bdd818bdf7593105"
+        },
+        {
+            "question": "Iron is ………………………. than copper.",
+            "description": "More useful is the comparative form of useful",
+            "answers": [
+                "usefuller",
+                "more useful",
+                "more usefuller"
+            ],
+            "correct": 1,
+            "id": "31e3a96599c541a9b32e2367283af0dc"
+        },
+        {
+            "question": "Iron is ………………………….. metal.",
+            "description": "",
+            "answers": [
+                "most useful",
+                "the most useful",
+                "usefullest",
+                "the usefullest"
+            ],
+            "correct": 1,
+            "id": "f518092c202e484692b68a105a484272"
+        },
+        {
+            "question": "She is ………………………. than her sister.",
+            "description": "",
+            "answers": [
+                "more pretty",
+                "prettier",
+                "more prettier"
+            ],
+            "correct": 1,
+            "id": "c631af4c397b45aeaab7f1ac70543099"
+        },
+        {
+            "question": "You might think you are ………………………. than him but you aren’t",
+            "description": "",
+            "answers": [
+                "smart",
+                "more smart",
+                "smarter"
+            ],
+            "correct": 2,
+            "id": "fa7a263f089a4bc38f84cc53e3c1500a"
+        }
+    ]
+}

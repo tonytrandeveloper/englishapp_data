@@ -1,0 +1,135 @@
+{
+    "id": "1ff334999fc54088a121498359fbc1ce",
+    "title": "Do, Does vs. Did",
+    "questions": [
+        {
+            "question": "What ……………………………… you do then?",
+            "description": "Then is a past time expression hence, use the past verb here.",
+            "answers": [
+                "do",
+                "did",
+                "does"
+            ],
+            "correct": 1,
+            "id": "859d075643b44ad085151cbb72d22a10"
+        },
+        {
+            "question": "How …………………………. you operate a washing machine?",
+            "description": "Use do with you.",
+            "answers": [
+                "do",
+                "does",
+                "did"
+            ],
+            "correct": 0,
+            "id": "593b95060f4744728859a174f954c967"
+        },
+        {
+            "question": "Where ………………………….. she live?",
+            "description": "Use does with singular subjects like he, she, it.",
+            "answers": [
+                "does",
+                "do",
+                "did"
+            ],
+            "correct": 0,
+            "id": "99e01a2fd04f41e0876865a4905b7c7c"
+        },
+        {
+            "question": "Whom ………………………….. you want to meet?",
+            "description": "",
+            "answers": [
+                "do",
+                "does",
+                "did"
+            ],
+            "correct": 0,
+            "id": "3d0cab00d1764e7bb5e5f2bf1de7dbf7"
+        },
+        {
+            "question": "He said that he ……………………………. know the answer.",
+            "description": "When the main verb is in the past tense, use a past tense in the subordinate clause as well.",
+            "answers": [
+                "doesn't",
+                "didn't",
+                "doesn't"
+            ],
+            "correct": 1,
+            "id": "be41637dfedf4b58aef47d18872a2f20"
+        },
+        {
+            "question": "…………………………… you meet him yesterday?",
+            "description": "Use did in the past tense and do and does in the present tense.",
+            "answers": [
+                "Did",
+                "Do",
+                "Does"
+            ],
+            "correct": 0,
+            "id": "bbe0dd591dba40bdb80b00e91e788a5a"
+        },
+        {
+            "question": "If you needed help, why …………………………… you call me?",
+            "description": "",
+            "answers": [
+                "don't",
+                "didn't",
+                "doesn't"
+            ],
+            "correct": 1,
+            "id": "02487215bdac45c6862b56be962c2e8d"
+        },
+        {
+            "question": "He ……………………………… not have a job.",
+            "description": "",
+            "answers": [
+                "does",
+                "do",
+                "did"
+            ],
+            "correct": 0,
+            "id": "ea444cb41c574f94a1a4b31d8fff9b8a"
+        },
+        {
+            "question": "My parents ……………………………… not like it when I spend time playing computer games.",
+            "description": "",
+            "answers": [
+                "do",
+                "does",
+                "did"
+            ],
+            "correct": 0,
+            "id": "c34573b71cef41fe98d62aa83d016264"
+        },
+        {
+            "question": "She ……………………………. answer my questions.",
+            "description": "",
+            "answers": [
+                "did not",
+                "do not"
+            ],
+            "correct": 0,
+            "id": "4875e340ea054d7997aece81c368a2ee"
+        },
+        {
+            "question": "Why …………………………. he pick up the phone?",
+            "description": "",
+            "answers": [
+                "doesn't",
+                "don't"
+            ],
+            "correct": 0,
+            "id": "696c8f5880ad4dd79753852af216cd15"
+        },
+        {
+            "question": "Where ............................ he work?",
+            "description": "Use does with he.",
+            "answers": [
+                "does",
+                "do"
+            ],
+            "correct": 0,
+            "id": "3defce6f2b4b4f3eacddd3cb7e000fc2"
+        }
+    ]
+}

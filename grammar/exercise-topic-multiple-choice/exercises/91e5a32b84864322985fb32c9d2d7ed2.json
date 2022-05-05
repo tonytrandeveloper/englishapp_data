@@ -1,0 +1,126 @@
+{
+    "id": "91e5a32b84864322985fb32c9d2d7ed2",
+    "title": "Already Or Yet",
+    "questions": [
+        {
+            "question": "We have ............................ to hear from him.",
+            "description": "Yet suggests that something which is expected has not happened.",
+            "answers": [
+                "yet",
+                "already"
+            ],
+            "correct": 0,
+            "id": "49887a7addff4d46a2c60d9b71f8583e"
+        },
+        {
+            "question": "I have .............................. sent the application.",
+            "description": "Already suggests that something has happened sooner than expected. ",
+            "answers": [
+                "yet",
+                "already"
+            ],
+            "correct": 1,
+            "id": "74c6abcd8f5346a88fa66c23280b8039"
+        },
+        {
+            "question": "They have ............................... to make a formal announcement of the discovery.",
+            "description": "Yet suggests that something which is expected has not happened.",
+            "answers": [
+                "yet",
+                "already"
+            ],
+            "correct": 0,
+            "id": "036d8d8964ca472c80962c0a1bc69e38"
+        },
+        {
+            "question": "I have .............................. finished.",
+            "description": "Already suggests that something has happened sooner than expected. ",
+            "answers": [
+                "yet",
+                "already"
+            ],
+            "correct": 1,
+            "id": "6c1a616d39154e52834c231156460d09"
+        },
+        {
+            "question": "'Has the postman been?' 'Not ............................'",
+            "description": "Yet suggests that something which is expected has not happened.",
+            "answers": [
+                "already",
+                "yet"
+            ],
+            "correct": 1,
+            "id": "474c1877dba34a03b3d665b0a6a06982"
+        },
+        {
+            "question": "He was angry, ............................ he said nothing.",
+            "description": "Yet can introduce a contrasting idea. ",
+            "answers": [
+                "yet",
+                "already"
+            ],
+            "correct": 0,
+            "id": "849d8ffb6c9e4b7e8d73f7b87c79c107"
+        },
+        {
+            "question": "As .............................., I haven't had the time to finish that novel.",
+            "description": "Yet suggests that something which is expected has not happened.",
+            "answers": [
+                "yet",
+                "already"
+            ],
+            "correct": 0,
+            "id": "3e82c68bd6db4382942831e539628160"
+        },
+        {
+            "question": "By the time we reached there, they had .............................. left.",
+            "description": "Already suggests that something has happened sooner than expected. ",
+            "answers": [
+                "yet",
+                "already"
+            ],
+            "correct": 1,
+            "id": "b63479a3ec7d420f96b403f240c0d338"
+        },
+        {
+            "question": "The guests have ............................... arrived.",
+            "description": "Already suggests that something has happened sooner than expected. ",
+            "answers": [
+                "already",
+                "yet"
+            ],
+            "correct": 0,
+            "id": "3aa92c6165dd4c218aff2b01aa94a5c6"
+        },
+        {
+            "question": "Have you called the plumber ..............................?",
+            "description": "In questions yet is used to ask whether something has happened.",
+            "answers": [
+                "yet",
+                "already"
+            ],
+            "correct": 0,
+            "id": "d1c1942cfb314e88867a8a12c250f0da"
+        },
+        {
+            "question": "The mangoes aren't ripe ....................................",
+            "description": "Yet suggests that something which is expected has not happened.",
+            "answers": [
+                "already",
+                "yet"
+            ],
+            "correct": 1,
+            "id": "1855380836b34383a8319d4e1c385800"
+        },
+        {
+            "question": "When I was ten, I ............................ knew that I wanted to be a writer.",
+            "description": "Already suggests that something has happened sooner than expected. ",
+            "answers": [
+                "already",
+                "yet"
+            ],
+            "correct": 0,
+            "id": "c7b9cb8754624af5817b0ffb1b5ee7ed"
+        }
+    ]
+}

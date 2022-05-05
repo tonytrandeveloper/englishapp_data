@@ -1,0 +1,134 @@
+{
+    "id": "b99bfb3fb1ac45ad8e95ee45c202e02d",
+    "title": "Auxiliaries Exercise",
+    "questions": [
+        {
+            "question": "The boy …………………… playing the piano.",
+            "description": "We use is here because the subject is the singular countable noun boy.",
+            "answers": [
+                "is",
+                "are",
+                "has"
+            ],
+            "correct": 0,
+            "id": "f5140226d7f646b3adc4fe7d2aa77497"
+        },
+        {
+            "question": "We ………………………… sent the parcel.",
+            "description": "We use the present perfect to talk about recently finished actions or situations. This verb form is made with has or have.",
+            "answers": [
+                "are",
+                "have",
+                "has"
+            ],
+            "correct": 1,
+            "id": "51fff169ec864ab981ece28fc1bb0665"
+        },
+        {
+            "question": "I have ……………………… working since morning.",
+            "description": "We make the present perfect continuous tense forms with have been + ing form. ",
+            "answers": [
+                "be",
+                "being",
+                "been"
+            ],
+            "correct": 2,
+            "id": "65d1f517e616468da40453f6616a4e3e"
+        },
+        {
+            "question": "Uncle said that he ………………………. come with me.",
+            "description": "Would is the past tense of will in reported speech.",
+            "answers": [
+                "will",
+                "would",
+                "shall"
+            ],
+            "correct": 1,
+            "id": "009b0bf73ca440acb41af425cd71b382"
+        },
+        {
+            "question": "I ………………………….. visit the beach when I was in Mumbai.",
+            "description": "We use used to to talk about a past habit.",
+            "answers": [
+                "used to",
+                "was used to",
+                "had used to"
+            ],
+            "correct": 0,
+            "id": "de309ea262b748739404f90c355af518"
+        },
+        {
+            "question": "He …………………………. not go out alone at night.",
+            "description": "When dare is used as a modal auxiliary, it does not the take the marker –s.",
+            "answers": [
+                "dare",
+                "dares"
+            ],
+            "correct": 0,
+            "id": "412f02fe98564960b7ac40a186db080b"
+        },
+        {
+            "question": "She ……………………………. to speak to me.",
+            "description": "When dare is used as an ordinary verb, it is followed by an infinitive with to. Also, questions and negatives are made with do and does.",
+            "answers": [
+                "doesn't dare",
+                "daren't"
+            ],
+            "correct": 0,
+            "id": "97e04536e6664e899d21c92bc242b909"
+        },
+        {
+            "question": "You …………………………. write to him.",
+            "description": "When need is used as a modal auxiliary, questions and negatives are made without do and does.",
+            "answers": [
+                "need not",
+                "don't need",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "e76027ab024b40e0bdd2a68223c66950"
+        },
+        {
+            "question": "You don’t need ……………………….. for me.",
+            "description": "When need is used as an ordinary verb, it is followed by an infinitive with to.",
+            "answers": [
+                "wait",
+                "to wait",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "ce6090b422e2424da07d064de4b6ad0f"
+        },
+        {
+            "question": "You …………………………… have told me before borrowing my car.",
+            "description": "We use should to indicate obligation.",
+            "answers": [
+                "should",
+                "would"
+            ],
+            "correct": 0,
+            "id": "1dee3fc0a2f049e7b3de4822a86cc268"
+        },
+        {
+            "question": "…………………………. I carry this bag for you?",
+            "description": "Should is used in polite offers of help.",
+            "answers": [
+                "Should",
+                "Would",
+                "Will"
+            ],
+            "correct": 0,
+            "id": "7f1e079b4533443985c131675726fba2"
+        },
+        {
+            "question": "………………………….. you help me with cooking?",
+            "description": "Would is used in polite requests for help.",
+            "answers": [
+                "Would",
+                "Should"
+            ],
+            "correct": 0,
+            "id": "7ebc18a9ff3f4d3594aa4921fba09d46"
+        }
+    ]
+}

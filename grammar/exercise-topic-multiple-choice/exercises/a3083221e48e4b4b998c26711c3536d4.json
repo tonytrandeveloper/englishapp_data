@@ -1,0 +1,138 @@
+{
+    "id": "a3083221e48e4b4b998c26711c3536d4",
+    "title": "Articles Exercise",
+    "questions": [
+        {
+            "question": "………………….. man is mortal.",
+            "description": "",
+            "answers": [
+                "A",
+                "The",
+                "No article"
+            ],
+            "correct": 2,
+            "id": "b73ed393490f4241807b60aa1fc9be96"
+        },
+        {
+            "question": "I am …………………. university student.",
+            "description": "",
+            "answers": [
+                "a",
+                "an",
+                "the"
+            ],
+            "correct": 0,
+            "id": "a0d050b641094c8d880718dcb5c5f186"
+        },
+        {
+            "question": "She goes to the temple in ……………….. mornings.",
+            "description": "",
+            "answers": [
+                "a",
+                "the",
+                "No article"
+            ],
+            "correct": 1,
+            "id": "5487d2c0baaa48f3b742f39c155ef5f9"
+        },
+        {
+            "question": "Kiran is …………………. best student in the class.",
+            "description": "",
+            "answers": [
+                "a",
+                "the",
+                "No article"
+            ],
+            "correct": 1,
+            "id": "87feb9476d024b6b8be9a7825d204075"
+        },
+        {
+            "question": "………………….. camel is the ship of the desert.",
+            "description": "",
+            "answers": [
+                "A",
+                "The",
+                "No article"
+            ],
+            "correct": 1,
+            "id": "6664b50729664aaf8eca20b73f54dce0"
+        },
+        {
+            "question": "This book has won ………………….. Booker prize.",
+            "description": "",
+            "answers": [
+                "a",
+                "the",
+                "No article"
+            ],
+            "correct": 1,
+            "id": "2baf291a67a64665b2bc81def938377f"
+        },
+        {
+            "question": "Harishchandra was …………………. honest king.",
+            "description": "",
+            "answers": [
+                "a",
+                "an",
+                "the"
+            ],
+            "correct": 1,
+            "id": "17e0f3a0a24f4ec6b6b14a8d741ef4fe"
+        },
+        {
+            "question": "I am fond of ………………. classical music.",
+            "description": "",
+            "answers": [
+                "a",
+                "the",
+                "No article"
+            ],
+            "correct": 2,
+            "id": "05bc70f0ed3449afb31c8282c306ac16"
+        },
+        {
+            "question": "I met ..................... boy in the store.",
+            "description": "",
+            "answers": [
+                "a",
+                "an",
+                "the"
+            ],
+            "correct": 0,
+            "id": "6d714820a01e43e9ae6aa94c8b0b4186"
+        },
+        {
+            "question": "Gold is ....................... precious metal.",
+            "description": "",
+            "answers": [
+                "a",
+                "an",
+                "the"
+            ],
+            "correct": 0,
+            "id": "177c16e6bcc84cb181edc23497d010c0"
+        },
+        {
+            "question": "She returned after ………………….. hour.",
+            "description": "",
+            "answers": [
+                "a",
+                "an",
+                "the"
+            ],
+            "correct": 1,
+            "id": "3406cec9ca9a49de970ba3fd0f0d02c3"
+        },
+        {
+            "question": "There is ..................... . institution for ....................... blind in this city.",
+            "description": "",
+            "answers": [
+                "an, a",
+                "an, the",
+                "the, the"
+            ],
+            "correct": 1,
+            "id": "ba0322a0247c4dd086a3f1eddc5a7b31"
+        }
+    ]
+}

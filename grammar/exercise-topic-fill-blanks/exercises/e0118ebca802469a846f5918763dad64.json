@@ -1,0 +1,382 @@
+{
+    "id": "e0118ebca802469a846f5918763dad64",
+    "title": "Modal Verbs of Ability 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Could"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "you swim when you were 10?"
+                }
+            ],
+            "id": "210bd131bf5947fe9158b571ab3dde74"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "couldn't"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "get to the meeting on time yesterday, because the train was delayed by one hour."
+                }
+            ],
+            "id": "917d780c749f4b1b8855d67fcdda8481"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was able to"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "arrive at the party on time, even after missing the train, so he was very pleased."
+                }
+            ],
+            "id": "cfcb4b1750554ed4a0f7091de51688ab"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He's amazing, he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "can"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "speak five languages, including Chinese."
+                }
+            ],
+            "id": "ee89407b42614f578a30838d1188286c"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "couldn't"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "drive a car until I was 34. Then I moved to the countryside, so I had to learn.."
+                }
+            ],
+            "id": "14de16ccc8ae4995bf78777cf89f12e8"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I looked everywhere for my glasses but I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "couldn't"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "find them anywhere."
+                }
+            ],
+            "id": "ee91b347862147eab44537143b0f9755"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I searched for your house for ages. luckily I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was able to"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "find it in the end."
+                }
+            ],
+            "id": "8f829ff3eb934e338e285a69e2c9fdfc"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She's seven years old, but she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "can't"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "read yet. Her parents are getting her extra lessons."
+                }
+            ],
+            "id": "8995de537b374c9bb4df211189671c09"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I read the book three times, but I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "couldn't"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "understand it."
+                }
+            ],
+            "id": "82ef0b76a7b5480d93f28af1241f912d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "James"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "could"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "speak Japanese when he lived in Japan, but he's forgotten most of it now."
+                }
+            ],
+            "id": "7609265135ba403ca98c9a128f6ca054"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "couldn't"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "understand the chapter we had to read for homework. It was so difficult."
+                }
+            ],
+            "id": "a39966e7777544ec87877ad651fed341"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "can't"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "lift this box - it's too heavy! Would you help me?"
+                }
+            ],
+            "id": "25ab49f6287644e88db06c09d32b8574"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "can't"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "make it to our meeting after all. She's stuck in traffic."
+                }
+            ],
+            "id": "5037d6cf1a364f5e917cf3a4bd944fbe"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "can"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "play tennis really well. He's champion of his club."
+                }
+            ],
+            "id": "f4e2b92ac9d04ed2abf57968f9221fc1"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Unfortunately, I really"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "can't"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "sing at all. No-one in my family is musical either.."
+                }
+            ],
+            "id": "1b6f2662677c482a8f7f96ff21169ec2"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the car broke down I was really pleased because I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "was able to"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "solve the problem."
+                }
+            ],
+            "id": "25e4d5a2dfde40b8acd1a3a70e5ed4fb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julian"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "could"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "play excellent golf when he was only ten."
+                }
+            ],
+            "id": "742b35a74172440da23953ce8d6b237e"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My grandmother"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "couldn't"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "use a computer until last month. Since then she's been taking lessons at the library."
+                }
+            ],
+            "id": "03d1038033d0439f8e3d3a3f015066b5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "can't"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "open this window! I think it's stuck."
+                }
+            ],
+            "id": "bc95725ce298426a8e6107c420cf2b55"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Gill"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "can't"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "play the piano. She has never studied it."
+                }
+            ],
+            "id": "9e9b8e6e4244442dbe168097212068a9"
+        }
+    ]
+}

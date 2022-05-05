@@ -1,0 +1,129 @@
+{
+    "id": "6324df3a3bf6450f993c34e53e649c41",
+    "title": "Personal Pronouns And Adjectives",
+    "questions": [
+        {
+            "question": "Have you lost ………………………… marbles?",
+            "description": "Your, his, her, our and their are possessive adjectives. They are used before nouns.",
+            "answers": [
+                "your",
+                "yours"
+            ],
+            "correct": 0,
+            "id": "7f09edb1754843d29d1f7c419a64cce2"
+        },
+        {
+            "question": "This is my bag. Which one is …………………………………?",
+            "description": "The words yours, his, hers, ours and theirs are possessive pronouns. They are used alone. ",
+            "answers": [
+                "your",
+                "yours"
+            ],
+            "correct": 1,
+            "id": "788291f9cefe49d6a4aeff06adafadc6"
+        },
+        {
+            "question": "My composition is better than ………………………………",
+            "description": "The words yours, his, hers, ours and theirs are possessive pronouns. They are used alone. ",
+            "answers": [
+                "your",
+                "yours"
+            ],
+            "correct": 1,
+            "id": "7610c69b3c0249fc93ae868754d48a10"
+        },
+        {
+            "question": "She is taller than ………………………………..",
+            "description": "Object pronouns are more common after than.",
+            "answers": [
+                "he",
+                "his",
+                "him"
+            ],
+            "correct": 2,
+            "id": "d0ace44c604e41169c1c114843d6ee4e"
+        },
+        {
+            "question": "I have invited all of ……………………………. to my party.",
+            "description": "Object pronouns are used after a preposition. ",
+            "answers": [
+                "they",
+                "them",
+                "their"
+            ],
+            "correct": 1,
+            "id": "b72d48e6d4584383b163fb19e5984b20"
+        },
+        {
+            "question": "I have never had the opportunity to meet any one of ……………………………",
+            "description": "Object pronouns are used after a preposition. ",
+            "answers": [
+                "they",
+                "them",
+                "their"
+            ],
+            "correct": 1,
+            "id": "e2e559501f894166b8b97d1bd0f39d97"
+        },
+        {
+            "question": "We went to ……………………………. native place last week.",
+            "description": "Your, his, her, our and their are possessive adjectives. They are used before nouns.",
+            "answers": [
+                "our",
+                "ours"
+            ],
+            "correct": 0,
+            "id": "8fad49c03c6842fb9732be058f7275b7"
+        },
+        {
+            "question": "Who is at the door? It must be .............................",
+            "description": "",
+            "answers": [
+                "her",
+                "hers"
+            ],
+            "correct": 0,
+            "id": "21bb7ed17d69461cb2d88f7d1fc4b757"
+        },
+        {
+            "question": "Whose book is this? It must be ……………………………",
+            "description": "The words yours, his, hers, ours and theirs are possessive pronouns. They are used alone. ",
+            "answers": [
+                "her",
+                "hers"
+            ],
+            "correct": 1,
+            "id": "be0f0e2d203f4287ac08a97e9ae0ee3c"
+        },
+        {
+            "question": "My dog is white. …………………………. is black.",
+            "description": "The words yours, his, hers, ours and theirs are possessive pronouns. They are used alone. ",
+            "answers": [
+                "Their",
+                "Theirs"
+            ],
+            "correct": 1,
+            "id": "22af5bcfefa149868d6ab4014546087d"
+        },
+        {
+            "question": "No one loves you more than ……………………………",
+            "description": "Object pronouns are common after than.",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1,
+            "id": "810ec25ad7c244c199da194e7cfc1d64"
+        },
+        {
+            "question": "She is a friend of ...........................",
+            "description": "The words yours, his, hers, ours and theirs are possessive pronouns. They are used alone. ",
+            "answers": [
+                "my",
+                "mine"
+            ],
+            "correct": 1,
+            "id": "aedec694343548c98f5a63de0d824372"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "id": "8c73d3b3e3e642e4b51046a40787a1ee",
+    "title": "Conditional Forms Exercise",
+    "questions": [
+        {
+            "question": "If I had a penny, I ………………… some peanuts.",
+            "description": "",
+            "answers": [
+                "can buy",
+                "could buy",
+                "could have bought"
+            ],
+            "correct": 1,
+            "id": "33bd3d3cc820450f82ecbcd4639b4353"
+        },
+        {
+            "question": "If I ………………… her address, I could have a written to her.",
+            "description": "",
+            "answers": [
+                "know",
+                "knew",
+                "had known"
+            ],
+            "correct": 2,
+            "id": "5d9a3d98952f4ba1b4c3b46343be1915"
+        },
+        {
+            "question": "He ………………….. if he had been more careful.",
+            "description": "",
+            "answers": [
+                "may not fall",
+                "might not fall",
+                "might not have fallen"
+            ],
+            "correct": 2,
+            "id": "b01d9dcdc55a4b388c3a38b47c9d4c7d"
+        },
+        {
+            "question": "I …………………… . you if I had enough money.",
+            "description": "",
+            "answers": [
+                "will help",
+                "would help",
+                "would have helped"
+            ],
+            "correct": 1,
+            "id": "6a0132a7a97f4e48a78fe74f29670068"
+        },
+        {
+            "question": "If I were in your position, I …………………….. such a disgraceful act.",
+            "description": "",
+            "answers": [
+                "will not commit",
+                "would not commit",
+                "would not have committed"
+            ],
+            "correct": 1,
+            "id": "bf6a26d96b1f4c89b8705603dee9d693"
+        },
+        {
+            "question": "What would you do if you ………………….. the first prize in a bumper draw?",
+            "description": "",
+            "answers": [
+                "get",
+                "got",
+                "had gotten"
+            ],
+            "correct": 1,
+            "id": "eefb97b6e4004ec0aa51fa63876a3aac"
+        },
+        {
+            "question": "There might have been a great flood, if the rains …………………..",
+            "description": "",
+            "answers": [
+                "did not stop",
+                "had not stopped",
+                "would not stop"
+            ],
+            "correct": 1,
+            "id": "b1b46c61ad014d4aa4a37178578b9611"
+        },
+        {
+            "question": "Had the driver been alert, the accident ………………….............",
+            "description": "",
+            "answers": [
+                "could be averted",
+                "can be averted",
+                "could have been averted"
+            ],
+            "correct": 2,
+            "id": "760fde13844b495992c0e99b303a97bc"
+        },
+        {
+            "question": "I would not accept the offer, if I ……………………… you.",
+            "description": "",
+            "answers": [
+                "am",
+                "were",
+                "had been"
+            ],
+            "correct": 1,
+            "id": "c299f603c1b24d7cbeeac54373c67cf2"
+        },
+        {
+            "question": "If you were a little more careful, you ………………………",
+            "description": "",
+            "answers": [
+                "would not be cheated",
+                "will not be cheated",
+                "would not have been cheated"
+            ],
+            "correct": 0,
+            "id": "98da2ee1eb47413db31d342f194b2cc0"
+        }
+    ]
+}

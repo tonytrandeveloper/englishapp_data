@@ -1,0 +1,139 @@
+{
+    "id": "5f106fc7449040fea83e46e07458b3fa",
+    "title": "Conjunctions, Prepositions And Transitional Adverbs",
+    "questions": [
+        {
+            "question": "……………………….. the girl tried her best, she could not get the first rank.",
+            "description": "Though is a conjunction use it to introduce a clause.",
+            "answers": [
+                "However",
+                "Though",
+                "Despite"
+            ],
+            "correct": 1,
+            "id": "6137f25abad041dbbf0049f7119eb44a"
+        },
+        {
+            "question": "She tried her best …………………………, she could not get the first rank,",
+            "description": "However is a transitional adverb it cannot connect two clauses use a full stop or a semicolon before however. ",
+            "answers": [
+                "though",
+                "however",
+                "despite"
+            ],
+            "correct": 1,
+            "id": "2129345856814f31839bbf9e2ae0c722"
+        },
+        {
+            "question": "…………………………. her best efforts, she could not get the first rank.",
+            "description": "Either despite or in spite of is possible here.",
+            "answers": [
+                "Despite",
+                "In spite of",
+                "Despite of",
+                "Inspite of"
+            ],
+            "correct": 1,
+            "id": "1cceea3815cc4b0f8fda5ab428fedbb9"
+        },
+        {
+            "question": "…………………………… he ran fast, he did not win the race.",
+            "description": "Though is a conjunction use it to introduce a clause.",
+            "answers": [
+                "Although",
+                "However",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "1ad312e3ffc448aea5c75fae99e6ab83"
+        },
+        {
+            "question": "……………………….. running as fast as he could, he did not win the race.",
+            "description": "Despite is a preposition. It is followed by a noun or ing form. ",
+            "answers": [
+                "Despite",
+                "Though",
+                "However"
+            ],
+            "correct": 0,
+            "id": "724eb6b63c9d4bc393cdd158ace961fd"
+        },
+        {
+            "question": "……………………………. he was ill, he went to work.",
+            "description": "Though is used to connect two contrasting ideas. ",
+            "answers": [
+                "Though",
+                "As",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "988cd8444e0b4785bee1650bbfe385c0"
+        },
+        {
+            "question": "…………………………… his illness, he went to work.",
+            "description": "Despite is a preposition it is followed by a noun/ing form. ",
+            "answers": [
+                "Despite",
+                "Though",
+                "However"
+            ],
+            "correct": 0,
+            "id": "a27910b2e9974feabfe0cfde77586552"
+        },
+        {
+            "question": "………………………… I was annoyed, I kept silent.",
+            "description": "Though is a conjunction use it to introduce a clause.",
+            "answers": [
+                "Though",
+                "However",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "a734825a5ace4cebad6e8e5d2d8191bc"
+        },
+        {
+            "question": "…………………………… she had the required qualifications, she could not get the job.",
+            "description": "Though is a conjunction use it to introduce a clause.",
+            "answers": [
+                "Although",
+                "However",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "13dcea73dc0241a6a4e57299b6a300d6"
+        },
+        {
+            "question": "……………………………… having the required qualifications, she could not get the job.",
+            "description": "Despite is a preposition it is followed by a noun/ing form. ",
+            "answers": [
+                "Despite",
+                "However",
+                "Although"
+            ],
+            "correct": 0,
+            "id": "5ac33be9128f48a2bc5af607e743c499"
+        },
+        {
+            "question": "………………………….. being very rich, she leads a simple life.",
+            "description": "Despite is a preposition it is followed by a noun/ing form. ",
+            "answers": [
+                "Despite",
+                "Though",
+                "However"
+            ],
+            "correct": 0,
+            "id": "b1b7fdf9c9fe4f6880b6438d56e78338"
+        },
+        {
+            "question": "……………………….. she is very beautiful, she is not popular.",
+            "description": "Though is a conjunction it connects two clauses. ",
+            "answers": [
+                "Though",
+                "However",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "8a8dbe43b35a4faa8fa8b84404740c94"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "id": "02b570380e88454aaf9ccae6a04a33a5",
+    "title": "Passive In The Subordinate Clause",
+    "questions": [
+        {
+            "question": "It seems that somebody ..................... the room.",
+            "description": "We use the active verb in the subordinate clause because the action is performed by the subject.",
+            "answers": [
+                "was cleaned",
+                "has cleaned",
+                "has been cleaned"
+            ],
+            "correct": 1,
+            "id": "26974e6243084c479f2b8e33e7c439da"
+        },
+        {
+            "question": "It seems that the house .................. yesterday.",
+            "description": "We use the passive verb in the subordinate clause because the subject is not the doer of the action.",
+            "answers": [
+                "has cleaned",
+                "was cleaned",
+                "has been cleaned"
+            ],
+            "correct": 1,
+            "id": "df0d1110ca564d01b6d8b9f3c2042047"
+        },
+        {
+            "question": "She enjoys ……………… at.",
+            "description": "She enjoys it when others look at her. She doesn’t look someone else does so we use the passive verb here.",
+            "answers": [
+                "looking at",
+                "being looked at",
+                "looked at"
+            ],
+            "correct": 1,
+            "id": "b2b5adafb7044cf891b9976310872cf8"
+        },
+        {
+            "question": "My dog loves .........................",
+            "description": "My dog likes it when somebody chases him. The dog doesn’t do the chasing. It is done by somebody else so we need the passive verb here.",
+            "answers": [
+                "chased",
+                "being chased",
+                "being chasing"
+            ],
+            "correct": 1,
+            "id": "d3a91df7b68d4cbb970957f507389d51"
+        },
+        {
+            "question": "I understand that she .....................",
+            "description": "Here we use the passive verb in the subordinate clause because something was done to the subject.",
+            "answers": [
+                "has fired",
+                "was fired",
+                "has firing"
+            ],
+            "correct": 1,
+            "id": "cb332e0edb244ff4b4f99571f541769e"
+        },
+        {
+            "question": "I think the castle ................. in the sixteenth century.",
+            "description": "Here we use the passive verb in the subordinate clause because something was done to the subject.",
+            "answers": [
+                "has built",
+                "was built",
+                "has been built"
+            ],
+            "correct": 1,
+            "id": "adc537d9e224449f8ce4b068ffbdea4b"
+        },
+        {
+            "question": "She hates ..................... in her pyjamas.",
+            "description": "She hates people seeing her in her pyjamas. ",
+            "answers": [
+                "seeing",
+                "being seeing",
+                "being seen",
+                "been seeing"
+            ],
+            "correct": 2,
+            "id": "4de25a16bc4c4f5fa3ab72e21d7ceb2e"
+        },
+        {
+            "question": "He thinks that he .....................",
+            "description": "He does not do the chasing. Somebody else is doing it. So we use a passive verb here.",
+            "answers": [
+                "has being chased",
+                "is being chased",
+                "is been chased"
+            ],
+            "correct": 1,
+            "id": "9549d386b0d54d3ebf1e86c8ca86f390"
+        },
+        {
+            "question": "Samuel wants to ...................",
+            "description": "Samuel would like someone to promote him. Here Samuel is not the doer of the action, so we use the passive verb.",
+            "answers": [
+                "promote",
+                "be promoted",
+                "being promoted"
+            ],
+            "correct": 1,
+            "id": "5022cd35446541e7b09e42889c3dbab2"
+        },
+        {
+            "question": "Do you enjoy ......................?",
+            "description": "",
+            "answers": [
+                "being tickling",
+                "being tickled",
+                "tickled"
+            ],
+            "correct": 1,
+            "id": "d3a776c770084114aa615937b8b9e856"
+        },
+        {
+            "question": "He claimed that the money .................",
+            "description": "He claimed that somebody stole the money. He did not steal the money. It was done by somebody else. So, we use the passive verb here. 'Has been stolen' is not possible here because the main verb is in the past tense.",
+            "answers": [
+                "has stolen",
+                "has been stolen",
+                "was stolen"
+            ],
+            "correct": 2,
+            "id": "6a38c32cc8694bccacfe1fe91f621fc8"
+        },
+        {
+            "question": "I believe that the roof ........................",
+            "description": "Somebody is repairing the roof. That means the roof is being repaired.",
+            "answers": [
+                "is repairing",
+                "is being repaired",
+                "is being repairing"
+            ],
+            "correct": 1,
+            "id": "cd06bae51e844387b4aa3e8af852c7de"
+        }
+    ]
+}

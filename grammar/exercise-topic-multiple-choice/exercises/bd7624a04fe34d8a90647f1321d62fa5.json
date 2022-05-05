@@ -1,0 +1,138 @@
+{
+    "id": "bd7624a04fe34d8a90647f1321d62fa5",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "We reached the venue before the show .............................",
+            "description": "",
+            "answers": [
+                "began",
+                "begun",
+                "begins"
+            ],
+            "correct": 0,
+            "id": "f6d771d6d74045f98ef7bed6a9afa4fc"
+        },
+        {
+            "question": "Her parents .................................. with her.",
+            "description": "We use the simple present to talk about permanent situations. ",
+            "answers": [
+                "live",
+                "are living",
+                "have lived"
+            ],
+            "correct": 0,
+            "id": "3b4c4d18244b46e1815f68cd265a2599"
+        },
+        {
+            "question": "We ........................................ in Mumbai for fifteen years by next January.",
+            "description": "The future perfect and the future perfect continuous is used to say that something will have been done by a certain time in the future. ",
+            "answers": [
+                "will be living",
+                "will have been living",
+                "are living"
+            ],
+            "correct": 1,
+            "id": "7babcf700bd04d31bdf4e56bb40a4ce5"
+        },
+        {
+            "question": "We ..................................... two tickets before rain interrupted the match.",
+            "description": "The past perfect is used to talk about the earlier of the two past actions. ",
+            "answers": [
+                "have lost",
+                "had lost",
+                "were losing"
+            ],
+            "correct": 1,
+            "id": "c2167507f55e4ee3b713f1d737720f0c"
+        },
+        {
+            "question": "I ..................................... him twice before he went abroad.",
+            "description": "The past perfect is used to talk about the earlier of the two past actions. ",
+            "answers": [
+                "saw",
+                "had seen",
+                "have seen"
+            ],
+            "correct": 1,
+            "id": "001bc9c1499e4e2e93ba739bd19daedc"
+        },
+        {
+            "question": "When I was young, I .................................... exercise every day.",
+            "description": "We use used to to talk about past habits. ",
+            "answers": [
+                "used",
+                "used to",
+                "was used to"
+            ],
+            "correct": 1,
+            "id": "788cba6642294ca299e23b4ccddb9cef"
+        },
+        {
+            "question": "She ...................................... for the US tonight.",
+            "description": "The present continuous is used to talk about pre-planned future events. ",
+            "answers": [
+                "leaves",
+                "is leaving",
+                "left"
+            ],
+            "correct": 1,
+            "id": "ac4f08b23e4943008275dc0d03373700"
+        },
+        {
+            "question": "Water .................................... at 100 degree Celsius.",
+            "description": "The simple present is used to talk about facts. ",
+            "answers": [
+                "boils",
+                "is boiling",
+                "has boiled"
+            ],
+            "correct": 0,
+            "id": "06a6f3d3361e4b2cb5f3a8801e2db7fa"
+        },
+        {
+            "question": "We ....................................... in this house for ten years now.",
+            "description": "The present perfect is used to talk about actions or situations that started in the past and has continued up to the present. ",
+            "answers": [
+                "lived",
+                "are living",
+                "have lived"
+            ],
+            "correct": 2,
+            "id": "b3728c028d384d85b27e7ac4b618ec1a"
+        },
+        {
+            "question": "I ........................................ her if I wanted to.",
+            "description": "Could have + past participle can be used to talk about unrealized past events. ",
+            "answers": [
+                "could marry",
+                "could have married",
+                "can marry"
+            ],
+            "correct": 1,
+            "id": "81fdfdb16c04448b8b2f810950054644"
+        },
+        {
+            "question": "Does she ................................... what she is doing?",
+            "description": "We use the first form of the verb (infinitive) after do, does and did.",
+            "answers": [
+                "know",
+                "knew",
+                "know"
+            ],
+            "correct": 0,
+            "id": "3feebdf2777b4f61ad64440e6fec4b27"
+        },
+        {
+            "question": "He .................................. to be a scientist.",
+            "description": "",
+            "answers": [
+                "always wanted",
+                "is always wanting",
+                "has always wanted"
+            ],
+            "correct": 2,
+            "id": "576eceb3ce8a4603870d3838f8c61781"
+        }
+    ]
+}

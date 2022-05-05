@@ -1,0 +1,138 @@
+{
+    "id": "de0aaf7faa3641c6b560222f89b6d404",
+    "title": "Types Of Sentences",
+    "questions": [
+        {
+            "question": "She passed her exam because she had a good teacher.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "7d8a2b87404c4d98b5c46cb4c24a3495"
+        },
+        {
+            "question": "She sat facing me across the table.",
+            "description": "A simple sentence has just one clause.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "a6abf5117fe34867ace678c2537d72d7"
+        },
+        {
+            "question": "He worked hard but he could not pass the exam.",
+            "description": "A compound sentence has two or more coordinate clauses introduced by the conjunctions and, but, or, for, so, either..or, neither...nor, both..and, not only...but also. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "5d7922db94114bb2a983ba5a6989f057"
+        },
+        {
+            "question": "I am anxious to contact him.",
+            "description": "A simple sentence has just one clause.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "8f0e70eb771640dca137f8184ad72a46"
+        },
+        {
+            "question": "No one can stop him doing what he wants to.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "e0862218e26748bfbafabdb0c48da26b"
+        },
+        {
+            "question": "Always check the oil before you start the car.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "05028eb686fa4fe2870aecd978cb9900"
+        },
+        {
+            "question": "They considered him a genius.",
+            "description": "A simple sentence has just one clause.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 0,
+            "id": "8e62398023b74da6bda2872c9b714be8"
+        },
+        {
+            "question": "At no time was she aware of what was happening.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "7f39966efd7d49b9895fc1877d79d513"
+        },
+        {
+            "question": "If I am late my father takes me to school.",
+            "description": "A complex sentence has one main clause and one or more subordinate clauses.",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 1,
+            "id": "4e20413706834ab7a95256698d8e862b"
+        },
+        {
+            "question": "He neither drinks nor smokes.",
+            "description": "A compound sentence has two or more coordinate clauses introduced by the conjunctions and, but, or, for, so, either..or, neither...nor, both..and, not only...but also. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "11c4b13136e34ca6bbb1366b1d556c72"
+        },
+        {
+            "question": "He failed the exam and nobody was surprised.",
+            "description": "A compound sentence has two or more coordinate clauses introduced by the conjunctions and, but, or, for, so, either..or, neither...nor, both..and, not only...but also. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "b487ebbc90474a0da18f2c4e17d78c53"
+        },
+        {
+            "question": "He was upset but he said nothing.",
+            "description": "A compound sentence has two or more coordinate clauses introduced by the conjunctions and, but, or, for, so, either..or, neither...nor, both..and, not only...but also. ",
+            "answers": [
+                "Simple",
+                "Complex",
+                "Compound"
+            ],
+            "correct": 2,
+            "id": "f530307c989548d2b3f46e8b647dc628"
+        }
+    ]
+}

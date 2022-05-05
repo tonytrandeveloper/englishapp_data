@@ -1,0 +1,128 @@
+{
+    "id": "0a69306bb7c84c3db9131c186ad0f00c",
+    "title": "Quantifiers Exercise",
+    "questions": [
+        {
+            "question": "There are ………………….. books on the table.",
+            "description": "",
+            "answers": [
+                "some",
+                "any"
+            ],
+            "correct": 0,
+            "id": "510ba5d7d64c4deab0e1d8ed382a35e7"
+        },
+        {
+            "question": "I didn’t see ..................... there.",
+            "description": "",
+            "answers": [
+                "anyone",
+                "someone"
+            ],
+            "correct": 0,
+            "id": "931c1aadc81847f98686ac801c624eff"
+        },
+        {
+            "question": "Are there …………….. apples on the tree?",
+            "description": "",
+            "answers": [
+                "any",
+                "some"
+            ],
+            "correct": 0,
+            "id": "b96f4066b6f0495cbe18079b663f6b29"
+        },
+        {
+            "question": "………………. man lives here.",
+            "description": "",
+            "answers": [
+                "No",
+                "Any"
+            ],
+            "correct": 0,
+            "id": "f7be6cf6eebd456e98a9c8666e650be0"
+        },
+        {
+            "question": "I know ………………… journalist in Mumbai.",
+            "description": "",
+            "answers": [
+                "any",
+                "every",
+                "each"
+            ],
+            "correct": 1,
+            "id": "2ae109d53cb8414dbb1f0e139ad08923"
+        },
+        {
+            "question": "There is ………………. water in the bucket.",
+            "description": "",
+            "answers": [
+                "any",
+                "no"
+            ],
+            "correct": 1,
+            "id": "33e437ce5e714b3d8062deeea1d5db38"
+        },
+        {
+            "question": "They offered food and drinks to …………….. guest.",
+            "description": "",
+            "answers": [
+                "any",
+                "every",
+                "all"
+            ],
+            "correct": 1,
+            "id": "fc8e0ca4f8444796a434b40e29fb61b0"
+        },
+        {
+            "question": "He has ………………… friends in the city.",
+            "description": "",
+            "answers": [
+                "much",
+                "many"
+            ],
+            "correct": 1,
+            "id": "e8ea9475f59e490b832fdff4a6bc8722"
+        },
+        {
+            "question": "You have ……………….. patience.",
+            "description": "",
+            "answers": [
+                "few",
+                "little"
+            ],
+            "correct": 1,
+            "id": "b25152731d92422396835856c4ca8a1d"
+        },
+        {
+            "question": "There are roses of ………………… types in this garden.",
+            "description": "",
+            "answers": [
+                "many",
+                "every"
+            ],
+            "correct": 0,
+            "id": "a8c44de06aaf44abbb7880c60c4d007a"
+        },
+        {
+            "question": "She has ………………… friends in the city.",
+            "description": "",
+            "answers": [
+                "few",
+                "less"
+            ],
+            "correct": 0,
+            "id": "10edcd3a9d6549bd9fca3ff4db456125"
+        },
+        {
+            "question": "We scored ……………….. goals.",
+            "description": "",
+            "answers": [
+                "many",
+                "much"
+            ],
+            "correct": 0,
+            "id": "e2fffe1be2eb413eb4823c2ded947228"
+        }
+    ]
+}

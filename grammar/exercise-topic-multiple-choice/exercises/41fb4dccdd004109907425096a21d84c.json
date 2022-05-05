@@ -1,0 +1,138 @@
+{
+    "id": "41fb4dccdd004109907425096a21d84c",
+    "title": "Idioms Exercise",
+    "questions": [
+        {
+            "question": "Software engineers are a ............................ a dozen these days.",
+            "description": "Dime a dozen means very common.",
+            "answers": [
+                "nickel",
+                "dime",
+                "cent"
+            ],
+            "correct": 1,
+            "id": "537639a068ea41898eaa467582a21f8c"
+        },
+        {
+            "question": "Getting injured turned out to be a blessing in ................................. because he was not summoned for military service.",
+            "description": "A blessing in disguise is a good thing although it may appear bad.",
+            "answers": [
+                "disguise",
+                "mask",
+                "cloak"
+            ],
+            "correct": 0,
+            "id": "c4da248e27434965aaa8772663beb784"
+        },
+        {
+            "question": "Tough measures are required to save the business and as the director, you have to bite the .....................................",
+            "description": "To bite the bullet is to endure an unpleasant situation that cannot be avoided.",
+            "answers": [
+                "gun",
+                "pellet",
+                "bullet"
+            ],
+            "correct": 2,
+            "id": "bdb4a9fbd0cb40989aaefaa852adb3ee"
+        },
+        {
+            "question": "She never beats about the .................................... when she is upset about something.",
+            "description": "To beat about the bush is to discuss a matter without coming to the actual point. ",
+            "answers": [
+                "bush",
+                "hedge",
+                "shrub"
+            ],
+            "correct": 0,
+            "id": "df376bbb4553408fabc50127c0e2e67d"
+        },
+        {
+            "question": "He must have a .................................. on his shoulder. He has trouble getting along with people.",
+            "description": "To have a chip on your shoulder is to have an ingrained feeling of resentment.",
+            "answers": [
+                "weight",
+                "chip",
+                "load"
+            ],
+            "correct": 1,
+            "id": "c85873784a714e8da528f4b43131cf53"
+        },
+        {
+            "question": "The company cut ................................ to maximize profits but that decision eventually backfired.",
+            "description": "To cut corners is to produce shoddy work.",
+            "answers": [
+                "corners",
+                "sides",
+                "dimensions"
+            ],
+            "correct": 0,
+            "id": "0b1fbc4a15724022a00af4cff5ae34c8"
+        },
+        {
+            "question": "She made sure that things never got out of .................................",
+            "description": "To get out of hand is to get out of control.",
+            "answers": [
+                "hand",
+                "grip",
+                "hook"
+            ],
+            "correct": 0,
+            "id": "5d2007bb841c423999d07850d2c65ff3"
+        },
+        {
+            "question": "Don't jump the .................................. Wait for the right opportunity.",
+            "description": "To jump the gun is to act prematurely.",
+            "answers": [
+                "fire",
+                "line",
+                "gun"
+            ],
+            "correct": 2,
+            "id": "03746486406d4085a4b8961bc5ef262d"
+        },
+        {
+            "question": "When I met her the other day, she rubbed me the  .................................. way.",
+            "description": "To rub someone the wrong way is to annoy them.",
+            "answers": [
+                "bad",
+                "wrong",
+                "opposite"
+            ],
+            "correct": 1,
+            "id": "a4a9ef2207734433926690e12fa801b8"
+        },
+        {
+            "question": "A cat in .................................... catches no mice.",
+            "description": "Nice guys always finish last.",
+            "answers": [
+                "whiskers",
+                "gloves",
+                "attic"
+            ],
+            "correct": 1,
+            "id": "4f29eac42eb74caf9d42fefd336c11d6"
+        },
+        {
+            "question": "I won't let her off the ..............................",
+            "description": "To let someone off the hook is to release them from their responsibility.",
+            "answers": [
+                "ring",
+                "hook",
+                "staple"
+            ],
+            "correct": 1,
+            "id": "2293fcdd90324e9d807b61d9cdcdb4a7"
+        },
+        {
+            "question": "I can't ............................... my head around it.",
+            "description": "To wrap your head around something is to understand it.",
+            "answers": [
+                "bend",
+                "wind",
+                "wrap"
+            ],
+            "correct": 2,
+            "id": "bf2e71bef3f34c00bc4b20d1d96e8a62"
+        }
+    ]
+}

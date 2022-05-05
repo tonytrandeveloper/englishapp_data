@@ -1,0 +1,127 @@
+{
+    "id": "fae5c4392e2e440c9d3c46c9859a7969",
+    "title": "Adjective vs. Adverb",
+    "questions": [
+        {
+            "question": "He spoke ………………………..",
+            "description": "We use the adverb loudly to modify the verb spoke. ",
+            "answers": [
+                "loud",
+                "loudly"
+            ],
+            "correct": 1,
+            "id": "56a203a9d03e433dada0b41ad64243ed"
+        },
+        {
+            "question": "I felt ……………………..",
+            "description": "Feel is a copular verb. We use adjectives, not adverbs, to modify copular verbs. ",
+            "answers": [
+                "happy",
+                "happily"
+            ],
+            "correct": 0,
+            "id": "3072fdcbd68d42ddbbb9b8edbb3f216c"
+        },
+        {
+            "question": "I am feeling much ………………………… today.",
+            "description": "",
+            "answers": [
+                "good",
+                "well",
+                "better"
+            ],
+            "correct": 2,
+            "id": "5d3ec4ee773745a09451ac658c6012c6"
+        },
+        {
+            "question": "She speaks …………………….. English.",
+            "description": "Here the adjective fluent modifies the noun English.",
+            "answers": [
+                "fluent",
+                "fluently"
+            ],
+            "correct": 0,
+            "id": "e7ccfef7ce05477c9439361c61882c46"
+        },
+        {
+            "question": "They hit the stone ……………………..",
+            "description": "Hard can be an adjective or an adverb. ",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 0,
+            "id": "dbd8b31886104b92b9b134c249cfc7f4"
+        },
+        {
+            "question": "Don’t drive too ……………………….",
+            "description": "The adjective and adverb form of fast is fast. ",
+            "answers": [
+                "fast",
+                "fastly"
+            ],
+            "correct": 0,
+            "id": "278f4d8252f5443891fa4177d1417570"
+        },
+        {
+            "question": "I was hit …………………………. on the nose.",
+            "description": "Right can mean exactly.",
+            "answers": [
+                "right",
+                "rightly"
+            ],
+            "correct": 0,
+            "id": "20939c488cb749e28173422f2bbb743d"
+        },
+        {
+            "question": "It serves him …………………………",
+            "description": "After a verb right is used to mean correctly. ",
+            "answers": [
+                "right",
+                "rightly"
+            ],
+            "correct": 0,
+            "id": "7ae11fcd554b4a1c826efae22cc169de"
+        },
+        {
+            "question": "She is ……………………….. waiting for a call from her son.",
+            "description": "",
+            "answers": [
+                "anxious",
+                "anxiously"
+            ],
+            "correct": 1,
+            "id": "4216fc9acdbe42fc88c8db5cdd1beed6"
+        },
+        {
+            "question": "The baby is sleeping …………………………",
+            "description": "Here soundly modifies the verb sleeping. ",
+            "answers": [
+                "sound",
+                "soundly"
+            ],
+            "correct": 1,
+            "id": "973fb32c60f44c9683ca2fafd09d86a1"
+        },
+        {
+            "question": "He was ………………………… asleep.",
+            "description": "Sound is used as an adverb in expressions like sound asleep. In other cases, we use soundly.",
+            "answers": [
+                "sound",
+                "soundly"
+            ],
+            "correct": 0,
+            "id": "0b97be9f6978402e9183020e10b63135"
+        },
+        {
+            "question": "‘Can I borrow your bicycle?’ ‘……………………….’",
+            "description": "",
+            "answers": [
+                "Sure",
+                "Surely"
+            ],
+            "correct": 0,
+            "id": "78d24f0eb8bf4c8bb0d515f24f42fb09"
+        }
+    ]
+}

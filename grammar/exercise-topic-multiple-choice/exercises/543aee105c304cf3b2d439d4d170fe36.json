@@ -1,0 +1,135 @@
+{
+    "id": "543aee105c304cf3b2d439d4d170fe36",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "She is …………………….. woman in her village.",
+            "description": "The superlative is used to compare one person or thing with the whole group to which they belong. ",
+            "answers": [
+                "the richer",
+                "the richest",
+                "the rich"
+            ],
+            "correct": 1,
+            "id": "bbee683ccfc7466fb25a562bd53e0a2b"
+        },
+        {
+            "question": "This is ……………………….. birthday gift I have ever received.",
+            "description": "",
+            "answers": [
+                "the goodest",
+                "best",
+                "the best"
+            ],
+            "correct": 2,
+            "id": "004e19bf5a2348cfa8d7091aae14a9aa"
+        },
+        {
+            "question": "I don’t drink as ………………………… as you do.",
+            "description": "Many indicates number much indicates quantity. ",
+            "answers": [
+                "many",
+                "much"
+            ],
+            "correct": 1,
+            "id": "a9a319152ef24d78b143070f37f1388c"
+        },
+        {
+            "question": "Tom is …………………………. of my four children.",
+            "description": "Youngest is the superlative form.",
+            "answers": [
+                "younger",
+                "the youngest",
+                "the most youngest"
+            ],
+            "correct": 1,
+            "id": "c8f1a31a8b81475c90560ccb2e7202bd"
+        },
+        {
+            "question": "Haven’t you paid the fees ……………………..?",
+            "description": "",
+            "answers": [
+                "already",
+                "still",
+                "yet"
+            ],
+            "correct": 2,
+            "id": "d69ecd8c5d984e2caea175c3593360aa"
+        },
+        {
+            "question": "They …………………………. ever go out.",
+            "description": "Hardly ever means the same as almost never.",
+            "answers": [
+                "hardly",
+                "almost",
+                "nearly"
+            ],
+            "correct": 0,
+            "id": "905079c3ec80461488dd357a19b461df"
+        },
+        {
+            "question": "She is …………………………. late for work.",
+            "description": "",
+            "answers": [
+                "never",
+                "ever",
+                "hardly ever"
+            ],
+            "correct": 2,
+            "id": "eaba92a5f2654103b359e66bfc4182ae"
+        },
+        {
+            "question": "I have not ……………………….. heard from them.",
+            "description": "",
+            "answers": [
+                "yet",
+                "already",
+                "still"
+            ],
+            "correct": 0,
+            "id": "63dbb2a37b444df9b3d1e58b27e2a25e"
+        },
+        {
+            "question": "She can speak French ……………………….. fluently.",
+            "description": "Quite indicates a higher degree of something. ",
+            "answers": [
+                "Quite",
+                "Quiet"
+            ],
+            "correct": 0,
+            "id": "f7c9253b7da24499be026bf4cbf0e2a9"
+        },
+        {
+            "question": "She is ……………………….. than I thought.",
+            "description": "Cleverer is the comparative form of clever. ",
+            "answers": [
+                "clever",
+                "more clever",
+                "cleverer"
+            ],
+            "correct": 2,
+            "id": "ce2a047dc17a4e5cafd5222f7256b6a3"
+        },
+        {
+            "question": "You ate ………………………… anything.",
+            "description": "Hardly anything means almost nothing. ",
+            "answers": [
+                "hardly",
+                "almost",
+                "rarely"
+            ],
+            "correct": 0,
+            "id": "00c7e67fc9114c35a91e562461a5eee0"
+        },
+        {
+            "question": "She said ……………………….",
+            "description": "",
+            "answers": [
+                "nothing",
+                "anything"
+            ],
+            "correct": 0,
+            "id": "b91d31b540dc4f17a242023eec81a3f2"
+        }
+    ]
+}

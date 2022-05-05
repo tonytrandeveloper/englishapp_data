@@ -1,0 +1,150 @@
+{
+    "id": "bf2c948fdba74c6f8fdbaa0eab8b98a0",
+    "title": "Kinds Of Sentences",
+    "questions": [
+        {
+            "question": "Where have you been all this while?",
+            "description": "An interrogative sentence asks a question.",
+            "answers": [
+                "Exclamatory",
+                "Declarative",
+                "Interrogative",
+                "Imperative"
+            ],
+            "correct": 2,
+            "id": "9bc87fac92cc46748254d1db52eba677"
+        },
+        {
+            "question": "He took voluntary retirement last year.",
+            "description": "A declarative sentence makes a statement.",
+            "answers": [
+                "Exclamatory",
+                "Declarative",
+                "Imperative",
+                "Interrogative"
+            ],
+            "correct": 1,
+            "id": "833f85d64be5439dbc062b1e9e18ce77"
+        },
+        {
+            "question": "Bravo, you’re doing quite well!",
+            "description": "An exclamatory sentence expresses a sudden emotion.",
+            "answers": [
+                "Exclamatory",
+                "Imperative",
+                "Interrogative",
+                "Declarative"
+            ],
+            "correct": 0,
+            "id": "1b6b4f67e92240f78964c2d3f394efe2"
+        },
+        {
+            "question": "Put it down.",
+            "description": "An imperative sentence expresses a command, order or entreaty.",
+            "answers": [
+                "Imperative",
+                "Exclamatory",
+                "Declarative",
+                "Interrogative"
+            ],
+            "correct": 0,
+            "id": "08d7f4a0a6cd42b0a85fd1c4ab48ea6a"
+        },
+        {
+            "question": "She lives in a small town with her husband and children.",
+            "description": "A declarative sentence makes a statement.",
+            "answers": [
+                "Exclamatory",
+                "Declarative",
+                "Interrogative",
+                "Imperative"
+            ],
+            "correct": 1,
+            "id": "380f4efe0eb64740a037a16f9bc17908"
+        },
+        {
+            "question": "I don’t remember his name.",
+            "description": "A declarative sentence makes a statement.",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Interrogative",
+                "Exclamatory"
+            ],
+            "correct": 0,
+            "id": "6734ada861e845bbaf979399b30c9337"
+        },
+        {
+            "question": "She forgot to lock the door before going out.",
+            "description": "A declarative sentence makes a statement.",
+            "answers": [
+                "Exclamatory",
+                "Imperative",
+                "Interrogative",
+                "Declarative"
+            ],
+            "correct": 3,
+            "id": "b24c55602ac5497f972548ed5f1285e3"
+        },
+        {
+            "question": "What did you do with the money?",
+            "description": "An interrogative sentence asks a question.",
+            "answers": [
+                "Interrogative",
+                "Exclamatory",
+                "Declarative",
+                "Imperative"
+            ],
+            "correct": 0,
+            "id": "bf3a8e820ee84fb399ca7f907d50acb8"
+        },
+        {
+            "question": "I don’t want to leave now.",
+            "description": "",
+            "answers": [
+                "Imperative",
+                "Declarative",
+                "Exclamatory",
+                "Interrogative"
+            ],
+            "correct": 1,
+            "id": "c60bbbee51b74cbfa8074447bfaa9cd6"
+        },
+        {
+            "question": "Give me a ring.",
+            "description": "An imperative sentence expresses a command, order or entreaty.",
+            "answers": [
+                "Exclamatory",
+                "Imperative",
+                "Declarative",
+                "Interrogative"
+            ],
+            "correct": 1,
+            "id": "7b3610f26037413280df1ebc6559b61f"
+        },
+        {
+            "question": "How disgusting!",
+            "description": "An exclamatory sentence expresses a sudden emotion. ",
+            "answers": [
+                "Imperative",
+                "Interrogative",
+                "Exclamatory",
+                "Declarative"
+            ],
+            "correct": 2,
+            "id": "5317f9657bdf4b13a4c0b683f5ab0026"
+        },
+        {
+            "question": "What a pleasant surprise!",
+            "description": "",
+            "answers": [
+                "Interrogative",
+                "Exclamatory",
+                "Declarative",
+                "Imperative"
+            ],
+            "correct": 1,
+            "id": "b041275185ce484fad0a76b6372411dd"
+        }
+    ]
+}

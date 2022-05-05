@@ -1,0 +1,133 @@
+{
+    "id": "ffe7a3ddd2fc44a089b466245e4ed56e",
+    "title": "Gerund vs. Infinitive",
+    "questions": [
+        {
+            "question": "I am thinking ……………………………. a business.",
+            "description": "The verb is followed by of + ing form.",
+            "answers": [
+                "to start",
+                "of starting"
+            ],
+            "correct": 1,
+            "id": "4b89ebdef5484aa783f93fef588ad06a"
+        },
+        {
+            "question": "I stopped her …………………………….. my room.",
+            "description": "Stop is followed by object + from + ing form.",
+            "answers": [
+                "to enter",
+                "from entering"
+            ],
+            "correct": 1,
+            "id": "66bcfc84f8be42afb66256f05b7b6e7d"
+        },
+        {
+            "question": "They encouraged me …………………………… again.",
+            "description": "Encourage is followed by object + to infinitive.",
+            "answers": [
+                "to try",
+                "trying",
+                "from trying"
+            ],
+            "correct": 0,
+            "id": "a2eacb654e4f4a4997f8b45d2ef32c51"
+        },
+        {
+            "question": "I am tired …………………………… to advice.",
+            "description": "Tired is followed by of + ing form.",
+            "answers": [
+                "to listen",
+                "of listening"
+            ],
+            "correct": 1,
+            "id": "9c8a996e4e56483dbb962cd0d9e420b7"
+        },
+        {
+            "question": "I saw them …………………………….. in the garden.",
+            "description": "The see can be followed by an ing form or an infinitive without to.",
+            "answers": [
+                "play",
+                "playing",
+                "to play"
+            ],
+            "correct": 1,
+            "id": "92cfc2f9c5c84cc492e6d70f193fd4b3"
+        },
+        {
+            "question": "She was told …………………………",
+            "description": "",
+            "answers": [
+                "to quit",
+                "quitting",
+                "of quitting"
+            ],
+            "correct": 0,
+            "id": "eca90b12b1aa47b4a8d049aa822c7b12"
+        },
+        {
+            "question": "I was made …………………………….. the whole story.",
+            "description": "When make is used in the passive form, it is followed by a to-infinitive. ",
+            "answers": [
+                "repeat",
+                "to repeat",
+                "of repeating"
+            ],
+            "correct": 1,
+            "id": "d523793376aa47278cf28740d33da085"
+        },
+        {
+            "question": "Harsh punishments may deter potential offenders ………………………….. a crime.",
+            "description": "",
+            "answers": [
+                "to commit",
+                "from committing"
+            ],
+            "correct": 1,
+            "id": "18e8e7cbd8444b74b90391a14a7d95ef"
+        },
+        {
+            "question": "I was not allowed …………………………..",
+            "description": "Allow is followed by a to-infinitive. ",
+            "answers": [
+                "to go",
+                "from going",
+                "go"
+            ],
+            "correct": 0,
+            "id": "56041bf0cefb49cf873a9f27e1a811d4"
+        },
+        {
+            "question": "The illness prohibited her …………………………. blood.",
+            "description": "Prohibit is followed by object + from + ing form.",
+            "answers": [
+                "to donate",
+                "from donating"
+            ],
+            "correct": 1,
+            "id": "470ad9b100584d36a78f61a1fe319f5d"
+        },
+        {
+            "question": "I was advised …………………………….. harder.",
+            "description": "",
+            "answers": [
+                "to work",
+                "working",
+                "to working"
+            ],
+            "correct": 0,
+            "id": "76d163c6ff1c421ab69841289a7622e5"
+        },
+        {
+            "question": "We could not restrain him ………………………………… us.",
+            "description": "Restrain is followed by object + from + ing form.",
+            "answers": [
+                "from attacking",
+                "to attack",
+                "from attack"
+            ],
+            "correct": 0,
+            "id": "53593180288a49f887f1759a7d31a311"
+        }
+    ]
+}

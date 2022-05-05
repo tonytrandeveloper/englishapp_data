@@ -1,0 +1,138 @@
+{
+    "id": "afb36ccf17e349919d9e77983bce8a94",
+    "title": "Phrasal Verbs With Cut",
+    "questions": [
+        {
+            "question": "We need to cut ................................ on luxuries.",
+            "description": "To cut back on something is to reduce spending on it.",
+            "answers": [
+                "back",
+                "off",
+                "down"
+            ],
+            "correct": 0,
+            "id": "a7ed27df861043fe9a0fe4675ea40846"
+        },
+        {
+            "question": "You need to cut .............................. on sugar. You are diabetic!",
+            "description": "To cut back on something is to reduce its consumption.",
+            "answers": [
+                "up",
+                "back",
+                "out"
+            ],
+            "correct": 1,
+            "id": "66330097c458481e90c6204794a5b640"
+        },
+        {
+            "question": "Environmentalists are against the project because they do not want the government to cut .............................. trees to make room for a theme park.",
+            "description": "To cut down trees is to bring them down by cutting them.",
+            "answers": [
+                "up",
+                "off",
+                "down"
+            ],
+            "correct": 2,
+            "id": "46731c1b57f144748295543246d0b032"
+        },
+        {
+            "question": "If you want to lose weight, you should cut ............................ on your calorie intake.",
+            "description": "To cut down on something is to reduce the amount of something.",
+            "answers": [
+                "in",
+                "out",
+                "down"
+            ],
+            "correct": 2,
+            "id": "ca16ae1703e64780bd529cf6776aac6d"
+        },
+        {
+            "question": "If my dad hadn't cut me ..................................., I would never have found a job.",
+            "description": "To cut someone off is to stop providing financial support to them.",
+            "answers": [
+                "up",
+                "out",
+                "off"
+            ],
+            "correct": 2,
+            "id": "f0c5426347cb42eb8ff864a76ca0d385"
+        },
+        {
+            "question": "That dunce cut me ................................ as I was about to conclude my presentation.",
+            "description": "To cut somebody off is to interrupt them as they speak. ",
+            "answers": [
+                "off",
+                "out",
+                "up"
+            ],
+            "correct": 0,
+            "id": "62ff0e7fd86249c3bc44f8c233a979b8"
+        },
+        {
+            "question": "Cut ................................ the lamp when you leave the room.",
+            "description": "To cut off an electrical device is to turn it off.",
+            "answers": [
+                "up",
+                "down",
+                "off"
+            ],
+            "correct": 2,
+            "id": "d2e7b02a94984241b5a23d0299149578"
+        },
+        {
+            "question": "The health scare compelled him to cut ............................... smoking.",
+            "description": "To cut out smoking is to refrain from smoking.",
+            "answers": [
+                "up",
+                "down",
+                "out"
+            ],
+            "correct": 2,
+            "id": "a4435c078f0541dda420a786d8c2519d"
+        },
+        {
+            "question": "The generator suddenly cut .................................. and the house plunged into darkness.",
+            "description": "When a device cuts out, it stops working.",
+            "answers": [
+                "off",
+                "out",
+                "up"
+            ],
+            "correct": 1,
+            "id": "13f78073eb6c4aebb4d2347137330523"
+        },
+        {
+            "question": "We cut .................................... the woods and got home in less than an hour.",
+            "description": "To cut through something is to take a short cut through it.",
+            "answers": [
+                "in",
+                "across",
+                "through"
+            ],
+            "correct": 2,
+            "id": "952157b7f5e0406bb50c3e5a1134beb3"
+        },
+        {
+            "question": "He was badly cut ..................................... by his attackers.",
+            "description": "Cut up can mean wound.",
+            "answers": [
+                "off",
+                "up",
+                "down"
+            ],
+            "correct": 1,
+            "id": "892d4df4c672445e83eb61f62a00c7a5"
+        },
+        {
+            "question": "Critics cut .................................... the movie mercilessly.",
+            "description": "Cut up can mean criticize or censure.",
+            "answers": [
+                "down",
+                "up",
+                "in"
+            ],
+            "correct": 1,
+            "id": "1cda5b3767494079974fb04bf7afc9ee"
+        }
+    ]
+}

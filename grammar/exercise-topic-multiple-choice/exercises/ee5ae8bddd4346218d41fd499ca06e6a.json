@@ -1,0 +1,123 @@
+{
+    "id": "ee5ae8bddd4346218d41fd499ca06e6a",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "You had better ...................... a specialist.",
+            "description": "",
+            "answers": [
+                "consult",
+                "consulted",
+                "to consult"
+            ],
+            "correct": 0,
+            "id": "335dfc5e5bec41e296a31616783b6bf7"
+        },
+        {
+            "question": "You must not leave books near the open fire. They …………………. easily.",
+            "description": "",
+            "answers": [
+                "catch to fire",
+                "catch with fire",
+                "catch fire",
+                "catch on fire"
+            ],
+            "correct": 2,
+            "id": "9020c725131c41a2b283dc17c650af35"
+        },
+        {
+            "question": "When will the meeting .......................?",
+            "description": "",
+            "answers": [
+                "be held",
+                "be hold",
+                "hold place",
+                "take hold"
+            ],
+            "correct": 0,
+            "id": "e470ffbd576f425a88f704767881d2a9"
+        },
+        {
+            "question": "Let’s ………………… this weekend. It is snowing.",
+            "description": "",
+            "answers": [
+                "go ski",
+                "go skiing",
+                "go to ski",
+                "skiing"
+            ],
+            "correct": 1,
+            "id": "3249f5b3b7d349cd8220a0c0c54ac6e7"
+        },
+        {
+            "question": "I have had ..................... for a bit. I am going home.",
+            "description": "",
+            "answers": [
+                "enough Rome",
+                "enough of Rome",
+                "Rome enough"
+            ],
+            "correct": 1,
+            "id": "797ad4728a224a41ac5567f590774c09"
+        },
+        {
+            "question": "He is trying to make a machine that would ………………….. people in wheelchairs to get up stairs.",
+            "description": "",
+            "answers": [
+                "able",
+                "enable",
+                "capable",
+                "unable"
+            ],
+            "correct": 1,
+            "id": "fa4d915bc1fb489fba15e6b25465ac4c"
+        },
+        {
+            "question": "I really ..................... . when I went skiing last month.",
+            "description": "",
+            "answers": [
+                "enjoyed",
+                "enjoyed myself",
+                "enjoyed with",
+                "enjoyed myself with"
+            ],
+            "correct": 1,
+            "id": "ef26c77a727b47e6b621e06a76f2e50a"
+        },
+        {
+            "question": "I felt like ..................... .",
+            "description": "",
+            "answers": [
+                "cry",
+                "to cry",
+                "crying",
+                "to crying"
+            ],
+            "correct": 2,
+            "id": "51f5d8d16980421cae764c95b766de31"
+        },
+        {
+            "question": "I ....................... for hours, and I was getting tired.",
+            "description": "",
+            "answers": [
+                "was running",
+                "had been running",
+                "have been running",
+                "am running"
+            ],
+            "correct": 1,
+            "id": "daaafa7004a148c5badd6d7098c44cb7"
+        },
+        {
+            "question": "....................., he went on working.",
+            "description": "",
+            "answers": [
+                "As he was tired",
+                "Tired he was",
+                "Tired though he was"
+            ],
+            "correct": 2,
+            "id": "1fbd8f77f6914155823d0691f068027f"
+        }
+    ]
+}

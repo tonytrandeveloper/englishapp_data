@@ -1,0 +1,138 @@
+{
+    "id": "c560375be1d242158bd8871256d2ef5a",
+    "title": "Been, Gone And Come",
+    "questions": [
+        {
+            "question": "John has .............................. to the market. He will be back in a short while.",
+            "description": "Been is used for completed visits. If somebody has gone to a place, they are still there.",
+            "answers": [
+                "been",
+                "gone",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "6bb6acaea0db47c7971b5bd4599ef0eb"
+        },
+        {
+            "question": "Have you ever .................................. to Nigeria?",
+            "description": "Been is used for completed visits. If you have been to Nigeria, you went there and returned.",
+            "answers": [
+                "been",
+                "gone",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "b748749046f848feb6413eb110be0122"
+        },
+        {
+            "question": "You cannot meet him now. He has .................................. home.",
+            "description": "If he has gone home, he is still at his home. ",
+            "answers": [
+                "been",
+                "gone",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "b0fe6a72798f423793e110739b109b81"
+        },
+        {
+            "question": "I have ................................... to see them twice since January.",
+            "description": "Been is used for completed visits.",
+            "answers": [
+                "been",
+                "gone",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "8965c98ef9204c5c9a087c12ea7db4fc"
+        },
+        {
+            "question": "Where have you ...............................? I've been waiting for an hour.",
+            "description": "",
+            "answers": [
+                "been",
+                "gone",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "a3590a2b2ec4433195b9984f72c705b5"
+        },
+        {
+            "question": "'Where is James?' 'He has ................................... to school.'",
+            "description": "",
+            "answers": [
+                "been",
+                "gone",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "32e40749218c4fd3b9ca2c991654073a"
+        },
+        {
+            "question": "I have never ................................ to Europe.",
+            "description": "",
+            "answers": [
+                "been",
+                "gone",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "67dd9344edff48dca38db5cddeae970e"
+        },
+        {
+            "question": "Those days have long .................................",
+            "description": "",
+            "answers": [
+                "been",
+                "gone",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "726fa7f2d75946739c8e75a867d1ac3e"
+        },
+        {
+            "question": "The boy has .................................... missing for a week.",
+            "description": "We make the present perfect continuous tense form with been.",
+            "answers": [
+                "been",
+                "gone",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "2f63148d19ec4ddf81c5a6ce3cc906bc"
+        },
+        {
+            "question": "Where have you ................................... all this while?",
+            "description": "",
+            "answers": [
+                "been",
+                "gone",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "e01858d0bf3847cfbdd0771882709820"
+        },
+        {
+            "question": "I haven't .................................... to the cinema for ages.",
+            "description": "",
+            "answers": [
+                "gone",
+                "been",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "eb60a86ae21b4b769cd2c4a0c4edeb78"
+        },
+        {
+            "question": "She has .................................. We can start now.",
+            "description": "She has come means she is still here. ",
+            "answers": [
+                "been",
+                "come",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "15e07c07839941c9adb87cbfe87e182e"
+        }
+    ]
+}

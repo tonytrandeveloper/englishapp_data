@@ -1,0 +1,138 @@
+{
+    "id": "ed67de773a4744ec92024e6ee57dd5ae",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "……………………………. his poor vision, he reads books.",
+            "description": "In spite of is a preposition. It is followed by a noun / ing form.",
+            "answers": [
+                "In spite of",
+                "However",
+                "Though"
+            ],
+            "correct": 0,
+            "id": "0186ec36c0354b10abcc1099ff16b726"
+        },
+        {
+            "question": "…………………………… difficult the problem is, he can solve it quickly.",
+            "description": "",
+            "answers": [
+                "Though",
+                "However",
+                "Despite"
+            ],
+            "correct": 1,
+            "id": "07f0498c7cf5493a8956ea480c338f39"
+        },
+        {
+            "question": "……………………………. his repeated requests, she refused to help him.",
+            "description": "",
+            "answers": [
+                "In spite of",
+                "Though",
+                "However"
+            ],
+            "correct": 0,
+            "id": "8e98c34532994f6882be0c0d53dd4838"
+        },
+        {
+            "question": "……………………………… working hard, she failed.",
+            "description": "Despite is a preposition. It is followed by a noun / ing form.",
+            "answers": [
+                "Despite",
+                "However",
+                "Though"
+            ],
+            "correct": 0,
+            "id": "30b42f6c41c547858d61bb74bbdaea5d"
+        },
+        {
+            "question": "………………………….. his popularity as an actor, he could not win the election.",
+            "description": "Despite is a preposition. It is followed by a noun / ing form.",
+            "answers": [
+                "Despite",
+                "However",
+                "Though"
+            ],
+            "correct": 0,
+            "id": "9dd0c6b1a5c04226aae07fc66ec84e66"
+        },
+        {
+            "question": "……………………………. cold it is, he always goes swimming.",
+            "description": "",
+            "answers": [
+                "Though",
+                "However",
+                "Despite"
+            ],
+            "correct": 1,
+            "id": "91f0b91384f646efa6d171ad1826f4b8"
+        },
+        {
+            "question": "…………………………. you obey my orders, you will be dismissed.",
+            "description": "Unless is similar to if not.",
+            "answers": [
+                "If",
+                "Until",
+                "Unless"
+            ],
+            "correct": 2,
+            "id": "a33f6f0b770843edb5eea10c96e3c78e"
+        },
+        {
+            "question": "………………………… you invite her, she will not come.",
+            "description": "Even if is used to connect two contrasting ideas. It refers to the present or future.",
+            "answers": [
+                "If",
+                "Even if",
+                "Even though"
+            ],
+            "correct": 1,
+            "id": "3f6673a21bb54c339218283269c7e9c0"
+        },
+        {
+            "question": "…………………………. it is expensive, he is determined to buy it.",
+            "description": "Even if is used to connect two contrasting ideas. It refers to the present or future.",
+            "answers": [
+                "Even if",
+                "Even though",
+                "If"
+            ],
+            "correct": 0,
+            "id": "0b3c78ff54234dd689386c73ef0aed17"
+        },
+        {
+            "question": "………………………….. he is rich, he leads a simple life.",
+            "description": "Though is similar to but. It is used to connect two contrasting ideas. ",
+            "answers": [
+                "Though",
+                "If",
+                "Even if"
+            ],
+            "correct": 0,
+            "id": "383b5eb9c6414d27ab50f9b61789e93d"
+        },
+        {
+            "question": "…………………………. she was cooking, her clothes caught fire.",
+            "description": "While can be used to connect two actions that happen simultaneously. ",
+            "answers": [
+                "While",
+                "Since",
+                ""
+            ],
+            "correct": 0,
+            "id": "901149c1040f4f8baa2af932aa45b73a"
+        },
+        {
+            "question": "………………………….. he was not there, I spoke to his mother.",
+            "description": "As is used to give the reason. ",
+            "answers": [
+                "As",
+                "Though",
+                "While"
+            ],
+            "correct": 0,
+            "id": "0ce20a71cdf44c869f15d3dc93eae60e"
+        }
+    ]
+}

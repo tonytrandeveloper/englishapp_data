@@ -1,0 +1,127 @@
+{
+    "id": "c54834ebfcba492db24acea98a32aa1c",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "There are ................................... things I don't like.",
+            "description": "Some is used in affirmative sentences. ",
+            "answers": [
+                "some",
+                "any"
+            ],
+            "correct": 0,
+            "id": "2f9978665e8e4deab54562849ee1c546"
+        },
+        {
+            "question": "Is there ....................................... to help me?",
+            "description": "Any is used in questions and negatives and also after negative expressions like no one, hardly etc.",
+            "answers": [
+                "anyone",
+                "someone"
+            ],
+            "correct": 0,
+            "id": "887db2341d6a4dba8d4fb1e080f65f85"
+        },
+        {
+            "question": "I have .................................... questions to ask.",
+            "description": "A few can mean some. It denotes a small number.",
+            "answers": [
+                "a few",
+                "few",
+                "the few"
+            ],
+            "correct": 0,
+            "id": "3fb9f125931f4f85826f2ea82a61dde3"
+        },
+        {
+            "question": "I would like ...................................... help.",
+            "description": "Some is used in affirmative sentences. ",
+            "answers": [
+                "some",
+                "any"
+            ],
+            "correct": 0,
+            "id": "1b6b05cce9634573855be5f0cb8f6ab0"
+        },
+        {
+            "question": "Can ..................................... solve this problem?",
+            "description": "Any is used in questions and negatives and also after negative expressions like no one, hardly etc.",
+            "answers": [
+                "anybody",
+                "somebody"
+            ],
+            "correct": 0,
+            "id": "944687ef59d44b5394b1048704c590f2"
+        },
+        {
+            "question": "She doesn't have .................................... friends.",
+            "description": "Any is used in questions and negatives and also after negative expressions like no one, hardly etc.",
+            "answers": [
+                "some",
+                "any"
+            ],
+            "correct": 1,
+            "id": "504636347b87490e8c4df9eda6bb4f21"
+        },
+        {
+            "question": "I don't need .................................... help.",
+            "description": "Any is used in questions and negatives and also after negative expressions like no one, hardly etc.",
+            "answers": [
+                "any",
+                "some"
+            ],
+            "correct": 0,
+            "id": "1fcc0c84daff4916ba65036cca8703f9"
+        },
+        {
+            "question": "If she is in a bad mood, send her ..................................... flowers.",
+            "description": "Some is used in affirmative sentences. ",
+            "answers": [
+                "any",
+                "some"
+            ],
+            "correct": 1,
+            "id": "bba678ebf5d5421bb322948d2fc4841f"
+        },
+        {
+            "question": "You may take ............................... bus.",
+            "description": "",
+            "answers": [
+                "any",
+                "some"
+            ],
+            "correct": 0,
+            "id": "32fc0a8c0b3848ca9a1b274d43263813"
+        },
+        {
+            "question": "I couldn't find ................................... books on the subject.",
+            "description": "Any is used in questions and negatives and also after negative expressions like no one, hardly etc.",
+            "answers": [
+                "any",
+                "some"
+            ],
+            "correct": 0,
+            "id": "ffa4743a609842a4afa14a37550fb4bb"
+        },
+        {
+            "question": "I haven't got ...................................... cash on me.",
+            "description": "Any is used in questions and negatives and also after negative expressions like no one, hardly etc.",
+            "answers": [
+                "any",
+                "some"
+            ],
+            "correct": 0,
+            "id": "c157dfdeb9c84843b5613fd1942965a9"
+        },
+        {
+            "question": "No one has ....................................... idea how they managed to do it.",
+            "description": "Any is used in questions and negatives and also after negative expressions like no one, hardly etc.",
+            "answers": [
+                "any",
+                "some"
+            ],
+            "correct": 0,
+            "id": "6b029cc34896428998aa5d71b258f715"
+        }
+    ]
+}

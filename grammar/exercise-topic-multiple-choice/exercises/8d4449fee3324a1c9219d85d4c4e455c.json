@@ -1,0 +1,138 @@
+{
+    "id": "8d4449fee3324a1c9219d85d4c4e455c",
+    "title": "Idioms Exercise",
+    "questions": [
+        {
+            "question": "Beware of that ……………………….. in sheep’s clothing.",
+            "description": "A wolf in sheep’s clothing is a hypocrite.",
+            "answers": [
+                "fox",
+                "wolf",
+                "jackal"
+            ],
+            "correct": 1,
+            "id": "a0f025f1048d42ebaf0f6330b243d41c"
+        },
+        {
+            "question": "After her husband’s death, she is struggling to keep the ……………………………….. from the door.",
+            "description": "To keep the wolf from the door is to avert starvation.",
+            "answers": [
+                "tiger",
+                "owl",
+                "wolf"
+            ],
+            "correct": 2,
+            "id": "aad99e838258476db26cd9a2e909d684"
+        },
+        {
+            "question": "The violence came to a ……………………….. when the police fired at the rioters.",
+            "description": "To come to a head is to reach a crisis.",
+            "answers": [
+                "high",
+                "head",
+                "peak"
+            ],
+            "correct": 1,
+            "id": "85758a551acc454f960ed7f2a09283c3"
+        },
+        {
+            "question": "He might plead the cause of the poor, but he is unlikely to put his hand in his ..........................................",
+            "description": "To put your hand in your pocket is to donate money to a charity.",
+            "answers": [
+                "bag",
+                "pocket",
+                "drawers"
+            ],
+            "correct": 1,
+            "id": "28f0e6295158459497630d44b51a7d71"
+        },
+        {
+            "question": "You see she has two strings to her ……………………………. She is a writer. She also does modeling.",
+            "description": "To have two strings to your bow is to have two sources of income.",
+            "answers": [
+                "bow",
+                "sitar",
+                "violin"
+            ],
+            "correct": 0,
+            "id": "841031d211934f35984cbb6e66595631"
+        },
+        {
+            "question": "They have threatened war to the …………………………….. if their demands are not granted.",
+            "description": "A war to the knife is a deadly struggle.",
+            "answers": [
+                "spear",
+                "dragon",
+                "knife"
+            ],
+            "correct": 2,
+            "id": "314181ae5ec34d75addd6fe41d460d20"
+        },
+        {
+            "question": "He joined the company as a cashier but now he is at the top of the …………………………..",
+            "description": "When you are at the top of the tree you are at the highest position in an organization.",
+            "answers": [
+                "house",
+                "tree",
+                "ship"
+            ],
+            "correct": 1,
+            "id": "9c1cb4214b5a462cb1f77eff3e7ed56a"
+        },
+        {
+            "question": "I sent him about his …………………………… because I could no longer stand his insolence.",
+            "description": "To send somebody about their business is to dismiss them rudely.",
+            "answers": [
+                "work",
+                "job",
+                "business"
+            ],
+            "correct": 2,
+            "id": "e9eb56c96a544908b0b41553f749d008"
+        },
+        {
+            "question": "He says that he has rubbed …………………………… with many celebrities.",
+            "description": "To rub shoulders with somebody is to be in close contact with them.",
+            "answers": [
+                "head",
+                "shoulders",
+                "hands"
+            ],
+            "correct": 1,
+            "id": "32c682829f1844cfa3e214856818adef"
+        },
+        {
+            "question": "I have told you time and again not to poke your …………………………… into my business.",
+            "description": "To poke your nose is to meddle in another person’s affairs.",
+            "answers": [
+                "head",
+                "nose",
+                "tongue"
+            ],
+            "correct": 1,
+            "id": "d1879899de2c435c9ecc92ca4f3379ee"
+        },
+        {
+            "question": "He is the ……………………………. man of his boss.",
+            "description": "The right hand man is the person who supports you the most.",
+            "answers": [
+                "right hand",
+                "left hand",
+                "second hand"
+            ],
+            "correct": 0,
+            "id": "1de53560de124dd4bc8a6f7f85ed2780"
+        },
+        {
+            "question": "After the death of his parents, his uncle took him under his …………………………….",
+            "description": "To take somebody under your wing is to offer them protection. ",
+            "answers": [
+                "shoulder",
+                "wings",
+                "head"
+            ],
+            "correct": 1,
+            "id": "8bd4ee2c01e04dd7b0cdd326ee0c14ed"
+        }
+    ]
+}

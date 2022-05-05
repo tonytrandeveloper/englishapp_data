@@ -1,0 +1,138 @@
+{
+    "id": "0014debb8f364534aa7840fc392a35e6",
+    "title": "Identify the adverb",
+    "questions": [
+        {
+            "question": "There is clearly something wrong with her.",
+            "description": "Adverbs are words that indicate ideas such as time, place, manner and frequency. ",
+            "answers": [
+                "clearly",
+                "wrong",
+                "with"
+            ],
+            "correct": 0,
+            "id": "0d609e483f6e481b8eae1d947a9893c6"
+        },
+        {
+            "question": "She is my teacher but she is also my friend.",
+            "description": "But is a conjunction and friend is a noun. Also is the adverb. ",
+            "answers": [
+                "but",
+                "friend",
+                "also"
+            ],
+            "correct": 2,
+            "id": "796a099ce56644788b68bcb53063a236"
+        },
+        {
+            "question": "He always wears a coat, even in summer.",
+            "description": "Wears is a verb and summer is a noun. Always is the adverb.",
+            "answers": [
+                "always",
+                "wears",
+                "summer"
+            ],
+            "correct": 0,
+            "id": "efe21798076042ba975fa7da396a1e52"
+        },
+        {
+            "question": "He often comes and stays with us.",
+            "description": "With is a preposition and is a conjunction often is an adverb of frequency",
+            "answers": [
+                "with",
+                "often",
+                "and"
+            ],
+            "correct": 1,
+            "id": "8fa4e55e0b954bacb35ed8134361f21f"
+        },
+        {
+            "question": "I am going to Venice today.",
+            "description": "Time words are adverbs.",
+            "answers": [
+                "am",
+                "to",
+                "today"
+            ],
+            "correct": 2,
+            "id": "33b6ce73a4f64f438fbd9897abeb0ce0"
+        },
+        {
+            "question": "You have definitely been a great help.",
+            "description": "Words ending in -ly are usually adverbs note that there are a few exceptions to this rule. ",
+            "answers": [
+                "definitely",
+                "been",
+                "great"
+            ],
+            "correct": 0,
+            "id": "6e082daccc8447cd9ffb8c6a23ed6d3d"
+        },
+        {
+            "question": "This time next week, I will be happily working in my garden.",
+            "description": "Next is an adjective garden is a noun happily is the adverb.",
+            "answers": [
+                "next",
+                "happily",
+                "garden"
+            ],
+            "correct": 1,
+            "id": "e0c7b3b86e394289af7f33cfa8ede423"
+        },
+        {
+            "question": "I don’t think the repair has been properly done.",
+            "description": "Properly is an adverb indicating manner.",
+            "answers": [
+                "think",
+                "repair",
+                "properly"
+            ],
+            "correct": 2,
+            "id": "d26041b7cda14db2b9ac4395c68537a1"
+        },
+        {
+            "question": "I am really sorry for disturbing you.",
+            "description": "Really is an adverb indicating manner.",
+            "answers": [
+                "really",
+                "sorry",
+                "disturbing"
+            ],
+            "correct": 0,
+            "id": "032435a47a9244c8a6016352b0f019d6"
+        },
+        {
+            "question": "We went to bed early.",
+            "description": "Words indicating time, place, manner, frequency, condition etc., are all adverbs. ",
+            "answers": [
+                "early",
+                "went",
+                "to"
+            ],
+            "correct": 0,
+            "id": "ca62970a9295460c8d681708b186adaa"
+        },
+        {
+            "question": "The war seriously affected oil prices.",
+            "description": "Words indicating manner are adverbs.",
+            "answers": [
+                "war",
+                "seriously",
+                "affected"
+            ],
+            "correct": 1,
+            "id": "a023dca087a34d14b75d83a9b798343d"
+        },
+        {
+            "question": "She must sometimes have wanted to run away.",
+            "description": "Words indicating time and frequency are adverbs.",
+            "answers": [
+                "must",
+                "sometimes",
+                "run"
+            ],
+            "correct": 1,
+            "id": "f5f5b98082174ae299d78b808b163cc8"
+        }
+    ]
+}

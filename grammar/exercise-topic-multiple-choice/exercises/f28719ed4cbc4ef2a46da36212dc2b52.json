@@ -1,0 +1,128 @@
+{
+    "id": "f28719ed4cbc4ef2a46da36212dc2b52",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "We went ………………………. on the weekend.",
+            "description": "There is no preposition in the expression go swimming, go walking, go climbing etc.",
+            "answers": [
+                "swimming",
+                "to swimming",
+                "Either could be used here",
+                ""
+            ],
+            "correct": 0,
+            "id": "400c2a58c0b2426c89584b5c55dc0a03"
+        },
+        {
+            "question": "Let’s go ………………………… drive next weekend.",
+            "description": "This is a common expression referring to leisure activities.",
+            "answers": [
+                "for",
+                "for a",
+                "to a"
+            ],
+            "correct": 1,
+            "id": "40dbf5822ada4f60868f3e56e7f06e2e"
+        },
+        {
+            "question": "I went swimming ………………………… the sea.",
+            "description": "Prepositions of place are used after go + …ing.",
+            "answers": [
+                "to",
+                "at",
+                "in"
+            ],
+            "correct": 2,
+            "id": "ce1993d7fd204e79910cfe205c72f38c"
+        },
+        {
+            "question": "Don’t go skating ………………………….. the lake.",
+            "description": "Prepositions of place are used after go + …ing.",
+            "answers": [
+                "to",
+                "on",
+                "in"
+            ],
+            "correct": 1,
+            "id": "f775236c41cb4d5bbba3cbb710f7abac"
+        },
+        {
+            "question": "We went shopping ……………………… Dubai.",
+            "description": "Prepositions of place are used after go + …ing.",
+            "answers": [
+                "to",
+                "in",
+                "at"
+            ],
+            "correct": 1,
+            "id": "a5436fc96bf445caa80ad2aec1a90256"
+        },
+        {
+            "question": "She ………………………….. mend her ways.",
+            "description": "Had better is used to give strong advice.",
+            "answers": [
+                "has better",
+                "had better",
+                "have better"
+            ],
+            "correct": 1,
+            "id": "199cb6e8f4744de196f4570ae00def5c"
+        },
+        {
+            "question": "Half of my friends ……………………… abroad.",
+            "description": "When the noun following half of is plural, we use a plural verb.",
+            "answers": [
+                "live",
+                "lives",
+                "living"
+            ],
+            "correct": 0,
+            "id": "686258b5dce040e6804ff2af7275bf48"
+        },
+        {
+            "question": "I had scarcely closed my eyes ………………………. I heard a knock on the door.",
+            "description": "Scarcely is followed by when or before.",
+            "answers": [
+                "when",
+                "before",
+                "than"
+            ],
+            "correct": 1,
+            "id": "df5a55e692d44f73acf71e63f2c89d95"
+        },
+        {
+            "question": "No sooner had I closed the door ………………………….. someone knocked.",
+            "description": "We use than after no sooner.",
+            "answers": [
+                "when",
+                "than",
+                "before"
+            ],
+            "correct": 1,
+            "id": "bd4bdd61da3d48ad849e32dd5e1c7164"
+        },
+        {
+            "question": "She was hardly inside the house ………………………… the lights went out.",
+            "description": "Hardly is followed by when or before.",
+            "answers": [
+                "when",
+                "before",
+                "than"
+            ],
+            "correct": 1,
+            "id": "80b9d6f4887540478b3035c4f5e9400a"
+        },
+        {
+            "question": "She had no sooner agreed to marry him than she ……………………… having serious doubts.",
+            "description": "",
+            "answers": [
+                "start",
+                "started",
+                "was starting"
+            ],
+            "correct": 1,
+            "id": "b0a61b196fb34787a7c3f1c1fa75593f"
+        }
+    ]
+}

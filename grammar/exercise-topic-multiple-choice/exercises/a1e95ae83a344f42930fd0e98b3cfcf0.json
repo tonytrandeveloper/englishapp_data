@@ -1,0 +1,126 @@
+{
+    "id": "a1e95ae83a344f42930fd0e98b3cfcf0",
+    "title": "Adjective Or Adverb",
+    "questions": [
+        {
+            "question": "He works hard to support his family. Here hard is an ...........................",
+            "description": "It modifies the verb works.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "ccea8e71ee2a47fa8cdba78cef94662e"
+        },
+        {
+            "question": "She said that hard work is the secret of her success. Here hard is an .....................................",
+            "description": "It modifies the noun work.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0,
+            "id": "1dc1bc96a5d748ec966f35dc44941190"
+        },
+        {
+            "question": "I want to buy a fast car. Here fast is an .........................................",
+            "description": "It modifies the noun car.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0,
+            "id": "0f5ec29abfc148d18f4439bf5358f7d6"
+        },
+        {
+            "question": "My new car goes fast. Here fast is an ..................................",
+            "description": "It modifies the verb goes.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "81c9bb0576ff4b8e964a92cd650efc58"
+        },
+        {
+            "question": "He is pretty smart. Here pretty is an ......................................",
+            "description": "Here pretty is an adverb because it modifies the adjective smart.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "54c6ea92ef1344c68a5d79b10071ffd4"
+        },
+        {
+            "question": "He is old enough to make his own bed now. Here enough is an ......................................",
+            "description": "It modifies the adjective old.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "a4dccced1db6406d86a150fcc2f85226"
+        },
+        {
+            "question": "Hold tight. I am going to pull you up. Here tight is an .......................................",
+            "description": "It modifies the verb hold.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "3f2749f5501347ecaae59575ece8e29a"
+        },
+        {
+            "question": "She did well in the test. Here well is an ......................................",
+            "description": "Well modifies the verb did. Adverbs modify verbs.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "1b9fc2010c634e73807e649e9d910979"
+        },
+        {
+            "question": "My blouse is tight. Here tight is an .................................",
+            "description": "Only adjectives and nouns can be the complement of be.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0,
+            "id": "1bf229d9443442be90703ad44573f288"
+        },
+        {
+            "question": "Please don't drive so fast. Here so is an ...........................................",
+            "description": "So is an adverb because it modifies the adjective fast.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "e9f12062bfcb485db6f6d5e24b6ec3fb"
+        },
+        {
+            "question": "He speaks Russian quite well. Here quite is an ........................................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "0912b45d83fa4c78a37628e4a2ec99e3"
+        },
+        {
+            "question": "The show was rather amusing. Here rather is an ...........................................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1,
+            "id": "01cffcccf21543c294d0ec45ca37e319"
+        }
+    ]
+}

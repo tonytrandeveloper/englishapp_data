@@ -1,0 +1,138 @@
+{
+    "id": "efc2b6c779754166b02e8f8e4790fdf6",
+    "title": "Tenses Exercise",
+    "questions": [
+        {
+            "question": "This is the 6th chocolate you ……………………… today.",
+            "description": "Use the present perfect after this is the first/second/third etc. ",
+            "answers": [
+                "eat",
+                "ate",
+                "have eaten"
+            ],
+            "correct": 2,
+            "id": "e848b418dd524ddd8ee4fb7ddbe65771"
+        },
+        {
+            "question": "I ………………………. a strange experience yesterday.",
+            "description": "Use the simple past with definite past time expressions. ",
+            "answers": [
+                "have",
+                "had",
+                "had had"
+            ],
+            "correct": 1,
+            "id": "7bc7a251fd79412888387ebe108186d2"
+        },
+        {
+            "question": "It is time you ……………………….. smoking.",
+            "description": "A simple past is used after it is time to refer to the present or future. ",
+            "answers": [
+                "stop",
+                "will stop",
+                "stopped"
+            ],
+            "correct": 2,
+            "id": "58a0db0a68854ecf882adbc62ac50f57"
+        },
+        {
+            "question": "I would rather you ……………………….. home now.",
+            "description": "A simple past is used after would rather to refer to the present or future. ",
+            "answers": [
+                "go",
+                "went",
+                "have gone"
+            ],
+            "correct": 1,
+            "id": "ab02ae2714b04468bd0cfcffd3305c2f"
+        },
+        {
+            "question": "He asked if I ………………………… his wallet.",
+            "description": "",
+            "answers": [
+                "saw",
+                "have seen",
+                "had seen"
+            ],
+            "correct": 2,
+            "id": "4fa93ea8d2e6431fa9e9b67203bacad5"
+        },
+        {
+            "question": "Although she ……………………….. hard, she could not pass the exam.",
+            "description": "",
+            "answers": [
+                "works",
+                "worked",
+                "has worked"
+            ],
+            "correct": 1,
+            "id": "efb4bbce3bc54ab9b2d2ceab1deb2ca0"
+        },
+        {
+            "question": "She broke down when she ……………………….. the news.",
+            "description": "",
+            "answers": [
+                "hears",
+                "heard",
+                "has heard"
+            ],
+            "correct": 1,
+            "id": "cabce652a5b34f779d4a5bea22329db8"
+        },
+        {
+            "question": "I regret ……………………….. school at fourteen.",
+            "description": "Regret is followed by an ing form to refer to the past. ",
+            "answers": [
+                "leaving",
+                "to leave",
+                "leave"
+            ],
+            "correct": 0,
+            "id": "9eda8a794d574bd78d4b133d1f810850"
+        },
+        {
+            "question": "He …………………………… for his honesty.",
+            "description": "",
+            "answers": [
+                "praised",
+                "has praised",
+                "was praised"
+            ],
+            "correct": 2,
+            "id": "719a7a601a42417bb4119306ed964e7e"
+        },
+        {
+            "question": "Despite being clever, she …………………….. industry.",
+            "description": "Lack is not normally used in the ing form.",
+            "answers": [
+                "is lacking",
+                "lacks",
+                "has lacked"
+            ],
+            "correct": 1,
+            "id": "70f437403ed44d8b917f1d68faeb098b"
+        },
+        {
+            "question": "As he was born in a poor family, he …………………………. great hardship during his childhood.",
+            "description": "Use the simple past to talk about finished events that are in no way related to the present. ",
+            "answers": [
+                "was suffering",
+                "suffered",
+                "has suffered"
+            ],
+            "correct": 1,
+            "id": "0b7ee18789464d2b8249942620965a47"
+        },
+        {
+            "question": "I conceded to his demands because I …………………………. to provoke him.",
+            "description": "",
+            "answers": [
+                "have not wanted",
+                "did not want",
+                "had not wanted"
+            ],
+            "correct": 1,
+            "id": "b4057165f13243928b1662424e4c3c51"
+        }
+    ]
+}

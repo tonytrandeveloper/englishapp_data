@@ -1,0 +1,126 @@
+{
+    "id": "f48e7b04b6e14040870ab3e0d7e07f88",
+    "title": "Do vs. Have",
+    "questions": [
+        {
+            "question": "She ………………………….. not have a car.",
+            "description": "",
+            "answers": [
+                "does",
+                "has"
+            ],
+            "correct": 0,
+            "id": "88d0ed18a18c4eb9a052e2fdc723874a"
+        },
+        {
+            "question": "I have ………………………….. my breakfast.",
+            "description": "I have had my breakfast means the same as I have eaten my breakfast. ",
+            "answers": [
+                "done",
+                "did",
+                "had"
+            ],
+            "correct": 2,
+            "id": "90135cf930f3434fb1e173fe198a7a6d"
+        },
+        {
+            "question": "She ………………………….. never apologized to anyone.",
+            "description": "",
+            "answers": [
+                "has",
+                "have",
+                "does"
+            ],
+            "correct": 0,
+            "id": "cf1ffdee719541d3b3e122e523ec28e6"
+        },
+        {
+            "question": "I ………………………… not recognize him.",
+            "description": "Has and have are followed by the third form of the verb. Do, does and did are followed by the first form of the verb. ",
+            "answers": [
+                "did",
+                "had",
+                "have"
+            ],
+            "correct": 0,
+            "id": "5b5e581f55b74eee8e433f07a24ca341"
+        },
+        {
+            "question": "The guests ………………………….. all gone.",
+            "description": "Guests is a plural subject hence we use have with it.",
+            "answers": [
+                "has",
+                "have",
+                "did"
+            ],
+            "correct": 1,
+            "id": "c2fd976e11984b8397ae08faadaec883"
+        },
+        {
+            "question": "I ………………………….. hypocrites.",
+            "description": "Use the simple present to talk about facts. ",
+            "answers": [
+                "do not like",
+                "does not like",
+                "have not liked"
+            ],
+            "correct": 0,
+            "id": "6c383088d13a44b2a56782857946e4ae"
+        },
+        {
+            "question": "Where …………………………… she work?",
+            "description": "Use does with singular subjects. ",
+            "answers": [
+                "does",
+                "do",
+                "have"
+            ],
+            "correct": 0,
+            "id": "4c2a53c1570b468dabc67108ded409ed"
+        },
+        {
+            "question": "What ………………………….. she do to make a living?",
+            "description": "",
+            "answers": [
+                "does",
+                "do",
+                "have"
+            ],
+            "correct": 0,
+            "id": "49c46897ac3441148b5f58ff170b9482"
+        },
+        {
+            "question": "Where …………………………….. you hide the money?",
+            "description": "Do, does and did are followed by the first form of the infinitive. ",
+            "answers": [
+                "did",
+                "have",
+                "had"
+            ],
+            "correct": 0,
+            "id": "285630e51d6c48e6b07576458fbee52a"
+        },
+        {
+            "question": "Where …………………………… he gone?",
+            "description": "Use has with singular subjects.",
+            "answers": [
+                "did",
+                "have",
+                "has"
+            ],
+            "correct": 2,
+            "id": "8d000b68f1314a2291f63f30f1e59c55"
+        },
+        {
+            "question": "You ………………………….. no right to use my belongings.",
+            "description": "",
+            "answers": [
+                "have",
+                "do",
+                "did"
+            ],
+            "correct": 0,
+            "id": "af9fdde17c45497d9a91f6e3bcdb7599"
+        }
+    ]
+}

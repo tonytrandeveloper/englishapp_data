@@ -1,0 +1,87 @@
+{
+    "id": "875a1616e09348539cfe7ddd0b4885ea",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "She hurt her arm as well as ………………. her leg.",
+            "description": "",
+            "answers": [
+                "break",
+                "broke",
+                "had broken",
+                "breaking"
+            ],
+            "correct": 3,
+            "id": "e0bf84d9314d4852a1a1a26d77c98b8f"
+        },
+        {
+            "question": "Alice bathed, breakfasted, dressed and .......................",
+            "description": "",
+            "answers": [
+                "went out",
+                "had gone out",
+                "has gone out",
+                "was going out"
+            ],
+            "correct": 0,
+            "id": "4ba9fa067dc8451aa0721073f4784a7b"
+        },
+        {
+            "question": "Gandhi ……………….. a simple life.",
+            "description": "",
+            "answers": [
+                "has lived",
+                "lived",
+                "had lived"
+            ],
+            "correct": 1,
+            "id": "62b2da2ac9794447a8c97432e0875cb5"
+        },
+        {
+            "question": "The weather ………………….., they decided to have a picnic.",
+            "description": "",
+            "answers": [
+                "being fine",
+                "was fine",
+                "is fine",
+                "it being fine"
+            ],
+            "correct": 0,
+            "id": "0a7c52bd9b9848fc8369df5859913d5d"
+        },
+        {
+            "question": ".....................… Asoka decided not to fight any more wars.",
+            "description": "",
+            "answers": [
+                "Being conquered Kalinga",
+                "Having conquering Kalinga",
+                "Having conquered Kalinga"
+            ],
+            "correct": 2,
+            "id": "45154b07a9714407a099d22eaccccb4b"
+        },
+        {
+            "question": "..................... .. the chairman rebuked the protesting members who disturbed the meeting.",
+            "description": "",
+            "answers": [
+                "Getting to his feet",
+                "Got to his feet",
+                "Get to his feet"
+            ],
+            "correct": 0,
+            "id": "be5c6abd91bb44f6867abc0eb891c1d6"
+        },
+        {
+            "question": "The police did not, ……………….., succeed in arresting him.",
+            "description": "",
+            "answers": [
+                "however",
+                "but",
+                "though",
+                "even though"
+            ],
+            "correct": 0,
+            "id": "2e0531ed77ad47cfb3cd73a5798d99cb"
+        }
+    ]
+}

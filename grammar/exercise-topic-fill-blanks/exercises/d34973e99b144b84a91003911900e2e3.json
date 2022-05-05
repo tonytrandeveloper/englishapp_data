@@ -1,0 +1,386 @@
+{
+    "id": "d34973e99b144b84a91003911900e2e3",
+    "title": "Let and Make Exercise 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John's mother used to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "him clean up his room."
+                }
+            ],
+            "id": "2b33d4e698e44e23abcd1a41da3808dd"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The teacher doesn't"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "let"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "her students use their mobile phones in class."
+                }
+            ],
+            "id": "94fe7450edd840be9a7797da99d43bda"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie's father doesn't"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "let"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "her use his car."
+                }
+            ],
+            "id": "facc52e2a3c4492988ba76bd75be8777"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The professor often"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "makes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "the students do a lot of homework."
+                }
+            ],
+            "id": "b850799a294b42c9b11720344da192e5"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The policeman"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "the teenagers pick up the litter they had dropped."
+                }
+            ],
+            "id": "3debf95c341c491fbe97b160f4ddbb6d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My mother never"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "let"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "me stay out late when I was young."
+                }
+            ],
+            "id": "6cec56411bc14171890b6d24535cf016"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The guard"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "her get off the train because she didn't have a ticket."
+                }
+            ],
+            "id": "873a12ccfba1460b832e91f2afa80b99"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy might"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "let"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "you borrow her laptop if you ask her nicely."
+                }
+            ],
+            "id": "29362987999042f4babb66192a6f1e3f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The comedian really"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "us laugh last night."
+                }
+            ],
+            "id": "100bb2dcb2eb4c9186f3d5cf1eb98af6"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When people are late, it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "makes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "me really annoyed."
+                }
+            ],
+            "id": "61a13bfc92234750a0e2f857278ef89f"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Doing a lot of exercise"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "lets"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "me eat as many cakes as I like!."
+                }
+            ],
+            "id": "71af3788f27a4b9484c78d283b0ed5cb"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The boss often"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "makes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "us work late."
+                }
+            ],
+            "id": "9213d2c53ba64d528953ff39765ae576"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Joan's new job has"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "her very happy."
+                }
+            ],
+            "id": "fc69ce0977d04d5ab474b3da2172a638"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This card"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "lets"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "you travel on any bus in the city."
+                }
+            ],
+            "id": "d298ddf273cb4163b8afb5e49e577f72"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My current job"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "lets"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "me work wherever I want."
+                }
+            ],
+            "id": "0d18416d93a1456a8311e8cf6362439d"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Your photos"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "make"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "me want to visit Columbia - it looks very beautiful."
+                }
+            ],
+            "id": "3ea70e1ad8ca41f3be679830702eb4ef"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Speaking English"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "lets"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "you communicate with lots of different people."
+                }
+            ],
+            "id": "5efed7281d2f42769f67669737979724"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Robert doesn't"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "let"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "his children watch TV."
+                }
+            ],
+            "id": "4c4dde90c48c4d81bf5c1a365278422a"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That film"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "made"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "me cry - it was so sad."
+                }
+            ],
+            "id": "e11f2c8db7f44443bb1684c002a60e07"
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The professor"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "let"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "us hand in our essays a day late last term."
+                }
+            ],
+            "id": "bd5c3cf44d05491a990e23e2e8c4021e"
+        }
+    ]
+}

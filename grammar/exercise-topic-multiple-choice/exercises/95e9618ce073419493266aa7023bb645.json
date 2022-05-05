@@ -1,0 +1,142 @@
+{
+    "id": "95e9618ce073419493266aa7023bb645",
+    "title": "Comparative And Superlative Adjectives",
+    "questions": [
+        {
+            "question": "Sam can run ……………………. than you.",
+            "description": "We need a comparative expression before than.",
+            "answers": [
+                "fast",
+                "faster",
+                "more fast",
+                "fastest"
+            ],
+            "correct": 1,
+            "id": "17b0552c314c4b5c8f1c137ed5d2db13"
+        },
+        {
+            "question": "Raghu is …………………. than his friends.",
+            "description": "Cleverer is the comparative form of clever.",
+            "answers": [
+                "more clever",
+                "cleverer",
+                "cleverest",
+                "most cleverest"
+            ],
+            "correct": 1,
+            "id": "abeba57333e04874a281a11ba157956d"
+        },
+        {
+            "question": "You are no ……………………. than him.",
+            "description": "Better is the comparative form of good. ",
+            "answers": [
+                "gooder",
+                "good",
+                "better"
+            ],
+            "correct": 2,
+            "id": "736cf14f95744e5ab574714b4f2ac4ec"
+        },
+        {
+            "question": "It was …………………….. than I thought.",
+            "description": "Easier is the comparative form of easy.",
+            "answers": [
+                "more easy",
+                "easier",
+                "easiest",
+                "more easiest"
+            ],
+            "correct": 1,
+            "id": "4a685dd0a5184cbf9d532cb296f6eb2c"
+        },
+        {
+            "question": "Lead is the ……………………… metal.",
+            "description": "We use the superlative to compare one thing with the whole group that it belongs to.",
+            "answers": [
+                "heavy",
+                "heavier",
+                "heaviest"
+            ],
+            "correct": 2,
+            "id": "e9c30f3b876c4b29af23615424648446"
+        },
+        {
+            "question": "A rabbit is ……………………. than a deer.",
+            "description": "Smaller is the comparative form of small.",
+            "answers": [
+                "smaller",
+                "more small",
+                "smallest",
+                "most small"
+            ],
+            "correct": 0,
+            "id": "d552ccedb59f411f9aaf51ea4b82c82c"
+        },
+        {
+            "question": "This is ……………………… than that.",
+            "description": "More attractive is the comparative form of attractive. ",
+            "answers": [
+                "attractiver",
+                "more attractive",
+                "most attractive"
+            ],
+            "correct": 1,
+            "id": "7209b1596a824104923a293b394d2864"
+        },
+        {
+            "question": "Your voice is ………………….. than mine.",
+            "description": "Worse is the comparative form of bad. ",
+            "answers": [
+                "badder",
+                "worse",
+                "worser"
+            ],
+            "correct": 1,
+            "id": "596dc7c7164f46efbb5f03fcfbee28f0"
+        },
+        {
+            "question": "She earns ……………………. money than I do.",
+            "description": "Less is the comparative form of little. ",
+            "answers": [
+                "little",
+                "less",
+                "least"
+            ],
+            "correct": 1,
+            "id": "c7d0e8d47d7943299d4321398a79de80"
+        },
+        {
+            "question": "The …………………….. expensive holidays are often the best.",
+            "description": "",
+            "answers": [
+                "less",
+                "least",
+                "lesser"
+            ],
+            "correct": 1,
+            "id": "5744bff6b2a642ac9fcf2b4f2f43ffa1"
+        },
+        {
+            "question": "I was not as intelligent as the others, but I was the …………………..",
+            "description": "Prettiest is the superlative form of pretty. ",
+            "answers": [
+                "prettiest",
+                "more pretty",
+                "most pretty"
+            ],
+            "correct": 0,
+            "id": "b70c79783ab4439f897585f2fdfa2f11"
+        },
+        {
+            "question": "As you get older, you get …………………….",
+            "description": "In this structure we use a comparative in both clauses. ",
+            "answers": [
+                "tolerant",
+                "more tolerant",
+                "most tolerant"
+            ],
+            "correct": 1,
+            "id": "f24308204df64119ba647667be6d6b15"
+        }
+    ]
+}

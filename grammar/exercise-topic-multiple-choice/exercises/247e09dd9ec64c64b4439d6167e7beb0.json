@@ -1,0 +1,116 @@
+{
+    "id": "247e09dd9ec64c64b4439d6167e7beb0",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "Have you ever spoken to the lady …………………. lives next door?",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "de19a44893e540a4881c43057addfc2f"
+        },
+        {
+            "question": "Those …………………. have not registered should do so at once.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "af08582572f940b8b97ac2f9be529650"
+        },
+        {
+            "question": "There is a program on TV ……………….. might interest you.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "11fda8cbf0ea4cac80c239697e95ab73"
+        },
+        {
+            "question": "Here are the books ………………… you were looking for.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "1539278db13f49089bfb46c82ffd8e16"
+        },
+        {
+            "question": "What’s the name of the fat boy …………………. just walked in?",
+            "description": "Either who or that is possible here.",
+            "answers": [
+                "who",
+                "whom",
+                "that"
+            ],
+            "correct": 2,
+            "id": "056b848d241a439dae464406e2d609f1"
+        },
+        {
+            "question": "It is a story ………………… will interest readers of all ages.",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "6bdd64e07cc44738a2e9107fa14fd0df"
+        },
+        {
+            "question": "The people ……………………… live next door are very annoying.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "8e50dd4c0edc4f62b4634db85018917c"
+        },
+        {
+            "question": "This is Mr James ………………….. you met last year.",
+            "description": "Who is possible here in an informal style.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 1,
+            "id": "43ee439f642045a4b0073cd2a081e6dd"
+        },
+        {
+            "question": "Where is the camera …………………. I lent you?",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "24954ad0fba640ceb5ccfbc4acd23b06"
+        },
+        {
+            "question": "Yesterday I met Nancy ………………… works with my sister.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0,
+            "id": "638ad742700b43aca46f5747dd1396d0"
+        }
+    ]
+}

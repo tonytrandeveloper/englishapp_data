@@ -1,0 +1,136 @@
+{
+    "id": "8f4a89d25e6341a3a2d67af572b985fc",
+    "title": "Question Tags Exercise",
+    "questions": [
+        {
+            "question": "No one knows the answer, ………………………?",
+            "description": "Use they in question tags after no one, someone, anyone etc.",
+            "answers": [
+                "do they",
+                "does they",
+                "did they"
+            ],
+            "correct": 0,
+            "id": "fc7e512fa4bc4b2887d47730a69cddf6"
+        },
+        {
+            "question": "He has few friends, ……………………………?",
+            "description": "Use an affirmative tag after negative expressions like few.",
+            "answers": [
+                "hasn't he",
+                "has he",
+                "is he"
+            ],
+            "correct": 1,
+            "id": "81da015e28a249a6ab55b0eb79dc4a23"
+        },
+        {
+            "question": "He makes a few friends wherever he goes, ………………………….?",
+            "description": "Use a negative tag after a few.",
+            "answers": [
+                "doe he",
+                "doesn't he",
+                "didn't he"
+            ],
+            "correct": 1,
+            "id": "4967d261e26b4a668b13ba9a0ad9c670"
+        },
+        {
+            "question": "She passed the test, ………………………….?",
+            "description": "When the sentence is in the simple past, use did in the tag question. ",
+            "answers": [
+                "did she",
+                "didn't she",
+                "doesn't she"
+            ],
+            "correct": 1,
+            "id": "4cb2d4549e9844d39881caf0766f56b4"
+        },
+        {
+            "question": "He wants to be a scientist, ………………………….?",
+            "description": "",
+            "answers": [
+                "does he",
+                "doesn't he",
+                "hasn't he"
+            ],
+            "correct": 1,
+            "id": "38b3254a336040a798949a1726dbc33a"
+        },
+        {
+            "question": "They dare not attack us, …………………………..?",
+            "description": "When dare is a modal auxiliary, it is used in the question tag.",
+            "answers": [
+                "dare they",
+                "do they",
+                "don't they"
+            ],
+            "correct": 0,
+            "id": "dd53c0acc9f246fe9cef06fe3d226ed9"
+        },
+        {
+            "question": "He dared to swim across the channel, …………………………..?",
+            "description": "",
+            "answers": [
+                "daren't he",
+                "dare he",
+                "didn't he"
+            ],
+            "correct": 2,
+            "id": "0b3784fedcdb4f719d0965630edae590"
+        },
+        {
+            "question": "She didn’t come, …………………………..?",
+            "description": "",
+            "answers": [
+                "did she",
+                "didn't she",
+                "hadn't she"
+            ],
+            "correct": 0,
+            "id": "e209058676eb4a7cbc711f444a278108"
+        },
+        {
+            "question": "You don’t want to go, ………………………….?",
+            "description": "",
+            "answers": [
+                "do you",
+                "don't you"
+            ],
+            "correct": 0,
+            "id": "3f2bd041b35d4e349908b3b294d51d5b"
+        },
+        {
+            "question": "They learn English at school, ……………………….?",
+            "description": "",
+            "answers": [
+                "do they",
+                "don't they",
+                "didn't they"
+            ],
+            "correct": 1,
+            "id": "58bf834f54184c008e5738aa64c67553"
+        },
+        {
+            "question": "You look surprised, ……………………………?",
+            "description": "",
+            "answers": [
+                "do you",
+                "don't you"
+            ],
+            "correct": 1,
+            "id": "49f28475407c4b54aae1b336c0d003a0"
+        },
+        {
+            "question": "She helped you, …………………………….?",
+            "description": "",
+            "answers": [
+                "did she",
+                "didn't she",
+                "hadn't she"
+            ],
+            "correct": 1,
+            "id": "5668c57ee9914088ae0e7888e17af392"
+        }
+    ]
+}

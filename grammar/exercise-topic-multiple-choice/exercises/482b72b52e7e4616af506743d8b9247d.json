@@ -1,0 +1,130 @@
+{
+    "id": "482b72b52e7e4616af506743d8b9247d",
+    "title": "Articles Exercise",
+    "questions": [
+        {
+            "question": "I met ………………………. pretty girl there.",
+            "description": "We use a here because the listener does not know which girl we are talking about.",
+            "answers": [
+                "the",
+                "a"
+            ],
+            "correct": 1,
+            "id": "ece26d9f20614cd0a95417c5be68cfa1"
+        },
+        {
+            "question": "It is …………………………. interesting movie.",
+            "description": "We use ‘an’ here because the reader /listener does not know which movie we are talking about.",
+            "answers": [
+                "an",
+                "the"
+            ],
+            "correct": 0,
+            "id": "0c68510e0c9a4cc7b305010c0c857d43"
+        },
+        {
+            "question": "…………………………. child is playing with his toys.",
+            "description": "We use the here because we are talking about a particular child. ",
+            "answers": [
+                "A",
+                "The"
+            ],
+            "correct": 1,
+            "id": "759b1b605ecd43fe9dd4b98af869295f"
+        },
+        {
+            "question": "She is ………………………….. finest actor I have ever seen.",
+            "description": "We use the with superlatives. ",
+            "answers": [
+                "a",
+                "the"
+            ],
+            "correct": 1,
+            "id": "c89aae28bbe746368f73c28942da0c93"
+        },
+        {
+            "question": "Can you see …………………………. cat over there?",
+            "description": "Either could be used here with slightly different meanings. ",
+            "answers": [
+                "a",
+                "the",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "483956194f1f4fceaa8c4d92c46ab18f"
+        },
+        {
+            "question": "She wants to be ……………………… architect.",
+            "description": "A/an is often used to mean one.",
+            "answers": [
+                "an",
+                "the"
+            ],
+            "correct": 0,
+            "id": "ce893c82e420459c82e2ac146f757815"
+        },
+        {
+            "question": "There is …………………………… spider on the roof.",
+            "description": "A/an is often used to mean one.",
+            "answers": [
+                "a",
+                "the"
+            ],
+            "correct": 0,
+            "id": "261fc41531b649e88444574139a2883a"
+        },
+        {
+            "question": "Rich people must help ……………………………….",
+            "description": "The poor means all poor people. ",
+            "answers": [
+                "poor",
+                "a poor",
+                "the poor"
+            ],
+            "correct": 2,
+            "id": "d1868251594c43beac465a05eef4aba3"
+        },
+        {
+            "question": "She has ………………………….. mole on her right arm.",
+            "description": "A mole means one mole. ",
+            "answers": [
+                "a",
+                "the"
+            ],
+            "correct": 0,
+            "id": "ccc5adbadc914d7a8e0ad579c4b9bc52"
+        },
+        {
+            "question": "………………………….. train arrives at",
+            "description": "We are talking about a particular train here.",
+            "answers": [
+                "A",
+                "The"
+            ],
+            "correct": 1,
+            "id": "31b3cd79bf1840c1807d746ee7e63f65"
+        },
+        {
+            "question": "If you are not feeling well, you should consult ………………………… doctor.",
+            "description": "Either could be used here with slightly different meaning. If we use ‘the’ it means that the listener knows which doctor we are talking about. ",
+            "answers": [
+                "a",
+                "the",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "acfa8d190a9a4d72833e4581e26a7174"
+        },
+        {
+            "question": "He is seeing …………………………… French girl.",
+            "description": "The speaker does not say which French girl they are talking about. Hence, we use 'a' here. ",
+            "answers": [
+                "a",
+                "the",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ffc9c43ec0b143aeb6750ce9648a3b48"
+        }
+    ]
+}

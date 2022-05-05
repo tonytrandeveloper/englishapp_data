@@ -1,0 +1,105 @@
+{
+    "id": "d2aa955956ca439d9423ffa81859abc1",
+    "title": "Active And Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "Mary ..................... by Alice.",
+            "description": "",
+            "answers": [
+                "loves",
+                "loved",
+                "is loved"
+            ],
+            "correct": 2,
+            "id": "f2e1246f8c7f489bbe077f81fe53e6ce"
+        },
+        {
+            "question": "The mason ..................... the wall.",
+            "description": "",
+            "answers": [
+                "is being built",
+                "is building",
+                "is built"
+            ],
+            "correct": 1,
+            "id": "db2151bd844942e4b068a88ca09493f2"
+        },
+        {
+            "question": "The gate .....................… by the peon.",
+            "description": "",
+            "answers": [
+                "opened",
+                "was opened",
+                "has opened"
+            ],
+            "correct": 1,
+            "id": "700c5e75b01f45a5869152a2bfec29c1"
+        },
+        {
+            "question": "The wounded man ...................... by the boys.",
+            "description": "",
+            "answers": [
+                "helps",
+                "was helped",
+                "helped"
+            ],
+            "correct": 1,
+            "id": "b8511b4a4ca141a18d75fd40040af424"
+        },
+        {
+            "question": "The work ....................... in two weeks.",
+            "description": "",
+            "answers": [
+                "will finish",
+                "will be finished",
+                "will be finishing"
+            ],
+            "correct": 1,
+            "id": "2bd71f2e784347048c0c4783ac912c11"
+        },
+        {
+            "question": "By whom ………………….?",
+            "description": "",
+            "answers": [
+                "did this",
+                "was this done",
+                "has this done"
+            ],
+            "correct": 1,
+            "id": "1325a3ecb3d3406fbc9e4efc699ccaa1"
+        },
+        {
+            "question": "Why was such a letter ………………… by your father?",
+            "description": "",
+            "answers": [
+                "wrote",
+                "written",
+                "had written"
+            ],
+            "correct": 1,
+            "id": "48d1543228634b79888566fa951a40f1"
+        },
+        {
+            "question": "She …………………. a check.",
+            "description": "",
+            "answers": [
+                "handed",
+                "was handed",
+                "has handed"
+            ],
+            "correct": 1,
+            "id": "37f1b6577164413ea35b9a2470741133"
+        },
+        {
+            "question": "A thunderstorm often ………………… milk sour.",
+            "description": "",
+            "answers": [
+                "turns",
+                "is turned",
+                "is turning"
+            ],
+            "correct": 0,
+            "id": "fa43e89571b54989ab550cb38e1a98cd"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "id": "e8ed482363ba44b28e1835cbd9e8a2fd",
+    "title": "Gap Fills Exercise",
+    "questions": [
+        {
+            "question": "While I was going home last evening, I .................................. a friend of mine.",
+            "description": "",
+            "answers": [
+                "meet",
+                "met",
+                "had met"
+            ],
+            "correct": 1,
+            "id": "3340ae306ef24786a22bffd919ba17d0"
+        },
+        {
+            "question": "He ..................................... for me at a bus station hoping that I would reach there before 6 pm.",
+            "description": "",
+            "answers": [
+                "waited",
+                "was waiting",
+                "had waited"
+            ],
+            "correct": 1,
+            "id": "7debeb27e8754e6d8f4ab50aa53eb29b"
+        },
+        {
+            "question": "My friend Mr. Gupta .................................... a famous writer.",
+            "description": "",
+            "answers": [
+                "is",
+                "has",
+                "are"
+            ],
+            "correct": 0,
+            "id": "b5f431e4983349378260ed88a4b065c4"
+        },
+        {
+            "question": "He ....................................... short stories and plays.",
+            "description": "",
+            "answers": [
+                "writes",
+                "write",
+                "writing"
+            ],
+            "correct": 0,
+            "id": "ec8f49cdcd634e1caebdf32069d6f072"
+        },
+        {
+            "question": "He .......................................... an anthology of poems too.",
+            "description": "",
+            "answers": [
+                "has published",
+                "publishing",
+                "publishes",
+                "has publishing"
+            ],
+            "correct": 0,
+            "id": "4278f28fa76144728cd7d4e45dfa38c1"
+        },
+        {
+            "question": "Now he says that he ........................................... on a novel.",
+            "description": "",
+            "answers": [
+                "works",
+                "is working",
+                "has worked"
+            ],
+            "correct": 1,
+            "id": "563a40a8af004f069b4a54fc9ba6a487"
+        },
+        {
+            "question": "Raju ..................................... here yesterday.",
+            "description": "",
+            "answers": [
+                "came",
+                "has come",
+                "comes"
+            ],
+            "correct": 0,
+            "id": "67567e451a0a4cb9872e571f28d15cb9"
+        },
+        {
+            "question": "He ...................................... for Chennai tomorrow.",
+            "description": "",
+            "answers": [
+                "will leave",
+                "would leave",
+                "left"
+            ],
+            "correct": 0,
+            "id": "da24a1d4a2ff488a9781e17acba232cb"
+        },
+        {
+            "question": "I .................................... computer programming now.",
+            "description": "",
+            "answers": [
+                "learn",
+                "am learning",
+                "learning"
+            ],
+            "correct": 1,
+            "id": "58fd4cba131345f889c2a6497a8bbf9c"
+        },
+        {
+            "question": "The course ................................... last month.",
+            "description": "",
+            "answers": [
+                "begins",
+                "has begun",
+                "began"
+            ],
+            "correct": 2,
+            "id": "dfee71c5e5d544ac9a6cfd5f259cf0c0"
+        }
+    ]
+}

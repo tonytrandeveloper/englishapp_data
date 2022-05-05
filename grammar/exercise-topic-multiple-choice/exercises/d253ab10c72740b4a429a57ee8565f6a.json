@@ -1,0 +1,135 @@
+{
+    "id": "d253ab10c72740b4a429a57ee8565f6a",
+    "title": "General Grammar Exercise",
+    "questions": [
+        {
+            "question": "It …………………… for the past month.",
+            "description": "The present perfect is more common with the time expressions for and since.",
+            "answers": [
+                "didn't rain",
+                "hasn't rained",
+                "was not raining"
+            ],
+            "correct": 1,
+            "id": "0cf0089d70af44a0abb37690841254ee"
+        },
+        {
+            "question": "Fossil fuels ………………………… coal and petrol are harmful to the environment.",
+            "description": "We use such as to give examples.",
+            "answers": [
+                "such as",
+                "like",
+                "for example"
+            ],
+            "correct": 1,
+            "id": "d241c3cfbf37420b87f678d5a54c6d5d"
+        },
+        {
+            "question": "The girl ....................... is sitting in that corner is my neighbor’s daughter.",
+            "description": "We use who to refer to people.",
+            "answers": [
+                "who",
+                "which",
+                "whom"
+            ],
+            "correct": 0,
+            "id": "2c8bc65edfbe4b7baa33bbf3db53cb0b"
+        },
+        {
+            "question": "You …………………………. pay for that drink.",
+            "description": "When need is a modal auxiliary verb, questions and negatives are made without do.",
+            "answers": [
+                "don't need",
+                "need not",
+                "need not to"
+            ],
+            "correct": 1,
+            "id": "5726cef500284ca2b9b46711ef1358fc"
+        },
+        {
+            "question": "You ......................... get a second opinion.",
+            "description": "Had better is used to give strong advice. ",
+            "answers": [
+                "have better",
+                "had better",
+                "had better to"
+            ],
+            "correct": 1,
+            "id": "6f931c357a754a4aafa74bb4e003a0bf"
+        },
+        {
+            "question": "None of these answers …………………………… correct.",
+            "description": "Use a singular verb after none.",
+            "answers": [
+                "are",
+                "is"
+            ],
+            "correct": 1,
+            "id": "1d560ee6732f40a99e9834a2822e6e36"
+        },
+        {
+            "question": "She doesn’t have ………………………. friends.",
+            "description": "Not any means the same as no.",
+            "answers": [
+                "no",
+                "any",
+                "none"
+            ],
+            "correct": 1,
+            "id": "6feaaf6f16fa4519a392ba5aab6dafb1"
+        },
+        {
+            "question": "…………………………. was there to rescue him.",
+            "description": "",
+            "answers": [
+                "Nobody",
+                "Anybody",
+                "Noone"
+            ],
+            "correct": 0,
+            "id": "471f060a8b2749b6abad37c0713ec9dc"
+        },
+        {
+            "question": "That wasn’t ………………………… right.",
+            "description": "",
+            "answers": [
+                "quiet",
+                "quite"
+            ],
+            "correct": 1,
+            "id": "24c469cb4b874229aa8dafd73a166eaa"
+        },
+        {
+            "question": "…………………………… fire, call",
+            "description": "",
+            "answers": [
+                "In case",
+                "If",
+                "In case of"
+            ],
+            "correct": 2,
+            "id": "eb0ea96fb9dd4e1285edfeefb395b071"
+        },
+        {
+            "question": "Things are getting …………………..",
+            "description": "Worse is the comparative form of bad.",
+            "answers": [
+                "bad",
+                "worser",
+                "worse"
+            ],
+            "correct": 2,
+            "id": "ce634441fa0e419694a1b1d27f3ca518"
+        },
+        {
+            "question": "We lost the deal ………………………….. your obstinacy.",
+            "description": "Because of is a preposition. It is followed by a noun. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1,
+            "id": "0d672190f7f04e36a08b09a247be1928"
+        }
+    ]
+}

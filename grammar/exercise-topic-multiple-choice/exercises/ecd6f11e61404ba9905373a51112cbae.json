@@ -1,0 +1,138 @@
+{
+    "id": "ecd6f11e61404ba9905373a51112cbae",
+    "title": "Conjunctions Quiz",
+    "questions": [
+        {
+            "question": "She was …………………………… frightened ………………………… she could not even move.",
+            "description": "So..that.... shows cause and effect.",
+            "answers": [
+                "so..that...",
+                "such...that...",
+                "both...and"
+            ],
+            "correct": 0,
+            "id": "ae92cb749884475385c9de470cb211be"
+        },
+        {
+            "question": "………………………….. she is rich and influential, she is never rude to anyone.",
+            "description": "Though is used to connect two contrasting ideas.",
+            "answers": [
+                "Though",
+                "As",
+                "However"
+            ],
+            "correct": 0,
+            "id": "216f70bd93d34b02b1612f6e11c8dde0"
+        },
+        {
+            "question": "…………………………. we burned the midnight oil, we could not meet the deadline.",
+            "description": "Despite and however are not conjunctions. They cannot connect clauses.",
+            "answers": [
+                "Although",
+                "Despite",
+                "However"
+            ],
+            "correct": 0,
+            "id": "5ac4b879f1c840e7a5cddfa0045d5121"
+        },
+        {
+            "question": "She is ill, ……………………….. she is cheerful.",
+            "description": "Yet is a conjunction. It can connect clauses. However cannot connect two clauses.",
+            "answers": [
+                "yet",
+                "as",
+                "however"
+            ],
+            "correct": 0,
+            "id": "e732bf477358494aa06cd4f5788bd609"
+        },
+        {
+            "question": "I must obey ………………………… I have no other option.",
+            "description": "For can mean because in a very formal or literary style.",
+            "answers": [
+                "for",
+                "because",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "c85cd7f8a83348de89b681f9939cfe91"
+        },
+        {
+            "question": "The doorbell rang …………………………. I sat down to rest.",
+            "description": "",
+            "answers": [
+                "as soon as",
+                "no sooner",
+                "hardly"
+            ],
+            "correct": 0,
+            "id": "bd3e3ff7a8bb46569dc089577d006c6c"
+        },
+        {
+            "question": "She is industrious ………………………… her brother is lazy.",
+            "description": "",
+            "answers": [
+                "but",
+                "whereas",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "3790882e318e43e880d661f93b86cb32"
+        },
+        {
+            "question": "I moved to a big city …………………………. I might find a better job.",
+            "description": "So that indicates purpose.",
+            "answers": [
+                "so",
+                "so that",
+                "such that"
+            ],
+            "correct": 1,
+            "id": "4858183eaf224c7093f7b9d8d6d8103d"
+        },
+        {
+            "question": "It was ………………………… a brilliant performance that the applause lasted at least 10 minutes.",
+            "description": "Use such before a noun with an adjective use so before an adjective. ",
+            "answers": [
+                "so",
+                "such",
+                "too"
+            ],
+            "correct": 1,
+            "id": "83b9ae10c1ad4ab9965b1c0ffc7a3583"
+        },
+        {
+            "question": "……………………………… I didn’t have enough money, I could not buy the tickets.",
+            "description": "As gives the reason.",
+            "answers": [
+                "As",
+                "Hence",
+                "Though"
+            ],
+            "correct": 0,
+            "id": "8f90693d50e647cc9997a48f0daf5cfc"
+        },
+        {
+            "question": "………………………….. I was driving down the road, I saw Rahul walking his dog.",
+            "description": "As can indicate time. It can introduce a longer background action that was going on when another action took place.",
+            "answers": [
+                "As",
+                "So",
+                "Whereas"
+            ],
+            "correct": 0,
+            "id": "4b8b01a9b76d459aa8fbc9ad4474e71d"
+        },
+        {
+            "question": "They will have to abandon the project ……………………………. you do not support them.",
+            "description": "If indicates a condition. ",
+            "answers": [
+                "if",
+                "whether",
+                "unless"
+            ],
+            "correct": 0,
+            "id": "3fca1638592f49d2a6ffdc81794ca7e1"
+        }
+    ]
+}

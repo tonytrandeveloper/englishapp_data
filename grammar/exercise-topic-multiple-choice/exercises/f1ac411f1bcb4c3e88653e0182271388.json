@@ -1,0 +1,129 @@
+{
+    "id": "f1ac411f1bcb4c3e88653e0182271388",
+    "title": "Singular and Plural Exercise",
+    "questions": [
+        {
+            "question": "I think they teach ..................... . mathematics in schools.",
+            "description": "Most words ending in –ics are normally singular uncountable nouns and have no plural use. ",
+            "answers": [
+                "too much",
+                "too many"
+            ],
+            "correct": 0,
+            "id": "aa46b03e3803418fad1281504e14f777"
+        },
+        {
+            "question": "Politics ..................... . a complicated business.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "05555c3689c7486090591e3b47b068b4"
+        },
+        {
+            "question": "………………….. suffering from a disease called BSE.",
+            "description": "Cattle is a plural word and it has no singular.",
+            "answers": [
+                "Many cattle are",
+                "Much cattle is"
+            ],
+            "correct": 0,
+            "id": "e04caee9a377451a9b28281f3b80f44f"
+        },
+        {
+            "question": "The police ..................... the thief.",
+            "description": "Police is normally used as a plural noun.",
+            "answers": [
+                "have arrested",
+                "has arrested"
+            ],
+            "correct": 0,
+            "id": "1bbf4380b7c2401a8165f540969d2068"
+        },
+        {
+            "question": "Where ……………….. my glasses?",
+            "description": "Words like trousers, jeans, pants, scissors, glasses, binoculars etc., are plural. ",
+            "answers": [
+                "are",
+                "is"
+            ],
+            "correct": 0,
+            "id": "92854c19146d4efab0011007666235e0"
+        },
+        {
+            "question": "The organization is trying to raise ……………… to support its projects.",
+            "description": "When funds means money, it is used in the plural form. ",
+            "answers": [
+                "fund",
+                "funds"
+            ],
+            "correct": 1,
+            "id": "b0ae978a2663446f842f82970d636ff1"
+        },
+        {
+            "question": "A number of people ..................... tried to find the treasure.",
+            "description": "The expression ‘a number of people’ is usually followed by a plural verb.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1,
+            "id": "2841c0fa83b24192acbe2cf1d4e91423"
+        },
+        {
+            "question": "A group of us …………….. going to hold a party tomorrow.",
+            "description": "The expression ‘a group of us’ is followed by a plural verb.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1,
+            "id": "57b46ca8b9464d94857b3d681d162d47"
+        },
+        {
+            "question": "Half of her students ……………… understand a word she says.",
+            "description": "Half of should be followed by a plural verb.",
+            "answers": [
+                "doesn't",
+                "don't",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "49018f2c06044151aa89ff8d23b17eb9"
+        },
+        {
+            "question": "Ten miles ………………. a long way to walk.",
+            "description": "We usually use singular verbs when we talk about amounts and quantities.",
+            "answers": [
+                "is",
+                "are",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "bbaf3f52c25c4ebb8a4518f30e39ded3"
+        },
+        {
+            "question": "One of my friends …………….. going to Mexico.",
+            "description": "One of is normally followed by a plural noun and a singular verb.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0,
+            "id": "2522c237eea64c7abf2e501a797b5cb0"
+        },
+        {
+            "question": "Nobody ……………….. him except his best friends.",
+            "description": "Nobody is usually followed by a singular verb.",
+            "answers": [
+                "like",
+                "likes",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "2136b82eb7484a559d4208d0fd55634c"
+        }
+    ]
+}

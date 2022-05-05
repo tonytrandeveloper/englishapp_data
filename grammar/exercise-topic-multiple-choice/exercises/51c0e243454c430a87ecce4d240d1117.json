@@ -1,0 +1,116 @@
+{
+    "id": "51c0e243454c430a87ecce4d240d1117",
+    "title": "Tenses Review Exercise",
+    "questions": [
+        {
+            "question": "She ....................... to church regularly.",
+            "description": "",
+            "answers": [
+                "go",
+                "goes",
+                "gone"
+            ],
+            "correct": 1,
+            "id": "6e4874557bf046f6a5dfbd911d976d97"
+        },
+        {
+            "question": "Rani ...................... a cup of milk every morning.",
+            "description": "",
+            "answers": [
+                "drink",
+                "drinks",
+                "drank"
+            ],
+            "correct": 1,
+            "id": "e32508eb9a464e5ab005fbd9fb3f10d9"
+        },
+        {
+            "question": "I usually ………………….. biographies.",
+            "description": "",
+            "answers": [
+                "read",
+                "reads",
+                "reading"
+            ],
+            "correct": 0,
+            "id": "34aeeda8cd454bbfadaf61a7875d75ba"
+        },
+        {
+            "question": "I ....................... a novel now.",
+            "description": "",
+            "answers": [
+                "read",
+                "reads",
+                "am reading"
+            ],
+            "correct": 2,
+            "id": "f6ee8d47d2a4435fa33d52d3304ddce1"
+        },
+        {
+            "question": "He .....................… for competitive exams for three years.",
+            "description": "",
+            "answers": [
+                "is preparing",
+                "has been preparing",
+                "was preparing"
+            ],
+            "correct": 1,
+            "id": "00de2f6fb847423aa652fc715efdd0fb"
+        },
+        {
+            "question": "When I reached home, my son ………………… with his toys.",
+            "description": "",
+            "answers": [
+                "play",
+                "played",
+                "was playing"
+            ],
+            "correct": 2,
+            "id": "5e6050b810754ed29444d148444e4fab"
+        },
+        {
+            "question": "I ..................... . to my native place next month.",
+            "description": "",
+            "answers": [
+                "go",
+                "am going",
+                "will go"
+            ],
+            "correct": 1,
+            "id": "f7da4d39eace46f4b1eb0047f26ccc76"
+        },
+        {
+            "question": "Sita ………………….. an apple in the morning.",
+            "description": "",
+            "answers": [
+                "eat",
+                "ate",
+                "has eaten"
+            ],
+            "correct": 1,
+            "id": "f150bc4357c141db893f755bb178cad5"
+        },
+        {
+            "question": "He ...................... on the bench.",
+            "description": "",
+            "answers": [
+                "stood",
+                "stand",
+                "standing"
+            ],
+            "correct": 0,
+            "id": "f73a963b92f54572a2bd854e98573325"
+        },
+        {
+            "question": "He .....................… on a new novel for two years.",
+            "description": "",
+            "answers": [
+                "is working",
+                "has worked",
+                "has been working"
+            ],
+            "correct": 2,
+            "id": "c0f3ba9db4374479ac9fabc3da539685"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "id": "a6d1d72a77b3400891825da6acdba58f",
+    "title": "Adjective vs. Adverb Exercise",
+    "questions": [
+        {
+            "question": "She spoke ………………………..",
+            "description": "We use the adverb politely to modify the verb spoke. ",
+            "answers": [
+                "polite",
+                "politely"
+            ],
+            "correct": 1,
+            "id": "168a771e3a6246b894bda2d369ffe360"
+        },
+        {
+            "question": "I felt …………………………",
+            "description": "Feel is a copular verb. We use adjectives to modify copular verbs.",
+            "answers": [
+                "sad",
+                "sadly",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "f2c6457bf4b447958dba46293d4ad1c5"
+        },
+        {
+            "question": "She can speak English ………………………",
+            "description": "We use adverb fluently to modify the verb speak.",
+            "answers": [
+                "fluent",
+                "fluently",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "61f279bd7bbf4ee29496059f88e80b49"
+        },
+        {
+            "question": "He spoke ………………………… anything.",
+            "description": "Hardly anything means almost nothing. Hard has a different meaning.",
+            "answers": [
+                "hard",
+                "hardly",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "6a721293857c4f7abdae1b1203f60fca"
+        },
+        {
+            "question": "A fast train goes ………………………….",
+            "description": "Fast can be adjective or adverb.",
+            "answers": [
+                "fast",
+                "fastly",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "68289aba1bd74191a89e15348ea31946"
+        },
+        {
+            "question": "The soup tasted …………………………",
+            "description": "Taste is a copular verb. We use adjectives to modify copular verbs.",
+            "answers": [
+                "delicious",
+                "deliciously",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "e38b7786a29e4f64bb94c8c482baef30"
+        },
+        {
+            "question": "He sounded …………………………",
+            "description": "Sound is a copular verb. We use adjectives to modify copular verbs.",
+            "answers": [
+                "optimistic",
+                "optimistically",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "d0c60b17c3864795b5990b46851f2572"
+        },
+        {
+            "question": "She looked …………………………",
+            "description": "Look is a copular verb. It is modified by an adjective.",
+            "answers": [
+                "happy",
+                "happily",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "c26a830e97f740ca8cae875044bab12a"
+        },
+        {
+            "question": "She is ……………………….. to hear from her parents.",
+            "description": "Here the adjective eager modifies the pronoun she.",
+            "answers": [
+                "eager",
+                "eagerly",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "ebf990b06e8c4b8a849597ed02448aa6"
+        },
+        {
+            "question": "I am ………………………. waiting to hear from them.",
+            "description": "",
+            "answers": [
+                "eager",
+                "eagerly"
+            ],
+            "correct": 1,
+            "id": "383811c4ff32488e9ae7a5afbe92b51f"
+        },
+        {
+            "question": "That looks ……………………………",
+            "description": "",
+            "answers": [
+                "difficult",
+                "difficultly"
+            ],
+            "correct": 0,
+            "id": "af3114d226d64822a147d694673f6a03"
+        },
+        {
+            "question": "We waited there ………………………….",
+            "description": "",
+            "answers": [
+                "hopeful",
+                "hopefully",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "3087f6378edd4dc3a215f38b15d35dd5"
+        }
+    ]
+}

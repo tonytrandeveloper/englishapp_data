@@ -1,0 +1,104 @@
+{
+    "id": "bf1578a05d544d22886209d8a8596616",
+    "title": "Contractions Exercise",
+    "questions": [
+        {
+            "question": "You ............................... to have offended her.",
+            "description": "",
+            "answers": [
+                "oughtnt'",
+                "oughtn't",
+                "ought n't"
+            ],
+            "correct": 1,
+            "id": "abb2efeb60af4c83bc014dfb3e7d54f8"
+        },
+        {
+            "question": ".................................... waiting in the hall.",
+            "description": "",
+            "answers": [
+                "They'are",
+                "They're"
+            ],
+            "correct": 1,
+            "id": "37fed26ef6454555aa97d63051b9d7a9"
+        },
+        {
+            "question": "If you don’t behave, .................................. trouble.",
+            "description": "",
+            "answers": [
+                "there'd be",
+                "there would'be",
+                "there'ld"
+            ],
+            "correct": 0,
+            "id": "ef1ee7bd3e004e11b488f3fb8d08f751"
+        },
+        {
+            "question": "..................................... be happy when this is finished.",
+            "description": "",
+            "answers": [
+                "I'will",
+                "I'll",
+                "I 'll"
+            ],
+            "correct": 1,
+            "id": "0fa0f82b3c78478787feb785f3653fe2"
+        },
+        {
+            "question": ".................................... definitely pay you back next week.",
+            "description": "",
+            "answers": [
+                "We 'will",
+                "We'ill",
+                "We'll"
+            ],
+            "correct": 2,
+            "id": "bcf5ff9c9d584da1a45b0baa6054d8ae"
+        },
+        {
+            "question": ".................................. you have some more wine?",
+            "description": "",
+            "answers": [
+                "Will'not",
+                "Won't",
+                "Will n't"
+            ],
+            "correct": 1,
+            "id": "28d5486ee858451b911dd4e7302cd170"
+        },
+        {
+            "question": "In a situation like that ....................................... scream until somebody came to help me.",
+            "description": "",
+            "answers": [
+                "I'would",
+                "I'd",
+                "I'ld"
+            ],
+            "correct": 1,
+            "id": "0e4a5d455dfe4db88a4bc9345f8f2a43"
+        },
+        {
+            "question": "This is a lovely party, but ...................................... got to go home because of the baby-sitter.",
+            "description": "",
+            "answers": [
+                "we'have",
+                "we've",
+                "we 've"
+            ],
+            "correct": 1,
+            "id": "7604659acc874b539e7906db236da584"
+        },
+        {
+            "question": "I’ve not heard Sally moving about. She ............................... be awake yet.",
+            "description": "",
+            "answers": [
+                "must n't",
+                "mustn't",
+                "must't"
+            ],
+            "correct": 1,
+            "id": "021c549a47814f28af735f42ad303c72"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "id": "5a9c0b18abb3448dbee94c205db29ace",
+    "title": "Although, However, Though, Despite And In Spite Of",
+    "questions": [
+        {
+            "question": "He continued to play ........................... the injury.",
+            "description": "Despite is a preposition. It is followed by a noun/pronoun.",
+            "answers": [
+                "despite",
+                "although",
+                "though",
+                "however"
+            ],
+            "correct": 0,
+            "id": "8fa75f527c9444db9cb2ca0eb7fdca58"
+        },
+        {
+            "question": ".............................. he was injured, he continued to play.",
+            "description": "Though is a conjunction we need a conjunction to connect two clauses.",
+            "answers": [
+                "However",
+                "Though",
+                "Despite"
+            ],
+            "correct": 1,
+            "id": "bbd8371958724ad7b5d634dd49e0eda2"
+        },
+        {
+            "question": "She did not get the job ............................... the fact that she did well in the interview.",
+            "description": "Either despite or in spite of is possible here. ",
+            "answers": [
+                "despite",
+                "despite of",
+                "in spite of",
+                "in spite"
+            ],
+            "correct": 2,
+            "id": "42d77980fc734adabdef54094ac6efd0"
+        },
+        {
+            "question": "He failed .................................. working hard.",
+            "description": "We use a preposition before an ing form.",
+            "answers": [
+                "despite",
+                "though",
+                "however"
+            ],
+            "correct": 0,
+            "id": "093f10ab56eb4425b79c5d3929e67314"
+        },
+        {
+            "question": "He failed .................................. the fact that he worked hard.",
+            "description": "We use despite or in spite of before a that-clause introduced by the fact.",
+            "answers": [
+                "although",
+                "despite",
+                "in spite of"
+            ],
+            "correct": 2,
+            "id": "60b4684f908446af937f5752b0bdbd44"
+        },
+        {
+            "question": "My husband did not like the movie ............................, I enjoyed it a lot.",
+            "description": "However is a transitional adverb it is used to introduce an idea that contradicts the previous idea.",
+            "answers": [
+                "though",
+                "however",
+                "in spite of"
+            ],
+            "correct": 1,
+            "id": "9f0c4cc9d8e8410da15dcb0289a4470f"
+        },
+        {
+            "question": "The restaurant was nice, .............................. expensive.",
+            "description": "",
+            "answers": [
+                "however",
+                "though",
+                "although"
+            ],
+            "correct": 1,
+            "id": "5f566bdbdf814ec4a08c78cbc7eb6680"
+        },
+        {
+            "question": "................................. I was invited to the party, I did not go.",
+            "description": "Though and although are interchangeable.",
+            "answers": [
+                "Although",
+                "Though",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "556c5819e0374061bc03633631ba45a5"
+        },
+        {
+            "question": "The train was late ............................., I managed to reach on time.",
+            "description": "However is a transitional adverb it is used to introduce an idea that contradicts the previous idea.",
+            "answers": [
+                "however",
+                "though",
+                "although"
+            ],
+            "correct": 0,
+            "id": "dd46fce0f1344da1a8f3e1ae588c7928"
+        },
+        {
+            "question": "............................... the fact that the train was late, I managed to reach on time.",
+            "description": "We use despite or in spite of before a that-clause introduced by the fact.",
+            "answers": [
+                "Despite",
+                "Though",
+                "However"
+            ],
+            "correct": 0,
+            "id": "d94ea905f7134d62805327b2f9cb1310"
+        },
+        {
+            "question": "............................. the train was late, I managed to reach on time.",
+            "description": "Although is a conjunction we use it to connect two clauses.",
+            "answers": [
+                "Although",
+                "However",
+                "Despite"
+            ],
+            "correct": 0,
+            "id": "f0bedae338ee4fbf8473495aeb96974b"
+        },
+        {
+            "question": "There was no one to help me ............................., I managed to do it.",
+            "description": "However is a transitional adverb it is used to introduce an idea that contradicts the previous idea.",
+            "answers": [
+                "though",
+                "despite",
+                "however"
+            ],
+            "correct": 2,
+            "id": "8764dca80e254bb7a363da99f265ea48"
+        }
+    ]
+}

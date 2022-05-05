@@ -1,0 +1,108 @@
+{
+    "id": "e68806a4f8d74152bdc8705c49fe2caa",
+    "title": "Simple Past or Present Perfect Tense Exercise",
+    "questions": [
+        {
+            "question": "I ………………….. her since she moved to Kolkata.",
+            "description": "",
+            "answers": [
+                "didn't meet",
+                "haven't met"
+            ],
+            "correct": 1,
+            "id": "ff8e4cc6e725472ebf5646763c5242a4"
+        },
+        {
+            "question": "The police ..................... the thieves yesterday.",
+            "description": "",
+            "answers": [
+                "arrested",
+                "have arrested"
+            ],
+            "correct": 0,
+            "id": "d63e0613da104c43b2b471a463bca99d"
+        },
+        {
+            "question": "He ………………. voluntary retirement at the age of thirty-five.",
+            "description": "",
+            "answers": [
+                "took",
+                "has taken"
+            ],
+            "correct": 0,
+            "id": "d10665609eac47508c0b571024dce316"
+        },
+        {
+            "question": "The teacher ………………. the girl for her achievements.",
+            "description": "",
+            "answers": [
+                "praised",
+                "has praised"
+            ],
+            "correct": 0,
+            "id": "053286a09dcd4871994077a20937003e"
+        },
+        {
+            "question": "When I …………….. the door, the cat …………….. in.",
+            "description": "",
+            "answers": [
+                "opened, jumped",
+                "have opened, has jumped",
+                "opened, has jumped"
+            ],
+            "correct": 0,
+            "id": "4604cdf62a34477b997bafaf997058e9"
+        },
+        {
+            "question": "This is where my mother ………………. her childhood.",
+            "description": "",
+            "answers": [
+                "spent",
+                "has spent"
+            ],
+            "correct": 0,
+            "id": "2ce6504047fb47cb8d789101f939ff4e"
+        },
+        {
+            "question": "You ....................... me a drink.",
+            "description": "",
+            "answers": [
+                "have never bought",
+                "has never bought",
+                "never bought"
+            ],
+            "correct": 0,
+            "id": "f5dd99aa5f924b6ea50f49e5a07bf248"
+        },
+        {
+            "question": "We …………………. a gold medal in Olympics.",
+            "description": "",
+            "answers": [
+                "never won",
+                "have never won"
+            ],
+            "correct": 1,
+            "id": "dd1718d6e9bd4d618c0c03eb870730a0"
+        },
+        {
+            "question": "I ………………….. to New Zealand.",
+            "description": "",
+            "answers": [
+                "never went",
+                "have never been"
+            ],
+            "correct": 1,
+            "id": "a44b87ef0b0e4d91a7d663b45840c7cd"
+        },
+        {
+            "question": "He ………………… in",
+            "description": "",
+            "answers": [
+                "graduated",
+                "has graduated"
+            ],
+            "correct": 0,
+            "id": "157c23f9eec841c3b4064ecb9709d1fb"
+        }
+    ]
+}

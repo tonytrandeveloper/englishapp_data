@@ -1,0 +1,116 @@
+{
+    "id": "8e2a8a3452194dd1b5cd14f9c5dbd515",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The cat is inferior …………….. the dog in intelligence.",
+            "description": "Inferior is followed by to instead of than.",
+            "answers": [
+                "than",
+                "to",
+                "of"
+            ],
+            "correct": 1,
+            "id": "0e229a101b944605b9efebcd3faa0b87"
+        },
+        {
+            "question": "When the journalists protested, the minister made no ………………. comments.",
+            "description": "Further means additional.",
+            "answers": [
+                "farther",
+                "further",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "2d04b3b5cf43449da4d7fe7b8599671a"
+        },
+        {
+            "question": "Chennai is ………………. from Mumbai than Bangalore.",
+            "description": "",
+            "answers": [
+                "farther",
+                "further",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "01750312445e4a3fbb13cc263eef5ee5"
+        },
+        {
+            "question": "Rahim is senior …………….. all other teachers in the school.",
+            "description": "Senior is followed by to instead of than.",
+            "answers": [
+                "than",
+                "to",
+                "with"
+            ],
+            "correct": 1,
+            "id": "fbba3913f87248698787429ffe7a42ca"
+        },
+        {
+            "question": "Will you give me ………………. rice, please?",
+            "description": "We use some in affirmative sentences and any in negative sentences.",
+            "answers": [
+                "some",
+                "any",
+                "Either could be used here"
+            ],
+            "correct": 0,
+            "id": "25adc4a5701c4eaeb73f0a958cc45231"
+        },
+        {
+            "question": "………………. knowledge is a dangerous thing.",
+            "description": "A little means some. ",
+            "answers": [
+                "Little",
+                "a little",
+                "The little"
+            ],
+            "correct": 1,
+            "id": "fddd63de168043f1a0b1cd73da10b2c4"
+        },
+        {
+            "question": "……………… rice we have is enough to feed 10 persons.",
+            "description": "The little means not much, but all that is there.",
+            "answers": [
+                "Little",
+                "A little",
+                "The little"
+            ],
+            "correct": 2,
+            "id": "83fb3f73543740109913e0b920f2cb09"
+        },
+        {
+            "question": "……………… knowledge of mathematics that he possessed proved very useful.",
+            "description": "The little means not much, but all that is there.",
+            "answers": [
+                "Little",
+                "A little",
+                "The little"
+            ],
+            "correct": 2,
+            "id": "d86dc916513e40cc9fdbc90e558395a7"
+        },
+        {
+            "question": "My cousin ………………… two daughters.",
+            "description": "When have is used to talk about possessions or relationships, it is not used in the continuous form.",
+            "answers": [
+                "is having",
+                "has",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "2a46d94693e842c59145dab341c5190a"
+        },
+        {
+            "question": "Here ……………… our leader!",
+            "description": "Even though an action is in progress at the time of speaking, present continuous tense is not used if it is an exclamatory sentence.",
+            "answers": [
+                "is coming",
+                "comes",
+                "Either could be used here"
+            ],
+            "correct": 1,
+            "id": "ae0ecae930524dff8adc95577cda16b1"
+        }
+    ]
+}

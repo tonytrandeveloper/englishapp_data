@@ -1,0 +1,138 @@
+{
+    "id": "0016873a74f042928dfd7a1eda4580fe",
+    "title": "Modals Exercise",
+    "questions": [
+        {
+            "question": "………………………… you solve this puzzle?",
+            "description": "Can expresses ability.",
+            "answers": [
+                "Can",
+                "May",
+                "Will"
+            ],
+            "correct": 0,
+            "id": "520144f12762428299ea59e49f290917"
+        },
+        {
+            "question": "Although she tried, she ………………………….. solve the problem.",
+            "description": "Could not expresses inability.",
+            "answers": [
+                "could not",
+                "cannot",
+                "will not"
+            ],
+            "correct": 0,
+            "id": "b94949667c69461c9f6a6728ff341358"
+        },
+        {
+            "question": "They ………………………….. have already left.",
+            "description": "May expresses possibility in affirmative sentences.",
+            "answers": [
+                "may",
+                "can",
+                ""
+            ],
+            "correct": 0,
+            "id": "c7ea0fb7e20c4924b4e24cf32f9ea8a5"
+        },
+        {
+            "question": "Who ………………………… it be?",
+            "description": "Can expresses possibility in questions and negative sentences.",
+            "answers": [
+                "can",
+                "will",
+                "could"
+            ],
+            "correct": 0,
+            "id": "0332290501ef42ab823aefdc763b53ae"
+        },
+        {
+            "question": "No. It ……………………….. be the postman. He has already been.",
+            "description": "Can expresses possibility in questions and negative sentences.",
+            "answers": [
+                "cannot",
+                "will not",
+                "could not"
+            ],
+            "correct": 0,
+            "id": "441401e3cdab4456b27c86188679a0f5"
+        },
+        {
+            "question": "My grandmother is ninety. She …………………………… still read without glasses.",
+            "description": "Can shows present ability. Could shows past ability.",
+            "answers": [
+                "can",
+                "will",
+                "could"
+            ],
+            "correct": 0,
+            "id": "a856a6f624d74b5683c5c76302cb4091"
+        },
+        {
+            "question": "He said that I …………………………… leave if I wanted to.",
+            "description": "Both could and might can indicate permission.",
+            "answers": [
+                "might",
+                "could",
+                "Either could be used here"
+            ],
+            "correct": 2,
+            "id": "8f479025baf04176a354ea12fa719b88"
+        },
+        {
+            "question": "You …………………………. regret this.",
+            "description": "With second and third person pronouns shall can be used to express a command or threat.",
+            "answers": [
+                "shall",
+                "will",
+                "can"
+            ],
+            "correct": 0,
+            "id": "7fe9a21129114596a9e1a1cb8403d2ae"
+        },
+        {
+            "question": "I ……………………………. go no matter what.",
+            "description": "Will indicates determination.",
+            "answers": [
+                "will",
+                "can",
+                "would"
+            ],
+            "correct": 0,
+            "id": "a0a9305f304e48bfb9e4ac4cb5364964"
+        },
+        {
+            "question": "She ………………………….. spend hours playing with her dog.",
+            "description": "We can use will to express characteristic habit.",
+            "answers": [
+                "will",
+                "can",
+                "may"
+            ],
+            "correct": 0,
+            "id": "d6726480c4294edaac8cd17d5008b3d0"
+        },
+        {
+            "question": "………………………….. you help me with this?",
+            "description": "Will is often used in polite requests.",
+            "answers": [
+                "Will",
+                "Can",
+                "May"
+            ],
+            "correct": 1,
+            "id": "abc583c44f544774aee73847353b6bf6"
+        },
+        {
+            "question": "I …………………………… pay for your drinks.",
+            "description": "Will is used in promises.",
+            "answers": [
+                "will",
+                "would",
+                "may"
+            ],
+            "correct": 0,
+            "id": "0adad8f3aaca48dc9429b3d33f421cc0"
+        }
+    ]
+}
