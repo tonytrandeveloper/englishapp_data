@@ -115,7 +115,7 @@
         "answers": [
             "has",
             "have",
-            "have s"
+            "have’s"
         ],
         "correct": 0
     },
@@ -133,7 +133,7 @@
         "id": "3b92ef3c08624fb8bf76a90b00f9fa57",
         "question": "These flats ... 400,000 dollars.",
         "answers": [
-            "cost",
+            "costs",
             "cost",
             "costed"
         ],
@@ -515,7 +515,7 @@
         "answers": [
             "Does",
             "Do",
-            "Hav e"
+            "Have"
         ],
         "correct": 1
     },
@@ -645,7 +645,7 @@
         "answers": [
             "Do",
             "Does",
-            "Ar e"
+            "Are"
         ],
         "correct": 0
     },
@@ -775,7 +775,7 @@
         "answers": [
             "do",
             "does",
-            "ha s"
+            "has"
         ],
         "correct": 1
     },
@@ -905,7 +905,7 @@
         "answers": [
             "are",
             "am",
-            "wil l"
+            "will"
         ],
         "correct": 1
     },
@@ -1035,7 +1035,7 @@
         "answers": [
             "am not",
             "aren’t",
-            "a m"
+            "am"
         ],
         "correct": 1
     },
@@ -1165,7 +1165,7 @@
         "answers": [
             "isn’t",
             "have",
-            "aren’ t"
+            "aren’t"
         ],
         "correct": 2
     },
@@ -1295,7 +1295,7 @@
         "answers": [
             "Are",
             "Is",
-            "Aren’ t"
+            "Aren’t"
         ],
         "correct": 1
     },
@@ -1425,7 +1425,7 @@
         "answers": [
             "are",
             "is",
-            "hav e"
+            "have"
         ],
         "correct": 1
     },
@@ -1555,7 +1555,7 @@
         "answers": [
             "is",
             "are",
-            "d o"
+            "do"
         ],
         "correct": 0
     },
@@ -1685,7 +1685,7 @@
         "answers": [
             "happening",
             "happened",
-            "happenne d"
+            "happenned"
         ],
         "correct": 1
     },
@@ -1815,7 +1815,7 @@
         "answers": [
             "feel",
             "felt",
-            "fal l"
+            "fall"
         ],
         "correct": 1
     },
@@ -1945,7 +1945,7 @@
         "answers": [
             "come",
             "don’t come",
-            "cam e"
+            "came"
         ],
         "correct": 2
     },
@@ -2335,7 +2335,7 @@
         "answers": [
             "grown",
             "grew",
-            "have gre w"
+            "have grew"
         ],
         "correct": 1
     },
@@ -2465,7 +2465,7 @@
         "answers": [
             "sat",
             "sitting",
-            "sit s"
+            "sits"
         ],
         "correct": 0
     },
@@ -2595,7 +2595,7 @@
         "answers": [
             "sold",
             "sell",
-            "have sol d"
+            "have sold"
         ],
         "correct": 0
     },
@@ -2715,7 +2715,7 @@
         "answers": [
             "didn’t have",
             "didn’t had",
-            "couldn’t ha d"
+            "couldn’t had"
         ],
         "correct": 0
     },
@@ -2855,7 +2855,7 @@
         "answers": [
             "interested",
             "interest",
-            "interestin g"
+            "interesting"
         ],
         "correct": 1
     },
@@ -2981,7 +2981,7 @@
         "question": "… at the party?",
         "answers": [
             "Who did arrived",
-            "Who arrive d"
+            "Who arrived"
         ],
         "correct": 1
     },
@@ -3111,7 +3111,7 @@
         "answers": [
             "was",
             "were",
-            "see m"
+            "seem"
         ],
         "correct": 0
     },
@@ -3241,7 +3241,7 @@
         "answers": [
             "weren’t",
             "was",
-            "wasn’ t"
+            "wasn’t"
         ],
         "correct": 0
     },
@@ -3371,7 +3371,7 @@
         "answers": [
             "wasn’t",
             "weren’t",
-            "ar e"
+            "are"
         ],
         "correct": 0
     },
@@ -3501,7 +3501,7 @@
         "answers": [
             "Did",
             "Was",
-            "Wer e"
+            "Were"
         ],
         "correct": 1
     },
@@ -3631,7 +3631,7 @@
         "answers": [
             "were",
             "was",
-            "di d"
+            "did"
         ],
         "correct": 0
     },
@@ -3761,7 +3761,7 @@
         "answers": [
             "was",
             "were",
-            "di d"
+            "did"
         ],
         "correct": 1
     },
@@ -3891,7 +3891,7 @@
         "answers": [
             "shall",
             "will",
-            "ar e"
+            "are"
         ],
         "correct": 1
     },
@@ -4021,7 +4021,7 @@
         "answers": [
             "Does",
             "Will",
-            "I s"
+            "Is"
         ],
         "correct": 1
     },
@@ -4401,7 +4401,7 @@
         "answers": [
             "doesn’t",
             "don’t",
-            "aren’ t"
+            "aren’t"
         ],
         "correct": 2
     },
@@ -4531,7 +4531,7 @@
         "answers": [
             "aren’t",
             "isn’t",
-            "don’ t"
+            "don’t"
         ],
         "correct": 1
     },
@@ -4661,7 +4661,7 @@
         "answers": [
             "Can",
             "Is",
-            "Ar e"
+            "Are"
         ],
         "correct": 2
     },
@@ -4911,7 +4911,7 @@
         "answers": [
             "has",
             "does",
-            "i s"
+            "is"
         ],
         "correct": 2
     },
@@ -5101,7 +5101,7 @@
         "answers": [
             "are going",
             "go",
-            "have gon e"
+            "have gone"
         ],
         "correct": 1
     },
@@ -5191,7 +5191,7 @@
         "answers": [
             "have",
             "experiences",
-            "is experiencin g"
+            "is experiencing"
         ],
         "correct": 2
     },
@@ -5831,7 +5831,7 @@
         "answers": [
             "such",
             "by so",
-            "s o"
+            "so"
         ],
         "correct": 2
     },
@@ -5961,7 +5961,7 @@
         "answers": [
             "such",
             "such a",
-            "s o"
+            "so"
         ],
         "correct": 0
     },
@@ -6091,7 +6091,7 @@
         "answers": [
             "having",
             "have",
-            "to hav e"
+            "to have"
         ],
         "correct": 2
     },
@@ -6351,7 +6351,7 @@
         "answers": [
             "learn",
             "learning",
-            "to learnin g"
+            "to learning"
         ],
         "correct": 1
     },
@@ -6481,7 +6481,7 @@
         "answers": [
             "to lying",
             "lying",
-            "li e"
+            "lie"
         ],
         "correct": 1
     },
@@ -6611,7 +6611,7 @@
         "answers": [
             "this",
             "these",
-            "tha t"
+            "that"
         ],
         "correct": 1
     },
@@ -6741,7 +6741,7 @@
         "answers": [
             "has got",
             "has",
-            "hav e"
+            "have"
         ],
         "correct": 2
     },
@@ -6871,7 +6871,7 @@
         "answers": [
             "have",
             "have got",
-            "ha s"
+            "has"
         ],
         "correct": 2
     },
@@ -7131,7 +7131,7 @@
         "answers": [
             "Do",
             "Has",
-            "Hav e"
+            "Have"
         ],
         "correct": 1
     },
@@ -7381,7 +7381,7 @@
         "answers": [
             "write",
             "to write",
-            "writin g"
+            "writing"
         ],
         "correct": 0
     },
@@ -7511,7 +7511,7 @@
         "answers": [
             "confirm",
             "to confirm",
-            "confirmin g"
+            "confirming"
         ],
         "correct": 0
     },
@@ -7641,7 +7641,7 @@
         "answers": [
             "to return",
             "return",
-            "returnin g"
+            "returning"
         ],
         "correct": 1
     },
@@ -7771,7 +7771,7 @@
         "answers": [
             "break",
             "to break",
-            "breakin g"
+            "breaking"
         ],
         "correct": 0
     },
@@ -7901,7 +7901,7 @@
         "answers": [
             "to work",
             "work",
-            "workin g"
+            "working"
         ],
         "correct": 0
     },
@@ -7910,7 +7910,8 @@
         "question": "I’m sorry for her. She has … up very early.",
         "answers": [
             "get",
-            "to get c ) getting"
+            "to get",
+            "getting"
         ],
         "correct": 1
     },
@@ -8030,7 +8031,7 @@
         "answers": [
             "break",
             "broke",
-            "to brea k"
+            "to break"
         ],
         "correct": 2
     },
@@ -8160,7 +8161,7 @@
         "answers": [
             "to read",
             "read",
-            "readin g"
+            "reading"
         ],
         "correct": 0
     },
@@ -8290,7 +8291,7 @@
         "answers": [
             "to look",
             "looking",
-            "loo k"
+            "look"
         ],
         "correct": 2
     },
@@ -8420,7 +8421,7 @@
         "answers": [
             "to think",
             "think",
-            "thinkin g"
+            "thinking"
         ],
         "correct": 1
     },
@@ -8540,7 +8541,7 @@
         "answers": [
             "to help",
             "helping",
-            "hel p"
+            "help"
         ],
         "correct": 2
     },
@@ -8670,7 +8671,7 @@
         "answers": [
             "pay",
             "paid",
-            "to pa y"
+            "to pay"
         ],
         "correct": 0
     },
@@ -8800,7 +8801,7 @@
         "answers": [
             "to criticize",
             "criticize",
-            "criticizin g"
+            "criticizing"
         ],
         "correct": 1
     },
@@ -8930,7 +8931,7 @@
         "answers": [
             "solve",
             "to solve",
-            "solvin g"
+            "solving"
         ],
         "correct": 0
     },
@@ -9060,7 +9061,7 @@
         "answers": [
             "to say",
             "said",
-            "sa y"
+            "say"
         ],
         "correct": 2
     },
@@ -9190,7 +9191,7 @@
         "answers": [
             "are supplied",
             "supply",
-            "supplyin g"
+            "supplying"
         ],
         "correct": 1
     },
@@ -9310,7 +9311,7 @@
         "answers": [
             "is reduced",
             "was reduced",
-            "were reduce d"
+            "were reduced"
         ],
         "correct": 2
     },
@@ -9408,7 +9409,7 @@
         "id": "e6d699348ef847faa85a0aaa74f40f56",
         "question": "This theory … very clearly.",
         "answers": [
-            "doesn’t explai n",
+            "doesn’t explain",
             "isn’t explained",
             "hasn’t explained"
         ],
@@ -9480,7 +9481,7 @@
         "answers": [
             "aren’t produce",
             "don’t produce",
-            "does produc e"
+            "does produce"
         ],
         "correct": 1
     },
@@ -9568,7 +9569,7 @@
         "id": "1f669f3afe9141b3845c60068cc7b7f3",
         "question": "I’m sorry to inform you, but this service … .",
         "answers": [
-            "isn’t provide d",
+            "isn’t provided",
             "aren’t provided",
             "provides"
         ],
@@ -9610,10 +9611,7 @@
         "answers": [
             "Do these apartments sell?",
             "Are these apartments sold?",
-            "Are this apartments sold? 963 … on the blackboard?",
-            "Is this text written",
-            "Are these text written",
-            "This text written is"
+            "Are this apartments sold?"
         ],
         "correct": 1
     },
@@ -9793,7 +9791,7 @@
         "answers": [
             "delayed",
             "delay",
-            "were delaye d"
+            "were delayed"
         ],
         "correct": 2
     },
@@ -9993,7 +9991,7 @@
         "answers": [
             "isn’t take",
             "didn’t take",
-            "wasn’t take n"
+            "wasn’t taken"
         ],
         "correct": 2
     },
@@ -10071,7 +10069,7 @@
         "id": "fb354a42a0bf4f8b95ef7aaa4fb4ec46",
         "question": "The rules … . They broke them.",
         "answers": [
-            "didn’t remembe r",
+            "didn’t remember",
             "wasn’t remember",
             "weren’t remembered"
         ],
@@ -10143,7 +10141,7 @@
         "answers": [
             "weren’t lost",
             "wasn’t lost",
-            "isn’t los t"
+            "isn’t lost"
         ],
         "correct": 0
     },
@@ -10313,7 +10311,7 @@
         "answers": [
             "Were",
             "Was",
-            "Di d"
+            "Did"
         ],
         "correct": 1
     },
@@ -10443,7 +10441,7 @@
         "answers": [
             "attach",
             "attached",
-            "will be attache d"
+            "will be attached"
         ],
         "correct": 2
     },
@@ -10523,7 +10521,7 @@
         "answers": [
             "won’t agree",
             "won’t be agreed",
-            "won’t agree d"
+            "won’t agreed"
         ],
         "correct": 0
     },
@@ -10813,7 +10811,7 @@
         "answers": [
             "happen",
             "happens",
-            "will happe n"
+            "will happen"
         ],
         "correct": 1
     },
@@ -10943,7 +10941,7 @@
         "answers": [
             "refuse",
             "to refuse",
-            "will refus e"
+            "will refuse"
         ],
         "correct": 0
     },
@@ -11073,7 +11071,7 @@
         "answers": [
             "came",
             "comes",
-            "will com e"
+            "will come"
         ],
         "correct": 1
     },
@@ -11203,7 +11201,7 @@
         "answers": [
             "will say",
             "said",
-            "sa y"
+            "say"
         ],
         "correct": 2
     },
@@ -11333,7 +11331,7 @@
         "answers": [
             "feel",
             "would feel",
-            "fel t"
+            "felt"
         ],
         "correct": 2
     },
@@ -11463,7 +11461,7 @@
         "answers": [
             "is",
             "will be",
-            "wer e"
+            "were"
         ],
         "correct": 2
     },
@@ -11593,7 +11591,7 @@
         "answers": [
             "has",
             "has had",
-            "ha d"
+            "had"
         ],
         "correct": 2
     },
@@ -11713,7 +11711,7 @@
         "answers": [
             "had",
             "have",
-            "will hav e"
+            "will have"
         ],
         "correct": 1
     },
@@ -11833,7 +11831,7 @@
         "answers": [
             "am",
             "will",
-            "woul d"
+            "would"
         ],
         "correct": 2
     },
@@ -12093,7 +12091,7 @@
         "answers": [
             "Not do",
             "Don’t do",
-            "Not doin g"
+            "Not doing"
         ],
         "correct": 1
     },
@@ -12223,7 +12221,7 @@
         "answers": [
             "are",
             "is",
-            "ha s"
+            "has"
         ],
         "correct": 1
     },
@@ -12483,7 +12481,7 @@
         "answers": [
             "was",
             "were",
-            "hav e"
+            "have"
         ],
         "correct": 1
     },
@@ -12613,7 +12611,7 @@
         "answers": [
             "would be",
             "will be",
-            "to b e"
+            "to be"
         ],
         "correct": 1
     },
@@ -12743,7 +12741,7 @@
         "answers": [
             "go",
             "are going",
-            "to g o"
+            "to go"
         ],
         "correct": 1
     },
@@ -12873,7 +12871,7 @@
         "answers": [
             "to going",
             "going",
-            "is goin g"
+            "is going"
         ],
         "correct": 2
     },
@@ -13003,7 +13001,7 @@
         "answers": [
             "not go",
             "isn’t going",
-            "aren’t goin g"
+            "aren’t going"
         ],
         "correct": 1
     },
@@ -13133,7 +13131,7 @@
         "answers": [
             "Are you go",
             "Do you go",
-            "Are you goin g"
+            "Are you going"
         ],
         "correct": 2
     },
@@ -13223,7 +13221,7 @@
         "answers": [
             "Does her assistant going",
             "Is her assistant going",
-            "Do her assistant goin g"
+            "Do her assistant going"
         ],
         "correct": 1
     },
@@ -13323,7 +13321,7 @@
         "answers": [
             "Are",
             "Is",
-            "D o"
+            "Do"
         ],
         "correct": 0
     },
@@ -13453,7 +13451,7 @@
         "answers": [
             "was going",
             "going",
-            "was g o"
+            "was go"
         ],
         "correct": 0
     },
@@ -13843,7 +13841,7 @@
         "answers": [
             "Was",
             "Were",
-            "Di d"
+            "Did"
         ],
         "correct": 0
     },
@@ -13933,7 +13931,7 @@
         "answers": [
             "Were it going",
             "Was it going",
-            "Did it goin g"
+            "Did it going"
         ],
         "correct": 1
     },
@@ -14043,7 +14041,7 @@
         "answers": [
             "make",
             "do",
-            "hav e"
+            "have"
         ],
         "correct": 1
     },
@@ -14173,7 +14171,7 @@
         "answers": [
             "made",
             "did",
-            "had don e"
+            "had done"
         ],
         "correct": 0
     },
@@ -14303,7 +14301,7 @@
         "answers": [
             "is",
             "has",
-            "doe s"
+            "does"
         ],
         "correct": 0
     },
@@ -14563,7 +14561,7 @@
         "answers": [
             "does",
             "is",
-            "ha s"
+            "has"
         ],
         "correct": 0
     },
@@ -14823,7 +14821,7 @@
         "answers": [
             "am not",
             "don’t",
-            "haven’ t"
+            "haven’t"
         ],
         "correct": 1
     },
@@ -14953,7 +14951,7 @@
         "answers": [
             "has",
             "did",
-            "wa s"
+            "was"
         ],
         "correct": 1
     },
@@ -15343,7 +15341,7 @@
         "answers": [
             "have",
             "did",
-            "hav e"
+            "has"
         ],
         "correct": 1
     },
@@ -15473,7 +15471,7 @@
         "answers": [
             "wasn’t",
             "didn’t",
-            "hasn’ t"
+            "hasn’t"
         ],
         "correct": 1
     },
@@ -15603,7 +15601,7 @@
         "answers": [
             "won’t",
             "am not",
-            "haven’ t"
+            "haven’t"
         ],
         "correct": 0
     },
@@ -15733,7 +15731,7 @@
         "answers": [
             "is",
             "are",
-            "doe s"
+            "does"
         ],
         "correct": 0
     },
@@ -15863,7 +15861,7 @@
         "answers": [
             "don’t",
             "am not",
-            "haven’ t"
+            "haven’t"
         ],
         "correct": 1
     },
@@ -15993,7 +15991,7 @@
         "answers": [
             "don’t",
             "wasn’t",
-            "haven’ t"
+            "haven’t"
         ],
         "correct": 2
     },
@@ -16123,7 +16121,7 @@
         "answers": [
             "do",
             "have",
-            "a m"
+            "am"
         ],
         "correct": 0
     },
@@ -16253,7 +16251,7 @@
         "answers": [
             "weren’t",
             "don’t",
-            "haven’ t"
+            "haven’t"
         ],
         "correct": 1
     },
@@ -16331,7 +16329,7 @@
         "id": "4bd28d2433124ed3af5c0eed1f829e02",
         "question": "I want Olivia … to that party.",
         "answers": [
-            "to go b",
+            "to go",
             "going",
             "go"
         ],
@@ -16383,7 +16381,7 @@
         "answers": [
             "join",
             "joined",
-            "to joi n"
+            "to join"
         ],
         "correct": 2
     },
@@ -16513,7 +16511,7 @@
         "answers": [
             "to invite",
             "invite",
-            "invitin g"
+            "inviting"
         ],
         "correct": 0
     },
@@ -16643,7 +16641,7 @@
         "answers": [
             "her",
             "his",
-            "ou r"
+            "our"
         ],
         "correct": 0
     },
@@ -16773,7 +16771,7 @@
         "answers": [
             "your",
             "you",
-            "your s"
+            "yours"
         ],
         "correct": 2
     },
@@ -16903,7 +16901,7 @@
         "answers": [
             "our",
             "yours",
-            "min e"
+            "mine"
         ],
         "correct": 0
     },
@@ -17163,7 +17161,7 @@
         "answers": [
             "much",
             "many",
-            "a lo t"
+            "a lot"
         ],
         "correct": 1
     },
@@ -17293,7 +17291,7 @@
         "answers": [
             "much",
             "many",
-            "a lo t"
+            "a lot"
         ],
         "correct": 1
     },
@@ -17423,7 +17421,7 @@
         "answers": [
             "much",
             "many",
-            "a lo t"
+            "a lot"
         ],
         "correct": 1
     },
@@ -17553,7 +17551,7 @@
         "answers": [
             "few",
             "little",
-            "muc h"
+            "much"
         ],
         "correct": 0
     },
@@ -17683,7 +17681,7 @@
         "answers": [
             "few",
             "little",
-            "man y"
+            "many"
         ],
         "correct": 1
     },
@@ -17813,7 +17811,7 @@
         "answers": [
             "few",
             "little",
-            "man y"
+            "many"
         ],
         "correct": 1
     },
@@ -17943,7 +17941,7 @@
         "answers": [
             "much",
             "a little",
-            "a lot o f"
+            "a lot of"
         ],
         "correct": 2
     },
@@ -18073,7 +18071,7 @@
         "answers": [
             "much",
             "a lot",
-            "man y"
+            "many"
         ],
         "correct": 2
     },
@@ -18203,7 +18201,7 @@
         "answers": [
             "some",
             "any",
-            "man y"
+            "many"
         ],
         "correct": 1
     },
@@ -18333,7 +18331,7 @@
         "answers": [
             "some",
             "any",
-            "muc h"
+            "much"
         ],
         "correct": 1
     },
@@ -18455,7 +18453,7 @@
         "question": "I see … over there.",
         "answers": [
             "something",
-            "anythin g"
+            "anything"
         ],
         "correct": 0
     },
@@ -18583,7 +18581,7 @@
         "answers": [
             "other",
             "others",
-            "anothe r"
+            "another"
         ],
         "correct": 0
     },
@@ -18713,7 +18711,7 @@
         "answers": [
             "beautiful",
             "beautifully",
-            "goo d"
+            "good"
         ],
         "correct": 1
     },
@@ -18843,7 +18841,7 @@
         "answers": [
             "different",
             "strange",
-            "differentl y"
+            "differently"
         ],
         "correct": 2
     },
@@ -18973,7 +18971,7 @@
         "answers": [
             "sudden",
             "suddenly",
-            "certai n"
+            "certain"
         ],
         "correct": 1
     },
@@ -19233,7 +19231,7 @@
         "answers": [
             "older",
             "much old",
-            "more ol d"
+            "more old"
         ],
         "correct": 0
     },
@@ -19363,7 +19361,7 @@
         "answers": [
             "more fat",
             "fatter",
-            "much fa t"
+            "much fat"
         ],
         "correct": 1
     },
@@ -19493,7 +19491,7 @@
         "answers": [
             "most big",
             "bigger",
-            "bigges t"
+            "biggest"
         ],
         "correct": 2
     },
@@ -19623,7 +19621,7 @@
         "answers": [
             "usefulest",
             "most useful",
-            "usefule r"
+            "usefuler"
         ],
         "correct": 1
     },
@@ -19753,7 +19751,7 @@
         "answers": [
             "calmer",
             "calmest",
-            "most cal m"
+            "most calm"
         ],
         "correct": 1
     },
@@ -19883,7 +19881,7 @@
         "answers": [
             "mucher",
             "more",
-            "man y"
+            "many"
         ],
         "correct": 1
     },
@@ -20143,7 +20141,7 @@
         "answers": [
             "as",
             "like as",
-            "lik e"
+            "like"
         ],
         "correct": 2
     },
@@ -20273,7 +20271,7 @@
         "answers": [
             "hers",
             "she",
-            "he r"
+            "her"
         ],
         "correct": 2
     },
@@ -20403,7 +20401,7 @@
         "answers": [
             "her",
             "she",
-            "her s"
+            "hers"
         ],
         "correct": 2
     },
@@ -20533,7 +20531,7 @@
         "answers": [
             "enough",
             "too",
-            "wa y"
+            "way"
         ],
         "correct": 0
     },
@@ -20792,7 +20790,7 @@
         "answers": [
             "on",
             "at",
-            "i n"
+            "in"
         ],
         "correct": 2
     },
@@ -20922,7 +20920,7 @@
         "answers": [
             "at",
             "on",
-            "i n"
+            "in"
         ],
         "correct": 2
     },
@@ -21312,7 +21310,7 @@
         "answers": [
             "at",
             "in",
-            "o n"
+            "on"
         ],
         "correct": 2
     },
@@ -21832,7 +21830,7 @@
         "answers": [
             "for",
             "of",
-            "t o"
+            "to"
         ],
         "correct": 0
     },
@@ -21962,7 +21960,7 @@
         "answers": [
             "for",
             "about",
-            "o f"
+            "of"
         ],
         "correct": 0
     },
@@ -22092,7 +22090,7 @@
         "answers": [
             "isn’t it",
             "is it",
-            "it isn’ t"
+            "it isn’t"
         ],
         "correct": 0
     },
@@ -22222,7 +22220,7 @@
         "answers": [
             "is she",
             "isn’t she",
-            "i s"
+            "is"
         ],
         "correct": 0
     },
@@ -22352,7 +22350,7 @@
         "answers": [
             "isn’t it",
             "are they",
-            "aren’t the y"
+            "aren’t they"
         ],
         "correct": 2
     },
@@ -22482,7 +22480,7 @@
         "answers": [
             "does it",
             "doesn’t it",
-            "isn’t i t"
+            "isn’t it"
         ],
         "correct": 1
     },
@@ -22612,7 +22610,7 @@
         "answers": [
             "do they",
             "isn’t it",
-            "don’t the y"
+            "don’t they"
         ],
         "correct": 2
     },
@@ -22742,7 +22740,7 @@
         "answers": [
             "doesn’t it",
             "is it",
-            "isn’t i t"
+            "isn’t it"
         ],
         "correct": 2
     },
@@ -22872,7 +22870,7 @@
         "answers": [
             "is she",
             "does she",
-            "is i t"
+            "is it"
         ],
         "correct": 1
     },
@@ -23002,7 +23000,7 @@
         "answers": [
             "did he",
             "didn’t he",
-            "isn’t i t"
+            "isn’t it"
         ],
         "correct": 0
     },
@@ -23132,7 +23130,7 @@
         "answers": [
             "isn’t it",
             "was she",
-            "wasn’t sh e"
+            "wasn’t she"
         ],
         "correct": 2
     },
@@ -23392,7 +23390,7 @@
         "answers": [
             "didn’t she",
             "wasn’t she",
-            "was sh e"
+            "was she"
         ],
         "correct": 2
     },
@@ -23652,7 +23650,7 @@
         "answers": [
             "won’t you",
             "will you",
-            "would yo u"
+            "would you"
         ],
         "correct": 1
     },
@@ -23912,7 +23910,7 @@
         "answers": [
             "isn’t it",
             "can he",
-            "can’t h e"
+            "can’t he"
         ],
         "correct": 1
     },
@@ -23991,7 +23989,8 @@
         "question": "The incident mustn’t happen, … ?",
         "answers": [
             "isn’t it",
-            "must it c ) mustn’t it"
+            "must it",
+            "mustn’t it"
         ],
         "correct": 1
     },
@@ -24041,7 +24040,7 @@
         "answers": [
             "mustn’t he",
             "must he",
-            "isn’t i t"
+            "isn’t it"
         ],
         "correct": 0
     },
@@ -24171,7 +24170,7 @@
         "answers": [
             "should we",
             "isn’t it",
-            "shouldn’t w e"
+            "shouldn’t we"
         ],
         "correct": 2
     },
@@ -24301,7 +24300,7 @@
         "answers": [
             "must he",
             "mustn’t he",
-            "isn’t i t"
+            "isn’t it"
         ],
         "correct": 1
     },
@@ -24431,7 +24430,7 @@
         "answers": [
             "should he",
             "isn’t it",
-            "shouldn’t h e"
+            "shouldn’t he"
         ],
         "correct": 0
     },
@@ -24561,7 +24560,7 @@
         "answers": [
             "doing",
             "do",
-            "to d o"
+            "to do"
         ],
         "correct": 2
     },
@@ -24691,7 +24690,7 @@
         "answers": [
             "ate",
             "eat",
-            "to ea t"
+            "to eat"
         ],
         "correct": 2
     },
@@ -24821,7 +24820,7 @@
         "answers": [
             "doing",
             "to do",
-            "d o"
+            "do"
         ],
         "correct": 1
     },

@@ -115,7 +115,7 @@
         "answers": [
             "has",
             "have",
-            "have s"
+            "have’s"
         ],
         "correct": 0
     },
@@ -133,7 +133,7 @@
         "id": "3b92ef3c08624fb8bf76a90b00f9fa57",
         "question": "These flats ... 400,000 dollars.",
         "answers": [
-            "cost",
+            "costs",
             "cost",
             "costed"
         ],
@@ -515,7 +515,7 @@
         "answers": [
             "Does",
             "Do",
-            "Hav e"
+            "Have"
         ],
         "correct": 1
     },
@@ -645,7 +645,7 @@
         "answers": [
             "Do",
             "Does",
-            "Ar e"
+            "Are"
         ],
         "correct": 0
     },
@@ -775,7 +775,7 @@
         "answers": [
             "do",
             "does",
-            "ha s"
+            "has"
         ],
         "correct": 1
     },
@@ -905,7 +905,7 @@
         "answers": [
             "are",
             "am",
-            "wil l"
+            "will"
         ],
         "correct": 1
     },
