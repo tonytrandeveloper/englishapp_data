@@ -1,651 +1,791 @@
 [
     {
-        "id": "accb29339ae94211bb0730380aa13a82",
-        "title": "Morning",
+        "id": "4bd5488565834cd0b618f77ec2ca26ed",
+        "title": "Old Man Crosses the Street",
         "questions": [
             {
-                "id": "8035ab2a28ac42ee87a090494ddb1779",
-                "text": "He brushes his teeth."
+                "id": "6e16400bdb8a4c94a24196622c4ebb24",
+                "text": "A man was crossing the street."
             },
             {
-                "id": "38323b8e646d4a5db46fe06ae5ab9dd9",
-                "text": "He puts on his clothes."
+                "id": "893be949361a4651970ae80bf0b36b57",
+                "text": "He walked like a turtle."
             },
             {
-                "id": "b39c6a9dec5c4456bee5d7d2e8ef0ff6",
-                "text": "His shoes are yellow."
+                "id": "dc545872d1184ab2a56de32677c56777",
+                "text": "It took him a long time to cross."
             },
             {
-                "id": "724d4380f56a4854950edb23b2d6f3f7",
-                "text": "He goes downstairs."
+                "id": "089d7fdb5b8f4a10b2029331e5aa64c7",
+                "text": "The man walked with a cane."
             },
             {
-                "id": "79ae62a2ec6141348094108443035e2a",
-                "text": "He pours milk and cereal."
+                "id": "a8b174667ba949489acafe0f3c11e9a4",
+                "text": "He had white hair and glasses."
             }
         ]
     },
     {
-        "id": "73a17913924f405c8ecc5b7b13e2561a",
+        "id": "2bd92c9a49c84b1493e95f5e1406e262",
+        "title": "Dictation",
+        "questions": [
+            {
+                "id": "5b7a9237fec349278fd7f8930af80386",
+                "text": "He wasn\\'t sleepy because he had taken a nap."
+            },
+            {
+                "id": "7ddf2ec961054ea4a4c1193efea9e88b",
+                "text": "He had slept for almost an hour."
+            },
+            {
+                "id": "c683ff3bfe2445de85b87747b80565a5",
+                "text": "His mom told him not to climb trees."
+            },
+            {
+                "id": "2daa2ad34bf3445d939a72b84b15aedd",
+                "text": "One time he found a bird\\'s nest."
+            },
+            {
+                "id": "130163ab3802465eb794f39d8dba4dad",
+                "text": "Did he count trees so he could go to sleep?"
+            }
+        ]
+    },
+    {
+        "id": "61a6fdae4b1f435cb4b075cb6c81fa24",
+        "title": "His Computer Crashes",
+        "questions": [
+            {
+                "id": "c48d38abf33b4fe594f80ee8855cbe16",
+                "text": "He is playing a game on his computer."
+            },
+            {
+                "id": "f0ce5b2836d9455c8409dfce9b97d5d5",
+                "text": "He gets a glass of water from the kitchen."
+            },
+            {
+                "id": "cdea8bbfe1304f4aa72735d433feb04f",
+                "text": "He puts the glass on his desk."
+            },
+            {
+                "id": "f83b705e2c774ec28f6c86aabe6f45de",
+                "text": "He accidentally knocks down the glass."
+            },
+            {
+                "id": "450fd4331f804659b399d82e9afd2a85",
+                "text": "The water spills all over his keyboard."
+            }
+        ]
+    },
+    {
+        "id": "77bcc9baa27241ba932ea03ab60a1488",
+        "title": "Walking After Midnight",
+        "questions": [
+            {
+                "id": "f0b709513d574407aa0f76ce67e32644",
+                "text": "She walked down the street."
+            },
+            {
+                "id": "13b27759187b4b23a96ca8e2ea671ced",
+                "text": "It was dangerous at night."
+            },
+            {
+                "id": "0bc6948839e8430a8e3256ef160c44fe",
+                "text": "She knew how to defend herself."
+            },
+            {
+                "id": "90326161743745f79d3e31b2805f7806",
+                "text": "She walked around for an hour."
+            },
+            {
+                "id": "7fd02d451b03450dbad504b9f2c135d0",
+                "text": "She walked back home."
+            }
+        ]
+    },
+    {
+        "id": "9b6904d771884aeea47a9063da1f4955",
+        "title": "Twins Are Cheating",
+        "questions": [
+            {
+                "id": "cab1889ef1eb48f2b37f62dd06f815c1",
+                "text": "Annie and Diana are identical twins."
+            },
+            {
+                "id": "dae1fb3ad39149ae8016d212b24bb8f2",
+                "text": "They sometimes disguise as each other."
+            },
+            {
+                "id": "2bd8c102a7794f2eaab1ed9079b08e76",
+                "text": "Diana explains that math gives her anxiety."
+            },
+            {
+                "id": "51e978fd945a4d479ad5c4e22c937946",
+                "text": "Their parents forced them to move schools."
+            },
+            {
+                "id": "8476636da8034ed3b4681982f1e6738f",
+                "text": "The two schools were not that far apart."
+            }
+        ]
+    },
+    {
+        "id": "d27858e041c040028923e2bd54c3c777",
+        "title": "A Cat and A Mouse",
+        "questions": [
+            {
+                "id": "aad593e370eb4ccf9ec86376aff6c839",
+                "text": "The cat is bored."
+            },
+            {
+                "id": "6a2523e02f2441a1b9f3adc9f296d8da",
+                "text": "He tries to have fun."
+            },
+            {
+                "id": "51049d983a0c4e0ba013bafd4c88ec80",
+                "text": "He plays with yarn."
+            },
+            {
+                "id": "3f91bb1156524f259609191313ac09df",
+                "text": "He sees a mouse."
+            },
+            {
+                "id": "879bca360c83473ba7f6e9c59f9c481b",
+                "text": "The mouse is eating cheese."
+            }
+        ]
+    },
+    {
+        "id": "291faee9fc1c455499919b2fa8cf4474",
+        "title": "Pizza Delivery",
+        "questions": [
+            {
+                "id": "77f4260fdd7548839864ca983b48f66a",
+                "text": "Tom didn\\'t want to cook."
+            },
+            {
+                "id": "5646be9703f54a0f9cf0c213c89134b5",
+                "text": "He was having a pizza delivered to him."
+            },
+            {
+                "id": "aa2c6e8ab26a470c999e81f5199e18b3",
+                "text": "He waited for the pizza to arrive."
+            },
+            {
+                "id": "f624787eb2bb40f1b9db10e762e0eab4",
+                "text": "He heard the doorbell ring."
+            },
+            {
+                "id": "88bc8e21509943f186a2d43f18e5adea",
+                "text": "He paid the delivery man."
+            }
+        ]
+    },
+    {
+        "id": "51bc636d29514e1d99a1eda46503057e",
+        "title": "From Skinny to Muscular",
+        "questions": [
+            {
+                "id": "87609c6b7a3147bbab2d524edead9b03",
+                "text": "John decided to transform himself in college."
+            },
+            {
+                "id": "7a7e61747eba43d9b9b0c6a514b904e1",
+                "text": "He took advantage of the free gym at his college."
+            },
+            {
+                "id": "fff2dee558734d4185fcc189394189f6",
+                "text": "He lifted light weights at first."
+            },
+            {
+                "id": "8bc5fa7e08cc47de956ad736eb3c2fe1",
+                "text": "Protein shakes helped him gain muscle mass."
+            },
+            {
+                "id": "3ce30b00bee14efdb52b747f14bf06aa",
+                "text": "No one bullied him in college."
+            },
+            {
+                "id": "fae86dae1a3349249613c77b4bfcf756",
+                "text": "His friends complimented him on his healthier body."
+            },
+            {
+                "id": "5a1b0ba5dd6a4eebba79228076c8f7aa",
+                "text": "He made a DVD about how to get stronger."
+            },
+            {
+                "id": "ef5212bfffca40189b35fe38a9af498a",
+                "text": "He wrote books about his journey."
+            }
+        ]
+    },
+    {
+        "id": "55e0482a727341d6bddcf7af98dd4111",
+        "title": "The Transformation",
+        "questions": [
+            {
+                "id": "167038bf2bc74183a9d5ca900b4882ef",
+                "text": "Evan was in his last year of middle school."
+            },
+            {
+                "id": "30ce6bfed6c841eb8b79de8cedf756c0",
+                "text": "His parents recently passed away."
+            },
+            {
+                "id": "f9e098324197494aa3082efad9ad7f8a",
+                "text": "His life was going nowhere."
+            },
+            {
+                "id": "c9990cf543bc4b1696e783e41bf3f53d",
+                "text": "The therapist told him to make small changes first."
+            },
+            {
+                "id": "0ceaa67f1f47468b879dd1b0b571bdfe",
+                "text": "He started to eat healthier to lose weight."
+            }
+        ]
+    },
+    {
+        "id": "4be3df061abc42feb05db0276d4eb279",
+        "title": "A Lucky Jacket",
+        "questions": [
+            {
+                "id": "2a2858ba67ed41159ee1d3168f6b3082",
+                "text": "The jacket is green with yellow stripes."
+            },
+            {
+                "id": "a378bee2a3c741f88b5c1187cd1ddc2d",
+                "text": "Washing the jacket will wash away the luck."
+            },
+            {
+                "id": "534abf4f0c11473fad3c3a7d3e408ca7",
+                "text": "Anna had an important interview for a job."
+            },
+            {
+                "id": "7504ab7e46864e8c82c8bde8a80214ac",
+                "text": "The jacket was not appropriate for the interview."
+            },
+            {
+                "id": "661b2b5c5eb94f838e38aa219d599acd",
+                "text": "She left the interview feeling unsure."
+            }
+        ]
+    },
+    {
+        "id": "bd48c83790b64527bab94d042e4bdae9",
+        "title": "Earthquake",
+        "questions": [
+            {
+                "id": "b422a628fb4e44f4926b0205c00ce68a",
+                "text": "Jim Turner was new to California."
+            },
+            {
+                "id": "712f8e1f089642c9bcdcdd93266ebefa",
+                "text": "One night Jim was fast asleep."
+            },
+            {
+                "id": "d6a17c85ecbc4f628c5e27c30d902c29",
+                "text": "Suddenly his bed started shaking."
+            },
+            {
+                "id": "981ad1433c1c43838d4df5fda4d23a8e",
+                "text": "This was his first earthquake."
+            },
+            {
+                "id": "2a1c6251da494a439d660e30d12fb32b",
+                "text": "The earthquake lasted 15 seconds."
+            }
+        ]
+    },
+    {
+        "id": "bb9ae5b71f114c1ea278c7047191d5ed",
+        "title": "Class Enrollment Times",
+        "questions": [
+            {
+                "id": "0d72a5acd83a45b9a9e73d3a884f0de4",
+                "text": "Seniors have early registration times."
+            },
+            {
+                "id": "23db4d95cce34a39a891c087c2df9f9a",
+                "text": "A lot of students complain about their registration times."
+            },
+            {
+                "id": "5cd345e42e494339b6cf3c0c6bd71189",
+                "text": "Having a late registration time means not getting the classes you want."
+            },
+            {
+                "id": "74e039a4bce3470ba18faa2544fde8a6",
+                "text": "One of the parents who complained was a lawyer."
+            },
+            {
+                "id": "9f11d5aca09147aeb54870f41d78f6f4",
+                "text": "Athletes should not have earlier registration times."
+            }
+        ]
+    },
+    {
+        "id": "e2c9cfc3de584044bd778affaf7a0246",
+        "title": "Sixteenth Birthday",
+        "questions": [
+            {
+                "id": "7d6b1146eed9465c96fcb8872931145a",
+                "text": "She was having a birthday party."
+            },
+            {
+                "id": "393a9b303a7b44d799cf80e8852cc4a3",
+                "text": "She had a lot of aunts and uncles."
+            },
+            {
+                "id": "8cf790cc63184e1aae080fca85debf45",
+                "text": "It meant more presents for her."
+            },
+            {
+                "id": "b3e460cbc20c42c19e704db7f1b43726",
+                "text": "She dressed up in her best outfit."
+            },
+            {
+                "id": "3a333db8437f46e0b7e8756b3bb92bbd",
+                "text": "The party was happening in the backyard."
+            }
+        ]
+    },
+    {
+        "id": "7ec6abce9e814d168534e01dd70fd5c5",
+        "title": "Luke's New School",
+        "questions": [
+            {
+                "id": "2b9639547f504d228f867bcf913c8d26",
+                "text": "Luke was moving to a new school."
+            },
+            {
+                "id": "58ac0ec5db38466caa7a9afc856bc681",
+                "text": "He had to leave all his friends behind."
+            },
+            {
+                "id": "fdd65c3236ed4b63926d03290c073b22",
+                "text": "His house looked so different from his old house."
+            },
+            {
+                "id": "9be9417218e84394a52c053b60033745",
+                "text": "He made a lot of new friends."
+            },
+            {
+                "id": "539cc173842e427b99260a9bd41e9707",
+                "text": "He was happy with his new school."
+            }
+        ]
+    },
+    {
+        "id": "647f0e4d034a4bb79376c8fa59aa6d70",
+        "title": "Buying a New Couch",
+        "questions": [
+            {
+                "id": "faf9df0dae4447129a6a8bbfcb6a0b27",
+                "text": "The couch was ripped by their cat."
+            },
+            {
+                "id": "26c58fa991574ba6a5a5ed09d302d827",
+                "text": "It was time for a new couch."
+            },
+            {
+                "id": "daacef246465474dadf714a91472d31b",
+                "text": "They went to a furniture store."
+            },
+            {
+                "id": "1f261e5d7f2b42fba10fa8e28915bd83",
+                "text": "They saw all types of couches."
+            },
+            {
+                "id": "5536f2b031aa449c9acdaa0bc2bb6a28",
+                "text": "They had the couch delived to their house."
+            }
+        ]
+    },
+    {
+        "id": "5bc696b7fa54480588d474bbc8f66403",
+        "title": "Borrowing Books from the Library",
+        "questions": [
+            {
+                "id": "fab9afb8d6ea44ddad8a20512e3c56c8",
+                "text": "He needs to borrow books on penguins."
+            },
+            {
+                "id": "0770c4589ff54a4888948359ab3c8f84",
+                "text": "The library has all types of books."
+            },
+            {
+                "id": "df1b60c506bf4cee8d3d5cf0c1e47f1e",
+                "text": "He has to make a library card."
+            },
+            {
+                "id": "958450bf7a0045a9b620acc1a648da0c",
+                "text": "The application asks basic questions."
+            },
+            {
+                "id": "4dabd28225de42c9a0825ad00ba9ed21",
+                "text": "He signs his name at the bottom."
+            }
+        ]
+    },
+    {
+        "id": "6ba7ff08729d40e687d283717524cf60",
+        "title": "Dictation",
+        "questions": [
+            {
+                "id": "b44422e6fd104113b37a54c8fba789e0",
+                "text": "Did she look out the window?"
+            },
+            {
+                "id": "722ba34b52d944848b9a862271f2ea1a",
+                "text": "The sky was getting darker."
+            },
+            {
+                "id": "3ba32d0131294aaea9a5fb5eefa9307b",
+                "text": "The wind was starting to blow."
+            },
+            {
+                "id": "23c6360148834c1d9872c11d29b60194",
+                "text": "Some trees were bending over."
+            },
+            {
+                "id": "fbe8eaedef9b48eab2686ea243b63e19",
+                "text": "Leaves were flying through the air."
+            },
+            {
+                "id": "af7b773441084bf28742b9b22e07641d",
+                "text": "She closed all the windows."
+            }
+        ]
+    },
+    {
+        "id": "b64d6662f9f548ba89a7301bb2c929fd",
         "title": "First Day of School",
         "questions": [
             {
-                "id": "a60e055ac1614f7eb42b60e75009c609",
-                "text": "There is an empty seat."
+                "id": "b1b64d248754461890bc43f28d8d48f5",
+                "text": "All her friends were going to different high schools."
             },
             {
-                "id": "5dfd64dde38d4441abfd3551d256c28b",
-                "text": "He sits in the seat."
+                "id": "740f7a4e4dfe45dabadb8e14d912d615",
+                "text": "She hoped she would be able to make new friends."
             },
             {
-                "id": "87b3ada3ab074bfb8dbfe3c0180563dc",
-                "text": "There are different people."
+                "id": "859caa2b0c9c47fb9b95839f23b4703b",
+                "text": "Her first class was math."
             },
             {
-                "id": "533d90836be24d6b82fec26301ee294e",
-                "text": "The teacher comes in."
+                "id": "b557bf8f60274f9a8e7acd14567b1267",
+                "text": "The teacher had everyone introduce themselves."
             },
             {
-                "id": "7c48a3350eff43229635ebc91924f6ef",
-                "text": "The first day of school begins."
+                "id": "9f34845d66b04c92a71b8b3fe295e067",
+                "text": "She knew this was going to be a good year."
             }
         ]
     },
     {
-        "id": "edabc6fc3b5c42f18ad9783c629e731e",
-        "title": "Water on the Floor",
+        "id": "b1a6338b3c2d4e17bb58e1e38de62b3a",
+        "title": "The Lottery",
         "questions": [
             {
-                "id": "5c18530b6eea4df082d84fd7f5ec2eeb",
-                "text": "She gets a glass of water."
+                "id": "80ef297aca514ad29662841475127e9e",
+                "text": "He could buy so many things."
             },
             {
-                "id": "472f358d518b404dbe5289021674db12",
-                "text": "There is water on the floor."
+                "id": "be5b8c8059734fc5848a1cf1971477bd",
+                "text": "He paid off his student loans."
             },
             {
-                "id": "1eedd4f7c6e946c299b1d18f0ffedfd2",
-                "text": "The puddle is big."
+                "id": "5bc9da08b28d4710b3e05881242fcf4a",
+                "text": "He bought a ticket to Hawaii."
             },
             {
-                "id": "8f148981bdb74d05a4d1334e0109d63f",
-                "text": "She wipes the water off."
+                "id": "36ee39999cb941649826b1ec681a8c9e",
+                "text": "He stayed in the nicest hotel."
             },
             {
-                "id": "7946a56c68e245be86c31fc2af599a8e",
-                "text": "The floor is clean."
+                "id": "01da9232c7334368b9b77b4570c5c232",
+                "text": "He didn\\'t want to go too crazy."
             }
         ]
     },
     {
-        "id": "b12237bf17c24da192b3e23fb5a10d36",
-        "title": "Babysitting",
+        "id": "7e704ecd917f4647bcf3fe4f0d8dc7b9",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "7eb97df8cfa6485ebaf74d40452b96e2",
-                "text": "Casey wants a new car."
+                "id": "780c1b35f67b43c392ae0345c2f8402f",
+                "text": "Did she need help with her computer?"
             },
             {
-                "id": "a2e7b7524375415dbf8a414241c8fe57",
-                "text": "She decides to babysit."
+                "id": "df1c1cd320474eceabe518358340f68d",
+                "text": "She asked a coworker to help her."
             },
             {
-                "id": "b8bd0d00eeb84bd6b896b72103db4305",
-                "text": "She takes care of the child."
+                "id": "bc2a54439041442d8120c29f97b26e39",
+                "text": "She would treat her to a nice dinner."
             },
             {
-                "id": "b91ac0178da143f9aec58194b707d8ec",
-                "text": "She feeds him lunch."
+                "id": "a4e17c9fe9b7451591422481fd4fd8ce",
+                "text": "Her coworker said that sounded good."
             },
             {
-                "id": "55ece7484afb4f3dbb9dcb01436c445e",
-                "text": "She reads him a story."
+                "id": "1a3d3260bcb84981b9fd236d691f8d2d",
+                "text": "She would come over to her apartment."
+            },
+            {
+                "id": "e0083f7e99f2464f83e723ffc3af35f6",
+                "text": "The phone rang after she went to bed."
             }
         ]
     },
     {
-        "id": "0642a77f03b24a248af5edb31bc597d4",
-        "title": "A Doctor",
+        "id": "d3e8c6f1301542c4be8acd616877f49d",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "79c93d2ac29f4dd7a0335884a9eb95e8",
-                "text": "A doctor takes care of people."
+                "id": "4b59ef0eb7904aef944c033df7f01f0a",
+                "text": "Was she unhappy?"
             },
             {
-                "id": "692a10be2ed04d29b428bfa9aa6db0db",
-                "text": "He gives them medicine."
+                "id": "3c2755965e2c4a3e8eff9675ab5a5cf4",
+                "text": "She asked everyone for a job."
             },
             {
-                "id": "9e6fca860dae4cec999279229175bb38",
-                "text": "The younger patients like him."
+                "id": "d7857260f1aa4e97a6975c4c6f57055c",
+                "text": "Everyone told her no."
             },
             {
-                "id": "3204a4731ec84df9b429834fd0270c79",
-                "text": "They see him when they are sick."
+                "id": "8f9ffcbe654142ee894c3e021e5fc867",
+                "text": "Nobody had a job for her."
             },
             {
-                "id": "cea7ad5509de4512a8239fcae224b1b5",
-                "text": "He makes them feel better."
+                "id": "0fb174e0561245f2a70240a027bb0ef4",
+                "text": "How could she live without a job?"
+            },
+            {
+                "id": "162a4bffdf974dd59b63613b5e9c53ab",
+                "text": "She had nowhere to go."
             }
         ]
     },
     {
-        "id": "ba5a60c92a8f41eb8c95e53381ff61d9",
-        "title": "Twins",
+        "id": "d63194fbb4dd45d3bac6fb0116746d81",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "2dc392b23803432d9e87be727807d1c5",
-                "text": "They look the same."
+                "id": "adc9094005814f2c874698babae88d91",
+                "text": "Is she unhappy with her mother?"
             },
             {
-                "id": "a79f887c3e2949659bb420b25086ef93",
-                "text": "They act differently."
+                "id": "9b197e4ebfa649c3827723bad6a499e1",
+                "text": "They are both unhappy with each other."
             },
             {
-                "id": "3c494a0cc2cf43c3bc218089e0ae07b8",
-                "text": "She is good at basketball."
+                "id": "a87dff4edca8445981e5fa57a30bf564",
+                "text": "Her mother doesn\\'t like her boyfriend."
             },
             {
-                "id": "e561da07b6a74e91bbd3c47849e1dfec",
-                "text": "She can read 300 pages a day."
+                "id": "42372f32d1494e298b41a51cdc6e0712",
+                "text": "She said that her boyfriend is rude."
             },
             {
-                "id": "d7252d2464ee4b6297f7a87648ff7072",
-                "text": "She does not like to talk."
+                "id": "4613b70d8a284f40be6349eac7da0b72",
+                "text": "He didn\\'t take his hat off in the house."
+            },
+            {
+                "id": "694d6de4da544a008822e52fc8eaccef",
+                "text": "She said that times are different now."
             }
         ]
     },
     {
-        "id": "0049299e5abc40a7a81675eec6100c35",
-        "title": "Reading",
+        "id": "7a4799997aeb4330af6d3a99c140a415",
+        "title": "Bob Lost 50 Pounds",
         "questions": [
             {
-                "id": "50ca7f24838e4a34b2a1a5ee5d1d67e9",
-                "text": "The book is in the library."
+                "id": "e89c433fcee245e19e451379c0e9e2de",
+                "text": "He wanted to see how much weight he lost."
             },
             {
-                "id": "27773688496b4cf8aec59b1f4745733a",
-                "text": "She uses her card to check it out."
+                "id": "216abb80e2504949abbf745b4ec84b04",
+                "text": "He stepped on the scale."
             },
             {
-                "id": "e516fd7859914e3682df8b82daeb532f",
-                "text": "She takes the book back home."
+                "id": "ad39f1519ab04301af2c64483e492e67",
+                "text": "He wanted to celebrate."
             },
             {
-                "id": "ef2e388098be4f1fb981f503dca35759",
-                "text": "She sits on the couch."
+                "id": "52912d7a3220407bb3a3625e66dcdec4",
+                "text": "He went to his favorite burger place."
             },
             {
-                "id": "932e076ac4b9421a9b94d8546b706572",
-                "text": "She reads the first page."
+                "id": "813558041c194743a63223537db73f0a",
+                "text": "He ordered a large size of fries."
             }
         ]
     },
     {
-        "id": "865fb5e4ff6e4ffa962bd830b225352a",
-        "title": "Ruined by the Rain",
+        "id": "f5b538c04ccb40558ac8468b2b96047f",
+        "title": "The Popular Girl at School",
         "questions": [
             {
-                "id": "2dd8e6405a8248689dfab8ae0fae68d2",
-                "text": "Brenda wants to have a picnic."
+                "id": "cf5eedf963d54597801fb513bfdf1c30",
+                "text": "Everybody at school knew her name."
             },
             {
-                "id": "4d21a786e0294090b382381c83acfdeb",
-                "text": "She puts sandwiches in the basket."
+                "id": "e24668102a9c4b2bbdcf29488afad296",
+                "text": "She wore expensive clothes."
             },
             {
-                "id": "44193e4ef5bf4faf87254dd0915a1d08",
-                "text": "The sandwiches are healthy and tasty."
+                "id": "5b9f0ca6052944f2bcc0fd54cd38f435",
+                "text": "All the other girls were jealous of her."
             },
             {
-                "id": "e48978c2b43244728787ec6bfea0805c",
-                "text": "She drives to the park."
+                "id": "f7ad0b4112114cb3b901b9e15db7cd7e",
+                "text": "She was just an ordinary girl now."
             },
             {
-                "id": "83a9c783d7dd4b34b56ee0e6b81cf244",
-                "text": "She lays out a blanket."
+                "id": "9bd76a4ed2e247948f04de6828648bcf",
+                "text": "It was nice being a regular person."
             }
         ]
     },
     {
-        "id": "a6b8025669b44830a3a5b234090ecded",
-        "title": "Banana Nut Muffin",
+        "id": "5371d98627f44bd590688725a1fde0ef",
+        "title": "Chicken Smells Good",
         "questions": [
             {
-                "id": "37399fd0188843b0a1fae3b8b9f1e80e",
-                "text": "The store sells bakery goods."
+                "id": "3f251af9e5234a4387c12afbe01de31b",
+                "text": "He smells something good."
             },
             {
-                "id": "a1efcd91b7c74255829ee6b331c8155e",
-                "text": "She sees a banana nut muffin."
+                "id": "4964b45dbfdf4edfbd2fa645c56e4f4e",
+                "text": "It is coming from the kitchen."
             },
             {
-                "id": "9b428bac4ca34c878b7221d17df41de3",
-                "text": "It costs two dollars."
-            },
-            {
-                "id": "4c8c724315d04c0485f96b36de54efd9",
-                "text": "It is crunchy on the outside."
-            },
-            {
-                "id": "c8825797399a444b94d8f2138797554d",
-                "text": "It is soft on the inside."
-            }
-        ]
-    },
-    {
-        "id": "c175be3a2e6a4e29b4b51fec1d722548",
-        "title": "The Park",
-        "questions": [
-            {
-                "id": "6823d26ce4ca491fb3d2924f5fa1d6f3",
-                "text": "Linda looks at the sky."
-            },
-            {
-                "id": "bbbdbd17f9ba41329a6c07e8e6378d9b",
-                "text": "One cloud looks like a dog."
-            },
-            {
-                "id": "8713abc59bfe4be38c9cabc551cd7bb1",
-                "text": "Another cloud looks like a sheep."
-            },
-            {
-                "id": "5958df69a60f4310a8b9866ed8dd31ed",
-                "text": "She feeds the ducks."
-            },
-            {
-                "id": "6957c37e98744c87bda54b893a869974",
-                "text": "The ducks enjoy the food."
-            }
-        ]
-    },
-    {
-        "id": "71b4ef53d54c487681c3a3db086f4355",
-        "title": "A New Vision",
-        "questions": [
-            {
-                "id": "c4afcb6c430a4de7a0315704aedea30d",
-                "text": "Sandra cannot see well."
-            },
-            {
-                "id": "2c76f518888240a787dbf01cdaadd007",
-                "text": "She goes to a doctor."
-            },
-            {
-                "id": "c167e44f383348b7aef9eae5622f994b",
-                "text": "The doctor gives her glasses."
-            },
-            {
-                "id": "479de86fa1fb4fbd8271e0133a621751",
-                "text": "She puts them on."
-            },
-            {
-                "id": "53471c89100f431585eaee4b5b7eaeb1",
-                "text": "She can see the doctor."
-            }
-        ]
-    },
-    {
-        "id": "06cd8f882b2642c193d7b191c8aa8e5a",
-        "title": "Fruit Shop",
-        "questions": [
-            {
-                "id": "0eb7d924ec3f48b5b3cb3ef4e5095e76",
-                "text": "Carol walks to the store."
-            },
-            {
-                "id": "bef76170176844099257f81e0da39aef",
-                "text": "The fruits are colorful."
-            },
-            {
-                "id": "841d6661825b4e0ca3bce89a9203a300",
-                "text": "Tangerines and pumpkins are orange."
-            },
-            {
-                "id": "bf646e8c8e414b1489f92c75d17bf24d",
-                "text": "Grapes and plums are purple."
-            },
-            {
-                "id": "53bb359f2e464e958086968ff2ced193",
-                "text": "Her favorite color is yellow."
-            }
-        ]
-    },
-    {
-        "id": "77a6952e73d346efbeee0d4a6457236c",
-        "title": "Special Cereal",
-        "questions": [
-            {
-                "id": "84f734cee1cc41a58c70f08cbb044edc",
-                "text": "He wakes up early."
-            },
-            {
-                "id": "d764d5fdd6da428f9882786caabba70e",
+                "id": "51954bc2a45241f5ab9829e1089d34b4",
                 "text": "He goes to the kitchen."
             },
             {
-                "id": "cae72ee4d00141dab7b9b6b32657fe74",
-                "text": "He pours milk into the bowl."
+                "id": "64d4d240c8e347dc9bf35b66ab8462af",
+                "text": "He sees a plate of chicken."
             },
             {
-                "id": "a37c450e60d54ccf89975bde95795640",
-                "text": "He opens a wheat cereal box."
-            },
-            {
-                "id": "ad0eb70970f948c689f676df18e566ed",
-                "text": "There is a toy inside."
+                "id": "ba61e8c2f5e04df68c3ee7109fc944b9",
+                "text": "He gets a fork and knife."
             }
         ]
     },
     {
-        "id": "a86825cb3ce643c080553288d8a2ceac",
-        "title": "A New Shirt",
+        "id": "b4215094359e4829943cd7a728bd1897",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "281e810dd9264f0c86f9e803ef39912e",
-                "text": "There are many stores at the mall."
+                "id": "a867b46907884cbb8ff5a9ba633f06b1",
+                "text": "The dog is scratching at the door."
             },
             {
-                "id": "fe71b503995042c79383188303ef35b3",
-                "text": "She sees a clothing store."
+                "id": "3bc2350a66d84e4c9a64487224a45ce0",
+                "text": "Make sure you take a plastic bag."
             },
             {
-                "id": "fecb893aecbd45b5ad5b5b3f2f94c297",
-                "text": "There are many different shirts."
+                "id": "16d38742112541789d0a4cef3875f700",
+                "text": "There were no plastic bags in the house."
             },
             {
-                "id": "327d02b986ae4cfd9c0ba12aa8d2cf20",
-                "text": "Some shirts have flowers."
+                "id": "b27c9705c73f40788f4a6fa3b8397b32",
+                "text": "He got the dog leash and a shovel."
             },
             {
-                "id": "5b7421c74c29476c93fe8877cc035d4a",
-                "text": "Other shirts have stripes."
+                "id": "6f9e68d108a845dc9c3a5996f553dc4f",
+                "text": "Is this worse than doing my homework?"
             }
         ]
     },
     {
-        "id": "69fc17797055471d9877a950231fd0e5",
-        "title": "Picking a Color for the House",
+        "id": "7abfb33f58b44b158a7f0172094b2edc",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "ea6b533d3dd84b6891ed3fc7e2c718f4",
-                "text": "White is too boring."
+                "id": "df3e4b26716246f287ef7d926037afc9",
+                "text": "Is she expecting a baby?"
             },
             {
-                "id": "be78a6d94650447da6db0b1ed6335aeb",
-                "text": "Red is too daring."
+                "id": "37c7c4e393d94e74abe18e22632790a7",
+                "text": "The baby is due in two months."
             },
             {
-                "id": "695166a756bb4317a1ad9cf00f141e74",
-                "text": "Blue is too sad."
+                "id": "12fa3c6cd29c4d3683e4dc7b60b3df0a",
+                "text": "The baby is her first boy."
             },
             {
-                "id": "963cfb8116c54fd89a8ecdabc8d8b055",
-                "text": "Yellow is too bright."
+                "id": "8d2b29cb73894cd9bd496213b69bb54d",
+                "text": "She already has a little girl."
             },
             {
-                "id": "5673acb5e11b40ec96f2530541e3f812",
-                "text": "Green is perfect."
+                "id": "8ca25142301b4eb9962055a9886785e1",
+                "text": "She is very careful about what she eats."
+            },
+            {
+                "id": "6576c05043f348518bc54caec335a5fc",
+                "text": "She eats a lot of fresh fruits."
             }
         ]
     },
     {
-        "id": "9aced3080998471ebbf3b43cddaaf801",
-        "title": "The Beach Is Fun",
+        "id": "3fae78aa1ed24653a7300b04106da03e",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "ae9bca62b7fe48c283ec9e56c69ec66e",
-                "text": "Some people swim in the water."
+                "id": "afb4423a7aaa4101aeeedb57122a2eb0",
+                "text": "Wash your hands 10 times a day."
             },
             {
-                "id": "75765b6cd722465a8468557b0e115ac2",
-                "text": "Some people lie down on the sand."
+                "id": "a8f1e286704142aebb7276dfb88f4f92",
+                "text": "Clean hands look good and fight germs."
             },
             {
-                "id": "56984cd9e01a432e9e781ddf48371a2f",
-                "text": "The kids make sandcastles."
+                "id": "0bf8d55a68af4047a728ad63efe64306",
+                "text": "Everything you touch has germs."
             },
             {
-                "id": "d8a460a8528346ae843fc86d700181fa",
-                "text": "The water washes the sandcastles away."
+                "id": "4f5a67848cc54db4b1868a98d12607eb",
+                "text": "Germs live on door handles for weeks."
             },
             {
-                "id": "3f7e7c31352644a49016509e911ad88c",
-                "text": "The kids make new ones."
+                "id": "d3954caf0a9f4ac2856d8ade8d3c9028",
+                "text": "Wash after you touch or hug other people."
+            },
+            {
+                "id": "1f0065fe45534810815aec5537e5b511",
+                "text": "Can you wash your hands too often?"
             }
         ]
     },
     {
-        "id": "49acb22a82c34626889c6e888421f822",
-        "title": "A Beautiful Garden",
+        "id": "af808432bfe84782a8d703a484c4afa0",
+        "title": "Time Capsule",
         "questions": [
             {
-                "id": "676d26ec12ef446a9b80b407d98b20dd",
-                "text": "The garden is beautiful."
+                "id": "28e8c7a14f1a49c884dc0c3b4cfcb9b6",
+                "text": "They had been friends since elementary school."
             },
             {
-                "id": "708137d2ac324c3fb632926a893a75b4",
-                "text": "There are many flowers."
+                "id": "47f089f694f649688f3bccb1f037afdc",
+                "text": "Now they were all grown up."
             },
             {
-                "id": "beecd5d707654af2b94b22e5ff9c2a7e",
-                "text": "There is also a fountain."
+                "id": "f91fe01d6ac642faaa8ae7a7b12502f1",
+                "text": "George didn\\'t want them to ever forget each other."
             },
             {
-                "id": "fa9ba0757e434a61924d011a6e74558e",
-                "text": "Kids sit next to the fountain."
+                "id": "f64d9de1402148e0a632677cb96a74e8",
+                "text": "They looked for things that held memories of their being together."
             },
             {
-                "id": "eb37174475f74c9f90a8d4baec382075",
-                "text": "Kids throw coins into it."
-            }
-        ]
-    },
-    {
-        "id": "280b7e79bac94212b1733728d5d24350",
-        "title": "She Shoots, She Scores",
-        "questions": [
-            {
-                "id": "865c97a4d18c4404b178faa56b969b85",
-                "text": "The basketball game is intense."
-            },
-            {
-                "id": "a19956b5b17943918c3ad1abf461f853",
-                "text": "Her teammate passes the ball to her."
-            },
-            {
-                "id": "1247834ecf6b4b91a2eef4dd6cffb3a5",
-                "text": "She dunks the ball in the basket."
-            },
-            {
-                "id": "192cb225d5ab445b820e80be23d05ee7",
-                "text": "Her team hug her."
-            },
-            {
-                "id": "231b41d33be9438d954aca6d6e223b2f",
-                "text": "They shout her name."
-            }
-        ]
-    },
-    {
-        "id": "5d81ff6d4a5d455e9c0e2fd0d611fc82",
-        "title": "Celebrating the Win",
-        "questions": [
-            {
-                "id": "e0d3d6a9d93040ef96b0502b7606593c",
-                "text": "Her basketball team won a big game."
-            },
-            {
-                "id": "cf485c609a7d454f845d67ca1691c9a6",
-                "text": "They want to celebrate."
-            },
-            {
-                "id": "7723b782f6214cb3a0bac42739714554",
-                "text": "Patricia orders a cake."
-            },
-            {
-                "id": "04ce49d186944a1292d3030fd981c736",
-                "text": "The cake shapes like a basketball."
-            },
-            {
-                "id": "00289ac65b0240efa819583afb807cc6",
-                "text": "All the team members meet at Mary\\'s house."
-            }
-        ]
-    },
-    {
-        "id": "d7571354f9c641aea730d7dfc92ac071",
-        "title": "The Race",
-        "questions": [
-            {
-                "id": "d41fd430d7384d78ad05bd18a9b8916d",
-                "text": "She stands at the starting line."
-            },
-            {
-                "id": "b467adbb8c034559aabd2f71f8737281",
-                "text": "She wishes her competitors good luck."
-            },
-            {
-                "id": "8d5a702b953946df96eccbd146e89052",
-                "text": "They are racing to see who is the fastest."
-            },
-            {
-                "id": "ede94e4fbb784255b7ba78ea17076ab7",
-                "text": "The whistle goes off."
-            },
-            {
-                "id": "13ba7ee296444f4aad8ec78708262349",
-                "text": "She starts to run."
-            }
-        ]
-    },
-    {
-        "id": "50bd20a9af3f434ead5494c616415f09",
-        "title": "Substitute Teacher",
-        "questions": [
-            {
-                "id": "b2046d6d2e534e078cbd1535db05421e",
-                "text": "Ms. Smith is a great teacher."
-            },
-            {
-                "id": "a7b748b5e55746189548c53d0ed1662a",
-                "text": "She makes math look easy."
-            },
-            {
-                "id": "2eefd6ec689a46a48bbb9db0beaa721e",
-                "text": "Mr. Johnson is a bad teacher."
-            },
-            {
-                "id": "34ed792e9ac34ecab338f9b34b252718",
-                "text": "He makes math confusing."
-            },
-            {
-                "id": "a66a42a725bb4d65ae14c996f02dd798",
-                "text": "The students want Ms. Smith back."
-            }
-        ]
-    },
-    {
-        "id": "cc7ec46606e64f33803cc5c4b0788535",
-        "title": "Sticker Collection",
-        "questions": [
-            {
-                "id": "39ad97618f8c4aa7a4bcc70cb1d4b165",
-                "text": "He likes to collect stickers."
-            },
-            {
-                "id": "ad54f1ab1e91418b82f245d65a1e1d95",
-                "text": "He has animal stickers."
-            },
-            {
-                "id": "0919dc242c3546969583990bf763557f",
-                "text": "He has fruit-shaped stickers."
-            },
-            {
-                "id": "3b9308d15a2848329fd82932f6004161",
-                "text": "He even has stickers of bugs."
-            },
-            {
-                "id": "853385107fec471ebd321cb9735cb725",
-                "text": "He shows his collection to everyone."
-            }
-        ]
-    },
-    {
-        "id": "3b51573e90cb4e7398ca422ddb446ca5",
-        "title": "Getting Ready for the Road Trip",
-        "questions": [
-            {
-                "id": "827ce444a7c54dda8ade596ad0df64b9",
-                "text": "Her family is going to another state."
-            },
-            {
-                "id": "e16128535c9e4835bdfea74fb35e048f",
-                "text": "They have to prepare."
-            },
-            {
-                "id": "eb8c624ff2d14113a6cb7f1443079aba",
-                "text": "Her mom brings a map."
-            },
-            {
-                "id": "53b5806a2be5404aac3b3f5caf6087f4",
-                "text": "Her dad buys sandwiches."
-            },
-            {
-                "id": "1b19dc159d3d445d8651a8ebe8e847d3",
-                "text": "She brings a camera."
-            }
-        ]
-    },
-    {
-        "id": "9f834f0f866b42dc9efcf58ead12e82d",
-        "title": "Calling Her Brother",
-        "questions": [
-            {
-                "id": "360b617d934d4ab9b5029430eb7713f3",
-                "text": "Karen lives in California."
-            },
-            {
-                "id": "08c48ba0b58c432e9de513d8bda20f2f",
-                "text": "Her brother lives in Ohio."
-            },
-            {
-                "id": "419fac2ebf334f83a69a1f015691d012",
-                "text": "They only see each other once a year."
-            },
-            {
-                "id": "7f387445c82e46cdba2620408171d7b5",
-                "text": "Karen calls her brother every day."
-            },
-            {
-                "id": "0ed172e114f9478c969fe8352f2b18fd",
-                "text": "He tells her about his day at college."
-            }
-        ]
-    },
-    {
-        "id": "3bb3ee7d66b6400598d4d9f488529bd7",
-        "title": "Biking with Grandma",
-        "questions": [
-            {
-                "id": "74c977f1b25b45bda4659601816954ad",
-                "text": "Lisa and her grandma go to the beach."
-            },
-            {
-                "id": "2f9270aa704b4a4b86339a2232e924d4",
-                "text": "They ride their bikes."
-            },
-            {
-                "id": "476f9b430c7d473bb64de151d337bead",
-                "text": "Grandma still rides like a young girl."
-            },
-            {
-                "id": "13c9aeb5a25846c0acafb45f83b1bf77",
-                "text": "The two ride their bikes for four hours."
-            },
-            {
-                "id": "10880db06a7c497c856052bd8dc5815d",
-                "text": "They decide to relax."
+                "id": "b208f3046a3945a5973cbf42c481e75e",
+                "text": "They promised to get together in ten years."
             }
         ]
     },
@@ -676,1484 +816,678 @@
         ]
     },
     {
-        "id": "deda8c8464c5468e99a9e5c29788937c",
-        "title": "The New Neighbors",
+        "id": "60ca4d51616b42f69dae140c54a4c652",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "926e620511374d9da25953c22e690ce0",
-                "text": "The Johnsons have new neighbors."
+                "id": "533f6472feab4fcdb11126883d4862c5",
+                "text": "The salted peanuts are at the end of the aisle."
             },
             {
-                "id": "3cc0945e0d70462e8f55bda33f4389bd",
-                "text": "They visit their new neighbors."
+                "id": "9e67564357d64cb89a1343df58cffdcf",
+                "text": "They\\'re next to the potato chips."
             },
             {
-                "id": "45977200c59f44bdadea7e56d981fa6e",
-                "text": "The adults talk about the neighborhood."
+                "id": "ce0eb001aa73488db5ab76e031a64473",
+                "text": "Pickles would taste good with a ham sandwich."
             },
             {
-                "id": "aaa328aa1fb84bf2ad805625b71ea8c0",
-                "text": "They talk about their jobs."
+                "id": "eae9fe977fe542b59b2ff618be49b478",
+                "text": "He put a loaf of bread into his cart."
             },
             {
-                "id": "e494490a7a674effab8369fa36d7b19f",
-                "text": "The kids play in the backyard."
+                "id": "2c0355f6f58b4ab8bbd1d0a44f6a5ecc",
+                "text": "Unsalted peanuts were in bags with blue labels."
+            },
+            {
+                "id": "dd929a2f3943499da837c100181b2144",
+                "text": "Did he get his change from the cashier?"
             }
         ]
     },
     {
-        "id": "df1ae88abafc4520b574f44019cfb7dd",
-        "title": "A Scary Movie",
+        "id": "364f8e4b2ab64087b760f6293193e09f",
+        "title": "Summer Day at the Pool",
         "questions": [
             {
-                "id": "e6158eda65db49d1b67260e33212ce09",
-                "text": "She goes to the movie theater."
+                "id": "fed99dc226a5471a914bf07b9767196e",
+                "text": "It was a hot Summer day."
             },
             {
-                "id": "83045327e8584db69f570c50fa6625bb",
-                "text": "A monster appears on the screen."
+                "id": "9e35f88943f9454c8d8fe7ec519976e7",
+                "text": "She did not want to be home."
             },
             {
-                "id": "3fea5b5514ff4ab2a0254db8422f3c62",
-                "text": "The screen is completely black."
+                "id": "d1e95e886b674c499a4d0491e49b469a",
+                "text": "Her cell phone vibrated."
             },
             {
-                "id": "fab04e16e37f4507accd12f81b376959",
-                "text": "She reaches for some popcorn."
+                "id": "4221b67ac20647599675c44075f362fc",
+                "text": "She received a text message."
             },
             {
-                "id": "997fb1c21c784018a9ea9f283432ecd3",
-                "text": "She jumps and drops all her popcorn."
+                "id": "f04b0418759141709d4945d056559e11",
+                "text": "She changed into her bathing suit."
             }
         ]
     },
     {
-        "id": "793f0b563815431984534fea77eac116",
-        "title": "Stage Fright",
+        "id": "1521f72515744554b7645af0e56f501c",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "b08e6264336e4f40991f0efc71af69c7",
-                "text": "He plays a doctor in the play."
+                "id": "37990091549749dfa91769a38b767a77",
+                "text": "She is on the swim team at school."
             },
             {
-                "id": "c3da9bd0058e4d9e8bd9e75d29b033b6",
-                "text": "He goes on the stage."
+                "id": "e13d2f36b88d4f9d983b9cb386aa1d96",
+                "text": "All the swimmers are good swimmers."
             },
             {
-                "id": "e16718e341454e25a1260cb78cd12031",
-                "text": "He looks at his audience."
+                "id": "1a03ef878ad04e57acdb696813a6c516",
+                "text": "She goes to the pool after her last class."
             },
             {
-                "id": "3cf13e6f9e1c4627800cbd2b1234761b",
-                "text": "They are all staring at him."
+                "id": "8a8f7833a6794668a6f939292c71bf36",
+                "text": "She dives into the water and swims."
             },
             {
-                "id": "cb36e5fadd6f47d0ac5bd06d73f5c041",
-                "text": "He forgets his lines."
+                "id": "2234c682ac5749f9a6a3d21c126aee6f",
+                "text": "Is her coach a good swim instructor?"
             }
         ]
     },
     {
-        "id": "64738d834d0745c989b253cfe60e01a7",
-        "title": "Lost and Found",
+        "id": "4fcd5aa3b262421e91c0e2ce4c454874",
+        "title": "Fishing for Compliments",
         "questions": [
             {
-                "id": "8b721da941534bab90c1a95f83de06cf",
-                "text": "Steven walks around his town."
+                "id": "f069ef91b24147a78f580c15579e657b",
+                "text": "Barbara loved fishing for compliments."
             },
             {
-                "id": "066bacf37a5540959c7d0d927d2cbe2f",
-                "text": "He trips over something."
+                "id": "1de0ea4a4c9145dfafff6a189ef6970c",
+                "text": "She usually says something bad about herself."
             },
             {
-                "id": "76829321454844a68aceac7c883857e7",
-                "text": "There are $500 in the wallet."
+                "id": "bd2acc9644014685a6a7947ba3149ea9",
+                "text": "I look so bad in this dress."
             },
             {
-                "id": "6c3b3ebd136c4dba8513df0a82b1cf57",
-                "text": "He needs to return it to the owner."
+                "id": "02e49bdbdb3b4948b3ba3665e9c0bb9b",
+                "text": "The compliments boosted her low self-esteem."
             },
             {
-                "id": "769e3b77059e468b97bd30b1dc2be4e9",
-                "text": "He takes it to the lost and found center."
+                "id": "330176443cf64b329140273e5433a2b9",
+                "text": "Her therapist asked her to write down something."
+            },
+            {
+                "id": "4efcddbe9f664aed909b41d716e09ac4",
+                "text": "Do you think these compliments are true?"
+            },
+            {
+                "id": "2a647f7a64774f959f34f89d3dadddc1",
+                "text": "She helps elderly people cross the street."
+            },
+            {
+                "id": "e4aa63f71f54422cb5cfd2db8a2bbcf5",
+                "text": "Writing down the reasons helped her."
             }
         ]
     },
     {
-        "id": "442681ae3c1f41b09ca7bda6ec17f4eb",
-        "title": "Asking for a Favor",
+        "id": "d6e32cd7c2614d80aed22ffc322b0f1b",
+        "title": "The Kind Dentist",
         "questions": [
             {
-                "id": "fbf9c3ea1743481ca1e50b140b94e202",
-                "text": "My car suddenly stops."
+                "id": "2acd28879287495a8a5a9daebdc4b1ee",
+                "text": "Maria feels pain in her teeth."
             },
             {
-                "id": "05040d07e37c47a1a05e1ab5a3de7b0d",
-                "text": "It\\'s a flat tire."
+                "id": "b35ce36546c548e18c338d7299fcce15",
+                "text": "Her mom takes her to the dentist."
             },
             {
-                "id": "f6efb9ad3f7b4831bf904af61b002cd8",
-                "text": "I need to call a tow truck service."
+                "id": "e428541748084efdb31d5bae2447bd36",
+                "text": "She enters the waiting room."
             },
             {
-                "id": "f430cef37b734fb89752c86bf10b9b63",
-                "text": "I do not have my phone with me."
+                "id": "9b86c7446b794ed78d9a8ec180c1a865",
+                "text": "She waits for the dentist."
             },
             {
-                "id": "941f880975b84397805f0a9af2dad051",
-                "text": "I borrow a phone from a driver."
+                "id": "3784fd50e5134df0a081adf3ee197508",
+                "text": "The dentist is careful with her teeth."
             }
         ]
     },
     {
-        "id": "a9d9d2e451a74eb082ee71763a0c46c6",
-        "title": "What Do They Do on a Friday Night?",
+        "id": "3370219818544f529b8d28716bb4a1e5",
+        "title": "A Successful Trade",
         "questions": [
             {
-                "id": "1824d93b7ee64e7fa2ff427f0929e55a",
-                "text": "They try to find something to do."
+                "id": "944c0df5b1014cca977f8cb7395b1ba3",
+                "text": "It is lunch time."
             },
             {
-                "id": "d27b362170be47549d318186277bed66",
-                "text": "David wants to eat at a restaurant."
+                "id": "9550503884e6401daa77440e442a56ea",
+                "text": "Paul has a ham sandwich."
             },
             {
-                "id": "daf67b9d2d764438ab7ece06c6f45c69",
-                "text": "Jennifer wants to sing at a karaoke."
+                "id": "8f2380628d164b7ca947e2a6c46606e9",
+                "text": "Sarah has a tuna sandwich."
             },
             {
-                "id": "c90197dd41e0485fb9d4900058a60c1d",
-                "text": "Susan wants to play tennis."
+                "id": "325a72971a3d4f2783a98a0bc1eb444c",
+                "text": "They trade their sandwiches."
             },
             {
-                "id": "c22967b4022d42b792da8b5d1a923a0a",
-                "text": "David and Jennifer are lazy."
+                "id": "a6d1521abb114d4e95bdede57eac8b0a",
+                "text": "They get what they want."
             }
         ]
     },
     {
-        "id": "b901ee92f97e4f0688275fdec5aeb71a",
-        "title": "Food Samples",
+        "id": "cda1bc359df24ba19c6f19c47ebff098",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "b1c64fcd9d274d8fbf2a36978fdb2034",
-                "text": "She wants to buy blueberry muffins."
+                "id": "a1b6f97901dc4578a980962df4454991",
+                "text": "Was he homeless and shivering?"
             },
             {
-                "id": "1e96053a2789411dae865fb8c745a678",
-                "text": "She is not sure if it tastes good."
+                "id": "ecd048087f434427b5554f6fca192ca0",
+                "text": "He was sitting on a park bench."
             },
             {
-                "id": "98af3cc5a41647548100011adba937fe",
-                "text": "She asks for a sample."
+                "id": "5317dc0e6f6e4917a0957efac3814fe7",
+                "text": "People walked by and looked at him."
             },
             {
-                "id": "1d1ce101268a414e9bbeac1e3f1fb4f8",
-                "text": "The employee cuts a small piece."
+                "id": "3ab014a5748740e2ac6962745f3f5aef",
+                "text": "He looked dirty and old."
             },
             {
-                "id": "d3460b38c5164b2ebe5cad5c6bbc9be6",
-                "text": "She buys the pack of muffins."
+                "id": "1c6a8f33420f421bb7bb705c9ccb182c",
+                "text": "He needed a bath and some food."
+            },
+            {
+                "id": "1f4efd4893cc4bc7b181fc29e4f04cf4",
+                "text": "A lady said she belonged to a church."
             }
         ]
     },
     {
-        "id": "721a900f2b3646a0b498fd105489bfa8",
-        "title": "The Dog Howls",
+        "id": "04e8d0ce9869417b97ca7f58967fc2c7",
+        "title": "Playing with the Monkey Bars",
         "questions": [
             {
-                "id": "d7acc780e5ea4e8ca9cab0917fd656df",
-                "text": "She is ready to sleep."
+                "id": "876b835d576b4dbbaf56e64f0dc8b22d",
+                "text": "She likes the monkey bars."
             },
             {
-                "id": "0a510d53c15843578944535e60b032bf",
-                "text": "She hears a noise."
+                "id": "fe08d3e585aa4f26902c0ec9da6eb6cb",
+                "text": "She grabs the first bar with both hands."
             },
             {
-                "id": "88a430673e864bd4b92cf75d97936a0c",
-                "text": "She sees a dog howling."
+                "id": "7e826bc47a9e40aeb3b51e98a38e71d7",
+                "text": "Her legs are swinging from the ground."
             },
             {
-                "id": "1e9abdd544584dde8d80c25b340fbfed",
-                "text": "His owner does not feed him."
+                "id": "1ed50124a7d04959ad4273a6f3bd32ab",
+                "text": "She reaches the last bar."
             },
             {
-                "id": "8f9c782d08b0431ca283984abf6507cd",
-                "text": "She gets the dog some food."
+                "id": "7de8e7b14d1943a887ecfa5b9d9339ce",
+                "text": "She starts over again for fun."
             }
         ]
     },
     {
-        "id": "0fddca8e8b8a4b2a9d63c8cd4099370a",
-        "title": "Things to do as a Secretary",
+        "id": "24ee1db63bfe453caad4c50f092d9d7a",
+        "title": "She Likes Running",
         "questions": [
             {
-                "id": "506f2c3369b444f6aa6b09426738b3ff",
-                "text": "He works in a doctor\\'s office."
+                "id": "51f64aa739924033bd8a39c7ccb5cfa9",
+                "text": "She puts her running shoes on."
             },
             {
-                "id": "e94dfc84cd9c48c8bbb217a8b92deaba",
-                "text": "He does a lot of things."
+                "id": "e0f255102cbb41b8a254171e6d5354d8",
+                "text": "She leaves her apartment."
             },
             {
-                "id": "ab3f6bb4c450476eaf41da0355bef14b",
-                "text": "He records their height and weight."
+                "id": "c56f685ea38f4dbe9e344b3ce3684ed3",
+                "text": "She runs to her school."
             },
             {
-                "id": "b20f8beacd644a2d8bd511a6a42189fa",
-                "text": "He answers phone calls."
+                "id": "fbfe92a234a648579964ee88b5d12892",
+                "text": "She likes the wind."
             },
             {
-                "id": "4133c5ff179a4c9db6ef1f830bb99766",
-                "text": "He always knows what to say."
+                "id": "d042b2563eb44a889031603d38f7c1bd",
+                "text": "She gets to the school."
             }
         ]
     },
     {
-        "id": "dd5f8bda53e248d8add006ffdf690bbf",
-        "title": "Things to do as a Maid",
+        "id": "c7e9f4710b3a4b4db9eb8f5842f926eb",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "16fb9cd1912442e0bc7aa88c17125803",
-                "text": "She is a maid for a rich family."
+                "id": "23087f7204f2452bbe94aff87ad6a272",
+                "text": "The mailman put the mail in the mailbox."
             },
             {
-                "id": "e78d9522ad2e4be0af80cf54953b8fee",
-                "text": "She does the laundry."
+                "id": "41033df1db1442a7b8b58f76b1371ef3",
+                "text": "He took out a magazine and some letters."
             },
             {
-                "id": "7cbb519a698e43b8bc93c3ac17be7ff0",
-                "text": "She cooks meals."
+                "id": "ff5fdcf60f4b4c8d9a5b9d10bd358f06",
+                "text": "She liked to work in the garden."
             },
             {
-                "id": "779de3588af64fe283d117ac1d317a3b",
-                "text": "She does not like cleaning."
+                "id": "d1ab697698fe4cd381f55a4312355819",
+                "text": "He enjoyed getting the invitations."
             },
             {
-                "id": "5f9ffff3b0eb49bea78db5043fd1c733",
-                "text": "She likes taking care of the children."
+                "id": "2bacb064b62644bba1b30856c758fe8d",
+                "text": "Would he come to the wedding?"
             }
         ]
     },
     {
-        "id": "56fc9d99a50d4a119732b12df353c85a",
-        "title": "The Police",
+        "id": "7368ddc6abe54a9cb7ac0e800cb84511",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "dc1211d508d44511b8122e098dd07421",
-                "text": "He walks into his house."
+                "id": "63b8a6d282784c4cafe27c5b33185042",
+                "text": "Did she look at the washer?"
             },
             {
-                "id": "709481337d9d4d8c896b117a1c50cfdc",
-                "text": "Clothes are all over the place."
+                "id": "2a6420be8d524a9c8b4f5666ef83159f",
+                "text": "The washer had dials on it."
             },
             {
-                "id": "fefe97ebd26e4bdd93532807a61d9b09",
-                "text": "The furniture is turned upside down."
+                "id": "a7754cd93c604365bfaef7c206661302",
+                "text": "There were two dials on the washer."
             },
             {
-                "id": "48a3b96751074bbca35772c7e28d53cc",
-                "text": "He is being robbed."
+                "id": "0701b57633854d30822c0120acbbd790",
+                "text": "Each dial had three words next to it."
             },
             {
-                "id": "4f57dbed2dd645098290e6577956902c",
-                "text": "He calls the police."
+                "id": "14ba87141d904cd3a02215f7cde9eb5a",
+                "text": "One dial was for the size of the load."
+            },
+            {
+                "id": "9822275d5b1a4b538459a3bb6635eec2",
+                "text": "She washed her clothes in hot water."
             }
         ]
     },
     {
-        "id": "9c881f85a0c148579d046eb505edb2a0",
-        "title": "The Hair Stylist",
+        "id": "a16c7634ada84dde83ffb2e8981833a5",
+        "title": "Littering",
         "questions": [
             {
-                "id": "91a4e62f0a944976895745531e6424a1",
-                "text": "The hair stylist provides many services."
+                "id": "82c7cd0d8fba4e10a469cb74dae29dcb",
+                "text": "Laura cared a lot about the environment."
             },
             {
-                "id": "91bf17eebc414caeb9c932f4266dcd4d",
-                "text": "He cuts people\\'s hair shorter."
+                "id": "a47202486cbf403e86545a25bb831ee3",
+                "text": "She worried about the future of the planet."
             },
             {
-                "id": "1e305395f1ef495f8714ac413e99e751",
-                "text": "He straightens hair."
+                "id": "1799ed88957244be9f74bd7a594f84e1",
+                "text": "Laura was riding her bike home."
             },
             {
-                "id": "9c440c06e10b40e8a9349b5c92dcf5f1",
-                "text": "He dyes customers\\' hair."
+                "id": "8a64df05fca94ae4808ee5bcdfb6076e",
+                "text": "The driver of the truck turned out to be a cop."
             },
             {
-                "id": "614af650e24e40ab84001ce63bb3a4aa",
-                "text": "People think his prices are fair."
+                "id": "90c55f0c0e074a0680095665062955d6",
+                "text": "He charged her on two counts."
             }
         ]
     },
     {
-        "id": "18db7e04986a4c689f405e75de055654",
-        "title": "Losing Her Cell Phone",
+        "id": "407bb99450e64bc8a08598c24363fba6",
+        "title": "Feeding Ducks",
         "questions": [
             {
-                "id": "6f102f70697943239f56ab6586905f14",
-                "text": "She reaches into her pocket."
+                "id": "d3b242bc71614c63b8d2f196467bddb1",
+                "text": "There is lake in the park."
             },
             {
-                "id": "78cdf9a4c8ae4938815b00ea071038fc",
-                "text": "Her cell phone is gone."
+                "id": "fca839f43c754134beebff41bc98b342",
+                "text": "He takes out a slice of bread."
             },
             {
-                "id": "a13589cc48c84a0aa31e1d66858eee23",
-                "text": "She looks under her bed."
+                "id": "22dec6182394423fa638ce19d7ae2bca",
+                "text": "He breaks it up into pieces."
             },
             {
-                "id": "99c975cebefe4da49fa1836c8cd11c3f",
-                "text": "She looks under her couch."
+                "id": "a38de87c291748a6a3a1d968d379d06e",
+                "text": "He throws them into the water."
             },
             {
-                "id": "df2054c694a04d8a9043519ae50b0793",
-                "text": "She sees her phone above the microwave."
+                "id": "e52e3149a3b0463babb040fdedf00e56",
+                "text": "Two ducks fight over the crumbs."
             }
         ]
     },
     {
-        "id": "a1e27707fd45408aa14053bcee4c5bf5",
-        "title": "Squirrels at the Park",
+        "id": "bbf25e4dba1a4e9c96746ce38324ee2d",
+        "title": "Junk Food",
         "questions": [
             {
-                "id": "f288280a875443dbb4afeb961e533345",
-                "text": "She goes to the park."
+                "id": "6436c1af12834fa3a1d16a7eba57cb4f",
+                "text": "Matthew was home alone."
             },
             {
-                "id": "5d056955a8a74c0ea95c1c0c64f4641d",
-                "text": "She sees a lot of squirrels."
+                "id": "40fa61fd6e694c498c55fe31a604c64f",
+                "text": "He decided to eat all the junk food."
             },
             {
-                "id": "6cef14e916c14d81ad17f1c2673e2230",
-                "text": "They run really fast."
+                "id": "88f75736502a45468fa49664f0a57fd9",
+                "text": "He first opened the chips."
             },
             {
-                "id": "a60e1ed72a98447ea8de04721563a956",
-                "text": "She goes up to a squirrel."
+                "id": "c704c7618e154b5899df36d70850e8e0",
+                "text": "He had some popsicle bars."
             },
             {
-                "id": "e3bc24e2b7ca4512ba1844ebd2754a41",
-                "text": "She feeds a nut to the squirrel."
+                "id": "05bbe7e801c34f53b407dfaab9f99684",
+                "text": "He knew he was going to be in trouble."
             }
         ]
     },
     {
-        "id": "abf9898d21f844f39381e6f180b316a8",
-        "title": "Awake at Night",
+        "id": "865bd62303864a38929900d24a327b57",
+        "title": "Going to the Beach",
         "questions": [
             {
-                "id": "1ffbdc979ed244a7b96961ec25f684ff",
-                "text": "She cannot sleep."
+                "id": "8f30a8ba83544f4ba622295543fcb298",
+                "text": "The weather was perfect for the beach."
             },
             {
-                "id": "7c03bc6af468433d8f0602d709da0c5f",
-                "text": "She tries exercising."
+                "id": "257d3eb1f8ea4b57baddc8f9d9dbf008",
+                "text": "It was neither too sunny nor too cold."
             },
             {
-                "id": "b60cee701a014b43a233834ab02eaaaf",
-                "text": "She does 100 jumping jacks."
+                "id": "76a18fd8b2eb46bfb42c53bf50d51897",
+                "text": "They drove to the beach."
             },
             {
-                "id": "f4c413a5d3f04d6282a1fa11515d5a88",
-                "text": "She goes back to bed."
+                "id": "d4b3ac4ffd6a4f32b4e38b2758abb837",
+                "text": "They had fish tacos."
             },
             {
-                "id": "77557b06ff6841fcb3617e7b969a9501",
-                "text": "She falls asleep."
+                "id": "5d77194f31f4489fae2cf937c4330e72",
+                "text": "There were a bunch of different stores near the beach."
             }
         ]
     },
     {
-        "id": "cc0667899bac4399b0cd7d7dab6e88ce",
-        "title": "Gifts for Students",
+        "id": "b1ff15ffb86f438b8c86cf3d58a8910d",
+        "title": "Library Visit",
         "questions": [
             {
-                "id": "4157764e028c46c58531f235c1b201fc",
-                "text": "Ms. Miller is a teacher."
+                "id": "e78b66d6a11747cb955fcdc05827406d",
+                "text": "It is free to check out books at the library."
             },
             {
-                "id": "dcdbf5287f074380b71f83a6060f040b",
-                "text": "It is Christmas time."
+                "id": "55d0f6c048ad472b8a5dfe44c140d0ff",
+                "text": "The library is open to public."
             },
             {
-                "id": "24de563e7df6411f9032587916e60eff",
-                "text": "She buys 20 stockings."
+                "id": "cb25e1336ee04568847f7d2ea633b475",
+                "text": "She went to the front desk."
             },
             {
-                "id": "4c2b8f96a0784b18a5003f27b4db3f67",
-                "text": "She puts the items in the stockings."
+                "id": "1b7faf6840e14b71a92d3a3aa9155514",
+                "text": "A librarian helped her find the book."
             },
             {
-                "id": "3c5fffb1519e44a99bbdcd2d098e988e",
-                "text": "She goes to the cashier."
+                "id": "e0204f9fdc8540339fa575614217c3fe",
+                "text": "She wanted to be a librarian one day."
             }
         ]
     },
     {
-        "id": "c853eaa31d4347209b9b72f6489c985c",
-        "title": "Job Interview",
+        "id": "5c4e4d0d9fe4441eb7b12429213f8ae5",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "a0cffb85969140169fb1ab2620f07a66",
-                "text": "He has a job interview."
+                "id": "77e5543363d14684a302a365f7d59cd6",
+                "text": "His headache started an hour ago."
             },
             {
-                "id": "061e53717cd04aa9b82ad6178d91b096",
-                "text": "He wants to be the manager."
+                "id": "d5aad9dfe224495098615cd2f48efb4e",
+                "text": "His head feels like it will explode."
             },
             {
-                "id": "a745bcf49dff4971919ccbe9331475c5",
-                "text": "He gets a haircut."
+                "id": "3e63d6074366447baf8185993736a9ca",
+                "text": "Sometimes his headaches are between his eyes."
             },
             {
-                "id": "dde49e355a1e4f478d47d326845149c2",
-                "text": "He prints out his resume."
+                "id": "297fc1a8a604463e956db73779a4db05",
+                "text": "It started while he was reading."
             },
             {
-                "id": "1b7df6a31b96494198f866e10af27fbf",
-                "text": "He goes to the company."
+                "id": "994a33b970aa437083ae2fbb37774fb3",
+                "text": "He reads for only a few minutes."
+            },
+            {
+                "id": "c507631ed5474a0dba096edd22860860",
+                "text": "Will the pain go away in about an hour?"
             }
         ]
     },
     {
-        "id": "28e9321b10554970bf3ab133cd831785",
-        "title": "More Money",
+        "id": "4c8a0089650e4f0bb727c79eb9b48596",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "56b0f23aa9984edf9a7dbf24788c5ee1",
-                "text": "Her parents give her $10 a week."
+                "id": "606987e6e11141a7b7742e40deb3681b",
+                "text": "Is soccer a fun and popular game?"
             },
             {
-                "id": "22635b2dcc1145ee8cb932308794daff",
-                "text": "She asks her parents for more."
+                "id": "7dd446815f264fd19cfb1b1259202b16",
+                "text": "It is popular all over the world."
             },
             {
-                "id": "37d6ef66ddd2495f9392aa94ac23ef4f",
-                "text": "She washes their cars."
+                "id": "40bbe2de38284a10af257938bbbfc76c",
+                "text": "Two teams play on a grassy field."
             },
             {
-                "id": "8050b406abad4e77b9a83fdae2b80faa",
-                "text": "She compliments them."
+                "id": "b37500efb0684777b43b14175978ed25",
+                "text": "There are two goals with nets."
             },
             {
-                "id": "ac720c93e8fe434d8d63efe6b3be81c8",
-                "text": "Her parents decide to give her a raise."
+                "id": "d17cefaca35740c78e55cc03bd0eff6c",
+                "text": "Each team tries to kick the ball."
+            },
+            {
+                "id": "d78ac8583f0f4942af5affd74b68226d",
+                "text": "The players cannot use their hands."
             }
         ]
     },
     {
-        "id": "fcbbf7b495f04f408ee054f84cf0cf9a",
-        "title": "The Lunch Lady and the Bully",
+        "id": "ca047fd0d6864190978e868e9ed83678",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "a948c69de46a4979b779323d4eb1357a",
-                "text": "The big bully enters the cafeteria."
+                "id": "2ca3a53887074cf6b7f18dd6384b5c6a",
+                "text": "He watched and listened to the news."
             },
             {
-                "id": "3aca7d156829445a8d80ca14924a936e",
-                "text": "He goes to the front of the line."
+                "id": "2e3e51cb2c6c4f309f511e3e7766d916",
+                "text": "The dangerous swine flu was coming."
             },
             {
-                "id": "e3fca5fcab1943f88fbcca7aa18c060d",
-                "text": "The students do not say anything."
+                "id": "618589959c814be6860bfaacced23c07",
+                "text": "He was not worried about the flu."
             },
             {
-                "id": "7aae18bcc68b4d7aba11c5eee8b7093b",
-                "text": "The lunch lady tells him to get out."
+                "id": "54249a9288904772a6e59e38187a1b26",
+                "text": "I am as healthy as a horse."
             },
             {
-                "id": "80751f3ccd3541e885b3821837d394ea",
-                "text": "The students cheer for the lunch lady."
+                "id": "5704a1c09262444eb970ef324c00d3cc",
+                "text": "He was a talk show host on the radio."
+            },
+            {
+                "id": "ad12018d00384e1291f2030f022689a5",
+                "text": "Did the doctor tell him to get a free shot?"
             }
         ]
     },
     {
-        "id": "98ab4662654e43a1b0274df3a0dbfe84",
-        "title": "Grand Opening",
+        "id": "153e4c86bcba414c822644f020b4948e",
+        "title": "The Interview",
         "questions": [
             {
-                "id": "0221f24a718e48dc942d3aca3986e264",
-                "text": "He opens his new bakery shop."
+                "id": "1639db37ba9b4d448f942f5a8b24e834",
+                "text": "She put on her nicest shirt."
             },
             {
-                "id": "a6bd68e4076148fca8debc5eacfe5f99",
-                "text": "He hopes to get a lot of customers."
+                "id": "f8c8af458190454ebf9180400958510b",
+                "text": "She brushed and straightened her hair."
             },
             {
-                "id": "b97918bf99184abaa9ef63914f2ccb9c",
-                "text": "Many people start coming in."
+                "id": "aa264581c272421588fab463008159de",
+                "text": "She was ready for her job interview."
             },
             {
-                "id": "4d1ea19f83be4bcb8d3b26fdeec05968",
-                "text": "He greets the customers."
+                "id": "74de27941ef8456cad546d59055e9e16",
+                "text": "They asked her hard questions."
             },
             {
-                "id": "ec10df56c63b41e7a5fca78a49f3b972",
-                "text": "He thanks them for coming."
+                "id": "4967ae845fa24eaf8ba9e35babc6561d",
+                "text": "She was confident and friendly."
             }
         ]
     },
     {
-        "id": "45177ecb74964cbe906febedc5ce7bc4",
-        "title": "Crumb on the Floor",
+        "id": "9217e3d2b7fd495dbb5208de8e41964a",
+        "title": "She Eats Lemons",
         "questions": [
             {
-                "id": "cb83a153a48444ed9e681b6f2c553e46",
-                "text": "She drops a crumb in the kitchen."
+                "id": "838efdd1783c4786a0260070f2f8afaa",
+                "text": "Lemons are yellow."
             },
             {
-                "id": "475d4912213a40a9b739f45bf8c3262c",
-                "text": "She goes to watch a movie."
+                "id": "f2070cec68bd414c8317cb2e6cf81614",
+                "text": "She peels the skin off the lemon."
             },
             {
-                "id": "996d1889e4894efea81e6bcf04b1c97a",
-                "text": "She comes back to the kitchen."
+                "id": "c99acd4e0d2f46d58403f93cc082d332",
+                "text": "She bites into the lemon."
             },
             {
-                "id": "467c2109c9664fabaadc4a9194b0bb78",
-                "text": "Many ants are near the crumb."
+                "id": "23d437455e594e57b8d4cf426b095541",
+                "text": "It tastes sour."
             },
             {
-                "id": "be59672a9c01410b94f79f9c2b022f69",
-                "text": "She sweeps the ants and the crumb away."
+                "id": "97c8a6ab0b7040039cef9a67f08da17f",
+                "text": "She spits out the seeds."
             }
         ]
     },
     {
-        "id": "25beaec35f4649569a16a084df12b92b",
-        "title": "Fireworks",
+        "id": "8c502568f0ec4c48bf65a97367616054",
+        "title": "Transferring to a Different College",
         "questions": [
             {
-                "id": "87f91d5aa0804d34bab101df8eef54c3",
-                "text": "People go to the park to see the fireworks."
+                "id": "43dd29862d664c0b8f74cbfb32792d8f",
+                "text": "Lillian wants to transfer to a different college."
             },
             {
-                "id": "d834d1615def4f12be81b3085d605ff4",
-                "text": "They lay out their blankets."
+                "id": "81790466996741f2bf3d3d04e6a62881",
+                "text": "Her dad graduated from Harvard."
             },
             {
-                "id": "3d03ac0c92d84f74ba9f95c31bf6ad6b",
-                "text": "The fireworks are amazing."
+                "id": "3d4babeb1c98492c998b82b71f71e17e",
+                "text": "It is really hard to transfer from a college to Harvard."
             },
             {
-                "id": "d19e3bebd422400091c539f03acf91c3",
-                "text": "The fireworks appear in different colors."
+                "id": "519414b605364f74a01ed85c972294a1",
+                "text": "Lillian tells him that she has nothing to lose."
             },
             {
-                "id": "bd455362479c492f99cfe4b162935ba0",
-                "text": "Some are big and loud."
+                "id": "34a25b374125498ab6062175f938e557",
+                "text": "Her dad doesn\\'t think she will get in."
+            },
+            {
+                "id": "1d5776be862844b3bae04d861a4dd0fe",
+                "text": "Lillian submits her application."
+            },
+            {
+                "id": "bee59de6efa44297a5e0ef58102497cf",
+                "text": "She is so happy that she gets to go to Harvard."
+            },
+            {
+                "id": "23bf01206195423ab62e3d1bda008247",
+                "text": "Her dad is proud of her."
             }
         ]
     },
     {
-        "id": "cd4306524b664001a0f37a785875e106",
-        "title": "A Book Lover",
+        "id": "d2e237e99cb446e7ab4ca28966b2e051",
+        "title": "Vending Machine",
         "questions": [
             {
-                "id": "bccfc53e423a40c8bc18c781696c18c0",
-                "text": "She goes to the library."
+                "id": "012d48a8a34e4a60882820ab2319e3c5",
+                "text": "He finds a vending machine."
             },
             {
-                "id": "7152942ac47f422face0de2803ff16fe",
-                "text": "She takes two books from the shelf."
+                "id": "6912fb1b7bb24226b8ca4269dca40a54",
+                "text": "There are many snacks inside."
             },
             {
-                "id": "abddb1cad05b4ca6a61698486a76d3b5",
-                "text": "The romance books seem boring."
+                "id": "b28d94dc78a14edbab6cf7781638d354",
+                "text": "He puts one dollar in."
             },
             {
-                "id": "d1efc4639c604f6cbdf6fecb808ea3c1",
-                "text": "She takes some cooking magazines."
+                "id": "e1f196623458492c83938a61c7bfffe6",
+                "text": "He wants a bag of chips."
             },
             {
-                "id": "d416263df34844c5b1dff3bc1f0bcceb",
-                "text": "She goes to the checkout desk."
+                "id": "7c2396c28a6e49108f1f1cebd361a60e",
+                "text": "He pushes the button for the chips."
             }
         ]
     },
     {
-        "id": "252ec88361ca41b69a1efffa624716a6",
-        "title": "Dressed for the Rain",
+        "id": "d61a7e7f293148cfb5517d5cf262a1aa",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "82c54209057a4ae688c59210c09819e7",
-                "text": "She wears a yellow raincoat."
+                "id": "c532fe9ff9a547d9bfaa916fc18c4885",
+                "text": "The man set the dancer on fire."
             },
             {
-                "id": "5eede8b20e964610aa327b162a952099",
-                "text": "She wears a knitted hat."
+                "id": "a9c65a2a1b964670a8c6dad0d2273bce",
+                "text": "He asked her for her phone number."
             },
             {
-                "id": "0011cdc6b4444195a66be16a469eb70d",
-                "text": "She wears a gray scarf."
+                "id": "0c37ca89d10e44e5abc93dc5b4598f4a",
+                "text": "She said she didn\\'t even know him."
             },
             {
-                "id": "e4c3cc5206a04f06b22584b226c96f94",
-                "text": "She gets an umbrella."
+                "id": "4fc2bbc782c74fddb647c310ff4807b2",
+                "text": "He finished his drink and paid for it."
             },
             {
-                "id": "5f838945e5524a1f938728d51e280633",
-                "text": "She goes outside."
-            }
-        ]
-    },
-    {
-        "id": "654fb0e1b7e746cbb0099302a4f1a9e8",
-        "title": "Milk Gone Bad",
-        "questions": [
-            {
-                "id": "7baeeecd8c734eaa801f393f0acf840b",
-                "text": "She pours the cereal into a bowl."
-            },
-            {
-                "id": "7e08389b2da64d5e9d8eee9644ae5f17",
-                "text": "She goes to the refrigerator."
-            },
-            {
-                "id": "754f2fab2c9c48bea9583b6cde282095",
-                "text": "She pours the milk into the bowl."
-            },
-            {
-                "id": "9c3147faf20944d681fca985f241e4b2",
-                "text": "She checks the milk carton."
-            },
-            {
-                "id": "6764aa0c23334fb1a82cbe73ee020ae1",
-                "text": "The expiration date was last week."
-            }
-        ]
-    },
-    {
-        "id": "ad446a4c6559436c9057eebe0aade4a2",
-        "title": "Clothes on Sale",
-        "questions": [
-            {
-                "id": "378a57cff6fc46cc9ffca7f47f2bdacc",
-                "text": "Ms. White goes to a clothing store."
-            },
-            {
-                "id": "436416e8fbe0422f911c579ab044c496",
-                "text": "She buys a dress for her daughter."
-            },
-            {
-                "id": "4b4a66c6f23c4612af337ae75ffaff59",
-                "text": "She takes the dress home."
-            },
-            {
-                "id": "c2626fbdb5704bebb8d513e338de9f35",
-                "text": "Her daughter tries it on."
-            },
-            {
-                "id": "34b97ec9d0d34540b60a3b6dd5292c42",
-                "text": "The dress is too tight."
-            }
-        ]
-    },
-    {
-        "id": "507e9a87df084140bfcf866f1e67dff8",
-        "title": "The Lifeguard",
-        "questions": [
-            {
-                "id": "4c4965db00824d2390f846706234562d",
-                "text": "Ruth is a lifeguard."
-            },
-            {
-                "id": "7f0a298f88af4f69a132b1e54ae667b2",
-                "text": "She wears a bright, red shirt."
-            },
-            {
-                "id": "db7bf6fb8ca24318b976764795270e9e",
-                "text": "She has a whistle."
-            },
-            {
-                "id": "c8b695105d204ff9a0af75432bb7f8ab",
-                "text": "She looks at the swimmers at the beach."
-            },
-            {
-                "id": "d37aa879242c40c9846145a87665a3e1",
-                "text": "She saves them when people are drowning."
-            }
-        ]
-    },
-    {
-        "id": "8cc64d19d531432884e510b680414989",
-        "title": "Bad Partners",
-        "questions": [
-            {
-                "id": "6be3bce9df6e4555a6f13b145fcf069a",
-                "text": "The students are working together on a project."
-            },
-            {
-                "id": "a74ae218e5c2426da533f81eca082406",
-                "text": "Anthony does not do anything."
-            },
-            {
-                "id": "c95cbf81091b4741bdf08c9f72d3c5c2",
-                "text": "Brian and Carol have to do all the work."
-            },
-            {
-                "id": "89bf04d8a6224ed9b9ca98fd1e61842c",
-                "text": "They cannot finish the project."
-            },
-            {
-                "id": "a6c7cda6b15e4033a655fcd8a135c032",
-                "text": "Mr. Green gives them one more day to finish."
-            }
-        ]
-    },
-    {
-        "id": "99c13f3cbf044f129d471f05133c474f",
-        "title": "Knitting is Fun",
-        "questions": [
-            {
-                "id": "ac3d349dfd2744199cac19c13ecbf2ae",
-                "text": "She knits a lot of things."
-            },
-            {
-                "id": "9d11281f3a8d4d098e9487541ffae883",
-                "text": "She wears what she makes."
-            },
-            {
-                "id": "0028d4de293a48e9810d0dc576dbfe0d",
-                "text": "She wears them for winter."
-            },
-            {
-                "id": "4060f315cdb34a429fd3c1d14f805a09",
-                "text": "She gives the stuff to her friends."
-            },
-            {
-                "id": "a414927e7f204c72b93c7be9ce9f13a9",
-                "text": "She sells what she knits."
-            }
-        ]
-    },
-    {
-        "id": "07e5794932b644e588101f42c41a0507",
-        "title": "She Loves Her Phone",
-        "questions": [
-            {
-                "id": "9c56d7c810a04e77a652d2b6d7f2229a",
-                "text": "She looks at her phone."
-            },
-            {
-                "id": "86a978219d984ae891760ab54ef8626f",
-                "text": "It is three inches long and two inches wide."
-            },
-            {
-                "id": "993afe85a8b543e38c2460b0b44400b0",
-                "text": "She uses it all the time."
-            },
-            {
-                "id": "d1b233b8defa4abdb65f416e2ff46670",
-                "text": "She talks to her friends on it."
-            },
-            {
-                "id": "4f5badc525814305ae76e7c028938a52",
-                "text": "She plays games on it."
-            }
-        ]
-    },
-    {
-        "id": "f777d1ce7a37493aa85e02ab030f46c7",
-        "title": "Winter Break",
-        "questions": [
-            {
-                "id": "825fe2080bd94f5ab580278f9ff6cf20",
-                "text": "Winter break starts soon."
-            },
-            {
-                "id": "a9a6fc59916347b5bddd2ab11cea6815",
-                "text": "He can\\'t stop smiling."
-            },
-            {
-                "id": "dfde198c76dd444a84bbf3bd89b198b9",
-                "text": "He plays with his pencils."
-            },
-            {
-                "id": "210d681442bd4db3baac185ed9eb685f",
-                "text": "He thinks of the snow."
-            },
-            {
-                "id": "fec3d5466729431f883b2b9afbe20475",
-                "text": "He is ready to make snowballs."
-            }
-        ]
-    },
-    {
-        "id": "870f80db397341b3b6c4446a5e44c1c9",
-        "title": "Making a Smoothie",
-        "questions": [
-            {
-                "id": "0c35753724924c66adc33c0f50991717",
-                "text": "She wants a smoothie."
-            },
-            {
-                "id": "40195ee0e8184068aad0a4415cd60c92",
-                "text": "She puts strawberries into a blender."
-            },
-            {
-                "id": "e66e628d3cfd4c698775287513bdca89",
-                "text": "She pours milk inside."
-            },
-            {
-                "id": "8415c2aebfe443f098fe6c689e9fe7a6",
-                "text": "She presses the button."
-            },
-            {
-                "id": "0e213756efeb4b80936ea998178d08a5",
-                "text": "The blender mixes the ingredients."
-            }
-        ]
-    },
-    {
-        "id": "7a10982827db495c9896a9f6259c8a86",
-        "title": "Practice Makes Perfect",
-        "questions": [
-            {
-                "id": "4f7299b66d3c4f739a4763c3d8db1ded",
-                "text": "Everyone knows that practice makes perfect."
-            },
-            {
-                "id": "711dea73fa7840928bd234a80bd42f54",
-                "text": "Michelle practices swimming once every two weeks."
-            },
-            {
-                "id": "1165e78ebe0b4e93a90e409aec208240",
-                "text": "Sarah practices once a week."
-            },
-            {
-                "id": "d6e07a370dc242cabeb5399b454c08e3",
-                "text": "She is better than Michelle."
-            },
-            {
-                "id": "a134a0d686454112b41bdb37a2f97f9f",
-                "text": "Sharon practices every day."
-            }
-        ]
-    },
-    {
-        "id": "314a9f82f3a2491e839bcc27d88a5e7b",
-        "title": "A Stuffed Bear",
-        "questions": [
-            {
-                "id": "5532bf928c8947c6beb2a40f957927ca",
-                "text": "He looks at his stuffed bear."
-            },
-            {
-                "id": "4991a70acea945d2903d9438c6180c38",
-                "text": "It is wearing a striped scarf."
-            },
-            {
-                "id": "2fed2bf5dab74bde9572b5335720493b",
-                "text": "He brings it everywhere."
-            },
-            {
-                "id": "9b882758312c483aa0da98d494c2d269",
-                "text": "He brings it to soccer practice."
-            },
-            {
-                "id": "641fd680ea154c44b25691a0bb7e0146",
-                "text": "He brings it to restaurants."
-            }
-        ]
-    },
-    {
-        "id": "b0e9872359104ba08776bce25d883694",
-        "title": "Lockers Are Awesome",
-        "questions": [
-            {
-                "id": "53e0cbc5fb5f40b992637a57cca35b4d",
-                "text": "High school students get lockers."
-            },
-            {
-                "id": "5f6bb80ee0a2400090ec1788f5c326fd",
-                "text": "You can put books in it."
-            },
-            {
-                "id": "f1beeaa4eee0473697376705af2e8446",
-                "text": "You can put a first aid kit in it."
-            },
-            {
-                "id": "54f4c751be61402c8827a2aaf3d8507f",
-                "text": "You don\\'t have to carry so much stuff."
-            },
-            {
-                "id": "43a2cf8660554bafabef83ba2caa72ce",
-                "text": "You can even decorate your locker."
-            }
-        ]
-    },
-    {
-        "id": "a693da6f74c14da5b45e37970ecc479b",
-        "title": "A Bad Skunk Smell",
-        "questions": [
-            {
-                "id": "45670af817fc40edb59f8fe984da2e6a",
-                "text": "There are a lot of skunks in the park."
-            },
-            {
-                "id": "1ee212e7febb41609bb73ef7794ecb11",
-                "text": "The skunks spray their odor."
-            },
-            {
-                "id": "76774e6e3b3d49d2b3ccad07a73cdd9d",
-                "text": "The family goes to the park for a picnic."
-            },
-            {
-                "id": "c0865d26a745403eb6195d6caf5aebb7",
-                "text": "They smell something funny."
-            },
-            {
-                "id": "4372e4f83c5d4a6a9712014298680407",
-                "text": "They do not want to eat anymore."
-            }
-        ]
-    },
-    {
-        "id": "8993704e89ca47da962f9d14e2b84760",
-        "title": "Bumping Into an Old Friend",
-        "questions": [
-            {
-                "id": "2b407182b37b4f668974d521e186387d",
-                "text": "Kimberly walks outside."
-            },
-            {
-                "id": "d98cf3379279460891be338fe2d5c67a",
-                "text": "She bumps into someone."
-            },
-            {
-                "id": "ae5e1b9868414d329a59645b4a562da9",
-                "text": "She looks at him."
-            },
-            {
-                "id": "34a68b1687f646bbb8d733526e4fc9ae",
-                "text": "It is an old friend."
-            },
-            {
-                "id": "ecf185b2df414dd68b492fcc5ff602c5",
-                "text": "They talk about their memories."
-            }
-        ]
-    },
-    {
-        "id": "0de30481df72488c9d2aaa14c5a5ffe8",
-        "title": "Happy People, Sad People",
-        "questions": [
-            {
-                "id": "0734c03de67f431a9d388e30b387a332",
-                "text": "Mary does well on her test."
-            },
-            {
-                "id": "cd70fc2c4bc742fa9f82af8603d47da3",
-                "text": "Patricia wins the drawing contest."
-            },
-            {
-                "id": "4e27d045c7444d20b9687b104e11c4cd",
-                "text": "Linda breaks her leg."
-            },
-            {
-                "id": "3da61cfaad034bbc908540ca6e0336f2",
-                "text": "She goes to the hospital."
-            },
-            {
-                "id": "3d311ca3820045a7998a2c0c123f860e",
-                "text": "Jeff does bad on his test."
-            }
-        ]
-    },
-    {
-        "id": "262f51d020444566b3ba7fd701cecd1b",
-        "title": "T.V. and Turtles",
-        "questions": [
-            {
-                "id": "ea94820d768747d0bc4a594ebaa1028d",
-                "text": "Her favorite T.V. show is on."
-            },
-            {
-                "id": "597deef7d48b4ff893e799cb14a696a6",
-                "text": "It is thirty minutes long."
-            },
-            {
-                "id": "734c4640541740b5b1cea759e264d05d",
-                "text": "It is about the slowest animals on Earth."
-            },
-            {
-                "id": "d50093dd7f204d2cb9812e2ff8698958",
-                "text": "The turtile is quiet and cute."
-            },
-            {
-                "id": "28b6cf716e43481c80a60c541828e15b",
-                "text": "She watches T.V. with her turtle."
-            }
-        ]
-    },
-    {
-        "id": "43b4000fe0eb4b09972467046b1cc203",
-        "title": "She's Good at a Lot of Things",
-        "questions": [
-            {
-                "id": "e92bff8dea64419d8e52c7e58bf1e24a",
-                "text": "She is very talented."
-            },
-            {
-                "id": "66544ceb91bc4cd5b90643f874aca13c",
-                "text": "She is good at taking tests."
-            },
-            {
-                "id": "91c1babf97fc4b98bc3bee93666f1583",
-                "text": "She is good at teaching."
-            },
-            {
-                "id": "443da70f17174356965fd7325319f16b",
-                "text": "She is good at playing the cello."
-            },
-            {
-                "id": "739acbde4fe94501b83b0c3710cc3f72",
-                "text": "She is good at cooking."
-            }
-        ]
-    },
-    {
-        "id": "34a5ad0913a0445696b1df8f04c01890",
-        "title": "A Motorcycle on the Road",
-        "questions": [
-            {
-                "id": "5da6ef24498b416589203928cbf99649",
-                "text": "He hears a loud noise."
-            },
-            {
-                "id": "528bbb672b884e9985fb651d65809412",
-                "text": "He looks out the window."
-            },
-            {
-                "id": "395500d6c821422480f67cffb76cb36d",
-                "text": "He sees a motorcycle."
-            },
-            {
-                "id": "4e7b92f0b0a24e4882a766d391a19b36",
-                "text": "There is a man on the motorcycle."
-            },
-            {
-                "id": "01794907b71d44918e590474dc0adc2b",
-                "text": "He wears a leather jacket."
-            }
-        ]
-    },
-    {
-        "id": "6a1a1cfe8bd54a1fba1d56e4b36f6e0a",
-        "title": "The Medal",
-        "questions": [
-            {
-                "id": "aeca7e5e490c4362b4d56b9fb2426b8c",
-                "text": "It is time for the awards ceremony."
-            },
-            {
-                "id": "843b0e2fc5cf4731acd7bf825477a857",
-                "text": "She gets the first place medal."
-            },
-            {
-                "id": "cc09a3b59dd6474dbf8ba3863f386862",
-                "text": "It has a picture of a ballet dancer."
-            },
-            {
-                "id": "48d8105cae0f49248a81e192c5c9a786",
-                "text": "She deserves the medal."
-            },
-            {
-                "id": "56ea65e037614196845a4d72439b41c3",
-                "text": "Her parents scream her name."
-            }
-        ]
-    },
-    {
-        "id": "1256dac56c384ca49c1a6f741d792b4c",
-        "title": "Dental Care",
-        "questions": [
-            {
-                "id": "c3f6adcaeebf48e69c68f69da4d084d6",
-                "text": "He eats a lot of candy."
-            },
-            {
-                "id": "f76be2e89d5d4c77833cd73b88730523",
-                "text": "He needs to clean his teeth."
-            },
-            {
-                "id": "a79bc7e8f0714807a7a019d48e3a4e76",
-                "text": "He flosses between his teeth."
-            },
-            {
-                "id": "e38ff8b6885f4c30928fd9a9d7ff0aa6",
-                "text": "He brushes his teeth up and down."
-            },
-            {
-                "id": "2855e15eb9b2426098300367ccaa73dd",
-                "text": "His teeth look white."
-            }
-        ]
-    },
-    {
-        "id": "0e84f338c3ca4d2cab67c4b3727e552c",
-        "title": "A Ketchup Lover",
-        "questions": [
-            {
-                "id": "e73568060e28432f878da97905d3ef3f",
-                "text": "She puts ketchup on fried chicken."
-            },
-            {
-                "id": "974ca8904cb74fb38e2df66ca6d6dc66",
-                "text": "She puts ketchup on french fries."
-            },
-            {
-                "id": "6614f85f131a4f6c8914d097f7b98c78",
-                "text": "She puts ketchup on hot dogs."
-            },
-            {
-                "id": "1c05cd43d17d4409a80914ece446ab18",
-                "text": "She puts ketchup on fried shrimp."
-            },
-            {
-                "id": "d8396c53e2274c79ba26f37ff3aabb0a",
-                "text": "She puts ketchup on sandwiches."
-            }
-        ]
-    },
-    {
-        "id": "5363a48ab67b4881b4c6aeae357e37a3",
-        "title": "Peanut Butter Sandwich",
-        "questions": [
-            {
-                "id": "ccd8c5e6a80b499dbd5623683338a4fb",
-                "text": "She wants to make a peanut butter sandwich."
-            },
-            {
-                "id": "667fbafcf85e4eb184d1ca6b74a9248f",
-                "text": "She buys what she needs."
-            },
-            {
-                "id": "111be4777d174d90ad02d77b0713b2c1",
-                "text": "She goes to the kitchen."
-            },
-            {
-                "id": "5cd8fc3ac995453988612519106f382a",
-                "text": "She spreads the peanut butter on the bread."
-            },
-            {
-                "id": "5b02edc88e1143feb6062da8b58b192b",
-                "text": "She puts the slices together."
-            }
-        ]
-    },
-    {
-        "id": "d274dd1f68af4b04bfad91d3b58d4e24",
-        "title": "What Is in a Magazine?",
-        "questions": [
-            {
-                "id": "dead0b072af047f1b338a1f9e10c47b5",
-                "text": "Magazines are fun to read."
-            },
-            {
-                "id": "5967ba021dae4c7883d2a07384a70bef",
-                "text": "There is usually someone famous on the cover."
-            },
-            {
-                "id": "e9caffe134c54f5986df15ff759e9351",
-                "text": "You can flip through the pages of a magazine."
-            },
-            {
-                "id": "ec2957f8773d41cb9623b7f440f20b50",
-                "text": "There are interesting stories."
-            },
-            {
-                "id": "783af2bc73a94a40858f4c69f0221c5b",
-                "text": "The stories are usually about important events."
-            }
-        ]
-    },
-    {
-        "id": "ea4cfa719fc7430a9f54062ccd78d3b5",
-        "title": "Clouds in the Sky",
-        "questions": [
-            {
-                "id": "3db2747ddded4632b4db3eccfd33227b",
-                "text": "The sky is bright blue."
-            },
-            {
-                "id": "992f4cd40678468d8c555e5eed54e4ca",
-                "text": "There are many clouds in the sky."
-            },
-            {
-                "id": "b98e90134ce04980b8e622f8fb18006d",
-                "text": "The clouds have different shapes."
-            },
-            {
-                "id": "f997199953924c5f9555da97833047df",
-                "text": "One of them looks like a bird."
-            },
-            {
-                "id": "60c2b427cafd4dd7bf3244e4f1aec33e",
-                "text": "She continues to look at the clouds."
-            }
-        ]
-    },
-    {
-        "id": "f23d690e50974f008c5891d4fee7baf6",
-        "title": "Leaves Falling",
-        "questions": [
-            {
-                "id": "538b390b5ec146669123ce45aa2b742e",
-                "text": "Autumn is not too hot like summer."
-            },
-            {
-                "id": "8a1cb16fe08949259221d78889034f00",
-                "text": "Autumn is not too cold like winter."
-            },
-            {
-                "id": "6bba42956fd64cddad8da92a2d73af7d",
-                "text": "The leaves are falling."
-            },
-            {
-                "id": "4d7d4d0853094c9aaf8e665c73b7c4ef",
-                "text": "Some leaves are orange."
-            },
-            {
-                "id": "a09cfa54ab0a4252a87d84639d54ca2c",
-                "text": "She sees her dad raking the leaves."
-            }
-        ]
-    },
-    {
-        "id": "57ddf83d9d4a47428354e7d9e0db8e7a",
-        "title": "Eating at a Restaurant",
-        "questions": [
-            {
-                "id": "6061b6c6a07a4526bd9651413547e535",
-                "text": "Her parents do not feel like cooking."
-            },
-            {
-                "id": "6506634e8ded434da9ba9924692290b9",
-                "text": "They go to a restaurant nearby."
-            },
-            {
-                "id": "481f22ddf7ef4983a0a389525b612eea",
-                "text": "A waitress takes them to an empty table."
-            },
-            {
-                "id": "36e7af2b32bf48a9bb43efaa8ddf0b87",
-                "text": "They order spaghetti and lobster."
-            },
-            {
-                "id": "3100f19c2bbd4916863b9bce56f1f66f",
-                "text": "They wait for their foods."
-            }
-        ]
-    },
-    {
-        "id": "62368c44166a49b380398a90d9d691f1",
-        "title": "Working at the Grocery Store",
-        "questions": [
-            {
-                "id": "698f61852ef040b6a778991a68158143",
-                "text": "He works at the grocery store."
-            },
-            {
-                "id": "7ab9c3c47f694b6ba2ee3dfd1cd432a8",
-                "text": "He has a different uniform."
-            },
-            {
-                "id": "dc258f4b0f984fe58c0b9c4d4bf6702e",
-                "text": "His coworkers\\' uniforms are blue."
-            },
-            {
-                "id": "cd1210bfe36347cca4ae5cbca7c4acea",
-                "text": "He tells them how to do better."
-            },
-            {
-                "id": "39f215de9c3d43e98d09d1f4b8d59906",
-                "text": "He goes around the store."
-            }
-        ]
-    },
-    {
-        "id": "0d329fff0d564b4fbb7b092c1cf19c41",
-        "title": "A Fancy Outfit",
-        "questions": [
-            {
-                "id": "154a3acdc1f54cbf8badca7e9ad1904c",
-                "text": "She is going to a party."
-            },
-            {
-                "id": "60e7ff9f3b5244b682dc2ddb021a1f83",
-                "text": "She has to dress nicely."
-            },
-            {
-                "id": "96d27cd0259f4999b54ce763f95906bb",
-                "text": "She puts red lipstick on her lips."
-            },
-            {
-                "id": "bc869c0b23404803b74fa63f6502a4e2",
-                "text": "She wears a long, white dress."
-            },
-            {
-                "id": "d33a61e3d9a141ddba8a9ed66dc5daf8",
-                "text": "She is ready to leave the house."
-            }
-        ]
-    },
-    {
-        "id": "f3b1eb0f12d34a8093b2b0553539066a",
-        "title": "Fighting the Cold Weather",
-        "questions": [
-            {
-                "id": "48bf5ee6542042d4b249e98499819115",
-                "text": "She puts on a jacket."
-            },
-            {
-                "id": "f00348c52d104bf59289d38115e2102e",
-                "text": "She puts a scarf around her neck."
-            },
-            {
-                "id": "9a5b8917aba74157b80f4bb0c9770b60",
-                "text": "She sits close to the fireplace."
-            },
-            {
-                "id": "d9239bf646bd4bb6a8f69f1a716968de",
-                "text": "Her dad taps her on the shoulder."
-            },
-            {
-                "id": "08b10215f2a546a0b40bae15c1de9d4d",
-                "text": "He gives her a cup of hot chocolate."
-            }
-        ]
-    },
-    {
-        "id": "d9f00a0c683c4dacaa133344e36b90ff",
-        "title": "A Lizard from the Backyard.",
-        "questions": [
-            {
-                "id": "bcedd6f79a344130a54f93c49e353e3d",
-                "text": "He goes to his backyard."
-            },
-            {
-                "id": "e643f1db85dd4017b220e334c2284fa2",
-                "text": "A lizard is small and slimy."
-            },
-            {
-                "id": "5bbe2b7fe12b401dbe8ce776cb64be54",
-                "text": "He puts it on his hand."
-            },
-            {
-                "id": "ccea4b1cc7f344aa9e447fbe70394803",
-                "text": "Lizards need to be outside."
-            },
-            {
-                "id": "0a24c670c03d4494b72dbf705076533c",
-                "text": "He lets the lizard go."
-            }
-        ]
-    },
-    {
-        "id": "4f9b42283bb24ad4a1d476ec04710990",
-        "title": "The Apple Tree",
-        "questions": [
-            {
-                "id": "1bb6336fd501427fbe78288627f1e1f6",
-                "text": "His neighbor has an apple tree."
-            },
-            {
-                "id": "5ef9a82056bf42d9a90904793d496604",
-                "text": "He walks to his neighbor\\'s house."
-            },
-            {
-                "id": "2c253a7648fc466a8a9ab5e3c1019d1a",
-                "text": "He knocks on the door."
-            },
-            {
-                "id": "c2893536221b4f658ca873db34680e00",
-                "text": "He wants to get some apples."
-            },
-            {
-                "id": "952228afb0974fe9854f86a6f7fca9bf",
-                "text": "He picks the best apples."
-            }
-        ]
-    },
-    {
-        "id": "a612620c85104673bd1a0940c52c07d9",
-        "title": "A View from the 100th Floor",
-        "questions": [
-            {
-                "id": "9cc7bafed6fd4efb8646b3e2c705bb38",
-                "text": "He lives in a tall building."
-            },
-            {
-                "id": "01909361ae20458ea8088a85e4bc96d6",
-                "text": "He looks out the window."
-            },
-            {
-                "id": "e0b299a61933471e9f8eb300857877ab",
-                "text": "He sees the mountains."
-            },
-            {
-                "id": "4b7ef1197cdf49b8b57c958f8183d3fa",
-                "text": "He sees other buildings."
-            },
-            {
-                "id": "cc280f7c30d44ed0bafb0ff2a7a551a7",
-                "text": "What an interesting view."
-            }
-        ]
-    },
-    {
-        "id": "a841048eef5a4826a4751922ae397528",
-        "title": "Pie-Eating Contest",
-        "questions": [
-            {
-                "id": "6b6fcb889028497798bc3a7488b592fb",
-                "text": "She goes to the carnival."
-            },
-            {
-                "id": "57e7b60ed7f04360bc44375f71ba49c5",
-                "text": "She enters the pie-eating contest."
-            },
-            {
-                "id": "a186e88c59e249a6a26fc51c03bbf9cc",
-                "text": "There are many pies in front of her."
-            },
-            {
-                "id": "6a6a13800cd547dbb575960e25fc5ddc",
-                "text": "She eats the apple pie first."
-            },
-            {
-                "id": "38c416cc494741eeb48a16760eae9323",
-                "text": "It takes her five minutes to finish it."
-            }
-        ]
-    },
-    {
-        "id": "9d2e1235768f4ee0b5b713b0aa506f76",
-        "title": "A Lot of Jackets",
-        "questions": [
-            {
-                "id": "870cbb01627a40b0aad7916e1e8fb273",
-                "text": "He has two jackets with zippers."
-            },
-            {
-                "id": "7a8c8cec40f44ad6917f8e2b880ad658",
-                "text": "One of them is light blue."
-            },
-            {
-                "id": "8c3c2ef95b53411c92282ecbaf18d793",
-                "text": "One of them has his name on it."
-            },
-            {
-                "id": "62f90938138144e396add049077cc915",
-                "text": "He has two long jackets."
+                "id": "7d6180bcd4b44259ad9a929213eb216e",
+                "text": "He poured gasoline and threw a match."
             },
             {
-                "id": "a98c2d2ee8a048b6beba62738f595976",
-                "text": "One of them has buttons."
+                "id": "bb016e751f574231bf18d7033a03f295",
+                "text": "Did the manager put it out with his jacket?"
             }
         ]
     },
@@ -2184,210 +1518,1036 @@
         ]
     },
     {
-        "id": "f349973dd1fe42d0a645281c00c889e3",
-        "title": "Free Throws",
+        "id": "885a45464b2544dc8accab00ea21ed87",
+        "title": "Getting Contact Lenses",
         "questions": [
             {
-                "id": "13f404771f8f4346ad0630ecce5019dd",
-                "text": "He goes to the basketball court every day."
+                "id": "4dac18bbcd144fd1829e0846988ecb25",
+                "text": "Glasses made her look too nerdy."
             },
             {
-                "id": "4e084f941dea4ff5a6d52391f55dbf3e",
-                "text": "He practices his free throws."
+                "id": "4e682859ed1049669837f5fe7818f0cf",
+                "text": "Linda begged her parents for contact lenses."
             },
             {
-                "id": "e19f4d39e3e34327a60e779942b9dd11",
-                "text": "He stands before the free throw line."
+                "id": "7ce464f736b54c8ca4b5953f99faec57",
+                "text": "They told her that she was not ready."
             },
             {
-                "id": "6de9fe8e6fc24afd9b5a24d6ade3030f",
-                "text": "He throws the basketball in the net."
+                "id": "79bbc092d720414ca03947158dbbc9b8",
+                "text": "Her eyes would get infected."
             },
             {
-                "id": "a4070b2e197a4d129830eb7e225f5774",
-                "text": "He practices for two hours."
+                "id": "0e0893599236475181dd527363aab88e",
+                "text": "The doctor gave her a sample pair to wear."
+            },
+            {
+                "id": "1813eace424c4809af8114459256d77b",
+                "text": "She could see clearly without her glasses."
+            },
+            {
+                "id": "b95fb0817ff94bd383e9704b41e903b7",
+                "text": "Everyone kept asking what happened to her glasses."
+            },
+            {
+                "id": "feb38deec05748749dd5e844879277fd",
+                "text": "Linda started wearing makeup."
             }
         ]
     },
     {
-        "id": "90e80b8a49e8444e957355bca25a7bca",
-        "title": "Passing the Ball",
+        "id": "dabc3c94f7ec4edcaec460af50eed671",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "2114c98c2eda4b3c80d0824980ea3ff1",
-                "text": "Basketball is about teamwork."
+                "id": "9818368b6b95448b8ae13034d0f0d9ed",
+                "text": "Did he have a good job?"
             },
             {
-                "id": "c0f268e3a17c4ab286061f2aa4841897",
-                "text": "Teammates must be able to pass the ball."
+                "id": "1d867b98ccc24518ba020b292dcebbc9",
+                "text": "He loved to teach his students."
             },
             {
-                "id": "a9419fd47c2a4f35a0231f50abe1581c",
-                "text": "Robert is far from the hoop."
+                "id": "2704d8a342e044c2a1702949b466a92a",
+                "text": "His students listened to almost every word."
             },
             {
-                "id": "bda4f58aea0042e8b461e79c28b103ef",
-                "text": "He passes the ball to Edward."
+                "id": "4c563b964a784e6aa1bef84855e38e44",
+                "text": "They learned how to spell and pronounce words."
             },
             {
-                "id": "490100cc79c946cea510849692306d3f",
-                "text": "He throws the ball in."
+                "id": "d7767491d81c40d8bee7781ee32578a3",
+                "text": "He taught them how to think."
+            },
+            {
+                "id": "b4dd906ce5ad42b48fd9bb25456d0555",
+                "text": "Don\\'t believe everything you see or hear."
             }
         ]
     },
     {
-        "id": "fc49f085927f4a2290ec2deff6c831ca",
-        "title": "Tennis for Two",
+        "id": "cb475d1904bb4056aedff993bff6f2e3",
+        "title": "Buying Shoes Online",
         "questions": [
             {
-                "id": "8c00ddbf19774644bfc749fcd9fc51ba",
-                "text": "They go to the tennis court."
+                "id": "2687141c4be844378aa8bfe744895f73",
+                "text": "Danny bought new shoes online."
             },
             {
-                "id": "f76be8ca8710449da18e14f82218307d",
-                "text": "Laura wants to practice her serves."
+                "id": "cf0460adeecd457cb22cf77bd082a9bc",
+                "text": "He saw the mailman with a white box."
             },
             {
-                "id": "a9657aa84c8640f4b7f94a147523e7bf",
-                "text": "She stands behind the line."
+                "id": "bc8551d4ce3e4f0c938e8087de5fe521",
+                "text": "The shoes looked exactly how he expected."
             },
             {
-                "id": "186bacd1543b4e2481a57e0bedacf195",
-                "text": "He hits the ball with the racket."
+                "id": "01eaa26a99b343b3aebf5b8bbc921114",
+                "text": "The shoes were too tight."
             },
             {
-                "id": "845702f3825f496ea6cef5132e895610",
-                "text": "The ball keeps going back and forth."
+                "id": "b44ab3d904cf4ca5adea9d15b2cd33c4",
+                "text": "He needed to exchange them."
             }
         ]
     },
     {
-        "id": "914b3dfc0a62434da2d84d6c0064f372",
-        "title": "A Waitress at Duty",
+        "id": "22b05ea3e12544b1a1e5596fc1c1e440",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "89b197acd11f4125811c87f610a30ec2",
-                "text": "She works at a restaurant."
+                "id": "68f09555468f448a965b83ef1c694263",
+                "text": "Did she want to go for a drive?"
             },
             {
-                "id": "018d0985c68e40d4bada4ac24c3395b7",
-                "text": "A customer walks in."
+                "id": "17c4d84d5a2d41e5a65b65b16047b1c3",
+                "text": "Her husband said that was a good idea."
             },
             {
-                "id": "a1a0d0c9b9264835b4b35d6d6f4237fa",
-                "text": "She walks him to a table."
+                "id": "59298d1f877a4cc999b2d1f2749c8360",
+                "text": "He asked where she wanted to go."
             },
             {
-                "id": "ee3a9801c07b4cb5992156fcdfd4543f",
-                "text": "The customer orders fried chicken."
+                "id": "b03fa5e312624eaa93f7c003de4d2d28",
+                "text": "She wanted to drive to the mountains."
             },
             {
-                "id": "73db2190120841aab56029228b2fb616",
-                "text": "She gives him his meal."
+                "id": "8fff0ead6f5d4e0ea6b79eb2c5925617",
+                "text": "The beautiful lake is high in the mountains."
+            },
+            {
+                "id": "34a43744469b4ad6bb4531992db62392",
+                "text": "They could watch the squirrels and deer."
             }
         ]
     },
     {
-        "id": "f9a6909a439344a18e9564fb021734f4",
-        "title": "Clowns are Cool",
+        "id": "73a17913924f405c8ecc5b7b13e2561a",
+        "title": "First Day of School",
         "questions": [
             {
-                "id": "ac29f972585246ef8ac43a03402dbc63",
-                "text": "Clowns wear face paint."
+                "id": "a60e055ac1614f7eb42b60e75009c609",
+                "text": "There is an empty seat."
             },
             {
-                "id": "9065ce1de9794a1292417f80af9b7dac",
-                "text": "They wear big shoes."
+                "id": "5dfd64dde38d4441abfd3551d256c28b",
+                "text": "He sits in the seat."
             },
             {
-                "id": "f540171950a041379f8c387c56afba7f",
-                "text": "They juggle balls."
+                "id": "87b3ada3ab074bfb8dbfe3c0180563dc",
+                "text": "There are different people."
             },
             {
-                "id": "6e5e7f0b092943bf8fa38ca502f13fd1",
-                "text": "They do magic tricks."
+                "id": "533d90836be24d6b82fec26301ee294e",
+                "text": "The teacher comes in."
             },
             {
-                "id": "a7113c37458344b5994cd1bec98b0b29",
-                "text": "They make people laugh everywhere."
+                "id": "7c48a3350eff43229635ebc91924f6ef",
+                "text": "The first day of school begins."
             }
         ]
     },
     {
-        "id": "43d6635087da44b4bbdef6475763e983",
-        "title": "A Boat Ride",
+        "id": "b12237bf17c24da192b3e23fb5a10d36",
+        "title": "Babysitting",
         "questions": [
             {
-                "id": "db74c20d05054ab7b2980782d094badf",
-                "text": "She wants to get across the lake."
+                "id": "7eb97df8cfa6485ebaf74d40452b96e2",
+                "text": "Casey wants a new car."
             },
             {
-                "id": "3c62f06930a448479bc2e75869385c24",
-                "text": "There is a sailor in a boat."
+                "id": "a2e7b7524375415dbf8a414241c8fe57",
+                "text": "She decides to babysit."
             },
             {
-                "id": "c6207b1138274aab8b9f1276b6d9631c",
-                "text": "She gives him some money."
+                "id": "b8bd0d00eeb84bd6b896b72103db4305",
+                "text": "She takes care of the child."
             },
             {
-                "id": "50ee29c6b1474ec0a460a3bce79a904e",
-                "text": "She sits in the boat."
+                "id": "b91ac0178da143f9aec58194b707d8ec",
+                "text": "She feeds him lunch."
             },
             {
-                "id": "970259a9de364792b49b084779df1ea3",
-                "text": "The boat reaches the other side."
+                "id": "55ece7484afb4f3dbb9dcb01436c445e",
+                "text": "She reads him a story."
             }
         ]
     },
     {
-        "id": "327b33d312614784a2bcbcb9b54d3d66",
-        "title": "Reading Questions",
+        "id": "e0341df895f94b52bb659d608a4f3be0",
+        "title": "Diving Off a Cliff",
         "questions": [
             {
-                "id": "e573ab70c5664533801df0bd5fe11d6e",
-                "text": "She starts reading a book."
+                "id": "7ba60656e2d043bf8e31771a3d2ee86e",
+                "text": "He was on a ledge of a cliff."
             },
             {
-                "id": "f8323a03072048a19052cc598e5178f7",
-                "text": "The book is hard to understand."
+                "id": "53311f99fcfa434391cba11b1082dad7",
+                "text": "All his friends had jumped."
             },
             {
-                "id": "ecc97966b6224635a0938fb33ad87399",
-                "text": "The words are very advanced."
+                "id": "48b3d66ece064bd6b2f8b60011afdd67",
+                "text": "They were swimming in the water."
             },
             {
-                "id": "89220e0fb173410e9ab4ec9b212a25ec",
-                "text": "She gets a dictionary."
+                "id": "95511855b9134386bd66aeb569ff7f85",
+                "text": "His friends told him not to do it."
             },
             {
-                "id": "d3df56e92b514a0f91552d8207b2d4a9",
-                "text": "She looks up difficult words."
+                "id": "e5ee80678bb445ffb160486905c6aebb",
+                "text": "He safely got in the water."
             }
         ]
     },
     {
-        "id": "da85398a6bb04318a47118c0c504851e",
-        "title": "Over the Bush",
+        "id": "537feadacce34451b922404aa71eb619",
+        "title": "Cloud Watching",
         "questions": [
             {
-                "id": "d354c3e2ac194f28878817ab6ba38f1b",
-                "text": "Robert throws the ball to William."
+                "id": "f0dbe4ac8260481fb79a037d596d297d",
+                "text": "They looked up at the sky."
             },
             {
-                "id": "117f3cc1583949078dd5511a703ae522",
-                "text": "The ball is too high for him to catch."
+                "id": "72843e7a27ed410fa3dc325b2a8decbc",
+                "text": "Christina pointed at a cloud."
             },
             {
-                "id": "0f28c148abf442eb9f0feb150400c466",
-                "text": "The ball goes over the bush."
+                "id": "00f0248111b54caa9c0302510bc22b1c",
+                "text": "Her son looked at the cloud."
             },
             {
-                "id": "0ddfcab33a494521a46e115cc0d5b368",
-                "text": "It is in the neighbor\\'s yard now."
+                "id": "a0649579d9c148c39eb38f90b540edc5",
+                "text": "The cloud looks like a man chasing a deer."
             },
             {
-                "id": "15cc992603404003b1e4d72c9e5b1df8",
-                "text": "The boys knock on the neighbor\\'s door."
+                "id": "5d2bd42095454e349c0d4394250b10d7",
+                "text": "Her son laughed at her."
+            }
+        ]
+    },
+    {
+        "id": "4155c6226f3e4ecda6ba394b2228bd09",
+        "title": "A Lot of People in Line",
+        "questions": [
+            {
+                "id": "bbafb1e2c3cd45b5b8474497d1a7ef98",
+                "text": "They went to an amusement park."
+            },
+            {
+                "id": "f6db19c73b4b4dd6918c5a5f364c6dd0",
+                "text": "There are a lot of rides."
+            },
+            {
+                "id": "b72b4faa542b4336a76d806c832d97a1",
+                "text": "There are a lot of food choices."
+            },
+            {
+                "id": "d46a4b9ed694441eae7ba4f1b237e568",
+                "text": "People are off work and school."
+            },
+            {
+                "id": "2a7c4ad38947414e9cf110eb90e4fa3f",
+                "text": "There are lines for everything."
+            }
+        ]
+    },
+    {
+        "id": "8e46b144b29e458d964045c13d4c53f1",
+        "title": "She Writes an Essay",
+        "questions": [
+            {
+                "id": "a153ba3867944ea1a79454f37e2553fd",
+                "text": "She is taking an English class."
+            },
+            {
+                "id": "f78621cfb99c444fbfbc566258ce9c8c",
+                "text": "She has to write an essay."
+            },
+            {
+                "id": "a2c5330f860249a8bf24ea97cfc30887",
+                "text": "The essay is on penguins."
+            },
+            {
+                "id": "71e764f2a0204aa99bd99f2771bd0aea",
+                "text": "Her first sentence is a riddle."
+            },
+            {
+                "id": "e443960fbdeb4d78bc25d541869f45ae",
+                "text": "Her last sentence is the answer."
+            }
+        ]
+    },
+    {
+        "id": "97779e95a2764ea394940d513fd835d3",
+        "title": "Dictation",
+        "questions": [
+            {
+                "id": "57e4cfff65574bd990582ac6af47288c",
+                "text": "Did the janitor clean the church every day?"
+            },
+            {
+                "id": "69548c3b29bf4ab2911965e22013df0d",
+                "text": "The janitor swept the floor with a broom."
+            },
+            {
+                "id": "0480aa67b8624cdc984ec13de3da274b",
+                "text": "He mopped the floor with a mop."
+            },
+            {
+                "id": "94f395360fb34627a7d0300873df6272",
+                "text": "He vacuumed the carpet with a vacuum cleaner."
+            },
+            {
+                "id": "d5578f57673e440db2f9a13f6c630076",
+                "text": "He cleaned the toilets and the sinks."
+            },
+            {
+                "id": "939778d13256411dbaab5ba650d9013f",
+                "text": "He scrubbed the steps with soapy water."
+            }
+        ]
+    },
+    {
+        "id": "5ba2dbf4eecf40ed8991954daf7175b2",
+        "title": "The Baby Blanket",
+        "questions": [
+            {
+                "id": "5a770af89a4645ab82b1a828b4019ca8",
+                "text": "Betty\\'s son was going to have a baby."
+            },
+            {
+                "id": "0b067507456a46df86f0a7f2a4502bdf",
+                "text": "She couldn\\'t wait for the baby to arrive."
+            },
+            {
+                "id": "5e3326b089fd4b77a07bbce13df8aec7",
+                "text": "She wanted to get the baby something special."
+            },
+            {
+                "id": "1713396bc9cd455e944bb3cb22e3fc4a",
+                "text": "She decided to make a blanket."
+            },
+            {
+                "id": "dc195d49fcd54c6c8d5944d3153e6c5c",
+                "text": "She finished knitting the blanket right before the baby was born."
+            }
+        ]
+    },
+    {
+        "id": "2536b57a4330417a922772301b9f60fa",
+        "title": "Dictation",
+        "questions": [
+            {
+                "id": "2b988f7e3b3c4be7a9db466ecb37c083",
+                "text": "She lived alone in New York City."
+            },
+            {
+                "id": "e3660b80cc9d49cb8868e12142c2df25",
+                "text": "You have your brothers and sisters."
+            },
+            {
+                "id": "14ad3444377a404ab8d200346d65f3da",
+                "text": "I feel so lonely because I have no one."
+            },
+            {
+                "id": "c30556d535344386846de814b750b730",
+                "text": "No one tells me hello or hugs me."
+            },
+            {
+                "id": "b65d89ceb5444d85a0113537bdf0bbbb",
+                "text": "She cried some more and blew her nose."
+            },
+            {
+                "id": "a00f3b43d56442458921192106f34300",
+                "text": "Will my boss let me move there now?"
+            }
+        ]
+    },
+    {
+        "id": "937b8d0f8e054e85a3256ae4947a099d",
+        "title": "Playing a Doctor",
+        "questions": [
+            {
+                "id": "c818f10899d84ed1b46e0b7dc3fb6e7a",
+                "text": "She pretends to be a doctor."
+            },
+            {
+                "id": "f1a2638ecd704388a5ce7e0389983fe0",
+                "text": "She wears a white coat."
+            },
+            {
+                "id": "9d1aa94075e041b7b0518eb83fd55ecc",
+                "text": "Her dad pretends to be a patient."
+            },
+            {
+                "id": "22d6170f2fce48dcb41b73884f4cdcdd",
+                "text": "He says that he keeps coughing."
+            },
+            {
+                "id": "f3c691cb21a74439915101e67f8a1d55",
+                "text": "She tells him to drink a lot of water."
+            }
+        ]
+    },
+    {
+        "id": "897fc380f0b8499eb772c9195018a28a",
+        "title": "Weird Schedules",
+        "questions": [
+            {
+                "id": "0af333fc7a1544709c4e9ee08dd8191b",
+                "text": "He has a strange sleeping schedule."
+            },
+            {
+                "id": "274def6de9284bb89dd81b78d708e163",
+                "text": "He has a weird eating schedule."
+            },
+            {
+                "id": "74a1e35899ce4b068fe9226b60ab192f",
+                "text": "He drove down to the diner."
+            },
+            {
+                "id": "7aa7158a112c4e43ac7afe1ff18c71d5",
+                "text": "He sat on a stool by himself."
+            },
+            {
+                "id": "125b2b086d6c4ed1acbb0fb29df8becc",
+                "text": "He ordered a burger and a milkshake."
+            }
+        ]
+    },
+    {
+        "id": "509c3ba9b44d4c5a88a35ebb65e6a47c",
+        "title": "America Is Diverse",
+        "questions": [
+            {
+                "id": "2b32ed291ff64cf8b20861e76b71da99",
+                "text": "Some states are bigger than other countries."
+            },
+            {
+                "id": "03f13a1eab9b4f1383688f6850bc672e",
+                "text": "Texas is the biggest state in America."
+            },
+            {
+                "id": "5f94cdee20c8454699a70540c0f2d4e0",
+                "text": "People sometimes consider states as countries."
+            },
+            {
+                "id": "e9f24f9db8e445e39cbe47a34b0d778a",
+                "text": "There is a lot to do in Los Angeles."
+            },
+            {
+                "id": "113bf424eec04ba78c1da5619b462730",
+                "text": "Cities can be very different from each other."
+            }
+        ]
+    },
+    {
+        "id": "ec5e0152646c4a2f8d1ed7f865664138",
+        "title": "Parent-teacher Conference",
+        "questions": [
+            {
+                "id": "413da1ba28ba411eb262fb50ce71da2d",
+                "text": "Lisa and her mom go to school."
+            },
+            {
+                "id": "6b90ff46bada47f9aec747a0bb4774dc",
+                "text": "They meet with Lisa\\'s teacher."
+            },
+            {
+                "id": "2aeb84f49b564f46bcd21684bfc82681",
+                "text": "The teacher talks about Lisa\\'s grades."
+            },
+            {
+                "id": "47f9884f8ba048c99af63c81de98a253",
+                "text": "She is doing very well."
+            },
+            {
+                "id": "b3ec7df1025342939060fcab55a384ba",
+                "text": "She is friendly to everyone."
+            }
+        ]
+    },
+    {
+        "id": "68d01609a44149deaf66b1a05d4c02f0",
+        "title": "Embarrassed to Be Seen",
+        "questions": [
+            {
+                "id": "9643d8d606534ee2aec34d7db953f8bc",
+                "text": "He asked her if they could get dinner at his house."
+            },
+            {
+                "id": "f08ae8b6f6294f68a359947a76599334",
+                "text": "Paul was a perfect gentlemen."
+            },
+            {
+                "id": "baf42348bbb44b38ad85e8c2eb6cc633",
+                "text": "He let her sit down first."
+            },
+            {
+                "id": "96742fcc93794ff7a6b5159e1671c2f2",
+                "text": "They shared stories about their childhood."
+            },
+            {
+                "id": "e34825a9723f45eb961bcaef1296d8b3",
+                "text": "Paul said he was going to be in class."
+            },
+            {
+                "id": "88bff00954cb48eaa830e2f3d6720749",
+                "text": "My friends don\\'t have the best opinion of you."
+            },
+            {
+                "id": "cfaea27b25094eabb5d4d4d183cde2c6",
+                "text": "Are you embarrassed to be seen with me?"
+            },
+            {
+                "id": "7939af36312a4dc38ea8f6e10db68e4f",
+                "text": "His friends were shocked and could not believe it."
+            }
+        ]
+    },
+    {
+        "id": "14a4f4df2bb94d8aa1da004173eeeea9",
+        "title": "Dictation",
+        "questions": [
+            {
+                "id": "816431f84464484daca2bf992dcd26d9",
+                "text": "He was bored doing his homework."
+            },
+            {
+                "id": "0a2b13fc4b324f33853da41c65ae6155",
+                "text": "What happens to us when we die?"
+            },
+            {
+                "id": "b890bbc3b91f4aa6863b8c38cfbcc189",
+                "text": "Only good people go to heaven."
+            },
+            {
+                "id": "f13ea6db126144678bc1f53666e7ae99",
+                "text": "He told him to be polite and honest."
+            },
+            {
+                "id": "070aeaffbb66400bbf5799f0e9d56349",
+                "text": "He had to do his homework."
+            }
+        ]
+    },
+    {
+        "id": "9d80ed29b452413385718c1beecf72fc",
+        "title": "The Cool Group Has Money",
+        "questions": [
+            {
+                "id": "779ea4f01574446186d716ef934ee204",
+                "text": "Jen wishes she could get a job."
+            },
+            {
+                "id": "654510aafdcf4a868115fa9ee301dd40",
+                "text": "She wants to be part of the cool group."
+            },
+            {
+                "id": "aeb49855f1204bc291e6b2cb549c0ec9",
+                "text": "The cool group invites Jen on a shopping trip."
+            },
+            {
+                "id": "2e2659f49ccf4253a47c4149682f8811",
+                "text": "All of the girls stand in line to buy something."
+            },
+            {
+                "id": "e860bd60d00a45b9a45e15e64a8a3b42",
+                "text": "She buys the dress, but she plans to return it."
+            }
+        ]
+    },
+    {
+        "id": "0930e86f718f4d89b986b2e39840ec35",
+        "title": "Dictation",
+        "questions": [
+            {
+                "id": "0e20c9df12a64bfdb16d2a773da2351c",
+                "text": "My old cat will die soon."
+            },
+            {
+                "id": "4605e428f97645f091417bc58a399f81",
+                "text": "I will miss him so much."
+            },
+            {
+                "id": "354ac0ae650c4db3bfb32a9b87fa399c",
+                "text": "They will make a brand new cat."
+            },
+            {
+                "id": "227be0f51e2746b88a0306c15a4cc15e",
+                "text": "It will walk and meow like your cat."
+            },
+            {
+                "id": "a8b0dd43a38c4013ab23615f7191c8d7",
+                "text": "Is that a great idea?"
+            }
+        ]
+    },
+    {
+        "id": "e2ecfe52fc494540a881ac765372104c",
+        "title": "Dictation",
+        "questions": [
+            {
+                "id": "bffec092ddd143828f33c3bf1ac230f1",
+                "text": "The lady\\'s dog barked too much."
+            },
+            {
+                "id": "9e90dbd18d404921b92e16afc262bc99",
+                "text": "It barked in the morning and afternoon."
+            },
+            {
+                "id": "87557c001a4b4be59d77605b6651761d",
+                "text": "It barked when he walked past the front door."
+            },
+            {
+                "id": "2c462eddfbc040a5a2355197e71ef4b4",
+                "text": "The landlord never talked to the lady."
+            },
+            {
+                "id": "8c6bbc5a02684ca3992767f465a0de57",
+                "text": "It was a little dog with a big mouth."
+            },
+            {
+                "id": "71c9dacce1d04c0fad723edda8c213aa",
+                "text": "Did he yell at the stupid dog to shut up?"
+            }
+        ]
+    },
+    {
+        "id": "363e54f7134b47c9b53c2e2851759927",
+        "title": "A Nice Teacher",
+        "questions": [
+            {
+                "id": "a2d1ffc2aa7a442fa682e5d2868c0607",
+                "text": "She is a teacher."
+            },
+            {
+                "id": "3500b708be234f208e70e0f08b3e97ab",
+                "text": "She is good at her job."
+            },
+            {
+                "id": "3979b70dab92441a9b05efb0cc6b6bcb",
+                "text": "She works hard."
+            },
+            {
+                "id": "7122adf96ebd44299dcd993191a686e8",
+                "text": "She does not get a lot of money."
+            },
+            {
+                "id": "8f555880e685447bbb49862adaf290b0",
+                "text": "The students love her."
+            }
+        ]
+    },
+    {
+        "id": "8a5cc6395e384918968246ebaa8904bc",
+        "title": "Shopping Addiction",
+        "questions": [
+            {
+                "id": "394e5262590a404aa1b47bc5929efe91",
+                "text": "Michelle just discovered online shopping."
+            },
+            {
+                "id": "58c8d8780b464c44abd156807bd8927c",
+                "text": "She loved how convenient it was."
+            },
+            {
+                "id": "40f963c9fe2c4db3975834fff360fd22",
+                "text": "All she had to do was type and click."
+            },
+            {
+                "id": "5ac57129ca274afa99f578d1c78f1eaa",
+                "text": "Her sister noticed how much she was buying."
+            },
+            {
+                "id": "1784dc2e87554e4db1633eccd645c7f1",
+                "text": "She pulled her out of the room."
+            }
+        ]
+    },
+    {
+        "id": "41ad4ccb85844fc0a6b9f8753cfa520a",
+        "title": "The Big Sale",
+        "questions": [
+            {
+                "id": "af5914cec900430db78b1c6db3464fd5",
+                "text": "Scott\\'s girlfriend loved pretty dresses."
+            },
+            {
+                "id": "ad26ca40d0a4421a9c5443d5767aa803",
+                "text": "Her favorite store was having a big sale."
+            },
+            {
+                "id": "919f79837e52474d815e3357d46b63cf",
+                "text": "Scott wanted to make his girlfriend happy."
+            },
+            {
+                "id": "efd7df81e6904735ac63ec451fa3b766",
+                "text": "He went to the sale to buy her new dresses."
+            },
+            {
+                "id": "bf220275aadd4635bb558b5296ff3bcd",
+                "text": "Some girls were fighting over dresses in the store."
+            }
+        ]
+    },
+    {
+        "id": "1c36dd7fba1f490f9c1555046b2e52bc",
+        "title": "The Man Without a Mustache",
+        "questions": [
+            {
+                "id": "7fe60ff4583741f6962f92cc4e109518",
+                "text": "Clarence thought that he would have a mustache."
+            },
+            {
+                "id": "bb022b94aee64a9f8a4e62fca550e4e6",
+                "text": "He noticed that he wasn\\'t growing facial hair."
+            },
+            {
+                "id": "3470b35ec48b49ae8b930e3b8e1c2653",
+                "text": "He told his dad that he was concerned."
+            },
+            {
+                "id": "a4ec557c47c04244ad3dadb9cb13371a",
+                "text": "He felt that he was still a little boy."
+            },
+            {
+                "id": "6291c483e6164ea381a1f6b6b1bb810c",
+                "text": "It is such a hassle to shave every day."
+            },
+            {
+                "id": "09c36e7371be42a490eb09517ee5c595",
+                "text": "We all want things we will never have."
+            },
+            {
+                "id": "e16668623eb5446c9b8f6f0e4818f041",
+                "text": "I am jealous of your intelligence."
+            },
+            {
+                "id": "6f387c332c1241ba95ff4262cb827ca3",
+                "text": "We all take what we have for granted."
+            }
+        ]
+    },
+    {
+        "id": "4b8985ff55ca4ea98a9a883a6fe78ecd",
+        "title": "Online Stranger",
+        "questions": [
+            {
+                "id": "a5d0a8bcb0364967893dcae342692023",
+                "text": "Lily was playing a computer game."
+            },
+            {
+                "id": "4421050b2fc743c499b56812b53f261b",
+                "text": "The other player had sent Lily a message."
+            },
+            {
+                "id": "049d4153e03e421fa2a7db7f821839b3",
+                "text": "It was from someone she did not know."
+            },
+            {
+                "id": "04d4a399fc3c4b6c915b945c1c4ff96c",
+                "text": "Her mom always said not to talk to strangers."
+            },
+            {
+                "id": "a0ae57b30d2a4b17a86a80aae6ec1a98",
+                "text": "Her dad said every friend was once a stranger."
+            }
+        ]
+    },
+    {
+        "id": "ecac2f7c4fa44626b8c0728aefe74c1c",
+        "title": "Riding a Skateboard",
+        "questions": [
+            {
+                "id": "cfb9a3b17be241a8b3cb58cb4e034705",
+                "text": "Michael wanted to learn something new."
+            },
+            {
+                "id": "0ebb5f846d364a6b9632a989495d3da1",
+                "text": "He wanted to do something adventurous."
+            },
+            {
+                "id": "523c4d6c13204cc89a24f7d1c2906f31",
+                "text": "His friends knew how to ride a skateboard."
+            },
+            {
+                "id": "c02307f9e3fc4266bff04edbae093446",
+                "text": "His parents let him borrow their skateboard."
+            },
+            {
+                "id": "ab7fda24a5084b2589ec58405f67eff3",
+                "text": "He needed more practice to ride a skateboard."
+            }
+        ]
+    },
+    {
+        "id": "837247ad24cc49e7a0de1c496b4011d9",
+        "title": "Dictation",
+        "questions": [
+            {
+                "id": "57da8dbd2255433ba9e96e4c6879d3fb",
+                "text": "He didn\\'t live in any of those houses."
+            },
+            {
+                "id": "5d6166bc9bf141cc85a32eb315552b45",
+                "text": "She knew not to judge a book by its cover."
+            },
+            {
+                "id": "5103cfda06cf4433800f659482a37207",
+                "text": "She watched him in her rear view mirror."
+            },
+            {
+                "id": "b20c9716f96b422f883589939be39f0b",
+                "text": "A red SUV was parked in the driveway."
+            },
+            {
+                "id": "bdde0d3bcc614ed7b3031ed894401c99",
+                "text": "She realized that he had tested the door."
+            },
+            {
+                "id": "7bc4f304616c4a6aae93f56d07a75cbc",
+                "text": "Did they have to catch him with stolen goods?"
+            }
+        ]
+    },
+    {
+        "id": "39a9c2d667aa4de4968bda35a6de4103",
+        "title": "Road Trip",
+        "questions": [
+            {
+                "id": "397b7e717b774682b6489ef1ed9d3434",
+                "text": "It was almost nine o\\'clock."
+            },
+            {
+                "id": "86936c90f1124fb1a54046d80b70e63a",
+                "text": "Everybody put on their seatbelts."
+            },
+            {
+                "id": "c1eb2ca47baf41c59a290d290bef26d4",
+                "text": "The car drove off into the distance."
+            },
+            {
+                "id": "548c7a20b8ae479489f16f2bf288e3d5",
+                "text": "They planned to stay for a week in San Francisco."
+            },
+            {
+                "id": "83eac3d7b7ea4068a0274181899c2e2f",
+                "text": "They laughed and sang along to the radio."
+            }
+        ]
+    },
+    {
+        "id": "5b0f7578ccfc40a79e25df39a97b87c6",
+        "title": "We'll Get Married Eventually",
+        "questions": [
+            {
+                "id": "3b95da9c11984c9db30dcb88ade3d469",
+                "text": "They have been dating for five years."
+            },
+            {
+                "id": "ec297467197f456b96706d8fa73e9427",
+                "text": "They managed to make problems go away."
+            },
+            {
+                "id": "50be5087f0204ff3832e3f608e669b16",
+                "text": "John was going to medical school in Washington."
+            },
+            {
+                "id": "612e52a2342944658e9b6d2c5345aeed",
+                "text": "Betty was planning to stay in California."
+            },
+            {
+                "id": "e6784c12486b45cea2e22163d7f5e423",
+                "text": "He didn\\'t mind changing his plans for Betty."
+            },
+            {
+                "id": "9bc1447977b540f9ba9e8ba84b1263b1",
+                "text": "John has finished medical school."
+            },
+            {
+                "id": "a9a96116971a4f70b5cb84861df0a520",
+                "text": "Betty is an investment banker."
+            },
+            {
+                "id": "55d8abc15d8e43f2a7a3f04ecb427b8e",
+                "text": "John was trying to pay off his medical school debt."
+            }
+        ]
+    },
+    {
+        "id": "a9ac81c7f302488c842f31a2f5614f76",
+        "title": "Pros and Cons",
+        "questions": [
+            {
+                "id": "5f1957880523407d9e55140c6d547670",
+                "text": "Brenda got accepted to an internship in France."
+            },
+            {
+                "id": "1a8b89a45ee44c559d8b46b803eb1bfc",
+                "text": "She also got a job offer at a hospital."
+            },
+            {
+                "id": "ddc030fbc4ff407e83ddaf3b0996ab21",
+                "text": "She made a list of pros and cons."
+            },
+            {
+                "id": "1f40f5cdb45246d6800a3333e899cf20",
+                "text": "Her plane tickets and living accommodation would be paid for."
+            },
+            {
+                "id": "f0c7b99f2a8548ad983f700693cdddaa",
+                "text": "Working at the hospital would be good for her future."
+            }
+        ]
+    },
+    {
+        "id": "0a6c22d9092a4220b71ab2d990ebc0bd",
+        "title": "Started From the Bottom",
+        "questions": [
+            {
+                "id": "4c5f7b835a384f238b15b94a816afcac",
+                "text": "Eileen is a famous fashion designer."
+            },
+            {
+                "id": "7215e0bb4c3d4705ae01a93a35c33dd2",
+                "text": "She was raised by a single mother with five other siblings."
+            },
+            {
+                "id": "40e550fddbf54df59fa960097b45aa49",
+                "text": "There were days when she just ate a slice of bread."
+            },
+            {
+                "id": "2ef61fd8b77e46d996e802a4178af64f",
+                "text": "She worked at a clothing store as a cashier."
+            },
+            {
+                "id": "d47e7248572d40669df7566fa4546525",
+                "text": "Eileen has been on talk shows speaking about her rise to success."
+            }
+        ]
+    },
+    {
+        "id": "97b41ad99e83499a958842634559e90c",
+        "title": "Dictation",
+        "questions": [
+            {
+                "id": "c1ffcec0ef274f7f94a22de7e71eda77",
+                "text": "She likes to hear funny stories."
+            },
+            {
+                "id": "537159d5961f4197839be53e18f9a127",
+                "text": "She told her mom a funny story."
+            },
+            {
+                "id": "5f738721479740d0a2e01cdcee64e6b7",
+                "text": "She waited for her mom to laugh."
+            },
+            {
+                "id": "3225d2b74846407a9add8e655fc32d1e",
+                "text": "Sometimes you think something is funny."
+            },
+            {
+                "id": "163a5744e8a641e6964e35d090f3d1aa",
+                "text": "Did her younger sister laugh?"
+            }
+        ]
+    },
+    {
+        "id": "793f0b563815431984534fea77eac116",
+        "title": "Stage Fright",
+        "questions": [
+            {
+                "id": "b08e6264336e4f40991f0efc71af69c7",
+                "text": "He plays a doctor in the play."
+            },
+            {
+                "id": "c3da9bd0058e4d9e8bd9e75d29b033b6",
+                "text": "He goes on the stage."
+            },
+            {
+                "id": "e16718e341454e25a1260cb78cd12031",
+                "text": "He looks at his audience."
+            },
+            {
+                "id": "3cf13e6f9e1c4627800cbd2b1234761b",
+                "text": "They are all staring at him."
+            },
+            {
+                "id": "cb36e5fadd6f47d0ac5bd06d73f5c041",
+                "text": "He forgets his lines."
+            }
+        ]
+    },
+    {
+        "id": "9aced3080998471ebbf3b43cddaaf801",
+        "title": "The Beach Is Fun",
+        "questions": [
+            {
+                "id": "ae9bca62b7fe48c283ec9e56c69ec66e",
+                "text": "Some people swim in the water."
+            },
+            {
+                "id": "75765b6cd722465a8468557b0e115ac2",
+                "text": "Some people lie down on the sand."
+            },
+            {
+                "id": "56984cd9e01a432e9e781ddf48371a2f",
+                "text": "The kids make sandcastles."
+            },
+            {
+                "id": "d8a460a8528346ae843fc86d700181fa",
+                "text": "The water washes the sandcastles away."
+            },
+            {
+                "id": "3f7e7c31352644a49016509e911ad88c",
+                "text": "The kids make new ones."
+            }
+        ]
+    },
+    {
+        "id": "0874c4d727c8411ab99c65d0b2db1263",
+        "title": "Lost on the First Day",
+        "questions": [
+            {
+                "id": "467bafb79b374b919d4c8ab8085232eb",
+                "text": "It is the first day of high school."
+            },
+            {
+                "id": "e1270e7456004108b3064052cd63d2ec",
+                "text": "She is completely lost."
+            },
+            {
+                "id": "9d8de6f29d454b54b8510ae71c651a6b",
+                "text": "She has never been here before."
+            },
+            {
+                "id": "8233fc6636a944c3abfbd111d54f56bd",
+                "text": "Her first class is Spanish."
+            },
+            {
+                "id": "84a9f0b09d664456b0ee82f787a0b88d",
+                "text": "A staff member gives her a map."
             }
         ]
     },
@@ -2418,184 +2578,200 @@
         ]
     },
     {
-        "id": "359dfc2cfc1544e6816dc16b997bc729",
-        "title": "Snowglobe",
+        "id": "86d1d11358c14b249dcd332e52bcd953",
+        "title": "Sold-out Tickets",
         "questions": [
             {
-                "id": "fbc8c2936c8342d489748205a9a6767b",
-                "text": "Betty opens up her present."
+                "id": "0d1007c0e12948398af431af1f04e1f7",
+                "text": "Her favorite band were performing in her city."
             },
             {
-                "id": "3e0354ef38c046dab99007635141ac06",
-                "text": "It is a snowglobe."
+                "id": "3ecbe89ebec9443a95bbf8b353b7de44",
+                "text": "The tickets went on sale online an hour ago."
             },
             {
-                "id": "bc2d87e8da214279885bef083cb06392",
-                "text": "She looks inside the globe."
+                "id": "b24ddbf288df4ea5867eae1b1e9c3429",
+                "text": "The tickets were all sold out."
             },
             {
-                "id": "f9b8e09d6d724220896e37b4f062bf4a",
-                "text": "It is Santa Claus with a white beard."
+                "id": "2aaf1879667945378e64a6c8d4c33b40",
+                "text": "She was mad at herself for falling asleep."
             },
             {
-                "id": "0e1060b505d34d2498ad210046bd7650",
-                "text": "He has a bag of presents."
+                "id": "bd90c2de046a4c83b8fd1a27a9b3714b",
+                "text": "Her friend told her she bought tickets for her."
             }
         ]
     },
     {
-        "id": "7944b57d1c784965a2be961d37b98df7",
-        "title": "Traffic Lights",
+        "id": "c547790f196148fcbd1d7c6fdd2e6345",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "462217e8756642b8868b3477635510f3",
-                "text": "She gets into her car."
+                "id": "e0f3fd78cde941aabaf3630b6d5d7c19",
+                "text": "Was she sitting in a bar?"
             },
             {
-                "id": "a8a19bdb8a054a12b6cdc555799ef578",
-                "text": "She puts on her seatbelt."
+                "id": "d26a58928bfd479b9da1ba9f60ce6ab0",
+                "text": "She was drinking beer and getting drunk."
             },
             {
-                "id": "d3cec9d16623491b8e7a05963cb8a959",
-                "text": "She drives at a good speed."
+                "id": "a29f5b73166b4e1785e8e45dcfa0b8bc",
+                "text": "She started to talk about a lot of cash."
             },
             {
-                "id": "28991ae1afac482388b51fae66b3fd74",
-                "text": "It is not safe to drive too fast."
+                "id": "baa2bb726d424489a7a06684cfd916fa",
+                "text": "She had thousands of dollars in her purse."
             },
             {
-                "id": "41a331273ed940b5941836510808fa6c",
-                "text": "The traffic light turns red."
+                "id": "81ea54818958487488cfa95810a2e16a",
+                "text": "Everyone in the bar heard her say it."
+            },
+            {
+                "id": "aa31a2a62974462695a14ee521b5e35b",
+                "text": "She waved the money around in the air."
             }
         ]
     },
     {
-        "id": "3fe6979bb175449a9d5eb1c94338812b",
-        "title": "The Beach is Fun",
+        "id": "18db7e04986a4c689f405e75de055654",
+        "title": "Losing Her Cell Phone",
         "questions": [
             {
-                "id": "9c835505214843968687361e3cc8821b",
-                "text": "You can do a lot of things at the beach."
+                "id": "6f102f70697943239f56ab6586905f14",
+                "text": "She reaches into her pocket."
             },
             {
-                "id": "5344e94425404aa295c7e71761666998",
-                "text": "You can lie down on a towel."
+                "id": "78cdf9a4c8ae4938815b00ea071038fc",
+                "text": "Her cell phone is gone."
             },
             {
-                "id": "84af2b49a0854832994978a82d8c7f64",
-                "text": "Remember to put sunblock on."
+                "id": "a13589cc48c84a0aa31e1d66858eee23",
+                "text": "She looks under her bed."
             },
             {
-                "id": "bddf723c3b0d4c0f8026c54c32f3bf99",
-                "text": "You can surf in the water."
+                "id": "99c975cebefe4da49fa1836c8cd11c3f",
+                "text": "She looks under her couch."
             },
             {
-                "id": "ebbc150376e646d9916c3c937e5e3a33",
-                "text": "You can watch the sunset."
+                "id": "df2054c694a04d8a9043519ae50b0793",
+                "text": "She sees her phone above the microwave."
             }
         ]
     },
     {
-        "id": "cfc2de64d04147bfaddbb569c84d8e07",
-        "title": "Wait for the Pie to Cool",
+        "id": "5b93e1e8cfd049c9a7ecfdfb70a439d3",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "df310daa3c36431dac05ca9086742a91",
-                "text": "The oven makes a sound."
+                "id": "66d0445f0e564664a79695cb035ab33c",
+                "text": "Did he drive to the supermarket?"
             },
             {
-                "id": "bd7ea897689145fe8ad807112f8d0c22",
-                "text": "The apple pie must be ready."
+                "id": "b87ac498d0484daf939e4611fb74431c",
+                "text": "He had no food in his refrigerator."
             },
             {
-                "id": "23c32e513b55474c8194f1167817a3ba",
-                "text": "She puts on an oven mitt."
+                "id": "0504af69c2524bacaceac80d9cd587f8",
+                "text": "He needed to buy some food."
             },
             {
-                "id": "cc681713c004457c95dce3c57fe53377",
-                "text": "She takes out the pie."
+                "id": "f32c1a2341ec47c9b3f8d19ba5ac4165",
+                "text": "He walked over to the produce section."
             },
             {
-                "id": "3aa8b7b7145546ca96ca622bedeec643",
-                "text": "She must let it cool."
+                "id": "2a9d8eec7b9a438183b692826e997fdc",
+                "text": "The apples and bananas were on sale."
+            },
+            {
+                "id": "fe7f628dd9ac4e94ab5d0d0fd3e778e0",
+                "text": "The apples were only a dollar a pound."
             }
         ]
     },
     {
-        "id": "0f2961fee89e434994e3f65559b74274",
-        "title": "A Haircut",
+        "id": "68fc42b775ea4601afb79a0f5f6a8a8a",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "1e9a9020b0aa458d872aebdcae04edc5",
-                "text": "She has very long hair."
+                "id": "a662940265be4ec789b6ab786027226f",
+                "text": "A dog was chasing him on his bicycle."
             },
             {
-                "id": "dfeca1b8fab7438791bb264112047213",
-                "text": "She goes to the hair salon."
+                "id": "857f0247c7ca4b1e94595b02dd9370d1",
+                "text": "He tried to kick the dog and lost his balance."
             },
             {
-                "id": "c29de88fe35d45e9b579cb0868be614c",
-                "text": "She reads a magazine."
+                "id": "d21e6b926f134cae8a7bf3b7fa87ab67",
+                "text": "An ambulance took him to the emergency room."
             },
             {
-                "id": "6a8e8e3843ca42699819d1851ae68c79",
-                "text": "The barber calls her name."
+                "id": "853b7d05eeb949f0bd8cfb10767c3dbe",
+                "text": "He was the son of the governor of Texas."
             },
             {
-                "id": "34e47aebeec14f528c4c686e92602baa",
-                "text": "She says she wants her hair to be short."
+                "id": "5ab45f20a51645949deaf2b6455f2490",
+                "text": "They passed a new law to protect children."
+            },
+            {
+                "id": "f6d6ede68ec04f2eb6dcd16a3da9cd38",
+                "text": "Did they have to wear a helmet on a horse?"
             }
         ]
     },
     {
-        "id": "d2b90ffc089147b9a1c22a0ad38c062b",
-        "title": "Going to a Concert",
+        "id": "6c94bd80515b48f6a189678a2abb0408",
+        "title": "Dictation",
         "questions": [
             {
-                "id": "dddc925b4def4f44bc1fe180cef96eb8",
-                "text": "Margaret is at a concert."
+                "id": "218f47d8a5174fcc9a885aba0fa7230a",
+                "text": "Was he talking on the phone?"
             },
             {
-                "id": "5053c2fff8254f63929315d83890bedd",
-                "text": "Her favorite band is on stage."
+                "id": "0396d482671e441b8447577eeff5305c",
+                "text": "It was on the table in the dining room."
             },
             {
-                "id": "ac31497731e74bb786beca74f8eaa671",
-                "text": "Colorful lights start to appear on stage."
+                "id": "f3d88d642b0942b1ad0d47fa50d682f1",
+                "text": "He was talking to his friend about the weather."
             },
             {
-                "id": "9625e3efad0d4882a51b742ef3ec7ac9",
-                "text": "The lead singer sings Margaret\\'s favorite song."
+                "id": "e0460a9626a34e919edfa4698811ea4a",
+                "text": "There was a knock on his door."
             },
             {
-                "id": "d8b35f48d2d7421986ce8aab033f686a",
-                "text": "She puts her hands up in the air."
+                "id": "bd4faa8bfaf6401e942a7e7ce01fe232",
+                "text": "Someone was knocking on his door."
+            },
+            {
+                "id": "1ac5e8fc498a4c3d8cdc0f0d2d13d910",
+                "text": "Someone was ringing his doorbell."
             }
         ]
     },
     {
-        "id": "a0eeadc2d0d24cdab863c9d335c33445",
-        "title": "Different T.V. Shows",
+        "id": "ba75ea241ab94e7a852a37cc00872c3b",
+        "title": "He Likes Her (2)",
         "questions": [
             {
-                "id": "e8021e87bc474711810698c50840d947",
-                "text": "She thinks the news is boring."
+                "id": "623ee1ecce47411b8ecb51667df27734",
+                "text": "She was standing on the sidewalk."
             },
             {
-                "id": "97658f8f8b6f4483b92eb415c666a425",
-                "text": "She goes to the next channel."
+                "id": "7294bc92f9294c1485c859362c7ceafe",
+                "text": "He stood in front of her."
             },
             {
-                "id": "13ee36deb129464283200ca8dd93072d",
-                "text": "A cartoon show is playing."
+                "id": "39434fd3cf4840afba5efebf1e32d10c",
+                "text": "She walked past him."
             },
             {
-                "id": "1a48cf3c3cec4a5789053b2a2f868f52",
-                "text": "It is about an elephant and a mouse."
+                "id": "987fc2b960744d679fc0f8120cdbb2fd",
+                "text": "He said he always liked her."
             },
             {
-                "id": "1aefe496d289477ca7bef536f553e901",
-                "text": "She puts the remote control down."
+                "id": "b52854f1e65148c490ff2e3273a3e20d",
+                "text": "She gave him her phone number."
             }
         ]
     }

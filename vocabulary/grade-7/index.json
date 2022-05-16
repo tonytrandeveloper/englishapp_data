@@ -8,13 +8,13 @@
                 "word": "go shopping",
                 "pos": "undefine",
                 "vi": "mua sắm",
-                "phonetic": "/ ˈgoʊ ˈʃɑːpɪŋ/",
+                "phonetic": "ˈgoʊ ˈʃɑːpɪŋ",
                 "example": {
                     "en": "I'll go shopping this afternoon",
                     "vi": "Tôi sẽ đi mua sắm chiều nay"
                 },
                 "definition": {
-                    "en": "to go to and buy things from shops",
+                    "en": "to go to and buy things from shops",
                     "vi": "đi đến và mua những thứ từ cửa hàng"
                 }
             },
@@ -23,7 +23,7 @@
                 "word": "cooking",
                 "pos": "noun",
                 "vi": "nấu ăn",
-                "phonetic": "/ˈkʊkɪŋ/",
+                "phonetic": "ˈkʊkɪŋ",
                 "example": {
                     "en": "Cooking can be a great art",
                     "vi": "Nấu ăn có thể là một nghệ thuật tuyệt vời"
@@ -38,7 +38,7 @@
                 "word": "cycling",
                 "pos": "noun",
                 "vi": "đạp xe",
-                "phonetic": "/ˈsaɪklɪŋ/",
+                "phonetic": "ˈsaɪklɪŋ",
                 "example": {
                     "en": "She took up cycling and won five US national titles",
                     "vi": "Cô đã tham gia đua xe đạp và giành được năm danh hiệu quốc gia Hoa Kỳ"
@@ -53,7 +53,7 @@
                 "word": "walking",
                 "pos": "noun",
                 "vi": "đi bộ",
-                "phonetic": "/ˈwɑː.kɪŋ/",
+                "phonetic": "ˈwɑː.kɪŋ",
                 "example": {
                     "en": "We're going walking in the park after work.",
                     "vi": "Chúng tôi sẽ đi dạo trong công viên sau giờ làm việc."
@@ -68,7 +68,7 @@
                 "word": "painting",
                 "pos": "noun",
                 "vi": "vẽ tranh",
-                "phonetic": "/ˈpeɪn·tɪŋ/",
+                "phonetic": "ˈpeɪn·tɪŋ",
                 "example": {
                     "en": "In later years, he took up painting as a hobby.",
                     "vi": "Trong những năm sau đó, ông đã xem hội họa như một sở thích."
@@ -83,7 +83,7 @@
                 "word": "gardening",
                 "pos": "noun",
                 "vi": "làm vườn",
-                "phonetic": "/ˈɡɑrd·nɪŋ, ˈɡɑr·dən·ɪŋ/",
+                "phonetic": "ˈɡɑrd·nɪŋ, ˈɡɑr·dən·ɪŋ",
                 "example": {
                     "en": "I don’t do very much gardening.",
                     "vi": "Tôi không làm vườn nhiều."
@@ -113,7 +113,7 @@
                 "word": "hang out with friends",
                 "pos": "verb",
                 "vi": "đi chơi cùng bạn bè",
-                "phonetic": "/ hæŋ ɑʊt wɪθ, wɪð frend/",
+                "phonetic": "hæŋ ɑʊt wɪθ, wɪð frend",
                 "example": {
                     "en": "I always hang out with friends on Saturday",
                     "vi": "Tôi luôn đi chơi với bạn bè vào thứ bảy"
@@ -128,7 +128,7 @@
                 "word": "chat with friends",
                 "pos": "verb",
                 "vi": "tán gẫu bạn bè",
-                "phonetic": "/f&#633;&#603;ndz/",
+                "phonetic": "ʧæt wɪð frɛndz",
                 "example": {
                     "en": "I often chat with my friends online",
                     "vi": "Tôi thường trò chuyện với bạn bè của tôi trực tuyến"
@@ -158,7 +158,7 @@
                 "word": "collect the stamps",
                 "pos": "verb",
                 "vi": "sưu tầm tem",
-                "phonetic": "kəˈlekt ðə, ði S T AE M P S",
+                "phonetic": "kəˈlɛkt ðə stæmps",
                 "example": {
                     "en": "I always collect the stamps whenever I visit a new place",
                     "vi": "Tôi luôn thu thập tem bất cứ khi nào tôi đến thăm một địa điểm mới"
@@ -248,7 +248,7 @@
                 "word": "play the guitar",
                 "pos": "verb",
                 "vi": "chơi đàn ghita",
-                "phonetic": "/ pleɪ ðə, ði ɡɪˈtɑr/",
+                "phonetic": "pleɪ ðə, ði ɡɪˈtɑr",
                 "example": {
                     "en": "How do you play the guitar?",
                     "vi": "Bạn chơi guitar như thế nào?"
@@ -263,7 +263,7 @@
                 "word": "play the violin",
                 "pos": "verb",
                 "vi": "chơi đàn violin",
-                "phonetic": "/ pleɪ ðə, ði ˌvɑɪ·əˈlɪn/",
+                "phonetic": "pleɪ ðə, ði ˌvɑɪ·əˈlɪn",
                 "example": {
                     "en": "How do you play the violin ?",
                     "vi": "Bạn chơi violin như thế nào?"
@@ -278,7 +278,7 @@
                 "word": "going camping",
                 "pos": "verb",
                 "vi": "cắm trại",
-                "phonetic": "ˈɡoʊ·ɪŋ K AE M P IH NG",
+                "phonetic": "ˈgoʊɪŋ ˈkæmpɪŋ",
                 "example": {
                     "en": "We're used to going camping in Spain when I was a child",
                     "vi": "Chúng tôi đã từng đi cắm trại ở Tây Ban Nha khi tôi còn nhỏ"
@@ -308,7 +308,7 @@
                 "word": "bird-watching",
                 "pos": "noun",
                 "vi": "ngắm chim",
-                "phonetic": "",
+                "phonetic": "bɜrd-ˈwɑʧɪŋ",
                 "example": {
                     "en": "Some birdwatchers study seabirds only occasionally, when on the coast as part of a general bird-watching hobby.",
                     "vi": "Một số người quan sát chim chỉ thỉnh thoảng nghiên cứu về các loài chim biển khi ở trên bờ biển như một phần của sở thích ngắm chim nói chung."
@@ -323,7 +323,7 @@
                 "word": "arranging flowers",
                 "pos": "noun",
                 "vi": "cắm hoa",
-                "phonetic": "AA R R AA N G IY N G F L AW ER Z",
+                "phonetic": "əˈreɪnʤɪŋ ˈflaʊərz",
                 "example": {
                     "en": "She runs courses in arranging flowers",
                     "vi": "Cô ấy điều hành các khóa học cắm hoa"
@@ -344,7 +344,7 @@
                 "word": "sunburn",
                 "pos": "noun",
                 "vi": "cháy nắng",
-                "phonetic": "/ˈsʌnbərn/",
+                "phonetic": "ˈsʌnbərn",
                 "example": {
                     "en": "A long day at the beach gave him a bad sunburn.",
                     "vi": "Một ngày dài ở bãi biển khiến anh bị cháy nắng."
@@ -359,7 +359,7 @@
                 "word": "put on weight",
                 "pos": "phrase",
                 "vi": "tăng cân",
-                "phonetic": "/pʊt ɔn weɪt/",
+                "phonetic": "pʊt ɔn weɪt",
                 "example": {
                     "en": "I keep putting on weight, even though I've been cutting back on the junk food",
                     "vi": "Tôi tiếp tục tăng cân, mặc dù tôi đã cắt giảm đồ ăn vặt"
@@ -374,7 +374,7 @@
                 "word": "pay attention",
                 "pos": "phrase",
                 "vi": "gây chú ý",
-                "phonetic": "/peɪ əˈtɛnʃn/",
+                "phonetic": "peɪ əˈtɛnʃn",
                 "example": {
                     "en": "You weren't paying attention to what I was saying",
                     "vi": "Bạn đã không chú ý đến những gì tôi đang nói"
@@ -389,7 +389,7 @@
                 "word": "calorie",
                 "pos": "noun",
                 "vi": "ca lo",
-                "phonetic": "/ˈkæləri/",
+                "phonetic": "ˈkæləri",
                 "example": {
                     "en": "There are about 50 calories in an apple",
                     "vi": "Có khoảng 50 calo trong một quả táo"
@@ -404,7 +404,7 @@
                 "word": "concentrate",
                 "pos": "verb",
                 "vi": "tập trung",
-                "phonetic": "/ˈkɑnsnˌtreɪt/",
+                "phonetic": "ˈkɑnsnˌtreɪt",
                 "example": {
                     "en": "These groups concentrate in the inner cities",
                     "vi": "Các nhóm này tập trung ở các khu vực nội thành"
@@ -419,7 +419,7 @@
                 "word": "depression",
                 "pos": "noun",
                 "vi": "chán nản, buồn rầu",
-                "phonetic": "/dɪˈprɛʃn/",
+                "phonetic": "dɪˈprɛʃn",
                 "example": {
                     "en": "I was overwhelmed by feelings of depression.",
                     "vi": "Tôi bị choáng ngợp bởi cảm giác chán nản."
@@ -434,13 +434,13 @@
                 "word": "diet",
                 "pos": "noun",
                 "vi": "chế độ ăn kiêng",
-                "phonetic": "/ˈdaɪət/",
+                "phonetic": "ˈdaɪət",
                 "example": {
                     "en": "He has high blood pressure and must stick to a low-salt diet",
                     "vi": "Anh ấy bị huyết áp cao và phải ăn kiêng ít muối"
                 },
                 "definition": {
-                    "en": "the food and drink usually eaten or drunk by a person or group",
+                    "en": "the food and drink usually eaten or drunk by a person or group",
                     "vi": "thức ăn và đồ uống mà một người hoặc một nhóm người thường ăn hoặc uống"
                 }
             },
@@ -449,14 +449,14 @@
                 "word": "expert",
                 "pos": "noun",
                 "vi": "chuyên gia",
-                "phonetic": "/ˈɛkspərt/",
+                "phonetic": "ˈɛkspərt",
                 "example": {
                     "en": "My mother is an expert at dress-making.",
                     "vi": "Mẹ tôi là một chuyên gia về trang phục."
                 },
                 "definition": {
                     "en": "a person with special knowledge, skill, or training in something",
-                    "vi": "một người có kiến ​​thức, kỹ năng đặc biệt hoặc được đào tạo về một thứ gì đó"
+                    "vi": "một người có kiến thức, kỹ năng đặc biệt hoặc được đào tạo về một thứ gì đó"
                 }
             },
             {
@@ -464,7 +464,7 @@
                 "word": "itchy",
                 "pos": "adjective",
                 "vi": "ngứa ngáy",
-                "phonetic": "/'ɪtʃi/",
+                "phonetic": "'ɪtʃi",
                 "example": {
                     "en": "He had an itchy toe from the mosquito bite",
                     "vi": "Anh ấy bị ngứa ngón chân do muỗi đốt"
@@ -479,7 +479,7 @@
                 "word": "junk food",
                 "pos": "noun",
                 "vi": "đồ ăn nhanh",
-                "phonetic": "/dʒʌŋk fud/",
+                "phonetic": "dʒʌŋk fud",
                 "example": {
                     "en": "They have lived lives of junk food and computer games.",
                     "vi": "Họ đã sống cuộc sống của đồ ăn vặt và trò chơi máy tính."
@@ -494,7 +494,7 @@
                 "word": "sickness",
                 "pos": "noun",
                 "vi": "ốm, bệnh",
-                "phonetic": "/'sɪknɛs/",
+                "phonetic": "'sɪknɛs",
                 "example": {
                     "en": "No one escapes occasional sickness.",
                     "vi": "Không ai thoát khỏi bệnh tật thỉnh thoảng."
@@ -509,7 +509,7 @@
                 "word": "independent",
                 "pos": "adjective",
                 "vi": "độc lập",
-                "phonetic": "/ˌɪn·dɪˈpen·dənt/",
+                "phonetic": "ˌɪn·dɪˈpen·dənt",
                 "example": {
                     "en": "They all made the same comment, quite independent of each other",
                     "vi": "Tất cả đều đưa ra nhận xét giống nhau, khá độc lập với nhau"
@@ -524,10 +524,10 @@
                 "word": "essential",
                 "pos": "adjective",
                 "vi": "cần thiết, thiết yếu",
-                "phonetic": "/ɪˈsen·ʃəl/",
+                "phonetic": "ɪˈsen·ʃəl",
                 "example": {
                     "en": "A knowledge of Spanish is essential for this job.",
-                    "vi": "Một kiến ​​thức về tiếng Tây Ban Nha là điều cần thiết cho công việc này."
+                    "vi": "Một kiến thức về tiếng Tây Ban Nha là điều cần thiết cho công việc này."
                 },
                 "definition": {
                     "en": "extremely important or necessary",
@@ -539,7 +539,7 @@
                 "word": "allergy",
                 "pos": "noun",
                 "vi": "dị ứng",
-                "phonetic": "/ˈæl·ər·dʒi/",
+                "phonetic": "ˈæl·ər·dʒi",
                 "example": {
                     "en": "Your rash is caused by an allergy to peanuts.",
                     "vi": "Phát ban của bạn là do dị ứng với đậu phộng."
@@ -554,7 +554,7 @@
                 "word": "vegetarian",
                 "pos": "noun",
                 "vi": "người ăn chay",
-                "phonetic": "/ˌvedʒ·ɪˈteər·i·ən/",
+                "phonetic": "ˌvedʒ·ɪˈteər·i·ən",
                 "example": {
                     "en": "Some vegetarians avoid eggs and dairy products as well as meat.",
                     "vi": "Một số người ăn chay tránh trứng và các sản phẩm từ sữa cũng như thịt."
@@ -569,7 +569,7 @@
                 "word": "obesity",
                 "pos": "noun",
                 "vi": "béo phì",
-                "phonetic": "/oʊˈbiː.sə.t̬i/",
+                "phonetic": "oʊˈbiː.sə.t̬i",
                 "example": {
                     "en": "The National Institute of Health is discussing ways of tackling the problem of childhood obesity.",
                     "vi": "Viện Y tế Quốc gia đang thảo luận về cách giải quyết vấn đề béo phì ở trẻ em."
@@ -599,7 +599,7 @@
                 "word": "cough",
                 "pos": "noun",
                 "vi": "cơn ho",
-                "phonetic": "/ kɔf/",
+                "phonetic": "kɔf",
                 "example": {
                     "en": "Emily has a very bad cough",
                     "vi": "Emily bị ho rất nặng"
@@ -659,7 +659,7 @@
                 "word": "compound",
                 "pos": "noun",
                 "vi": "hợp chất, hợp tố",
-                "phonetic": "/ ˈkɑm·pɑʊnd/",
+                "phonetic": "ˈkɑm·pɑʊnd",
                 "example": {
                     "en": "Salt is a compound of sodium and chlorine.",
                     "vi": "Muối là hợp chất của natri và clo."
@@ -680,7 +680,7 @@
                 "word": "provide",
                 "pos": "verb",
                 "vi": "cung cấp",
-                "phonetic": "/prəˈvaɪd/",
+                "phonetic": "prəˈvaɪd",
                 "example": {
                     "en": "The charity aims to provide assistance to people in need.",
                     "vi": "Tổ chức từ thiện nhằm hỗ trợ những người cần giúp đỡ."
@@ -695,13 +695,13 @@
                 "word": "service",
                 "pos": "noun",
                 "vi": "dịch vụ",
-                "phonetic": "/ˈsərvəs/",
+                "phonetic": "ˈsərvəs",
                 "example": {
                     "en": "There is a very limited bus service on Sundays.",
                     "vi": "Dịch vụ xe buýt rất hạn chế vào Chủ Nhật."
                 },
                 "definition": {
-                    "en": "a system or organization that provides for a basic public need",
+                    "en": "a system or organization that provides for a basic public need",
                     "vi": "một hệ thống hoặc tổ chức cung cấp nhu cầu công cộng cơ bản"
                 }
             },
@@ -710,7 +710,7 @@
                 "word": "benefit",
                 "pos": "noun",
                 "vi": "lợi ích",
-                "phonetic": "/ˈbɛnəfɪt/",
+                "phonetic": "ˈbɛnəfɪt",
                 "example": {
                     "en": "The discovery of oil brought many benefits to the town.",
                     "vi": "Việc phát hiện ra dầu đã mang lại nhiều lợi ích cho thị trấn."
@@ -725,7 +725,7 @@
                 "word": "traffic jam",
                 "pos": "noun",
                 "vi": "ùn tắc giao thông",
-                "phonetic": "/ˈtræfɪk dʒæm/",
+                "phonetic": "ˈtræfɪk dʒæm",
                 "example": {
                     "en": "I was stuck in a traffic jam for an hour yesterday.",
                     "vi": "Tôi đã bị kẹt xe trong một giờ ngày hôm qua."
@@ -740,7 +740,7 @@
                 "word": "youth",
                 "pos": "noun",
                 "vi": "tuổi trẻ",
-                "phonetic": "/juθ/",
+                "phonetic": "juθ",
                 "example": {
                     "en": "I was a good football player in my youth.",
                     "vi": "Tôi là một cầu thủ bóng đá giỏi thời trẻ."
@@ -755,7 +755,7 @@
                 "word": "blood",
                 "pos": "noun",
                 "vi": "máu",
-                "phonetic": "/blʌd/",
+                "phonetic": "blʌd",
                 "example": {
                     "en": "Blood carries oxygen and nutrients to the tissues and carries away waste products",
                     "vi": "Máu mang oxy và chất dinh dưỡng đến các mô và mang đi các chất cặn bã"
@@ -770,7 +770,7 @@
                 "word": "clothes",
                 "pos": "noun",
                 "vi": "quần áo",
-                "phonetic": "/kloʊðz/",
+                "phonetic": "kloʊðz",
                 "example": {
                     "en": "He always bought his clothes at the same store",
                     "vi": "Anh ấy luôn mua quần áo của mình ở cùng một cửa hàng"
@@ -785,7 +785,7 @@
                 "word": "community",
                 "pos": "noun",
                 "vi": "cộng đồng",
-                "phonetic": "/kəˈmjunət̮i/",
+                "phonetic": "kəˈmjunət̮i",
                 "example": {
                     "en": "He's well known in the local community",
                     "vi": "Anh ấy nổi tiếng trong cộng đồng địa phương"
@@ -800,7 +800,7 @@
                 "word": "community service",
                 "pos": "noun",
                 "vi": "dịch vụ công cộng",
-                "phonetic": "/tʃɑrdʒ/",
+                "phonetic": "tʃɑrdʒ",
                 "example": {
                     "en": "The judge ordered him to pay a fine and perform 100 hours of community service",
                     "vi": "Thẩm phán ra lệnh phạt anh ta và thực hiện 100 giờ phục vụ cộng đồng"
@@ -815,13 +815,13 @@
                 "word": "effort",
                 "pos": "noun",
                 "vi": "sự nỗ lực",
-                "phonetic": "/ˈɛfərt/",
+                "phonetic": "ˈɛfərt",
                 "example": {
                     "en": "You can't expect to have any friends if you don't make the effort with people.",
                     "vi": "Bạn không thể mong đợi có bất kỳ người bạn nào nếu bạn không nỗ lực với mọi người."
                 },
                 "definition": {
-                    "en": "an attempt to do something that is difficult or that involves hard work",
+                    "en": "an attempt to do something that is difficult or that involves hard work",
                     "vi": "nỗ lực để làm điều gì đó khó khăn hoặc liên quan đến công việc khó khăn"
                 }
             },
@@ -830,7 +830,7 @@
                 "word": "fund",
                 "pos": "noun",
                 "vi": "quỹ",
-                "phonetic": "/fʌnd/",
+                "phonetic": "fʌnd",
                 "example": {
                     "en": "The government funds basic research in many areas",
                     "vi": "Chính phủ tài trợ cho nghiên cứu cơ bản trong nhiều lĩnh vực"
@@ -845,13 +845,13 @@
                 "word": "nursing home",
                 "pos": "noun",
                 "vi": "viện dưỡng lão",
-                "phonetic": "/ˈnərsɪŋ hoʊm/",
+                "phonetic": "ˈnərsɪŋ hoʊm",
                 "example": {
                     "en": "He died in a nursing home at the age of 87",
                     "vi": "Ông qua đời trong một viện dưỡng lão ở tuổi 87"
                 },
                 "definition": {
-                    "en": "a ​place where very ​old ​people who are ​ill ​live and ​receive ​medical ​treatment and ​care",
+                    "en": "a place where very old people who are ill live and receive medical treatment and care",
                     "vi": "nơi có những người già đau yếu sinh sống và được chăm sóc y tế"
                 }
             },
@@ -860,7 +860,7 @@
                 "word": "book",
                 "pos": "noun",
                 "vi": "sách",
-                "phonetic": "/bʊk/",
+                "phonetic": "bʊk",
                 "example": {
                     "en": "Have you read any good books recently?",
                     "vi": "Gần đây bạn có đọc cuốn sách nào hay không?"
@@ -875,7 +875,7 @@
                 "word": "member",
                 "pos": "noun",
                 "vi": "thành viên",
-                "phonetic": "/ˈmem·bər/",
+                "phonetic": "ˈmem·bər",
                 "example": {
                     "en": "The lion is a member of the cat family.",
                     "vi": "Sư tử là một thành viên của họ nhà mèo."
@@ -890,7 +890,7 @@
                 "word": "activity",
                 "pos": "noun",
                 "vi": "hoạt động",
-                "phonetic": "/ækˈtɪv·ɪ·t̬i/",
+                "phonetic": "ækˈtɪv·ɪ·t̬i",
                 "example": {
                     "en": "There were lots of activities for children at the museum.",
                     "vi": "Có rất nhiều hoạt động dành cho trẻ em tại bảo tàng."
@@ -905,7 +905,7 @@
                 "word": "volunteer",
                 "pos": "noun",
                 "vi": "tình nguyện viên",
-                "phonetic": "/ˌvɑl·ənˈtɪr/",
+                "phonetic": "ˌvɑl·ənˈtɪr",
                 "example": {
                     "en": "The charity relies on volunteers to run the office and answer the phones.",
                     "vi": "Tổ chức từ thiện dựa vào các tình nguyện viên để điều hành văn phòng và trả lời điện thoại."
@@ -920,7 +920,7 @@
                 "word": "donate",
                 "pos": "verb",
                 "vi": "hiến tặng, đóng góp",
-                "phonetic": "/ˈdoʊ·neɪt, doʊˈneɪt/",
+                "phonetic": "ˈdoʊ·neɪt, doʊˈneɪt",
                 "example": {
                     "en": "Some businesses have agreed to donate computers to schools.",
                     "vi": "Một số doanh nghiệp đã đồng ý tặng máy tính cho trường học."
@@ -935,7 +935,7 @@
                 "word": "charity",
                 "pos": "noun",
                 "vi": "hoạt động từ thiện",
-                "phonetic": "/ˈtʃær·ɪ·t̬i/",
+                "phonetic": "ˈtʃær·ɪ·t̬i",
                 "example": {
                     "en": "She does a lot of work for charity.",
                     "vi": "Cô ấy làm rất nhiều việc từ thiện."
@@ -950,7 +950,7 @@
                 "word": "helped",
                 "pos": "verb",
                 "vi": "giúp đỡ",
-                "phonetic": "/h&#603;&#621;pt/",
+                "phonetic": "hɛlpt",
                 "example": {
                     "en": "The boy helped the old woman cross the street.",
                     "vi": "Cậu bé giúp bà lão qua đường."
@@ -965,7 +965,7 @@
                 "word": "plant trees",
                 "pos": "verb",
                 "vi": "trồng cây",
-                "phonetic": "plænt T R IY Z",
+                "phonetic": "plænt triz",
                 "example": {
                     "en": "We plant trees and bushes in our new garden.",
                     "vi": "Chúng tôi trồng cây và bụi rậm trong khu vườn mới của chúng tôi."
@@ -1070,7 +1070,7 @@
                 "word": "start a clean-up campaign",
                 "pos": "verb",
                 "vi": "phát động một chiến dịch làm sạch",
-                "phonetic": "/ stɑrt ə kæmˈpeɪn/",
+                "phonetic": "stɑrt ə kæmˈpeɪn",
                 "example": {
                     "en": "Let's start a clean-up campaign",
                     "vi": "Hãy bắt đầu một chiến dịch làm sạch"
@@ -1085,7 +1085,7 @@
                 "word": "raise people's awareness",
                 "pos": "verb",
                 "vi": "nâng cao ý thức của mọi người",
-                "phonetic": "reɪz P IY P AH L Z əˈwer.nəs",
+                "phonetic": "reɪz ˈpipəlz əˈwɛrnəs",
                 "example": {
                     "en": "The aim of the festival is to raise people's awareness of Hindu culture and traditions.",
                     "vi": "Mục đích của lễ hội là nâng cao nhận thức của mọi người về văn hóa và truyền thống của người Hindu."
@@ -1115,7 +1115,7 @@
                 "word": "non-profit organization",
                 "pos": "noun",
                 "vi": "tổ chức phi lợi nhuận",
-                "phonetic": "/ ˌnɑːnˈprɑː.fɪt ˌɔr·ɡə·nəˈzeɪ·ʃən/",
+                "phonetic": "ˌnɑːnˈprɑː.fɪt ˌɔr·ɡə·nəˈzeɪ·ʃən",
                 "example": {
                     "en": "We can help by making donations to non-profit organizations  that serve the homeless",
                     "vi": "Chúng tôi có thể giúp đỡ bằng cách quyên góp cho các tổ chức phi lợi nhuận phục vụ người vô gia cư"
@@ -1130,7 +1130,7 @@
                 "word": "disabled people",
                 "pos": "noun",
                 "vi": "người khuyết tật",
-                "phonetic": "/ dɪsˈeɪ·bəld ˈpi·pəl/",
+                "phonetic": "dɪsˈeɪ·bəld ˈpi·pəl",
                 "example": {
                     "en": "It is often very difficult for disabled people to find jobs",
                     "vi": "Người tàn tật thường rất khó tìm được việc làm"
@@ -1151,7 +1151,7 @@
                 "word": "sculptor",
                 "pos": "noun",
                 "vi": "nhà điêu khắc",
-                "phonetic": "/ˈskʌlptər/",
+                "phonetic": "ˈskʌlptər",
                 "example": {
                     "en": "Mr. Morton is a sculptor who now specializes in restoring carrousels.",
                     "vi": "Ông Morton là một nhà điêu khắc hiện chuyên phục hồi băng chuyền."
@@ -1166,7 +1166,7 @@
                 "word": "actor",
                 "pos": "noun",
                 "vi": "diễn viên nam",
-                "phonetic": "/ˈæktər/",
+                "phonetic": "ˈæktər",
                 "example": {
                     "en": "He's a principal actor in this affair",
                     "vi": "Anh ấy là diễn viên chính trong cuộc tình này"
@@ -1181,13 +1181,13 @@
                 "word": "celebrity",
                 "pos": "noun",
                 "vi": "người nổi tiếng",
-                "phonetic": "/səˈlɛbrət̮i/",
+                "phonetic": "səˈlɛbrət̮i",
                 "example": {
                     "en": "He was a baseball celebrity",
                     "vi": "Anh ấy là một người nổi tiếng về bóng chày"
                 },
                 "definition": {
-                    "en": "someone who is famous",
+                    "en": "someone who is famous",
                     "vi": "một người nổi tiếng"
                 }
             },
@@ -1196,7 +1196,7 @@
                 "word": "concert",
                 "pos": "noun",
                 "vi": "buổi hòa nhạc",
-                "phonetic": "/ˈkɑnsərt/",
+                "phonetic": "ˈkɑnsərt",
                 "example": {
                     "en": "I'm playing in a concert at the church hall next weekend",
                     "vi": "Tôi sẽ chơi trong một buổi hòa nhạc tại hội trường nhà thờ vào cuối tuần tới"
@@ -1211,7 +1211,7 @@
                 "word": "country music",
                 "pos": "adjective",
                 "vi": "nhạc đồng quê",
-                "phonetic": "/ˈkʌntri ˈmjuzɪk/",
+                "phonetic": "ˈkʌntri ˈmjuzɪk",
                 "example": {
                     "en": "Loudspeakers blared country music.",
                     "vi": "Loa phát nhạc đồng quê."
@@ -1226,7 +1226,7 @@
                 "word": "curriculum",
                 "pos": "noun",
                 "vi": "chương trình học",
-                "phonetic": "/kəˈrɪkjələm/",
+                "phonetic": "kəˈrɪkjələm",
                 "example": {
                     "en": "The Romans aren't on this year's curriculum",
                     "vi": "Người La Mã không có trong chương trình giảng dạy năm nay"
@@ -1241,13 +1241,13 @@
                 "word": "drum",
                 "pos": "noun",
                 "vi": "cái trống",
-                "phonetic": "/drʌm/",
+                "phonetic": "drʌm",
                 "example": {
                     "en": "He could hear the drums before he heard the fifes",
                     "vi": "Anh ta có thể nghe thấy tiếng trống trước khi anh ta nghe thấy năm năm mươi"
                 },
                 "definition": {
-                    "en": "a musical instrument consisting of a tight skin stretched over around frame that you hit with your hands or a stick",
+                    "en": "a musical instrument consisting of a tight skin stretched over around frame that you hit with your hands or a stick",
                     "vi": "một nhạc cụ bao gồm một lớp da căng ra xung quanh khung mà bạn đánh bằng tay hoặc gậy"
                 }
             },
@@ -1256,13 +1256,13 @@
                 "word": "guitar",
                 "pos": "noun",
                 "vi": "đàn ghita",
-                "phonetic": "/ɡɪˈtɑr/",
+                "phonetic": "ɡɪˈtɑr",
                 "example": {
                     "en": "Jean plays the guitar and her brother is on percussion",
                     "vi": "Jean chơi guitar và anh trai cô ấy chơi bộ gõ"
                 },
                 "definition": {
-                    "en": "a musical instrument, usually made of wood, with six strings and a longneck, played with the fingers or a plectrum",
+                    "en": "a musical instrument, usually made of wood, with six strings and a longneck, played with the fingers or a plectrum",
                     "vi": "một nhạc cụ, thường làm bằng gỗ, có sáu dây và một thanh dài, chơi bằng các ngón tay hoặc miếng gảy."
                 }
             },
@@ -1271,7 +1271,7 @@
                 "word": "musician",
                 "pos": "noun",
                 "vi": "nhạc sĩ",
-                "phonetic": "/mjuˈzɪʃn/",
+                "phonetic": "mjuˈzɪʃn",
                 "example": {
                     "en": "She was a prodigious musician",
                     "vi": "Cô ấy là một nhạc sĩ phi thường"
@@ -1286,13 +1286,13 @@
                 "word": "opera",
                 "pos": "noun",
                 "vi": "nhạc kịch",
-                "phonetic": "/ˈɑpərə/",
+                "phonetic": "ˈɑpərə",
                 "example": {
                     "en": "I've never been a huge fan of opera.",
                     "vi": "Tôi chưa bao giờ là một fan hâm mộ lớn của opera."
                 },
                 "definition": {
-                    "en": "a musical play in which most of the words are sung, or plays and music of this type",
+                    "en": "a musical play in which most of the words are sung, or plays and music of this type",
                     "vi": "một vở kịch âm nhạc trong đó hầu hết các từ được hát hoặc các vở kịch và âm nhạc thuộc loại này"
                 }
             },
@@ -1301,7 +1301,7 @@
                 "word": "audience",
                 "pos": "noun",
                 "vi": "khán giả",
-                "phonetic": "/ˈɔdiəns/",
+                "phonetic": "ˈɔdiəns",
                 "example": {
                     "en": "The concert attracted a large audience.",
                     "vi": "Buổi biểu diễn đã thu hút một lượng lớn khán giả."
@@ -1316,7 +1316,7 @@
                 "word": "camera",
                 "pos": "noun",
                 "vi": "máy ảnh",
-                "phonetic": "/ˈkæm·rə/",
+                "phonetic": "ˈkæm·rə",
                 "example": {
                     "en": "I take photos with my Nikon camera.",
                     "vi": "Tôi chụp ảnh bằng máy ảnh Nikon của mình."
@@ -1331,7 +1331,7 @@
                 "word": "artist",
                 "pos": "noun",
                 "vi": "họa sĩ",
-                "phonetic": "/ˈɑr·t̬ɪst/",
+                "phonetic": "ˈɑr·t̬ɪst",
                 "example": {
                     "en": "Leonardo da Vinci is a great artist",
                     "vi": "Leonardo da Vinci là một nghệ sĩ vĩ đại"
@@ -1346,7 +1346,7 @@
                 "word": "museum",
                 "pos": "noun",
                 "vi": "bảo tàng",
-                "phonetic": "/mjʊˈzi·əm/",
+                "phonetic": "mjʊˈzi·əm",
                 "example": {
                     "en": "This is an art museum",
                     "vi": "Đây là một bảo tàng nghệ thuật"
@@ -1361,7 +1361,7 @@
                 "word": "piano",
                 "pos": "noun",
                 "vi": "đàn dương cầm",
-                "phonetic": "/piˈæn.oʊ/",
+                "phonetic": "piˈæn.oʊ",
                 "example": {
                     "en": "I play the piano",
                     "vi": "Tôi chơi piano"
@@ -1376,7 +1376,7 @@
                 "word": "sculpture",
                 "pos": "noun",
                 "vi": "điêu khắc",
-                "phonetic": "/ˈskʌlp·tʃər/",
+                "phonetic": "ˈskʌlp·tʃər",
                 "example": {
                     "en": "In the ruins they found ancient stone sculptures.",
                     "vi": "Trong đống đổ nát, họ tìm thấy những tác phẩm điêu khắc bằng đá cổ."
@@ -1391,7 +1391,7 @@
                 "word": "actress",
                 "pos": "noun",
                 "vi": "diễn viên nữ",
-                "phonetic": "/ˈæk.trəs/",
+                "phonetic": "ˈæk.trəs",
                 "example": {
                     "en": "She's the highest-paid actress in Hollywood.",
                     "vi": "Cô ấy là nữ diễn viên được trả lương cao nhất ở Hollywood."
@@ -1406,7 +1406,7 @@
                 "word": "violin",
                 "pos": "noun",
                 "vi": "đàn vĩ cầm",
-                "phonetic": "/ˌvɑɪ·əˈlɪn/",
+                "phonetic": "ˌvɑɪ·əˈlɪn",
                 "example": {
                     "en": "The young girl played classical music on the violin.",
                     "vi": "Cô gái trẻ chơi nhạc cổ điển trên cây vĩ cầm."
@@ -1421,7 +1421,7 @@
                 "word": "statue",
                 "pos": "noun",
                 "vi": "tượng",
-                "phonetic": "/ˈstætʃ·u/",
+                "phonetic": "ˈstætʃ·u",
                 "example": {
                     "en": "The statue in the middle of the park represents the founder of this city.",
                     "vi": "Bức tượng ở giữa công viên tượng trưng cho người sáng lập ra thành phố này."
@@ -1436,7 +1436,7 @@
                 "word": "painter",
                 "pos": "noun",
                 "vi": "họa sĩ",
-                "phonetic": "/ˈpeɪn·tər/",
+                "phonetic": "ˈpeɪn·tər",
                 "example": {
                     "en": "The painter is exhibiting his paintings at the gallery.",
                     "vi": "Họa sĩ đang trưng bày những bức tranh của mình tại phòng tranh."
@@ -1451,7 +1451,7 @@
                 "word": "photography",
                 "pos": "noun",
                 "vi": "nhiếp ảnh",
-                "phonetic": "/f&#601;tag&#633;&#601;fi/",
+                "phonetic": "fəˈtɑgrəfi",
                 "example": {
                     "en": "Are you going to enter the photography competition?",
                     "vi": "Bạn sắp tham gia cuộc thi nhiếp ảnh?"
@@ -1532,7 +1532,7 @@
                 "word": "pork",
                 "pos": "noun",
                 "vi": "thịt heo",
-                "phonetic": "/pɔrk/",
+                "phonetic": "pɔrk",
                 "example": {
                     "en": "I much prefer chicken to beef or pork",
                     "vi": "Tôi thích thịt gà hơn thịt bò hoặc thịt lợn"
@@ -1547,7 +1547,7 @@
                 "word": "spicy",
                 "pos": "adjective",
                 "vi": "cay",
-                "phonetic": "/ˈspaɪsi/",
+                "phonetic": "ˈspaɪsi",
                 "example": {
                     "en": "Do you like spicy food?",
                     "vi": "Bạn có thích ăn cay không?"
@@ -1562,7 +1562,7 @@
                 "word": "steam",
                 "pos": "verb",
                 "vi": "hấp",
-                "phonetic": "/stim/",
+                "phonetic": "stim",
                 "example": {
                     "en": "Steam rose from the simmering stew.",
                     "vi": "Hơi nước bốc lên từ món hầm sôi lăn tăn."
@@ -1577,7 +1577,7 @@
                 "word": "rice noodles",
                 "pos": "noun",
                 "vi": "bún",
-                "phonetic": "/raɪs ˈnudlz/",
+                "phonetic": "raɪs ˈnudlz",
                 "example": {
                     "en": "Rice noodles($18.50): What is this dish?",
                     "vi": "Bún gạo ($ 18,50): Đây là món gì?"
@@ -1592,7 +1592,7 @@
                 "word": "sweet soup",
                 "pos": "noun",
                 "vi": "chè",
-                "phonetic": "/swit sup/",
+                "phonetic": "swit sup",
                 "example": {
                     "en": "Vietnam has many kinds of sweet soups",
                     "vi": "Việt Nam có nhiều loại canh ngọt"
@@ -1607,7 +1607,7 @@
                 "word": "fragrant",
                 "pos": "adjective",
                 "vi": "thơm",
-                "phonetic": "/ˈfreɪɡrənt/",
+                "phonetic": "ˈfreɪɡrənt",
                 "example": {
                     "en": "The sauce itself was light, fragrant and slightly sweet.",
                     "vi": "Nước sốt có vị nhạt, thơm và hơi ngọt."
@@ -1622,7 +1622,7 @@
                 "word": "green tea",
                 "pos": "noun",
                 "vi": "trà xanh",
-                "phonetic": "/ɡrin ti/",
+                "phonetic": "ɡrin ti",
                 "example": {
                     "en": "The Japanese production is almost entirely green tea for North American use.",
                     "vi": "Sản xuất của Nhật Bản gần như hoàn toàn là trà xanh để sử dụng ở Bắc Mỹ."
@@ -1637,7 +1637,7 @@
                 "word": "tasty",
                 "pos": "adjective",
                 "vi": "ngon",
-                "phonetic": "/'teɪsti/",
+                "phonetic": "'teɪsti",
                 "example": {
                     "en": "This soup is very tasty.",
                     "vi": "Món súp này rất ngon."
@@ -1652,7 +1652,7 @@
                 "word": "sweet",
                 "pos": "adjective",
                 "vi": "ngọt",
-                "phonetic": "/swit/",
+                "phonetic": "swit",
                 "example": {
                     "en": "The pineapple was sweet and juicy.",
                     "vi": "Dứa ngọt và ngon."
@@ -1667,7 +1667,7 @@
                 "word": "grill",
                 "pos": "verb",
                 "vi": "nướng",
-                "phonetic": "/ɡrɪl/",
+                "phonetic": "ɡrɪl",
                 "example": {
                     "en": "We love to grill outside and eat on the back porch in the summer.",
                     "vi": "Chúng tôi thích nướng ngoài trời và ăn ở hiên sau vào mùa hè."
@@ -1682,7 +1682,7 @@
                 "word": "pepper",
                 "pos": "noun",
                 "vi": "hạt tiêu",
-                "phonetic": "/ˈpep·ər/",
+                "phonetic": "ˈpep·ər",
                 "example": {
                     "en": "She likes to put fresh ground pepper on her salad.",
                     "vi": "Cô ấy thích cho tiêu xay tươi vào món salad của mình."
@@ -1697,7 +1697,7 @@
                 "word": "delicious",
                 "pos": "adjective",
                 "vi": "ngon",
-                "phonetic": "/dɪˈlɪʃ·əs/",
+                "phonetic": "dɪˈlɪʃ·əs",
                 "example": {
                     "en": "Judy’s fried chicken is delicious.",
                     "vi": "Món gà rán của Judy rất ngon."
@@ -1712,7 +1712,7 @@
                 "word": "bitter",
                 "pos": "adjective",
                 "vi": "đắng",
-                "phonetic": "/ˈbɪt̬·ər/",
+                "phonetic": "ˈbɪt̬·ər",
                 "example": {
                     "en": "The coffee was bitter.",
                     "vi": "Cà phê đắng."
@@ -1727,7 +1727,7 @@
                 "word": "fry",
                 "pos": "verb",
                 "vi": "rán",
-                "phonetic": "/frɑɪ/",
+                "phonetic": "frɑɪ",
                 "example": {
                     "en": "She was frying eggs and getting the coffee ready.",
                     "vi": "Cô ấy đang chiên trứng và chuẩn bị cà phê."
@@ -1742,7 +1742,7 @@
                 "word": "bake",
                 "pos": "verb",
                 "vi": "nướng bằng lò",
-                "phonetic": "/beɪk/",
+                "phonetic": "beɪk",
                 "example": {
                     "en": "I need to bake a chocolate cake for my sister's birthday.",
                     "vi": "Tôi cần nướng một chiếc bánh sô cô la cho sinh nhật của em gái tôi."
@@ -1757,7 +1757,7 @@
                 "word": "sour",
                 "pos": "adjective",
                 "vi": "chua",
-                "phonetic": "/sɑʊər/",
+                "phonetic": "sɑʊər",
                 "example": {
                     "en": "These plums are a bit sour.",
                     "vi": "Những quả mận này hơi chua."
@@ -1772,7 +1772,7 @@
                 "word": "roast",
                 "pos": "verb",
                 "vi": "quay; nướng",
-                "phonetic": "/roʊst/",
+                "phonetic": "roʊst",
                 "example": {
                     "en": "They ate roast chicken for dinner.",
                     "vi": "Họ ăn gà quay cho bữa tối."
@@ -1787,7 +1787,7 @@
                 "word": "salty",
                 "pos": "adjective",
                 "vi": "mặn",
-                "phonetic": "/ˈsɔl·ti/",
+                "phonetic": "ˈsɔl·ti",
                 "example": {
                     "en": "This bacon is too salty for me.",
                     "vi": "Thịt xông khói này quá mặn đối với tôi."
@@ -1802,7 +1802,7 @@
                 "word": "lemonade",
                 "pos": "noun",
                 "vi": "nước chanh",
-                "phonetic": "/ˌlem·əˈneɪd/",
+                "phonetic": "ˌlem·əˈneɪd",
                 "example": {
                     "en": "I drink lemonade when it's hot.",
                     "vi": "Tôi uống nước chanh khi trời nóng."
@@ -1817,7 +1817,7 @@
                 "word": "omelette",
                 "pos": "noun",
                 "vi": "trứng ốp lết",
-                "phonetic": "/ˈɑː.mə.lət/",
+                "phonetic": "ˈɑː.mə.lət",
                 "example": {
                     "en": "I would love a cheese/mushroom omelette",
                     "vi": "Tôi rất thích món trứng tráng phô mai / nấm"
@@ -1832,7 +1832,7 @@
                 "word": "tofu",
                 "pos": "noun",
                 "vi": "đậu phụ",
-                "phonetic": "/ˈtoʊ·fu/",
+                "phonetic": "ˈtoʊ·fu",
                 "example": {
                     "en": "Tofu is a rich source of protein.",
                     "vi": "Đậu phụ là một nguồn giàu protein."
@@ -1907,7 +1907,7 @@
                 "word": "grilled meat rice noodle",
                 "pos": "noun",
                 "vi": "bún chả",
-                "phonetic": "/ ɡrɪld mit rɑɪs ˈnu·dəl/",
+                "phonetic": "ɡrɪld mit rɑɪs ˈnu·dəl",
                 "example": {
                     "en": "Grilled meat rice noodle is one of the most popular dishes in Hanoi, Vietnam",
                     "vi": "Bún thịt nướng là một trong những món ăn phổ biến nhất ở Hà Nội, Việt Nam"
@@ -1922,7 +1922,7 @@
                 "word": "noodle soup",
                 "pos": "noun",
                 "vi": "phở",
-                "phonetic": "/ ˈnu·dəl sup/",
+                "phonetic": "ˈnu·dəl sup",
                 "example": {
                     "en": "Noodle soup is a common dish across East and Southeast Asia",
                     "vi": "Phở là một món ăn phổ biến ở Đông và Đông Nam Á"
@@ -1952,7 +1952,7 @@
                 "word": "shrimp in batter",
                 "pos": "noun",
                 "vi": "bánh tôm",
-                "phonetic": "/ ʃrɪmp ɪn ˈbæt̬·ər/",
+                "phonetic": "ʃrɪmp ɪn ˈbæt̬·ər",
                 "example": {
                     "en": "I highly recommend you to eat shrimp in batter in Phu Tay Ho",
                     "vi": "Tôi rất khuyên bạn nên ăn tôm tẩm bột ở Phủ Tây Hồ"
@@ -1980,9 +1980,9 @@
             {
                 "id": "4f9c54541165496a9155e6a5eb5901b8",
                 "word": "steamed sticky rice",
-                "pos": "number",
+                "pos": "noun",
                 "vi": "xôi",
-                "phonetic": "S T EH AA M EH D ˈstɪk·i rɑɪs",
+                "phonetic": "stimd ˈstɪki raɪs",
                 "example": {
                     "en": "I ate steamed sticky rice every day in Thailand",
                     "vi": "Tôi đã ăn xôi mỗi ngày ở Thái Lan"
@@ -1997,7 +1997,7 @@
                 "word": "steamed wheat flour cake",
                 "pos": "noun",
                 "vi": "bánh bao",
-                "phonetic": "S T EH AA M EH D hwit, wit flɑʊər keɪk",
+                "phonetic": "stimd wit ˈflaʊər keɪk",
                 "example": {
                     "en": "My favourite cake is steamed wheat flour cake",
                     "vi": "Món bánh yêu thích của tôi là bánh bột mì hấp"
@@ -2040,9 +2040,9 @@
             {
                 "id": "7079fdfae39447bf95b47fec4b03be90",
                 "word": "spring rolls",
-                "pos": "number",
+                "pos": "noun",
                 "vi": "nem  rán",
-                "phonetic": "sprɪŋ R OW L Z",
+                "phonetic": "sprɪŋ roʊlz",
                 "example": {
                     "en": "Moreover, some people like to heat or steam the spring rolls again after it is made",
                     "vi": "Hơn nữa, một số người thích làm nóng hoặc hấp lại nem sau khi nem chín."
@@ -2057,7 +2057,7 @@
                 "word": "young rice cake",
                 "pos": "noun",
                 "vi": "bánh cốm",
-                "phonetic": "/ jʌŋ rɑɪs keɪk/",
+                "phonetic": "jʌŋ rɑɪs keɪk",
                 "example": {
                     "en": "Young rice cake is a traditional cake of VietNam",
                     "vi": "Bánh cốm là một loại bánh truyền thống của Việt Nam"
@@ -2078,7 +2078,7 @@
                 "word": "scholar",
                 "pos": "noun",
                 "vi": "học giả",
-                "phonetic": "/ˈskɑlər/",
+                "phonetic": "ˈskɑlər",
                 "example": {
                     "en": "The scholar comes from a poor family.",
                     "vi": "Chàng thư sinh xuất thân trong một gia đình nghèo khó."
@@ -2093,7 +2093,7 @@
                 "word": "locate",
                 "pos": "verb",
                 "vi": "đóng, đặt, để ở một vị trí",
-                "phonetic": "/ˈloʊkeɪt/",
+                "phonetic": "ˈloʊkeɪt",
                 "example": {
                     "en": "Our sense of sight enables us to locate objects in space",
                     "vi": "Thị giác của chúng ta cho phép chúng ta xác định vị trí các đối tượng trong không gian"
@@ -2108,7 +2108,7 @@
                 "word": "build",
                 "pos": "verb",
                 "vi": "xây dựng",
-                "phonetic": "/bɪld/",
+                "phonetic": "bɪld",
                 "example": {
                     "en": "They're building new houses by the river.",
                     "vi": "Họ đang xây những ngôi nhà mới bên sông."
@@ -2123,7 +2123,7 @@
                 "word": "camera",
                 "pos": "noun",
                 "vi": "máy ảnh",
-                "phonetic": "/ˈkæm·rə/",
+                "phonetic": "ˈkæm·rə",
                 "example": {
                     "en": "I take photos with my Nikon camera.",
                     "vi": "Tôi chụp ảnh bằng máy ảnh Nikon của mình."
@@ -2138,7 +2138,7 @@
                 "word": "king",
                 "pos": "noun",
                 "vi": "đức vua",
-                "phonetic": "/kɪŋ/",
+                "phonetic": "kɪŋ",
                 "example": {
                     "en": "The Spanish Armada was sent by the king of Spain to invade England in 1588.",
                     "vi": "Tay súng Tây Ban Nha được vua Tây Ban Nha cử đi xâm lược nước Anh vào năm 1588."
@@ -2153,7 +2153,7 @@
                 "word": "umbrella",
                 "pos": "noun",
                 "vi": "cái ô",
-                "phonetic": "/ʌmˈbrel·ə/",
+                "phonetic": "ʌmˈbrel·ə",
                 "example": {
                     "en": "I left my umbrella on the bus yesterday.",
                     "vi": "Tôi đã để quên chiếc ô của mình trên xe buýt ngày hôm qua."
@@ -2168,7 +2168,7 @@
                 "word": "flashlight",
                 "pos": "noun",
                 "vi": "đèn pin",
-                "phonetic": "/ˈflæʃˌlɑɪt/",
+                "phonetic": "ˈflæʃˌlɑɪt",
                 "example": {
                     "en": "I brought a flashlight to our camping trip.",
                     "vi": "Tôi đã mang theo một chiếc đèn pin cho chuyến đi cắm trại của chúng tôi."
@@ -2183,7 +2183,7 @@
                 "word": "found",
                 "pos": "verb",
                 "vi": "thành lập",
-                "phonetic": "/fa&#650;nd/",
+                "phonetic": "faʊnd",
                 "example": {
                     "en": "The airline was founded 25 years ago.",
                     "vi": "Hãng hàng không được thành lập cách đây 25 năm."
@@ -2198,7 +2198,7 @@
                 "word": "cellphone",
                 "pos": "noun",
                 "vi": "điện thoại di động",
-                "phonetic": "/ˈsel foʊn/",
+                "phonetic": "ˈsel foʊn",
                 "example": {
                     "en": "My cellphone has a list of contacts and Internet capability.",
                     "vi": "Điện thoại di động của tôi có một danh sách các số liên lạc và khả năng kết nối Internet."
@@ -2228,7 +2228,7 @@
                 "word": "temple of literature",
                 "pos": "noun",
                 "vi": "Văn Miếu",
-                "phonetic": "ʌv, ɑv, əv",
+                "phonetic": "ˈtɛmpəl ʌv ˈlɪtərəʧər",
                 "example": {
                     "en": "The Temple of Literature was built in 1070 at the time of Emperor Lý Thánh Tông.",
                     "vi": "Văn Miếu được xây dựng vào năm 1070 vào thời vua Lý Thánh Tông."
@@ -2243,7 +2243,7 @@
                 "word": "Imperial Academy",
                 "pos": "number",
                 "vi": "Quốc Tử Giám",
-                "phonetic": "/ɪmˈpɪə.ri.əl  əˈkæd.ə.mi/",
+                "phonetic": "ɪmˈpɪə.ri.əl  əˈkæd.ə.mi",
                 "example": {
                     "en": "In 1945, following the fall of Nguyễn Dynasty, Imperial Academy was permanently closed.",
                     "vi": "Năm 1945, sau sự sụp đổ của nhà Nguyễn, Học viện Hoàng gia bị đóng cửa vĩnh viễn."
@@ -2258,7 +2258,7 @@
                 "word": "Ly dynasty",
                 "pos": "number",
                 "vi": "triều đại nhà Lý",
-                "phonetic": "/ ˈdɑɪ·nə·sti, -ˌnæs·ti/",
+                "phonetic": "ˈdɑɪ·nə·sti, -ˌnæs·ti",
                 "example": {
                     "en": "Did the Ly dynasty rule Vietnam?",
                     "vi": "Nhà Lý có cai trị nước Việt Nam không?"
@@ -2273,14 +2273,14 @@
                 "word": "Khue Van Pavilion",
                 "pos": "number",
                 "vi": "Khuê Văn Các",
-                "phonetic": "",
+                "phonetic": "Khue Van pəˈvɪljən",
                 "example": {
                     "en": "Have you visited to Khue Van Pavilion?",
                     "vi": "Bạn đã ghé thăm Đình Khuê Văn chưa?"
                 },
                 "definition": {
                     "en": "The second courtyard contains the Khue Van pavilion (Khuê Văn Các), a unique architectural work built in 1805 and a symbol of present-day Hanoi.",
-                    "vi": "Sân thứ hai là gian Khuê Văn (Khuê Văn Các), một công trình kiến ​​trúc độc đáo được xây dựng vào năm 1805 và là biểu tượng của Hà Nội ngày nay."
+                    "vi": "Sân thứ hai là gian Khuê Văn (Khuê Văn Các), một công trình kiến trúc độc đáo được xây dựng vào năm 1805 và là biểu tượng của Hà Nội ngày nay."
                 }
             },
             {
@@ -2288,7 +2288,7 @@
                 "word": "Thien Quang Tinh Well",
                 "pos": "noun",
                 "vi": "Giếng Thiên Quang Tỉnh",
-                "phonetic": "",
+                "phonetic": "Thien Quang Tinh wɛl",
                 "example": {
                     "en": "Thien Quang Tinh Well is located in Temple of Literature",
                     "vi": "Giếng Thiên Quang Tinh nằm trong Văn Miếu"
@@ -2303,7 +2303,7 @@
                 "word": "Doctors' stone tablet",
                 "pos": "noun",
                 "vi": "bia tiến sĩ",
-                "phonetic": "/ stoʊn ˈtæb·lɪt/",
+                "phonetic": "stoʊn ˈtæb·lɪt",
                 "example": {
                     "en": "The Doctors' stone tablet was recognised  by UNESCO as a world documentary heritage in 2010",
                     "vi": "Bia đá Nghĩa sĩ được UNESCO công nhận là di sản tư liệu thế giới năm 2010"
@@ -2324,13 +2324,13 @@
                 "word": "plane",
                 "pos": "noun",
                 "vi": "chiếc máy bay",
-                "phonetic": "/pleɪn/",
+                "phonetic": "pleɪn",
                 "example": {
-                    "en": "He hates travelling by plane.",
+                    "en": "He hates travelling by plane.",
                     "vi": "Anh ấy ghét đi du lịch bằng máy bay."
                 },
                 "definition": {
-                    "en": "a vehicle designed for air travel, with wings and one or more engines",
+                    "en": "a vehicle designed for air travel, with wings and one or more engines",
                     "vi": "một phương tiện được thiết kế để di chuyển bằng đường hàng không, có cánh và một hoặc nhiều động cơ"
                 }
             },
@@ -2339,7 +2339,7 @@
                 "word": "public transport",
                 "pos": "noun",
                 "vi": "phương tiện giao thông công cộng",
-                "phonetic": "/ˈpʌblɪk trænsˈpɔrt/",
+                "phonetic": "ˈpʌblɪk trænsˈpɔrt",
                 "example": {
                     "en": "He never travels by public transport.",
                     "vi": "Anh ấy không bao giờ di chuyển bằng phương tiện công cộng."
@@ -2354,7 +2354,7 @@
                 "word": "traffic jam",
                 "pos": "noun",
                 "vi": "ùn tắc giao thông",
-                "phonetic": "/ˈtræfɪk dʒæm/",
+                "phonetic": "ˈtræfɪk dʒæm",
                 "example": {
                     "en": "I was stuck in a traffic jam for an hour yesterday.",
                     "vi": "Tôi đã bị kẹt xe trong một giờ ngày hôm qua."
@@ -2369,7 +2369,7 @@
                 "word": "train",
                 "pos": "noun",
                 "vi": "xe lửa",
-                "phonetic": "/treɪn/",
+                "phonetic": "treɪn",
                 "example": {
                     "en": "The train will depart at 3:00 am.",
                     "vi": "Tàu sẽ khởi hành lúc 3:00 sáng."
@@ -2384,7 +2384,7 @@
                 "word": "triangle",
                 "pos": "noun",
                 "vi": "Tam giác",
-                "phonetic": "/ˈtraɪˌæŋɡl/",
+                "phonetic": "ˈtraɪˌæŋɡl",
                 "example": {
                     "en": "the coastline of Chile and Argentina and Brazil forms two legs of a triangle",
                     "vi": "đường bờ biển của Chile và Argentina và Brazil tạo thành hai chân của một tam giác"
@@ -2399,7 +2399,7 @@
                 "word": "tricycle",
                 "pos": "noun",
                 "vi": "xe ba bánh",
-                "phonetic": "/ˈtraɪsɪkl̩/",
+                "phonetic": "ˈtraɪsɪkl̩",
                 "example": {
                     "en": "Our three-year-old loves her red tricycle",
                     "vi": "Đứa trẻ ba tuổi của chúng tôi thích chiếc xe ba bánh màu đỏ của cô ấy"
@@ -2414,13 +2414,13 @@
                 "word": "driving licence",
                 "pos": "noun",
                 "vi": "giấy phép lái xe",
-                "phonetic": "/ˈdraɪvɪŋ ˈlaɪsns/",
+                "phonetic": "ˈdraɪvɪŋ ˈlaɪsns",
                 "example": {
                     "en": "Pictures of her driving licence were made public yesterday.",
                     "vi": "Hình ảnh về giấy phép lái xe của cô đã được công khai vào ngày hôm qua."
                 },
                 "definition": {
-                    "en": "official permission for someone to drive a car, received after passing adriving test, or a document showing this",
+                    "en": "official permission for someone to drive a car, received after passing adriving test, or a document showing this",
                     "vi": "giấy phép chính thức cho một người nào đó lái xe ô tô, nhận được sau khi vượt qua bài kiểm tra yêu cầu hoặc một tài liệu cho thấy điều này"
                 }
             },
@@ -2429,13 +2429,13 @@
                 "word": "speed limit",
                 "pos": "noun",
                 "vi": "tốc độ giới hạn",
-                "phonetic": "/spid ˈlɪmɪt/",
+                "phonetic": "spid ˈlɪmɪt",
                 "example": {
                     "en": "Try not to go over the speed limit, Daniel.",
                     "vi": "Cố gắng đừng đi quá tốc độ cho phép, Daniel."
                 },
                 "definition": {
-                    "en": "the fastest rate at which you are allowed to drive in a particular area",
+                    "en": "the fastest rate at which you are allowed to drive in a particular area",
                     "vi": "tốc độ nhanh nhất mà bạn được phép lái xe trong một khu vực cụ thể"
                 }
             },
@@ -2444,7 +2444,7 @@
                 "word": "helicopter",
                 "pos": "noun",
                 "vi": "máy bay trực thăng",
-                "phonetic": "/ˈhɛləˌkɑptər/",
+                "phonetic": "ˈhɛləˌkɑptər",
                 "example": {
                     "en": "The injured were ferried to hospital by helicopter",
                     "vi": "Những người bị thương được đưa đến bệnh viện bằng trực thăng"
@@ -2459,7 +2459,7 @@
                 "word": "roof",
                 "pos": "noun",
                 "vi": "mái nhà, nóc",
-                "phonetic": "/ruf/",
+                "phonetic": "ruf",
                 "example": {
                     "en": "The house has a thatched roof.",
                     "vi": "Ngôi nhà lợp tranh."
@@ -2474,7 +2474,7 @@
                 "word": "safely",
                 "pos": "adverb",
                 "vi": "an toàn",
-                "phonetic": "/ˈseɪfli/",
+                "phonetic": "ˈseɪfli",
                 "example": {
                     "en": "We all arrived safely.",
                     "vi": "Tất cả chúng tôi đã đến nơi an toàn."
@@ -2489,7 +2489,7 @@
                 "word": "road sign",
                 "pos": "noun",
                 "vi": "báo báo giao thông",
-                "phonetic": "/ˈroʊd saɪn/",
+                "phonetic": "ˈroʊd saɪn",
                 "example": {
                     "en": "Road signs tell you about traffic rules, hazards, where you are, how to get where you are going, and where services are located.",
                     "vi": "Các biển báo trên đường cho bạn biết về luật lệ giao thông, các mối nguy hiểm, vị trí của bạn, cách đi đến nơi bạn sắp đến và vị trí của các dịch vụ."
@@ -2504,13 +2504,13 @@
                 "word": "boat",
                 "pos": "noun",
                 "vi": "con thuyền",
-                "phonetic": "/boʊt/",
+                "phonetic": "boʊt",
                 "example": {
                     "en": "Are you travelling by boat or by air?",
                     "vi": "Bạn đang đi du lịch bằng thuyền hay đường hàng không?"
                 },
                 "definition": {
-                    "en": "small vehicle for travelling on water",
+                    "en": "small vehicle for travelling on water",
                     "vi": "phương tiện nhỏ để đi trên mặt nước"
                 }
             },
@@ -2519,7 +2519,7 @@
                 "word": "pavement",
                 "pos": "noun",
                 "vi": "Vỉa hè",
-                "phonetic": "/ˈpeɪvmənt/",
+                "phonetic": "ˈpeɪvmənt",
                 "example": {
                     "en": "Keep to the pavement, Rosie, there's a good girl.",
                     "vi": "Đi ra vỉa hè, Rosie, có một cô gái tốt."
@@ -2534,7 +2534,7 @@
                 "word": "prohibitive",
                 "pos": "adjective",
                 "vi": "cấm đoán",
-                "phonetic": "/proʊ'hɪbɪtɪv/",
+                "phonetic": "proʊ'hɪbɪtɪv",
                 "example": {
                     "en": "She is the prohibitive favorite to win the Democratic nomination.",
                     "vi": "Cô ấy là ứng cử viên được yêu thích nhất để giành được đề cử của đảng Dân chủ."
@@ -2549,7 +2549,7 @@
                 "word": "park",
                 "pos": "verb",
                 "vi": "công viên",
-                "phonetic": "/pɑrk/",
+                "phonetic": "pɑrk",
                 "example": {
                     "en": "Just park your car in the driveway.",
                     "vi": "Chỉ cần đậu xe trên đường lái xe."
@@ -2564,7 +2564,7 @@
                 "word": "safety",
                 "pos": "noun",
                 "vi": "sự an toàn",
-                "phonetic": "/ˈseɪf·ti/",
+                "phonetic": "ˈseɪf·ti",
                 "example": {
                     "en": "For your safety, keep your seat belt securely fastened.",
                     "vi": "Để đảm bảo an toàn, hãy thắt chặt dây an toàn."
@@ -2579,7 +2579,7 @@
                 "word": "ship",
                 "pos": "noun",
                 "vi": "tàu thủy",
-                "phonetic": "/ʃɪp/",
+                "phonetic": "ʃɪp",
                 "example": {
                     "en": "They ejoyed their vacation on a ship that cross the pacific ocean.",
                     "vi": "Họ vui mừng trong kỳ nghỉ của mình trên một con tàu vượt biển Thái Bình Dương."
@@ -2594,7 +2594,7 @@
                 "word": "vehicle",
                 "pos": "noun",
                 "vi": "phương tiện giao thông",
-                "phonetic": "/ˈviː.ə.kəl/",
+                "phonetic": "ˈviː.ə.kəl",
                 "example": {
                     "en": "The snow stranded hundreds of vehicles on an interstate highway.",
                     "vi": "Tuyết khiến hàng trăm phương tiện bị kẹt trên đường cao tốc liên bang."
@@ -2609,7 +2609,7 @@
                 "word": "illegal",
                 "pos": "adjective",
                 "vi": "bất hợp pháp",
-                "phonetic": "/ɪˈli·ɡəl/",
+                "phonetic": "ɪˈli·ɡəl",
                 "example": {
                     "en": "Fireworks are illegal in many places.",
                     "vi": "Pháo hoa là bất hợp pháp ở nhiều nơi."
@@ -2624,7 +2624,7 @@
                 "word": "fly",
                 "pos": "verb",
                 "vi": "ruồi",
-                "phonetic": "/flɑɪ/",
+                "phonetic": "flɑɪ",
                 "example": {
                     "en": "Are you planning to fly or drive to Toronto?",
                     "vi": "Bạn có kế hoạch bay hoặc lái xe đến Toronto?"
@@ -2729,7 +2729,7 @@
                 "word": "fasten the seatbelt",
                 "pos": "undefined",
                 "vi": "thắt dây an toàn",
-                "phonetic": "/ˈfæs·ən ðə ˈsiːtˌbelt/",
+                "phonetic": "ˈfæs·ən ðə ˈsiːtˌbelt",
                 "example": {
                     "en": "The staff tells the passengers to fasten the seatbelt before the plane takes off.",
                     "vi": "Nhân viên dặn hành khách thắt dây an toàn trước khi máy bay cất cánh."
@@ -2849,7 +2849,7 @@
                 "word": "zebra crossing",
                 "pos": "noun",
                 "vi": "ngựa vằn vượt qua",
-                "phonetic": "ˈzi·brə ˈkrɔ·sɪŋ",
+                "phonetic": "ˈ/zi·brə ˈkrɔ·sɪŋ",
                 "example": {
                     "en": "It is safer to cross the road when you see the zebra crossing.",
                     "vi": "Sẽ an toàn hơn khi sang đường khi thấy ngựa vằn băng qua."
@@ -2900,7 +2900,7 @@
                 "word": "poster",
                 "pos": "noun",
                 "vi": "tấm áp phích",
-                "phonetic": "/ˈpoʊstər/",
+                "phonetic": "ˈpoʊstər",
                 "example": {
                     "en": "A poster advertised the coming attractions",
                     "vi": "Một tấm áp phích quảng cáo các điểm tham quan sắp tới"
@@ -2915,7 +2915,7 @@
                 "word": "recommend",
                 "pos": "verb",
                 "vi": "giới thiệu",
-                "phonetic": "/ˌrɛkəˈmɛnd/",
+                "phonetic": "ˌrɛkəˈmɛnd",
                 "example": {
                     "en": "The travel agent recommended strongly that we not travel on Thanksgiving Day",
                     "vi": "Đại lý du lịch đặc biệt khuyến cáo rằng chúng tôi không đi du lịch vào Ngày Lễ Tạ ơn"
@@ -2930,7 +2930,7 @@
                 "word": "review",
                 "pos": "noun",
                 "vi": "xem lại",
-                "phonetic": "/rɪˈvju/",
+                "phonetic": "rɪˈvju",
                 "example": {
                     "en": "The play got excellent reviews when it was first seen.",
                     "vi": "Vở kịch đã nhận được đánh giá xuất sắc khi nó được xem lần đầu tiên."
@@ -2945,7 +2945,7 @@
                 "word": "science fiction",
                 "pos": "noun",
                 "vi": "khoa học viễn tưởng",
-                "phonetic": "/ˌsaɪəns ˈfɪkʃn/",
+                "phonetic": "ˌsaɪəns ˈfɪkʃn",
                 "example": {
                     "en": "Bostrom dislikes science fiction.",
                     "vi": "Bostrom không thích khoa học viễn tưởng."
@@ -2960,13 +2960,13 @@
                 "word": "survey",
                 "pos": "noun",
                 "vi": "sự khảo sát",
-                "phonetic": "/ˈsərveɪ/",
+                "phonetic": "ˈsərveɪ",
                 "example": {
                     "en": "his survey of the battlefield was limited",
                     "vi": "cuộc khảo sát của anh ấy về chiến trường bị hạn chế"
                 },
                 "definition": {
-                    "en": "an examination of opinions, behaviour, etc., made by asking people questions",
+                    "en": "an examination of opinions, behaviour, etc., made by asking people questions",
                     "vi": "kiểm tra ý kiến, hành vi, v.v., được thực hiện bằng cách đặt câu hỏi cho mọi người"
                 }
             },
@@ -2975,7 +2975,7 @@
                 "word": "thriller",
                 "pos": "noun",
                 "vi": "giật gân",
-                "phonetic": "/ˈθrɪlər/",
+                "phonetic": "ˈθrɪlər",
                 "example": {
                     "en": "It's described here as a taut psychological thriller.",
                     "vi": "Nó được mô tả ở đây như một bộ phim kinh dị tâm lý căng thẳng."
@@ -2990,7 +2990,7 @@
                 "word": "violent",
                 "pos": "adjective",
                 "vi": "hung bạo",
-                "phonetic": "/ˈvaɪələnt/",
+                "phonetic": "ˈvaɪələnt",
                 "example": {
                     "en": "He yells a lot but I don't think he's ever been physically violent towards her.",
                     "vi": "Anh ấy la hét rất nhiều nhưng tôi không nghĩ rằng anh ấy đã từng bạo lực thể xác với cô ấy."
@@ -3005,13 +3005,13 @@
                 "word": "horror film",
                 "pos": "noun",
                 "vi": "phim kinh dị",
-                "phonetic": "/ˈhɔrər fɪlm/",
+                "phonetic": "ˈhɔrər fɪlm",
                 "example": {
                     "en": "Do you make it a horror film?",
                     "vi": "Bạn có biến nó thành một bộ phim kinh dị không?"
                 },
                 "definition": {
-                    "en": "a film that is intended to frighten people, especially one about murders, frightening creatures, or evil people",
+                    "en": "a film that is intended to frighten people, especially one about murders, frightening creatures, or evil people",
                     "vi": "một bộ phim nhằm làm mọi người sợ hãi, đặc biệt là một bộ phim về những vụ giết người, những sinh vật đáng sợ hoặc những kẻ xấu xa"
                 }
             },
@@ -3020,7 +3020,7 @@
                 "word": "actor",
                 "pos": "noun",
                 "vi": "diễn viên nam",
-                "phonetic": "/ˈæktər/",
+                "phonetic": "ˈæktər",
                 "example": {
                     "en": "He's a principal actor in this affair",
                     "vi": "Anh ấy là diễn viên chính trong cuộc tình này"
@@ -3035,13 +3035,13 @@
                 "word": "cartoon",
                 "pos": "noun",
                 "vi": "hoạt hình",
-                "phonetic": "/kɑrˈtun/",
+                "phonetic": "kɑrˈtun",
                 "example": {
                     "en": "He's the creator of a successful cartoon series.",
                     "vi": "Anh ấy là tác giả của một loạt phim hoạt hình thành công."
                 },
                 "definition": {
-                    "en": "a film, usually a funny one, made using characters and images that are drawn rather than real",
+                    "en": "a film, usually a funny one, made using characters and images that are drawn rather than real",
                     "vi": "một bộ phim, thường là một bộ phim hài hước, được thực hiện bằng cách sử dụng các nhân vật và hình ảnh được vẽ thay vì thực"
                 }
             },
@@ -3050,7 +3050,7 @@
                 "word": "comedy",
                 "pos": "noun",
                 "vi": "hài kịch",
-                "phonetic": "/ˈkɑmədi/",
+                "phonetic": "ˈkɑmədi",
                 "example": {
                     "en": "I prefer Shakespeare's comedies to his tragedies",
                     "vi": "Tôi thích những bộ phim hài của Shakespeare hơn là những vở bi kịch của anh ấy"
@@ -3065,14 +3065,14 @@
                 "word": "critic",
                 "pos": "noun",
                 "vi": "nhà phê bình",
-                "phonetic": "/ˈkrɪt̬ɪk/",
+                "phonetic": "ˈkrɪt̬ɪk",
                 "example": {
                     "en": "The critics loved the movie.",
                     "vi": "Các nhà phê bình yêu thích bộ phim."
                 },
                 "definition": {
                     "en": "someone whose job is to give their opinion about something, especially films, books, music, etc.",
-                    "vi": "một người có công việc là đưa ra ý kiến ​​của họ về điều gì đó, đặc biệt là phim, sách, nhạc, v.v."
+                    "vi": "một người có công việc là đưa ra ý kiến của họ về điều gì đó, đặc biệt là phim, sách, nhạc, v.v."
                 }
             },
             {
@@ -3080,7 +3080,7 @@
                 "word": "disappointing",
                 "pos": "adjective",
                 "vi": "đáng thất vọng",
-                "phonetic": "/ˌdɪsəˈpɔɪntɪŋ/",
+                "phonetic": "ˌdɪsəˈpɔɪntɪŋ",
                 "example": {
                     "en": "The response to our advertisement has been somewhat disappointing.",
                     "vi": "Phản hồi cho quảng cáo của chúng tôi có phần đáng thất vọng."
@@ -3095,7 +3095,7 @@
                 "word": "disaster",
                 "pos": "noun",
                 "vi": "thảm họa",
-                "phonetic": "/dɪˈzæstər/",
+                "phonetic": "dɪˈzæstər",
                 "example": {
                     "en": "The earthquake was a disaster.",
                     "vi": "Trận động đất là một thảm họa."
@@ -3110,7 +3110,7 @@
                 "word": "documentary",
                 "pos": "noun",
                 "vi": "phim tài liệu",
-                "phonetic": "/ˌdɑkjəˈmɛntəri/",
+                "phonetic": "ˌdɑkjəˈmɛntəri",
                 "example": {
                     "en": "The contest, which seemed to presage a new order in black politics, attracted national press coverage, and inspired the documentary film \"Street Fight\".",
                     "vi": "Cuộc thi, dường như định trước một trật tự mới trong chính trị da đen, đã thu hút sự đưa tin của báo chí quốc gia và truyền cảm hứng cho bộ phim tài liệu \"Street Fight\"."
@@ -3125,7 +3125,7 @@
                 "word": "entertaining",
                 "pos": "adjective",
                 "vi": "giải trí",
-                "phonetic": "/ˌɛntərˈteɪnɪŋ/",
+                "phonetic": "ˌɛntərˈteɪnɪŋ",
                 "example": {
                     "en": "The book is an entertaining and informative read.",
                     "vi": "Cuốn sách là một đọc giải trí và thông tin."
@@ -3140,7 +3140,7 @@
                 "word": "animation",
                 "pos": "noun",
                 "vi": "hoạt hình",
-                "phonetic": "/ˌænəˈmeɪʃn/",
+                "phonetic": "ˌænəˈmeɪʃn",
                 "example": {
                     "en": "Encyclopedias on CD-ROM include sound, illustrations, and simple animations.",
                     "vi": "Bách khoa toàn thư trên CD-ROM bao gồm âm thanh, hình ảnh minh họa và hình ảnh động đơn giản."
@@ -3155,7 +3155,7 @@
                 "word": "hilarious",
                 "pos": "adjective",
                 "vi": "vui vẻ",
-                "phonetic": "/hɪˈlɛːrɪəs/",
+                "phonetic": "hɪˈlɛːrɪəs",
                 "example": {
                     "en": "His story about the accident is somehow hilarious.",
                     "vi": "Câu chuyện của anh ấy về vụ tai nạn bằng cách nào đó rất vui nhộn."
@@ -3170,7 +3170,7 @@
                 "word": "exciting",
                 "pos": "adjective",
                 "vi": "hào hứng, phấn khởi",
-                "phonetic": "/ɪkˈsaɪ.t̬ɪŋ/",
+                "phonetic": "ɪkˈsaɪ.t̬ɪŋ",
                 "example": {
                     "en": "You're going to Africa? How exciting!",
                     "vi": "Bạn sẽ đến Châu Phi? Thật thú vị!"
@@ -3185,7 +3185,7 @@
                 "word": "actress",
                 "pos": "noun",
                 "vi": "diễn viên nữ",
-                "phonetic": "/ˈæk.trəs/",
+                "phonetic": "ˈæk.trəs",
                 "example": {
                     "en": "She's the highest-paid actress in Hollywood.",
                     "vi": "Cô ấy là nữ diễn viên được trả lương cao nhất ở Hollywood."
@@ -3200,7 +3200,7 @@
                 "word": "scary",
                 "pos": "adjective",
                 "vi": "đáng sợ",
-                "phonetic": "/ˈskeər·i/",
+                "phonetic": "ˈskeər·i",
                 "example": {
                     "en": "The idea of surgery was very scary to me.",
                     "vi": "Ý tưởng về phẫu thuật rất đáng sợ đối với tôi."
@@ -3311,7 +3311,7 @@
                 "word": "religious",
                 "pos": "adjective",
                 "vi": "Tôn giáo",
-                "phonetic": "/rɪˈlɪdʒəs/",
+                "phonetic": "rɪˈlɪdʒəs",
                 "example": {
                     "en": "the religious or regular clergy conducts the service",
                     "vi": "các giáo sĩ tôn giáo hoặc thường xuyên tiến hành dịch vụ"
@@ -3326,7 +3326,7 @@
                 "word": "steep",
                 "pos": "adjective",
                 "vi": "dốc đứng",
-                "phonetic": "/stip/",
+                "phonetic": "stip",
                 "example": {
                     "en": "It's a steep climb to the top of the mountain, but the view is worth it.",
                     "vi": "Đó là một chặng leo dốc lên đỉnh núi, nhưng tầm nhìn rất đáng giá."
@@ -3341,7 +3341,7 @@
                 "word": "turkey",
                 "pos": "noun",
                 "vi": "gà tây",
-                "phonetic": "/ˈtərki/",
+                "phonetic": "ˈtərki",
                 "example": {
                     "en": "the first experiment was a real turkey",
                     "vi": "thí nghiệm đầu tiên là một con gà tây thật"
@@ -3356,7 +3356,7 @@
                 "word": "take place",
                 "pos": "phrasal verb",
                 "vi": "diễn ra",
-                "phonetic": "/teɪk pleɪs/",
+                "phonetic": "teɪk pleɪs",
                 "example": {
                     "en": "When does the contest take place?",
                     "vi": "Cuộc thi diễn ra khi nào?"
@@ -3371,7 +3371,7 @@
                 "word": "camp",
                 "pos": "noun",
                 "vi": "trại",
-                "phonetic": "/kæmp/",
+                "phonetic": "kæmp",
                 "example": {
                     "en": "they played up the silliness of their roles for camp effect",
                     "vi": "họ đã đóng vai trò của họ để tạo hiệu ứng trại"
@@ -3386,7 +3386,7 @@
                 "word": "celebrate",
                 "pos": "verb",
                 "vi": "kỉ niệm",
-                "phonetic": "/ˈsɛləˌbreɪt/",
+                "phonetic": "ˈsɛləˌbreɪt",
                 "example": {
                     "en": "We always celebrate our wedding anniversary by going out to dinner.",
                     "vi": "Chúng tôi luôn kỷ niệm ngày cưới bằng cách đi ăn tối."
@@ -3401,7 +3401,7 @@
                 "word": "amazing",
                 "pos": "adjective",
                 "vi": "kinh ngạc",
-                "phonetic": "/əˈmeɪzɪŋ/",
+                "phonetic": "əˈmeɪzɪŋ",
                 "example": {
                     "en": "she does an amazing amount of work",
                     "vi": "cô ấy làm một số lượng công việc đáng kinh ngạc"
@@ -3416,7 +3416,7 @@
                 "word": "fascinating",
                 "pos": "adjective",
                 "vi": "lôi cuốn",
-                "phonetic": "/'fæsə,neɪtɪŋ/",
+                "phonetic": "'fæsə,neɪtɪŋ",
                 "example": {
                     "en": "The book offers a fascinating glimpse of the lives of the rich and famous",
                     "vi": "Cuốn sách mang đến cái nhìn hấp dẫn về cuộc sống của những người giàu có và nổi tiếng"
@@ -3431,7 +3431,7 @@
                 "word": "festival",
                 "pos": "noun",
                 "vi": "lễ hội",
-                "phonetic": "/ˈfes·tə·vəl/",
+                "phonetic": "ˈfes·tə·vəl",
                 "example": {
                     "en": "The New Orleans Jazz Festival is held every year in the spring.",
                     "vi": "Liên hoan nhạc Jazz New Orleans được tổ chức hàng năm vào mùa xuân."
@@ -3446,7 +3446,7 @@
                 "word": "seasonal",
                 "pos": "adjective",
                 "vi": "theo mùa",
-                "phonetic": "/si·zə·nəl/",
+                "phonetic": "si·zə·nəl",
                 "example": {
                     "en": "Temperatures are well below the seasonal average.",
                     "vi": "Nhiệt độ thấp hơn nhiều so với mức trung bình theo mùa."
@@ -3461,7 +3461,7 @@
                 "word": "thanksgiving",
                 "pos": "noun",
                 "vi": "tạ ơn",
-                "phonetic": "/ˌθæŋksˈɡɪv·ɪŋ/",
+                "phonetic": "ˌθæŋksˈɡɪv·ɪŋ",
                 "example": {
                     "en": "It's the second Monday in October or Thanksgiving Day in Canada!",
                     "vi": "Đó là Thứ Hai thứ hai trong tháng Mười hoặc Ngày Lễ Tạ ơn ở Canada!"
@@ -3476,7 +3476,7 @@
                 "word": "feast",
                 "pos": "noun",
                 "vi": "tiệc",
-                "phonetic": "/fist/",
+                "phonetic": "fist",
                 "example": {
                     "en": "\"What a feast!\" she said, surveying all the dishes on the table.",
                     "vi": "\"Thật là một bữa tiệc thịnh soạn!\" cô nói, khảo sát tất cả các món ăn trên bàn."
@@ -3491,7 +3491,7 @@
                 "word": "decorate",
                 "pos": "verb",
                 "vi": "trang trí",
-                "phonetic": "/ˈdek·əˌreɪt/",
+                "phonetic": "ˈdek·əˌreɪt",
                 "example": {
                     "en": "They decorated the table with flowers and candles.",
                     "vi": "Họ trang trí bàn tiệc bằng hoa và nến."
@@ -3542,7 +3542,7 @@
                     "vi": "Gà tây trong lễ Giáng sinh theo truyền thống được phục vụ với nước sốt nam việt quất."
                 },
                 "definition": {
-                    "en": "​a small red berry with a bitter, sharp taste that grows on a small bush and is used in cooking",
+                    "en": "a small red berry with a bitter, sharp taste that grows on a small bush and is used in cooking",
                     "vi": "Một loại quả mọng nhỏ màu đỏ, có vị đắng, sắc, mọc trên một bụi nhỏ và được dùng trong nấu ăn"
                 }
             }
@@ -3557,7 +3557,7 @@
                 "word": "plentiful",
                 "pos": "adjective",
                 "vi": "dồi dào",
-                "phonetic": "/ˈplɛntɪfl/",
+                "phonetic": "ˈplɛntɪfl",
                 "example": {
                     "en": "I took a plentiful supply of games to keep the children amused.",
                     "vi": "Tôi đã cung cấp rất nhiều trò chơi để làm cho bọn trẻ thích thú."
@@ -3572,7 +3572,7 @@
                 "word": "sometimes",
                 "pos": "adverb",
                 "vi": "thỉnh thoảng",
-                "phonetic": "/ˈsʌmtaɪmz/",
+                "phonetic": "ˈsʌmtaɪmz",
                 "example": {
                     "en": "Sometimes we take food with us and sometimes we buy food when we're there.",
                     "vi": "Đôi khi chúng tôi mang theo thức ăn và đôi khi chúng tôi mua thức ăn khi ở đó."
@@ -3587,7 +3587,7 @@
                 "word": "take a shower",
                 "pos": "phrase",
                 "vi": "đi tắm",
-                "phonetic": "/teɪk ə ˈʃaʊər/",
+                "phonetic": "teɪk ə ˈʃaʊər",
                 "example": {
                     "en": "He takes a shower after shaving.",
                     "vi": "Anh ấy đi tắm sau khi cạo râu."
@@ -3602,7 +3602,7 @@
                 "word": "negative",
                 "pos": "adjective",
                 "vi": "phủ định",
-                "phonetic": "/ˈnɛɡət̮ɪv/",
+                "phonetic": "ˈnɛɡət̮ɪv",
                 "example": {
                     "en": "You're so negative about everything!",
                     "vi": "Bạn quá tiêu cực về mọi thứ!"
@@ -3617,7 +3617,7 @@
                 "word": "carbon footprint",
                 "pos": "noun",
                 "vi": "khí thải carbon",
-                "phonetic": "/ˈkɑrbən ˈfʊtprɪnt/",
+                "phonetic": "ˈkɑrbən ˈfʊtprɪnt",
                 "example": {
                     "en": "The four main areas that determine your carbon footprint are electricity usage, oil or natural gas usage, car mileage, and airplane trips.",
                     "vi": "Bốn lĩnh vực chính xác định lượng khí thải carbon của bạn là sử dụng điện, sử dụng dầu hoặc khí đốt tự nhiên, quãng đường đi ô tô và các chuyến đi máy bay."
@@ -3632,7 +3632,7 @@
                 "word": "carbon dioxide",
                 "pos": "noun",
                 "vi": "cạc-bon đi-ô-xít",
-                "phonetic": "/ˈkɑrbən daɪˈɑksaɪd/",
+                "phonetic": "ˈkɑrbən daɪˈɑksaɪd",
                 "example": {
                     "en": "The increased use of natural gas will help reduce carbon dioxide emissions.",
                     "vi": "Việc tăng cường sử dụng khí tự nhiên sẽ giúp giảm lượng khí thải carbon dioxide."
@@ -3647,7 +3647,7 @@
                 "word": "dangerous",
                 "pos": "adjective",
                 "vi": "sự nguy hiểm",
-                "phonetic": "/ˈdeɪndʒərəs/",
+                "phonetic": "ˈdeɪndʒərəs",
                 "example": {
                     "en": "His parents won't let him play ice hockey because they think it's too dangerous.",
                     "vi": "Cha mẹ anh không cho anh chơi khúc côn cầu trên băng vì họ nghĩ rằng nó quá nguy hiểm."
@@ -3662,7 +3662,7 @@
                 "word": "distance",
                 "pos": "noun",
                 "vi": "khoảng cách",
-                "phonetic": "/ˈdɪstəns/",
+                "phonetic": "ˈdɪstəns",
                 "example": {
                     "en": "What's the distance between Madrid and Barcelona/from Madrid to Barcelona?",
                     "vi": "Khoảng cách giữa Madrid và Barcelona / từ Madrid đến Barcelona là bao nhiêu?"
@@ -3677,13 +3677,13 @@
                 "word": "electricity",
                 "pos": "noun",
                 "vi": "điện",
-                "phonetic": "/ɪˌlɛkˈtrɪsət̮i/",
+                "phonetic": "ɪˌlɛkˈtrɪsət̮i",
                 "example": {
                     "en": "The electricity has been turned off.",
                     "vi": "Điện đã được tắt."
                 },
                 "definition": {
-                    "en": "a form of energy, produced in several ways, which provides power to devices that create light, heat, etc.",
+                    "en": "a form of energy, produced in several ways, which provides power to devices that create light, heat, etc.",
                     "vi": "một dạng năng lượng, được sản xuất theo nhiều cách, cung cấp năng lượng cho các thiết bị tạo ra ánh sáng, nhiệt, v.v."
                 }
             },
@@ -3692,7 +3692,7 @@
                 "word": "energy",
                 "pos": "noun",
                 "vi": "năng lượng",
-                "phonetic": "/ˈɛnərdʒi/",
+                "phonetic": "ˈɛnərdʒi",
                 "example": {
                     "en": "The energy generated by the windmill drives all the drainage pumps.",
                     "vi": "Năng lượng do cối xay gió tạo ra sẽ thúc đẩy tất cả các máy bơm thoát nước."
@@ -3707,7 +3707,7 @@
                 "word": "alternative",
                 "pos": "adjective",
                 "vi": "thay thế",
-                "phonetic": "/ɔlˈtərnət̮ɪv/",
+                "phonetic": "ɔlˈtərnət̮ɪv",
                 "example": {
                     "en": "The opposition parties have so far failed to set out an alternative strategy.",
                     "vi": "Các đảng đối lập cho đến nay vẫn thất bại trong việc đề ra một chiến lược thay thế."
@@ -3722,7 +3722,7 @@
                 "word": "always",
                 "pos": "adverb",
                 "vi": "luôn",
-                "phonetic": "/ˈɔlweɪz/",
+                "phonetic": "ˈɔlweɪz",
                 "example": {
                     "en": "There is always some pollution in the air.",
                     "vi": "Luôn có một số ô nhiễm trong không khí."
@@ -3737,14 +3737,14 @@
                 "word": "fossil fuel",
                 "pos": "noun",
                 "vi": "nhiên liệu hoá thạch",
-                "phonetic": "/ˈfɑsl ˈfjuəl/",
+                "phonetic": "ˈfɑsl ˈfjuəl",
                 "example": {
                     "en": "In recent times, agriculture has become a major fossil fuel energy user.",
                     "vi": "Trong thời gian gần đây, nông nghiệp đã trở thành một nước sử dụng năng lượng nhiên liệu hóa thạch lớn."
                 },
                 "definition": {
-                    "en": "gas, coal, and oil, that were formed underground from plant and animal remains millions of years ago",
-                    "vi": "khí đốt, than đá và dầu mỏ, được hình thành dưới lòng đất từ ​​xác động thực vật hàng triệu năm trước"
+                    "en": "gas, coal, and oil, that were formed underground from plant and animal remains millions of years ago",
+                    "vi": "khí đốt, than đá và dầu mỏ, được hình thành dưới lòng đất từ xác động thực vật hàng triệu năm trước"
                 }
             },
             {
@@ -3752,7 +3752,7 @@
                 "word": "never",
                 "pos": "adverb",
                 "vi": "không bao giờ",
-                "phonetic": "/ˈnɛvər",
+                "phonetic": "ˈnɛvər",
                 "example": {
                     "en": "I shall never forget this day",
                     "vi": "Tôi sẽ không bao giờ quên ngày này"
@@ -3767,7 +3767,7 @@
                 "word": "often",
                 "pos": "adverb",
                 "vi": "thường",
-                "phonetic": "/ˈɔfn/",
+                "phonetic": "ˈɔfn",
                 "example": {
                     "en": "We often met over a cup of coffee.",
                     "vi": "Chúng tôi thường gặp nhau bên tách cà phê."
@@ -3782,7 +3782,7 @@
                 "word": "source",
                 "pos": "noun",
                 "vi": "nguồn",
-                "phonetic": "/sɔrs, soʊrs/",
+                "phonetic": "sɔrs, soʊrs",
                 "example": {
                     "en": "His wife was a constant source of inspiration to him.",
                     "vi": "Vợ anh luôn là nguồn cảm hứng cho anh."
@@ -3797,7 +3797,7 @@
                 "word": "transport",
                 "pos": "noun",
                 "vi": "chuyên chở",
-                "phonetic": "/ˈtræns·pɔrt, -poʊrt/",
+                "phonetic": "ˈtræns·pɔrt, -poʊrt",
                 "example": {
                     "en": "I had to arrange for transport to get to my new assignment.",
                     "vi": "Tôi phải thu xếp phương tiện đi lại để đến nhiệm vụ mới."
@@ -3812,13 +3812,13 @@
                 "word": "solar power",
                 "pos": "noun",
                 "vi": "năng lượng mặt trời",
-                "phonetic": "/ˌsoʊ.lɚ ˈpaʊ.ɚ/",
+                "phonetic": "ˌsoʊ.lɚ ˈpaʊ.ɚ",
                 "example": {
                     "en": "Solar power is now being used in place of electricity.",
                     "vi": "Năng lượng mặt trời hiện đang được sử dụng thay thế cho điện năng."
                 },
                 "definition": {
-                    "en": "→  solar energy",
+                    "en": "→  solar energy",
                     "vi": "→ năng lượng mặt trời"
                 }
             },
@@ -3827,7 +3827,7 @@
                 "word": "nuclear power",
                 "pos": "noun",
                 "vi": "điện hạt nhân",
-                "phonetic": "N UW K L IY ER ˈpɑʊ·ər",
+                "phonetic": "ˈnukliər ˈpaʊər",
                 "example": {
                     "en": "Uranium is also important to the development of nuclear power in an advanced civilization",
                     "vi": "Uranium cũng rất quan trọng đối với sự phát triển của năng lượng hạt nhân trong một nền văn minh tiên tiến"
@@ -3923,7 +3923,7 @@
                 "word": "pleasant",
                 "pos": "adjective",
                 "vi": "hài lòng",
-                "phonetic": "/ˈplɛznt/",
+                "phonetic": "ˈplɛznt",
                 "example": {
                     "en": "It was pleasant to sit down after standing for hours.",
                     "vi": "Thật dễ chịu khi ngồi xuống sau khi đứng hàng giờ."
@@ -3938,7 +3938,7 @@
                 "word": "pollution",
                 "pos": "noun",
                 "vi": "sự ô nhiễm",
-                "phonetic": "/pəˈluʃn/",
+                "phonetic": "pəˈluʃn",
                 "example": {
                     "en": "The company claims it is not responsible for the pollution in the river.",
                     "vi": "Công ty tuyên bố họ không chịu trách nhiệm về tình trạng ô nhiễm trên dòng sông."
@@ -3953,7 +3953,7 @@
                 "word": "technology",
                 "pos": "noun",
                 "vi": "công nghệ",
-                "phonetic": "/tɛkˈnɑlədʒi/",
+                "phonetic": "tɛkˈnɑlədʒi",
                 "example": {
                     "en": "The mastery of fire was a huge advance in human technology.",
                     "vi": "Việc làm chủ được lửa là một bước tiến vượt bậc trong công nghệ của con người."
@@ -3968,7 +3968,7 @@
                 "word": "traffic jam",
                 "pos": "noun",
                 "vi": "ùn tắc giao thông",
-                "phonetic": "/ˈtræfɪk dʒæm/",
+                "phonetic": "ˈtræfɪk dʒæm",
                 "example": {
                     "en": "I was stuck in a traffic jam for an hour yesterday.",
                     "vi": "Tôi đã bị kẹt xe trong một giờ ngày hôm qua."
@@ -3983,7 +3983,7 @@
                 "word": "eco-friendly",
                 "pos": "adjective",
                 "vi": "thân thiện với môi trường",
-                "phonetic": "/ˈikoʊ ˈfrɛndli/",
+                "phonetic": "ˈikoʊ ˈfrɛndli",
                 "example": {
                     "en": "We should take advantage of the positive features of rail transport, which is a very eco-friendly form of transport.",
                     "vi": "Chúng ta nên tận dụng những tính năng tích cực của vận tải đường sắt, đây là hình thức vận tải rất thân thiện với môi trường."
@@ -3998,7 +3998,7 @@
                 "word": "crash",
                 "pos": "noun",
                 "vi": "tai nạn",
-                "phonetic": "/kræʃ/",
+                "phonetic": "kræʃ",
                 "example": {
                     "en": "The plane crashed into a mountainside.",
                     "vi": "Máy bay lao xuống sườn núi."
@@ -4013,7 +4013,7 @@
                 "word": "float",
                 "pos": "verb",
                 "vi": "trôi nổi",
-                "phonetic": "/floʊt/",
+                "phonetic": "floʊt",
                 "example": {
                     "en": "An empty bottle will float.",
                     "vi": "Một chai rỗng sẽ nổi."
@@ -4028,7 +4028,7 @@
                 "word": "fuel",
                 "pos": "noun",
                 "vi": "nhiên liệu",
-                "phonetic": "/ˈfjuəl/",
+                "phonetic": "ˈfjuəl",
                 "example": {
                     "en": "They developed alternative fuels for aircraft.",
                     "vi": "Họ đã phát triển nhiên liệu thay thế cho máy bay."
@@ -4043,7 +4043,7 @@
                 "word": "pedal",
                 "pos": "noun",
                 "vi": "bàn đạp",
-                "phonetic": "/ˈpɛdl/",
+                "phonetic": "ˈpɛdl",
                 "example": {
                     "en": "This sewing machine is operated by a foot pedal.",
                     "vi": "Máy khâu này được vận hành bằng bàn đạp chân."
@@ -4058,7 +4058,7 @@
                 "word": "safety",
                 "pos": "noun",
                 "vi": "sự an toàn",
-                "phonetic": "/ˈseɪf·ti/",
+                "phonetic": "ˈseɪf·ti",
                 "example": {
                     "en": "For your safety, keep your seat belt securely fastened.",
                     "vi": "Để đảm bảo an toàn, hãy thắt chặt dây an toàn."
@@ -4148,7 +4148,7 @@
                 "word": "metro",
                 "pos": "noun",
                 "vi": "tàu điện ngầm",
-                "phonetic": "/ ˈme·troʊ/",
+                "phonetic": "ˈme·troʊ",
                 "example": {
                     "en": "Let's go by Metro.",
                     "vi": "Hãy đi bằng tàu điện ngầm."
@@ -4199,7 +4199,7 @@
                 "word": "poverty",
                 "pos": "noun",
                 "vi": "nghèo",
-                "phonetic": "/ˈpɑvərt̮i/",
+                "phonetic": "ˈpɑvərt̮i",
                 "example": {
                     "en": "Helping to alleviate poverty in developing countries also helps to reduce environmental destruction.",
                     "vi": "Giúp xóa đói giảm nghèo ở các nước đang phát triển cũng giúp giảm tàn phá môi trường."
@@ -4214,7 +4214,7 @@
                 "word": "slum",
                 "pos": "noun",
                 "vi": "khu ổ chuột",
-                "phonetic": "/slʌm/",
+                "phonetic": "slʌm",
                 "example": {
                     "en": "She was brought up in the slums of Lima.",
                     "vi": "Cô được nuôi dưỡng trong khu ổ chuột ở Lima."
@@ -4229,7 +4229,7 @@
                 "word": "space",
                 "pos": "noun",
                 "vi": "khoảng trống",
-                "phonetic": "/speɪs/",
+                "phonetic": "speɪs",
                 "example": {
                     "en": "Is there any space for my clothes in that cupboard?",
                     "vi": "Có chỗ nào cho quần áo của tôi trong tủ đó không?"
@@ -4244,7 +4244,7 @@
                 "word": "megacity",
                 "pos": "noun",
                 "vi": "siêu đô thị",
-                "phonetic": "/ˈmeɡəˌsɪti/",
+                "phonetic": "ˈmeɡəˌsɪti",
                 "example": {
                     "en": "Lagos is a mega-city that now stretches over roughly 300 square kilometres.",
                     "vi": "Lagos là một thành phố lớn hiện nay trải dài trên khoảng 300 km vuông."
@@ -4259,7 +4259,7 @@
                 "word": "block",
                 "pos": "verb",
                 "vi": "khối",
-                "phonetic": "/blɑk/",
+                "phonetic": "blɑk",
                 "example": {
                     "en": "After today's heavy snow, many roads are still blocked.",
                     "vi": "Sau trận tuyết lớn hôm nay, nhiều tuyến đường vẫn bị phong tỏa."
@@ -4274,13 +4274,13 @@
                 "word": "cheat",
                 "pos": "verb",
                 "vi": "gian lận",
-                "phonetic": "/tʃit/",
+                "phonetic": "tʃit",
                 "example": {
                     "en": "Ưe were cheated by their clever-sounding scheme.",
                     "vi": "Đã bị lừa bởi kế hoạch nghe có vẻ thông minh của họ."
                 },
                 "definition": {
-                    "en": "to behave in a dishonest way in order to get what you want, especially in a game, a competition, an exam, etc.",
+                    "en": "to behave in a dishonest way in order to get what you want, especially in a game, a competition, an exam, etc.",
                     "vi": "cư xử một cách thiếu trung thực để đạt được những gì bạn muốn, đặc biệt là trong một trò chơi, một cuộc thi, một kỳ thi, v.v."
                 }
             },
@@ -4289,13 +4289,13 @@
                 "word": "affect",
                 "pos": "verb",
                 "vi": "có ảnh hưởng đến",
-                "phonetic": "/əˈfɛkt/",
+                "phonetic": "əˈfɛkt",
                 "example": {
                     "en": "This new ruling affects your business.",
                     "vi": "Phán quyết mới này ảnh hưởng đến hoạt động kinh doanh của bạn."
                 },
                 "definition": {
-                    "en": "to have an influence on someone or something, or to cause a change in someone or something",
+                    "en": "to have an influence on someone or something, or to cause a change in someone or something",
                     "vi": "có ảnh hưởng đến ai đó hoặc điều gì đó hoặc gây ra sự thay đổi đối với ai đó hoặc điều gì đó"
                 }
             },
@@ -4304,7 +4304,7 @@
                 "word": "crime",
                 "pos": "noun",
                 "vi": "tội ác",
-                "phonetic": "/kraɪm/",
+                "phonetic": "kraɪm",
                 "example": {
                     "en": "He has admitted committing several crimes, including fraud.",
                     "vi": "Anh ta đã thừa nhận phạm một số tội, bao gồm cả gian lận."
@@ -4319,7 +4319,7 @@
                 "word": "criminal",
                 "pos": "noun",
                 "vi": "tội phạm",
-                "phonetic": "/ˈkrɪmənl/",
+                "phonetic": "ˈkrɪmənl",
                 "example": {
                     "en": "Today's problem child may be tomorrow's criminal.",
                     "vi": "Đứa trẻ có vấn đề hôm nay có thể là tội phạm của ngày mai."
@@ -4334,7 +4334,7 @@
                 "word": "density",
                 "pos": "noun",
                 "vi": "Tỉ trọng",
-                "phonetic": "/ˈdɛnsət̮i/",
+                "phonetic": "ˈdɛnsət̮i",
                 "example": {
                     "en": "We were unable to move because of the density of the crowd.",
                     "vi": "Chúng tôi đã không thể di chuyển vì mật độ của đám đông."
@@ -4349,7 +4349,7 @@
                 "word": "diverse",
                 "pos": "adjective",
                 "vi": "đa dạng",
-                "phonetic": "/ˈdɑɪ·vɜrs/",
+                "phonetic": "ˈdɑɪ·vɜrs",
                 "example": {
                     "en": "Students from countries as diverse as Colombia and Lithuania use Cambridge textbooks.",
                     "vi": "Học sinh từ các quốc gia đa dạng như Colombia và Lithuania sử dụng sách giáo khoa của Cambridge."
@@ -4364,7 +4364,7 @@
                 "word": "effect",
                 "pos": "noun",
                 "vi": "hiệu ứng",
-                "phonetic": "/ ɪˈfɛkt/",
+                "phonetic": "ɪˈfɛkt",
                 "example": {
                     "en": "I think I'm suffering from the effects of too little sleep.",
                     "vi": "Tôi nghĩ mình đang bị ảnh hưởng của việc ngủ quá ít."
@@ -4379,7 +4379,7 @@
                 "word": "hunger",
                 "pos": "noun",
                 "vi": "nạn đói",
-                "phonetic": "/ˈhʌŋ·ɡər/",
+                "phonetic": "ˈhʌŋ·ɡər",
                 "example": {
                     "en": "All over the world, people die of hunger every day.",
                     "vi": "Trên khắp thế giới, người ta chết vì đói mỗi ngày."
@@ -4394,7 +4394,7 @@
                 "word": "major",
                 "pos": "adjective",
                 "vi": "Lớn, chủ yếu",
-                "phonetic": "/ˈmeɪdʒər/",
+                "phonetic": "ˈmeɪdʒər",
                 "example": {
                     "en": "All of her major plays have been translated into English.",
                     "vi": "Tất cả các vở kịch chính của cô đã được dịch sang tiếng Anh."
@@ -4409,7 +4409,7 @@
                 "word": "malnutrition",
                 "pos": "noun",
                 "vi": "suy dinh dưỡng",
-                "phonetic": "/ˌmælnuˈtrɪʃn/",
+                "phonetic": "ˌmælnuˈtrɪʃn",
                 "example": {
                     "en": "Many of the refugees are suffering from severe malnutrition.",
                     "vi": "Nhiều người trong số những người tị nạn đang bị suy dinh dưỡng nghiêm trọng."
@@ -4424,13 +4424,13 @@
                 "word": "overcrowded",
                 "pos": "adjective",
                 "vi": "quá đông",
-                "phonetic": "/ˌoʊvərˈkraʊdəd/",
+                "phonetic": "ˌoʊvərˈkraʊdəd",
                 "example": {
                     "en": "Then as now, overcrowded conditions and poor nutrition can increase the risk of developing the illness.",
                     "vi": "Và như bây giờ, điều kiện quá đông đúc và dinh dưỡng kém có thể làm tăng nguy cơ phát bệnh."
                 },
                 "definition": {
-                    "en": "containing too many people or things",
+                    "en": "containing too many people or things",
                     "vi": "chứa quá nhiều người hoặc nhiều thứ"
                 }
             },
@@ -4439,7 +4439,7 @@
                 "word": "spacious",
                 "pos": "adjective",
                 "vi": "rộng rãi",
-                "phonetic": "/'speɪʃəs/",
+                "phonetic": "'speɪʃəs",
                 "example": {
                     "en": "A spacious house is comfortable.",
                     "vi": "Nhà rộng rãi thoải mái."
